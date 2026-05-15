@@ -1,6 +1,2090 @@
 {
-  "verbal_1": [],
-  "verbal_2": [],
-  "verbal_3": [],
-  "verbal_4": []
+  "verbal_1": [
+    {
+      "el": {
+        "passage": "1. Ο ψηφιακός μετασχηματισμός της οικονομίας της ΕΕ αναδιαμορφώνει τις βιομηχανίες, τη διακυβέρνηση και την καθημερινή ζωή. Με οδηγό τη στρατηγική της «Ψηφιακής Δεκαετίας», η ΕΕ στοχεύει το 80% των ενηλίκων να διαθέτει ψηφιακές δεξιότητες και το 75% των επιχειρήσεων της ΕΕ να χρησιμοποιεί cloud, τεχνητή νοημοσύνη (AI) ή μαζικά δεδομένα (big data) έως το 2030. Οι επενδύσεις μέσω του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας (RRF) ιεραρχούν τις ψηφιακές υποδομές, την ηλεκτρονική διακυβέρνηση και την κυβερνοασφάλεια. Η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA) και η Πράξη για τις Ψηφιακές Αγορές (DMA) διασφαλίζουν τον θεμιτό ανταγωνισμό και τη λογοδοσία στο διαδίκτυο.",
+        "question": "Ποιος είναι ένας από τους βασικούς στόχους της στρατηγικής της Ψηφιακής Δεκαετίας της ΕΕ έως το 2030;",
+        "options": [
+          "Πλήρης αυτοματοποίηση όλων των δημόσιων υπηρεσιών",
+          "Επίτευξη ουδετερότητας άνθρακα στις ψηφιακές τεχνολογίες",
+          "Το 80% των ενηλίκων να αποκτήσει βασικές ψηφιακές δεξιότητες",
+          "Αντικατάσταση των εθνικών νομισμάτων με ψηφιακά ευρώ"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι «η ΕΕ στοχεύει το 80% των ενηλίκων να διαθέτει ψηφιακές δεξιότητες έως το 2030»."
+      },
+      "en": {
+        "passage": "1. The digital transformation of the EU economy is reshaping industries, governance, and daily life. Driven by the Digital Decade strategy, the EU aims for 80% of adults to have digital skills and for 75% of EU businesses to use cloud, AI, or big data by 2030. Investments via the Recovery and Resilience Facility (RRF) prioritize digital infrastructures, e-governance, and cybersecurity. The Digital Services Act and Digital Markets Act ensure fair competition and accountability online. Meanwhile, the EU champions digital sovereignty, reducing dependence on non-EU tech giants.",
+        "question": "What is one of the key goals of the EU's Digital Decade strategy by 2030?",
+        "options": [
+          "Full automation of all public services",
+          "Achieving carbon neutrality in digital technologies",
+          "80% of adults acquiring basic digital skills",
+          "Replacing national currencies with digital euros"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that \"the EU aims for 80% of adults to have digital skills by 2030.\""
+      }
+    },
+    {
+      "el": {
+        "passage": "2. Οι υποστηρικτές της δράσης της ΕΕ για το κλίμα υποστηρίζουν ότι οι φιλόδοξες πολιτικές, όπως η Ευρωπαϊκή Πράσινη Συμφωνία, είναι ζωτικής σημασίας για τη μακροπρόθεσμη βιωσιμότητα, την ενεργειακή ανεξαρτησία και την παγκόσμια ηγετική θέση. Τονίζουν ότι οι επενδύσεις στις ανανεώσιμες πηγές ενέργειας, την κυκλική οικονομία και την πράσινη καινοτομία δημιουργούν θέσεις εργασίας και μειώνουν τις εκπομπές. Οι επικριτές, ωστόσο, προειδοποιούν για οικονομικές διαταραχές, αυξημένο κόστος για τα νοικοκυριά και τις βιομηχανίες, και δυσανάλογες επιπτώσεις σε φτωχότερες περιοχές και τομείς όπως η γεωργία ή η βαριά βιομηχανία.",
+        "question": "Ποιο είναι το βασικό επιχείρημα που χρησιμοποιούν οι επικριτές των φιλόδοξων μέτρων της ΕΕ για το κλίμα;",
+        "options": [
+          "Η κλιματική αλλαγή δεν επηρεάζει σημαντικά την Ευρώπη",
+          "Οι πράσινες τεχνολογίες έχουν ήδη εφαρμοστεί πλήρως",
+          "Η μετάβαση ενδέχεται να επηρεάσει δυσανάλογα τους ευάλωτους τομείς",
+          "Τα ορυκτά καύσιμα είναι πιο βιώσιμα μακροπρόθεσμα"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές «προειδοποιούν για... δυσανάλογες επιπτώσεις σε φτωχότερες περιοχές και τομείς»."
+      },
+      "en": {
+        "passage": "2. Proponents of EU climate action argue that ambitious policies like the European Green Deal are vital for long-term sustainability, energy independence, and global leadership. They emphasize that investments in renewable energy, circular economy, and green innovation create jobs and lower emissions. Critics, however, warn of economic disruptions, increased costs for households and industries, and disproportionate impacts on poorer regions and sectors like agriculture or heavy industry. They call for a more gradual transition, greater flexibility for member states, and safeguards for competitiveness.",
+        "question": "What is a key argument used by opponents of ambitious EU climate measures?",
+        "options": [
+          "Climate change does not affect Europe significantly",
+          "Green technologies are already fully implemented",
+          "The transition may disproportionately impact vulnerable sectors",
+          "Fossil fuels are more sustainable in the long run"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly says opponents warn of disproportionate impacts on poorer regions and sectors."
+      }
+    },
+    {
+      "el": {
+        "passage": "3. Από την έναρξη ισχύος του το 2018, ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR) οδήγησε σε κατακόρυφη αύξηση της επιβολής της ιδιωτικότητας σε όλη την ΕΕ. Έως το 2024, είχαν εκδοθεί περισσότερα από 2.000 πρόστιμα, συνολικού ύψους άνω των 4,5 δισεκατομμυρίων ευρώ. Μεγάλες εταιρείες τεχνολογίας —Meta, Amazon, Google— αντιμετώπισαν μερικές από τις υψηλότερες ποινές, συχνά λόγω έλλειψης συγκατάθεσης των χρηστών, κακής διαχείρισης δεδομένων ή αδιαφανούς κατάρτισης προφίλ. Οι εθνικές αρχές προστασίας δεδομένων (DPA), ιδιαίτερα στην Ιρλανδία και τη Γαλλία, διαδραματίζουν βασικό ρόλο στην επιβολή.",
+        "question": "Από το 2024, ποια από τις ακόλουθες δηλώσεις αντικατοπτρίζει με ακρίβεια τις τάσεις επιβολής του GDPR;",
+        "options": [
+          "Τα συνολικά πρόστιμα που εκδόθηκαν βάσει του GDPR ανήλθαν σε περίπου 450 εκατομμύρια ευρώ",
+          "Η πλειονότητα των προστίμων δεν σχετιζόταν με μεγάλες εταιρείες τεχνολογίας",
+          "Το μέσο πρόστιμο του GDPR υπερέβη τα 2,5 εκατομμύρια ευρώ",
+          "Ορισμένες εθνικές αρχές προστασίας δεδομένων διαδραμάτισαν καθοριστικό ρόλο στην επιβολή"
+        ],
+        "answer": 3,
+        "explanation": "Οι εθνικές αρχές, όπως της Ιρλανδίας και της Γαλλίας, αναφέρονται ως παίκτες-κλειδιά στην επιβολή."
+      },
+      "en": {
+        "passage": "3. Since its enforcement in 2018, the General Data Protection Regulation (GDPR) has led to a surge in privacy enforcement across the EU. By 2024, more than 2,000 fines had been issued, totaling over €4.5 billion. Major tech companies—Meta, Amazon, Google—faced some of the highest penalties, often due to lack of user consent, data mishandling, or opaque profiling. National data protection authorities (DPAs), particularly in Ireland and France, play a key role in enforcement.",
+        "question": "As of 2024, which of the following statements accurately reflects GDPR enforcement trends?",
+        "options": [
+          "Total fines issued under GDPR amounted to approximately €450 million",
+          "The majority of fines were unrelated to large tech companies",
+          "The average GDPR fine exceeded €2.5 million",
+          "Some national data protection authorities have played a pivotal role in enforcement and fine collection"
+        ],
+        "answer": 3,
+        "explanation": "National authorities (DPAs) in countries like Ireland and France play a central role in enforcement."
+      }
+    },
+    {
+      "el": {
+        "passage": "4. Η Διαδικασία Διαβούλευσης της ΕΕ: Πριν από τη σύνταξη νέας νομοθεσίας, η Ευρωπαϊκή Επιτροπή ξεκινά συχνά μια διαδικασία διαβούλευσης, ζητώντας τη γνώμη πολιτών, ενδιαφερόμενων μερών, ΜΚΟ και εθνικών αρχών. Αυτή η συμμετοχική φάση διασφαλίζει ότι λαμβάνονται υπόψη ποικίλες προοπτικές από νωρίς, βελτιώνοντας τη συνάφεια και την αποτελεσματικότητα των προτεινόμενων νόμων.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις συνοψίζει καλύτερα τον σκοπό της διαδικασίας διαβούλευσης της ΕΕ;",
+        "options": [
+          "Η επιβολή της συμμόρφωσης με τη νομοθεσία της ΕΕ στα κράτη μέλη.",
+          "Η διασφάλιση ότι μόνο νομικοί εμπειρογνώμονες συμβάλλουν στη σύνταξη των νόμων της ΕΕ.",
+          "Η συλλογή ευρείας συμμετοχής που μπορεί να βελτιώσει την ποιότητα και την αποδοχή της νέας νομοθεσίας.",
+          "Η διενέργεια εσωτερικών ελέγχων εντός της Ευρωπαϊκής Επιτροπής μετά την ψήφιση των νόμων."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο δίνει έμφαση στη συμμετοχή και τη βελτίωση της αποτελεσματικότητας μέσω διαφορετικών απόψεων."
+      },
+      "en": {
+        "passage": "4. The EU Consultation Process: Before drafting new legislation, the European Commission often launches a consultation process, seeking input from citizens, stakeholders, NGOs, and national authorities. This participatory phase ensures that diverse perspectives are considered early on, improving the relevance and effectiveness of proposed laws.",
+        "question": "Which of the following statements best summarizes the purpose of the EU consultation process?",
+        "options": [
+          "To enforce compliance with EU legislation among member states.",
+          "To ensure only legal experts contribute to the drafting of EU laws.",
+          "To gather broad input that can improve the quality and acceptance of new legislation.",
+          "To conduct internal reviews within the European Commission after laws are passed."
+        ],
+        "answer": 2,
+        "explanation": "Consultations make laws more legitimate by integrating varied societal perspectives."
+      }
+    },
+    {
+      "el": {
+        "passage": "5. Η Τεχνητή Νοημοσύνη (AI) αναμένεται να μεταμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας, δημιουργώντας ζήτηση για νέες ψηφιακές δεξιότητες και αναδιαμορφώνοντας τα προφίλ των θέσεων εργασίας σε όλους τους τομείς. Οι εκτιμήσεις δείχνουν ότι το 14–25% των σημερινών θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στις μεταφορές, τη μεταποίηση και τις διοικητικές υπηρεσίες.",
+        "question": "Ποιος τομέας στην ΕΕ θεωρείται πιο ευάλωτος στην αυτοματοποίηση θέσεων εργασίας λόγω AI;",
+        "options": [
+          "Υγειονομική περίθαλψη",
+          "Δημιουργικές τέχνες",
+          "Διοικητικές υπηρεσίες",
+          "Μηχανική ανανεώσιμων πηγών ενέργειας"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι οι διοικητικές υπηρεσίες αντιμετωπίζουν υψηλό κίνδυνο."
+      },
+      "en": {
+        "passage": "5. Artificial Intelligence (AI) is expected to transform the EU labour market by automating routine tasks, creating demand for new digital skills, and reshaping job profiles across sectors. Estimates suggest that 14–25% of current jobs are at high risk of automation, particularly in transport, manufacturing, and administrative services.",
+        "question": "Which sector in the EU is considered most vulnerable to AI-driven job automation?",
+        "options": [
+          "Healthcare",
+          "Creative arts",
+          "Administrative services",
+          "Renewable energy engineering"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly mentions administrative services as being at high risk."
+      }
+    },
+    {
+      "el": {
+        "passage": "6. Η Ευρωπαϊκή Επιτροπή δρομολόγησε πρόσφατα μια πρωτοβουλία με στόχο τη μείωση της σπατάλης τροφίμων στα κράτη μέλη. Αν και η πρωτοβουλία δεν επιβάλλει δεσμευτικούς στόχους, ενθαρρύνει εθελοντικές δεσμεύσεις από λιανοπωλητές, εστιατόρια και νοικοκυριά. Ορισμένοι επικριτές, ωστόσο, υποστηρίζουν ότι χωρίς εκτελεστά μέτρα, η πρόοδος θα είναι αργή και άνιση μεταξύ των κρατών μελών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Η ΕΕ κατέστησε υποχρεωτική τη μείωση της σπατάλης τροφίμων για τα νοικοκυριά",
+          "Οι επικριτές πιστεύουν ότι οι εθελοντικές δεσμεύσεις ενδέχεται να μην οδηγήσουν σε σταθερή πρόοδο.",
+          "Η κύρια ανησυχία της πρωτοβουλίας είναι η μείωση των απορριμμάτων συσκευασίας.",
+          "Η σπατάλη τροφίμων έχει μειωθεί σημαντικά σε χώρες με υψηλή επισιτιστική ανασφάλεια."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές θεωρούν πως χωρίς αναγκαστικά μέτρα, η πρόοδος θα είναι αργή."
+      },
+      "en": {
+        "passage": "6. The European Commission recently launched an initiative aimed at reducing food waste across member states. Although the initiative does not mandate binding targets, it encourages voluntary commitments from retailers, restaurants, and households. Some critics, however, contend that without enforceable measures, progress will be slow and uneven across member states.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EU has made it mandatory for households to reduce food waste",
+          "Critics believe voluntary commitments may not lead to consistent progress.",
+          "The primary concern of the initiative is reducing packaging waste.",
+          "Food waste has significantly declined in countries with high food insecurity."
+        ],
+        "answer": 1,
+        "explanation": "Critics express doubt about the effectiveness of non-enforceable (voluntary) measures."
+      }
+    },
+    {
+      "el": {
+        "passage": "7. Ο Καρλομάγνος, γνωστός και ως Κάρολος ο Μέγας, κυβέρνησε μεγάλο μέρος της Δυτικής Ευρώπης από το 768 έως το 814. Στέφθηκε Αυτοκράτορας των Ρωμαίων το έτος 800 από τον Πάπα Λέοντα Γ΄.",
+        "question": "Ποιο έτος στέφθηκε ο Καρλομάγνος Αυτοκράτορας των Ρωμαίων;",
+        "options": [
+          "476",
+          "800",
+          "1066",
+          "843"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά τη στέψη του το έτος 800."
+      },
+      "en": {
+        "passage": "7. Charlemagne, also known as Charles the Great, ruled much of Western Europe from 768 to 814. He was crowned Emperor of the Romans in the year 800 by Pope Leo III.",
+        "question": "In what year was Charlemagne crowned Emperor of the Romans?",
+        "options": [
+          "476",
+          "800",
+          "1066",
+          "843"
+        ],
+        "answer": 1,
+        "explanation": "The passage explicitly states he was crowned in the year 800."
+      }
+    },
+    {
+      "el": {
+        "passage": "8. Μια πρόσφατη έκθεση του Ευρωπαϊκού Οργανισμού Περιβάλλοντος (ΕΟΠ) υπογραμμίζει τον άνισο ρυθμό υιοθέτησης της πράσινης τεχνολογίας στα κράτη μέλη. Ενώ οι βόρειες και δυτικές χώρες έχουν ενσωματώσει γρήγορα ανανεώσιμες πηγές ενέργειας και ηλεκτρικές μεταφορές, αρκετές νότιες και ανατολικές χώρες υστερούν λόγω υποδομών και οικονομικών περιορισμών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Ο ΕΟΠ πρότεινε νέους μηχανισμούς χρηματοδότησης για την πράσινη τεχνολογία.",
+          "Οι οικονομικές προκλήσεις είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση πράσινης τεχνολογίας.",
+          "Οι βόρειες και δυτικές χώρες της ΕΕ έχουν μεταβεί πλήρως στις ηλεκτρικές μεταφορές.",
+          "Ο ΕΟΠ συνιστά κυρώσεις για τις χώρες που αποτυγχάνουν."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι νότιες και ανατολικές χώρες υστερούν λόγω «υποδομών και οικονομικών περιορισμών»."
+      },
+      "en": {
+        "passage": "8. A recent report by the European Environment Agency (EEA) highlights the uneven pace of green technology adoption across EU member states. While northern and western countries have rapidly integrated renewable energy and electric transport, several southern and eastern countries lag behind due to infrastructural and economic constraints.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EEA has proposed new funding mechanisms for green tech.",
+          "Economic challenges are among the reasons for slower green tech adoption in some parts of the EU.",
+          "Northern and western EU countries have fully transitioned to electric transport.",
+          "The EEA recommends penalties for countries failing to adopt green technology."
+        ],
+        "answer": 1,
+        "explanation": "The passage explicitly links the lag in adoption to economic and infrastructure constraints."
+      }
+    },
+    {
+      "el": {
+        "passage": "9. Οι Θρησκευτικοί Πόλεμοι στην Ευρώπη (16ος–17ος αιώνας) αντανακλούσαν μια πτητική σύντηξη θεολογικών αποκλίσεων και πολιτικού καιροσκοπισμού. Με έναυσμα την Προτεσταντική Μεταρρύθμιση, συγκρούσεις όπως ο Τριακονταετής Πόλεμος έγιναν λιγότερο θέμα δόγματος και περισσότερο θέμα ισορροπίας ισχύος.",
+        "question": "Ποιο από τα παρακάτω εξηγεί καλύτερα γιατί ο Τριακονταετής Πόλεμος εξελίχθηκε πέρα από μια καθαρά θρησκευτική σύγκρουση;",
+        "options": [
+          "Ο Προτεσταντισμός έπαψε να αποτελεί απειλή για την καθολική κυριαρχία",
+          "Τα εσωτερικά σχίσματα στην Καθολική Εκκλησία εξασθένησαν την επιρροή της",
+          "Τα κοσμικά συμφέροντα, όπως οι εδαφικές φιλοδοξίες, διαμόρφωσαν όλο και περισσότερο τις συμμαχίες",
+          "Ο παπισμός ανέκτησε τον έλεγχο επί των κοσμικών ηγεμόνων"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι οι συγκρούσεις έγιναν θέμα ισορροπίας ισχύος μεταξύ κρατών."
+      },
+      "en": {
+        "passage": "9. The Wars of Religion in Europe (16th–17th centuries) reflected a volatile fusion of theological divergence and political opportunism. Triggered by the Protestant Reformation, conflicts like the Thirty Years' War became less about dogma and more about the balance of power, particularly between the Habsburgs, France, and emerging Protestant states.",
+        "question": "Which of the following best explains why the Thirty Years' War evolved beyond purely religious conflict?",
+        "options": [
+          "Protestantism ceased to be a threat to Catholic dominance",
+          "Internal schisms within the Catholic Church weakened its influence",
+          "Secular interests, such as territorial ambition, increasingly shaped alliances",
+          "The papacy regained control over secular rulers"
+        ],
+        "answer": 2,
+        "explanation": "The text notes the conflict became a matter of the 'balance of power' between competing states."
+      }
+    },
+    {
+      "el": {
+        "passage": "10. Σε πρόσφατη ομιλία της, η Πρόεδρος της Ευρωπαϊκής Κεντρικής Τράπεζας τόνισε τη σημασία των ψηφιακών νομισμάτων. Αναγνωρίζοντας τους κινδύνους κυβερνοεπιθέσεων και τις ανησυχίες για την ιδιωτικότητα, υποστήριξε ότι ένα ψηφιακό ευρώ θα μπορούσε να ενισχύσει την αποτελεσματικότητα. Ορισμένοι αναλυτές, ωστόσο, προειδοποιούν ότι εάν εφαρμοστεί εσφαλμένα, μια τέτοια κίνηση θα μπορούσε να αποσταθεροποιήσει τα παραδοσιακά τραπεζικά συστήματα.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται λιγότερο από το κείμενο;",
+        "options": [
+          "Η ΕΚΤ βλέπει πιθανά πλεονεκτήματα στην εισαγωγή ενός ψηφιακού ευρώ.",
+          "Οι αναλυτές ενέκριναν ομόφωνα τη θέση της ΕΚΤ για τα ψηφιακά νομίσματα.",
+          "Υπάρχουν ανησυχίες σχετικά με τις επιπτώσεις στην ασφάλεια και την ιδιωτικότητα.",
+          "Η ΕΚΤ δεν έχει δεσμευτεί ακόμη για συγκεκριμένη ημερομηνία κυκλοφορίας."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι ορισμένοι αναλυτές προειδοποιούν για κινδύνους, άρα δεν υπάρχει ομοφωνία."
+      },
+      "en": {
+        "passage": "10. In a recent speech, the President of the European Central Bank (ECB) highlighted the importance of digital currencies in the future of European finance. While acknowledging cyber risks and privacy concerns, the President argued that a digital euro could enhance payment efficiency. Some analysts, however, warn that if implemented incorrectly, such a move could destabilize traditional banking systems. No official timeline for the digital euro's launch has been announced.",
+        "question": "Which of the following statements is least supported by the passage?",
+        "options": [
+          "The ECB sees potential advantages in introducing a digital euro.",
+          "Analysts have unanimously endorsed the ECB's position on digital currencies.",
+          "There are concerns regarding the security and privacy implications of a digital euro.",
+          "The ECB has not yet committed to a specific launch date for the digital euro."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions that some analysts warn of potential destabilization, contradicting the idea of unanimous endorsement."
+      }
+    },
+    {
+      "el": {
+        "passage": "11. Η Γαλλική Επανάσταση (1789–1799) αναδιαμόρφωσε θεμελιωδώς τα πολιτικά και κοινωνικά ιδεώδη που στηρίζουν τη σύγχρονη Ευρωπαϊκή Ένωση. Αμφισβητώντας την απολυταρχία και τα φεουδαρχικά προνόμια, προάσπισε την ελευθερία, την ισότητα και τη λαϊκή κυριαρχία.",
+        "question": "Πώς η αρχή της λαϊκής κυριαρχίας αμφισβήτησε θεμελιωδώς τις προϋπάρχουσες πολιτικές τάξεις;",
+        "options": [
+          "Αντικαθιστώντας τη μοναρχική απολυταρχία με τη συμμετοχή των πολιτών ως πηγή πολιτικής νομιμότητας",
+          "Νομιμοποιώντας τη δυναστική εξουσία μέσω θείας επικύρωσης",
+          "Προωθώντας τον κεντρικό αυτοκρατορικό έλεγχο",
+          "Εγκρίνοντας την κληρονομική αριστοκρατία"
+        ],
+        "answer": 0,
+        "explanation": "Λαϊκή κυριαρχία σημαίνει ότι η εξουσία πηγάζει από το λαό, όχι από μονάρχες."
+      },
+      "en": {
+        "passage": "11. The French Revolution (1789–1799) fundamentally reshaped political and social ideals that underpin the modern European Union. By challenging absolutism and feudal privileges, it championed liberty, equality, and popular sovereignty—principles now embedded in EU values.",
+        "question": "How did the principle of popular sovereignty, advanced by the French Revolution, fundamentally challenge pre-existing political orders?",
+        "options": [
+          "By replacing monarchic absolutism with citizen participation as the source of political legitimacy",
+          "By legitimizing dynastic rule through divine sanction",
+          "By promoting centralized imperial control over regional identities",
+          "By endorsing hereditary aristocracy as the core of governance"
+        ],
+        "answer": 0,
+        "explanation": "Popular sovereignty means authority derives from the people, not monarchs."
+      }
+    },
+    {
+      "el": {
+        "passage": "12. Το 2025, η ΕΕ αντιμετωπίζει βασικές προθεσμίες στη μετάβασή της προς την πράσινη κινητικότητα. Η νέα νομοθεσία επιβάλλει μείωση 15% στις μέσες εκπομπές CO2 από νέα επιβατικά αυτοκίνητα σε σύγκριση με το 2021. Οι εκπομπές των οδικών μεταφορών θα ενταχθούν επίσης στο Σύστημα Εμπορίας Εκπομπών της ΕΕ (ETS), απαιτώντας παρακολούθηση.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός της ένταξης των οδικών μεταφορών στο Σύστημα Εμπορίας Εκπομπών της ΕΕ (ETS);",
+        "options": [
+          "Η άμεση κατάργηση όλων των οχημάτων εσωτερικής καύσης",
+          "Η παρακολούθηση και η παροχή κινήτρων για μείωση των εκπομπών μέσω μηχανισμών της αγοράς",
+          "Η επιδότηση των κατασκευαστών αυτοκινήτων",
+          "Η απαλλαγή των ηλεκτρικών οχημάτων"
+        ],
+        "answer": 1,
+        "explanation": "Το ETS χρησιμοποιεί μηχανισμούς αγοράς για να δώσει κίνητρα μείωσης των ρύπων."
+      },
+      "en": {
+        "passage": "12. In 2025, the EU faces key deadlines in its transition to green mobility. New legislation mandates a 15% reduction in average CO2 emissions from new passenger cars. Road transport emissions will also enter the EU Emissions Trading System (ETS), requiring monitoring and reporting.",
+        "question": "What is the primary purpose of integrating road transport into the EU Emissions Trading System (ETS)?",
+        "options": [
+          "To eliminate all combustion engine vehicles immediately",
+          "To monitor and incentivize reductions in transport sector CO2 emissions through market mechanisms",
+          "To subsidize car manufacturers resisting emission targets",
+          "To exempt electric vehicles from environmental regulations"
+        ],
+        "answer": 1,
+        "explanation": "The ETS is a market-based tool that uses price signals rather than immediate bans."
+      }
+    },
+    {
+      "el": {
+        "passage": "13. Τα τελευταία χρόνια, η Ευρωπαϊκή Επιτροπή έχει δώσει έμφαση στη μείωση της περιττής γραφειοκρατίας. Τα μέτρα περιλαμβάνουν τον εξορθολογισμό των διοικητικών διαδικασιών και την απλούστευση των απαιτήσεων υποβολής εκθέσεων. Οι υποστηρικτές υποστηρίζουν ότι τέτοιες μεταρρυθμίσεις επιταχύνουν τη λήψη αποφάσεων, ενώ οι επικριτές προειδοποιούν για κινδύνους στη λογοδοσία.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Οι μεταρρυθμίσεις θα εξαλείψουν όλα τα εμπόδια.",
+          "Οι απλουστευμένες διαδικασίες πιστεύεται ότι βελτιώνουν την αποτελεσματικότητα.",
+          "Οι επικριτές συμφωνούν ομόφωνα για αρνητικές συνέπειες.",
+          "Οι απαιτήσεις υποβολής εκθέσεων παραμένουν περίπλοκες."
+        ],
+        "answer": 1,
+        "explanation": "Η ηγεσία της Επιτροπής θεωρεί πως οι νέες διαδικασίες βελτιώνουν την αποτελεσματικότητα."
+      },
+      "en": {
+        "passage": "13. In recent years, the European Commission has emphasized reducing unnecessary bureaucracy. Measures have included streamlining administrative procedures and simplifying reporting requirements. Advocates assert that such reforms accelerate decision-making, while critics caution that rapid changes risk oversight.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The Commission's reforms will eliminate all bureaucratic hurdles.",
+          "Simplified procedures are believed to improve efficiency and accessibility.",
+          "Critics unanimously agree that reforms have only negative consequences.",
+          "Reporting requirements remain as complicated as before."
+        ],
+        "answer": 1,
+        "explanation": "The passage states that leadership claims the new processes make operations more efficient and accessible."
+      }
+    },
+    {
+      "el": {
+        "passage": "14. Εντός μεγάλων οργανισμών, η αποτελεσματικότητα της ηγεσίας εξετάζεται συχνά μέσω αντικρουόμενων πλαισίων. Ορισμένοι θεωρητικοί υποστηρίζουν ότι οι επιτυχημένοι ηγέτες διακρίνονται από το όραμα. Άλλοι υποστηρίζουν ότι απαιτείται προσαρμοστικότητα. Ωστόσο, πρόσφατες έρευνες δείχνουν ότι οι πιο σεβαστοί ηγέτες ενσωματώνουν και τις δύο προσεγγίσεις.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Οι ηγέτες βασίζονται μόνο στο όραμα.",
+          "Η προσαρμοστικότητα δεν εκτιμάται.",
+          "Η ενσωμάτωση του οράματος με την προσαρμοστικότητα είναι σημαντική.",
+          "Οι κουλτούρες υποστηρίζουν πάντα συνδυασμό στυλ."
+        ],
+        "answer": 2,
+        "explanation": "Οι πιο σεβαστοί ηγέτες συνδυάζουν το όραμα με την προσαρμοστικότητα."
+      },
+      "en": {
+        "passage": "14. Within large organizations, leadership effectiveness is often viewed through competing frameworks. Some theorists argue that successful leaders excel primarily by articulating a compelling vision. Others contend that sustainable leadership requires adaptability. Recent research indicates that the most respected leaders integrate both approaches.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The most respected leaders rely only on charismatic vision.",
+          "Adaptability is hardly valued in large organizations.",
+          "Integrating vision with adaptability is important for respected leadership.",
+          "Institutional cultures always support a combination of leadership styles."
+        ],
+        "answer": 2,
+        "explanation": "The text highlights that respected leaders blend vision with openness to feedback and change."
+      }
+    },
+    {
+      "el": {
+        "passage": "15. Η επιλογή του νέου διευθυντή τμήματος πρέπει να γίνει από την Κεντρική Επιτροπή Αξιολόγησης. Αυτή η επιτροπή είναι η μόνη αρχή που έχει την εξουσία να δώσει την τελική έγκριση για τον διορισμό. Το συμβούλιο του τμήματος μπορεί να υποβάλει υποψηφίους, αλλά η τελική απόφαση δεν ανήκει σε αυτό.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι συνεπής με το κείμενο;",
+        "options": [
+          "Μόνο η επιτροπή μπορεί να δώσει την τελική έγκριση.",
+          "Η επιτροπή δίνει έγκριση μόνο στο συμβούλιο.",
+          "Η επιτροπή δίνει μόνο την τελική έγκριση.",
+          "Το συμβούλιο δίνει τελική έγκριση με συγκατάθεση."
+        ],
+        "answer": 0,
+        "explanation": "Η επιτροπή αναφέρεται ως η «μόνη αρχή» για την έγκριση."
+      },
+      "en": {
+        "passage": "15. The selection of the new department director must be made by the Central Evaluation Committee. This committee is the only authority that has the power to give final approval for the appointment. The department council may submit candidates, but the final decision does not belong to it.",
+        "question": "Which of the following statements is consistent with the passage above?",
+        "options": [
+          "Only the committee can give final approval for the appointment.",
+          "The committee can give final approval only to the council.",
+          "The committee can give only the final approval to the council.",
+          "The council can give final approval, but only with the committee's consent."
+        ],
+        "answer": 0,
+        "explanation": "The passage states the committee is the 'only authority' for final approval."
+      }
+    },
+    {
+      "el": {
+        "passage": "16. Σε αντίθεση με τα κράτη μέλη που υποστηρίζουν την αυστηρή επικουρικότητα, η Ευρωπαϊκή Επιτροπή υποστηρίζει μια πιο συγκεντρωτική προσέγγιση λόγω της διασυνοριακής φύσης των απειλών. Ορισμένα δυτικά κράτη, παραδόξως, αν και έχουν καλές επιδόσεις, απορρίπτουν την περαιτέρω ενοποίηση.",
+        "question": "Ποια δήλωση υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Όλη η Ανατολική Ευρώπη υποστηρίζει την Επιτροπή.",
+          "Το Κοινοβούλιο υποστηρίζει την πλήρη εθνική ευελιξία.",
+          "Ορισμένα δυτικά κράτη με καλές επιδόσεις ανθίστανται στην ενοποίηση.",
+          "Οι επιχειρήσεις θέλουν δεσμευτικούς στόχους."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά την αντίσταση ορισμένων δυτικών κρατών στην ενοποίηση."
+      },
+      "en": {
+        "passage": "16. Contrary to Member States that advocate strict subsidiarity, the European Commission argues for a more centralized legislative approach, citing the transboundary nature of ecological threats. Certain Western European governments, paradoxically, boast stronger environmental records but reject further integration.",
+        "question": "Which of the following statements is best supported by the passage?",
+        "options": [
+          "All Eastern European governments now support the Commission's centralized approach.",
+          "The European Parliament fully endorses national discretion.",
+          "Some Western states with strong environmental records are resistant to further EU-level integration.",
+          "Business associations are in favour of binding EU-wide targets."
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly mentions this paradox regarding certain Western states."
+      }
+    },
+    {
+      "el": {
+        "passage": "17. Η Επιτροπή εισήγαγε μια Στρατηγική Ανοικτών Δεδομένων, στοχεύοντας σε 40 δισ. ευρώ ετησίως. Οι πληροφορίες των δημόσιων διοικήσεων έχουν αξία, όπως δείχνουν το Ηνωμένο Βασίλειο και η Γαλλία.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Η ενίσχυση θα ήταν 200 εκατ. σε 5 έτη.",
+          "Τα δεδομένα ήταν πάντα διαθέσιμα επί πληρωμή.",
+          "Η οικονομική βιωσιμότητα έχει ήδη αποδειχθεί.",
+          "Η στρατηγική απαιτεί νέες τεχνολογίες."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι κράτη όπως το ΗΒ και η Γαλλία δείχνουν ήδη την αξία αυτή."
+      },
+      "en": {
+        "passage": "17. The Commission has introduced an Open Data Strategy for Europe, aiming to add €40 billion annually to the EU's economy. Large amounts of information held by public administrations represent untapped value, as shown by countries like the UK and France.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "The strategy was expected to enhance the EU's economy by €200 million over five years.",
+          "Public data has historically been available to businesses willing to pay.",
+          "The financial viability of the Open Data Strategy has already been proven.",
+          "The strategy cannot be successful without new data-handling technologies."
+        ],
+        "answer": 2,
+        "explanation": "The passage states that the UK and France are already demonstrating this value, proving it is viable."
+      }
+    },
+    {
+      "el": {
+        "passage": "18. Οι καταναλωτές αναζητούν αυθεντικά προϊόντα. Μια γεωγραφική ένδειξη (ΓΕ) προσδιορίζει αγαθά που η ποιότητά τους συνδέεται με την προέλευση. Τα γεωργικά προϊόντα προστατεύονται σε όλη την ΕΕ, αλλά τα μη γεωργικά (π.χ. κεραμικά) δεν έχουν ενιαία προστασία μέχρι σήμερα.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Τα κλωστοϋφαντουργικά προστατεύονται ήδη.",
+          "Οι καταναλωτές αδιαφορούν για την προέλευση.",
+          "Τα προϊόντα ΓΕ δεν παράγονται πουθενά αλλού.",
+          "Σε ορισμένες περιοχές έχουν αναπτυχθεί αγαθά με επιθυμητά χαρακτηριστικά."
+        ],
+        "answer": 3,
+        "explanation": "Η ύπαρξη ΓΕ προϋποθέτει ότι ορισμένα αγαθά έχουν χαρακτηριστικά λόγω της περιοχής τους."
+      },
+      "en": {
+        "passage": "18. In today's globalised world, consumers are looking for ways to identify authentic, original products. A geographical indication (GI) identifies goods as originating from a place where a particular quality is linked to its geographical origin. Agricultural products may be afforded EU-wide GI protection. However, non-agricultural products do not yet enjoy unitary GI protection at EU level.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Textiles and building materials enjoy GI protection at EU level.",
+          "Global customers are indifferent towards geographically specific products.",
+          "Protected products cannot be produced to the same quality outside the region.",
+          "In some geographical regions goods have been developed that have particularly desirable and specific characteristics."
+        ],
+        "answer": 3,
+        "explanation": "For a GI to exist, there must be regions where products have developed specific, desirable characteristics linked to that location."
+      }
+    },
+    {
+      "el": {
+        "passage": "19. Σύμφωνα με τους κανονισμούς, ο Προϊστάμενος δικαιούται να ζητήσει πρόσθετες πληροφορίες προτού ο φάκελος σταλεί στην επιτροπή. Εάν η τεκμηρίωση είναι ελλιπής, μπορεί να στείλει τον φάκελο μόνο μετά την παροχή των πληροφοριών. Η επιτροπή λαμβάνει την τελική απόφαση.",
+        "question": "Ποιο από τα παρακάτω είναι ΣΥΝΕΠΕΣ με το κείμενο;",
+        "options": [
+          "Ο Προϊστάμενος μπορεί να διατάξει την παροχή πληροφοριών.",
+          "Ο Προϊστάμενος δικαιούται να ζητήσει πρόσθετες πληροφορίες.",
+          "Ο Προϊστάμενος μπορεί να αρνηθεί την αποστολή αν δεν συμφωνήσει ο αιτών.",
+          "Ο Προϊστάμενος μπορεί να ανατρέψει την απόφαση."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά το δικαίωμα του Προϊσταμένου να ζητά πληροφορίες."
+      },
+      "en": {
+        "passage": "19. According to the agency's internal regulations, the Head of Unit is entitled to request additional information from the applicant before the application file is sent to the central committee. If the Head of Unit considers that the documentation is incomplete, he may forward the file only after the missing information has been provided. The central committee is responsible for making the final decision.",
+        "question": "Which of the following is CONSISTENT with the text?",
+        "options": [
+          "The Head of Unit has the right to order the applicant to provide additional information.",
+          "The Head of Unit has the right to request that the applicant provide additional information.",
+          "The Head of Unit has the right to refuse to send the file unless the applicant agrees.",
+          "The Head of Unit has the right to overturn the central committee's final decision."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly says the Head of Unit 'is entitled to request' information."
+      }
+    },
+    {
+      "el": {
+        "passage": "20. Τα χρήματα για το περιβάλλον πηγαίνουν στους αγρότες επειδή η ΚΑΠ είναι η πιο ολοκληρωμένη πολιτική και οι αγρότες διατηρούν το τοπίο. Η ΚΑΠ σήμερα είναι διαφορετική από την παλιά εικόνα των πλεονασμάτων, εστιάζοντας πλέον στην ασφάλεια τροφίμων και την ευημερία των ζώων.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Ιστορικά, ο μοχλός ήταν η αποτελεσματικότητα.",
+          "Οι προσεγγίσεις της ΚΑΠ εξελίχθηκαν ώστε να βλέπουν τη γεωργία πιο ολιστικά.",
+          "Η ΚΑΠ είναι μηχανισμός ανταλλαγής γνώσεων.",
+          "Όλοι οι αγρότες ενθαρρύνονται να προστατεύουν το περιβάλλον."
+        ],
+        "answer": 1,
+        "explanation": "Η στροφή προς την ασφάλεια και την ευημερία δείχνει μια ολιστική εξέλιξη της πολιτικής."
+      },
+      "en": {
+        "passage": "20. Much of the money for preserving our natural environment goes to farmers both because the CAP is the most integrated of all EU policies and because farmers play a fundamental role in supplying basic foodstuffs and in maintaining the landscape. The CAP today is very different from the image many people still have of it as a source of surpluses. Ongoing reforms are ensuring a more balanced approach.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Historically, the main driver for the CAP was improving efficiency.",
+          "The operations of the CAP have evolved over time to view farming more holistically.",
+          "The CAP is an effective mechanism for sharing knowledge.",
+          "Farmers in all European countries are encouraged to protect the environment through the CAP."
+        ],
+        "answer": 1,
+        "explanation": "The reforms described point to a more balanced and comprehensive (holistic) view of agriculture."
+      }
+    }
+  ],
+  "verbal_2": [
+    {
+      "en": {
+        "passage": "1. The European Commission recently adopted a directive on pay transparency to close the gender pay gap. The directive requires companies with more than 250 employees to publish annual reports on pay differences. If the gap exceeds 5% and cannot be justified by objective factors, employers must conduct a pay assessment in cooperation with workers' representatives.",
+        "question": "What is the key condition for an employer to be required to conduct a pay assessment?",
+        "options": [
+          "Having more than 100 employees.",
+          "A pay gap exceeding 5% without objective justification.",
+          "A formal complaint from employees.",
+          "Failing to publish reports for two consecutive years."
+        ],
+        "answer": 1,
+        "explanation": "The directive mandates an assessment if the 5% gap is not objectively justified."
+      },
+      "el": {
+        "passage": "1. Η Ευρωπαϊκή Επιτροπή εξέδωσε πρόσφατα μια οδηγία για τη διαφάνεια των μισθών, με στόχο την εξάλειψη του χάσματος αμοιβών. Η οδηγία απαιτεί από τις εταιρείες με περισσότερους από 250 υπαλλήλους να δημοσιεύουν ετήσιες αναφορές. Εάν το χάσμα υπερβαίνει το 5% και δεν μπορεί να δικαιολογηθεί από αντικειμενικούς παράγοντες, οι εργοδότες θα πρέπει να διενεργούν μισθολογική αξιολόγηση.",
+        "question": "Ποια είναι η βασική προϋπόθεση για να υποχρεωθεί ένας εργοδότης σε μισθολογική αξιολόγηση;",
+        "options": [
+          "Να έχει περισσότερους από 100 υπαλλήλους.",
+          "Το μισθολογικό χάσμα να υπερβαίνει το 5% χωρίς αντικειμενική αιτιολόγηση.",
+          "Να υπάρχει καταγγελία από την πλευρά των εργαζομένων.",
+          "Να μην έχει δημοσιεύσει ετήσια αναφορά για δύο συνεχή έτη."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι η αξιολόγηση απαιτείται αν το χάσμα υπερβαίνει το 5% και δεν δικαιολογείται αντικειμενικά."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The Maastricht Treaty (1992) was a milestone for European integration, creating the European Union and laying the foundations for the single currency. It introduced the three-pillar structure and also introduced the concept of EU citizenship, allowing citizens to move and reside freely between member states.",
+        "question": "Which of the following was NOT introduced by the Maastricht Treaty?",
+        "options": [
+          "The concept of EU citizenship.",
+          "The euro as a single currency in circulation.",
+          "The three-pillar structure.",
+          "Common Foreign and Security Policy."
+        ],
+        "answer": 1,
+        "explanation": "The treaty laid the foundation for the euro, but it was not yet in circulation in 1992."
+      },
+      "el": {
+        "passage": "2. Η Συνθήκη του Μάαστριχτ (1992) αποτέλεσε ορόσημο για την ευρωπαϊκή ενοποίηση, καθώς δημιούργησε την Ευρωπαϊκή Ένωση και έθεσε τις βάσεις για το ενιαίο νόμισμα. Εισήγαγε τη δομή των τριών πυλώνων και την έννοια της ευρωπαϊκής ιθαγένειας.",
+        "question": "Ποιο από τα παρακάτω ΔΕΝ εισήχθη με τη Συνθήκη του Μάαστριχτ;",
+        "options": [
+          "Η έννοια της ευρωπαϊκής ιθαγένειας.",
+          "Το ευρώ ως ενιαίο νόμισμα σε κυκλοφορία.",
+          "Η δομή των τριών πυλώνων.",
+          "Η Κοινή Εξωτερική Πολιτική και Πολιτική Ασφάλειας."
+        ],
+        "answer": 1,
+        "explanation": "Η συνθήκη έθεσε τις βάσεις για το νόμισμα, αλλά το ευρώ δεν τέθηκε σε κυκλοφορία το 1992."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The circular economy aims to minimize waste by redesigning products, recycling, and reusing materials. In the EU, this transition is considered essential for achieving climate neutrality by 2050.",
+        "question": "According to the text, what is the ultimate goal of the circular economy in the EU?",
+        "options": [
+          "Reducing production costs for industries.",
+          "Achieving climate neutrality by 2050.",
+          "Increasing textile exports.",
+          "Eliminating the use of plastics in construction."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly links the circular economy to the 2050 climate neutrality target."
+      },
+      "el": {
+        "passage": "3. Η κυκλική οικονομία στοχεύει στην ελαχιστοποίηση των αποβλήτων μέσω επανασχεδιασμού και ανακύκλωσης. Στην ΕΕ, η μετάβαση αυτή είναι απαραίτητη για την επίτευξη της κλιματικής ουδετερότητας έως το 2050.",
+        "question": "Σύμφωνα με το κείμενο, ποιος είναι ο απώτερος στόχος της κυκλικής οικονομίας στην ΕΕ;",
+        "options": [
+          "Η μείωση του κόστους παραγωγής για τις βιομηχανίες.",
+          "Η επίτευξη κλιματικής ουδετερότητας έως το 2050.",
+          "Η αύξηση των εξαγωγών κλωστοϋφαντουργικών προϊόντων.",
+          "Η κατάργηση της χρήσης πλαστικών στις κατασκευές."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο συνδέει άμεσα την κυκλική οικονομία με τον στόχο της κλιματικής ουδετερότητας έως το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. In February 2025, the European Commission introduced the Omnibus Simplification Package, aiming to streamline sustainability and corporate reporting requirements. While the Commission claims these changes will boost investment, some critics argue that the simplification results from narrowing the scope of rules, possibly undermining sustainability goals.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The Omnibus Simplification Package has been fully implemented by all EU member states.",
+          "Critics believe the simplification could limit the impact of sustainability initiatives.",
+          "The package does not address corporate reporting requirements.",
+          "Administrative costs are expected to increase under the new proposal."
+        ],
+        "answer": 1,
+        "explanation": "The passage notes that critics are concerned the narrowing of scope could undermine EU sustainability goals."
+      },
+      "el": {
+        "passage": "4. Τον Φεβρουάριο του 2025, η Ευρωπαϊκή Επιτροπή παρουσίασε το 'Πακέτο Απλούστευσης Omnibus'. Ορισμένοι επικριτές υποστηρίζουν ότι ο περιορισμός του πεδίου εφαρμογής μπορεί να υπονομεύσει τους στόχους βιωσιμότητας.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Το Πακέτο Omnibus έχει εφαρμοστεί πλήρως από όλα τα κράτη μέλη.",
+          "Οι επικριτές πιστεύουν ότι η απλούστευση θα μπορούσε να περιορίσει τον αντίκτυπο των πρωτοβουλιών βιωσιμότητας.",
+          "Το πακέτο δεν αφορά τις απαιτήσεις εταιρικής αναφοράς.",
+          "Το διοικητικό κόστος αναμένεται να αυξηθεί."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει την ανησυχία των επικριτών ότι ο περιορισμός μπορεί να υπονομεύσει τους στόχους βιωσιμότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The rapid proliferation of drones has transformed modern warfare. The EU has stressed the need for common rules on drone exports and ethical frameworks for deployment. While some Member States push for strict EU-level controls, others argue national sovereignty in defence matters should prevail.",
+        "question": "Which statement is best supported by the passage?",
+        "options": [
+          "Drones are universally welcomed in the EU as a cheap and risk-free military tool.",
+          "The EU is committed to establishing common rules and ethical standards on drone use.",
+          "Member States unanimously favour centralized EU control over defense-related technologies.",
+          "Civil society organizations oppose the development of counter-drone technologies."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions the EU's stress on the need for common rules and ethical frameworks."
+      },
+      "el": {
+        "passage": "5. Η ταχεία εξάπλωση των drones έχει μεταμορφώσει τον σύγχρονο πόλεμο. Η ΕΕ έχει τονίσει την ανάγκη για κοινούς κανόνες και ηθικά πλαίσια. Ορισμένα κράτη μέλη υποστηρίζουν την εθνική κυριαρχία σε θέματα άμυνας.",
+        "question": "Ποια δήλωση υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Τα drones είναι καθολικά ευπρόσδεκτα στην ΕΕ.",
+          "Η ΕΕ δεσμεύεται να θεσπίσει κοινούς κανόνες και ηθικά πρότυπα για τη χρήση drones.",
+          "Τα κράτη μέλη τάσσονται ομόφωνα υπέρ του κεντρικού ελέγχου.",
+          "Οι οργανώσεις αντιτίθενται στην ανάπτυξη τεχνολογιών αναχαίτισης."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει την έμφαση της ΕΕ στην ανάγκη για κοινούς κανόνες και ηθικά πλαίσια."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. Solidarity has to be at the core of EU asylum policy. In the first half of this year, over 75% of all asylum applications were made in only 6 Member States. Many EU members could take a far greater share of the responsibility.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "A joined-up approach to asylum within the EU would see asylum seekers fairly distributed between EU countries.",
+          "Some EU countries are disproportionately more attractive to asylum seekers than others.",
+          "France, Germany, Belgium, the UK, Sweden and Italy each accepted around 12.5% of EU asylum seekers.",
+          "Long-term asylum planning is facilitated by the predictability of asylum requirements."
+        ],
+        "answer": 0,
+        "explanation": "The passage argues for greater shared responsibility through solidarity."
+      },
+      "el": {
+        "passage": "6. Η αλληλεγγύη πρέπει να βρίσκεται στον πυρήνα της πολιτικής ασύλου της ΕΕ. Το πρώτο εξάμηνο, πάνω από το 75% των αιτήσεων υποβλήθηκαν σε μόλις 6 κράτη μέλη.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Μια κοινή προσέγγιση για το άσυλο θα έβλεπε τους αιτούντες να κατανέμονται δίκαια μεταξύ των χωρών.",
+          "Ορισμένες χώρες είναι δυσανάλογα πιο ελκυστικές.",
+          "Κάθε χώρα δέχθηκε περίπου το 12,5%.",
+          "Ο σχεδιασμός του ασύλου διευκολύνεται από την προβλεψιμότητα."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο υποστηρίζει ότι η αλληλεγγύη θα οδηγούσε σε δικαιότερη κατανομή."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The use of biomass, biogas and biowaste in power plants will grow. The biggest growth in electricity production will most likely come from wind generation through more efficient turbines. With the expected growth in renewable fuels for transport, this sector will have a means of reducing its CO2 emissions.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "The largest volume of renewable electricity produced will come from wind generation.",
+          "Growth is expected across a wide range of renewable energy sources.",
+          "There are limited options for incorporating renewable technologies into buildings.",
+          "Addressing CO2 emissions from the transport sector is unlikely."
+        ],
+        "answer": 1,
+        "explanation": "The passage lists multiple different sources where growth is expected."
+      },
+      "el": {
+        "passage": "7. Η χρήση βιομάζας και βιοαερίου θα αυξηθεί. Η μεγαλύτερη αύξηση στην παραγωγή ηλεκτρικής ενέργειας θα προέλθει πιθανότατα από την αιολική ενέργεια. Με την ανάπτυξη των ανανεώσιμων καυσίμων, ο τομέας των μεταφορών θα μειώσει τις εκπομπές CO2.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Ο μεγαλύτερος όγκος ανανεώσιμης ενέργειας θα προέρχεται από αιολική παραγωγή.",
+          "Αναμένεται ανάπτυξη σε ένα ευρύ φάσμα ανανεώσιμων πηγών ενέργειας.",
+          "Υπάρχουν περιορισμένες επιλογές για τα κτίρια.",
+          "Η αντιμετώπιση των εκπομπών από τις μεταφορές είναι απίθανη."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο απαριθμεί πολλές διαφορετικές πηγές ενέργειας που θα αναπτυχθούν."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The Digital Services Act and Digital Markets Act ensure fair competition and accountability online. Meanwhile, the EU champions digital sovereignty, reducing dependence on non-EU tech giants.",
+        "question": "Which EU legal framework aims to regulate online platforms and ensure fair digital markets?",
+        "options": [
+          "General Data Protection Regulation (GDPR)",
+          "European Green Deal",
+          "Digital Competence Framework",
+          "Digital Services Act and Digital Markets Act"
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly links the DSA and DMA to fair competition and accountability."
+      },
+      "el": {
+        "passage": "8. Η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA) και η Πράξη για τις Ψηφιακές Αγορές (DMA) διασφαλίζουν τον θεμιτό ανταγωνισμό. Παράλληλα, η ΕΕ προασπίζεται την ψηφιακή κυριαρχία.",
+        "question": "Ποιο νομοθετικό πλαίσιο στοχεύει στη ρύθμιση των πλατφορμών και τη διασφάλιση δίκαιων ψηφιακών αγορών;",
+        "options": [
+          "Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR)",
+          "Ευρωπαϊκή Πράσινη Συμφωνία",
+          "Πλαίσιο Ψηφιακών Ικανοτήτων",
+          "Πράξη για τις Ψηφιακές Υπηρεσίες και Πράξη για τις Ψηφιακές Αγορές"
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι οι DSA και DMA διασφαλίζουν τον θεμιτό ανταγωνισμό."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. For over 400 years emigrants from Europe flocked to North and South America, Australasia and Africa seeking a better life. Today, the countries of the European Union are in turn a magnet for immigrants. Western European countries invited immigrants from former colonies to boost the workforce in the 1950s and 1960s.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Immigration tends to follow cyclical themes and patterns with people from different regions searching for a better life.",
+          "Immigrants from the Americas and Africa often have European ancestry.",
+          "The majority of immigration experienced in some EU countries is from other EU Member States.",
+          "Post-war European economic growth was hindered by an influx of immigrants."
+        ],
+        "answer": 0,
+        "explanation": "The passage describes the shift in migration flows as people search for prosperity over different eras."
+      },
+      "el": {
+        "passage": "9. Για πάνω από 400 χρόνια, Ευρωπαίοι μετανάστευαν αναζητώντας μια καλύτερη ζωή. Σήμερα, η ΕΕ αποτελεί πόλο έλξης για μετανάστες λόγω της ευημερίας της.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Η μετανάστευση ακολουθεί κυκλικά πρότυπα ανθρώπων που αναζητούν μια καλύτερη ζωή.",
+          "Οι μετανάστες από την Αμερική έχουν συχνά ευρωπαϊκή καταγωγή.",
+          "Η πλειονότητα της μετανάστευσης προέρχεται από άλλα κράτη μέλη.",
+          "Η οικονομική ανάπτυξη παρεμποδίστηκε από την εισροή μεταναστών."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο περιγράφει τη διαχρονική κίνηση των ανθρώπων προς την ευημερία."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. A policy of flexicurity combines flexible hiring and firing rules for employers with high benefits for the unemployed. It is about creating a broader context where job mobility, especially upward mobility to jobs with higher pay, forms part of a normal career pattern.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "In a competitive global marketplace employers need to respond flexibly to changing workforce requirements.",
+          "The uncertainty created for individuals by regular job changes can be offset by the confidence that adequate welfare will be available.",
+          "Increasingly flexible hiring and firing rules will lead to a loss of job security for most employees.",
+          "Moving regularly between short-term jobs is likely to be detrimental to an individual's career advancement."
+        ],
+        "answer": 0,
+        "explanation": "The passage suggests that flexibility is a necessary response to the globalized economy."
+      },
+      "el": {
+        "passage": "10. Η 'ευελιξία με ασφάλεια' (flexicurity) συνδυάζει ευέλικτους κανόνες για εργοδότες και υψηλά επιδόματα για εργαζομένους. Στόχος είναι η κινητικότητα να αποτελεί μέρος ενός φυσιολογικού προτύπου σταδιοδρομίας.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Οι εργοδότες πρέπει να ανταποκρίνονται με ευελιξία στις μεταβαλλόμενες απαιτήσεις.",
+          "Η αβεβαιότητα μπορεί να αντισταθμιστεί από την εμπιστοσύνη στην επαρκή πρόνοια.",
+          "Οι ευέλικτοι κανόνες θα οδηγήσουν σε απώλεια της ασφάλειας.",
+          "Η τακτική μετακίνηση μεταξύ βραχυπρόθεσμων θέσεων βλάπτει την εξέλιξη."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο υπονοεί ότι η ευελιξία είναι απαραίτητη απάντηση στις ανάγκες της αγοράς."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Artificial Intelligence (AI) is expected to transform the EU labour market by automating routine tasks. Estimates suggest that 14–25% of current jobs are at high risk of automation, particularly in transport, manufacturing, and administrative services. The EU promotes a 'human-centric' AI approach, aiming to boost productivity while protecting workers' rights.",
+        "question": "Which sector in the EU is considered most vulnerable to AI-driven job automation?",
+        "options": [
+          "Healthcare",
+          "Creative arts",
+          "Renewable energy engineering",
+          "Administrative services"
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly lists administrative services, along with transport and manufacturing, as being at high risk of automation."
+      },
+      "el": {
+        "passage": "11. Η Τεχνητή Νοημοσύνη (AI) αναμένεται να μετασχηματίσει την αγορά εργασίας. Οι εκτιμήσεις δείχνουν ότι το 14–25% των θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στους τομείς των μεταφορών, της μεταποίησης και των διοικητικών υπηρεσιών.",
+        "question": "Ποιος τομέας στην ΕΕ θεωρείται ο πλέον ευάλωτος στην αυτοματοποίηση θέσεων εργασίας λόγω AI;",
+        "options": [
+          "Υγειονομική περίθαλψη",
+          "Δημιουργικές τέχνες",
+          "Μηχανική ανανεώσιμων πηγών ενέργειας",
+          "Διοικητικές υπηρεσίες"
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ρητά τις διοικητικές υπηρεσίες ως τομέα υψηλού κινδύνου."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. Before drafting new legislation, the European Commission often initiates a consultation process, inviting input from citizens, stakeholders, NGOs, and national authorities. While not binding, the feedback collected often shapes the Commission's final proposal.",
+        "question": "Which of the following statements best summarizes the purpose of the EU consultation process?",
+        "options": [
+          "To enforce compliance with EU legislation among member states.",
+          "To ensure only legal experts contribute to the drafting of EU laws.",
+          "To gather broad input that can improve the quality and acceptance of new legislation.",
+          "To conduct internal reviews within the European Commission after laws are passed."
+        ],
+        "answer": 2,
+        "explanation": "The passage emphasizes that involving diverse perspectives improves the relevance and effectiveness of laws."
+      },
+      "el": {
+        "passage": "12. Πριν από τη σύνταξη νέας νομοθεσίας, η Ευρωπαϊκή Επιτροπή ξεκινά μια διαδικασία διαβούλευσης. Αν και δεν είναι δεσμευτικές, συχνά διαμορφώνουν την τελική πρόταση.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις συνοψίζει καλύτερα τον σκοπό της διαδικασίας διαβούλευσης της ΕΕ;",
+        "options": [
+          "Η επιβολή της συμμόρφωσης με τη νομοθεσία.",
+          "Η διασφάλιση ότι μόνο νομικοί εμπειρογνώμονες συμβάλλουν.",
+          "Η συλλογή ευρείας συμβολής που μπορεί να βελτιώσει την ποιότητα και την αποδοχή της νέας νομοθεσίας.",
+          "Η διενέργεια εσωτερικών ελέγχων μετά την ψήφιση των νόμων."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο τονίζει ότι η συμμετοχή βελτιώνει τη συνάφεια και την αποτελεσματικότητα των νόμων."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Since its enforcement in 2018, the GDPR has led to a surge in privacy enforcement across the EU. By 2024, over 2,000 fines had been issued, totalling more than €4.5 billion. Major tech firms have faced some of the highest penalties, often for lack of user consent, data mismanagement, or opaque profiling.",
+        "question": "Which of the following is a common reason for GDPR fines imposed on major tech firms?",
+        "options": [
+          "Inadequate user consent mechanisms",
+          "Refusal to use blockchain technology",
+          "Excessive taxation on user data",
+          "Publishing encrypted datasets"
+        ],
+        "answer": 0,
+        "explanation": "The text lists 'lack of user consent' as a frequent reason for the high penalties faced by tech firms."
+      },
+      "el": {
+        "passage": "13. Από την εφαρμογή του το 2018, ο GDPR οδήγησε σε αύξηση της επιβολής. Μεγάλες εταιρείες τεχνολογίας αντιμετώπισαν υψηλές ποινές, συχνά για έλλειψη συναίνεσης των χρηστών ή κακή διαχείριση δεδομένων.",
+        "question": "Ποιος είναι ένας συνηθισμένος λόγος για τα πρόστιμα GDPR που επιβάλλονται σε μεγάλες εταιρείες τεχνολογίας;",
+        "options": [
+          "Οι ανεπαρκείς μηχανισμοί συναίνεσης των χρηστών.",
+          "Η άρνηση χρήσης τεχνολογίας blockchain.",
+          "Η υπερβολική φορολόγηση των δεδομένων.",
+          "Η δημοσίευση κρυπτογραφημένων συνόλων δεδομένων."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο αναφέρει την 'έλλειψη συναίνεσης των χρηστών' ως βασικό λόγο."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The European Commission recently launched an initiative aimed at reducing food waste across member states. While the initiative does not impose binding targets, it encourages voluntary commitments. Some critics contend that without enforceable measures, progress will be slow and uneven among member states.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EU has made it mandatory for households to reduce food waste.",
+          "Critics believe voluntary commitments may not lead to consistent progress.",
+          "The primary concern of the initiative is reducing packaging waste.",
+          "Food waste has significantly declined in countries with high food insecurity."
+        ],
+        "answer": 1,
+        "explanation": "The passage states that critics believe progress will be slow/uneven because the measures are not enforceable."
+      },
+      "el": {
+        "passage": "14. Η Ευρωπαϊκή Επιτροπή ξεκίνησε πρόσφατα μια πρωτοβουλία για τη μείωση της σπατάλης τροφίμων. Ορισμένοι επικριτές υποστηρίζουν ότι χωρίς εκτελεστά μέτρα, η πρόοδος θα είναι αργή.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Η ΕΕ κατέστησε υποχρεωτική τη μείωση της σπατάλης.",
+          "Οι επικριτές πιστεύουν ότι οι εθελοντικές δεσμεύσεις μπορεί να μην οδηγήσουν σε σταθερή πρόοδο.",
+          "Το κύριο μέλημα είναι η μείωση των απορριμμάτων συσκευασίας.",
+          "Η σπατάλη τροφίμων έχει μειωθεί σημαντικά."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές ανησυχούν για αργή πρόοδο λόγω του εθελοντικού χαρακτήρα."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. AI is expected to transform the EU labour market by automating routine tasks. The EU promotes a 'human-centric' approach to AI, aiming to boost productivity while protecting workers' rights.",
+        "question": "What is a core principle of the EU's approach to artificial intelligence in the workplace?",
+        "options": [
+          "Full replacement of human labour by 2040",
+          "Prioritising economic efficiency over ethics",
+          "A human-centric approach protecting workers' rights",
+          "Outsourcing AI development to third countries"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that the EU promotes a 'human-centric' approach to protect workers' rights."
+      },
+      "el": {
+        "passage": "15. Το AI αναμένεται να μετασχηματίσει την αγορά εργασίας αυτοματοποιώντας εργασίες ρουτίνας. Η ΕΕ προωθεί μια 'ανθρωποκεντρική' προσέγγιση για την προστασία των δικαιωμάτων των εργαζομένων.",
+        "question": "Ποια είναι η βασική αρχή της προσέγγισης της ΕΕ για την τεχνητή νοημοσύνη στον εργασιακό χώρο;",
+        "options": [
+          "Πλήρης αντικατάσταση της ανθρώπινης εργασίας έως το 2040.",
+          "Προτεραιότητα στην οικονομική αποτελεσματικότητα έναντι της ηθικής.",
+          "Μια ανθρωποκεντρική προσέγγιση που προστατεύει τα δικαιώματα των εργαζομένων.",
+          "Ανάθεση της ανάπτυξης AI σε τρίτες χώρες."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η ΕΕ προωθεί μια ανθρωποκεντρική προσέγγιση."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. A recent report by the European Environment Agency (EEA) highlights the uneven pace of green technology adoption. While northern and western countries have rapidly integrated renewable energy sources, several southern and eastern countries lag behind due to infrastructural and economic constraints.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EEA has proposed new funding mechanisms for southern and eastern EU countries.",
+          "Economic challenges are among the reasons for slower green tech adoption in some parts of the EU.",
+          "Northern and western EU countries have fully transitioned to electric transport.",
+          "The EEA recommends penalties for countries failing to adopt green technology."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions 'economic constraints' as a reason why some countries lag behind."
+      },
+      "el": {
+        "passage": "16. Πρόσφατη έκθεση του ΕΟΠ υπογραμμίζει τον άνισο ρυθμό υιοθέτησης πράσινης τεχνολογίας. Ορισμένες νότιες και ανατολικές χώρες υστερούν λόγω οικονομικών περιορισμών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Ο ΕΟΠ πρότεινε νέους μηχανισμούς χρηματοδότησης.",
+          "Οι οικονομικές προκλήσεις είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση.",
+          "Οι βόρειες χώρες έχουν μεταβεί πλήρως στις ηλεκτρικές μεταφορές.",
+          "Ο ΕΟΠ συνιστά κυρώσεις."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει τους 'οικονομικούς περιορισμούς' ως λόγο καθυστέρησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Wars of Religion in Europe (16th–17th centuries) reflected a volatile fusion of theological divergence and political opportunism. The eventual Peace of Westphalia (1648) cemented the notion of state sovereignty and curbing papal influence in temporal affairs.",
+        "question": "What lasting principle did the Peace of Westphalia help institutionalize?",
+        "options": [
+          "The divine right of kings as a check against religious extremism",
+          "The subordination of state policy to church authority",
+          "The concept of supranational religious governance",
+          "The legal recognition of state sovereignty over religious affairs"
+        ],
+        "answer": 3,
+        "explanation": "The passage states the Peace 'cemented the notion of state sovereignty and curbed papal influence in temporal affairs.'"
+      },
+      "el": {
+        "passage": "17. Οι Θρησκευτικοί Πόλεμοι αντανακλούσαν ανάμειξη θεολογικών διαφορών και πολιτικού καιροσκοπισμού. Η Ειρήνη της Βεστφαλίας (1648) εδραίωσε την έννοια της κρατικής κυριαρχίας και περιόρισε την παπική επιρροή.",
+        "question": "Ποια διαρκή αρχή βοήθησε να θεσμοθετηθεί η Ειρήνη της Βεστφαλίας;",
+        "options": [
+          "Το θείο δικαίωμα των βασιλέων.",
+          "Η υποταγή της κρατικής πολιτικής στην εκκλησιαστική εξουσία.",
+          "Η έννοια της υπερεθνικής θρησκευτικής διακυβέρνησης.",
+          "Η νομική αναγνώριση της κρατικής κυριαρχίας επί των θρησκευτικών υποθέσεων."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι η Ειρήνη εδραίωσε την κρατική κυριαρχία και περιόρισε την παπική επιρροή."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. A pilot study on urban mobility in three EU capitals found that introducing free public transport led to a 15% reduction in private car usage over six months. During the same period, fuel prices rose significantly and two major bridges in each city were closed for repairs. Independent analysts suggested that the data might not fully isolate the impact of the free fare scheme from other external variables.",
+        "question": "Which of the following best describes the statistical concern mentioned in the passage?",
+        "options": [
+          "The sample size of only three capitals was too small to draw any conclusions.",
+          "The study failed to account for the fact that car usage usually drops in winter.",
+          "The 15% reduction was actually a calculation error by the local authorities.",
+          "External factors like fuel prices and infrastructure changes may have skewed the results."
+        ],
+        "answer": 3,
+        "explanation": "The passage points out that external variables make it difficult to isolate the success of the free transport scheme."
+      },
+      "el": {
+        "passage": "18. Μια πιλοτική μελέτη σε τρεις πρωτεύουσες της ΕΕ διαπίστωσε ότι η δωρεάν δημόσια συγκοινωνία οδήγησε σε μείωση 15% στη χρήση αυτοκινήτων. Ωστόσο, τις ίδιες περιόδους τιμές καυσίμων αυξήθηκαν και γέφυρες έκλεισαν. Αναλυτές υποστηρίζουν ότι τα δεδομένα ενδέχεται να μην απομονώνουν τον αντίκτυπο από άλλες εξωτερικές μεταβλητές.",
+        "question": "Ποιο από τα ακόλουθα περιγράφει καλύτερα τη στατιστική ανησυχία;",
+        "options": [
+          "Το μέγεθος του δείγματος ήταν πολύ μικρό.",
+          "Η μελέτη δεν έλαβε υπόψη τη χειμερινή πτώση.",
+          "Η μείωση 15% ήταν υπολογιστικό λάθος.",
+          "Εξωτερικοί παράγοντες ενδέχεται να αλλοίωσαν τα αποτελέσματα."
+        ],
+        "answer": 3,
+        "explanation": "Εξωτερικοί παράγοντες καθιστούν δύσκολο τον προσδιορισμό της επιτυχίας του μέτρου."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. Digital literacy programs launched in Member State A led to a 20% increase in senior citizens using e-government services. Policymakers in Member State B have decided to adopt the exact same curriculum, assuming identical results. Critics argue that Member State B has significantly lower high-speed internet penetration in rural areas compared to Member State A.",
+        "question": "Which logical reasoning flaw is demonstrated by the policymakers in Member State B?",
+        "options": [
+          "Assuming that what worked in one specific context will work in another without considering differing conditions.",
+          "Overestimating the ability of senior citizens to learn new digital skills.",
+          "Ignoring the fact that e-government services are becoming more complex.",
+          "Focusing only on the 20% increase while ignoring the 80% who did not participate."
+        ],
+        "answer": 0,
+        "explanation": "The policymakers assume identical results without accounting for the infrastructural differences between the two states."
+      },
+      "el": {
+        "passage": "19. Προγράμματα ψηφιακού γραμματισμού στο Κράτος-Μέλος Α οδήγησαν σε αύξηση 20%. Οι υπεύθυνοι στο Κράτος-Μέλος Β αποφάσισαν να υιοθετήσουν το ίδιο πρόγραμμα, αναμένοντας παρόμοια αποτελέσματα. Επικριτές επισημαίνουν ότι το Κράτος Β έχει πολύ χαμηλότερη διείσδυση ταχέως διαδικτύου.",
+        "question": "Ποιο σφάλμα λογικής επιδεικνύεται;",
+        "options": [
+          "Η υπόθεση ότι ό,τι λειτούργησε σε ένα πλαίσιο θα λειτουργήσει σε ένα άλλο χωρίς να ληφθούν υπόψη οι διαφορές.",
+          "Η υπερεκτίμηση της ικανότητας των ηλικιωμένων.",
+          "Η αγνόηση της πολυπλοκότητας των υπηρεσιών.",
+          "Η εστίαση μόνο στην αύξηση 20%."
+        ],
+        "answer": 0,
+        "explanation": "Οι υπεύθυνοι υποθέτουν πανομοιότυπα αποτελέσματα χωρίς να υπολογίζουν τις υποδομικές διαφορές."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The European Central Bank's move to adjust interest rates is primarily intended to curb inflation and stabilize the Eurozone economy. The policy surmises that commercial banks will pass these rate changes onto consumers, thereby influencing spending and saving patterns across the continent.",
+        "question": "What is an underlying assumption made by the author regarding the effectiveness of the interest rate policy?",
+        "options": [
+          "That inflation is the only threat to the Eurozone's economic growth.",
+          "That commercial banks will behave in a predictable manner by passing rate changes to their customers.",
+          "That Eurozone citizens prefer saving money over spending it during times of high interest.",
+          "That the European Central Bank is the only institution capable of stabilizing the economy."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly mentions that the policy 'assumes' commercial banks will pass the changes to consumers."
+      },
+      "el": {
+        "passage": "20. Η κίνηση της ΕΚΤ να προσαρμόσει τα επιτόκια αποσκοπεί στον περιορισμό του πληθωρισμού. Η πολιτική αυτή προϋποθέτει ότι οι εμπορικές τράπεζες θα μετακυλήσουν αυτές τις αλλαγές στους καταναλωτές.",
+        "question": "Ποια από τις ακόλουθες είναι η παραδοχή σχετικά με την αποτελεσματικότητα της πολιτικής;",
+        "options": [
+          "Ότι ο πληθωρισμός είναι η μόνη απειλή.",
+          "Ότι οι εμπορικές τράπεζες θα μεταφέρουν τις αλλαγές στους πελάτες τους.",
+          "Ότι οι πολίτες προτιμούν την αποταμίευση.",
+          "Ότι η ΕΚΤ είναι το μόνο ίδρυμα ικανό να σταθεροποιήσει την οικονομία."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η πολιτική 'προϋποθέτει' ότι οι τράπεζες θα μετακυλήσουν τις αλλαγές."
+      }
+    }
+  ],
+  "verbal_3": [
+    {
+      "en": {
+        "passage": "The slow development of a universal home remote control system is somewhat surprising given the high expectations initially surrounding the technology. The prototype demonstrated the ability to control most household appliances through a single, simple, and user-friendly device. However, during large-scale manufacturing, numerous faults occurred on the production line, undetected by the manufacturer's quality control systems. As a result, thousands of units were returned by customers who had paid considerable amounts for the device but found that it could not reliably operate the appliances it was intended to control. In some cases, the system even activated the wrong electrical device, occasionally leading to damage. According to reports, the unsuccessful market launch was largely due to managerial shortcomings. Line managers failed to prioritise reliability and quality during production, while senior managers focused primarily on marketing and public relations rather than closely supervising manufacturing processes.",
+        "question": "Which of the following conclusions is best supported by the passage?",
+        "options": [
+          "The universal remote control system failed mainly because the underlying technology was not sufficiently advanced.",
+          "The product's failure was primarily caused by manufacturing and managerial oversight rather than by the concept of the device itself.",
+          "Customers returned the product mainly because they failed to understand how to use it.",
+          "Manufacturing managers deliberately ignored product defects in order to accelerate the market launch."
+        ],
+        "answer": 1,
+        "explanation": "The passage states that the prototype worked successfully, problems arose during mass production, and responsibility is attributed to both line and senior managers. The failure reflects production and management failings, not the viability of the technology. A is wrong because the prototype worked. C is wrong because no user misunderstanding is mentioned. D is wrong because the passage describes negligence, not deliberate concealment."
+      },
+      "el": {
+        "passage": "Η αργή ανάπτυξη ενός οικουμενικού οικιακού τηλεχειριστηρίου είναι κάπως εκπληκτική, δεδομένων των υψηλών προσδοκιών που αρχικά περιέβαλαν την τεχνολογία. Το πρωτότυπο απέδειξε ότι μπορεί να ελέγχει τις περισσότερες οικιακές συσκευές μέσω μιας απλής και εύχρηστης διάταξης. Ωστόσο, κατά τη μαζική παραγωγή, σημειώθηκαν πολυάριθμα ελαττώματα στην παραγωγική γραμμή, τα οποία δεν εντοπίστηκαν από τα συστήματα ποιοτικού ελέγχου. Κατά συνέπεια, χιλιάδες μονάδες επεστράφησαν από πελάτες που είχαν πληρώσει σημαντικά ποσά για τη συσκευή, η οποία αδυνατούσε να λειτουργεί αξιόπιστα. Σε ορισμένες περιπτώσεις, το σύστημα ενεργοποιούσε λανθασμένα άλλη συσκευή, ενίοτε προκαλώντας ζημιές. Σύμφωνα με αναφορές, η αποτυχημένη κυκλοφορία οφειλόταν κυρίως σε διοικητικές αδυναμίες. Οι μεσαίοι διευθυντές δεν έδωσαν προτεραιότητα στην αξιοπιστία και την ποιότητα κατά την παραγωγή, ενώ η ανώτερη διοίκηση επικεντρώθηκε κυρίως στο μάρκετινγκ αντί να εποπτεύει στενά τις παραγωγικές διαδικασίες.",
+        "question": "Ποιο από τα ακόλουθα συμπεράσματα υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Το οικουμενικό τηλεχειριστήριο απέτυχε κυρίως επειδή η βασική τεχνολογία δεν ήταν αρκετά ανεπτυγμένη.",
+          "Η αποτυχία του προϊόντος οφειλόταν κυρίως σε παραγωγικές και διοικητικές αδυναμίες, και όχι στην ίδια την ιδέα της συσκευής.",
+          "Οι πελάτες επέστρεψαν το προϊόν κυρίως επειδή δεν κατάφεραν να κατανοήσουν τον τρόπο χρήσης του.",
+          "Οι διευθυντές παραγωγής αγνόησαν σκόπιμα τα ελαττώματα του προϊόντος προκειμένου να επιταχύνουν την εμπορική κυκλοφορία."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι το πρωτότυπο λειτουργούσε επιτυχώς, τα προβλήματα εμφανίστηκαν κατά τη μαζική παραγωγή και η ευθύνη αποδίδεται στη διοίκηση. Η αποτυχία αντικατοπτρίζει παραγωγικές και διοικητικές αδυναμίες, όχι την ίδια την ιδέα. Η Α είναι εσφαλμένη διότι το πρωτότυπο λειτουργούσε. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται παρανόηση εκ μέρους των χρηστών. Η Δ είναι εσφαλμένη διότι περιγράφεται παράλειψη, όχι σκόπιμη απόκρυψη."
+      }
+    },
+    {
+      "en": {
+        "passage": "The European Union has long promoted seamless telephone mobility across its member states, aiming to ensure that citizens can use their mobile phones abroad without excessive roaming charges. Recent regulations have significantly reduced the cost of roaming, effectively allowing users to make calls, send texts, and use data at domestic rates when travelling within the EU. While operators initially expressed concerns about revenue losses, many have adapted their business models to maintain profitability. These changes have encouraged more frequent travel and strengthened economic and social ties between member states. However, some challenges remain, including differences in network infrastructure and coverage quality across regions.",
+        "question": "According to the passage, which of the following statements is most accurate?",
+        "options": [
+          "EU regulations have completely eliminated the need for mobile operators to adapt their pricing models.",
+          "The cost of roaming has increased due to operator concerns about profitability.",
+          "Citizens now enjoy domestic rates when using mobile phones throughout the EU, but infrastructure differences may still affect service quality.",
+          "Roaming charges have been abolished worldwide due to EU regulations."
+        ],
+        "answer": 2,
+        "explanation": "The passage confirms that EU regulations reduced roaming costs to domestic rates while noting ongoing infrastructure challenges. A is wrong because operators did need to adapt. B is wrong because costs decreased. D is wrong because the regulation applies only within the EU."
+      },
+      "el": {
+        "passage": "Η Ευρωπαϊκή Ένωση προωθεί εδώ και καιρό την απρόσκοπτη κινητή επικοινωνία στα κράτη μέλη της, με στόχο να διασφαλίσει ότι οι πολίτες μπορούν να χρησιμοποιούν τα κινητά τους τηλέφωνα στο εξωτερικό χωρίς υπέρμετρες χρεώσεις περιαγωγής. Πρόσφατοι κανονισμοί μείωσαν σημαντικά το κόστος περιαγωγής, επιτρέποντας στους χρήστες να πραγματοποιούν κλήσεις, να στέλνουν μηνύματα και να χρησιμοποιούν δεδομένα με εγχώριες χρεώσεις εντός της ΕΕ. Ενώ οι φορείς εξέφρασαν αρχικά ανησυχίες για απώλεια εσόδων, πολλοί προσάρμοσαν τα επιχειρηματικά τους μοντέλα. Οι αλλαγές αυτές ενθάρρυναν την κινητικότητα και ενίσχυσαν τους δεσμούς μεταξύ των κρατών μελών. Ωστόσο, εξακολουθούν να υφίστανται προκλήσεις, μεταξύ των οποίων οι διαφορές στην υποδομή δικτύου και την ποιότητα κάλυψης.",
+        "question": "Σύμφωνα με το κείμενο, ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής;",
+        "options": [
+          "Οι κανονισμοί της ΕΕ εξάλειψαν πλήρως την ανάγκη προσαρμογής των τιμολογιακών μοντέλων των φορέων κινητής τηλεφωνίας.",
+          "Το κόστος περιαγωγής αυξήθηκε λόγω των ανησυχιών των φορέων σχετικά με την κερδοφορία.",
+          "Οι πολίτες απολαμβάνουν πλέον εγχώριες χρεώσεις κατά τη χρήση κινητών τηλεφώνων σε ολόκληρη την ΕΕ, ωστόσο οι διαφορές στην υποδομή ενδέχεται να επηρεάζουν ακόμη την ποιότητα της υπηρεσίας.",
+          "Οι χρεώσεις περιαγωγής καταργήθηκαν παγκοσμίως χάρη στους κανονισμούς της ΕΕ."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο επιβεβαιώνει τη μείωση των χρεώσεων στα εγχώρια επίπεδα, ενώ επισημαίνει συνεχιζόμενες προκλήσεις υποδομής. Η Α είναι εσφαλμένη διότι οι φορείς χρειάστηκε να προσαρμοστούν. Η Β είναι εσφαλμένη διότι το κόστος μειώθηκε. Η Δ είναι εσφαλμένη διότι ο κανονισμός ισχύει μόνο εντός της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "The Labour Party has decided to rebuild its public image ahead of the forthcoming election, particularly in areas where the Liberal Party has recently achieved stronger electoral performance. The party's strategy will involve both television advertising and a coordinated press campaign. Four motivational television commercials have been produced and will be broadcast alternately on selected channels each day for an initial period of eight weeks, which may be extended if necessary. A similar timeframe is planned for the press campaign. The messaging in both media channels will be consistent: the image conveyed in the television advertisements must correspond to that presented in the press materials. Both campaigns aim to communicate the party's reliability and trustworthiness. Following the campaign, a return-on-investment study will evaluate its effectiveness and is expected to inform the design of future political campaigns.",
+        "question": "Which of the following statements is best supported by the passage?",
+        "options": [
+          "The Labour Party has already decided to extend the campaign beyond the initial eight-week period.",
+          "The ROI study will determine whether the Liberal Party's strategy was more successful.",
+          "The press campaign will target different voters from those reached through the television advertisements.",
+          "The campaign strategy seeks to ensure that the same core message is conveyed through different communication channels."
+        ],
+        "answer": 3,
+        "explanation": "The passage states that the image in both media channels must be consistent, indicating a deliberate cross-channel message strategy. A is wrong because extension is possible, not decided. B is wrong because the ROI study evaluates the Labour Party's own campaign. C is wrong because no differentiation of target audiences is mentioned."
+      },
+      "el": {
+        "passage": "Το Εργατικό Κόμμα αποφάσισε να ανασκευάσει τη δημόσια εικόνα του ενόψει των επικείμενων εκλογών, ιδίως σε περιοχές όπου το Φιλελεύθερο Κόμμα σημείωσε πρόσφατα ισχυρότερη εκλογική επίδοση. Η στρατηγική του κόμματος θα περιλαμβάνει τόσο τηλεοπτική διαφήμιση όσο και συντονισμένη εκστρατεία στον Τύπο. Τέσσερα τηλεοπτικά διαφημιστικά σποτ έχουν παραχθεί και θα μεταδίδονται εναλλάξ σε επιλεγμένα κανάλια για αρχική περίοδο οκτώ εβδομάδων, η οποία μπορεί να παραταθεί εφόσον κριθεί αναγκαίο. Παρόμοιο χρονοδιάγραμμα προβλέπεται για την εκστρατεία Τύπου. Τα μηνύματα και στα δύο μέσα θα είναι συνεκτικά: η εικόνα που αποδίδεται στις τηλεοπτικές διαφημίσεις πρέπει να αντιστοιχεί στην εικόνα που παρουσιάζεται στα έντυπα υλικά. Και οι δύο εκστρατείες στοχεύουν στην ανάδειξη της αξιοπιστίας και εντιμότητας του κόμματος. Μετά την εκστρατεία, μελέτη απόδοσης επένδυσης θα αξιολογήσει την αποτελεσματικότητά της.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Το Εργατικό Κόμμα έχει ήδη αποφασίσει να παρατείνει την εκστρατεία πέραν της αρχικής περιόδου οκτώ εβδομάδων.",
+          "Η μελέτη απόδοσης επένδυσης θα κρίνει κατά πόσον η στρατηγική του Φιλελεύθερου Κόμματος ήταν πιο επιτυχής.",
+          "Η εκστρατεία Τύπου θα απευθύνεται σε διαφορετικούς ψηφοφόρους από εκείνους που στοχεύουν οι τηλεοπτικές διαφημίσεις.",
+          "Η στρατηγική της εκστρατείας επιδιώκει να διασφαλίσει ότι το ίδιο βασικό μήνυμα μεταδίδεται μέσω διαφορετικών καναλιών επικοινωνίας."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο ορίζει ρητώς ότι η εικόνα και στα δύο μέσα πρέπει να είναι συνεκτική. Η Α είναι εσφαλμένη διότι η παράταση είναι πιθανή, όχι αποφασισμένη. Η Β είναι εσφαλμένη διότι η μελέτη αξιολογεί την εκστρατεία του ίδιου του Εργατικού Κόμματος. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται διαφοροποίηση κοινού-στόχου."
+      }
+    },
+    {
+      "en": {
+        "passage": "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
+        "question": "Which of the following statements is best supported by the passage?",
+        "options": [
+          "Corporations are increasingly turning to e-learning partly because it offers a more economical training solution.",
+          "E-learning programmes have completely replaced traditional leadership development programmes in large corporations.",
+          "E-learning is always more effective than traditional forms of corporate training.",
+          "Most e-learning programmes focus exclusively on financial planning."
+        ],
+        "answer": 0,
+        "explanation": "The passage links budget reductions with the adoption of cost-effective e-learning alternatives, directly supporting A. B is wrong because the passage says 'alternative', not 'replacement'. C is wrong because the passage says 'in some cases'. D is wrong because financial planning is only one of several areas mentioned."
+      },
+      "el": {
+        "passage": "Τα συστήματα ηλεκτρονικής μάθησης έχουν υιοθετηθεί πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για ατομική ή ομαδική κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες προσβάσιμες από προσωπικό υπολογιστή και με δυνατότητα αυτορρύθμιστης μάθησης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από τις παραδοσιακές μορφές κατάρτισης. Το περιεχόμενο ποικίλλει σημαντικά, αλλά χρησιμοποιείται συχνά για εισαγωγή σε νέες τεχνολογίες, βελτίωση διοικητικών ικανοτήτων και ενίσχυση δεξιοτήτων χρηματοοικονομικού σχεδιασμού.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Οι επιχειρήσεις στρέφονται ολοένα και περισσότερο στην ηλεκτρονική μάθηση εν μέρει επειδή προσφέρει πιο οικονομική λύση κατάρτισης.",
+          "Τα προγράμματα ηλεκτρονικής μάθησης έχουν αντικαταστήσει πλήρως τα παραδοσιακά προγράμματα ανάπτυξης ηγετικών ικανοτήτων στις μεγάλες επιχειρήσεις.",
+          "Η ηλεκτρονική μάθηση είναι πάντοτε πιο αποτελεσματική από τις παραδοσιακές μορφές εταιρικής κατάρτισης.",
+          "Τα περισσότερα προγράμματα ηλεκτρονικής μάθησης εστιάζουν αποκλειστικά στον χρηματοοικονομικό σχεδιασμό."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο συνδέει τις μειώσεις προϋπολογισμού με την υιοθέτηση οικονομικά αποδοτικών λύσεων ηλεκτρονικής μάθησης. Η Β είναι εσφαλμένη διότι χρησιμοποιείται ο όρος «εναλλακτική», όχι «αντικατάσταση». Η Γ είναι εσφαλμένη διότι το κείμενο αναφέρει «σε ορισμένες περιπτώσεις». Η Δ είναι εσφαλμένη διότι ο χρηματοοικονομικός σχεδιασμός είναι μόνο ένας από τους τομείς που αναφέρονται."
+      }
+    },
+    {
+      "en": {
+        "passage": "The European Union has invested heavily in its aerospace programme to strengthen research, innovation, and industrial competitiveness. Initiatives such as the Clean Sky and SESAR projects aim to reduce aviation's environmental impact while improving air traffic management across Europe. By fostering collaboration among member states, the EU hopes to maintain its leadership in aerospace technology, despite competition from global players. While funding and coordination challenges remain, these programmes are considered essential for sustainable growth in the sector.",
+        "question": "Which of the following statements best reflects the passage's main idea?",
+        "options": [
+          "The EU's aerospace programme focuses mostly on military applications.",
+          "Collaboration among member states is central to Europe's competitiveness in aerospace technology.",
+          "The EU has abandoned efforts to reduce aviation's environmental impact.",
+          "Global competition has made EU aerospace initiatives unnecessary."
+        ],
+        "answer": 1,
+        "explanation": "The passage emphasises collaboration among member states as the mechanism for maintaining EU aerospace leadership. A is wrong because no military applications are mentioned. C is false because environmental goals are explicitly stated. D contradicts the passage, which presents global competition as a reason to invest, not to abandon efforts."
+      },
+      "el": {
+        "passage": "Η Ευρωπαϊκή Ένωση έχει επενδύσει σημαντικά στο αεροδιαστημικό πρόγραμμά της για να ενισχύσει την έρευνα, την καινοτομία και τη βιομηχανική ανταγωνιστικότητα. Πρωτοβουλίες όπως τα έργα Clean Sky και SESAR στοχεύουν στη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας και στη βελτίωση της διαχείρισης εναέριας κυκλοφορίας. Μέσω της ενίσχυσης της συνεργασίας μεταξύ κρατών μελών, η ΕΕ ελπίζει να διατηρήσει την ηγετική της θέση, παρά τον διεθνή ανταγωνισμό. Αν και παραμένουν προκλήσεις χρηματοδότησης και συντονισμού, τα προγράμματα αυτά θεωρούνται απαραίτητα για τη βιώσιμη ανάπτυξη του κλάδου.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις αντικατοπτρίζει καλύτερα την κεντρική ιδέα του κειμένου;",
+        "options": [
+          "Το αεροδιαστημικό πρόγραμμα της ΕΕ επικεντρώνεται κυρίως σε στρατιωτικές εφαρμογές.",
+          "Η συνεργασία μεταξύ κρατών μελών είναι κεντρική για την ανταγωνιστικότητα της Ευρώπης στην αεροδιαστημική τεχνολογία.",
+          "Η ΕΕ έχει εγκαταλείψει τις προσπάθειες για τη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας.",
+          "Ο παγκόσμιος ανταγωνισμός έχει καταστήσει τις αεροδιαστημικές πρωτοβουλίες της ΕΕ περιττές."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο τονίζει τη συνεργασία μεταξύ κρατών μελών ως τον μηχανισμό για τη διατήρηση της ηγεσίας της ΕΕ. Η Α είναι εσφαλμένη διότι δεν αναφέρονται στρατιωτικές εφαρμογές. Η Γ είναι εσφαλμένη διότι οι περιβαλλοντικοί στόχοι αναφέρονται ρητά. Η Δ αντιφάσκει με το κείμενο, που παρουσιάζει τον ανταγωνισμό ως λόγο επένδυσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "Chess is a strategy game that has been played for centuries, requiring players to anticipate opponents' moves and plan several steps ahead. While luck plays virtually no role, cognitive skills such as memory, pattern recognition, and critical thinking are essential. Modern research suggests that regular chess practice can enhance problem-solving abilities and may even delay cognitive decline in older adults. Despite the rise of computer-based entertainment, chess continues to attract a global community of players of all ages.",
+        "question": "Which of the following can be inferred from the passage?",
+        "options": [
+          "Chess is primarily a game of chance rather than skill.",
+          "Computer games have completely replaced traditional chess among younger generations.",
+          "Playing chess may offer cognitive benefits beyond its value as entertainment.",
+          "Memory is not an important skill for playing chess effectively."
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that chess can enhance problem-solving abilities and delay cognitive decline, indicating benefits beyond entertainment. A contradicts the passage, which states luck plays virtually no role. B is false because chess continues to attract players globally. D contradicts the passage, which lists memory as a key cognitive skill."
+      },
+      "el": {
+        "passage": "Το σκάκι είναι ένα παιχνίδι στρατηγικής που παίζεται εδώ και αιώνες, απαιτώντας από τους παίκτες να προβλέπουν τις κινήσεις των αντιπάλων και να σχεδιάζουν αρκετά βήματα μπροστά. Ενώ η τύχη παίζει πρακτικά ανύπαρκτο ρόλο, γνωστικές δεξιότητες όπως η μνήμη, η αναγνώριση προτύπων και η κριτική σκέψη είναι απαραίτητες. Σύγχρονες έρευνες υποδηλώνουν ότι η τακτική εξάσκηση στο σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και ακόμη και να επιβραδύνει τη γνωστική έκπτωση σε ηλικιωμένους. Παρά την άνοδο της ψηφιακής ψυχαγωγίας, το σκάκι εξακολουθεί να προσελκύει παίκτες όλων των ηλικιών παγκοσμίως.",
+        "question": "Τι μπορεί να συναχθεί από το κείμενο;",
+        "options": [
+          "Το σκάκι είναι κυρίως παιχνίδι τύχης παρά δεξιότητας.",
+          "Τα ηλεκτρονικά παιχνίδια έχουν πλήρως αντικαταστήσει το σκάκι στις νεότερες γενιές.",
+          "Η εξάσκηση στο σκάκι ενδέχεται να προσφέρει γνωστικά οφέλη πέραν της αξίας του ως ψυχαγωγίας.",
+          "Η μνήμη δεν αποτελεί σημαντική δεξιότητα για την αποτελεσματική εξάσκηση στο σκάκι."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι το σκάκι μπορεί να βελτιώσει ικανότητες επίλυσης προβλημάτων και να επιβραδύνει τη γνωστική έκπτωση. Η Α αντιφάσκει με το κείμενο. Η Β είναι εσφαλμένη διότι το σκάκι εξακολουθεί να προσελκύει παίκτες παγκοσμίως. Η Δ αντιφάσκει με το κείμενο, που αναφέρει τη μνήμη ως βασική δεξιότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "Some companies adopt AI aggressively, while others avoid it altogether. Those that adopt AI are not necessarily better performers in every industry, yet it would be incorrect to assume that avoiding AI guarantees inferior results. Industries differ, and context often dictates whether AI adoption is beneficial or even necessary.",
+        "question": "Which conclusion is best drawn from the passage?",
+        "options": [
+          "Adopting AI always leads to superior business performance.",
+          "Avoiding AI always results in poor organisational performance.",
+          "All industries will benefit equally from the adoption of AI technologies.",
+          "The impact of AI adoption on performance depends on the specific industry context."
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly states that context often dictates whether AI adoption is beneficial or necessary, and that AI adopters are not necessarily better performers in every industry. A and B are overgeneralisations contradicted by the passage. C ignores the context-dependent nature of AI benefits that the passage emphasises."
+      },
+      "el": {
+        "passage": "Ορισμένες εταιρείες υιοθετούν εντατικά την τεχνητή νοημοσύνη, ενώ άλλες την αποφεύγουν εντελώς. Εκείνες που υιοθετούν ΤΝ δεν επιτυγχάνουν κατ' ανάγκη καλύτερες επιδόσεις σε κάθε κλάδο, ωστόσο θα ήταν εσφαλμένο να υποθέσουμε ότι η αποφυγή της ΤΝ εγγυάται κατώτερα αποτελέσματα. Οι κλάδοι διαφέρουν μεταξύ τους, και το πλαίσιο συχνά καθορίζει εάν η υιοθέτηση ΤΝ είναι ωφέλιμη ή και αναγκαία.",
+        "question": "Ποιο συμπέρασμα προκύπτει καλύτερα από το κείμενο;",
+        "options": [
+          "Η υιοθέτηση τεχνητής νοημοσύνης οδηγεί πάντοτε σε ανώτερη επιχειρηματική απόδοση.",
+          "Η αποφυγή της τεχνητής νοημοσύνης οδηγεί πάντοτε σε κακή οργανωτική απόδοση.",
+          "Όλοι οι κλάδοι θα ωφεληθούν εξίσου από την υιοθέτηση τεχνολογιών τεχνητής νοημοσύνης.",
+          "Ο αντίκτυπος της υιοθέτησης τεχνητής νοημοσύνης στην απόδοση εξαρτάται από το συγκεκριμένο κλαδικό πλαίσιο."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο δηλώνει ρητά ότι το πλαίσιο καθορίζει συχνά εάν η υιοθέτηση ΤΝ είναι ωφέλιμη και ότι η υιοθέτησή της δεν εγγυάται υπεροχή σε κάθε κλάδο. Οι επιλογές Α και Β αποτελούν υπεργενικεύσεις που αντιφάσκουν με το κείμενο. Η Γ αγνοεί τη συναρτώμενη με το πλαίσιο φύση των ωφελειών της ΤΝ."
+      }
+    },
+    {
+      "en": {
+        "passage": "The Arctic region is experiencing unprecedented changes due to climate warming. Sea ice is shrinking at a faster rate than previously predicted, affecting both wildlife and human activities. Indigenous communities rely on traditional hunting and fishing, which are increasingly disrupted by changing ice patterns. In addition, new shipping routes are opening as ice retreats, raising concerns about environmental damage, oil spills, and threats to fragile ecosystems. Scientists stress that without urgent global action, the Arctic's biodiversity and the livelihoods of its inhabitants could be irreversibly harmed.",
+        "question": "Which of the following statements is most accurate based on the passage?",
+        "options": [
+          "The melting of Arctic ice has consequences for both local communities and the broader environment.",
+          "Arctic sea ice is expanding, creating new opportunities for commercial shipping.",
+          "Indigenous communities are largely unaffected by climate change in the Arctic.",
+          "Scientists believe that Arctic ecosystems are sufficiently resilient to withstand current changes."
+        ],
+        "answer": 0,
+        "explanation": "The passage describes impacts on wildlife, indigenous livelihoods, and the environment, making A the accurate synthesis. B is wrong because ice is shrinking, not expanding. C is wrong because the passage explicitly states that indigenous communities are disrupted. D contradicts the passage, which warns of irreversible harm."
+      },
+      "el": {
+        "passage": "Η αρκτική περιοχή βιώνει πρωτοφανείς αλλαγές λόγω της κλιματικής αύξησης της θερμοκρασίας. Ο θαλάσσιος πάγος συρρικνώνεται με ταχύτερο ρυθμό από ό,τι είχε προβλεφθεί, επηρεάζοντας τόσο την άγρια ζωή όσο και τις ανθρώπινες δραστηριότητες. Οι αυτόχθονες κοινότητες εξαρτώνται από την παραδοσιακή κυνηγεσία και αλιεία, που διαταράσσονται ολοένα και περισσότερο από τις μεταβαλλόμενες συνθήκες πάγου. Επιπλέον, νέες θαλάσσιες οδοί ανοίγονται καθώς ο πάγος υποχωρεί, εγείροντας ανησυχίες για περιβαλλοντικές ζημιές και απειλές για εύθραυστα οικοσυστήματα. Επιστήμονες τονίζουν ότι χωρίς επειγόμενη παγκόσμια δράση, η βιοποικιλότητα της Αρκτικής και τα μέσα διαβίωσης των κατοίκων της θα μπορούσαν να πληγούν ανεπανόρθωτα.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής βάσει του κειμένου;",
+        "options": [
+          "Η τήξη των πάγων στην Αρκτική έχει συνέπειες τόσο για τις τοπικές κοινότητες όσο και για το ευρύτερο περιβάλλον.",
+          "Ο θαλάσσιος πάγος της Αρκτικής διευρύνεται, δημιουργώντας νέες ευκαιρίες για εμπορική ναυτιλία.",
+          "Οι αυτόχθονες κοινότητες επηρεάζονται ελάχιστα από την κλιματική αλλαγή στην Αρκτική.",
+          "Επιστήμονες πιστεύουν ότι τα αρκτικά οικοσυστήματα είναι αρκετά ανθεκτικά ώστε να αντέξουν τις τρέχουσες αλλαγές."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο περιγράφει επιπτώσεις στην άγρια ζωή, στα μέσα διαβίωσης των αυτόχθονων και στο περιβάλλον. Η Β είναι εσφαλμένη διότι ο πάγος συρρικνώνεται. Η Γ είναι εσφαλμένη διότι οι αυτόχθονες κοινότητες επηρεάζονται άμεσα. Η Δ αντιφάσκει με το κείμενο, που προειδοποιεί για ανεπανόρθωτη ζημιά."
+      }
+    },
+    {
+      "en": {
+        "passage": "The European Union has implemented various measures to protect wild fauna, including the Habitats Directive and the Natura 2000 network. These frameworks aim to conserve species and habitats that are threatened or declining. Member states are required to establish protected areas and implement management plans, ensuring that human activities do not jeopardise vulnerable populations. Despite these efforts, challenges such as habitat fragmentation, poaching, and climate change continue to threaten Europe's biodiversity. Cooperation among countries is considered essential to achieving long-term protection goals.",
+        "question": "Which statement can be correctly inferred from the passage?",
+        "options": [
+          "EU legislation guarantees that all wildlife in Europe is completely safe from harm.",
+          "Protecting wild fauna in the EU requires coordination between member states.",
+          "Poaching and habitat fragmentation have been eliminated thanks to EU directives.",
+          "Only a limited number of species benefit from EU wildlife protection measures."
+        ],
+        "answer": 1,
+        "explanation": "The passage explicitly states that cooperation among countries is essential for long-term protection goals. A is wrong because challenges still persist. C is false because poaching and fragmentation are described as ongoing threats. D is wrong because the frameworks target multiple species and habitats broadly."
+      },
+      "el": {
+        "passage": "Η Ευρωπαϊκή Ένωση έχει εφαρμόσει διάφορα μέτρα για την προστασία της άγριας πανίδας, συμπεριλαμβανομένης της Οδηγίας για τους Οικοτόπους και του δικτύου Natura 2000. Αυτά τα πλαίσια στοχεύουν στη διατήρηση ειδών και οικοτόπων που απειλούνται ή μειώνονται. Τα κράτη μέλη υποχρεούνται να ορίσουν προστατευόμενες περιοχές και να εφαρμόσουν σχέδια διαχείρισης, ώστε οι ανθρώπινες δραστηριότητες να μη θέτουν σε κίνδυνο ευάλωτους πληθυσμούς. Παρά τις προσπάθειες αυτές, προκλήσεις όπως ο κατακερματισμός οικοτόπων, η λαθροθηρία και η κλιματική αλλαγή εξακολουθούν να απειλούν τη βιοποικιλότητα της Ευρώπης. Η συνεργασία μεταξύ κρατών θεωρείται απαραίτητη για την επίτευξη μακροπρόθεσμων στόχων προστασίας.",
+        "question": "Ποια δήλωση μπορεί να συναχθεί ορθά από το κείμενο;",
+        "options": [
+          "Η νομοθεσία της ΕΕ εγγυάται ότι όλη η άγρια ζωή στην Ευρώπη είναι απολύτως προστατευμένη.",
+          "Η προστασία της άγριας πανίδας στην ΕΕ απαιτεί συντονισμό μεταξύ των κρατών μελών.",
+          "Η λαθροθηρία και ο κατακερματισμός οικοτόπων έχουν εξαλειφθεί χάρη στις οδηγίες της ΕΕ.",
+          "Μόνο περιορισμένος αριθμός ειδών επωφελείται από τα μέτρα προστασίας άγριας ζωής της ΕΕ."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η συνεργασία μεταξύ κρατών είναι απαραίτητη. Η Α είναι εσφαλμένη διότι οι προκλήσεις εξακολουθούν να υφίστανται. Η Γ είναι εσφαλμένη διότι η λαθροθηρία και ο κατακερματισμός περιγράφονται ως συνεχιζόμενες απειλές. Η Δ είναι εσφαλμένη διότι τα πλαίσια αφορούν ευρύ φάσμα ειδών."
+      }
+    },
+    {
+      "en": {
+        "passage": "Kaliningrad is a Russian exclave located between Poland and Lithuania on the Baltic Sea. Despite being geographically separated from mainland Russia, it plays a crucial role in regional security and trade. The exclave's location has led to complex relations with the European Union and neighbouring countries, particularly regarding transit, border controls, and economic cooperation. While some view Kaliningrad as strategically important for Russia, others argue that its position makes it vulnerable to regional tensions and dependent on agreements with EU member states.",
+        "question": "Which of the following statements is most supported by the passage?",
+        "options": [
+          "Kaliningrad is geographically contiguous with the rest of Russia.",
+          "The EU fully controls Kaliningrad's trade and security arrangements.",
+          "Kaliningrad's geographic position creates both strategic opportunities and potential vulnerabilities for Russia.",
+          "Russia has no strategic interest in Kaliningrad due to its distance from the mainland."
+        ],
+        "answer": 2,
+        "explanation": "The passage presents two perspectives: Kaliningrad as strategically important and simultaneously vulnerable. A is wrong because it is an exclave, separated from mainland Russia. B is wrong because the EU does not control it. D contradicts the passage, which clearly states Russia views it as strategically important."
+      },
+      "el": {
+        "passage": "Το Καλίνινγκραντ είναι ένας ρωσικός θύλακας που βρίσκεται μεταξύ Πολωνίας και Λιθουανίας στη Βαλτική Θάλασσα. Παρά τον γεωγραφικό διαχωρισμό από την ηπειρωτική Ρωσία, διαδραματίζει καθοριστικό ρόλο στην περιφερειακή ασφάλεια και το εμπόριο. Η θέση του θύλακα έχει οδηγήσει σε σύνθετες σχέσεις με την Ευρωπαϊκή Ένωση και τις γειτονικές χώρες, ιδίως όσον αφορά τη διέλευση, τους ελέγχους συνόρων και την οικονομική συνεργασία. Ενώ ορισμένοι θεωρούν το Καλίνινγκραντ στρατηγικά σημαντικό για τη Ρωσία, άλλοι υποστηρίζουν ότι η θέση του το καθιστά ευάλωτο σε περιφερειακές εντάσεις και εξαρτώμενο από συμφωνίες με κράτη μέλη της ΕΕ.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Το Καλίνινγκραντ συνορεύει γεωγραφικά με την υπόλοιπη Ρωσία.",
+          "Η ΕΕ ελέγχει πλήρως τις εμπορικές και αμυντικές ρυθμίσεις του Καλίνινγκραντ.",
+          "Η γεωγραφική θέση του Καλίνινγκραντ δημιουργεί τόσο στρατηγικές ευκαιρίες όσο και δυνητικές τρωτότητες για τη Ρωσία.",
+          "Η Ρωσία δεν έχει στρατηγικό ενδιαφέρον για το Καλίνινγκραντ λόγω της απόστασής του από την ηπειρωτική χώρα."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο παρουσιάζει δύο οπτικές: το Καλίνινγκραντ ως στρατηγικά σημαντικό και ταυτόχρονα ευάλωτο. Η Α είναι εσφαλμένη διότι είναι θύλακας. Η Β είναι εσφαλμένη διότι η ΕΕ δεν το ελέγχει. Η Δ αντιφάσκει με το κείμενο, που το χαρακτηρίζει στρατηγικά σημαντικό για τη Ρωσία."
+      }
+    },
+    {
+      "en": {
+        "passage": "Nuclear energy remains a significant component of the European Union's energy mix, providing low-carbon electricity in several member states. Supporters argue that nuclear power contributes to energy security and helps reduce greenhouse gas emissions, while opponents raise concerns about radioactive waste, plant safety, and high costs. Different countries within the EU have diverging policies: some plan to phase out nuclear energy, whereas others intend to maintain or even expand their nuclear capacity. Coordinated EU-level strategies are challenging due to these national differences, despite shared climate and energy objectives.",
+        "question": "Which of the following conclusions is most accurate according to the passage?",
+        "options": [
+          "All EU member states are planning to expand their nuclear energy capacity.",
+          "Nuclear energy makes no contribution to reducing greenhouse gas emissions.",
+          "Safety concerns and radioactive waste are irrelevant to EU nuclear policy debates.",
+          "Diverging national policies on nuclear energy make EU-wide coordination difficult."
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly states that diverging national policies make EU-level coordination challenging. A is wrong because some countries are phasing out nuclear energy. B is wrong because nuclear is described as low-carbon. C is wrong because safety and waste concerns are specifically listed as key issues."
+      },
+      "el": {
+        "passage": "Η πυρηνική ενέργεια παραμένει σημαντικό στοιχείο του ενεργειακού μείγματος της Ευρωπαϊκής Ένωσης, παρέχοντας ηλεκτρισμό χαμηλού άνθρακα σε αρκετά κράτη μέλη. Οι υποστηρικτές υποστηρίζουν ότι η πυρηνική ενέργεια συμβάλλει στην ενεργειακή ασφάλεια και στη μείωση εκπομπών αερίων θερμοκηπίου, ενώ οι αντίπαλοι εγείρουν ανησυχίες για ραδιενεργά απόβλητα, ασφάλεια εγκαταστάσεων και υψηλό κόστος. Διαφορετικές χώρες της ΕΕ ακολουθούν αποκλίνουσες πολιτικές: ορισμένες σχεδιάζουν να εγκαταλείψουν την πυρηνική ενέργεια, ενώ άλλες σκοπεύουν να διατηρήσουν ή και να επεκτείνουν την πυρηνική τους δυναμικότητα. Οι συντονισμένες στρατηγικές σε επίπεδο ΕΕ είναι δύσκολες λόγω αυτών των εθνικών διαφορών, παρά τους κοινούς κλιματικούς και ενεργειακούς στόχους.",
+        "question": "Ποιο από τα ακόλουθα συμπεράσματα είναι πλέον ακριβές σύμφωνα με το κείμενο;",
+        "options": [
+          "Όλα τα κράτη μέλη της ΕΕ σχεδιάζουν να επεκτείνουν την πυρηνική τους ικανότητα.",
+          "Η πυρηνική ενέργεια δεν συμβάλλει καθόλου στη μείωση εκπομπών αερίων θερμοκηπίου.",
+          "Οι ανησυχίες ασφάλειας και τα ραδιενεργά απόβλητα είναι άσχετα με τις συζητήσεις πολιτικής για την πυρηνική ενέργεια στην ΕΕ.",
+          "Οι αποκλίνουσες εθνικές πολιτικές για την πυρηνική ενέργεια δυσχεραίνουν τον συντονισμό σε επίπεδο ΕΕ."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι οι αποκλίνουσες εθνικές πολιτικές δυσχεραίνουν τον συντονισμό. Η Α είναι εσφαλμένη διότι ορισμένες χώρες εγκαταλείπουν την πυρηνική ενέργεια. Η Β είναι εσφαλμένη διότι η πυρηνική ενέργεια χαρακτηρίζεται ως χαμηλού άνθρακα. Η Γ είναι εσφαλμένη διότι οι ανησυχίες ασφάλειας και αποβλήτων αναφέρονται ρητά."
+      }
+    },
+    {
+      "en": {
+        "passage": "The European Union requires that genetically modified (GM) foods be clearly labelled, allowing consumers to make informed choices. Some manufacturers challenged this requirement in court and won certain cases, arguing that the regulation imposed unfair costs or restrictions. However, these legal victories are considered Pyrrhic: although the manufacturers won in the short term, the rulings delayed the implementation of the labelling law. This allowed competitors who did not use GM ingredients to explicitly advertise 'non-GM' products on their packaging, gaining a competitive marketing advantage.",
+        "question": "Why is the court victory described as a Pyrrhic win?",
+        "options": [
+          "Although manufacturers prevailed legally, the delay gave competitors an advantage in marketing non-GM products.",
+          "The court fully overturned the EU labelling requirement, forcing all manufacturers to remove labels.",
+          "Winning the case prevented competitors from advertising non-GM products on their packaging.",
+          "The ruling immediately caused equal financial harm to all manufacturers involved."
+        ],
+        "answer": 0,
+        "explanation": "A Pyrrhic victory is a win that comes at a damaging cost. The legal win delayed the labelling law, allowing competitors to market 'non-GM' products first and gain a competitive edge. B is wrong because the court did not fully overturn labelling. C is wrong because competitors did gain the ability to advertise. D is wrong because the harm was strategic, not immediate financial."
+      },
+      "el": {
+        "passage": "Η Ευρωπαϊκή Ένωση απαιτεί τη σαφή επισήμανση γενετικά τροποποιημένων (ΓΤ) τροφίμων, επιτρέποντας στους καταναλωτές να κάνουν ενημερωμένες επιλογές. Ορισμένοι κατασκευαστές αμφισβήτησαν αυτή την απαίτηση δικαστικά και κέρδισαν ορισμένες υποθέσεις, υποστηρίζοντας ότι ο κανονισμός επέβαλε άδικο κόστος ή περιορισμούς. Ωστόσο, οι νομικές αυτές νίκες θεωρούνται Πύρρειες: αν και οι κατασκευαστές κέρδισαν βραχυπρόθεσμα, οι αποφάσεις καθυστέρησαν την εφαρμογή της νομοθεσίας επισήμανσης. Αυτό επέτρεψε σε ανταγωνιστές που δεν χρησιμοποιούσαν ΓΤ συστατικά να διαφημίσουν ρητά τα προϊόντα τους ως «μη-ΓΤ», αποκτώντας ανταγωνιστικό πλεονέκτημα.",
+        "question": "Γιατί η δικαστική νίκη χαρακτηρίζεται ως Πύρρεια;",
+        "options": [
+          "Αν και οι κατασκευαστές επικράτησαν νομικά, η καθυστέρηση έδωσε στους ανταγωνιστές πλεονέκτημα στο μάρκετινγκ μη-ΓΤ προϊόντων.",
+          "Το δικαστήριο ακύρωσε πλήρως την απαίτηση επισήμανσης της ΕΕ, αναγκάζοντας όλους τους κατασκευαστές να αφαιρέσουν ετικέτες.",
+          "Η νίκη στη δίκη εμπόδισε τους ανταγωνιστές να διαφημίσουν μη-ΓΤ προϊόντα στη συσκευασία τους.",
+          "Η απόφαση προκάλεσε άμεσα ισόποση οικονομική ζημία σε όλους τους εμπλεκόμενους κατασκευαστές."
+        ],
+        "answer": 0,
+        "explanation": "Μια Πύρρεια νίκη είναι μια επιτυχία που έρχεται με βαρύ κόστος. Η νομική νίκη καθυστέρησε την επισήμανση, επιτρέποντας στους ανταγωνιστές να κυκλοφορήσουν πρώτοι «μη-ΓΤ» προϊόντα. Η Β είναι εσφαλμένη διότι το δικαστήριο δεν ακύρωσε πλήρως την επισήμανση. Η Γ είναι εσφαλμένη διότι οι ανταγωνιστές όντως κέρδισαν το δικαίωμα διαφήμισης. Η Δ είναι εσφαλμένη διότι η ζημία ήταν στρατηγική, όχι άμεση οικονομική."
+      }
+    },
+    {
+      "en": {
+        "passage": "The European Green Deal, unveiled in 2019 and revised through 2024, is the EU's flagship strategy to achieve climate neutrality by 2050. It encompasses measures to reduce greenhouse gas emissions, promote circular economies, and accelerate the transition to renewable energy. Recent amendments have tightened targets for emissions and land use, while introducing a Carbon Border Adjustment Mechanism to address carbon leakage from imports. While the plan has drawn praise for its ambition, critics argue that implementation gaps, uneven member state commitment, and social pushback — especially from farming and transport sectors — may undermine its impact.",
+        "question": "Which of the following is the primary topic of the passage?",
+        "options": [
+          "The consequences of climate change in southern EU member states.",
+          "The scope, evolution, and implementation challenges of the European Green Deal.",
+          "The central role of agriculture in European renewable energy markets.",
+          "The legal enforcement mechanisms of EU environmental treaties."
+        ],
+        "answer": 1,
+        "explanation": "The passage covers what the Green Deal is, how it has been revised, and what challenges threaten its implementation. A is too narrow and not discussed. C is a distortion: agriculture is mentioned only as a reacting sector. D is wrong because legal enforcement mechanisms are not discussed."
+      },
+      "el": {
+        "passage": "Η Ευρωπαϊκή Πράσινη Συμφωνία, που παρουσιάστηκε το 2019 και αναθεωρήθηκε έως το 2024, είναι η εμβληματική στρατηγική της ΕΕ για την επίτευξη κλιματικής ουδετερότητας έως το 2050. Περιλαμβάνει μέτρα για τη μείωση εκπομπών αερίων θερμοκηπίου, την προώθηση κυκλικών οικονομιών και την επιτάχυνση της μετάβασης στις ανανεώσιμες πηγές ενέργειας. Πρόσφατες τροπολογίες αύξησαν τους στόχους για εκπομπές και χρήση γης, εισάγοντας παράλληλα Μηχανισμό Άνθρακα στα Σύνορα. Ενώ το σχέδιο έχει επαινεθεί για τη φιλοδοξία του, επικριτές υποστηρίζουν ότι κενά εφαρμογής, ανομοιόμορφη δέσμευση κρατών μελών και κοινωνικές αντιδράσεις — ιδίως από τους τομείς της γεωργίας και των μεταφορών — ενδέχεται να υπονομεύσουν τον αντίκτυπό της.",
+        "question": "Ποιο είναι το κύριο θέμα του κειμένου;",
+        "options": [
+          "Οι συνέπειες της κλιματικής αλλαγής στα νότια κράτη μέλη της ΕΕ.",
+          "Το πεδίο εφαρμογής, η εξέλιξη και οι προκλήσεις εφαρμογής της Ευρωπαϊκής Πράσινης Συμφωνίας.",
+          "Ο κεντρικός ρόλος της γεωργίας στις ευρωπαϊκές αγορές ανανεώσιμης ενέργειας.",
+          "Οι μηχανισμοί νομικής επιβολής των περιβαλλοντικών συνθηκών της ΕΕ."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο καλύπτει το τι είναι η Πράσινη Συμφωνία, πώς αναθεωρήθηκε και ποιες προκλήσεις απειλούν την εφαρμογή της. Η Α είναι υπερβολικά στενή. Η Γ παραμορφώνει το κείμενο: η γεωργία αναφέρεται μόνο ως τομέας αντίδρασης. Η Δ είναι εσφαλμένη διότι δεν συζητούνται μηχανισμοί νομικής επιβολής."
+      }
+    },
+    {
+      "en": {
+        "passage": "In the European Union, all officially recognised minority languages are protected under the Charter for Regional or Minority Languages. However, not all protected languages are granted the status of working languages within EU institutions. Some working languages, such as French or German, are also dominant national languages and are therefore not classified as minority tongues. Interestingly, no unrecognised language is protected, though a few protected ones are not widely spoken. Additionally, some minority cultures receive EU funding for preservation efforts, but no culture receives funding without being affiliated to a protected language community.",
+        "question": "Which of the following can be correctly inferred from the passage?",
+        "options": [
+          "All protected languages in the EU are also designated as working languages of EU institutions.",
+          "Some working languages of the EU are neither protected nor classified as minority languages.",
+          "No cultural group is eligible for EU funding unless its language is officially protected.",
+          "All unrecognised languages in the EU are widely spoken by large populations."
+        ],
+        "answer": 2,
+        "explanation": "The passage states explicitly that no culture receives funding without being affiliated to a protected language community, directly supporting C. A is wrong because not all protected languages are working languages. B is tempting but not supported: the passage does not confirm that non-minority working languages are unprotected. D is unsupported: the passage says nothing about how widely unrecognised languages are spoken."
+      },
+      "el": {
+        "passage": "Στην Ευρωπαϊκή Ένωση, όλες οι επίσημα αναγνωρισμένες μειονοτικές γλώσσες προστατεύονται βάσει του Χάρτη Περιφερειακών ή Μειονοτικών Γλωσσών. Ωστόσο, δεν αποκτούν όλες καθεστώς εργαζόμενης γλώσσας στα θεσμικά όργανα της ΕΕ. Ορισμένες εργαζόμενες γλώσσες, όπως η γαλλική ή η γερμανική, είναι επίσης κυρίαρχες εθνικές γλώσσες και επομένως δεν κατατάσσονται ως μειονοτικές. Αξιοσημείωτα, καμία μη αναγνωρισμένη γλώσσα δεν προστατεύεται, αν και ορισμένες προστατευόμενες δεν ομιλούνται ευρέως. Επιπλέον, κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με μια προστατευόμενη γλωσσική κοινότητα.",
+        "question": "Ποιο από τα ακόλουθα μπορεί να συναχθεί ορθά από το κείμενο;",
+        "options": [
+          "Όλες οι προστατευόμενες γλώσσες στην ΕΕ ορίζονται επίσης ως εργαζόμενες γλώσσες των θεσμικών οργάνων.",
+          "Ορισμένες εργαζόμενες γλώσσες της ΕΕ δεν είναι ούτε προστατευόμενες ούτε κατηγοριοποιούνται ως μειονοτικές.",
+          "Καμία πολιτισμική ομάδα δεν δικαιούται χρηματοδότηση από την ΕΕ εκτός εάν η γλώσσα της είναι επίσημα προστατευόμενη.",
+          "Όλες οι μη αναγνωρισμένες γλώσσες στην ΕΕ ομιλούνται ευρέως από μεγάλους πληθυσμούς."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο δηλώνει ρητά ότι κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με προστατευόμενη γλωσσική κοινότητα — άμεση βάση για την επιλογή Γ. Η Α είναι εσφαλμένη. Η Β είναι παραπλανητική αλλά δεν τεκμηριώνεται. Η Δ δεν υποστηρίζεται από το κείμενο."
+      }
+    },
+    {
+      "en": {
+        "passage": "While many associate classical music with the Germanic canon — Beethoven, Bach, and Brahms — Europe's musical heritage is far more geographically diverse. Italy gave rise to Vivaldi and Verdi, whose styles shaped both the Baroque concerto and Romantic opera. France, too, played a pivotal role through composers like Debussy, who broke with traditional harmony to explore musical impressionism. Although many of these composers influenced one another, not all were contemporaries; Bach and Vivaldi shared a time period, but Verdi lived a century later. Despite stylistic differences, most major European composers worked within structures shaped by court patronage, church commissions, or emerging public concert culture.",
+        "question": "Which of the following statements is correct according to the passage?",
+        "options": [
+          "All major European composers lived and worked during the same historical period.",
+          "German composers were the principal architects of the entire European classical music tradition.",
+          "Verdi and Bach were close contemporaries who influenced each other's compositions.",
+          "The emergence of public concert culture was among the structures within which classical composers worked."
+        ],
+        "answer": 3,
+        "explanation": "The passage's final sentence explicitly mentions 'emerging public concert culture' as one of the frameworks within which major composers worked, directly supporting D. A is wrong because Verdi lived a century after Bach. B is wrong because the passage emphasises geographical diversity. C is wrong because the passage states Verdi and Bach were not contemporaries."
+      },
+      "el": {
+        "passage": "Ενώ πολλοί συνδέουν την κλασική μουσική με το γερμανικό κανόνα — Beethoven, Bach και Brahms — η μουσική κληρονομιά της Ευρώπης είναι πολύ πιο γεωγραφικά ποικιλόμορφη. Η Ιταλία ανέδειξε τον Vivaldi και τον Verdi, των οποίων τα στιλ διαμόρφωσαν τόσο το μπαρόκ κοντσέρτο όσο και τη ρομαντική όπερα. Η Γαλλία διαδραμάτισε κεντρικό ρόλο μέσω συνθετών όπως ο Debussy. Αν και πολλοί από αυτούς τους συνθέτες επηρέαζαν ο ένας τον άλλον, δεν ήταν όλοι σύγχρονοι· ο Bach και ο Vivaldi έζησαν στην ίδια εποχή, αλλά ο Verdi έζησε έναν αιώνα αργότερα. Παρά τις στιλιστικές διαφορές, οι περισσότεροι μεγάλοι Ευρωπαίοι συνθέτες εργάστηκαν εντός δομών που διαμορφώθηκαν από αυλική προστασία, εκκλησιαστικές παραγγελίες ή αναδυόμενο δημόσιο πολιτισμό συναυλιών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
+        "options": [
+          "Όλοι οι μεγάλοι Ευρωπαίοι συνθέτες έζησαν και εργάστηκαν την ίδια ιστορική περίοδο.",
+          "Οι Γερμανοί συνθέτες υπήρξαν οι κύριοι αρχιτέκτονες ολόκληρης της ευρωπαϊκής κλασικής μουσικής παράδοσης.",
+          "Ο Verdi και ο Bach ήταν στενοί σύγχρονοι που επηρέασαν ο ένας τις συνθέσεις του άλλου.",
+          "Η ανάδυση της δημόσιας κουλτούρας συναυλιών ήταν μία από τις δομές εντός των οποίων εργάστηκαν οι κλασικοί συνθέτες."
+        ],
+        "answer": 3,
+        "explanation": "Η τελευταία πρόταση του κειμένου αναφέρει ρητά την «αναδυόμενη δημόσια κουλτούρα συναυλιών» ως ένα από τα πλαίσια εργασίας. Η Α είναι εσφαλμένη διότι ο Verdi έζησε έναν αιώνα μετά τον Bach. Η Β είναι εσφαλμένη διότι το κείμενο τονίζει τη γεωγραφική ποικιλομορφία. Η Γ είναι εσφαλμένη διότι ο Verdi και ο Bach δεν ήταν σύγχρονοι."
+      }
+    },
+    {
+      "en": {
+        "passage": "Philosophy, though often dismissed as abstract speculation, remains central to shaping human inquiry. From the ethics of artificial intelligence to debates on free will, philosophy frames the very questions science seeks to answer. While empirical research can reveal how the world functions, it cannot resolve why certain values should guide human choices. Without philosophical reflection, technological progress risks becoming aimless or even dangerous, as innovation devoid of ethical grounding may harm rather than benefit society.",
+        "question": "Which of the following does the passage suggest?",
+        "options": [
+          "Philosophy provides an ethical framework necessary for guiding scientific and technological progress.",
+          "Science is fully capable of resolving both factual and moral questions.",
+          "Abstract philosophical speculation has no meaningful role in practical human affairs.",
+          "Technological progress is always beneficial to society, regardless of its ethical grounding."
+        ],
+        "answer": 0,
+        "explanation": "The passage explicitly states that without philosophical reflection, innovation risks becoming dangerous, and that science cannot resolve why certain values should guide choices, supporting A. B is wrong because the passage says science cannot resolve moral questions. C and D directly contradict the text."
+      },
+      "el": {
+        "passage": "Η φιλοσοφία, αν και συχνά απορρίπτεται ως αφηρημένη σκέψη, παραμένει κεντρική για τη διαμόρφωση της ανθρώπινης διερεύνησης. Από την ηθική της τεχνητής νοημοσύνης έως τις συζητήσεις για την ελεύθερη βούληση, η φιλοσοφία ορίζει τα ερωτήματα που επιδιώκει να απαντήσει η επιστήμη. Ενώ η εμπειρική έρευνα μπορεί να αποκαλύψει πώς λειτουργεί ο κόσμος, δεν μπορεί να επιλύσει το γιατί ορισμένες αξίες πρέπει να καθοδηγούν τις ανθρώπινες επιλογές. Χωρίς φιλοσοφικό αναστοχασμό, η τεχνολογική πρόοδος κινδυνεύει να γίνει αδιέξοδη ή και επικίνδυνη.",
+        "question": "Τι υποδηλώνει το κείμενο;",
+        "options": [
+          "Η φιλοσοφία παρέχει το ηθικό πλαίσιο που είναι απαραίτητο για την καθοδήγηση της επιστημονικής και τεχνολογικής προόδου.",
+          "Η επιστήμη είναι πλήρως ικανή να επιλύει τόσο πραγματολογικά όσο και ηθικά ζητήματα.",
+          "Η αφηρημένη φιλοσοφική σκέψη δεν έχει ουσιαστικό ρόλο στις πρακτικές ανθρώπινες υποθέσεις.",
+          "Η τεχνολογική πρόοδος είναι πάντοτε ωφέλιμη για την κοινωνία, ανεξαρτήτως ηθικής θεμελίωσης."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο δηλώνει ρητά ότι χωρίς φιλοσοφική σκέψη η καινοτομία κινδυνεύει να γίνει επικίνδυνη και ότι η επιστήμη δεν μπορεί να επιλύσει ηθικά ζητήματα. Η Β είναι εσφαλμένη. Οι επιλογές Γ και Δ αντιφάσκουν άμεσα με το κείμενο."
+      }
+    },
+    {
+      "en": {
+        "passage": "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
+        "question": "Which of the following can be most reasonably inferred from the passage?",
+        "options": [
+          "Corporations that adopt e-learning typically abandon all forms of traditional training.",
+          "Budget pressures have led corporations to explore more economical alternatives to traditional training.",
+          "The effectiveness of e-learning depends primarily on the learner's access to a personal computer.",
+          "E-learning programmes are designed primarily to replace leadership development programmes."
+        ],
+        "answer": 1,
+        "explanation": "The passage links reduced budgets with the adoption of cost-effective e-learning alternatives, directly supporting B. A is an overgeneralisation: the passage uses 'alternative', not 'replacement'. C is unsupported: personal computers are mentioned as a means of access, not as the primary determinant of effectiveness. D is wrong because the passage describes e-learning as an alternative, not a designed replacement."
+      },
+      "el": {
+        "passage": "Τα συστήματα ηλεκτρονικής μάθησης υιοθετούνται πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες που επιτρέπουν αυτορρύθμιστη μάθηση, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από την παραδοσιακή κατάρτιση.",
+        "question": "Ποιο από τα ακόλουθα μπορεί να συναχθεί με τον πλέον εύλογο τρόπο από το κείμενο;",
+        "options": [
+          "Οι επιχειρήσεις που υιοθετούν ηλεκτρονική μάθηση συνήθως εγκαταλείπουν όλες τις παραδοσιακές μορφές κατάρτισης.",
+          "Οι πιέσεις προϋπολογισμού ώθησαν τις επιχειρήσεις να αναζητήσουν πιο οικονομικές εναλλακτικές λύσεις στην παραδοσιακή κατάρτιση.",
+          "Η αποτελεσματικότητα της ηλεκτρονικής μάθησης εξαρτάται κυρίως από την πρόσβαση του εκπαιδευόμενου σε προσωπικό υπολογιστή.",
+          "Τα προγράμματα ηλεκτρονικής μάθησης σχεδιάζονται κυρίως για να αντικαταστήσουν τα προγράμματα ανάπτυξης ηγετικών ικανοτήτων."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο συνδέει τις μειωμένες δαπάνες με την υιοθέτηση οικονομικά αποδοτικής ηλεκτρονικής μάθησης. Η Α είναι υπεργενίκευση. Η Γ δεν υποστηρίζεται. Η Δ είναι εσφαλμένη διότι η ηλεκτρονική μάθηση περιγράφεται ως εναλλακτική, όχι ως σχεδιαστική αντικατάσταση."
+      }
+    },
+    {
+      "en": {
+        "passage": "Most cells in the body have a fixed structure and carry out a specific function, but stem cells are different. They possess unique characteristics: unlike regular specialised cells, stem cells can replicate many times. Additionally, they can differentiate into various types of specialised cells, such as muscle cells or red blood cells. Because of these abilities, stem cells could potentially repair the body by multiplying and replacing damaged tissue. In the future, research on stem cells may transform medicine, making it possible to regenerate tissues or even grow replacement organs.",
+        "question": "Which of the following statements is correct according to the passage?",
+        "options": [
+          "The only difference between stem cells and other cells is that stem cells do not perform a specialised function.",
+          "A muscle cell that originated from a stem cell may transform back into a stem cell.",
+          "Stem cells could repair damaged tissue by multiplying and replacing the affected cells.",
+          "Stem cells are the only cells in the body capable of any form of self-repair."
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that stem cells could repair the body by multiplying and replacing damaged tissue, directly supporting C. A is wrong because two differences are mentioned: replication capacity and differentiation ability. B is wrong because there is no indication that specialised cells can revert to stem cells. D is wrong because the passage does not claim stem cells are the only cells with repair capacity."
+      },
+      "el": {
+        "passage": "Τα περισσότερα κύτταρα του σώματος έχουν σταθερή δομή και επιτελούν συγκεκριμένη λειτουργία, αλλά τα βλαστοκύτταρα είναι διαφορετικά. Διαθέτουν μοναδικά χαρακτηριστικά: σε αντίθεση με τα κανονικά εξειδικευμένα κύτταρα, τα βλαστοκύτταρα μπορούν να αναπαράγονται πολλές φορές. Επιπλέον, μπορούν να διαφοροποιηθούν σε διάφορους τύπους εξειδικευμένων κυττάρων, όπως μυικά κύτταρα ή ερυθρά αιμοσφαίρια. Χάρη σε αυτές τις ικανότητες, τα βλαστοκύτταρα θα μπορούσαν ενδεχομένως να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Στο μέλλον, η έρευνα για τα βλαστοκύτταρα ενδέχεται να μεταμορφώσει την ιατρική.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
+        "options": [
+          "Η μόνη διαφορά μεταξύ βλαστοκυττάρων και άλλων κυττάρων είναι ότι τα βλαστοκύτταρα δεν επιτελούν εξειδικευμένη λειτουργία.",
+          "Ένα μυικό κύτταρο που προήλθε από βλαστοκύτταρο μπορεί να μετατραπεί εκ νέου σε βλαστοκύτταρο.",
+          "Τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν κατεστραμμένο ιστό πολλαπλασιαζόμενα και αντικαθιστώντας τα επηρεαζόμενα κύτταρα.",
+          "Τα βλαστοκύτταρα είναι τα μόνα κύτταρα στο σώμα που είναι ικανά για οποιαδήποτε μορφή αυτοεπιδιόρθωσης."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Η Α είναι εσφαλμένη διότι αναφέρονται δύο διαφορές. Η Β είναι εσφαλμένη διότι δεν υπάρχει ένδειξη αντιστροφής. Η Δ είναι εσφαλμένη διότι το κείμενο δεν το υποστηρίζει."
+      }
+    },
+    {
+      "en": {
+        "passage": "Several European countries aim to achieve 100% renewable energy by 2050. While some critics argue that these targets are unrealistic, governments have emphasised that not meeting interim milestones does not mean the ultimate goal will be abandoned. Investors are encouraged to consider long-term returns, as short-term delays may mask eventual success.",
+        "question": "Which of the following can be inferred from the passage?",
+        "options": [
+          "Critics are in agreement that the 2050 renewable energy target is easily attainable.",
+          "Failure to meet short-term milestones guarantees that the 2050 target will not be achieved.",
+          "Investors should disregard long-term projections and focus exclusively on immediate returns.",
+          "Governments consider the long-term objective more important than the achievement of interim milestones."
+        ],
+        "answer": 3,
+        "explanation": "The passage states that governments emphasise that missing interim milestones does not mean abandoning the ultimate goal, and that investors should focus on long-term returns, supporting D. A is wrong because critics find targets unrealistic. B directly contradicts the passage. C contradicts the advice given to investors."
+      },
+      "el": {
+        "passage": "Αρκετές ευρωπαϊκές χώρες στοχεύουν στην επίτευξη 100% ανανεώσιμης ενέργειας έως το 2050. Ενώ ορισμένοι επικριτές υποστηρίζουν ότι οι στόχοι αυτοί είναι μη ρεαλιστικοί, οι κυβερνήσεις έχουν τονίσει ότι η μη επίτευξη ενδιάμεσων οροσήμων δεν σημαίνει εγκατάλειψη του τελικού στόχου. Στους επενδυτές συνιστάται να λαμβάνουν υπόψη τις μακροπρόθεσμες αποδόσεις, καθώς οι βραχυπρόθεσμες καθυστερήσεις ενδέχεται να αποκρύπτουν εν τέλει επιτυχία.",
+        "question": "Τι μπορεί να συναχθεί από το κείμενο;",
+        "options": [
+          "Οι επικριτές συμφωνούν ότι ο στόχος ανανεώσιμης ενέργειας για το 2050 είναι εύκολα επιτεύξιμος.",
+          "Η αποτυχία επίτευξης βραχυπρόθεσμων οροσήμων εγγυάται ότι ο στόχος του 2050 δεν θα επιτευχθεί.",
+          "Οι επενδυτές πρέπει να αγνοούν τις μακροπρόθεσμες προβλέψεις και να εστιάζουν αποκλειστικά στις άμεσες αποδόσεις.",
+          "Οι κυβερνήσεις θεωρούν τον μακροπρόθεσμο στόχο πιο σημαντικό από την επίτευξη ενδιάμεσων οροσήμων."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι οι κυβερνήσεις τονίζουν πως η μη επίτευξη ενδιάμεσων στόχων δεν σημαίνει εγκατάλειψη του τελικού στόχου. Η Α είναι εσφαλμένη. Η Β αντιφάσκει άμεσα. Η Γ αντιφάσκει με τη σύσταση του κειμένου προς τους επενδυτές."
+      }
+    },
+    {
+      "en": {
+        "passage": "The EU has consistently invested in satellite technology to improve weather forecasting, security, and communications. Not all member states contribute equally, and some have expressed that their participation does not necessarily guarantee equal influence over decision-making. While no country can fully withdraw from the benefits of EU space programmes, the level of control remains dependent on each state's contribution.",
+        "question": "Which of the following statements must be true based on the passage?",
+        "options": [
+          "A member state's level of influence over EU space programmes is linked to the size of its contribution.",
+          "No EU member state receives any benefit from EU space programmes.",
+          "Every EU member state holds equal decision-making power within EU space programmes.",
+          "A member state may fully withdraw from the benefits of EU space programmes if it chooses."
+        ],
+        "answer": 0,
+        "explanation": "The passage states that some states' participation does not guarantee equal influence, and that control depends on contribution, directly supporting A. B is wrong because all countries benefit. C is wrong because the passage explicitly says influence is unequal. D is wrong because no country can fully withdraw from benefits."
+      },
+      "el": {
+        "passage": "Η ΕΕ έχει επενδύσει σταθερά στην τεχνολογία δορυφόρων για τη βελτίωση μετεωρολογικών προβλέψεων, της ασφάλειας και των επικοινωνιών. Δεν συνεισφέρουν εξίσου όλα τα κράτη μέλη, και ορισμένα έχουν εκφράσει ότι η συμμετοχή τους δεν εγγυάται κατ' ανάγκη ίση επιρροή στη λήψη αποφάσεων. Ενώ καμία χώρα δεν μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, το επίπεδο ελέγχου παραμένει εξαρτώμενο από τη συνεισφορά κάθε κράτους.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις πρέπει να είναι αληθής βάσει του κειμένου;",
+        "options": [
+          "Το επίπεδο επιρροής ενός κράτους μέλους στα διαστημικά προγράμματα της ΕΕ συνδέεται με το μέγεθος της συνεισφοράς του.",
+          "Κανένα κράτος μέλος της ΕΕ δεν αποκομίζει κανένα όφελος από τα διαστημικά προγράμματα της ΕΕ.",
+          "Κάθε κράτος μέλος της ΕΕ διαθέτει ίση εξουσία λήψης αποφάσεων εντός των διαστημικών προγραμμάτων της ΕΕ.",
+          "Ένα κράτος μέλος μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, εφόσον το επιθυμεί."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο δηλώνει ότι η συμμετοχή δεν εγγυάται ίση επιρροή και ότι το επίπεδο ελέγχου εξαρτάται από τη συνεισφορά. Η Β είναι εσφαλμένη διότι όλες οι χώρες αποκομίζουν οφέλη. Η Γ είναι εσφαλμένη διότι η επιρροή είναι άνιση. Η Δ είναι εσφαλμένη διότι καμία χώρα δεν μπορεί να αποσυρθεί πλήρως."
+      }
+    }
+  ],
+  "verbal_4": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ]
 }
