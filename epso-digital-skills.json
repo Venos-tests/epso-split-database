@@ -1,6 +1,2090 @@
 {
-  "ds_1": [],
-  "ds_2": [],
-  "ds_3": [],
-  "ds_4": []
+"ds_1": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. Which EU body is responsible for ensuring consistent application of GDPR across all Member States?",
+        "options": [
+          "European Commission DG JUST",
+          "European Data Protection Board (EDPB)",
+          "European Court of Justice (ECJ)",
+          "European Data Protection Supervisor (EDPS)"
+        ],
+        "answer": 1,
+        "explanation": "The EDPB is an independent European body that contributes to the consistent application of data protection rules throughout the EU (GDPR Art. 68-70)."
+      },
+      "el": {
+        "passage": "",
+        "question": "1. Ποιο όργανο της ΕΕ είναι υπεύθυνο για τη διασφάλιση της ομοιόμορφης εφαρμογής του GDPR σε όλα τα κράτη μέλη;",
+        "options": [
+          "Ευρωπαϊκή Επιτροπή DG JUST",
+          "Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων (EDPB)",
+          "Δικαστήριο της Ευρωπαϊκής Ένωσης (ΔΕΕ)",
+          "Ευρωπαίος Επόπτης Προστασίας Δεδομένων (ΕΕΠΔ)"
+        ],
+        "answer": 1,
+        "explanation": "Το EDPB είναι ένα ανεξάρτητο ευρωπαϊκό όργανο που συμβάλλει στη συνεκτική εφαρμογή των κανόνων προστασίας δεδομένων σε ολόκληρη την ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. According to the EU AI Act (2024), which AI system category is classified as 'high-risk'?",
+        "options": [
+          "AI systems used for biometric identification in public spaces",
+          "AI spam filters in email clients",
+          "AI-enabled video game recommendation systems",
+          "AI-powered inventory management systems"
+        ],
+        "answer": 0,
+        "explanation": "Biometric identification in public spaces is considered high-risk (or even prohibited in some cases) due to its impact on fundamental rights."
+      },
+      "el": {
+        "passage": "",
+        "question": "2. Σύμφωνα με την Πράξη της ΕΕ για την Τεχνητή Νοημοσύνη (2024), ποια κατηγορία συστημάτων ΤΝ ταξινομείται ως 'υψηλού κινδύνου';",
+        "options": [
+          "Συστήματα ΤΝ για βιομετρική ταυτοποίηση σε δημόσιους χώρους",
+          "Φίλτρα ανεπιθύμητης αλληλογραφίας (spam) σε email",
+          "Συστήματα συστάσεων σε βιντεοπαιχνίδια",
+          "Συστήματα διαχείρισης αποθεμάτων με ΤΝ"
+        ],
+        "answer": 0,
+        "explanation": "Η βιομετρική ταυτοποίηση σε δημόσιους χώρους θεωρείται υψηλού κινδύνου λόγω του αντικτύπου της στα θεμελιώδη δικαιώματα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. What is the primary goal of the European High-Performance Computing Joint Undertaking (EuroHPC JU)?",
+        "options": [
+          "To regulate social media algorithms",
+          "To develop quantum computers for military use only",
+          "To build world-class supercomputing infrastructure in Europe",
+          "To restrict the use of non-European cloud services"
+        ],
+        "answer": 2,
+        "explanation": "EuroHPC JU aims to make Europe a world leader in supercomputing by developing a competitive ecosystem."
+      },
+      "el": {
+        "passage": "",
+        "question": "3. Ποιος είναι ο πρωταρχικός στόχος της Κοινής Επιχείρησης για την Ευρωπαϊκή Υπολογιστική Υψηλών Επιδόσεων (EuroHPC JU);",
+        "options": [
+          "Η ρύθμιση των αλγορίθμων των μέσων κοινωνικής δικτύωσης",
+          "Η ανάπτυξη κβαντικών υπολογιστών μόνο για στρατιωτική χρήση",
+          "Η δημιουργία υποδομής υπερυπολογιστών παγκόσμιας κλάσης στην Ευρώπη",
+          "Ο περιορισμός της χρήσης μη ευρωπαϊκών υπηρεσιών cloud"
+        ],
+        "answer": 2,
+        "explanation": "Η EuroHPC JU στοχεύει να καταστήσει την Ευρώπη παγκόσμιο ηγέτη στην υπερυπολογιστική."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. What is the maximum administrative fine under GDPR for the most serious infringements?",
+        "options": [
+          "€10 million or 2% of annual global turnover",
+          "€50 million or 5% of annual global turnover",
+          "€100 million or 10% of annual global turnover",
+          "€20 million or 4% of annual global turnover"
+        ],
+        "answer": 3,
+        "explanation": "Under Article 83(5), serious violations can result in fines up to €20m or 4% of worldwide turnover, whichever is higher."
+      },
+      "el": {
+        "passage": "",
+        "question": "4. Ποιο είναι το μέγιστο διοικητικό πρόστιμο βάσει του GDPR για τις πιο σοβαρές παραβάσεις;",
+        "options": [
+          "10 εκατ. € ή το 2% του παγκόσμιου ετήσιου κύκλου εργασιών",
+          "50 εκατ. € ή το 5% του παγκόσμιου ετήσιου κύκλου εργασιών",
+          "100 εκατ. € ή το 10% του παγκόσμιου ετήσιου κύκλου εργασιών",
+          "20 εκατ. € ή το 4% του παγκόσμιου ετήσιου κύκλου εργασιών"
+        ],
+        "answer": 3,
+        "explanation": "Βάσει του Άρθρου 83(5), σοβαρές παραβάσεις επισύρουν πρόστιμα έως 20 εκατ. ευρώ ή το 4% του παγκόσμιου κύκλου εργασιών."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. According to the EU Cybersecurity Act (2019), which agency is responsible for EU cybersecurity certification schemes?",
+        "options": [
+          "Europol",
+          "CERT-EU",
+          "ENISA",
+          "European Defence Agency"
+        ],
+        "answer": 2,
+        "explanation": "ENISA (EU Agency for Cybersecurity) is tasked with preparing the technical grounds for certification schemes."
+      },
+      "el": {
+        "passage": "",
+        "question": "5. Σύμφωνα με την Πράξη της ΕΕ για την Κυβερνοασφάλεια (2019), ποιος οργανισμός είναι υπεύθυνος για τα ευρωπαϊκά σχήματα πιστοποίησης κυβερνοασφάλειας;",
+        "options": [
+          "Europol",
+          "CERT-EU",
+          "ENISA",
+          "Ευρωπαϊκός Οργανισμός Άμυνας"
+        ],
+        "answer": 2,
+        "explanation": "Ο ENISA είναι αρμόδιος για την προετοιμασία του τεχνικού πλαισίου των σχημάτων πιστοποίησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. The Digital Services Act (DSA) applies to which category of online platforms?",
+        "options": [
+          "All intermediary services, including hosting and online platforms",
+          "Only social media platforms",
+          "Only government websites",
+          "Only e-commerce websites selling physical goods"
+        ],
+        "answer": 0,
+        "explanation": "The DSA covers a wide range of intermediary services to ensure online safety and accountability."
+      },
+      "el": {
+        "passage": "",
+        "question": "6. Σε ποια κατηγορία διαδικτυακών πλατφορμών εφαρμόζεται η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA);",
+        "options": [
+          "Σε όλες τις ενδιάμεσες υπηρεσίες, συμπεριλαμβανομένων των υπηρεσιών φιλοξενίας και πλατφορμών",
+          "Μόνο σε πλατφόρμες κοινωνικής δικτύωσης",
+          "Μόνο σε κυβερνητικούς ιστότοπους",
+          "Μόνο σε ιστότοπους ηλεκτρονικού εμπορίου"
+        ],
+        "answer": 0,
+        "explanation": "Η DSA καλύπτει ένα ευρύ φάσμα ενδιάμεσων υπηρεσιών για τη διασφάλιση της ασφάλειας στο διαδίκτυο."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. The European Digital Competence Framework (DigComp 2.2) identifies how many key competence areas?",
+        "options": [
+          "3",
+          "12",
+          "5",
+          "8"
+        ],
+        "answer": 2,
+        "explanation": "The 5 areas are: Information literacy, Communication, Content creation, Safety, and Problem solving."
+      },
+      "el": {
+        "passage": "",
+        "question": "7. Πόσους βασικούς τομείς ικανοτήτων προσδιορίζει το Ευρωπαϊκό Πλαίσιο Ψηφιακών Ικανοτήτων (DigComp 2.2);",
+        "options": [
+          "3",
+          "12",
+          "5",
+          "8"
+        ],
+        "answer": 2,
+        "explanation": "Οι 5 τομείς είναι: Γραμματισμός πληροφοριών, Επικοινωνία, Δημιουργία περιεχομένου, Ασφάλεια και Επίλυση προβλημάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. Under GDPR, what is the maximum time limit for notifying a supervisory authority of a personal data breach?",
+        "options": [
+          "24 hours",
+          "7 days",
+          "30 days",
+          "72 hours"
+        ],
+        "answer": 3,
+        "explanation": "Data controllers must notify the authority within 72 hours of becoming aware of the breach (Art. 33)."
+      },
+      "el": {
+        "passage": "",
+        "question": "8. Βάσει του GDPR, ποιο είναι το μέγιστο χρονικό όριο για την ειδοποίηση της εποπτικής αρχής σχετικά με παραβίαση δεδομένων;",
+        "options": [
+          "24 ώρες",
+          "7 ημέρες",
+          "30 ημέρες",
+          "72 ώρες"
+        ],
+        "answer": 3,
+        "explanation": "Οι υπεύθυνοι επεξεργασίας οφείλουν να ειδοποιούν την αρχή εντός 72 ωρών από τη στιγμή που αντιλαμβάνονται την παραβίαση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. What is the primary purpose of 'Algorithmic Transparency' under the Digital Services Act for large platforms?",
+        "options": [
+          "To provide transparency on how recommender systems work",
+          "To keep algorithms secret from non-EU competitors",
+          "To ban all non-algorithmic recommendations",
+          "To require human review of every single algorithmic decision"
+        ],
+        "answer": 0,
+        "explanation": "Platforms must explain their recommendation parameters and provide options not based on profiling."
+      },
+      "el": {
+        "passage": "",
+        "question": "9. Ποιος είναι ο κύριος σκοπός της 'Αλγοριθμικής Διαφάνειας' βάσει της DSA για τις μεγάλες πλατφόρμες;",
+        "options": [
+          "Η παροχή διαφάνειας στον τρόπο λειτουργίας των συστημάτων συστάσεων",
+          "Η διατήρηση των αλγορίθμων μυστικών από ανταγωνιστές",
+          "Η απαγόρευση όλων των μη αλγοριθμικών συστάσεων",
+          "Η απαίτηση ανθρώπινης αναθεώρησης για κάθε αλγοριθμική απόφαση"
+        ],
+        "answer": 0,
+        "explanation": "Οι πλατφόρμες οφείλουν να εξηγούν τις παραμέτρους συστάσεων και να προσφέρουν επιλογές χωρίς προφίλ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. Which EU initiative aims to develop common European data spaces in sectors like health and mobility?",
+        "options": [
+          "Digital Markets Act",
+          "General Data Protection Regulation",
+          "European Data Strategy and Data Governance Act",
+          "Cybersecurity Act"
+        ],
+        "answer": 2,
+        "explanation": "The Data Governance Act creates a framework for data sharing across the EU through sectoral data spaces."
+      },
+      "el": {
+        "passage": "",
+        "question": "10. Ποια πρωτοβουλία της ΕΕ στοχεύει στην ανάπτυξη κοινών ευρωπαϊκών χώρων δεδομένων σε τομείς όπως η υγεία και η κινητικότητα;",
+        "options": [
+          "Πράξη για τις Ψηφιακές Αγορές",
+          "Γενικός Κανονισμός Προστασίας Δεδομένων",
+          "Ευρωπαϊκή Στρατηγική Δεδομένων & Πράξη για τη Διακυβέρνηση Δεδομένων",
+          "Πράξη για την Κυβερνοασφάλεια"
+        ],
+        "answer": 2,
+        "explanation": "Η Πράξη για τη Διακυβέρνηση Δεδομένων δημιουργεί το πλαίσιο για την ανταλλαγή δεδομένων μέσω τομεακών χώρων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. You are preparing a public consultation survey. What should you prioritise for compliance?",
+        "options": [
+          "Include a clear privacy notice, limit personal data, and use approved servers",
+          "Allow anonymous responses only without providing processing information",
+          "Disable all consent checkboxes to make the form faster",
+          "Collect as many personal data fields as possible for segmentation"
+        ],
+        "answer": 0,
+        "explanation": "This aligns with GDPR principles of data minimisation, purpose limitation, and transparency."
+      },
+      "el": {
+        "passage": "",
+        "question": "11. Προετοιμάζετε μια έρευνα δημόσιας διαβούλευσης. Τι πρέπει να δώσετε προτεραιότητα για τη συμμόρφωση;",
+        "options": [
+          "Σαφής δήλωση ιδιωτικότητας, ελαχιστοποίηση δεδομένων και χρήση εγκεκριμένων διακομιστών",
+          "Ανώνυμες απαντήσεις χωρίς πληροφορίες επεξεργασίας",
+          "Απενεργοποίηση πλαισίων συγκατάθεσης για ταχύτητα",
+          "Συλλογή όσο το δυνατόν περισσότερων δεδομένων για τμηματοποίηση"
+        ],
+        "answer": 0,
+        "explanation": "Αυτό ευθυγραμμίζεται με τις αρχές του GDPR για ελαχιστοποίηση των δεδομένων και διαφάνεια."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. What is a key requirement under the Cyber Resilience Act (CRA) for products with digital elements?",
+        "options": [
+          "All software must be open source",
+          "No security updates are required after sale",
+          "Manufacturers must report actively exploited vulnerabilities within 24 hours",
+          "Products can be sold without any security testing"
+        ],
+        "answer": 2,
+        "explanation": "The CRA mandates timely reporting of exploited vulnerabilities to ensure a rapid response across the EU."
+      },
+      "el": {
+        "passage": "",
+        "question": "12. Ποια είναι μια βασική απαίτηση της Πράξης για την Κυβερνοανθεκτικότητα (CRA) για προϊόντα με ψηφιακά στοιχεία;",
+        "options": [
+          "Όλο το λογισμικό πρέπει να είναι ανοιχτού κώδικα",
+          "Δεν απαιτούνται ενημερώσεις ασφαλείας μετά την πώληση",
+          "Οι κατασκευαστές πρέπει να αναφέρουν ενεργές ευπάθειες εντός 24 ωρών",
+          "Τα προϊόντα μπορούν να πωλούνται χωρίς δοκιμές ασφαλείας"
+        ],
+        "answer": 2,
+        "explanation": "Η CRA επιβάλλει την έγκαιρη αναφορά ευπαθειών για τη διασφάλιση ταχείας απόκρισης σε όλη την ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. A team member accidentally overwrites a critical report on a shared cloud drive. What is the best first action?",
+        "options": [
+          "Ask the administrator to block the member's account",
+          "Restore the latest version from history and inform the team",
+          "Create a new private folder with restricted edit rights",
+          "Send a warning email to the team"
+        ],
+        "answer": 1,
+        "explanation": "Cloud version history is a core digital skill that resolves issues efficiently while maintaining collaboration."
+      },
+      "el": {
+        "passage": "",
+        "question": "13. Ένα μέλος της ομάδας αντικαθιστά κατά λάθος μια κρίσιμη αναφορά σε ένα κοινόχρηστο cloud drive. Ποια είναι η καλύτερη πρώτη ενέργεια;",
+        "options": [
+          "Αποκλεισμός του λογαριασμού του μέλους από τον διαχειριστή",
+          "Επαναφορά της τελευταίας έκδοσης από το ιστορικό και ενημέρωση της ομάδας",
+          "Δημιουργία νέου ιδιωτικού φακέλου με περιορισμένα δικαιώματα",
+          "Αποστολή προειδοποιητικού email στην ομάδα"
+        ],
+        "answer": 1,
+        "explanation": "Το ιστορικό εκδόσεων είναι βασική ψηφιακή δεξιότητα για την αποτελεσματική επίλυση τέτοιων προβλημάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. What is the primary benefit of using collaborative project management tools?",
+        "options": [
+          "They escalate complexity",
+          "They eliminate the need for planning",
+          "They are appropriate for large teams only",
+          "They facilitate communication and organization"
+        ],
+        "answer": 3,
+        "explanation": "These tools streamline workflows and enhance transparency within teams."
+      },
+      "el": {
+        "passage": "",
+        "question": "14. Ποιο είναι το κύριο όφελος από τη χρήση εργαλείων συνεργατικής διαχείρισης έργων;",
+        "options": [
+          "Αυξάνουν την πολυπλοκότητα",
+          "Εξαλείφουν την ανάγκη για προγραμματισμό",
+          "Είναι κατάλληλα μόνο για μεγάλες ομάδες",
+          "Διευκολύνουν την επικοινωνία και την οργάνωση"
+        ],
+        "answer": 3,
+        "explanation": "Αυτά τα εργαλεία απλοποιούν τις ροές εργασίας και ενισχύουν τη διαφάνεια στις ομάδες."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. A colleague suggests sharing a confidential briefing link publicly to speed up feedback. What is the best response?",
+        "options": [
+          "Agree, but remove the link after 24 hours",
+          "Download the document and share it via personal email",
+          "Refuse and grant access only to specific, named partners",
+          "Accept, but suggest avoiding sensitive details"
+        ],
+        "answer": 2,
+        "explanation": "Restricting access to named users ensures accountability and follows EU security standards."
+      },
+      "el": {
+        "passage": "",
+        "question": "15. Ένας συνάδελφος προτείνει τη δημόσια κοινοποίηση συνδέσμου εμπιστευτικής ενημέρωσης για ταχύτερο feedback. Ποια είναι η καλύτερη απάντηση;",
+        "options": [
+          "Συμφωνία, αλλά αφαίρεση του συνδέσμου μετά από 24 ώρες",
+          "Λήψη του εγγράφου και κοινοποίηση μέσω προσωπικού email",
+          "Άρνηση και παροχή πρόσβασης μόνο σε συγκεκριμένους συνεργάτες",
+          "Αποδοχή, με την παράκληση να αποφευχθούν ευαίσθητες λεπτομέρειες"
+        ],
+        "answer": 2,
+        "explanation": "Ο περιορισμός της πρόσβασης σε ονομαστικούς χρήστες διασφαλίζει τη λογοδοσία και την ασφάλεια."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. Your team uses a US-based tool storing data outside the EU with low transparency. What is the correct action?",
+        "options": [
+          "Conduct a compliance and data transfer assessment",
+          "Continue use without review",
+          "Ban it immediately without alternative",
+          "Migrate all data to personal drives"
+        ],
+        "answer": 0,
+        "explanation": "Competent digital users must evaluate cross-border data transfer compliance (e.g., following Schrems II rulings)."
+      },
+      "el": {
+        "passage": "",
+        "question": "16. Η ομάδα σας χρησιμοποιεί εργαλείο με έδρα τις ΗΠΑ που αποθηκεύει δεδομένα εκτός ΕΕ με χαμηλή διαφάνεια. Ποια είναι η σωστή ενέργεια;",
+        "options": [
+          "Διενέργεια αξιολόγησης συμμόρφωσης και μεταφοράς δεδομένων",
+          "Συνέχιση της χρήσης χωρίς έλεγχο",
+          "Άμεση απαγόρευση χωρίς εναλλακτική",
+          "Μεταφορά όλων των δεδομένων σε προσωπικούς δίσκους"
+        ],
+        "answer": 0,
+        "explanation": "Οι ψηφιακά ικανοί χρήστες οφείλουν να αξιολογούν τη συμμόρφωση στις διασυνοριακές μεταφορές δεδομένων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. Misleading statistical claims are spreading in your department's internal digital forum. How do you respond?",
+        "options": [
+          "Delete the thread entirely",
+          "Publicly correct the data with verifiable sources",
+          "Escalate to disciplinary action immediately",
+          "Privately message the author to remove it"
+        ],
+        "answer": 1,
+        "explanation": "Countering misinformation constructively with facts is a key digital participation competence."
+      },
+      "el": {
+        "passage": "",
+        "question": "17. Παραπλανητικοί στατιστικοί ισχυρισμοί διαδίδονται στο εσωτερικό φόρουμ του τμήματός σας. Πώς ανταποκρίνεστε;",
+        "options": [
+          "Διαγραφή ολόκληρου του θέματος",
+          "Δημόσια διόρθωση των δεδομένων με επαληθεύσιμες πηγές",
+          "Άμεση πειθαρχική δίωξη",
+          "Προσωπικό μήνυμα στον συντάκτη για διαγραφή"
+        ],
+        "answer": 1,
+        "explanation": "Η εποικοδομητική αντιμετώπιση της παραπληροφόρησης με στοιχεία είναι βασική ψηφιακή ικανότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. Generative AI underrepresents minority viewpoints in a project summary. What is the corrective action?",
+        "options": [
+          "Ignore it since AI optimizes majority trends",
+          "Remove AI from the workflow permanently",
+          "Publish and issue a correction later",
+          "Re-run prompt with clearer instructions and validate manually"
+        ],
+        "answer": 3,
+        "explanation": "Users must be aware of AI bias and take responsibility to mitigate distortions in automated outputs."
+      },
+      "el": {
+        "passage": "",
+        "question": "18. Η παραγωγική ΤΝ υποεκπροσωπεί απόψεις μειονοτήτων σε μια σύνοψη έργου. Ποια είναι η διορθωτική ενέργεια;",
+        "options": [
+          "Αγνόηση, καθώς η ΤΝ βελτιστοποιεί τις τάσεις της πλειοψηφίας",
+          "Μόνιμη αφαίρεση της ΤΝ από τη ροή εργασίας",
+          "Δημοσίευση και έκδοση διόρθωσης αργότερα",
+          "Επαναδιατύπωση εντολής με σαφέστερες οδηγίες και χειροκίνητη επαλήθευση"
+        ],
+        "answer": 3,
+        "explanation": "Οι χρήστες πρέπει να γνωρίζουν τις προκαταλήψεις της ΤΝ και να μετριάζουν τις παραμορφώσεις στα αποτελέσματα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. What is the main objective of the Cyber Resilience Act regarding digital products?",
+        "options": [
+          "Forcing users to change passwords every 30 days",
+          "Mandatory security requirements throughout the product lifecycle",
+          "Banning all software developed outside the EU",
+          "Creating mandatory EU-wide insurance for cyber-attacks"
+        ],
+        "answer": 1,
+        "explanation": "The CRA ensures products are secure from design through to their end-of-life support."
+      },
+      "el": {
+        "passage": "",
+        "question": "19. Ποιος είναι ο κύριος στόχος της Πράξης για την Κυβερνοανθεκτικότητα σχετικά με τα ψηφιακά προϊόντα;",
+        "options": [
+          "Υποχρεωτική αλλαγή κωδικών κάθε 30 ημέρες",
+          "Υποχρεωτικές απαιτήσεις ασφαλείας καθ' όλο τον κύκλο ζωής του προϊόντος",
+          "Απαγόρευση όλου του λογισμικού που αναπτύχθηκε εκτός ΕΕ",
+          "Δημιουργία υποχρεωτικής ασφάλισης για κυβερνοεπιθέσεις"
+        ],
+        "answer": 1,
+        "explanation": "Η CRA διασφαλίζει ότι τα προϊόντα είναι ασφαλή από τον σχεδιασμό μέχρι το τέλος της υποστήριξής τους."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. Which data format is 'Machine-Readable' and most suitable for open data sharing?",
+        "options": [
+          "Locked Excel (.xlsm) with macros",
+          "PDF",
+          "JSON or CSV",
+          "Scanned Image (JPEG)"
+        ],
+        "answer": 2,
+        "explanation": "JSON and CSV are structured formats that allow automated processing by software, as required by the Open Data Directive."
+      },
+      "el": {
+        "passage": "",
+        "question": "20. Ποια μορφή δεδομένων θεωρείται 'Μηχαναγνώσιμη' και καταλληλότερη για ανταλλαγή ανοικτών δεδομένων;",
+        "options": [
+          "Κλειδωμένο Excel (.xlsm) με μακροεντολές",
+          "PDF",
+          "JSON ή CSV",
+          "Σαρωμένη εικόνα (JPEG)"
+        ],
+        "answer": 2,
+        "explanation": "Τα αρχεία JSON και CSV είναι δομημένα και επιτρέπουν την αυτοματοποιημένη επεξεργασία από λογισμικό."
+      }
+    }
+  ],
+  "ds_2": [
+    {
+      "en": {
+        "passage": "",
+        "question": "21. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
+        "options": [
+          "Click the link to ensure your account isn't locked",
+          "Forward the email to your entire department to warn them",
+          "Report the email to the actual IT security department and do not click",
+          "Reply to the email asking for proof of identity"
+        ],
+        "answer": 2,
+        "explanation": "This is a classic phishing attempt. Reporting it through official channels is the standard security protocol for an EU administrator."
+      },
+      "el": {
+        "passage": "",
+        "question": "21. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
+        "options": [
+          "Πατάτε τον σύνδεσμο για να μην κλειδωθεί ο λογαριασμός σας",
+          "Προωθείτε το email σε όλο το τμήμα για να τους προειδοποιήσετε",
+          "Αναφέρετε το email στο επίσημο τμήμα ασφάλειας πληροφορικής και δεν πατάτε τίποτα",
+          "Απαντάτε στο email ζητώντας αποδείξεις ταυτότητας"
+        ],
+        "answer": 2,
+        "explanation": "Πρόκειται για κλασική απόπειρα phishing. Η αναφορά μέσω των επίσημων καναλιών είναι το προβλεπόμενο πρωτόκολλο ασφαλείας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "22. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
+        "options": [
+          "Using only high-resolution images without text",
+          "Adding alternative text (Alt-text) to images and using clear heading structures",
+          "Using many different bright colors to highlight text",
+          "Saving the document as a scanned non-searchable image"
+        ],
+        "answer": 1,
+        "explanation": "Accessibility is an EU priority; Alt-text and proper headings allow screen readers for visually impaired users to process the content."
+      },
+      "el": {
+        "passage": "",
+        "question": "22. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
+        "options": [
+          "Χρήση μόνο εικόνων υψηλής ανάλυσης χωρίς κείμενο",
+          "Προσθήκη εναλλακτικού κειμένου (Alt-text) στις εικόνες και χρήση σαφών επικεφαλίδων",
+          "Χρήση πολλών έντονων χρωμάτων για την ανάδειξη του κειμένου",
+          "Αποθήκευση του εγγράφου ως σαρωμένη εικόνα χωρίς δυνατότητα αναζήτησης"
+        ],
+        "answer": 1,
+        "explanation": "Η προσβασιμότητα είναι προτεραιότητα της ΕΕ. Το Alt-text επιτρέπει σε αναγνώστες οθόνης για άτομα με προβλήματα όρασης να κατανοήσουν το περιεχόμενο."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "23. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
+        "options": [
+          "Using the same password for all platforms to avoid forgetting",
+          "Writing passwords in a notebook kept in the office desk",
+          "Using an approved password manager tool",
+          "Saving a list of passwords in an unencrypted Word document"
+        ],
+        "answer": 2,
+        "explanation": "Password managers allow for unique, strong passwords for every service, significantly reducing the risk of credential theft."
+      },
+      "el": {
+        "passage": "",
+        "question": "23. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
+        "options": [
+          "Χρήση του ίδιου κωδικού παντού για να μην τον ξεχνάτε",
+          "Καταγραφή των κωδικών σε ένα σημειωματάριο στο γραφείο",
+          "Χρήση εγκεκριμένου εργαλείου διαχείρισης κωδικών (password manager)",
+          "Αποθήκευση λίστας κωδικών σε ένα μη κρυπτογραφημένο έγγραφο Word"
+        ],
+        "answer": 2,
+        "explanation": "Οι διαχειριστές κωδικών επιτρέπουν τη χρήση μοναδικών και ισχυρών κωδικών για κάθε υπηρεσία, μειώνοντας τον κίνδυνο κλοπής στοιχείων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "24. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
+        "options": [
+          "Physical tripping hazards in the office",
+          "Unauthorized access to sensitive information",
+          "High electricity consumption",
+          "Slow internet speeds"
+        ],
+        "answer": 1,
+        "explanation": "Locking screens and removing sensitive papers prevent unauthorized individuals from viewing confidential data."
+      },
+      "el": {
+        "passage": "",
+        "question": "24. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
+        "options": [
+          "Κίνδυνος πτώσης στο γραφείο",
+          "Μη εξουσιοδοτημένη πρόσβαση σε ευαίσθητες πληροφορίες",
+          "Υψηλή κατανάλωση ηλεκτρικού ρεύματος",
+          "Χαμηλές ταχύτητες διαδικτύου"
+        ],
+        "answer": 1,
+        "explanation": "Το κλείδωμα της οθόνης και η απομάκρυνση εγγράφων εμποδίζουν τρίτους από το να δουν εμπιστευτικά δεδομένα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "25. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
+        "options": [
+          "A static PDF table",
+          "A spreadsheet with raw data only",
+          "A data visualization dashboard (e.g., PowerBI or Tableau)",
+          "A printed memo"
+        ],
+        "answer": 2,
+        "explanation": "Dashboards allow for interactive filtering and visual storytelling, which are key for modern administrative communication."
+      },
+      "el": {
+        "passage": "",
+        "question": "25. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
+        "options": [
+          "Ένας στατικός πίνακας PDF",
+          "Ένα υπολογιστικό φύλλο μόνο με ακατέργαστα δεδομένα",
+          "Ένας πίνακας ελέγχου οπτικοποίησης δεδομένων (π.χ. PowerBI)",
+          "Ένα εκτυπωμένο σημείωμα"
+        ],
+        "answer": 2,
+        "explanation": "Τα dashboards επιτρέπουν διαδραστικά φίλτρα και οπτικοποίηση, απαραίτητα για τη σύγχρονη διοικητική επικοινωνία."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "26. What does the term 'Data Portability' under GDPR allow a citizen to do?",
+        "options": [
+          "To delete their data from all internet records permanently",
+          "To receive their personal data in a structured format and transmit it to another controller",
+          "To change their legal name in government records online",
+          "To avoid paying taxes for digital services"
+        ],
+        "answer": 1,
+        "explanation": "Data portability ensures citizens can move their data between different service providers easily."
+      },
+      "el": {
+        "passage": "",
+        "question": "26. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
+        "options": [
+          "Να διαγράψει οριστικά τα δεδομένα του από το διαδίκτυο",
+          "Να λάβει τα δεδομένα του σε δομημένο μορφότυπο και να τα διαβιβάσει σε άλλον υπεύθυνο",
+          "Να αλλάξει το νόμιμο όνομά του σε κρατικά αρχεία online",
+          "Να αποφύγει την πληρωμή φόρων για ψηφιακές υπηρεσίες"
+        ],
+        "answer": 1,
+        "explanation": "Η φορητότητα διασφαλίζει ότι οι πολίτες μπορούν να μεταφέρουν τα δεδομένα τους μεταξύ διαφορετικών παρόχων υπηρεσιών."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "27. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
+        "options": [
+          "Re-type the paragraph from memory",
+          "Use the 'Version History' feature to restore the specific previous state",
+          "Call the IT helpdesk to fix the file",
+          "Ask all contributors to stop working until the file is recovered"
+        ],
+        "answer": 1,
+        "explanation": "Version history is the fastest way to recover specific data without disrupting the entire team's flow."
+      },
+      "el": {
+        "passage": "",
+        "question": "27. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
+        "options": [
+          "Ξαναγράφετε την παράγραφο από μνήμης",
+          "Χρησιμοποιείτε το 'Ιστορικό Εκδόσεων' για επαναφορά στην προηγούμενη κατάσταση",
+          "Καλήτε το IT support να φτιάξει το αρχείο",
+          "Ζητάτε από όλους να σταματήσουν την εργασία μέχρι να ανακτηθεί το αρχείο"
+        ],
+        "answer": 1,
+        "explanation": "Το ιστορικό εκδόσεων είναι ο ταχύτερος τρόπος ανάκτησης δεδομένων χωρίς να διακοπεί η ροή εργασίας της ομάδας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "28. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
+        "options": [
+          "Responding to emails 24/7, including during leave",
+          "Setting focus hours and using 'Do Not Disturb' modes to complete complex tasks",
+          "Attending multiple virtual meetings simultaneously using two screens",
+          "Turning off all digital security features to speed up work"
+        ],
+        "answer": 1,
+        "explanation": "Digital wellbeing involves managing digital distractions to maintain productivity and mental health."
+      },
+      "el": {
+        "passage": "",
+        "question": "28. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
+        "options": [
+          "Απάντηση σε email 24/7, ακόμα και σε άδεια",
+          "Ορισμός ωρών συγκέντρωσης και χρήση λειτουργίας 'Μην ενοχλείτε' για σύνθετες εργασίες",
+          "Συμμετοχή σε πολλές τηλεδιασκέψεις ταυτόχρονα με δύο οθόνες",
+          "Απενεργοποίηση δικλείδων ασφαλείας για ταχύτερη εργασία"
+        ],
+        "answer": 1,
+        "explanation": "Η ψηφιακή ευημερία περιλαμβάνει τη διαχείριση των ψηφιακών περισπασμών για τη διατήρηση της παραγωγικότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "29. When searching for reliable sources for an official briefing, which search strategy is most effective?",
+        "options": [
+          "Using only the first result from a generic Google search",
+          "Cross-referencing multiple academic/official databases and checking for peer review",
+          "Using social media trends to determine facts",
+          "Copying content from an anonymous blog"
+        ],
+        "answer": 1,
+        "explanation": "Administrators must verify information through multiple credible sources to ensure policy accuracy."
+      },
+      "el": {
+        "passage": "",
+        "question": "29. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
+        "options": [
+          "Χρήση μόνο του πρώτου αποτελέσματος από μια απλή αναζήτηση στη Google",
+          "Διασταύρωση πολλαπλών ακαδημαϊκών/επίσημων βάσεων δεδομένων",
+          "Χρήση των τάσεων στα μέσα κοινωνικής δικτύωσης ως γεγονότα",
+          "Αντιγραφή περιεχομένου από ένα ανώνυμο ιστολόγιο"
+        ],
+        "answer": 1,
+        "explanation": "Οι υπάλληλοι πρέπει να επαληθεύουν τις πληροφορίες μέσω πολλαπλών αξιόπιστων πηγών για τη διασφάλιση της ακρίβειας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "30. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
+        "options": [
+          "It makes the login process faster",
+          "It adds an extra layer of security, making stolen passwords alone useless",
+          "It allows IT to track the physical location of every employee",
+          "It is used to monitor how many hours an employee works"
+        ],
+        "answer": 1,
+        "explanation": "MFA requires a second proof of identity (like a code on a phone), preventing access even if a password is breached."
+      },
+      "el": {
+        "passage": "",
+        "question": "30. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
+        "options": [
+          "Κάνει τη διαδικασία σύνδεσης ταχύτερη",
+          "Προσθέτει ένα επιπλέον επίπεδο ασφάλειας, καθιστώντας άχρηστο έναν κλεμμένο κωδικό",
+          "Επιτρέπει στο IT να εντοπίζει τη φυσική θέση κάθε υπαλλήλου",
+          "Χρησιμοποιείται για την παρακολούθηση των ωρών εργασίας"
+        ],
+        "answer": 1,
+        "explanation": "Το MFA απαιτεί μια δεύτερη απόδειξη ταυτότητας, εμποδίζοντας την πρόσβαση ακόμα και αν ο κωδικός κλαπεί."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "31. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
+        "options": [
+          "Try to send 50 separate emails with attachments",
+          "Use a secure EU-approved cloud file-sharing service with access controls",
+          "Copy the data to a non-encrypted USB stick and send it by mail",
+          "Compress it to a ZIP file and hope the email server accepts it"
+        ],
+        "answer": 1,
+        "explanation": "Cloud sharing with permissions is secure, professional, and avoids email server limitations."
+      },
+      "el": {
+        "passage": "",
+        "question": "31. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
+        "options": [
+          "Αποστολή 50 ξεχωριστών email με συνημμένα",
+          "Χρήση ασφαλούς και εγκεκριμένης υπηρεσίας cloud με ελέγχους πρόσβασης",
+          "Αντιγραφή σε μη κρυπτογραφημένο USB και αποστολή ταχυδρομικώς",
+          "Συμπίεση σε αρχείο ZIP με ελπίδα να το δεχτεί ο διακομιστής email"
+        ],
+        "answer": 1,
+        "explanation": "Η κοινή χρήση μέσω cloud με δικαιώματα είναι ασφαλής και αποφεύγει τους περιορισμούς μεγέθους των email."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "32. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
+        "options": [
+          "Install it immediately to save time",
+          "Download it but only use it for non-confidential files",
+          "Refuse and use only software approved and provided by the official IT catalogue",
+          "Install it but run a scan with an online tool first"
+        ],
+        "answer": 2,
+        "explanation": "Unauthorized software can contain malware or backdoors. Only IT-approved software is permitted on official devices."
+      },
+      "el": {
+        "passage": "",
+        "question": "32. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
+        "options": [
+          "Τον εγκαθιστάτε αμέσως για εξοικονόμηση χρόνου",
+          "Τον κατεβάζετε αλλά τον χρησιμοποιείτε μόνο για μη εμπιστευτικά αρχεία",
+          "Αρνείστε και χρησιμοποιείτε μόνο λογισμικό από τον επίσημο κατάλογο του IT",
+          "Τον εγκαθιστάτε αφού τον ελέγξετε με ένα online εργαλείο"
+        ],
+        "answer": 2,
+        "explanation": "Το μη εξουσιοδοτημένο λογισμικό μπορεί να περιέχει κακόβουλο κώδικα. Επιτρέπεται μόνο το εγκεκριμένο λογισμικό."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "33. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
+        "options": [
+          "The right to stop paying for a digital service",
+          "The right to have personal data erased under specific conditions, such as when it is no longer necessary",
+          "The right to change your IP address daily",
+          "The right to hide your social media profile from your employer"
+        ],
+        "answer": 1,
+        "explanation": "This right (Art. 17 GDPR) allows individuals to request data deletion when there is no compelling reason for its continued processing."
+      },
+      "el": {
+        "passage": "",
+        "question": "33. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
+        "options": [
+          "Το δικαίωμα να σταματήσετε να πληρώνετε για μια ψηφιακή υπηρεσία",
+          "Το δικαίωμα διαγραφής προσωπικών δεδομένων υπό προϋποθέσεις, π.χ. όταν δεν είναι πλέον απαραίτητα",
+          "Το δικαίωμα καθημερινής αλλαγής της διεύθυνσης IP",
+          "Το δικαίωμα απόκρυψης του προφίλ σας στα social media από τον εργοδότη"
+        ],
+        "answer": 1,
+        "explanation": "Το δικαίωμα αυτό (Άρθρο 17 GDPR) επιτρέπει στα άτομα να ζητούν διαγραφή δεδομένων όταν δεν υπάρχει πλέον λόγος επεξεργασίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "34. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
+        "options": [
+          "To calculate the financial cost of data storage",
+          "To identify and minimize data protection risks for new projects with high-risk processing",
+          "To speed up internet connection in the office",
+          "To count how many employees use a specific database"
+        ],
+        "answer": 1,
+        "explanation": "DPIAs are a legal requirement for processing operations likely to result in a high risk to citizens' rights."
+      },
+      "el": {
+        "passage": "",
+        "question": "34. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
+        "options": [
+          "Για τον υπολογισμό του οικονομικού κόστους αποθήκευσης",
+          "Για τον εντοπισμό και την ελαχιστοποίηση κινδύνων σε νέα έργα υψηλής επικινδυνότητας",
+          "Για την επιτάχυνση της σύνδεσης στο διαδίκτυο",
+          "Για την καταμέτρηση των χρηστών μιας βάσης δεδομένων"
+        ],
+        "answer": 1,
+        "explanation": "Η DPIA είναι νομική απαίτηση για πράξεις επεξεργασίας που ενδέχεται να επιφέρουν υψηλό κίνδυνο στα δικαιώματα των πολιτών."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "35. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
+        "options": [
+          "Using a Virtual Private Network (VPN)",
+          "Turning up the brightness of your screen",
+          "Disabling your firewall to connect faster",
+          "Using private browsing mode (Incognito) only"
+        ],
+        "answer": 0,
+        "explanation": "A VPN creates an encrypted tunnel for your data, protecting it from interception on insecure public networks."
+      },
+      "el": {
+        "passage": "",
+        "question": "35. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
+        "options": [
+          "Χρήση Εικονικού Ιδιωτικού Δικτύου (VPN)",
+          "Αύξηση της φωτεινότητας της οθόνης",
+          "Απενεργοποίηση του firewall για ταχύτερη σύνδεση",
+          "Χρήση μόνο της 'ανώνυμης περιήγησης' (Incognito)"
+        ],
+        "answer": 0,
+        "explanation": "Το VPN δημιουργεί μια κρυπτογραφημένη σήραγγα για τα δεδομένα σας, προστατεύοντάς τα από υποκλοπές σε μη ασφαλή δίκτυα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "36. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
+        "options": [
+          "Ensuring the AI does the work while you focus on other tasks",
+          "Reviewing, editing, and fact-checking every statement produced by the AI before use",
+          "Sharing the AI-generated link directly with your supervisor",
+          "Using only the most expensive AI model available"
+        ],
+        "answer": 1,
+        "explanation": "AI can hallucinate or produce biased data; human oversight is mandatory for accuracy and accountability in administration."
+      },
+      "el": {
+        "passage": "",
+        "question": "36. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
+        "options": [
+          "Να αφήνετε την ΤΝ να κάνει τη δουλειά ενώ εσείς κάνετε κάτι άλλο",
+          "Η αναθεώρηση, επεξεργασία και διασταύρωση κάθε δήλωσης της ΤΝ πριν τη χρήση",
+          "Η απευθείας αποστολή του κειμένου της ΤΝ στον προϊστάμενο",
+          "Η χρήση μόνο του πιο ακριβού μοντέλου ΤΝ"
+        ],
+        "answer": 1,
+        "explanation": "Η ΤΝ μπορεί να παράγει λανθασμένα στοιχεία· η ανθρώπινη επίβλεψη είναι υποχρεωτική για την ακρίβεια και τη λογοδοσία στη διοίκηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "37. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
+        "options": [
+          "A handwritten note",
+          "An audio recording of a meeting",
+          "A database record in XML or JSON format",
+          "A scanned PDF document with images"
+        ],
+        "answer": 2,
+        "explanation": "Structured formats like XML/JSON allow different systems to exchange and process information automatically (interoperability)."
+      },
+      "el": {
+        "passage": "",
+        "question": "37. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
+        "options": [
+          "Μια χειρόγραφη σημείωση",
+          "Μια ηχογράφηση συνεδρίασης",
+          "Μια εγγραφή βάσης δεδομένων σε μορφή XML ή JSON",
+          "Ένα σαρωμένο έγγραφο PDF με εικόνες"
+        ],
+        "answer": 2,
+        "explanation": "Τα δομημένα μορφότυπα όπως το XML/JSON επιτρέπουν στα συστήματα να ανταλλάσσουν και να επεξεργάζονται πληροφορίες αυτόματα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "38. What is the main purpose of the EU 'eIDAS' Regulation?",
+        "options": [
+          "To regulate the prices of electronic devices",
+          "To provide a predictable legal framework for electronic identification and trust services",
+          "To ban paper documents in the EU",
+          "To create a single EU social media platform"
+        ],
+        "answer": 1,
+        "explanation": "eIDAS ensures that electronic signatures and IDs are recognized across EU borders, facilitating digital administration."
+      },
+      "el": {
+        "passage": "",
+        "question": "38. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
+        "options": [
+          "Η ρύθμιση των τιμών των ηλεκτρονικών συσκευών",
+          "Η παροχή νομικού πλαισίου για την ηλεκτρονική ταυτοποίηση και τις υπηρεσίες εμπιστοσύνης",
+          "Η απαγόρευση των έγχαρτων εγγράφων στην ΕΕ",
+          "Η δημιουργία μιας ενιαίας ευρωπαϊκής πλατφόρμας social media"
+        ],
+        "answer": 1,
+        "explanation": "Ο eIDAS διασφαλίζει ότι οι ηλεκτρονικές υπογραφές και ταυτότητες αναγνωρίζονται διασυνοριακά, διευκολύνοντας την ψηφιακή διοίκηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "39. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
+        "options": [
+          "Send an invitation without an agenda to keep it flexible",
+          "Record the meeting and use a collaborative whiteboard for live notes",
+          "Ask everyone to keep their microphones on at all times",
+          "Use only the chat function and disable video"
+        ],
+        "answer": 1,
+        "explanation": "Recording and collaborative tools ensure that those unable to attend or in different time zones can still follow and contribute."
+      },
+      "el": {
+        "passage": "",
+        "question": "39. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
+        "options": [
+          "Αποστολή πρόσκλησης χωρίς ημερήσια διάταξη για ευελιξία",
+          "Ηχογράφηση της συνάντησης και χρήση συνεργατικού πίνακα (whiteboard) για σημειώσεις",
+          "Να ζητήσετε από όλους να έχουν τα μικρόφωνα ανοιχτά συνέχεια",
+          "Χρήση μόνο του chat και απενεργοποίηση του βίντεο"
+        ],
+        "answer": 1,
+        "explanation": "Η ηχογράφηση και τα συνεργατικά εργαλεία επιτρέπουν σε όσους βρίσκονται σε άλλες ζώνες ώρας να παρακολουθήσουν και να συνεισφέρουν."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "40. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
+        "options": [
+          "Manually calculate every cell with a handheld calculator",
+          "Using cell references and formulas instead of typing fixed numbers",
+          "Deleting all formulas before sharing the file",
+          "Merging as many cells as possible to make it look pretty"
+        ],
+        "answer": 1,
+        "explanation": "Using formulas and references ensures that if one value changes, all related calculations update automatically and accurately."
+      },
+      "el": {
+        "passage": "",
+        "question": "40. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
+        "options": [
+          "Χειροκίνητος υπολογισμός κάθε κελιού με κομπιουτεράκι",
+          "Χρήση αναφορών κελιών και τύπων αντί για πληκτρολόγηση σταθερών αριθμών",
+          "Διαγραφή όλων των τύπων πριν την κοινή χρήση του αρχείου",
+          "Συγχώνευση όσο το δυνατόν περισσότερων κελιών για ομορφιά"
+        ],
+        "answer": 1,
+        "explanation": "Η χρήση τύπων και αναφορών διασφαλίζει ότι αν αλλάξει μια τιμή, όλοι οι σχετικοί υπολογισμοί θα ενημερωθούν αυτόματα."
+      }
+    }
+  ],
+  "ds_3": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. An EU policy officer receives an automated budget-tracking spreadsheet from a different department. The spreadsheet contains several macros designed to aggregate data from various regional offices. When opening the file, the officer is prompted with a security warning. To ensure both operational efficiency and data security, which of the following statements most accurately describes the professional handling of macros in this context?",
+        "options": [
+          "Macros are primarily used to increase the visual quality of data presentations. Since they are internal scripts, they are automatically sandboxed by the operating system and do not require security verification before being enabled.",
+          "A macro is a sequence of instructions that automates repetitive tasks. Because macros can execute powerful system-level commands, they should only be enabled if the file comes from a trusted source and the digital signature of the macro project is verified.",
+          "Enabling macros is necessary for the spreadsheet's formulas (such as SUM or VLOOKUP) to function. If the officer clicks 'Disable Macros,' the static data within the cells will be deleted to protect the integrity of the underlying code.",
+          "Macros are a legacy feature replaced by Pivot Tables in modern spreadsheet software. If a workbook contains macros, it indicates the data is stored in an obsolete format that must be converted to an .html file to be viewed securely on a mobile device."
+        ],
+        "answer": 1,
+        "explanation": "A macro is a series of commands and functions stored in a module that can be run whenever you need to perform a task. In a professional environment, macros pose a significant security risk because they can be used to deliver malware or access sensitive files on a local network. Option A is incorrect because macros are about logic and automation, not visual quality, and they are not automatically safe. Option C is incorrect because standard formulas work perfectly fine without macros enabled. Option D is incorrect because Pivot Tables and macros serve entirely different purposes — data analysis versus task automation."
+      },
+      "el": {
+        "passage": "",
+        "question": "1. Ένας υπάλληλος πολιτικής της ΕΕ λαμβάνει ένα αυτοματοποιημένο υπολογιστικό φύλλο παρακολούθησης προϋπολογισμού από άλλο τμήμα. Το αρχείο περιέχει αρκετές μακροεντολές σχεδιασμένες να συγκεντρώνουν δεδομένα από διάφορα περιφερειακά γραφεία. Κατά το άνοιγμα του αρχείου, ο υπάλληλος λαμβάνει προειδοποίηση ασφαλείας. Ποια από τις παρακάτω προτάσεις περιγράφει με τον πλέον ακριβή τρόπο τον επαγγελματικό χειρισμό των μακροεντολών στο πλαίσιο αυτό;",
+        "options": [
+          "Οι μακροεντολές χρησιμοποιούνται κυρίως για τη βελτίωση της οπτικής ποιότητας των παρουσιάσεων δεδομένων. Εφόσον πρόκειται για εσωτερικά σενάρια, το λειτουργικό σύστημα τα απομονώνει αυτόματα και δεν απαιτείται επαλήθευση ασφαλείας πριν από την ενεργοποίησή τους.",
+          "Μια μακροεντολή είναι μια ακολουθία εντολών που αυτοματοποιεί επαναλαμβανόμενες εργασίες. Επειδή οι μακροεντολές μπορούν να εκτελέσουν ισχυρές εντολές σε επίπεδο συστήματος, θα πρέπει να ενεργοποιούνται μόνο εάν το αρχείο προέρχεται από αξιόπιστη πηγή και έχει επαληθευτεί η ψηφιακή υπογραφή του έργου μακροεντολής.",
+          "Η ενεργοποίηση των μακροεντολών είναι απαραίτητη για τη λειτουργία των τύπων του υπολογιστικού φύλλου (όπως SUM ή VLOOKUP). Εάν ο υπάλληλος επιλέξει 'Απενεργοποίηση μακροεντολών', τα στατικά δεδομένα των κελιών θα διαγραφούν για την προστασία της ακεραιότητας του υποκείμενου κώδικα.",
+          "Οι μακροεντολές είναι μια παλαιού τύπου λειτουργία που έχει αντικατασταθεί από τους Συγκεντρωτικούς Πίνακες στο σύγχρονο λογισμικό υπολογιστικών φύλλων. Εάν ένα βιβλίο εργασίας περιέχει μακροεντολές, αυτό υποδηλώνει ότι τα δεδομένα είναι αποθηκευμένα σε παρωχημένη μορφή που πρέπει να μετατραπεί σε αρχείο .html για ασφαλή προβολή σε κινητή συσκευή."
+        ],
+        "answer": 1,
+        "explanation": "Μια μακροεντολή είναι μια σειρά εντολών και λειτουργιών αποθηκευμένων σε μονάδα, η οποία μπορεί να εκτελεστεί οποτεδήποτε απαιτείται. Σε επαγγελματικό περιβάλλον, οι μακροεντολές ενέχουν σημαντικό κίνδυνο ασφαλείας, καθώς μπορούν να χρησιμοποιηθούν για τη διανομή κακόβουλου λογισμικού ή την πρόσβαση σε ευαίσθητα αρχεία. Η επιλογή Α είναι λανθασμένη διότι οι μακροεντολές αφορούν λογική και αυτοματισμό, όχι οπτική ποιότητα. Η επιλογή Γ είναι λανθασμένη διότι οι τυπικοί τύποι λειτουργούν κανονικά χωρίς μακροεντολές. Η επιλογή Δ είναι λανθασμένη διότι οι Συγκεντρωτικοί Πίνακες και οι μακροεντολές εξυπηρετούν εντελώς διαφορετικούς σκοπούς."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. An EU agency employee wants to share a draft policy paper with external stakeholders for consultation. She considers using a cloud-based collaborative document platform. Her supervisor asks her to evaluate the data governance implications. Which of the following is the most important data governance factor when using cloud-based platforms for external document sharing?",
+        "options": [
+          "Understanding where the platform stores data (geographic location of servers), who has access to the content (platform employees, third-party processors), what the platform's data processing terms allow (including potential use of content for AI training), and whether the sharing settings provide appropriate access controls (view-only, comment, edit) and expiry mechanisms.",
+          "The decisive factor is simply whether the platform offers a mobile app, since stakeholders are more likely to review documents on their phones or tablets. Issues like server location, access controls, and data processing terms fall under the platform provider's responsibility and do not need to be assessed by the party sharing the documents.",
+          "Cloud-based platforms are always safe for sharing any type of document because cloud providers guarantee confidentiality as part of their free-tier service terms. The supervisor's concern is unnecessary, as all major platforms provide enterprise-grade security by default for all account types.",
+          "The only data governance requirement is to password-protect the shared document. Once a password is set, no further evaluation of the platform's terms, server locations, or access controls is necessary, as the password provides complete protection regardless of the platform's security architecture."
+        ],
+        "answer": 0,
+        "explanation": "When using cloud-based platforms for sharing institutional documents externally, several data governance factors must be evaluated: where data is stored (relevant for GDPR data transfer requirements), who can access the content (the platform's own employees, contractors, subprocessors, and AI training pipelines), what the terms of service allow regarding content use, and what access controls are available to limit how recipients interact with the document. These considerations are particularly important for policy documents that may contain sensitive pre-decisional information."
+      },
+      "el": {
+        "passage": "",
+        "question": "2. Μια υπάλληλος οργανισμού της ΕΕ επιθυμεί να μοιραστεί ένα σχέδιο εγγράφου πολιτικής με εξωτερικούς ενδιαφερομένους για διαβούλευση. Εξετάζει τη χρήση μιας διαδικτυακής πλατφόρμας συνεργατικής επεξεργασίας εγγράφων. Ο προϊστάμενός της τής ζητά να αξιολογήσει τις επιπτώσεις στη διακυβέρνηση δεδομένων. Ποιος είναι ο πλέον σημαντικός παράγοντας διακυβέρνησης δεδομένων κατά τη χρήση διαδικτυακών πλατφορμών για εξωτερική κοινοποίηση εγγράφων;",
+        "options": [
+          "Η κατανόηση του τόπου αποθήκευσης δεδομένων από την πλατφόρμα (γεωγραφική θέση διακομιστών), του ποιος έχει πρόσβαση στο περιεχόμενο (υπάλληλοι πλατφόρμας, τρίτοι επεξεργαστές), των όρων επεξεργασίας δεδομένων (συμπεριλαμβανομένης πιθανής χρήσης για εκπαίδευση ΤΝ) και εάν οι ρυθμίσεις κοινοποίησης παρέχουν κατάλληλους ελέγχους πρόσβασης και μηχανισμούς λήξης.",
+          "Ο καθοριστικός παράγοντας είναι απλώς εάν η πλατφόρμα διαθέτει εφαρμογή για κινητά, καθώς οι ενδιαφερόμενοι είναι πιο πιθανό να ελέγξουν έγγραφα στα τηλέφωνά τους. Ζητήματα όπως η τοποθεσία διακομιστή, οι έλεγχοι πρόσβασης και οι όροι επεξεργασίας δεδομένων εμπίπτουν στην ευθύνη του παρόχου.",
+          "Οι διαδικτυακές πλατφόρμες είναι πάντα ασφαλείς για κοινοποίηση οποιουδήποτε εγγράφου, καθώς οι πάροχοι cloud εγγυώνται εμπιστευτικότητα στο πλαίσιο των δωρεάν υπηρεσιών τους. Η ανησυχία του προϊσταμένου είναι περιττή, καθώς όλες οι μεγάλες πλατφόρμες παρέχουν ασφάλεια επιχειρησιακού επιπέδου εξ ορισμού.",
+          "Η μόνη απαίτηση διακυβέρνησης δεδομένων είναι η προστασία του κοινοποιούμενου εγγράφου με κωδικό πρόσβασης. Μόλις οριστεί κωδικός, δεν απαιτείται περαιτέρω αξιολόγηση των όρων της πλατφόρμας, των τοποθεσιών διακομιστών ή των ελέγχων πρόσβασης."
+        ],
+        "answer": 0,
+        "explanation": "Κατά τη χρήση διαδικτυακών πλατφορμών για εξωτερική κοινοποίηση θεσμικών εγγράφων, πρέπει να αξιολογούνται πολλοί παράγοντες διακυβέρνησης δεδομένων: ο τόπος αποθήκευσης (σχετικός με τις απαιτήσεις μεταφοράς δεδομένων του ΓΚΠΔ), το ποιος έχει πρόσβαση στο περιεχόμενο (υπάλληλοι πλατφόρμας, υπεργολάβοι, αγωγοί εκπαίδευσης ΤΝ), τι επιτρέπουν οι όροι παροχής υπηρεσιών και ποιοι έλεγχοι πρόσβασης είναι διαθέσιμοι. Αυτές οι εκτιμήσεις είναι ιδιαίτερα σημαντικές για έγγραφα πολιτικής που ενδέχεται να περιέχουν ευαίσθητες προαποφασιστικές πληροφορίες."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. A policy analyst needs to distribute a high-stakes legislative proposal to multiple external stakeholders, including legal experts, public citizens, and accessibility auditors. The document contains complex formatting, embedded tables, and a specific official font. Which of the following statements best describes the trade-offs between document formats for this specific task?",
+        "options": [
+          "LaTeX is the most appropriate choice for general administrative distribution because it is a 'What You See Is What You Get' (WYSIWYG) editor, ensuring that stakeholders without technical training can easily edit the source code and metadata on any mobile device.",
+          "RTF (Rich Text Format) is the preferred format for final distribution because it supports advanced document security features like digital signatures and password encryption, while offering smaller file sizes than both PDF and DOCX formats.",
+          "PDF (Portable Document Format) is ideal for final distribution because it preserves visual formatting across different devices and operating systems, whereas DOCX is better suited for the drafting phase due to its superior track-changes and collaborative editing features.",
+          "DOCX files are universally safer than PDFs because they cannot contain embedded macros or scripts. Therefore, to ensure IT security, all final official documents should be shared in an editable Word format rather than a 'read-only' format."
+        ],
+        "answer": 2,
+        "explanation": "PDF's primary advantage is fidelity: the recipient sees exactly what the sender intended, regardless of fonts or software installed. It is the standard for final versions. DOCX's primary advantage is editability: it is the professional standard for the working phase where collaboration and revision tracking are required. Option A is incorrect because LaTeX is not WYSIWYG — it is a code-based document preparation system with a steep learning curve. Option B is incorrect because RTF is a legacy format with very limited support for modern security features. Option D is incorrect and dangerous: DOCX files can contain macros, and sharing final documents in an editable format is generally poor administrative practice."
+      },
+      "el": {
+        "passage": "",
+        "question": "3. Ένας αναλυτής πολιτικής πρέπει να διανείμει μια σημαντική νομοθετική πρόταση σε πολλούς εξωτερικούς ενδιαφερομένους, συμπεριλαμβανομένων νομικών εμπειρογνωμόνων, πολιτών και ελεγκτών προσβασιμότητας. Το έγγραφο περιέχει σύνθετη μορφοποίηση, ενσωματωμένους πίνακες και συγκεκριμένη επίσημη γραμματοσειρά. Ποια από τις παρακάτω προτάσεις περιγράφει καλύτερα τις αντισταθμίσεις μεταξύ μορφών εγγράφων για αυτή την εργασία;",
+        "options": [
+          "Το LaTeX είναι η πλέον κατάλληλη επιλογή για γενική διοικητική διανομή, καθώς είναι επεξεργαστής WYSIWYG, εξασφαλίζοντας ότι οι ενδιαφερόμενοι χωρίς τεχνική κατάρτιση μπορούν εύκολα να επεξεργαστούν τον πηγαίο κώδικα και τα μεταδεδομένα από οποιαδήποτε κινητή συσκευή.",
+          "Το RTF (Rich Text Format) είναι η προτιμώμενη μορφή για τελική διανομή, καθώς υποστηρίζει προηγμένες λειτουργίες ασφαλείας εγγράφων όπως ψηφιακές υπογραφές και κρυπτογράφηση με κωδικό πρόσβασης, ενώ προσφέρει μικρότερα μεγέθη αρχείων από τις μορφές PDF και DOCX.",
+          "Το PDF (Portable Document Format) είναι ιδανικό για τελική διανομή, καθώς διατηρεί την οπτική μορφοποίηση σε διαφορετικές συσκευές και λειτουργικά συστήματα, ενώ το DOCX είναι καταλληλότερο για τη φάση σύνταξης λόγω των ανώτερων λειτουργιών παρακολούθησης αλλαγών και συνεργατικής επεξεργασίας.",
+          "Τα αρχεία DOCX είναι καθολικά ασφαλέστερα από τα PDF, καθώς δεν μπορούν να περιέχουν ενσωματωμένες μακροεντολές ή σενάρια. Επομένως, για λόγους ασφάλειας πληροφορικής, όλα τα τελικά επίσημα έγγραφα θα πρέπει να κοινοποιούνται σε επεξεργάσιμη μορφή Word."
+        ],
+        "answer": 2,
+        "explanation": "Το κύριο πλεονέκτημα του PDF είναι η πιστότητα: ο παραλήπτης βλέπει ακριβώς αυτό που σκόπευε ο αποστολέας, ανεξάρτητα από γραμματοσειρές ή εγκατεστημένο λογισμικό. Είναι το πρότυπο για τελικές εκδόσεις. Το κύριο πλεονέκτημα του DOCX είναι η δυνατότητα επεξεργασίας για τη φάση συνεργασίας. Η επιλογή Α είναι λανθασμένη γιατί το LaTeX δεν είναι WYSIWYG — είναι σύστημα βασισμένο σε κώδικα. Η επιλογή Β είναι λανθασμένη γιατί το RTF είναι παλαιού τύπου μορφή με περιορισμένη υποστήριξη σύγχρονων λειτουργιών ασφαλείας. Η επιλογή Δ είναι λανθασμένη και επικίνδυνη: τα αρχεία DOCX μπορούν να περιέχουν μακροεντολές."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. An employee of an EU institution reviews a news article summarising a scientific study. The article asserts that the study 'demonstrates' the effectiveness of a particular policy, supported by striking statistics. The employee wants to assess whether this claim is methodologically justified. Which of the following is the most important factor to consider when determining whether the study supports a causal conclusion?",
+        "options": [
+          "Whether the study employs a research design suitable for causal inference — such as a randomised controlled trial, a credible quasi-experimental approach, or a well-specified observational model that adequately accounts for confounding variables — rather than merely identifying an association.",
+          "Whether the study has undergone peer review and is published in a high-impact journal, as such journals typically apply rigorous screening standards that reduce the likelihood of flawed causal claims.",
+          "Whether the study includes a very large and statistically representative sample, since larger datasets increase statistical power and reduce random error, thereby strengthening the validity of causal conclusions.",
+          "Whether the findings are communicated through clear data visualisations (e.g. graphs and charts), which can indicate structured analysis and help reveal underlying patterns more effectively than purely textual reporting."
+        ],
+        "answer": 0,
+        "explanation": "Only a suitable research design — such as a randomised controlled trial or credible quasi-experimental approach — can support causal inference. Option B is dangerously plausible but peer review and impact factor do not equal causal validity. Option C exploits a classic confusion between precision and causality: a large sample reduces random error but does not establish causation. Option D remains a softer distractor: clear visualisations aid communication but say nothing about causal validity."
+      },
+      "el": {
+        "passage": "",
+        "question": "4. Υπάλληλος θεσμικού οργάνου της ΕΕ διαβάζει άρθρο που συνοψίζει επιστημονική μελέτη. Το άρθρο ισχυρίζεται ότι η μελέτη 'αποδεικνύει' την αποτελεσματικότητα μιας συγκεκριμένης πολιτικής, υποστηριζόμενο από εντυπωσιακά στατιστικά. Ο υπάλληλος επιθυμεί να αξιολογήσει εάν ο ισχυρισμός αυτός είναι μεθοδολογικά δικαιολογημένος. Ποιος είναι ο πλέον σημαντικός παράγοντας για να διαπιστωθεί εάν η μελέτη υποστηρίζει αιτιακό συμπέρασμα;",
+        "options": [
+          "Εάν η μελέτη χρησιμοποιεί ερευνητικό σχεδιασμό κατάλληλο για αιτιακή συμπερασματολογία — όπως τυχαιοποιημένη ελεγχόμενη δοκιμή, αξιόπιστη οιονεί-πειραματική προσέγγιση ή καλά καθορισμένο παρατηρησιακό μοντέλο που λαμβάνει υπόψη τις συγχυτικές μεταβλητές — αντί να εντοπίζει απλώς συσχέτιση.",
+          "Εάν η μελέτη έχει υποβληθεί σε αξιολόγηση από ομοτίμους και δημοσιευτεί σε περιοδικό υψηλού κύρους, καθώς τέτοια περιοδικά εφαρμόζουν αυστηρά πρότυπα ελέγχου που μειώνουν την πιθανότητα εσφαλμένων αιτιακών ισχυρισμών.",
+          "Εάν η μελέτη περιλαμβάνει πολύ μεγάλο και στατιστικά αντιπροσωπευτικό δείγμα, καθώς τα μεγαλύτερα σύνολα δεδομένων αυξάνουν τη στατιστική ισχύ και μειώνουν τυχαία σφάλματα, ενισχύοντας έτσι την εγκυρότητα των αιτιακών συμπερασμάτων.",
+          "Εάν τα ευρήματα παρουσιάζονται μέσω σαφών οπτικοποιήσεων δεδομένων (π.χ. γραφήματα και διαγράμματα), που μπορεί να υποδηλώνουν δομημένη ανάλυση και να αποκαλύπτουν υποκείμενα πρότυπα πιο αποτελεσματικά από καθαρά κειμενική αναφορά."
+        ],
+        "answer": 0,
+        "explanation": "Μόνο ένας κατάλληλος ερευνητικός σχεδιασμός — όπως τυχαιοποιημένη ελεγχόμενη δοκιμή ή αξιόπιστη οιονεί-πειραματική προσέγγιση — μπορεί να υποστηρίξει αιτιακή συμπερασματολογία. Η επιλογή Β είναι παραπλανητικά πιθανή αλλά η αξιολόγηση από ομοτίμους δεν ισοδυναμεί με αιτιακή εγκυρότητα. Η επιλογή Γ εκμεταλλεύεται τη σύγχυση μεταξύ ακρίβειας και αιτιότητας. Η επιλογή Δ αφορά επικοινωνία, όχι αιτιακή εγκυρότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. An EU policy analyst is preparing a short briefing on renewable energy trends across Member States. The dataset includes: the share of different energy sources in total energy consumption for each country, the change in renewable energy share over the past 10 years, and the relationship between GDP per capita and renewable energy adoption. Which of the following combinations of visualisations is most appropriate?",
+        "options": [
+          "Use a pie chart to show the relationship between GDP per capita and renewable energy adoption, a bar chart to show the share of energy sources, and a line chart to show the change over time.",
+          "Use a bar chart to compare the share of energy sources across countries, a line chart to show changes in renewable energy share over time, and a scatter plot to analyse the relationship between GDP per capita and renewable energy adoption.",
+          "Use a pie chart to compare energy sources across countries, a scatter plot to show changes over time, and a bar chart to display the relationship between GDP and renewable energy adoption.",
+          "Use a line chart to compare the share of energy sources across countries, a pie chart to show changes over time, and a scatter plot to summarise all variables in a single visual."
+        ],
+        "answer": 1,
+        "explanation": "Bar charts are best for comparing categories across groups (e.g. energy mix across countries). Line charts are best for trends over time. Scatter plots are best for relationships between two continuous variables (GDP vs renewables). Option A misuses a pie chart for a correlation relationship. Option C abuses pie charts across multiple entities, creating visual chaos. Option D is superficially sophisticated but none of the chart types match their intended data."
+      },
+      "el": {
+        "passage": "",
+        "question": "5. Αναλυτής πολιτικής της ΕΕ ετοιμάζει σύντομη ενημέρωση για τις τάσεις ανανεώσιμης ενέργειας στα κράτη μέλη. Το σύνολο δεδομένων περιλαμβάνει: το μερίδιο διαφόρων πηγών ενέργειας στη συνολική κατανάλωση ανά χώρα, τη μεταβολή του μεριδίου ανανεώσιμης ενέργειας τα τελευταία 10 χρόνια και τη σχέση μεταξύ ΑΕΠ κατά κεφαλήν και υιοθέτησης ανανεώσιμης ενέργειας. Ποιος συνδυασμός οπτικοποιήσεων είναι ο πλέον κατάλληλος;",
+        "options": [
+          "Χρήση γραφήματος πίτας για τη σχέση ΑΕΠ-ανανεώσιμη ενέργεια, ραβδογράμματος για το μερίδιο πηγών ενέργειας και γραμμικού γραφήματος για τη μεταβολή στο χρόνο.",
+          "Χρήση ραβδογράμματος για σύγκριση μεριδίων πηγών ενέργειας ανά χώρα, γραμμικού γραφήματος για μεταβολές στο μερίδιο ανανεώσιμης ενέργειας στο χρόνο και διαγράμματος διασποράς για ανάλυση της σχέσης μεταξύ ΑΕΠ κατά κεφαλήν και υιοθέτησης ανανεώσιμης ενέργειας.",
+          "Χρήση γραφήματος πίτας για σύγκριση πηγών ενέργειας ανά χώρα, διαγράμματος διασποράς για μεταβολές στο χρόνο και ραβδογράμματος για τη σχέση ΑΕΠ-ανανεώσιμη ενέργεια.",
+          "Χρήση γραμμικού γραφήματος για σύγκριση μεριδίων πηγών ενέργειας ανά χώρα, γραφήματος πίτας για μεταβολές στο χρόνο και διαγράμματος διασποράς για σύνοψη όλων των μεταβλητών σε ένα μόνο γράφημα."
+        ],
+        "answer": 1,
+        "explanation": "Τα ραβδογράμματα είναι καταλληλότερα για σύγκριση κατηγοριών μεταξύ ομάδων. Τα γραμμικά γραφήματα είναι καταλληλότερα για τάσεις στο χρόνο. Τα διαγράμματα διασποράς είναι καταλληλότερα για σχέσεις μεταξύ δύο συνεχών μεταβλητών. Η επιλογή Α κάνει κακή χρήση γραφήματος πίτας για συσχέτιση. Η επιλογή Γ χρησιμοποιεί γραφήματα πίτας για πολλαπλές οντότητες, δημιουργώντας οπτικό χάος. Η επιλογή Δ φαίνεται εξελιγμένη αλλά κανένας τύπος γραφήματος δεν ταιριάζει με τα δεδομένα του."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. What does the abbreviation PDF stand for?",
+        "options": [
+          "Portable Document Format",
+          "Public Data File",
+          "Processed Digital Form",
+          "Printed Document Framework"
+        ],
+        "answer": 0,
+        "explanation": "PDF stands for Portable Document Format, developed by Adobe. It is the standard format for documents that must preserve their layout and formatting across different devices, operating systems, and software environments."
+      },
+      "el": {
+        "passage": "",
+        "question": "6. Τι σημαίνει η συντομογραφία PDF;",
+        "options": [
+          "Portable Document Format (Φορητή Μορφή Εγγράφου)",
+          "Public Data File (Δημόσιο Αρχείο Δεδομένων)",
+          "Processed Digital Form (Επεξεργασμένη Ψηφιακή Φόρμα)",
+          "Printed Document Framework (Πλαίσιο Εκτυπωμένου Εγγράφου)"
+        ],
+        "answer": 0,
+        "explanation": "Το PDF σημαίνει Portable Document Format (Φορητή Μορφή Εγγράφου), που αναπτύχθηκε από την Adobe. Είναι η τυπική μορφή για έγγραφα που πρέπει να διατηρούν τη διάταξη και τη μορφοποίησή τους σε διαφορετικές συσκευές, λειτουργικά συστήματα και περιβάλλοντα λογισμικού."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. An EU institution employee is training a new colleague on how to use the internal document management system. The trainee asks how Boolean operators (AND, OR, NOT) affect their search results. Which of the following most accurately explains their function?",
+        "options": [
+          "Within the EU system, these terms are administrative status tags. AND indicates a document is pending approval, OR signifies an optional reading, and NOT is a security flag used to restrict access to sensitive personnel files.",
+          "Boolean operators are used to rank search results based on the seniority of the document's author. AND prioritises official legislation, OR prioritises internal drafts, and NOT hides documents that have been archived for more than five years.",
+          "These operators define the relationship between search terms to refine results: AND narrows a search by requiring all terms to be present; OR broadens it by retrieving documents containing any of the terms; and NOT excludes specific terms from the results.",
+          "Boolean operators are a form of AI translation. When used, AND merges two different languages into a single report, OR provides a summary of the text, and NOT automatically corrects grammatical errors in the search query."
+        ],
+        "answer": 2,
+        "explanation": "Boolean operators are logical connectors used in information retrieval. AND narrows results by requiring all specified terms to appear. OR broadens results by returning documents with any of the terms. NOT excludes documents containing a specific term. Option A confuses search logic with document metadata or status tags. Option B conflates search ranking with document authority. Option D plays on assumptions about AI, incorrectly attributing translation and correction functions to logical operators."
+      },
+      "el": {
+        "passage": "",
+        "question": "7. Υπάλληλος θεσμικού οργάνου της ΕΕ εκπαιδεύει νέο συνάδελφο στη χρήση του εσωτερικού συστήματος διαχείρισης εγγράφων. Ο εκπαιδευόμενος ρωτά πώς οι Λογικοί Τελεστές (AND, OR, NOT) επηρεάζουν τα αποτελέσματα αναζήτησης. Ποια από τις παρακάτω εξηγήσεις είναι η πλέον ακριβής;",
+        "options": [
+          "Στο σύστημα της ΕΕ, αυτοί οι όροι είναι διοικητικές ετικέτες κατάστασης. Το AND υποδηλώνει ότι ένα έγγραφο εκκρεμεί έγκριση, το OR σημαίνει προαιρετική ανάγνωση και το NOT είναι σήμανση ασφαλείας για περιορισμό πρόσβασης σε ευαίσθητα αρχεία προσωπικού.",
+          "Οι Λογικοί Τελεστές χρησιμοποιούνται για την κατάταξη αποτελεσμάτων αναζήτησης βάσει της ιεραρχίας του συντάκτη. Το AND δίνει προτεραιότητα στη νομοθεσία, το OR στα εσωτερικά σχέδια και το NOT αποκρύπτει έγγραφα που έχουν αρχειοθετηθεί για περισσότερα από πέντε χρόνια.",
+          "Αυτοί οι τελεστές ορίζουν τη σχέση μεταξύ όρων αναζήτησης για τη βελτίωση των αποτελεσμάτων: το AND περιορίζει την αναζήτηση απαιτώντας την παρουσία όλων των όρων· το OR την διευρύνει ανακτώντας έγγραφα που περιέχουν οποιονδήποτε από τους όρους· και το NOT αποκλείει συγκεκριμένους όρους από τα αποτελέσματα.",
+          "Οι Λογικοί Τελεστές είναι μορφή μετάφρασης ΤΝ. Όταν χρησιμοποιούνται, το AND συγχωνεύει δύο γλώσσες σε μία αναφορά, το OR παρέχει περίληψη κειμένου και το NOT διορθώνει αυτόματα γραμματικά λάθη στο ερώτημα αναζήτησης."
+        ],
+        "answer": 2,
+        "explanation": "Οι Λογικοί Τελεστές είναι λογικές συνδέσεις που χρησιμοποιούνται στην ανάκτηση πληροφοριών. Το AND περιορίζει τα αποτελέσματα απαιτώντας την παρουσία όλων των όρων. Το OR διευρύνει τα αποτελέσματα επιστρέφοντας έγγραφα με οποιονδήποτε όρο. Το NOT αποκλείει έγγραφα που περιέχουν συγκεκριμένο όρο. Η επιλογή Α συγχέει τη λογική αναζήτησης με μεταδεδομένα εγγράφων. Η επιλογή Β συγχέει κατάταξη με εξουσιοδότηση εγγράφων. Η επιλογή Δ αποδίδει εσφαλμένα λειτουργίες μετάφρασης και διόρθωσης στους λογικούς τελεστές."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. Many EU institutions have adopted a 'hybrid-first' working model, where some team members are physically present in the office while others join from remote locations. Internal surveys suggest that remote participants often feel like 'second-class citizens', struggling to follow side conversations or find an opening to speak. A department head is drafting a new policy to improve the quality of these sessions. Which of the following approaches should the institution adopt to manage hybrid meetings effectively?",
+        "options": [
+          "The solution is to require all participants to join remotely, even those physically present in the building. Fully virtual meetings are always superior to hybrid formats because they eliminate all participation disparities. There is no scenario in which a hybrid format can achieve inclusive participation.",
+          "Remote participants should accept a reduced level of participation as an inherent limitation of hybrid meetings. The meeting organiser's responsibility is only to the in-room participants, and remote attendees should review the meeting recording afterwards rather than attempting to participate in real time.",
+          "Hybrid meetings require deliberate design to ensure parity between in-room and remote participants — including directional microphones that capture all in-room speakers clearly, camera positioning that shows the active speaker, a dedicated moderator who monitors the remote chat and hand-raise queue, and meeting norms that explicitly alternate between in-room and remote contributions.",
+          "Remote participant exclusion is caused entirely by insufficient internet bandwidth. Upgrading the agency's internet connection to the highest available speed will resolve all participation issues for remote attendees, as bandwidth is the sole technical factor affecting hybrid meeting quality."
+        ],
+        "answer": 2,
+        "explanation": "Effective hybrid meetings require deliberate, multi-faceted design rather than a single technical fix. Only option C recognises that the problem combines hardware (microphones, cameras) with behavioural norms (moderation, turn-taking). It applies the principle of equal opportunity to participation, ensuring the remote experience mirrors the in-room one. Option A is impractical and assumes virtual is always superior. Option B abandons the principle of inclusion entirely. Option D reduces a complex sociotechnical problem to a single variable — bandwidth — which is incorrect."
+      },
+      "el": {
+        "passage": "",
+        "question": "8. Πολλά θεσμικά όργανα της ΕΕ έχουν υιοθετήσει μοντέλο εργασίας 'hybrid-first', όπου ορισμένα μέλη της ομάδας είναι φυσικά παρόντα στο γραφείο ενώ άλλα συμμετέχουν εξ αποστάσεως. Εσωτερικές έρευνες δείχνουν ότι οι εξ αποστάσεως συμμετέχοντες αισθάνονται συχνά ότι δεν συμμετέχουν ισότιμα. Ποια προσέγγιση πρέπει να υιοθετήσει το θεσμικό όργανο για αποτελεσματική διαχείριση υβριδικών συσκέψεων;",
+        "options": [
+          "Η λύση είναι να απαιτηθεί από όλους τους συμμετέχοντες να συνδέονται εξ αποστάσεως, ακόμα και από αυτούς που βρίσκονται φυσικά στο κτίριο. Οι πλήρως εικονικές συσκέψεις είναι πάντα ανώτερες από τις υβριδικές, καθώς εξαλείφουν όλες τις ανισότητες συμμετοχής.",
+          "Οι εξ αποστάσεως συμμετέχοντες πρέπει να αποδεχτούν μειωμένο επίπεδο συμμετοχής ως εγγενή περιορισμό των υβριδικών συσκέψεων. Η ευθύνη του διοργανωτή αφορά μόνο τους παρόντες στην αίθουσα.",
+          "Οι υβριδικές συσκέψεις απαιτούν σχεδιασμό για να εξασφαλιστεί ισοτιμία μεταξύ παρόντων και εξ αποστάσεως συμμετεχόντων — συμπεριλαμβανομένων κατευθυντικών μικροφώνων, κατάλληλης τοποθέτησης κάμερας, αφοσιωμένου συντονιστή που παρακολουθεί τη chat και την ουρά αιτήσεων λόγου, και κανόνων σύσκεψης που εναλλάσσουν ρητά συνεισφορές εντός και εκτός αίθουσας.",
+          "Ο αποκλεισμός εξ αποστάσεως συμμετεχόντων οφείλεται αποκλειστικά σε ανεπαρκές εύρος ζώνης διαδικτύου. Η αναβάθμιση της σύνδεσης θα επιλύσει όλα τα ζητήματα συμμετοχής."
+        ],
+        "answer": 2,
+        "explanation": "Οι αποτελεσματικές υβριδικές συσκέψεις απαιτούν σκόπιμο, πολυδιάστατο σχεδιασμό. Μόνο η επιλογή Γ αναγνωρίζει ότι το πρόβλημα συνδυάζει υλικό (μικρόφωνα, κάμερες) με συμπεριφορικούς κανόνες (συντονισμός, εναλλαγή ομιλητών). Εφαρμόζει την αρχή της ισότητας ευκαιριών στη συμμετοχή. Η επιλογή Α είναι μη πρακτική. Η επιλογή Β εγκαταλείπει εντελώς την αρχή της συμπερίληψης. Η επιλογή Δ απλοποιεί ένα σύνθετο πρόβλημα σε έναν μόνο παράγοντα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. The procurement unit of an EU institution is comparing laptops and conducts online searches for 'best laptops 2026'. One staff member uses a mobile phone, while another uses a desktop computer. They notice that the search results are not identical. Which of the following best explains this difference?",
+        "options": [
+          "Search engines deliver identical results for the same query, regardless of the device used, as long as the keywords are unchanged.",
+          "Desktop computers have access to a broader and more up-to-date version of the internet than mobile devices.",
+          "Mobile devices typically display simplified or delayed search results due to hardware limitations.",
+          "Search engines tailor results based on multiple factors, including the type of device used (e.g. mobile vs desktop), which can influence how content is ranked and displayed."
+        ],
+        "answer": 3,
+        "explanation": "Search engines do not simply answer queries — they profile contexts. Device type, location, browsing history, and even screen size can subtly reshape what results are shown and how they are ranked. Option A is a comforting myth — results vary widely. Option B was partially true in the past but is no longer accurate. Option C sounds plausible but is technically misleading: hardware limitations do not cause simplified or delayed search results."
+      },
+      "el": {
+        "passage": "",
+        "question": "9. Η μονάδα προμηθειών ενός θεσμικού οργάνου της ΕΕ συγκρίνει φορητούς υπολογιστές και πραγματοποιεί διαδικτυακές αναζητήσεις για 'best laptops 2026'. Ένας υπάλληλος χρησιμοποιεί κινητό τηλέφωνο, ενώ άλλος χρησιμοποιεί επιτραπέζιο υπολογιστή. Παρατηρούν ότι τα αποτελέσματα αναζήτησης δεν είναι πανομοιότυπα. Ποιο από τα παρακάτω εξηγεί καλύτερα αυτή τη διαφορά;",
+        "options": [
+          "Οι μηχανές αναζήτησης παρέχουν πανομοιότυπα αποτελέσματα για το ίδιο ερώτημα, ανεξάρτητα από τη συσκευή που χρησιμοποιείται, εφόσον οι λέξεις-κλειδιά είναι αμετάβλητες.",
+          "Οι επιτραπέζιοι υπολογιστές έχουν πρόσβαση σε ευρύτερη και πιο ενημερωμένη έκδοση του διαδικτύου από τις κινητές συσκευές.",
+          "Οι κινητές συσκευές εμφανίζουν συνήθως απλοποιημένα ή καθυστερημένα αποτελέσματα αναζήτησης λόγω περιορισμών υλικού.",
+          "Οι μηχανές αναζήτησης προσαρμόζουν τα αποτελέσματα βάσει πολλών παραγόντων, συμπεριλαμβανομένου του τύπου συσκευής (π.χ. κινητό έναντι επιτραπέζιου), που μπορεί να επηρεάσει τον τρόπο κατάταξης και εμφάνισης του περιεχομένου."
+        ],
+        "answer": 3,
+        "explanation": "Οι μηχανές αναζήτησης δεν απαντούν απλώς σε ερωτήματα — αναλύουν το πλαίσιο. Ο τύπος συσκευής, η τοποθεσία, το ιστορικό περιήγησης και ακόμη και το μέγεθος οθόνης μπορούν να διαμορφώσουν λεπτά τα αποτελέσματα. Η επιλογή Α είναι παρηγορητικός μύθος. Η επιλογή Β ήταν εν μέρει αληθής στο παρελθόν αλλά όχι πλέον. Η επιλογή Γ ακούγεται πιθανή αλλά είναι τεχνικά παραπλανητική: οι περιορισμοί υλικού δεν προκαλούν απλοποιημένα αποτελέσματα αναζήτησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. An EU agency is drafting internal guidance on the responsible use of social media after noting that some staff members occasionally comment on policy-related issues via their personal accounts, sometimes indicating their employer in their profile. Which of the following best reflects the appropriate principle that should guide staff in such situations?",
+        "options": [
+          "Staff should remain mindful that their personal online activity may be perceived as reflecting the institution, particularly where their professional affiliation is visible. They should clearly distinguish personal views from official positions, respect confidentiality obligations, and exercise sound judgement regarding the potential reputational impact of their posts.",
+          "Staff should ensure that any policy-related content they post on personal accounts is strictly aligned with publicly communicated institutional positions, in order to avoid creating confusion; they should also maintain consistency in external messaging.",
+          "Staff are entitled to express themselves freely on personal social media accounts, as freedom of expression under Article 11 of the EU Charter takes precedence over professional considerations such as loyalty and discretion.",
+          "Staff should refrain from engaging with social media in any personal capacity where policy matters are concerned, as all public communication is the exclusive responsibility of designated institutional channels."
+        ],
+        "answer": 0,
+        "explanation": "EU institution staff must balance their freedom of expression with professional obligations including discretion, loyalty to the institution, and confidentiality requirements set out in the EU Staff Regulations. When engaging on social media, staff should clearly distinguish personal views from official positions, exercise judgement about the potential impact of posts, and never disclose confidential information. Option B sounds responsible but quietly imposes an unrealistic obligation to always align with official positions. Option C exaggerates fundamental rights into an unconditional free pass. Option D reflects an overly restrictive and impractical interpretation of institutional control."
+      },
+      "el": {
+        "passage": "",
+        "question": "10. Οργανισμός της ΕΕ καταρτίζει εσωτερικές κατευθυντήριες γραμμές για την υπεύθυνη χρήση των μέσων κοινωνικής δικτύωσης, αφού παρατήρησε ότι ορισμένοι υπάλληλοι σχολιάζουν περιστασιακά θέματα πολιτικής μέσω προσωπικών λογαριασμών, αναφέροντας ενίοτε τον εργοδότη τους στο προφίλ τους. Ποιο από τα παρακάτω αντικατοπτρίζει καλύτερα την κατάλληλη αρχή που πρέπει να καθοδηγεί τους υπαλλήλους σε τέτοιες καταστάσεις;",
+        "options": [
+          "Οι υπάλληλοι πρέπει να έχουν υπόψη ότι η προσωπική τους διαδικτυακή δραστηριότητα μπορεί να γίνει αντιληπτή ως αντανάκλαση του θεσμικού οργάνου, ιδίως όταν η επαγγελματική τους συνεργασία είναι ορατή. Πρέπει να διακρίνουν σαφώς τις προσωπικές απόψεις από τις επίσημες θέσεις, να σέβονται τις υποχρεώσεις εμπιστευτικότητας και να ασκούν κρίση σχετικά με τον πιθανό αντίκτυπο των δημοσιεύσεών τους.",
+          "Οι υπάλληλοι πρέπει να διασφαλίζουν ότι οποιοδήποτε περιεχόμενο σχετικό με πολιτική που δημοσιεύουν σε προσωπικούς λογαριασμούς ευθυγραμμίζεται αυστηρά με τις δημόσια κοινοποιούμενες θεσμικές θέσεις, προκειμένου να αποφεύγεται η σύγχυση.",
+          "Οι υπάλληλοι δικαιούνται να εκφράζονται ελεύθερα στους προσωπικούς λογαριασμούς κοινωνικής δικτύωσης, καθώς η ελευθερία έκφρασης βάσει του άρθρου 11 του Χάρτη της ΕΕ υπερισχύει επαγγελματικών εκτιμήσεων όπως η αφοσίωση και η διακριτικότητα.",
+          "Οι υπάλληλοι πρέπει να αποφεύγουν οποιαδήποτε προσωπική χρήση μέσων κοινωνικής δικτύωσης σε θέματα πολιτικής, καθώς κάθε δημόσια επικοινωνία είναι αποκλειστική ευθύνη των ορισμένων θεσμικών καναλιών."
+        ],
+        "answer": 0,
+        "explanation": "Οι υπάλληλοι των θεσμικών οργάνων της ΕΕ πρέπει να εξισορροπούν την ελευθερία έκφρασής τους με επαγγελματικές υποχρεώσεις, συμπεριλαμβανομένης της διακριτικότητας, της αφοσίωσης στο θεσμικό όργανο και των απαιτήσεων εμπιστευτικότητας του Κανονισμού Υπηρεσιακής Κατάστασης. Η επιλογή Β φαίνεται υπεύθυνη αλλά επιβάλλει σιωπηλά μια μη ρεαλιστική υποχρέωση. Η επιλογή Γ υπερβάλλει τα θεμελιώδη δικαιώματα. Η επιλογή Δ αντικατοπτρίζει υπερβολικά περιοριστική ερμηνεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. In a spreadsheet application such as Microsoft Excel, a user records a macro intended to automate formatting and data-cleaning steps. After sharing the file, colleagues report inconsistent results when running the macro on their machines. Which of the following is the most likely cause of the inconsistency?",
+        "options": [
+          "The macro was recorded using absolute cell references, causing it to apply actions to fixed locations regardless of dataset structure.",
+          "The macro was saved in a workbook format that prevents execution on other devices.",
+          "Macros cannot be shared between users unless converted into formulas.",
+          "The macro automatically adapts to different datasets, leading to unpredictable formatting outcomes."
+        ],
+        "answer": 0,
+        "explanation": "Absolute references lock a macro to specific cells — effective for fixed-position data but disastrous when applied to datasets of varying structure or size. Relative references would have allowed the macro to apply actions consistently relative to the active cell, regardless of where the data begins. Option B is unlikely as standard macro-enabled formats (.xlsm) are widely compatible. Option C is incorrect — macros are shareable within compatible workbooks. Option D is contradictory: a macro with absolute references does the opposite of adapting."
+      },
+      "el": {
+        "passage": "",
+        "question": "11. Σε εφαρμογή υπολογιστικών φύλλων όπως το Microsoft Excel, χρήστης καταγράφει μακροεντολή για την αυτοματοποίηση βημάτων μορφοποίησης και καθαρισμού δεδομένων. Μετά την κοινοποίηση του αρχείου, συνάδελφοι αναφέρουν ασυνεπή αποτελέσματα κατά την εκτέλεση της μακροεντολής στα δικά τους μηχανήματα. Ποιο είναι το πιο πιθανό αίτιο της ασυνέπειας;",
+        "options": [
+          "Η μακροεντολή καταγράφηκε με χρήση απόλυτων αναφορών κελιών, με αποτέλεσμα να εφαρμόζει ενέργειες σε σταθερές θέσεις ανεξάρτητα από τη δομή του συνόλου δεδομένων.",
+          "Η μακροεντολή αποθηκεύτηκε σε μορφή βιβλίου εργασίας που αποτρέπει την εκτέλεσή της σε άλλες συσκευές.",
+          "Οι μακροεντολές δεν μπορούν να κοινοποιηθούν μεταξύ χρηστών εκτός εάν μετατραπούν σε τύπους.",
+          "Η μακροεντολή προσαρμόζεται αυτόματα σε διαφορετικά σύνολα δεδομένων, οδηγώντας σε απρόβλεπτα αποτελέσματα μορφοποίησης."
+        ],
+        "answer": 0,
+        "explanation": "Οι απόλυτες αναφορές κλειδώνουν μια μακροεντολή σε συγκεκριμένα κελιά — αποτελεσματικό για δεδομένα σταθερής θέσης αλλά καταστροφικό όταν εφαρμόζεται σε σύνολα δεδομένων διαφορετικής δομής. Οι σχετικές αναφορές θα επέτρεπαν στη μακροεντολή να εφαρμόζει ενέργειες συνεπώς σε σχέση με το ενεργό κελί. Η επιλογή Β είναι απίθανη καθώς οι τυπικές μορφές (.xlsm) είναι ευρέως συμβατές. Η επιλογή Γ είναι λανθασμένη — οι μακροεντολές μπορούν να κοινοποιηθούν. Η επιλογή Δ είναι αντιφατική."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. You are co-authoring a policy paper within an EU institution using a shared cloud-based document. Multiple contributors are editing simultaneously: sections are being overwritten, and comments are dispersed and difficult to track. What is the most appropriate course of action to improve collaboration and document integrity?",
+        "options": [
+          "Restrict editing by locking the document and preventing further comments until a single version is agreed.",
+          "Continue the collaboration as it is and consolidate all edits and comments manually at a later stage.",
+          "Establish a structured collaboration approach, including a single master document, defined editing responsibilities, and clear guidelines for comments and version control.",
+          "Instruct contributors to work independently on separate offline versions and submit them for centralised integration."
+        ],
+        "answer": 2,
+        "explanation": "The problem is not the tool but the absence of process. Option C introduces the missing element: structured coordination with defined responsibilities and version control. Option A eliminates collaboration rather than improving it — a classic bureaucratic overcorrection. Option B is wishful thinking: manual consolidation after the fact multiplies errors. Option D reintroduces exactly the version chaos the cloud document was meant to prevent, now in the form of email attachments."
+      },
+      "el": {
+        "passage": "",
+        "question": "12. Συν-συντάσσετε ένα έγγραφο πολιτικής σε θεσμικό όργανο της ΕΕ χρησιμοποιώντας κοινόχρηστο έγγραφο στο cloud. Πολλοί συνεισφέροντες επεξεργάζονται ταυτόχρονα: τμήματα αντικαθίστανται και τα σχόλια είναι διάσπαρτα και δύσκολο να παρακολουθηθούν. Ποια είναι η πλέον κατάλληλη ενέργεια για τη βελτίωση της συνεργασίας και της ακεραιότητας του εγγράφου;",
+        "options": [
+          "Περιορισμός επεξεργασίας με κλείδωμα του εγγράφου και αποτροπή περαιτέρω σχολίων έως ότου συμφωνηθεί μία ενιαία έκδοση.",
+          "Συνέχιση της συνεργασίας ως έχει και χειροκίνητη ενοποίηση όλων των αλλαγών και σχολίων σε μεταγενέστερο στάδιο.",
+          "Καθιέρωση δομημένης προσέγγισης συνεργασίας, συμπεριλαμβανομένου ενός κύριου εγγράφου, καθορισμένων αρμοδιοτήτων επεξεργασίας και σαφών κατευθυντήριων γραμμών για σχόλια και έλεγχο εκδόσεων.",
+          "Οδηγία στους συνεισφέροντες να εργάζονται ανεξάρτητα σε ξεχωριστές εκδόσεις εκτός σύνδεσης και να τις υποβάλλουν για κεντρική ενοποίηση."
+        ],
+        "answer": 2,
+        "explanation": "Το πρόβλημα δεν είναι το εργαλείο αλλά η απουσία διαδικασίας. Η επιλογή Γ εισάγει το λείπον στοιχείο: δομημένος συντονισμός με καθορισμένες αρμοδιότητες και έλεγχο εκδόσεων. Η επιλογή Α εξαλείφει τη συνεργασία αντί να τη βελτιώσει. Η επιλογή Β είναι αισιοδοξία χωρίς βάση. Η επιλογή Δ επαναφέρει ακριβώς το χάος εκδόσεων που το έγγραφο cloud υποτίθεται ότι απέτρεπε."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. What does the abbreviation CSV stand for in the context of data files?",
+        "options": [
+          "Compressed Storage Vector",
+          "Common Structured Variables",
+          "Column Standard Version",
+          "Comma-Separated Values"
+        ],
+        "answer": 3,
+        "explanation": "CSV stands for Comma-Separated Values — a plain-text format in which each value is separated by a comma, making it one of the most portable and widely supported data exchange formats. Options A, B, and C use plausible technical-sounding terminology but describe formats or concepts that do not exist. They are designed to appeal to those who equate technical jargon with accuracy."
+      },
+      "el": {
+        "passage": "",
+        "question": "13. Τι σημαίνει η συντομογραφία CSV στο πλαίσιο των αρχείων δεδομένων;",
+        "options": [
+          "Compressed Storage Vector (Συμπιεσμένο Διάνυσμα Αποθήκευσης)",
+          "Common Structured Variables (Κοινές Δομημένες Μεταβλητές)",
+          "Column Standard Version (Τυπική Έκδοση Στήλης)",
+          "Comma-Separated Values (Τιμές Διαχωρισμένες με Κόμμα)"
+        ],
+        "answer": 3,
+        "explanation": "Το CSV σημαίνει Comma-Separated Values (Τιμές Διαχωρισμένες με Κόμμα) — μορφή απλού κειμένου στην οποία κάθε τιμή διαχωρίζεται με κόμμα, καθιστώντας το μία από τις πιο φορητές και ευρέως υποστηριζόμενες μορφές ανταλλαγής δεδομένων. Οι επιλογές Α, Β και Γ χρησιμοποιούν τεχνική ορολογία που ακούγεται πιθανή αλλά περιγράφει μορφές ή έννοιες που δεν υπάρχουν."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. An environmental policy analyst at an EU institution observes that online searches on a major search engine repeatedly return results closely aligned with her previous areas of interest. When colleagues search for the same topic, they receive noticeably different results. She asks a digital-skills trainer why this happens. Which of the following provides the most accurate explanation?",
+        "options": [
+          "Search engines apply a 'filter bubble' effect by adapting results to individual users. They use algorithms that consider factors such as previous searches, browsing behaviour, location, language settings, and device type. As a result, two users entering the same query may receive different results, even though the process is largely invisible to them.",
+          "Search engines intentionally reduce the visibility of topics that a user searches for repeatedly, in order to encourage exposure to new content. This automatic suppression can usually be prevented by clearing the browser cache or using a private browsing window.",
+          "Differences in search results arise mainly because search engines rank pages according to each user's internet connection speed and device performance, showing simpler or more complex results accordingly.",
+          "Search engines produce different results primarily because national regulations require different information to be shown in different locations; therefore, personalisation based on the user's behaviour plays little or no role."
+        ],
+        "answer": 0,
+        "explanation": "Search engines, social media platforms, and content recommendation systems use AI algorithms to generate results personalised to individual users. Factors such as past online behaviour, geographical location, and device type influence these results in ways that are not normally visible — often described as 'black box' decision-making. This explains why two colleagues searching the same term may receive noticeably different results. Option B describes a fictitious suppression mechanism. Option C misidentifies connection speed as the primary driver. Option D correctly notes that regulation can affect results in different jurisdictions, but misidentifies it as the primary cause of personalisation differences between colleagues in the same location."
+      },
+      "el": {
+        "passage": "",
+        "question": "14. Αναλύτρια περιβαλλοντικής πολιτικής σε θεσμικό όργανο της ΕΕ παρατηρεί ότι οι διαδικτυακές αναζητήσεις σε μεγάλη μηχανή αναζήτησης επιστρέφουν επανειλημμένα αποτελέσματα που ευθυγραμμίζονται με τα προηγούμενα ενδιαφέροντά της. Όταν συνάδελφοι αναζητούν το ίδιο θέμα, λαμβάνουν αισθητά διαφορετικά αποτελέσματα. Ποια από τις παρακάτω παρέχει την πλέον ακριβή εξήγηση;",
+        "options": [
+          "Οι μηχανές αναζήτησης εφαρμόζουν αποτέλεσμα 'φίλτρου φυσαλίδας' προσαρμόζοντας τα αποτελέσματα στους μεμονωμένους χρήστες. Χρησιμοποιούν αλγόριθμους που λαμβάνουν υπόψη παράγοντες όπως οι προηγούμενες αναζητήσεις, η συμπεριφορά περιήγησης, η τοποθεσία, οι ρυθμίσεις γλώσσας και ο τύπος συσκευής.",
+          "Οι μηχανές αναζήτησης μειώνουν σκόπιμα την ορατότητα θεμάτων που αναζητά επανειλημμένα ένας χρήστης, για να ενθαρρύνουν την έκθεση σε νέο περιεχόμενο. Αυτή η αυτόματη καταστολή μπορεί συνήθως να αποτραπεί με εκκαθάριση της μνήμης cache.",
+          "Οι διαφορές στα αποτελέσματα αναζήτησης προκύπτουν κυρίως επειδή οι μηχανές αναζήτησης κατατάσσουν σελίδες βάσει της ταχύτητας σύνδεσης διαδικτύου και της απόδοσης της συσκευής κάθε χρήστη.",
+          "Οι μηχανές αναζήτησης παράγουν διαφορετικά αποτελέσματα κυρίως επειδή εθνικές κανονισμοί απαιτούν εμφάνιση διαφορετικών πληροφοριών σε διαφορετικές τοποθεσίες· επομένως, η εξατομίκευση βάσει συμπεριφοράς χρήστη διαδραματίζει ελάχιστο ή μηδενικό ρόλο."
+        ],
+        "answer": 0,
+        "explanation": "Οι μηχανές αναζήτησης, οι πλατφόρμες κοινωνικής δικτύωσης και τα συστήματα σύστασης περιεχομένου χρησιμοποιούν αλγόριθμους ΤΝ για τη δημιουργία εξατομικευμένων αποτελεσμάτων. Παράγοντες όπως η προηγούμενη διαδικτυακή συμπεριφορά, η γεωγραφική τοποθεσία και ο τύπος συσκευής επηρεάζουν αυτά τα αποτελέσματα με τρόπους που συνήθως δεν είναι ορατοί — συχνά αποκαλούμενο 'μαύρο κουτί' λήψης αποφάσεων. Η επιλογή Β περιγράφει έναν ανύπαρκτο μηχανισμό καταστολής. Η επιλογή Γ εσφαλμένα αναγνωρίζει την ταχύτητα σύνδεσης ως κύριο παράγοντα. Η επιλογή Δ παρεκκλίνει εσφαλμένα προς τους εθνικούς κανονισμούς."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. In the context of research data management, what do the FAIR data principles stand for?",
+        "options": [
+          "Fast, Accessible, Immediate, Reliable",
+          "Findable, Accessible, Interoperable, Reusable",
+          "Flexible, Automated, Integrated, Robust",
+          "Federated, Authorized, Indexed, Retrieved"
+        ],
+        "answer": 1,
+        "explanation": "The FAIR principles aim to ensure that data can be: Findable (easy to locate through metadata and identifiers), Accessible (available under clear and open conditions), Interoperable (usable across different systems and platforms), and Reusable (well-described and appropriately licensed for future use). The other options are examples of acronym inflation — technically plausible-sounding but conceptually empty. Source: European Commission — FAIR Data."
+      },
+      "el": {
+        "passage": "",
+        "question": "15. Στο πλαίσιο της διαχείρισης ερευνητικών δεδομένων, τι σημαίνουν οι αρχές FAIR για τα δεδομένα;",
+        "options": [
+          "Fast, Accessible, Immediate, Reliable (Γρήγορα, Προσβάσιμα, Άμεσα, Αξιόπιστα)",
+          "Findable, Accessible, Interoperable, Reusable (Εντοπίσιμα, Προσβάσιμα, Διαλειτουργικά, Επαναχρησιμοποιήσιμα)",
+          "Flexible, Automated, Integrated, Robust (Ευέλικτα, Αυτοματοποιημένα, Ενοποιημένα, Εύρωστα)",
+          "Federated, Authorized, Indexed, Retrieved (Ομοσπονδιακά, Εξουσιοδοτημένα, Ευρετηριασμένα, Ανακτημένα)"
+        ],
+        "answer": 1,
+        "explanation": "Οι αρχές FAIR αποσκοπούν στο να διασφαλίσουν ότι τα δεδομένα είναι: Εντοπίσιμα (εύκολα να εντοπιστούν μέσω μεταδεδομένων και αναγνωριστικών), Προσβάσιμα (διαθέσιμα υπό σαφείς και ανοικτές συνθήκες), Διαλειτουργικά (χρησιμοποιήσιμα σε διαφορετικά συστήματα και πλατφόρμες) και Επαναχρησιμοποιήσιμα (καλά περιγραμμένα και κατάλληλα αδειοδοτημένα για μελλοντική χρήση). Πηγή: Ευρωπαϊκή Επιτροπή — FAIR Data."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. A colleague claims that she is a 'full-stack developer' while discussing improvements to an internal web application used by staff. Which of the following best reflects a correct understanding of this role?",
+        "options": [
+          "She works exclusively on the visual layout and design of the user interface.",
+          "She manages only the server infrastructure and database performance.",
+          "She is capable of working on both the user interface (front-end) and the server-side logic (back-end).",
+          "She is responsible only for installing and updating software on users' devices."
+        ],
+        "answer": 2,
+        "explanation": "'Full-stack' means competence across both front-end (what users see and interact with) and back-end (the server-side logic, databases, and APIs that make things work). It does not mean doing everything in the organisation. Options A and B describe partial, specialised roles. Option D describes an IT support or system administrator function, which is entirely separate from software development."
+      },
+      "el": {
+        "passage": "",
+        "question": "16. Συνάδελφος ισχυρίζεται ότι είναι 'full-stack developer' κατά τη συζήτηση βελτιώσεων σε εσωτερική διαδικτυακή εφαρμογή που χρησιμοποιείται από το προσωπικό. Ποιο από τα παρακάτω αντικατοπτρίζει καλύτερα την ορθή κατανόηση αυτού του ρόλου;",
+        "options": [
+          "Εργάζεται αποκλειστικά στην οπτική διάταξη και σχεδίαση της διεπαφής χρήστη.",
+          "Διαχειρίζεται μόνο την υποδομή διακομιστή και την απόδοση βάσης δεδομένων.",
+          "Είναι ικανή να εργαστεί τόσο στη διεπαφή χρήστη (front-end) όσο και στη λογική πλευράς διακομιστή (back-end).",
+          "Είναι υπεύθυνη μόνο για την εγκατάσταση και ενημέρωση λογισμικού στις συσκευές των χρηστών."
+        ],
+        "answer": 2,
+        "explanation": "Το 'full-stack' σημαίνει επάρκεια τόσο στο front-end (αυτό που βλέπουν και αλληλεπιδρούν οι χρήστες) όσο και στο back-end (η λογική πλευράς διακομιστή, οι βάσεις δεδομένων και τα API). Δεν σημαίνει ότι κάνει τα πάντα στον οργανισμό. Οι επιλογές Α και Β περιγράφουν μερικούς, εξειδικευμένους ρόλους. Η επιλογή Δ περιγράφει λειτουργία υποστήριξης πληροφορικής, εντελώς διαφορετική από την ανάπτυξη λογισμικού."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. A policy analyst at an EU institution observes that when searching for news on politically sensitive topics, the results she receives consistently reflect a narrow range of viewpoints aligned with her previous reading patterns and opinions, with little or no exposure to alternative perspectives. A colleague suggests that this reflects a known effect of algorithm-driven content curation. Which of the following best describes this phenomenon?",
+        "options": [
+          "Algorithmic neutrality, whereby digital platforms present users with the most relevant and factually accurate content, filtering out less reliable or contradictory information to improve clarity and user experience.",
+          "An echo chamber or filter bubble, in which algorithmic systems reinforce existing preferences by prioritising similar content, thereby limiting exposure to diverse or opposing viewpoints.",
+          "Digital convergence, where different online sources progressively align in their coverage of major issues, resulting in increasingly uniform information across platforms.",
+          "Content optimisation bias, whereby platforms intentionally prioritise politically balanced information to ensure that users are exposed to all sides of a debate in equal measure."
+        ],
+        "answer": 1,
+        "explanation": "Echo chambers and filter bubbles occur when AI algorithms personalise content to match a user's existing preferences and past behaviour, reinforcing the same viewpoint without presenting opposing arguments. Option A is a tempting trap: it sounds positive and designed, but misrepresents how personalisation algorithms actually behave — they optimise for engagement, not accuracy. Option C introduces a vaguely academic-sounding concept that does not accurately describe the mechanism. Option D inverts reality — platforms do not systematically ensure political balance."
+      },
+      "el": {
+        "passage": "",
+        "question": "17. Αναλύτρια πολιτικής σε θεσμικό όργανο της ΕΕ παρατηρεί ότι κατά την αναζήτηση ειδήσεων για πολιτικά ευαίσθητα θέματα, τα αποτελέσματα που λαμβάνει αντικατοπτρίζουν σταθερά ένα στενό φάσμα απόψεων που ευθυγραμμίζονται με τα προηγούμενα πρότυπα ανάγνωσης και τις απόψεις της. Ποιο από τα παρακάτω περιγράφει καλύτερα αυτό το φαινόμενο;",
+        "options": [
+          "Αλγοριθμική ουδετερότητα, κατά την οποία οι ψηφιακές πλατφόρμες παρουσιάζουν στους χρήστες το πλέον σχετικό και πραγματολογικά ακριβές περιεχόμενο, φιλτράροντας λιγότερο αξιόπιστες ή αντιφατικές πληροφορίες.",
+          "Θάλαμος ηχούς ή φυσαλίδα φίλτρου, κατά την οποία τα αλγοριθμικά συστήματα ενισχύουν τις υπάρχουσες προτιμήσεις δίνοντας προτεραιότητα σε παρόμοιο περιεχόμενο, περιορίζοντας έτσι την έκθεση σε διαφορετικές ή αντίθετες απόψεις.",
+          "Ψηφιακή σύγκλιση, κατά την οποία διαφορετικές διαδικτυακές πηγές ευθυγραμμίζονται προοδευτικά στην κάλυψη σημαντικών ζητημάτων, με αποτέλεσμα ολοένα πιο ομοιόμορφες πληροφορίες σε όλες τις πλατφόρμες.",
+          "Προκατάληψη βελτιστοποίησης περιεχομένου, κατά την οποία οι πλατφόρμες δίνουν σκόπιμα προτεραιότητα σε πολιτικά ισορροπημένες πληροφορίες για να διασφαλίσουν ότι οι χρήστες εκτίθενται εξίσου σε όλες τις πλευρές μιας συζήτησης."
+        ],
+        "answer": 1,
+        "explanation": "Οι θάλαμοι ηχούς και οι φυσαλίδες φίλτρου εμφανίζονται όταν οι αλγόριθμοι ΤΝ εξατομικεύουν περιεχόμενο ώστε να ταιριάζει με τις υπάρχουσες προτιμήσεις και την προηγούμενη συμπεριφορά ενός χρήστη, ενισχύοντας την ίδια άποψη χωρίς να παρουσιάζουν αντίθετα επιχειρήματα. Η επιλογή Α είναι παγίδα: ακούγεται θετική αλλά παρερμηνεύει τη λειτουργία των αλγορίθμων εξατομίκευσης — βελτιστοποιούν για δέσμευση, όχι ακρίβεια. Η επιλογή Δ αντιστρέφει την πραγματικότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. In the context of EU transparency and data governance, which of the following statements best reflects the principles of open data?",
+        "options": [
+          "Institutional data should, as a rule, remain confidential in order to prevent misuse and misinterpretation.",
+          "Open data policies tend to increase administrative costs without generating meaningful public or institutional value.",
+          "Making non-sensitive data publicly available supports transparency, enables reuse, and fosters innovation, while remaining subject to privacy and data protection requirements.",
+          "The publication of open data removes the need for access controls and security safeguards, as the data is intended for public use."
+        ],
+        "answer": 2,
+        "explanation": "Open data aims to enhance transparency, accountability, and innovation by making non-sensitive institutional data publicly available — while remaining fully subject to privacy and data protection obligations such as the GDPR. Option A reflects an outdated, overly restrictive mindset inconsistent with EU transparency objectives. Option B ignores well-documented economic and civic benefits of open data. Option D dangerously conflates public access with the absence of governance — open data does not mean unprotected data. Source: Open Data Directive (Directive 2019/1024/EU)."
+      },
+      "el": {
+        "passage": "",
+        "question": "18. Στο πλαίσιο της διαφάνειας και της διακυβέρνησης δεδομένων της ΕΕ, ποια από τις παρακάτω προτάσεις αντικατοπτρίζει καλύτερα τις αρχές των ανοικτών δεδομένων;",
+        "options": [
+          "Τα θεσμικά δεδομένα πρέπει, κατά κανόνα, να παραμένουν εμπιστευτικά προκειμένου να αποτρέπεται η κακή χρήση και η παρερμηνεία.",
+          "Οι πολιτικές ανοικτών δεδομένων τείνουν να αυξάνουν το διοικητικό κόστος χωρίς να δημιουργούν σημαντική δημόσια ή θεσμική αξία.",
+          "Η δημόσια διάθεση μη ευαίσθητων δεδομένων υποστηρίζει τη διαφάνεια, επιτρέπει την επαναχρησιμοποίηση και ενθαρρύνει την καινοτομία, παραμένοντας υπό τις απαιτήσεις προστασίας ιδιωτικότητας και δεδομένων.",
+          "Η δημοσίευση ανοικτών δεδομένων καταργεί την ανάγκη ελέγχων πρόσβασης και διασφαλίσεων ασφαλείας, καθώς τα δεδομένα προορίζονται για δημόσια χρήση."
+        ],
+        "answer": 2,
+        "explanation": "Τα ανοικτά δεδομένα αποσκοπούν στην ενίσχυση της διαφάνειας, της λογοδοσίας και της καινοτομίας μέσω της δημόσιας διάθεσης μη ευαίσθητων θεσμικών δεδομένων — παραμένοντας πλήρως υπό τις υποχρεώσεις προστασίας ιδιωτικότητας και δεδομένων όπως ο ΓΚΠΔ. Η επιλογή Α αντικατοπτρίζει απαρχαιωμένη, υπερβολικά περιοριστική νοοτροπία. Η επιλογή Β αγνοεί τα τεκμηριωμένα οφέλη των ανοικτών δεδομένων. Η επιλογή Δ συγχέει επικίνδυνα τη δημόσια πρόσβαση με απουσία διακυβέρνησης. Πηγή: Οδηγία Ανοικτών Δεδομένων (2019/1024/ΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. Which of the following is NOT a standard metric used to assess data quality?",
+        "options": [
+          "Completeness (e.g. proportion of non-missing values)",
+          "Accuracy (e.g. correctness against reliable or authoritative sources)",
+          "Organisational hierarchy (e.g. reporting structure within an institution)",
+          "Consistency (e.g. uniform formats and values across datasets or systems)"
+        ],
+        "answer": 2,
+        "explanation": "Completeness, Accuracy, and Consistency are core data quality dimensions widely recognised in data management frameworks. Organisational hierarchy describes how an institution is structured internally — it is a management concept, not a property of data. It says nothing about whether the data itself is complete, correct, or uniform."
+      },
+      "el": {
+        "passage": "",
+        "question": "19. Ποιο από τα παρακάτω ΔΕΝ είναι τυπική μέτρηση που χρησιμοποιείται για την αξιολόγηση της ποιότητας δεδομένων;",
+        "options": [
+          "Πληρότητα (π.χ. αναλογία μη ελλειπουσών τιμών)",
+          "Ακρίβεια (π.χ. ορθότητα σε σχέση με αξιόπιστες ή αυθεντικές πηγές)",
+          "Οργανωτική ιεραρχία (π.χ. δομή αναφοράς εντός θεσμικού οργάνου)",
+          "Συνέπεια (π.χ. ομοιόμορφες μορφές και τιμές σε σύνολα δεδομένων ή συστήματα)"
+        ],
+        "answer": 2,
+        "explanation": "Η Πληρότητα, η Ακρίβεια και η Συνέπεια είναι βασικές διαστάσεις ποιότητας δεδομένων που αναγνωρίζονται ευρέως σε πλαίσια διαχείρισης δεδομένων. Η Οργανωτική Ιεραρχία περιγράφει τον τρόπο εσωτερικής δομής ενός οργανισμού — είναι διαχειριστική έννοια, όχι ιδιότητα των δεδομένων. Δεν λέει τίποτα για το εάν τα ίδια τα δεδομένα είναι πλήρη, ορθά ή ομοιόμορφα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. Under the EU's Digital Decade 2030 targets, what is the objective regarding the level of basic digital skills among the population?",
+        "options": [
+          "At least 80% of adults should possess basic digital skills.",
+          "All citizens should reach an advanced level of programming proficiency.",
+          "Every citizen should have access to multiple personal digital devices.",
+          "Digital skills training should be compulsory only during primary and secondary education."
+        ],
+        "answer": 0,
+        "explanation": "The EU's Digital Decade Policy Programme sets a target of at least 80% of adults possessing at least basic digital skills by 2030 — an ambitious but measurable benchmark for digital inclusion. Option B confuses digital literacy with specialised technical expertise. Option C mistakes device access for actual competence. Option D limits a lifelong learning imperative to compulsory schooling, ignoring adult upskilling. Source: Digital Decade 2030 Policy Programme."
+      },
+      "el": {
+        "passage": "",
+        "question": "20. Σύμφωνα με τους στόχους της Ψηφιακής Δεκαετίας 2030 της ΕΕ, ποιος είναι ο στόχος όσον αφορά το επίπεδο βασικών ψηφιακών δεξιοτήτων στον πληθυσμό;",
+        "options": [
+          "Τουλάχιστον το 80% των ενηλίκων πρέπει να διαθέτει βασικές ψηφιακές δεξιότητες.",
+          "Όλοι οι πολίτες πρέπει να επιτύχουν προχωρημένο επίπεδο προγραμματιστικής επάρκειας.",
+          "Κάθε πολίτης πρέπει να έχει πρόσβαση σε πολλαπλές προσωπικές ψηφιακές συσκευές.",
+          "Η εκπαίδευση ψηφιακών δεξιοτήτων πρέπει να είναι υποχρεωτική μόνο κατά την πρωτοβάθμια και δευτεροβάθμια εκπαίδευση."
+        ],
+        "answer": 0,
+        "explanation": "Το Πρόγραμμα Πολιτικής Ψηφιακής Δεκαετίας 2030 της ΕΕ θέτει στόχο τουλάχιστον το 80% των ενηλίκων να διαθέτει τουλάχιστον βασικές ψηφιακές δεξιότητες έως το 2030. Η επιλογή Β συγχέει τον ψηφιακό γραμματισμό με εξειδικευμένη τεχνική εξειδίκευση. Η επιλογή Γ συγχέει την πρόσβαση σε συσκευές με πραγματική επάρκεια. Η επιλογή Δ περιορίζει μια επιταγή δια βίου μάθησης στη σχολική εκπαίδευση. Πηγή: Πρόγραμμα Πολιτικής Ψηφιακής Δεκαετίας 2030."
+      }
+    }
+  ],
+  "ds_4": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ]
 }
