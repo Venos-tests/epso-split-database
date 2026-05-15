@@ -1,6 +1,1209 @@
 {
-  "abstract_1": [],
-  "abstract_2": [],
-  "abstract_3": [],
-  "abstract_4": []
+  "abstract_1": [
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776861337/Portal_AR1_1r_ugzuzt.jpg",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776861335/Portal_AR1_1a_kwucts.jpg",
+        "question": "1. Which figure logically completes the series? (used as an example)",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 5,
+        "explanation": "Two clear patterns recorded: 1. Each row of circles shifts one position clockwise every step. 2. The number of shaded circles increases by 2 each time. The correct answer (E) must satisfy both spatial rotation and numerical progression."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776861337/Portal_AR1_1r_ugzuzt.jpg",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776861335/Portal_AR1_1a_kwucts.jpg",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 5,
+        "explanation": "Δύο κανόνες ισχύουν: 1. Οι σειρές των κύκλων μετακινούνται κατά μία θέση δεξιόστροφα κάθε φορά. 2. Ο αριθμός των σκιασμένων κύκλων αυξάνεται κατά 2 σε κάθε βήμα."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860559/Portal_AR1_10r_hi1d4p.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860555/Portal_AR1_10a_udc2jb.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "1. Unshaded circle moves around hexagon in a clockwise direction with each turn. 2. Shaded circle moves from bottom left hexagon corner, to middle of hexagon, to bottom right hexagon corner with each turn. 3. Triangle moves around frame in a clockwise direction with each alternate turn."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860559/Portal_AR1_10r_hi1d4p.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860555/Portal_AR1_10a_udc2jb.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Τρεις κανόνες: 1. Ο μη σκιασμένος κύκλος κινείται δεξιόστροφα.  2. Ο σκιασμένος κύκλος κινείται από κάτω αριστερά στο κέντρο και μετά κάτω δεξιά. 3. Το τρίγωνο κινείται δεξιόστροφα σε κάθε δεύτερο βήμα."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860573/Portal_AR1_3r_qjlysr.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860570/Portal_AR1_3a_zjegft.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "There are three rules: 1.the triangle with a dot alternates between a diagonal mirror (top-left → bottom-right) and the opposite diagonal (top-right → bottom-left). 2. The rectangle alternates between vertical mirroring and horizontal mirroring, and 3.the rectangle gradually becomes wider each time, expanding away from the nearest edge."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860573/Portal_AR1_3r_qjlysr.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860570/Portal_AR1_3a_zjegft.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "Υπάρχουν τρεις κανόνες: 1. Το τρίγωνο εναλλάσσεται με την τελεία μεταξύ δύο διαγώνιων κατοπτρισμών. 2. Το ορθογώνιο εναλλάσσεται μεταξύ κάθετου και οριζόντιου κατοπτρισμού. 3. Το ορθογώνιο μεγαλώνει σταδιακά σε πλάτος, κινούμενο προς την αντίθετη κατεύθυνση από το πλησιέστερο άκρο."
+      }
+    },
+    {
+    "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844955/Portal_AR1_4a_e4venh.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Thus, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844955/Portal_AR1_4a_e4venh.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο->2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο σε 3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου."
+      }
+	 },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860580/Portal_AR1_5r_pxghrj.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860577/Portal_AR1_5a_tzx0cj.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Three rules apply: 1. A shading pattern: The shading farthest from the flagpole becomes the closest in the next step. All other shading shifts one position to the right. 2. The flag’s wave alternates: first wave goes down, then up, then down again, etc. 3. The flag’s height follows a cycle: half-mast → fully raised → half-mast → fully lowered → repeat."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860580/Portal_AR1_5r_pxghrj.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860577/Portal_AR1_5a_tzx0cj.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Τρεις κανόνες ισχύουν: 1. Η σκίαση το πιο μακρινό τμήμα γίνεται το πιο κοντινό στο επόμενο βήμα, ενώ όλα τα υπόλοιπα τμήματα μετακινούνται μία θέση δεξιά. 2.  Ο κυματισμός της σημαίας: κάτω - πάνω -κάτω - 3. Το ύψος της σημαίας παίρνει 3 θέσεις: μεσίστιο → τελείως ψηλά → μεσίστιο → τελείως κάτω → …επανάληψη."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860585/Portal_AR1_6r_ya9ypt.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860582/Portal_AR1_6a_voexi5.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Two simple movements: 1. The shape in the top-left moves to the center and becomes larger. 2. The shape in the bottom-right moves to the top-left of the next frame."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860585/Portal_AR1_6r_ya9ypt.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860582/Portal_AR1_6a_voexi5.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Καταγράφονται δύο κινήσεις: 1. Το σχήμα πάνω αριστερά μετακινείται στο κέντρο και παράλληλα το μέγεθος του μεγαλώνει. 2. Το σχήμα κάτω δεξιά μετακινείται πάνω αριστερά στο επόμενο πλαίσιο. "
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_7r_ljogjo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860541/Portal_AR1_7a_ac11q9.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Two rules apply: 1.The inner square colour follows the pattern:  black, black, grey, grey, white, white, 2. The outer area colour pattern follows the pattern: white, grey, black, white, grey, black, ...  Only option D satisfies both."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_7r_ljogjo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860541/Portal_AR1_7a_ac11q9.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το εσωτερικό του τετράγωνου παίρνει στη σειρά τις αποχρώσεις: μαύρο, μαύρο, γκρι, γκρι, λευκό, λευκό... → επόμενο: λευκό.  2. Η εξωτερική περιοχή: λευκό, γκρι, μαύρο, λευκό, γκρι, μαύρο→ επόμενο: μαύρο."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860547/Portal_AR1_8r_b7qoei.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_8a_xwzakv.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Two rules apply: 1.The shape flips horizontally each time (like reversing direction) and then the square corner points left. 2. Colour cycle: black → white → grey→ black"
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860547/Portal_AR1_8r_b7qoei.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_8a_xwzakv.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Δύο κανόνες εφαρμόζονται: 1. Το σχήμα περιστρέφεται οριζόντια γύρω από το κάθετο άξονα συμμετρίας του, άρα η γωνία θα δείχνει αριστερά. 2. Η διαδοχή χρωμάτων ανακυκλώνεται από μαύρο → λευκό → γκρι → μαύρο. "
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860552/Portal_AR1_9r_waijde.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860549/Portal_AR1_9a_rxb4x6.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Three patterns: 1.Rectangle shading: shaded for 1 step, unshaded for 2 steps  2. Circle movement clockwise around the corners. 3. Arrow position: left side (2 steps) then right side (2 steps) "
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860552/Portal_AR1_9r_waijde.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860549/Portal_AR1_9a_rxb4x6.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Τρία μοτίβα εφαρμόζονται: 1. Η σκίαση του ορθογωνίου σχήματος εναλλάσσεται ως εξής: 1 βήμα σκιασμένο ακολουθούμενα από 2 βήματα χωρίς σκίαση 2. Ο κύκλος κινείται δεξιόστροφα στις γωνίες. 3. Το βέλος κινείται 2 βήματα αριστερά και κατόπιν 2 βήματα δεξιά. ."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860568/Portal_AR1_2a_tzrpx6.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Circle moves from bottom left of the frame, to the middle of the frame, then to the bottom right of the frame with each turn. Square mirrors the circle in the following frame with each turn."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860568/Portal_AR1_2a_tzrpx6.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Ο κύκλος κινείται ως εξής: κάτω αριστερά → κέντρο → κάτω δεξιά (επαναλαμβανόμενο μοτίβο). Παράλληλα, το τετράγωνο αντιγράφει (καθρεφτίζει) τη θέση του κύκλου από το προηγούμενο βήμα"
+      }
+    }
+  ],
+   "abstract_2": [
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273813/AR2_1r_rujpby.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273829/AR_a_1_nw9nzp.png",
+        "question": "1. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "(1) Central T-shape rotates 90° clockwise each frame (period 4).; (2) Central fill cycles Black to grey to white (period 3); corner triangles always show the opposite fill.; (3) Corner count bounces: increases by 1 each frame until 4, then decreases by 1 until 0 — not a simple cycle. Frame 6: central T-shape at 90°, fill=white, 2 corner triangles (black). The correct answer is D."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273813/AR2_1r_rujpby.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273829/AR_a_1_nw9nzp.png",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "(1) Το κεντρικό σχήμα «T» περιστρέφεται κατά 90° δεξιόστροφα σε κάθε πλαίσιο (κύκλος 4 σταδίων). (2) Το εσωτερικό γέμισμα του κεντρικού σχήματος ακολουθεί τη σειρά μαύρο  σε γκρι σε λευκό (κύκλος 3 σταδίων). Τα τρίγωνα στις γωνίες έχουν πάντα το αντίθετο γέμισμα από το κεντρικό. (3) Ο αριθμός των τριγώνων στις γωνίες ακολουθεί μια παλινδρομική κίνηση: αυξάνεται κατά 1 σε κάθε πλαίσιο μέχρι να φτάσει τα 4, και στη συνέχεια μειώνεται κατά 1 μέχρι το 0."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273814/AR2_2r_sr4k8l.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273830/AR_a_2_plmdlj.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 5,
+        "explanation": "The three shapes in each frame align to form a line that shifts 45° counter-clockwise. In each subsequent frame, the preceding middle shape is replaced by a new icon at the edge. Therefore, the correct solution consists of three shapes in a horizontal row, where the 'knob' has been replaced by a new icon in the leftmost position."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273814/AR2_2r_sr4k8l.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273830/AR_a_2_plmdlj.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 5,
+        "explanation": "Τα 3 σχήματα σε κάθε πλαίσιο δημιουργούν μία νοητή ευθεία η οποία μετακινείται κατά 45ο αριστερόστροφα. Σε κάθε επόμενο πλαίσιο, το μεσαίο σχήμα του προηγούμενου πλαισίου αντικαθίσταται από ένα νέο εικονίδιο στην ακραία θέση. Βάσει αυτών των παρατηρήσεων η ορθή απάντηση θα έχει τα 3 σχήματα σε οριζόντια παράθεση και το ‘πόμολο’ θα έχει αντικατασταθεί από νέο εικονίδιο στην αριστερή θέση."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273816/AR2_3r_e1xs8f.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273832/AR_a_3_mjmsjv.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "(1) Each cell's 4 triangle fills rotate 1 position CLOCKWISE per frame (period 4): N→W, W→S, S→E, E→N.; (2) The 4 cells start at different rotation phases: TL=0, TR=1, BL=2, BR=3 — so each cell is offset by 1 step from its neighbour. Frame 6: each cell has rotated 1 extra step(s) from its starting phase (TL at phase 1, TR at phase 2, BL at phase 3, BR at phase 0). The correct answer is B."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273816/AR2_3r_e1xs8f.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273832/AR_a_3_mjmsjv.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Κάθε κελί αποτελείται από 4 τρίγωνα. Τα γεμίσματά τους περιστρέφονται δεξιόστροφα κατά μία θέση σε κάθε βήμα, και συγκεκριμένα από Βόρεια προς Δυτικά, κατόπιν Νότια, κατόπιν Ανατολικά και ξανά Βόρεια. Οι Αρχικές Φάσεις (Offset): Τα τέσσερα κελιά δεν ξεκινούν από την ίδια κατάσταση: Πάνω Αριστερά : Φάση 0 - Πάνω Δεξιά: Φάση 1 Κάτω Αριστερά: Φάση 2, Κάτω Δεξιά: Φάση 3, Άρα, στο πλαίσιο 6: Επειδή ο κύκλος είναι 4 σταδίων στο πλαίσιο 5 το κάθε σχήμα θα έχει κάνει έναν πλήρη κύκλο και θα έχει επιστρέψει στην αρχική του κατάσταση. Επομένως, το πλαίσιο 6 είναι ουσιαστικά η αρχική κατάσταση συν μία επιπλέον περιστροφή."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273818/AR2_4r_xzrnvz.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273833/AR_a_4_d5pmzi.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "A 5 lines/dots icon should follow. Count the number of sides or dots and you can see that every 2 icons the number of lines/dots increases by one. Color doesn`t matter."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273818/AR2_4r_xzrnvz.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273833/AR_a_4_d5pmzi.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Θα πρέπει να ακολουθεί ένα εικονίδιο με 5 γραμμές/κορυφές. Αν μετρήσετε τον αριθμό των πλευρών ή των κορυφών, θα παρατηρήσετε ότι ανά δύο φιγούρες ο αριθμός αυτός αυξάνεται κατά ένα. Το χρώμα των εικονιδίων δεν παίζει κάποιο ρόλο."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273819/AR2_5r_xjqm37.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273835/AR_a_5_je5i2b.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Pattern 1: The inner (red) line runs counterclockwise from one corner of the hexagon to, either the next middle of a side or to the next corner, in alternative fashion. Pattern 2: The entire figure constantly rotates 60 degrees counterclockwise."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273819/AR2_5r_xjqm37.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273835/AR_a_5_je5i2b.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Μοτίβο 1: Η εσωτερική κόκκινη γραμμή κινείται αριστερόστροφα, μεταβαίνοντας εναλλάξ από μια γωνία του εξάγωνου στο μέσο της επόμενης πλευράς και μετά στην επόμενη γωνία. Μοτίβο 2: Ολόκληρο το σχήμα περιστρέφεται συνεχώς κατά 60 μοίρες αριστερόστροφα."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273821/AR2_6r_itlsfa.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273836/AR_a_6_vtpqng.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Pattern Analysis: Arrow Movement: The arrow rotates/moves by 360°, 90°, 180°, and 270° in sequence. Therefore, we expect the next move to be 360°, meaning the arrow will appear in the same position as in the previous frame. The second icon in each frame changes based on the arrow's orientation: It is a square when the arrow is positioned horizontally. It is a circle when the arrow is positioned vertically."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273821/AR2_6r_itlsfa.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273836/AR_a_6_vtpqng.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Το βέλος μετακινείται κατά 360ο, 90ο, 180ο, 270ο, άρα περιμένουμε μετακίνηση κατά 360ο και συνεπώς εμφάνιση στην ίδια θέση. Το 2ο εικονίδιο σε κάθε πλαίσιο είναι τετράγωνο όταν το βέλος κινείται στην οριζόντια διάσταση και κύκλος όταν το βέλος κινείται στην κάθετη."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273823/AR2_7r_u3c3bw.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273838/AR_a_7_mecn8w.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "In this question from one diagram to the next the black squares move 2 places clockwise around  the grid and the grey squares move 2 places anticlockwise around the grid. At the same time the grid itself is rotated by 90° clockwise. Simultaneous application of the rules suggests A."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273823/AR2_7r_u3c3bw.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273838/AR_a_7_mecn8w.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "Σε αυτή την ερώτηση, από το ένα διάγραμμα στο επόμενο, τα μαύρα τετράγωνα μετακινούνται 2 θέσεις δεξιόστροφα γύρω από το πλέγμα και τα γκρι τετράγωνα μετακινούνται 2 θέσεις αριστερόστροφα γύρω από το πλέγμα. Ταυτόχρονα, το ίδιο το πλέγμα περιστρέφεται κατά 90° δεξιόστροφα. Όταν αυτοί οι δύο κανόνες εφαρμόζονται ταυτόχρονα, η σωστή απάντηση είναι η Α."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273823/AR2_8r_ckuall.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273839/AR_a_8_ryemml.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "The liquid level increases gradually within the container; therefore, in our selection, it should reach the next level following frame 5. The colour alternates between white and black, so we are expecting white. The 'brims' of the container follow this pattern: right-only, none, left-only, both right and left simultaneously, and then the cycle repeats. Consequently, there should be no brim in our selection. Option A is the only one that satisfies all three conditions."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273823/AR2_8r_ckuall.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273839/AR_a_8_ryemml.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 1,
+        "explanation": "Το υγρό αυξάνεται βαθμιαία μέσα στο δοχείο, άρα στην επιλογή μας θα φτάσει στο επόμενο επίπεδο, υψηλότερα από το πλαίσιο 5. Το χρώμα του εναλλάσσεται μεταξύ λευκού και μαύρου, άρα περιμένουμε λευκό. Οι άκρες (χείλη) του δοχείου ακολουθούν το εξής μοτίβο: μόνο δεξιά, κανένα, μόνο αριστερά, δεξιά και αριστερά ταυτόχρονα, και ξανά από την αρχή. Άρα, στην επιλογή μας δεν θα υπάρχει χείλος. Η επιλογή Α είναι η μόνη που ικανοποιεί και τις 3 αυτές συνθήκες."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273825/AR2_9r_q2rop5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273841/AR_a_9_jdcpfr.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "In this question there are two rules to follow. The first rule is that each time the number of inverted matches, starting from the left, increases by two. The second rule is that the number of separated matches, starting from the right, increases by one. Therefore, the next diagram in the sequence will have ten inverted matches , including five separated matches."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273825/AR2_9r_q2rop5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273841/AR_a_9_jdcpfr.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Σε αυτή την ερώτηση υπάρχουν δύο κανόνες που πρέπει να ακολουθήσετε. Ο πρώτος κανόνας είναι ότι κάθε φορά ο αριθμός των ανεστραμμένων σπίρτων, ξεκινώντας από τα αριστερά, αυξάνεται κατά δύο. Ο δεύτερος κανόνας είναι ότι ο αριθμός των ή διαχωρισμένων σπίρτων, ξεκινώντας από τα δεξιά, αυξάνεται κατά ένα. Επομένως, το επόμενο σχήμα της ακολουθίας θα περιλαμβάνει δέκα ανεστραμμένα σπίρτα, εκ των οποίων τα πέντε θα είναι απομονωμένα."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273828/AR2_10r_jecpq7.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273813/AR_a_10_z1eulc.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "In this question, there are a black and a grey triangle, each following its own rule. The black triangle rotates 90° anticlockwise in each step. Thus, in the next diagram it should appear in the top quadrant narrowing the possible answers to A, B, or D. The grey triangle also rotates, but 90° clockwise each time. In addition, its shading cycles from light grey to medium grey, to dark grey, and then back to light grey. Following this rule, in the next diagram the grey triangle should be positioned in the left quadrant and be dark grey. "
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273828/AR2_10r_jecpq7.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273813/AR_a_10_z1eulc.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Σε αυτή την ερώτηση υπάρχουν ένα μαύρο και ένα γκρι τρίγωνο, καθένα από τα οποία ακολουθεί τον δικό του κανόνα. Το μαύρο τρίγωνο περιστρέφεται κατά 90° αριστερόστροφα σε κάθε βήμα. Με βάση αυτό το μοτίβο, στο επόμενο σχήμα θα πρέπει να εμφανίζεται στο επάνω τεταρτημόριο, περιορίζοντας τις πιθανές απαντήσεις στις A, B ή D. Το γκρι τρίγωνο επίσης περιστρέφεται, αλλά κατά 90° δεξιόστροφα κάθε φορά. Επιπλέον, η σκίασή του εναλλάσσεται από ανοιχτό γκρι σε μεσαίο γκρι, σε σκούρο γκρι και στη συνέχεια επιστρέφει σε ανοιχτό γκρι. Ακολουθώντας αυτόν τον κανόνα, στο επόμενο σχήμα το γκρι τρίγωνο θα πρέπει να βρίσκεται στο αριστερό τεταρτημόριο και να είναι σκούρο γκρι."
+      }
+    }
+  ],
+ "abstract_3": [
+    {
+      "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659373/AR_3_ref1_acktg2.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659396/AR_3_opt1_kvfiyg.png",
+      "question": "1. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+        "answer": 5,
+        "explanation": "The outer black circular sector rotates 60° counterclockwise in each successive frame, so in the final option it will be pointing down-right. At the same time, the inner orange circular sector rotates 90° clockwise in each successive frame, so it will be pointing down-left. Only option E satisfies both conditions."
+      },
+      "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659373/AR_3_ref1_acktg2.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659396/AR_3_opt1_kvfiyg.png",
+      "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "Ο εξωτερικός μαύρος κυκλικός τομέας περιστρέφεται 60° αριστερόστροφα σε κάθε διαδοχικό πλαίσιο, επομένως στην τελική επιλογή θα δείχνει κάτω-δεξιά. Ταυτόχρονα, ο εσωτερικός πορτοκαλί κυκλικός τομέας περιστρέφεται 90° δεξιόστροφα σε κάθε διαδοχικό πλαίσιο, επομένως θα δείχνει κάτω-αριστερά. Μόνο η επιλογή Ε ικανοποιεί και τις δύο συνθήκες."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659375/AR_3_ref2_qfn39t.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659459/AR_3_opt2_wdjp2u.png",
+      "question": "2. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "The black box follows a repeating horizontal cycle: center → right → left → repeat. The arrow in the left column moves one position downward at each step; once it reaches the bottom, it resets to the top of the next column to the right and continues the same downward movement. Conversely, the arrow in the right column also moves one position downward, but when it reaches the bottom it resets to the top of the previous column (to its left) and continues the cycle. Using these three movement rules, options A, B, C, and D can be systematically eliminated."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659375/AR_3_ref2_qfn39t.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659459/AR_3_opt2_wdjp2u.png",
+      "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "Το μαύρο τετράγωνο ακολουθεί έναν επαναλαμβανόμενο οριζόντιο κύκλο: κέντρο - δεξιά - αριστερά - επανάληψη. Το βέλος στην αριστερή στήλη μετακινείται μία θέση προς τα κάτω σε κάθε βήμα· μόλις φτάσει στο κάτω μέρος, επανέρχεται στην κορυφή της επόμενης στήλης στα δεξιά και συνεχίζει την ίδια κίνηση προς τα κάτω. Αντίθετα, το βέλος στη δεξιά στήλη κινείται επίσης μία θέση προς τα κάτω, αλλά όταν φτάσει στο κάτω μέρος, επανέρχεται στην κορυφή της προηγούμενης στήλης (στα αριστερά του) και συνεχίζει τον κύκλο. Χρησιμοποιώντας αυτούς τους τρεις κανόνες κίνησης, οι επιλογές Α, Β, C και D μπορούν να αποκλειστούν."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659377/AR_3_ref3_jmghjg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659590/AR_3_opt3_zwe724.png",
+      "question": "3. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "In the original sequence, the square moves alternately to the left and then to the right of its initial position—first by one position, then by two, then by three. Therefore, we expect it to be 3 positions to the left of its initial position (eliminate B & D). In the 1st frame, there was one small circle; in the 2nd, two; in the 3rd, three; and then the pattern repeats with one and then two. Consequently, in our selection, the number must follow the sequence and become 3. Furthermore, each subsequent group of small circles moves to the left of its previous position. The simultaneous application of these three rules dictates E as the only possible solution."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659377/AR_3_ref3_jmghjg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659590/AR_3_opt3_zwe724.png",
+      "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "Στην αρχική σειρά, το τετράγωνο μετακινείται εναλλάξ αριστερά και μετά δεξιά από την αρχική του θέση κατά μία θέση, μετά κατά δύο, μετά κατά τρεις. Άρα το περιμένουμε 3 θέσεις αριστερά από την αρχική του θέση (διαγράψτε B & D).  Στο 1ο πλαίσιο είχαμε έναν μικρό κύκλο στο 2ο δύο, στο 3ο τρία, και μετά πάλι ένα και μετά δύο. Άρα, στην επιλογή μας ο αριθμός πρέπει να ακολουθήσει τη σειρά και να γίνει 3 ενώ κάθε επόμενη ομάδα των μικρών κύκλων μετακινείται αριστερά από τη προηγούμενη θέση εμφάνισης τους. Η ταυτόχρονη εφαρμογή των τριών αυτών κανόνων επιβάλλει το Ε ως τη μοναδική πιθανή λύση."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659379/AR_3_ref4_emxrmq.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659672/AR_3_opt4_itpn3v.png",
+      "question": "4. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "The black box follows a structured path along the shape of an “N”, occupying seven distinct positions in total: four at the vertices and three at the midpoints of each connecting segment. It moves sequentially along this route, and upon reaching the final position, it reverses direction and retraces the same path in the opposite order, creating a continuous back-and-forth cycle.The white circle operates on a simpler pattern. It cycles through four fixed positions located at the four vertices of the “N” shape. It moves from one vertex to the next in a defined order, and once it reaches the last vertex in its sequence, it similarly reverses direction and moves backward through the same positions."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659379/AR_3_ref4_emxrmq.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659672/AR_3_opt4_itpn3v.png",
+      "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 2,
+      "explanation": "Το μαύρο κουτί ακολουθεί μια δομημένη διαδρομή κατά μήκος του σχήματος του γράμματος «Ν», καταλαμβάνοντας συνολικά επτά διακριτές θέσεις: τέσσερις στις κορυφές και τρεις στα μέσα κάθε συνδετικού τμήματος. Κινείται διαδοχικά κατά μήκος αυτής της διαδρομής και, μόλις φτάσει στην τελική θέση, αντιστρέφει την κατεύθυνσή του και ανατρέχει την ίδια διαδρομή με την αντίστροφη σειρά, δημιουργώντας έναν συνεχή κύκλο μπρος-πίσω. Ο λευκός κύκλος λειτουργεί με ένα απλούστερο μοτίβο. Κυκλοφορεί σε τέσσερις σταθερές θέσεις που βρίσκονται στις τέσσερις κορυφές του σχήματος «Ν». Μετακινείται από τη μία κορυφή στην επόμενη με μια καθορισμένη σειρά και, μόλις φτάσει στην τελευταία κορυφή της ακολουθίας του, αντιστρέφει ομοίως την κατεύθυνσή του και κινείται προς τα πίσω μέσα από τις ίδιες θέσεις."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659385/AR_3_ref5_a8xhxc.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659675/AR_3_opt5_olrkhf.png",
+      "question": "5. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "When the central square is white, the circle does not change position in the next frame. When it is black, the circle moves 180° counterclockwise. When it is grey, the circle moves 90° counterclockwise."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659385/AR_3_ref5_a8xhxc.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659675/AR_3_opt5_olrkhf.png",
+      "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Ανάλογα με το χρώμα του κεντρικού τετραγώνου, η κίνηση του κύκλου στο επόμενο πλαίσιο καθορίζεται ως εξής: Λευκό Τετράγωνο: Ο κύκλος παραμένει σταθερός (δεν αλλάζει θέση). Μαύρο Τετράγωνο: Ο κύκλος μετακινείται κατά 180° αριστερόστροφα. Γκρι Τετράγωνο: Ο κύκλος μετακινείται κατά 90° αριστερόστροφα."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659383/AR_3_ref6_rfyxzj.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659687/AR_3_opt6_n9b4ii.png",
+      "question": "6. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "The top-left quadrant follows a repeating color cycle: black → grey → white → black (a 3-step loop). The top-right and bottom-right quadrants follow the same sequence, but they are shifted one step ahead of the top-left quadrant.  The bottom-left quadrant is shifted one additional step ahead of the right-hand quadrants, meaning it always shows the next color in the cycle.  By Frame 6, this set of transformations results in: Top-left = grey  - Top-right = white  - Bottom-left = black  - Bottom-right = white . Therefore, the correct answer is A."    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659383/AR_3_ref6_rfyxzj.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659687/AR_3_opt6_n9b4ii.png",
+      "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Το πάνω αριστερά τεταρτημόριο ακολουθεί έναν επαναλαμβανόμενο κύκλο χρωμάτων: μαύρο - γκρι - λευκό - μαύρο (βρόχος 3 βημάτων). Το πάνω δεξιά και το κάτω δεξιά τεταρτημόριο ακολουθούν την ίδια ακολουθία, αλλά είναι μετατοπισμένα κατά ένα βήμα μπροστά σε σχέση με το πάνω αριστερά τεταρτημόριο. Το κάτω αριστερά τεταρτημόριο είναι μετατοπισμένο κατά ένα επιπλέον βήμα μπροστά από τα δεξιά τεταρτημόρια, πράγμα που σημαίνει ότι δείχνει πάντα το επόμενο χρώμα του κύκλου. Μέχρι το Πλαίσιο 6, αυτό το σύνολο μετασχηματισμών καταλήγει σε: Πάνω αριστερά = γκρι - Πάνω δεξιά = λευκό - Κάτω αριστερά = μαύρο - Κάτω δεξιά = λευκό. Επομένως, η σωστή απάντηση είναι η Α."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659385/AR_3_ref7_r6b9f9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659367/AR_3_opt7_cd9cgk.png",
+      "question": "7. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "E. Two permutation rules alternate here: the steps from odd to even number (1→2, 3→4, 5→6) use the vertical variation between the 1st and 3rd column; the steps from even to odd number (2→3, 4→5) use the diagonal (↙) transformation; Frame 6 follows an odd to even step (step 5→6) —so the vertical permutation applies to frame 5 —The correct answer is E."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659385/AR_3_ref7_r6b9f9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659367/AR_3_opt7_cd9cgk.png",
+      "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 5,
+      "explanation": "Δύο κανόνες μετάθεσης εφαρμόζονται εδώ: στα βήματα από περιττό σε άρτιο αριθμό (1→2, 3→4, 5→6): Χρησιμοποιείται η κατακόρυφη μεταβολή μεταξύ της 1ης και της 3ης στήλης. Στα βήματα από άρτιο σε περιττό αριθμό (2→3, 4→5): Χρησιμοποιείται ο διαγώνιος (↙) μετασχηματισμός. Το Πλαίσιο 6 ακολουθεί ένα βήμα από περιττό σε άρτιο αριθμό (βήμα 5→6). Επομένως, εφαρμόζεται η κατακόρυφη μετάθεση στα στοιχεία του πλαισίου 5."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659387/AR_3_ref8_a18igi.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659369/AR_3_opt8_hug6hi.png",
+      "question": "8. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 4,
+      "explanation": "Each frame contains two vertical columns—one holding 2 flower pots, the other 3 flower pots. The columns swap positions in each successive vignette. Therefore, in the correct answer, the column with 3 pots must now be on the left (eliminating option E). Within each column, the pots move upward by one position with each frame. When a pot reaches the top, it disappears and re-enters from the bottom, continuing in a cyclical manner. Thus: In the 3-pot column, the bottommost pot should now be the gray pot (eliminating options A and C). In the 2-pot column, it must include the gray and white pots (eliminating option B). Only option D satisfies all these conditions and is therefore the correct answer."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659387/AR_3_ref8_a18igi.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659369/AR_3_opt8_hug6hi.png",
+      "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 4,
+      "explanation": "Κάθε πλαίσιο περιέχει δύο κατακόρυφες στήλες—μία με 2 γλάστρες και μία με 3 γλάστρες. Οι στήλες εναλλάσσουν θέσεις σε κάθε διαδοχικό στιγμιότυπο. Επομένως, στη σωστή απάντηση, η στήλη με τις 3 γλάστρες πρέπει τώρα να βρίσκεται στα αριστερά (αποκλείοντας την επιλογή Ε). Μέσα σε κάθε στήλη, οι γλάστρες μετακινούνται προς τα πάνω κατά μία θέση σε κάθε πλαίσιο. Όταν μια γλάστρα φτάσει στην κορυφή, εξαφανίζεται και επανέρχεται από το κάτω μέρος, συνεχίζοντας με κυκλικό τρόπο. Με βάση τα παραπάνω: Στη στήλη των 3 θέσεων: Η χαμηλότερη γλάστρα θα πρέπει τώρα να είναι η γκρι (αποκλείοντας τις επιλογές Α και C). Στη στήλη των 2 θέσεων: Πρέπει να περιλαμβάνονται η γκρι και η λευκή γλάστρα (αποκλείοντας την επιλογή Β). Συμπέρασμα: Μόνο η επιλογή D ικανοποιεί όλες αυτές τις προϋποθέσεις"
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659390/AR_3_ref9_zvytms.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659371/AR_3_opt9_qzhbik.png",
+      "question": "9. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "2 rules apply: The first rule is that for two images the angles of the triangle are not shaded, then for the next two  they are shaded etc. Following this rule, in the next diagram of the sequence, the angles should  be shaded. Therefore, the correct answer could be A, C or D. The other rule is that the first two triangles are reflections of each other in a vertical line through the centre, then the third triangle is rotated from the first by 90° anticlockwise and the third and fourth triangles are reflections of each other in a horizontal line through the centre etc. Following  this rule, the next triangle in the sequence should be a reflection of the fifth triangle in a vertical line through the centre. Therefore, the correct answer is A."
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659390/AR_3_ref9_zvytms.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659371/AR_3_opt9_qzhbik.png",
+      "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Ισχύουν δύο κανόνες: 1. για δύο εικόνες οι γωνίες του τριγώνου δεν είναι σκιασμένες, στη συνέχεια για τις επόμενες δύο είναι σκιασμένες κ.ο.κ. Ακολουθώντας αυτόν τον κανόνα, στο επόμενο διάγραμμα της σειράς, οι γωνίες θα πρέπει να είναι σκιασμένες. Επομένως, η σωστή απάντηση θα μπορούσε να είναι το Α, το C ή το D. 2. τα δύο πρώτα τρίγωνα αποτελούν αντικατοπτρισμό το ένα του άλλου ως προς μια κατακόρυφη γραμμή που διέρχεται από το κέντρο. Στη συνέχεια, το τρίτο τρίγωνο είναι περιστροφή του πρώτου κατά 90° αριστερόστροφα, και το τρίτο με το τέταρτο τρίγωνο είναι αντικατοπτρισμοί μεταξύ τους ως προς μια οριζόντια γραμμή που διέρχεται από το κέντρο κ.ο.κ."
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659391/AR_3_ref10_e5qaqw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659393/AR_3_opt10_cfcnhx.png",
+      "question": "10. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 4,
+      "explanation": "D. The sum of the number of lines and number of black circles in each frame of the reference vignette equals ten. We are looking for the same feature in the options vignette. Only no.4 satisfies this expectation (10 lines and 0 circles)"
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659391/AR_3_ref10_e5qaqw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1778659393/AR_3_opt10_cfcnhx.png",
+      "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 4,
+      "explanation": "Tο άθροισμα του αριθμού των γραμμών και του αριθμού των μαύρων κύκλων σε κάθε πλαίσιο του σχήματος αναφοράς ισούται με δέκα. Αναζητούμε το ίδιο χαρακτηριστικό στις επιλογές. Μόνο η επιλογή 4 ικανοποιεί αυτή την προσδοκία (10 γραμμές και 0 κύκλοι)."
+    }
+  }
+],
+ "abstract_4":[
+  {	
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "1. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "2. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "3. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "4. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "5. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "6. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "7. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "8. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "9. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "10. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+      }
+    }  
+  ]
 }
