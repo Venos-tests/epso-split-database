@@ -1,6 +1,430 @@
 {
-  "numerical_1": [],
-  "numerical_2": [],
-  "numerical_3": [],
-  "numerical_4": []
+  "num_1": [
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% of Population Using E-Government Services in selected EU Member States (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Denmark</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Greece</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Estonia</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>France</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "1. Between 2022 and 2024, what was the percentage point increase in the adoption of E-Government services in Greece?",
+        "options": [
+          "13.0",
+          "22.2",
+          "28.8",
+          "11.5"
+        ],
+        "answer": 0,
+        "explanation": "Percentage point change is the simple arithmetic difference between two percentage values: 58 − 45 = 13. Option C (28.8) is the trap — it represents the percentage change formula ((58−45)/45 × 100). An increase from 45% to 58% is 13 percentage points, but a 28.8% increase in adoption rate. Mixing these up can lead to significant misinformation in EU policy briefings."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% Πληθυσμού που χρησιμοποιεί Ηλεκτρονικές Δημόσιες Υπηρεσίες σε επιλεγμένα κράτη μέλη ΕΕ (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Δανία</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Ελλάδα</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Εσθονία</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>Γαλλία</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "1. Μεταξύ 2022 και 2024, ποια ήταν η αύξηση σε ποσοστιαίες μονάδες στην υιοθέτηση Ηλεκτρονικών Δημόσιων Υπηρεσιών στην Ελλάδα;",
+        "options": [
+          "13,0",
+          "22,2",
+          "28,8",
+          "11,5"
+        ],
+        "answer": 0,
+        "explanation": "Η μεταβολή σε ποσοστιαίες μονάδες είναι η απλή αριθμητική διαφορά: 58 − 45 = 13. Η επιλογή Γ (28,8) είναι η παγίδα — αντιπροσωπεύει την ποσοστιαία μεταβολή ((58−45)/45 × 100). Η αύξηση από 45% σε 58% είναι 13 ποσοστιαίες μονάδες, αλλά αύξηση 28,8% στο ποσοστό υιοθέτησης. Η σύγχυση αυτών των δύο εννοιών μπορεί να οδηγήσει σε σοβαρή παραπληροφόρηση στις εκθέσεις πολιτικής ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% of Population Using E-Government Services in selected EU Member States (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Belgium</strong></td><td>62</td><td>65</td><td>68</td></tr><tr><td><strong>Denmark</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Greece</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Estonia</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>France</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "2. Which country recorded the greatest percentage change in the adoption of E-Government services between 2022 and 2024?",
+        "options": [
+          "Belgium",
+          "Greece",
+          "France",
+          "Estonia"
+        ],
+        "answer": 1,
+        "explanation": "To find the greatest percentage change, use the formula (new − old) / old × 100. Belgium: 6/62 ≈ 9.7%. Greece: 13/45 ≈ 28.9%. France: 7/68 ≈ 10.3%. Estonia: 5/78 ≈ 6.4%. Greece has the highest percentage change. Even though Greece's absolute level (58%) is still well below Denmark (92%), its high rate of change signals that digital transition policies are working effectively and the gap is closing rapidly — a key distinction for EU policy analysis."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% Πληθυσμού που χρησιμοποιεί Ηλεκτρονικές Δημόσιες Υπηρεσίες σε επιλεγμένα κράτη μέλη ΕΕ (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Βέλγιο</strong></td><td>62</td><td>65</td><td>68</td></tr><tr><td><strong>Δανία</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Ελλάδα</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Εσθονία</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>Γαλλία</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "2. Ποια χώρα κατέγραψε τη μεγαλύτερη ποσοστιαία μεταβολή στην υιοθέτηση Ηλεκτρονικών Δημόσιων Υπηρεσιών μεταξύ 2022 και 2024;",
+        "options": [
+          "Βέλγιο",
+          "Ελλάδα",
+          "Γαλλία",
+          "Εσθονία"
+        ],
+        "answer": 1,
+        "explanation": "Για τη μεγαλύτερη ποσοστιαία μεταβολή χρησιμοποιούμε τον τύπο (νέο − παλιό) / παλιό × 100. Βέλγιο: 6/62 ≈ 9,7%. Ελλάδα: 13/45 ≈ 28,9%. Γαλλία: 7/68 ≈ 10,3%. Εσθονία: 5/78 ≈ 6,4%. Η Ελλάδα έχει τη μεγαλύτερη ποσοστιαία μεταβολή — ακόμα κι αν το απόλυτο επίπεδό της (58%) υπολείπεται της Δανίας (92%), ο υψηλός ρυθμός μεταβολής δείχνει ότι οι πολιτικές ψηφιακής μετάβασης αποδίδουν."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>DG Project Impact &amp; Allocation of the EU Green Digital Transition Fund (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Directorate-General (DG)</th><th>Number of Projects</th><th>Average Impact Score (1–10)</th><th>Allocation Weight</th></tr></thead><tbody><tr><td><strong>DG CONNECT</strong></td><td>120</td><td>8.5</td><td>40%</td></tr><tr><td><strong>DG CLIMA</strong></td><td>80</td><td>7.0</td><td>35%</td></tr><tr><td><strong>DG GROW</strong></td><td>50</td><td>6.0</td><td>25%</td></tr><tr><td><strong>Total / Average</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
+        "question": "3. What is the weighted average Impact Score for the total 250 projects across all three DGs?",
+        "options": [
+          "7.16",
+          "7.52",
+          "7.70",
+          "8.10"
+        ],
+        "answer": 1,
+        "explanation": "To find the weighted average, account for the number of projects in each DG. Step 1 — calculate total points per DG: DG CONNECT: 120 × 8.5 = 1,020. DG CLIMA: 80 × 7.0 = 560. DG GROW: 50 × 6.0 = 300. Step 2 — sum all points: 1,020 + 560 + 300 = 1,880. Step 3 — divide by total projects: 1,880 / 250 = 7.52. Option A (7.16) is the simple average trap ((8.5+7.0+6.0)/3). In EU policy evaluation, a smaller DG with high scores should not skew the overall average as much as a larger one — the weighted average provides a realistic picture of portfolio performance."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αντίκτυπος Έργων ΓΔ &amp; Κατανομή του «Ταμείου Πράσινης Ψηφιακής Μετάβασης ΕΕ» (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Έργων</th><th>Μέση Εκτίμηση Επιπτώσεων (1–10)</th><th>Βαρύτητα Κατανομής</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>120</td><td>8,5</td><td>40%</td></tr><tr><td><strong>ΓΔ CLIMA</strong></td><td>80</td><td>7,0</td><td>35%</td></tr><tr><td><strong>ΓΔ GROW</strong></td><td>50</td><td>6,0</td><td>25%</td></tr><tr><td><strong>Σύνολο / Μέσος</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
+        "question": "3. Ποιος είναι ο σταθμισμένος μέσος όρος εκτίμησης επιπτώσεων για τα 250 έργα συνολικά;",
+        "options": [
+          "7,16",
+          "7,52",
+          "7,70",
+          "8,10"
+        ],
+        "answer": 1,
+        "explanation": "Για τον σταθμισμένο μέσο όρο λαμβάνουμε υπόψη τον αριθμό έργων κάθε ΓΔ. Βήμα 1 — σύνολο βαθμών: ΓΔ CONNECT: 120 × 8,5 = 1.020. ΓΔ CLIMA: 80 × 7,0 = 560. ΓΔ GROW: 50 × 6,0 = 300. Βήμα 2 — άθροισμα: 1.880. Βήμα 3 — διαίρεση: 1.880 / 250 = 7,52. Η επιλογή Α (7,16) είναι η παγίδα του απλού μέσου ((8,5+7,0+6,0)/3). Στην αξιολόγηση πολιτικής ΕΕ, ο σταθμισμένος μέσος αντικατοπτρίζει ρεαλιστικά την απόδοση ενός χαρτοφυλακίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Skills Training — Participant Satisfaction Rate</caption><thead><tr style='background:#e8f0fe;'><th>Directorate-General (DG)</th><th>Number of Participants</th><th>Satisfaction Rate (%)</th></tr></thead><tbody><tr><td><strong>DG CONNECT</strong></td><td>400</td><td>85</td></tr><tr><td><strong>DG DIGIT</strong></td><td>250</td><td>90</td></tr><tr><td><strong>DG EMPL</strong></td><td>350</td><td>75</td></tr><tr><td><strong>DG HR</strong></td><td>200</td><td>?</td></tr><tr><td><strong>Total / Weighted Avg.</strong></td><td>1,200</td><td>82</td></tr></tbody></table>",
+        "question": "4. The overall weighted satisfaction rate for the year is 82%. What was the Satisfaction Rate for DG HR that produced this result?",
+        "options": [
+          "76%",
+          "81%",
+          "78%",
+          "83%"
+        ],
+        "answer": 2,
+        "explanation": "Step 1 — find total satisfaction points needed: 1,200 × 82 = 98,400. Step 2 — calculate points already accounted for: DG CONNECT: 400 × 85 = 34,000. DG DIGIT: 250 × 90 = 22,500. DG EMPL: 350 × 75 = 26,250. Sub-total: 82,750. Step 3 — find missing points: 98,400 − 82,750 = 15,650. Step 4 — calculate DG HR rate: 15,650 / 200 = 78.25% ≈ 78%. The trap is option B (81%) — the result of using a simple average instead of weighted. EU Administrators working with KPIs must identify which department needs to improve its performance to pull up the institutional average."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατάρτιση Ψηφιακών Δεξιοτήτων — Ποσοστό Ικανοποίησης Συμμετεχόντων</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Συμμετεχόντων</th><th>Ποσοστό Ικανοποίησης (%)</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>400</td><td>85</td></tr><tr><td><strong>ΓΔ DIGIT</strong></td><td>250</td><td>90</td></tr><tr><td><strong>ΓΔ EMPL</strong></td><td>350</td><td>75</td></tr><tr><td><strong>ΓΔ HR</strong></td><td>200</td><td>?</td></tr><tr><td><strong>Σύνολο / Σταθμ. Μέσος</strong></td><td>1.200</td><td>82</td></tr></tbody></table>",
+        "question": "4. Το συνολικό σταθμισμένο ποσοστό ικανοποίησης είναι 82%. Ποιο ήταν το ποσοστό ικανοποίησης της ΓΔ HR που οδήγησε σε αυτό το αποτέλεσμα;",
+        "options": [
+          "76%",
+          "81%",
+          "78%",
+          "83%"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1 — σύνολο βαθμών που απαιτούνται: 1.200 × 82 = 98.400. Βήμα 2 — γνωστοί βαθμοί: ΓΔ CONNECT: 34.000. ΓΔ DIGIT: 22.500. ΓΔ EMPL: 26.250. Υποσύνολο: 82.750. Βήμα 3 — διαφορά: 98.400 − 82.750 = 15.650. Βήμα 4 — ποσοστό ΓΔ HR: 15.650 / 200 = 78,25% ≈ 78%. Η παγίδα είναι η επιλογή Β (81%) — αποτέλεσμα απλού μέσου αντί σταθμισμένου."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Agency Staffing and IT Expenditure (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Agency</th><th>Total Staff</th><th>Ratio (IT Spec : Admin)</th><th>Annual IT Budget (€)</th></tr></thead><tbody><tr><td><strong>EMA (Medicines)</strong></td><td>900</td><td>1:8</td><td>2,250,000</td></tr><tr><td><strong>EASA (Aviation)</strong></td><td>600</td><td>1:4</td><td>1,800,000</td></tr><tr><td><strong>EFSA (Food Safety)</strong></td><td>540</td><td>1:5</td><td>1,620,000</td></tr><tr><td><strong>EUIPO (IP)</strong></td><td>1,100</td><td>1:10</td><td>3,300,000</td></tr></tbody></table>",
+        "question": "5. What is the difference between the number of IT Specialists employed at EASA and those employed at EMA?",
+        "options": [
+          "20",
+          "30",
+          "100",
+          "220"
+        ],
+        "answer": 0,
+        "explanation": "To find IT specialists, understand that Total Staff is the sum of both parts of the ratio. EASA ratio 1:4 means 1 IT specialist per 5 total staff (1+4). EASA IT Specialists: 600 / 5 = 120. EMA ratio 1:8 means 1 IT specialist per 9 total staff (1+8). EMA IT Specialists: 900 / 9 = 100. Difference: 120 − 100 = 20. In EU agency headcount management, understanding the ratio of technical to administrative profiles determines digital maturity and justifies the annual IT budget allocation."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Στελέχωση Οργανισμών &amp; Δαπάνες Πληροφορικής (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Οργανισμός</th><th>Σύνολο Προσωπικού</th><th>Αναλογία (Ειδικοί ΠΤ : Διοικητικοί)</th><th>Ετήσιος Προϋπολογισμός ΠΤ (€)</th></tr></thead><tbody><tr><td><strong>EMA (Φάρμακα)</strong></td><td>900</td><td>1:8</td><td>2.250.000</td></tr><tr><td><strong>EASA (Αεροπορία)</strong></td><td>600</td><td>1:4</td><td>1.800.000</td></tr><tr><td><strong>EFSA (Ασφάλεια Τροφίμων)</strong></td><td>540</td><td>1:5</td><td>1.620.000</td></tr><tr><td><strong>EUIPO (Πνευμ. Ιδιοκτησία)</strong></td><td>1.100</td><td>1:10</td><td>3.300.000</td></tr></tbody></table>",
+        "question": "5. Ποια είναι η διαφορά μεταξύ του αριθμού Ειδικών Πληροφορικής που απασχολεί η EASA και εκείνων που απασχολεί η EMA;",
+        "options": [
+          "20",
+          "30",
+          "100",
+          "220"
+        ],
+        "answer": 0,
+        "explanation": "Για να βρούμε τους ειδικούς ΠΤ, κατανοούμε ότι το σύνολο προσωπικού είναι το άθροισμα και των δύο μερών της αναλογίας. EASA αναλογία 1:4 → 1 ειδικός ανά 5 άτομα: 600 / 5 = 120 ειδικοί. EMA αναλογία 1:8 → 1 ειδικός ανά 9 άτομα: 900 / 9 = 100 ειδικοί. Διαφορά: 120 − 100 = 20."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS Digital Infrastructure Deployment 2024 Costs</caption><thead><tr style='background:#e8f0fe;'><th>Regional Hub</th><th>Tech Staff Needed (FTE)</th><th>Monthly Salary per FTE (€)</th><th>Hardware Cost (€)</th><th>Local Digital Tax (%)</th></tr></thead><tbody><tr><td><strong>Western Balkans</strong></td><td>8</td><td>4,200</td><td>150,000</td><td>5</td></tr><tr><td><strong>Eastern Partnership</strong></td><td>12</td><td>3,800</td><td>220,000</td><td>8</td></tr><tr><td><strong>Mediterranean</strong></td><td>10</td><td>4,500</td><td>185,000</td><td>6</td></tr><tr><td><strong>Sub-Saharan Africa</strong></td><td>15</td><td>3,200</td><td>310,000</td><td>12</td></tr></tbody></table>",
+        "question": "6. What is the total cost (Staff Salaries + Taxed Hardware) for a 6-month deployment in the Eastern Partnership hub?",
+        "options": [
+          "€273,600",
+          "€528,400",
+          "€493,600",
+          "€511,200"
+        ],
+        "answer": 3,
+        "explanation": "Focus only on the Eastern Partnership row. Staff cost (6 months): 12 FTE × €3,800 × 6 = €273,600. Taxed hardware: €220,000 × 1.08 = €237,600. Grand total: €273,600 + €237,600 = €511,200. A key EPSO skill is filtering out irrelevant data — three-quarters of this table is distractor information designed to slow you down."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS — Κόστη Ανάπτυξης Ψηφιακής Υποδομής 2024</caption><thead><tr style='background:#e8f0fe;'><th>Περιφερειακός Κόμβος</th><th>Τεχν. Προσωπικό (FTE)</th><th>Μηνιαίος Μισθός/FTE (€)</th><th>Κόστος Εξοπλισμού (€)</th><th>Τοπικός Ψηφιακός Φόρος (%)</th></tr></thead><tbody><tr><td><strong>Δυτικά Βαλκάνια</strong></td><td>8</td><td>4.200</td><td>150.000</td><td>5</td></tr><tr><td><strong>Ανατολική Σύμπραξη</strong></td><td>12</td><td>3.800</td><td>220.000</td><td>8</td></tr><tr><td><strong>Μεσόγειος</strong></td><td>10</td><td>4.500</td><td>185.000</td><td>6</td></tr><tr><td><strong>Υποσαχάρια Αφρική</strong></td><td>15</td><td>3.200</td><td>310.000</td><td>12</td></tr></tbody></table>",
+        "question": "6. Ποιο είναι το συνολικό κόστος (Μισθοί + Φορολογημένος Εξοπλισμός) για ανάπτυξη 6 μηνών στον κόμβο Ανατολικής Σύμπραξης;",
+        "options": [
+          "€273.600",
+          "€528.400",
+          "€493.600",
+          "€511.200"
+        ],
+        "answer": 3,
+        "explanation": "Εστιάζουμε μόνο στη γραμμή Ανατολικής Σύμπραξης. Κόστος προσωπικού (6 μήνες): 12 × €3.800 × 6 = €273.600. Κόστος εξοπλισμού μετά φόρων: €220.000 × 1,08 = €237.600. Σύνολο: €273.600 + €237.600 = €511.200. Βασική δεξιότητα EPSO: φιλτράρισμα άσχετων δεδομένων — τα 3/4 του πίνακα είναι μη χρήσιμες πληροφορίες."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Infrastructure Investment Index (2020–2024). Base year 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Institution</th><th>2020 (Base)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ECB</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>EIB</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Court of Justice</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Court of Auditors</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>European Council</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "7. If both the ECB and the EIB each spent €40 million on digital infrastructure in 2020, by how much did ECB spending exceed EIB spending in 2024?",
+        "options": [
+          "€1.0 million",
+          "€1.2 million",
+          "€1.5 million",
+          "€2.0 million"
+        ],
+        "answer": 1,
+        "explanation": "Step 1 — apply the 2024 index to the base amount. ECB index 125 means 125% of base: €40M × 1.25 = €50.0M. EIB index 122 means 122% of base: €40M × 1.22 = €48.8M. Step 2 — find the difference: €50.0M − €48.8M = €1.2M. Index numbers are central to the EU's Multiannual Financial Framework (MFF), allowing the Commission to track whether spending keeps pace with institutional growth targets without listing billions of euros in every cell."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Επενδύσεων Ψηφιακής Υποδομής (2020–2024). Έτος βάσης 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Θεσμικό Όργανο</th><th>2020 (Βάση)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ΕΚΤ</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>ΕΤΕπ</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Δικαστήριο ΕΕ</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Ελεγκτικό Συνέδριο</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>Ευρωπαϊκό Συμβούλιο</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "7. Αν τόσο η ΕΚΤ όσο και η ΕΤΕπ δαπάνησαν από €40 εκατ. για ψηφιακή υποδομή το 2020, κατά πόσο υπερέβησαν οι δαπάνες ΕΚΤ εκείνες της ΕΤΕπ το 2024;",
+        "options": [
+          "€1,0 εκατ.",
+          "€1,2 εκατ.",
+          "€1,5 εκατ.",
+          "€2,0 εκατ."
+        ],
+        "answer": 1,
+        "explanation": "Βήμα 1 — εφαρμογή δείκτη 2024 στο βασικό ποσό. ΕΚΤ δείκτης 125: €40εκ. × 1,25 = €50,0εκ. ΕΤΕπ δείκτης 122: €40εκ. × 1,22 = €48,8εκ. Βήμα 2 — διαφορά: €50,0εκ. − €48,8εκ. = €1,2εκ. Οι (αριθμο)δείκτες αποτελούν κεντρικό εργαλείο του Πολυετούς Δημοσιονομικού Πλαισίου (ΠΔΠ) της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Infrastructure Investment Index (2020–2024). Base year 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Institution</th><th>2020 (Base)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ECB</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>EIB</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Court of Justice</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Court of Auditors</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>European Council</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "8. Which institution showed the highest percentage growth in digital investment between 2021 and 2023?",
+        "options": [
+          "ECB",
+          "EIB",
+          "Court of Auditors",
+          "European Council"
+        ],
+        "answer": 3,
+        "explanation": "Do not simply subtract index points — calculate the percentage change of the index between the two years. ECB: (118−105)/105 = 12.38%. EIB: (115−102)/102 = 12.74%. Court of Auditors: (110−104)/104 = 5.76%. European Council: (122−108)/108 = 12.96%. The European Council has the highest momentum in this period. Even though the ECB has a higher absolute index in 2024 (125 vs 135), the rate of acceleration between 2021 and 2023 was highest for the European Council."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Επενδύσεων Ψηφιακής Υποδομής (2020–2024). Έτος βάσης 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Θεσμικό Όργανο</th><th>2020 (Βάση)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ΕΚΤ</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>ΕΤΕπ</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Δικαστήριο ΕΕ</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Ελεγκτικό Συνέδριο</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>Ευρωπαϊκό Συμβούλιο</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "8. Ποιο θεσμικό όργανο εμφάνισε τη μεγαλύτερη ποσοστιαία αύξηση επενδύσεων μεταξύ 2021 και 2023;",
+        "options": [
+          "ΕΚΤ",
+          "ΕΤΕπ",
+          "Ελεγκτικό Συνέδριο",
+          "Ευρωπαϊκό Συμβούλιο"
+        ],
+        "answer": 3,
+        "explanation": "Δεν αφαιρούμε απλώς τους δείκτες — υπολογίζουμε την ποσοστιαία μεταβολή. ΕΚΤ: (118−105)/105 = 12,38%. ΕΤΕπ: (115−102)/102 = 12,74%. Ελεγκτικό Συνέδριο: (110−104)/104 = 5,76%. Ευρωπαϊκό Συμβούλιο: (122−108)/108 = 12,96%. Το Ευρωπαϊκό Συμβούλιο έχει τη μεγαλύτερη δυναμική στην περίοδο αυτή."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Digital Innovation Hubs (EDIH) Performance Metrics (2023–2024). Budgets in €000.</caption><thead><tr style='background:#e8f0fe;'><th>Digital Hub</th><th>FTE Staff</th><th>2023 Budget (€000)</th><th>2024 Budget (€000)</th><th>Total Projects (2024)</th></tr></thead><tbody><tr><td><strong>Hub Alpha</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Hub Beta</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Hub Gamma</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Hub Delta</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Hub Epsilon</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Hub Zeta</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
+        "question": "9. To receive the Special Bonus, a Hub must meet ALL three criteria: (1) more than 15 FTE staff; (2) 2024 cost per project below €12,000; (3) annual budget increase of at least 6.5%. What is the total 2024 budget of all qualifying Hubs?",
+        "options": [
+          "€405,000",
+          "€1,405,000",
+          "€1,525,000",
+          "€925,000"
+        ],
+        "answer": 0,
+        "explanation": "Apply each criterion systematically. Criterion 1 (FTE > 15): Gamma (14 FTE) is eliminated. Criterion 2 (cost per project < €12,000): Alpha: €425k/30 = €14,167 ❌. Beta: €520k/50 = €10,400 ✅. Delta: €480k/40 = €12,000 ❌ (not less than). Epsilon: €405k/35 = €11,571 ✅. Zeta: €620k/60 = €10,333 ✅. Criterion 3 (budget growth ≥ 6.5%): Beta: (520−490)/490 = 6.12% ❌. Epsilon: (405−380)/380 = 6.58% ✅. Zeta: (620−600)/600 = 3.33% ❌. Only Hub Epsilon passes all three criteria. Total qualifying budget: €405,000."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ευρωπαϊκοί Κόμβοι Ψηφιακής Καινοτομίας (EDIH) — Δείκτες Απόδοσης (2023–2024). Προϋπολογισμοί σε €000.</caption><thead><tr style='background:#e8f0fe;'><th>Ψηφιακός Κόμβος</th><th>Προσωπικό (FTE)</th><th>Προϋπολογισμός 2023 (€000)</th><th>Προϋπολογισμός 2024 (€000)</th><th>Σύνολο Έργων (2024)</th></tr></thead><tbody><tr><td><strong>Κόμβος Άλφα</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Κόμβος Βήτα</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Κόμβος Γάμμα</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Κόμβος Δέλτα</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Κόμβος Έψιλον</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Κόμβος Ζήτα</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
+        "question": "9. Για το Ειδικό Μπόνους, ένας Κόμβος πρέπει να πληροί ΟΛΑ τα ακόλουθα κριτήρια: (1) περισσότερα από 15 FTE· (2) κόστος ανά έργο 2024 κάτω από €12.000· (3) ετήσια αύξηση προϋπολογισμού τουλάχιστον 6,5%. Ποιος είναι ο συνολικός προϋπολογισμός 2024 των κόμβων που δικαιούνται μπόνους;",
+        "options": [
+          "€405.000",
+          "€1.405.000",
+          "€1.525.000",
+          "€925.000"
+        ],
+        "answer": 0,
+        "explanation": "Εφαρμόζουμε κάθε κριτήριο συστηματικά. Κριτήριο 1 (FTE > 15): Γάμμα (14 FTE) αποκλείεται. Κριτήριο 2 (κόστος/έργο < €12.000): Άλφα: €14.167 ❌. Βήτα: €10.400 ✅. Δέλτα: €12.000 ❌ (όχι μικρότερο). Έψιλον: €11.571 ✅. Ζήτα: €10.333 ✅. Κριτήριο 3 (αύξηση ≥ 6,5%): Βήτα: 6,12% ❌. Έψιλον: 6,58% ✅. Ζήτα: 3,33% ❌. Μόνο ο Κόμβος Έψιλον πληροί και τα τρία κριτήρια. Συνολικός προϋπολογισμός: €405.000."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Resource Requirements per Unit — EU Chips Act Pilot Production Line</caption><thead><tr style='background:#e8f0fe;'><th>Microchip Type</th><th>Silicon Wafer (Units)</th><th>Processing Time (Hours)</th><th>Testing Time (Hours)</th><th>Digital Value (€)</th></tr></thead><tbody><tr><td><strong>Alpha</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Beta</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Gamma</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Total Weekly Resources</strong></td><td>600 units</td><td>800 hours</td><td>500 hours</td><td>—</td></tr></tbody></table>",
+        "question": "10. The facility must first produce 100 Alpha chips for a priority Sovereignty Contract. All remaining resources are then dedicated exclusively to Gamma chips. What is the maximum number of Gamma chips that can be produced in a week?",
+        "options": [
+          "80",
+          "100",
+          "120",
+          "150"
+        ],
+        "answer": 0,
+        "explanation": "Step 1 — resources consumed by 100 Alpha chips: Wafers: 100×2 = 200. Processing: 100×4 = 400h. Testing: 100×1 = 100h. Step 2 — remaining resources: Wafers: 600−200 = 400 units. Processing: 800−400 = 400h. Testing: 500−100 = 400h. Step 3 — identify the bottleneck for Gamma. Each Gamma chip needs: 1 wafer (400/1 = 400 possible), 5h processing (400/5 = 80 possible), 2h testing (400/2 = 200 possible). Processing time is the binding constraint at 80 units. Production must stop when processing hours are exhausted. Maximum Gamma chips: 80."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Απαιτήσεις Πόρων ανά Μονάδα — Πιλοτική Γραμμή Παραγωγής EU Chips Act</caption><thead><tr style='background:#e8f0fe;'><th>Τύπος Μικροτσίπ</th><th>Πλακίδια Πυριτίου (Μονάδες)</th><th>Χρόνος Επεξεργασίας (Ώρες)</th><th>Χρόνος Δοκιμών (Ώρες)</th><th>Ψηφιακή Αξία (€)</th></tr></thead><tbody><tr><td><strong>Άλφα</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Βήτα</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Γάμμα</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Σύνολο Εβδομαδιαίων Πόρων</strong></td><td>600 μονάδες</td><td>800 ώρες</td><td>500 ώρες</td><td>—</td></tr></tbody></table>",
+        "question": "10. Η εγκατάσταση πρέπει πρώτα να παράγει 100 τσίπ Άλφα για συμβόλαιο προτεραιότητας. Οι υπόλοιποι πόροι διατίθενται αποκλειστικά για τσίπ Γάμμα. Ποιος είναι ο μέγιστος αριθμός τσίπ Γάμμα που μπορεί να παραχθεί σε μία εβδομάδα;",
+        "options": [
+          "80",
+          "100",
+          "120",
+          "150"
+        ],
+        "answer": 0,
+        "explanation": "Βήμα 1 — πόροι για 100 τσίπ Άλφα: Πλακίδια πυριτίου: 200. Επεξεργασία: 400ω. Δοκιμές: 100ω. Βήμα 2 — υπόλοιποι πόροι: Πλακίδια πυριτίου: 400. Επεξεργασία: 400ω. Δοκιμές: 400ω. Βήμα 3 — εντοπισμός σημείου συμφόρησης (bottleneck) για Γάμμα: Πλακίδια: 400/1 = 400. Επεξεργασία: 400/5 = 80. Δοκιμές: 400/2 = 200. Ο χρόνος επεξεργασίας είναι ο περιοριστικός παράγοντας. Μέγιστος αριθμός τσίπ Γάμμα: 80."
+      }
+    }
+  ],
+  "num_2": [
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Departmental Output by Month</caption><thead><tr style='background:#e8f0fe;'><th>Month</th><th>A</th><th>B</th><th>C</th><th>A+B</th><th>C+D</th><th>Total</th></tr></thead><tbody><tr><td>Jan</td><td>24</td><td>36</td><td>18</td><td>60</td><td>42</td><td>102</td></tr><tr><td>Feb</td><td>30</td><td>20</td><td>25</td><td>50</td><td>40</td><td>90</td></tr><tr><td>Mar</td><td>28</td><td>32</td><td>22</td><td>60</td><td>45</td><td>105</td></tr><tr><td>Apr</td><td>35</td><td>25</td><td>30</td><td>60</td><td>50</td><td>110</td></tr><tr><td>May</td><td>40</td><td>30</td><td>10</td><td>70</td><td>45</td><td>115</td></tr></tbody></table>",
+        "question": "1. For how many months does Department D exceed the average performance of the four departments A, B, C, and D?",
+        "options": ["0","1","2","3"],
+        "answer": 1,
+        "explanation": "D's value each month = (C+D) − C: Jan 24, Feb 15, Mar 23, Apr 20, May 35. For D to exceed the four-department average, we need D > (A+B+C+D)/4, i.e. 3D > A+B+C. Jan: 3×24=72 vs 78 ❌ | Feb: 45 vs 75 ❌ | Mar: 69 vs 82 ❌ | Apr: 60 vs 90 ❌ | May: 105 vs 80 ✔. Only May qualifies. Answer: B) 1 month."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Departmental Output by Month</caption><thead><tr style='background:#e8f0fe;'><th>Month</th><th>A</th><th>B</th><th>C</th><th>A+B</th><th>C+D</th><th>Total</th></tr></thead><tbody><tr><td>Jan</td><td>24</td><td>36</td><td>18</td><td>60</td><td>42</td><td>102</td></tr><tr><td>Feb</td><td>30</td><td>20</td><td>25</td><td>50</td><td>40</td><td>90</td></tr><tr><td>Mar</td><td>28</td><td>32</td><td>22</td><td>60</td><td>45</td><td>105</td></tr><tr><td>Apr</td><td>35</td><td>25</td><td>30</td><td>60</td><td>50</td><td>110</td></tr><tr><td>May</td><td>40</td><td>30</td><td>10</td><td>70</td><td>45</td><td>115</td></tr></tbody></table>",
+        "question": "1. Πόσους μήνες αυτού του διαστήματος, η επίδοση του Τμήματος Δ υπερβαίνει τη μέση επίδοση των τεσσάρων τμημάτων Α, Β, Γ και Δ;",
+        "options": ["0","1","2","3"],
+        "answer": 1,
+        "explanation": "Τιμή Δ κάθε μήνα = (C+D) − C: Ιαν 24, Φεβ 15, Μαρ 23, Απρ 20, Μάι 35. Για Δ > μέσος τεσσάρων τμημάτων χρειάζεται 3Δ > Α+Β+Γ. Ιαν: 72 vs 78 ❌ | Φεβ: 45 vs 75 ❌ | Μαρ: 69 vs 82 ❌ | Απρ: 60 vs 90 ❌ | Μάι: 105 vs 80 ✔. Μόνο ο Μάιος ικανοποιεί τη συνθήκη. Απάντηση: Β) 1 μήνας."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Data: Electricity Cost &amp; Price</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Production Cost (€/kWh)</th><th>Sale Price (€/kWh)</th><th>Avg Monthly Consumption (kWh)</th></tr></thead><tbody><tr><td>Greece</td><td>0.14</td><td>0.20</td><td>400</td></tr><tr><td>Germany</td><td>0.18</td><td>0.28</td><td>350</td></tr><tr><td>France</td><td>0.12</td><td>0.22</td><td>300</td></tr><tr><td>Spain</td><td>0.15</td><td>0.24</td><td>320</td></tr><tr><td>Poland</td><td>0.10</td><td>0.18</td><td>380</td></tr></tbody></table>",
+        "question": "2. In Greece, the price per kWh increases by 8%. By what percentage must a household reduce its electricity consumption so that the total monthly expenditure remains unchanged?",
+        "options": ["3.7%","6.2%","7.4%","8.0%"],
+        "answer": 2,
+        "explanation": "Original bill: €0.20 × 400 = €80. New price: €0.20 × 1.08 = €0.216/kWh. Required consumption Q: 0.216 × Q = 80 → Q ≈ 370.37 kWh. Reduction: 400 − 370.37 = 29.63 kWh → 29.63/400 ≈ 7.4%. Answer: C) 7.4%."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δεδομένα: Κόστος &amp; Τιμή Ηλεκτρικής Ενέργειας</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Κόστος παραγωγής (€/kWh)</th><th>Τιμή πώλησης (€/kWh)</th><th>Μέση μηνιαία κατανάλωση (kWh)</th></tr></thead><tbody><tr><td>Ελλάδα</td><td>0.14</td><td>0.20</td><td>400</td></tr><tr><td>Γερμανία</td><td>0.18</td><td>0.28</td><td>350</td></tr><tr><td>Γαλλία</td><td>0.12</td><td>0.22</td><td>300</td></tr><tr><td>Ισπανία</td><td>0.15</td><td>0.24</td><td>320</td></tr><tr><td>Πολωνία</td><td>0.10</td><td>0.18</td><td>380</td></tr></tbody></table>",
+        "question": "2. Στην Ελλάδα, η τιμή ανά kWh αυξάνεται κατά 8%. Κατά πόσο (%) πρέπει να μειώσει ένα νοικοκυριό την κατανάλωσή του ώστε η συνολική μηνιαία δαπάνη για ηλεκτρικό ρεύμα να παραμείνει σταθερή;",
+        "options": ["3,7%","6,2%","7,4%","8,0%"],
+        "answer": 2,
+        "explanation": "Αρχικός λογαριασμός: 0,20 × 400 = 80 €. Νέα τιμή: 0,20 × 1,08 = 0,216 €/kWh. Απαιτούμενη κατανάλωση Q: 0,216 × Q = 80 → Q ≈ 370,37 kWh. Μείωση: 400 − 370,37 = 29,63 kWh → 29,63/400 ≈ 7,4%. Απάντηση: Γ) 7,4%."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Household Expenditure by Category in Selected EU Countries (% of total). Note: Housing includes water, electricity, and fuels.</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Housing, Water, Electricity, Fuels</th><th>Food &amp; Non-Alc. Beverages</th><th>Transport</th><th>Recreation &amp; Culture</th><th>Restaurants &amp; Hotels</th><th>Miscellaneous Goods</th></tr></thead><tbody><tr><td>Czechia</td><td>15.0%</td><td>8.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>4.5%</td></tr><tr><td>Denmark</td><td>12.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>France</td><td>14.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>Ireland</td><td>11.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>Estonia</td><td>16.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>5.1%</td></tr><tr><td>Belgium</td><td>13.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>4.0%</td><td>4.8%</td></tr></tbody></table>",
+        "question": "3. Approximately, what percentage of Czechia's combined per-household expenditure on Transport and Miscellaneous Goods did France's combined per-household expenditure on these same two categories represent?",
+        "options": ["95.2%","100.0%","105.3%","110.0%"],
+        "answer": 2,
+        "explanation": "Assuming equal total household expenditure T for comparison. Czechia: Transport 5.0% + Miscellaneous 4.5% = 9.5% → 0.095T. France: Transport 5.0% + Miscellaneous 5.0% = 10.0% → 0.10T. France as % of Czechia: (0.10 / 0.095) × 100 ≈ 105.3%. Answer: C) 105.3%."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δαπάνες νοικοκυριών ανά κατηγορία σε επιλεγμένες χώρες ΕΕ (% του συνόλου). Σημ.: Η στέγαση περιλαμβάνει νερό, ηλεκτρισμό και καύσιμα.</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Στέγαση, Νερό, Ηλεκτρισμός, Καύσιμα</th><th>Τρόφιμα &amp; Μη Αλκοολούχα Ποτά</th><th>Μεταφορές</th><th>Αναψυχή &amp; Πολιτισμός</th><th>Εστιατόρια &amp; Ξενοδοχεία</th><th>Λοιπά Αγαθά</th></tr></thead><tbody><tr><td>Τσεχία</td><td>15,0%</td><td>8,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>4,5%</td></tr><tr><td>Δανία</td><td>12,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Γαλλία</td><td>14,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Ιρλανδία</td><td>11,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Εσθονία</td><td>16,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>5,1%</td></tr><tr><td>Βέλγιο</td><td>13,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>4,0%</td><td>4,8%</td></tr></tbody></table>",
+        "question": "3. Περίπου τι ποσοστό της συνδυασμένης δαπάνης ανά νοικοκυριό της Τσεχίας για Μεταφορές και Λοιπά Αγαθά αντιπροσωπεύει η αντίστοιχη συνδυασμένη δαπάνη ανά νοικοκυριό της Γαλλίας για τις ίδιες δύο κατηγορίες;",
+        "options": ["95,2%","100,0%","105,3%","110,0%"],
+        "answer": 2,
+        "explanation": "Υποθέτουμε ίσες συνολικές δαπάνες Τ. Τσεχία: 5,0% + 4,5% = 9,5% → 0,095Τ. Γαλλία: 5,0% + 5,0% = 10,0% → 0,10Τ. Γαλλία ως % Τσεχίας: (0,10/0,095) × 100 ≈ 105,3%. Απάντηση: Γ) 105,3%."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Household Expenditure by Category in Selected EU Countries (% of total). Note: Housing includes water, electricity, and fuels.</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Housing, Water, Electricity, Fuels</th><th>Food &amp; Non-Alc. Beverages</th><th>Transport</th><th>Recreation &amp; Culture</th><th>Restaurants &amp; Hotels</th><th>Miscellaneous Goods</th></tr></thead><tbody><tr><td>Czechia</td><td>15.0%</td><td>8.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>4.5%</td></tr><tr><td>Denmark</td><td>12.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>France</td><td>14.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>Ireland</td><td>11.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>5.0%</td><td>5.0%</td></tr><tr><td>Estonia</td><td>16.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>5.0%</td><td>5.1%</td></tr><tr><td>Belgium</td><td>13.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>4.0%</td><td>4.8%</td></tr></tbody></table>",
+        "question": "4. The absolute amount (in €) by which expenditure on 'Housing, Water, Electricity, and Fuels' exceeds that on 'Food and Non-Alcoholic Beverages' is the same for Estonia and Ireland. What is the approximate ratio of Estonia's total annual household expenditure to Ireland's?",
+        "options": ["1 : 7","16 : 9","1 : 5","7 : 1"],
+        "answer": 0,
+        "explanation": "Let E = Estonia's total expenditure, I = Ireland's. Estonia: (16% − 9%) × E = 0.07E. Ireland: (11% − 10%) × I = 0.01I. Setting equal: 0.07E = 0.01I → E/I = 1/7. Answer: A) 1 : 7."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δαπάνες νοικοκυριών ανά κατηγορία σε επιλεγμένες χώρες ΕΕ (% του συνόλου). Σημ.: Η στέγαση περιλαμβάνει νερό, ηλεκτρισμό και καύσιμα.</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Στέγαση, Νερό, Ηλεκτρισμός, Καύσιμα</th><th>Τρόφιμα &amp; Μη Αλκοολούχα Ποτά</th><th>Μεταφορές</th><th>Αναψυχή &amp; Πολιτισμός</th><th>Εστιατόρια &amp; Ξενοδοχεία</th><th>Λοιπά Αγαθά</th></tr></thead><tbody><tr><td>Τσεχία</td><td>15,0%</td><td>8,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>4,5%</td></tr><tr><td>Δανία</td><td>12,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Γαλλία</td><td>14,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Ιρλανδία</td><td>11,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>5,0%</td><td>5,0%</td></tr><tr><td>Εσθονία</td><td>16,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>5,0%</td><td>5,1%</td></tr><tr><td>Βέλγιο</td><td>13,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>4,0%</td><td>4,8%</td></tr></tbody></table>",
+        "question": "4. Το απόλυτο ποσό (σε €) κατά το οποίο η δαπάνη για «Στέγαση, Νερό, Ηλεκτρισμό και Καύσιμα» υπερβαίνει εκείνη για «Τρόφιμα και Μη Αλκοολούχα Ποτά» είναι ίδιο για Εσθονία και Ιρλανδία. Ποια είναι η κατά προσέγγιση αναλογία των συνολικών ετήσιων δαπανών των νοικοκυριών της Εσθονίας προς αυτά της Ιρλανδία;",
+        "options": ["1 : 7","16 : 9","1 : 5","7 : 1"],
+        "answer": 0,
+        "explanation": "Έστω Ε = σύνολο δαπανών Εσθονίας, Ι = Ιρλανδίας. Εσθονία: (16% − 9%) × Ε = 0,07Ε. Ιρλανδία: (11% − 10%) × Ι = 0,01Ι. Εξισώνοντας: 0,07Ε = 0,01Ι → Ε/Ι = 1/7. Απάντηση: Α) 1 : 7."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EUR exchange rates against foreign currencies (1 EUR = X units of foreign currency)</caption><thead><tr style='background:#e8f0fe;'><th>Currency</th><th>Code</th><th>Rate 1 Jan 2021</th><th>Rate 31 Dec 2025</th></tr></thead><tbody><tr><td>US Dollar</td><td>USD</td><td>1.2271</td><td>1.1750</td></tr><tr><td>British Pound</td><td>GBP</td><td>0.89903</td><td>0.87260</td></tr><tr><td>Swiss Franc</td><td>CHF</td><td>1.0802</td><td>0.9314</td></tr><tr><td>Japanese Yen</td><td>JPY</td><td>130.38</td><td>184.09</td></tr><tr><td>Danish Krone</td><td>DKK</td><td>7.4364</td><td>7.4689</td></tr></tbody></table>",
+        "question": "5. An investor on 1 January 2021 purchased one of the five foreign currencies with euros, intending to convert back to euros on 31 December 2025. Which currency would have produced the highest return?",
+        "options": ["US Dollar (USD)","British Pound (GBP)","Swiss Franc (CHF)","Japanese Yen (JPY)"],
+        "answer": 2,
+        "explanation": "A falling EUR/X rate means the foreign currency strengthened (appreciation = profit for the investor). Changes in EUR rate: USD: (1.1750−1.2271)/1.2271 ≈ −4.25% → USD strengthened. GBP: (0.87260−0.89903)/0.89903 ≈ −2.94% → GBP strengthened. CHF: (0.9314−1.0802)/1.0802 ≈ −13.77% → CHF strengthened most. JPY: (184.09−130.38)/130.38 ≈ +41.2% → JPY weakened sharply (loss). Best return: Swiss Franc. Answer: C) CHF."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ισοτιμίες ευρώ έναντι ξένων νομισμάτων (1 EUR = X μονάδες ξένου νομίσματος)</caption><thead><tr style='background:#e8f0fe;'><th>Νόμισμα</th><th>Κωδικός</th><th>Ισοτιμία 1 Ιαν 2021</th><th>Ισοτιμία 31 Δεκ 2025</th></tr></thead><tbody><tr><td>Δολάριο ΗΠΑ</td><td>USD</td><td>1,2271</td><td>1,1750</td></tr><tr><td>Λίρα Αγγλίας</td><td>GBP</td><td>0,89903</td><td>0,87260</td></tr><tr><td>Φράγκο Ελβετίας</td><td>CHF</td><td>1,0802</td><td>0,9314</td></tr><tr><td>Γιεν Ιαπωνίας</td><td>JPY</td><td>130,38</td><td>184,09</td></tr><tr><td>Κορόνα Δανίας</td><td>DKK</td><td>7,4364</td><td>7,4689</td></tr></tbody></table>",
+        "question": "5. Επενδυτής αγόρασε ξένο νόμισμα με ευρώ την 1/1/2021 και το μετέτρεψε ξανά σε ευρώ στις 31/12/2025. Σε ποιο νόμισμα η επένδυση αυτή θα απέφερε τη μεγαλύτερη απόδοση;",
+        "options": ["Δολάριο ΗΠΑ (USD)","Λίρα Αγγλίας (GBP)","Φράγκο Ελβετίας (CHF)","Γιεν Ιαπωνίας (JPY)"],
+        "answer": 2,
+        "explanation": "Πτώση της ισοτιμίας EUR/X σημαίνει ισχυροποίηση του ξένου νομίσματος (κέρδος για τον επενδυτή). Μεταβολές: USD: −4,25% | GBP: −2,94% | CHF: −13,77% (μεγαλύτερη ισχυροποίηση) | JPY: +41,2% (αποδυνάμωση — ζημιά). Μεγαλύτερη απόδοση: Ελβετικό Φράγκο. Απάντηση: Γ) CHF."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ministry Budgets (before reallocation)</caption><thead><tr style='background:#e8f0fe;'><th>Ministry</th><th>Budget (€ million)</th></tr></thead><tbody><tr><td>Ministry A</td><td>150</td></tr><tr><td>Ministry B</td><td>100</td></tr><tr><td>Ministry C</td><td>80</td></tr><tr><td>Total</td><td>330</td></tr></tbody></table>",
+        "question": "6. If €30 million is reallocated from Ministry A to Ministry B, what will be Ministry B's new budget as a percentage of the combined budgets of Ministries A, B, and C after the reallocation?",
+        "options": ["33.33%","39.39%","42.42%","43.75%"],
+        "answer": 1,
+        "explanation": "After reallocation: A = 150−30 = €120M, B = 100+30 = €130M, C = €80M. Combined total = 330M (unchanged — purely internal transfer). Ministry B share: 130/330 × 100 ≈ 39.39%. Answer: B) 39.39%."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Προϋπολογισμοί Υπουργείων (πριν την αναδιανομή)</caption><thead><tr style='background:#e8f0fe;'><th>Υπουργείο</th><th>Προϋπολογισμός (εκατ. €)</th></tr></thead><tbody><tr><td>Υπουργείο Α</td><td>150</td></tr><tr><td>Υπουργείο Β</td><td>100</td></tr><tr><td>Υπουργείο Γ</td><td>80</td></tr><tr><td>Σύνολο</td><td>330</td></tr></tbody></table>",
+        "question": "6. Αν 30 εκατ. € ανακατανεμηθούν από το Υπουργείο Α στο Υπουργείο Β, ποιο θα είναι το νέο μερίδιο του Υπουργείου Β ως ποσοστό των συνδυασμένων προϋπολογισμών Α, Β και Γ μετά την ανακατανομή;",
+        "options": ["33,33%","39,39%","42,42%","43,75%"],
+        "answer": 1,
+        "explanation": "Μετά την ανακατανομή: Α = 120 εκατ. €, Β = 130 εκατ. €, Γ = 80 εκατ. €. Σύνολο: 330 εκατ. € (αμετάβλητο — εσωτερική μεταφορά). Μερίδιο Β: 130/330 × 100 ≈ 39,39%. Απάντηση: Β) 39,39%."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Trade Statistics: Industrial vs Agricultural Products 2020–2024 (Values in Billion €)</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Product Category</th><th>EU Imports (€bn)</th><th>EU Exports (€bn)</th></tr></thead><tbody><tr><td>2020</td><td>Industrial</td><td>1,450</td><td>1,720</td></tr><tr><td></td><td>Agricultural</td><td>155</td><td>182</td></tr><tr><td>2021</td><td>Industrial</td><td>1,620</td><td>1,890</td></tr><tr><td></td><td>Agricultural</td><td>162</td><td>194</td></tr><tr><td>2022</td><td>Industrial</td><td>1,840</td><td>2,050</td></tr><tr><td></td><td>Agricultural</td><td>178</td><td>215</td></tr><tr><td>2023</td><td>Industrial</td><td>1,790</td><td>2,110</td></tr><tr><td></td><td>Agricultural</td><td>185</td><td>224</td></tr><tr><td>2024</td><td>Industrial</td><td>1,810</td><td>2,180</td></tr><tr><td></td><td>Agricultural</td><td>192</td><td>238</td></tr></tbody></table>",
+        "question": "7. Based on the 2020–2024 data, in which product category and in which transition between consecutive 3-year rolling averages was the largest absolute change in trade surplus recorded?",
+        "options": ["Industrial: Transition from (2021–2023) to (2022–2024)","Industrial: Transition from (2020–2022) to (2021–2023)","Agricultural: Transition from (2021–2023) to (2022–2024)","Agricultural: Transition from (2020–2022) to (2021–2023)"],
+        "answer": 0,
+        "explanation": "Annual surpluses — Industrial: 270 (2020), 270 (2021), 210 (2022), 320 (2023), 370 (2024). Agricultural: 27, 32, 37, 39, 46. Industrial 3-year rolling averages: 2020–2022: 250 | 2021–2023: 266.7 | 2022–2024: 300. Changes: +16.7 and +33.3. Agricultural averages: 32 | 36 | 40.7. Changes: +4.0 and +4.7. Largest change: Industrial, (2021–2023)→(2022–2024) = 33.3 billion €. Answer: A)."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Trade Statistics: Industrial vs Agricultural Products 2020–2024 (Values in Billion €)</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Product Category</th><th>EU Imports (€bn)</th><th>EU Exports (€bn)</th></tr></thead><tbody><tr><td>2020</td><td>Industrial</td><td>1,450</td><td>1,720</td></tr><tr><td></td><td>Agricultural</td><td>155</td><td>182</td></tr><tr><td>2021</td><td>Industrial</td><td>1,620</td><td>1,890</td></tr><tr><td></td><td>Agricultural</td><td>162</td><td>194</td></tr><tr><td>2022</td><td>Industrial</td><td>1,840</td><td>2,050</td></tr><tr><td></td><td>Agricultural</td><td>178</td><td>215</td></tr><tr><td>2023</td><td>Industrial</td><td>1,790</td><td>2,110</td></tr><tr><td></td><td>Agricultural</td><td>185</td><td>224</td></tr><tr><td>2024</td><td>Industrial</td><td>1,810</td><td>2,180</td></tr><tr><td></td><td>Agricultural</td><td>192</td><td>238</td></tr></tbody></table>",
+        "question": "7. Με βάση τα δεδομένα 2020–2024, σε ποια κατηγορία προϊόντων και σε ποια μετάβαση μεταξύ διαδοχικών τριετιών καταγράφηκε η μεγαλύτερη απόλυτη μεταβολή του κινητού μέσου όρου του εμπορικού πλεονάσματος;",
+        "options": ["Βιομηχανικά: Μετάβαση από (2021–2023) σε (2022–2024)","Βιομηχανικά: Μετάβαση από (2020–2022) σε (2021–2023)","Αγροτικά: Μετάβαση από (2021–2023) σε (2022–2024)","Αγροτικά: Μετάβαση από (2020–2022) σε (2021–2023)"],
+        "answer": 0,
+        "explanation": "Ετήσια πλεονάσματα — Βιομηχανικά: 270 (2020), 270 (2021), 210 (2022), 320 (2023), 370 (2024). Αγροτικά: 27, 32, 37, 39, 46. Κινητοί μέσοι (Βιομηχ.): 2020–22: 250 | 2021–23: 266,7 | 2022–24: 300. Μεταβολές: +16,7 και +33,3. Αγροτικά: 32 | 36 | 40,7. Μεταβολές: +4,0 και +4,7. Μεγαλύτερη: Βιομηχανικά, (2021–23)→(2022–24) = 33,3 δισ. €. Απάντηση: Α)."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Data: Electricity Cost &amp; Price</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Production Cost (€/kWh)</th><th>Sale Price (€/kWh)</th><th>Avg Monthly Consumption (kWh)</th></tr></thead><tbody><tr><td>Greece</td><td>0.14</td><td>0.20</td><td>400</td></tr><tr><td>Germany</td><td>0.18</td><td>0.28</td><td>350</td></tr><tr><td>France</td><td>0.12</td><td>0.22</td><td>300</td></tr><tr><td>Spain</td><td>0.15</td><td>0.24</td><td>320</td></tr><tr><td>Poland</td><td>0.10</td><td>0.18</td><td>380</td></tr></tbody></table>",
+        "question": "8. In Spain, the average household pays €120/month for electricity, of which €50 are fixed charges. If the electricity sale price increases by 8%, by how much (in €) will the monthly bill increase?",
+        "options": ["4.7","5.6","7.2","8.0"],
+        "answer": 1,
+        "explanation": "Total monthly bill: €120. Fixed charges: €50 (not affected by price change). Variable (consumption) part: €120 − €50 = €70. The 8% increase applies only to the variable part: €70 × 1.08 = €75.6. New bill: €50 + €75.6 = €125.6. Increase: €125.6 − €120 = €5.6. Answer: B) €5.6."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δεδομένα: Κόστος &amp; Τιμή Ηλεκτρικής Ενέργειας</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Κόστος παραγωγής (€/kWh)</th><th>Τιμή πώλησης (€/kWh)</th><th>Μέση μηνιαία κατανάλωση (kWh)</th></tr></thead><tbody><tr><td>Ελλάδα</td><td>0.14</td><td>0.20</td><td>400</td></tr><tr><td>Γερμανία</td><td>0.18</td><td>0.28</td><td>350</td></tr><tr><td>Γαλλία</td><td>0.12</td><td>0.22</td><td>300</td></tr><tr><td>Ισπανία</td><td>0.15</td><td>0.24</td><td>320</td></tr><tr><td>Πολωνία</td><td>0.10</td><td>0.18</td><td>380</td></tr></tbody></table>",
+        "question": "8. Στην Ισπανία, το μέσο νοικοκυριό πληρώνει 120 €/μήνα για ηλεκτρικό ρεύμα, εκ των οποίων 50 € είναι πάγιες χρεώσεις. Αν η τιμή πώλησης αυξηθεί κατά 8%, κατά πόσα ευρώ θα αυξηθεί ο μηνιαίος λογαριασμός;",
+        "options": ["4,7","5,6","7,2","8,0"],
+        "answer": 1,
+        "explanation": "Συνολικός λογαριασμός: 120 €. Πάγια: 50 € (δεν αλλάζουν). Μεταβλητό μέρος: 70 €. Αύξηση 8% στο μεταβλητό: 70 × 1,08 = 75,6 €. Νέος λογαριασμός: 50 + 75,6 = 125,6 €. Αύξηση: 5,6 €. Απάντηση: Β) 5,6 €."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Sales by Product and Region</caption><thead><tr style='background:#e8f0fe;'><th>Product / Region</th><th>North</th><th>East</th><th>West</th><th>South</th><th>Row Total</th></tr></thead><tbody><tr><td>Product A</td><td>45</td><td>30</td><td>55</td><td>20</td><td>150</td></tr><tr><td>Product B</td><td>60</td><td>25</td><td>15</td><td>100</td><td>200</td></tr><tr><td>Product C</td><td>35</td><td>40</td><td>50</td><td>25</td><td>150</td></tr><tr><td>Column Total</td><td>140</td><td>95</td><td>120</td><td>145</td><td>500</td></tr></tbody></table>",
+        "question": "9. By how much must the sales of Product B in the South region (currently 100 units) be increased so that, after the increase, they represent 40% of the new row total for Product B?",
+        "options": ["25.00 units","33.33 units","40.00 units","50.00 units"],
+        "answer": 1,
+        "explanation": "Let x = the required increase. New South = 100+x. Other regions fixed at 200. New total = 300+x. (100+x)/(300+x) = 0.40 → 0.6x = 20 → x = 33.33. Verify: 133.33/333.33 = 40% ✔. Answer: B) 33.33 units."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πωλήσεις ανά Προϊόν και Περιοχή</caption><thead><tr style='background:#e8f0fe;'><th>Προϊόν / Περιοχή</th><th>Βορράς</th><th>Ανατολή</th><th>Δύση</th><th>Νότος</th><th>Σύνολο Γραμμής</th></tr></thead><tbody><tr><td>Προϊόν Α</td><td>45</td><td>30</td><td>55</td><td>20</td><td>150</td></tr><tr><td>Προϊόν Β</td><td>60</td><td>25</td><td>15</td><td>100</td><td>200</td></tr><tr><td>Προϊόν Γ</td><td>35</td><td>40</td><td>50</td><td>25</td><td>150</td></tr><tr><td>Σύνολο Στήλης</td><td>140</td><td>95</td><td>120</td><td>145</td><td>500</td></tr></tbody></table>",
+        "question": "9. Κατά πόσες μονάδες πρέπει να αυξηθούν οι πωλήσεις Προϊόντος Β στην περιοχή Νότου (τρέχουσα τιμή: 100 μονάδες), ώστε μετά την αύξηση να αντιπροσωπεύουν το 40% του νέου συνόλου της γραμμής Προϊόντος Β;",
+        "options": ["25,00 μονάδες","33,33 μονάδες","40,00 μονάδες","50,00 μονάδες"],
+        "answer": 1,
+        "explanation": "Έστω x = η αύξηση. Νέος Νότος = 100+x. Υπόλοιπες περιοχές σταθερές = 200. Νέο σύνολο = 300+x. (100+x)/(300+x) = 0,40 → 0,6x = 20 → x = 33,33. Επαλήθευση: 133,33/333,33 = 40% ✔. Απάντηση: Β) 33,33 μονάδες."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Annual Household Expenditure by Category — Selected EU Countries. Note: Mean consumption per individual = total annual expenditure per capita (all categories).</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Housing</th><th>Food</th><th>Transport</th><th>Recreation &amp; Culture</th><th>Mean consumption per individual (€)</th><th>Population (millions)</th></tr></thead><tbody><tr><td>Czechia</td><td>15.0%</td><td>8.0%</td><td>5.0%</td><td>5.0%</td><td>8,200</td><td>10.7</td></tr><tr><td>Denmark</td><td>12.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>22,500</td><td>5.9</td></tr><tr><td>France</td><td>14.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>18,300</td><td>68.0</td></tr><tr><td>Ireland</td><td>11.0%</td><td>10.0%</td><td>6.0%</td><td>6.0%</td><td>21,200</td><td>5.2</td></tr><tr><td>Estonia</td><td>16.0%</td><td>9.0%</td><td>5.0%</td><td>5.0%</td><td>10,500</td><td>1.4</td></tr></tbody></table>",
+        "question": "10. Calculate the difference in millions of euros between the total national expenditure on Recreation & Culture in France and the total national expenditure on Transport in Estonia. Select the closest answer.",
+        "options": ["71,500 million €","79,800 million €","82,000 million €","61,500 million €"],
+        "answer": 3,
+        "explanation": "France total expenditure: €18,300 × 68,000,000 = €1,244,400,000,000. France Recreation & Culture (5.0%): €62,220,000,000 = €62,220M. Estonia total expenditure: €10,500 × 1,400,000 = €14,700,000,000. Estonia Transport (5.0%): €735,000,000 = €735M. Difference: €62,220M − €735M = €61,485M ≈ €61,500M. Answer: D) 61,500 million €."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ετήσιες δαπάνες νοικοκυριών ανά κατηγορία — Επιλεγμένες χώρες ΕΕ. Σημ.: Μέση κατανάλωση ανά άτομο = σύνολο ετήσιων δαπανών κατά κεφαλήν (όλες οι κατηγορίες).</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Στέγαση</th><th>Τρόφιμα</th><th>Μεταφορές</th><th>Αναψυχή και Πολιτισμός</th><th>Μέση κατανάλωση ανά άτομο (€)</th><th>Πληθυσμός (εκατ.)</th></tr></thead><tbody><tr><td>Τσεχία</td><td>15,0%</td><td>8,0%</td><td>5,0%</td><td>5,0%</td><td>8.200</td><td>10,7</td></tr><tr><td>Δανία</td><td>12,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>22.500</td><td>5,9</td></tr><tr><td>Γαλλία</td><td>14,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>18.300</td><td>68,0</td></tr><tr><td>Ιρλανδία</td><td>11,0%</td><td>10,0%</td><td>6,0%</td><td>6,0%</td><td>21.200</td><td>5,2</td></tr><tr><td>Εσθονία</td><td>16,0%</td><td>9,0%</td><td>5,0%</td><td>5,0%</td><td>10.500</td><td>1,4</td></tr></tbody></table>",
+        "question": "10. Υπολογίστε τη διαφορά σε εκατομμύρια ευρώ μεταξύ της συνολικής εθνικής δαπάνης για Αναψυχή &amp; Πολιτισμό στη Γαλλία και της συνολικής εθνικής δαπάνης για Μεταφορές στην Εσθονία.",
+        "options": ["71.500 εκατ. €","79.800 εκατ. €","82.000 εκατ. €","61.500 εκατ. €"],
+        "answer": 3,
+        "explanation": "Συνολική δαπάνη Γαλλίας: 18.300 × 68.000.000 = 1.244.400.000.000 €. Αναψυχή &amp; Πολιτισμός (5,0%): 62.220.000.000 € = 62.220 εκατ. €. Συνολική δαπάνη Εσθονίας: 10.500 × 1.400.000 = 14.700.000.000 €. Μεταφορές (5,0%): 735.000.000 € = 735 εκατ. €. Διαφορά: 62.220 − 735 = 61.485 εκατ. € ≈ 61.500 εκατ. €. Απάντηση: Δ) 61.500 εκατ. €."
+         }
+      }
+   ],
+   "numerical_3":[   
+   ],
+   "numerical_4":[  
+   ]
 }
