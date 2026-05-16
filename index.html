@@ -34,6 +34,16 @@
         #login-screen { position: fixed; inset: 0; background: var(--eu-blue); display: flex; align-items: center; justify-content: center; z-index: 20000; }
         .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; }
         .hint-divider { border: none; border-top: 1px solid #eee; margin: 8px 0; }
+
+        /* ── Exam review table ── */
+        .review-table { width: 100%; border-collapse: collapse; margin-top: 25px; font-size: 0.95em; text-align: left; }
+        .review-table th { background: var(--eu-blue); color: white; padding: 10px 14px; }
+        .review-table td { padding: 10px 14px; border-bottom: 1px solid #e8edf5; vertical-align: top; }
+        .review-table tr.row-correct { background: #e6ffed; }
+        .review-table tr.row-wrong   { background: #fff5f5; }
+        .review-table .badge-correct { color: #155724; font-weight: bold; }
+        .review-table .badge-wrong   { color: #721c24; font-weight: bold; }
+        .exp-cell { font-size: 0.88em; color: #444; line-height: 1.5; }
     </style>
 </head>
 <body>
@@ -43,7 +53,6 @@
 <div id="login-screen">
     <div class="login-box">
         <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 15px;">EUROPEAN PORTAL</div>
-        <!-- Both hints always visible — Greek on top, English below -->
         <p id="hint-el" style="font-size: 0.9em; color: #444; margin: 0 0 6px 0;"></p>
         <hr class="hint-divider">
         <p id="hint-en" style="font-size: 0.9em; color: #888; font-style: italic; margin: 6px 0 18px 0;"></p>
@@ -87,10 +96,14 @@
         </div>
     </div>
 
-    <div id="result-view" class="view" style="text-align:center;">
-        <h2 id="txt-result-title" style="border:none;">Results</h2>
-        <div id="final-score" style="font-size:5em; color:var(--eu-blue); font-weight:bold; margin:20px 0;"></div>
-        <button onclick="backToMenu()" class="btn btn-primary" id="btn-res-back">Home</button>
+    <div id="result-view" class="view">
+        <h2 id="txt-result-title" style="border:none; text-align:center;">Results</h2>
+        <div id="final-score" style="font-size:5em; color:var(--eu-blue); font-weight:bold; margin:20px 0; text-align:center;"></div>
+        <div style="text-align:center; margin-bottom:30px;">
+            <button onclick="backToMenu()" class="btn btn-primary" id="btn-res-back">Home</button>
+        </div>
+        <!-- ── per-question review (exam mode only) ── -->
+        <div id="exam-review-container"></div>
     </div>
 </div>
 
@@ -98,10 +111,10 @@
     // ============================================================
     // PASSWORD SETTINGS — only change these 4 lines!
     // ============================================================
-    var correctPass    = "athens"; // the keyword students must type
-    var pageNumber     = 159;         // the page number in the hint
-    var wordPositionEN = "last";     // English: "first", "last", "second"
-    var wordPositionEL = "τελευταία";     // Greek:   "πρώτη", "τελευταία", "δεύτερη"
+    var correctPass    = "athens";
+    var pageNumber     = 159;
+    var wordPositionEN = "last";
+    var wordPositionEL = "τελευταία";
     // ============================================================
 
     var currentLang = 'el';
@@ -116,29 +129,56 @@
     var dbLoaded = false;
     var userUnlocked = false;
 
-async function loadDatabase() {
-    document.getElementById('login-status').innerText = '⏳ Loading...';
-    try {
-        var files = [
-            "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-verbal.json",
-            "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-numerical.json",
-            "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-abstract.json",
-            "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-eu-knowledge.json",
-            "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-digital-skills.json"
-        ];
-        var results = await Promise.all(files.map(f => fetch(f).then(r => r.json())));
-        results.forEach(function(data) {
-            Object.assign(DATABASE, data);
+    // ─────────────────────────────────────────────────────────────
+    // FIX 1: Normalise answer values to 0-based index.
+    // Some JSON entries store answer as 1-based (e.g. 5 meaning
+    // the 5th option). We detect and convert on load.
+    // ─────────────────────────────────────────────────────────────
+    function normaliseAnswers(db) {
+        Object.values(db).forEach(function(arr) {
+            if (!Array.isArray(arr)) return;
+            arr.forEach(function(qObj) {
+                ['en', 'el'].forEach(function(lang) {
+                    if (!qObj[lang]) return;
+                    var q = qObj[lang];
+                    // If answer >= options.length it must be 1-based — convert.
+                    if (q.answer !== undefined && q.options && q.answer >= q.options.length) {
+                        q.answer = q.answer - 1;
+                    }
+                });
+            });
         });
-        dbLoaded = true;
-        document.getElementById('login-status').innerText = '';
-        if (userUnlocked) enterPortal();
-    } catch(e) {
-        document.getElementById('login-status').innerText = 'Could not load. Please refresh.';
-        document.getElementById('login-status').style.color = 'red';
-        console.error("DB load error:", e);
     }
-}
+
+    async function loadDatabase() {
+        document.getElementById('login-status').innerText = '⏳ Loading...';
+        try {
+            // Cache-busting: append current date (YYYYMMDD) so jsDelivr
+            // serves a fresh copy each day, and immediately after a purge.
+            var cb = '?v=' + new Date().toISOString().slice(0, 10).replace(/-/g, '');
+            var base = "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/";
+            var files = [
+                base + "epso-verbal.json" + cb,
+                base + "epso-numerical.json" + cb,
+                base + "epso-abstract.json" + cb,
+                base + "epso-eu-knowledge.json" + cb,
+                base + "epso-digital-skills.json" + cb
+            ];
+            var results = await Promise.all(files.map(function(f) {
+                return fetch(f).then(function(r) { return r.json(); });
+            }));
+            results.forEach(function(data) { Object.assign(DATABASE, data); });
+            normaliseAnswers(DATABASE); // ← FIX 1 applied here
+            dbLoaded = true;
+            document.getElementById('login-status').innerText = '';
+            if (userUnlocked) enterPortal();
+        } catch(e) {
+            document.getElementById('login-status').innerText = 'Could not load. Please refresh.';
+            document.getElementById('login-status').style.color = 'red';
+            console.error("DB load error:", e);
+        }
+    }
+
     function setLoginHints() {
         document.getElementById('hint-el').innerHTML =
             'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
@@ -149,12 +189,8 @@ async function loadDatabase() {
     function unlock() {
         var userInput = document.getElementById('pass-input').value.trim().toLowerCase();
         if (userInput === correctPass) {
-            if (dbLoaded) {
-                enterPortal();
-            } else {
-                userUnlocked = true;
-                document.getElementById('login-status').innerText = 'Please wait...';
-            }
+            if (dbLoaded) { enterPortal(); }
+            else { userUnlocked = true; document.getElementById('login-status').innerText = 'Please wait...'; }
         } else {
             alert('Λάθος λέξη-κλειδί! / Wrong keyword!\nCheck page ' + pageNumber + '.');
         }
@@ -190,11 +226,11 @@ async function loadDatabase() {
     function renderMenu() {
         var grid = document.getElementById('all-packs');
         var sections = [
-{ title: 'Verbal Reasoning',    keys: ['verbal_1','verbal_2','verbal_3','verbal_4'] },
-{ title: 'Numerical Reasoning', keys: ['num_1','num_2','num_3','num_4'] },
-{ title: 'Abstract Reasoning',  keys: ['abstract_1','abstract_2','abstract_3','abstract_4'] },
-{ title: 'EU Knowledge',        keys: ['eu_1','eu_2','eu_3','eu_4'] },
-{ title: 'Digital Skills',      keys: ['ds_1','ds_2','ds_3','ds_4'] }
+            { title: 'Verbal Reasoning',    keys: ['verbal_1','verbal_2','verbal_3','verbal_4'] },
+            { title: 'Numerical Reasoning', keys: ['num_1','num_2','num_3','num_4'] },
+            { title: 'Abstract Reasoning',  keys: ['abstract_1','abstract_2','abstract_3','abstract_4'] },
+            { title: 'EU Knowledge',        keys: ['eu_1','eu_2','eu_3','eu_4'] },
+            { title: 'Digital Skills',      keys: ['ds_1','ds_2','ds_3','ds_4'] }
         ];
         grid.innerHTML = sections.map(function(s) {
             return '<div class="section-container">'
@@ -213,14 +249,8 @@ async function loadDatabase() {
         }).join('');
     }
 
-    function openModal(key) {
-        selectedTestKey = key;
-        document.getElementById('mode-modal').style.display = 'flex';
-    }
-
-    function closeModal() {
-        document.getElementById('mode-modal').style.display = 'none';
-    }
+    function openModal(key) { selectedTestKey = key; document.getElementById('mode-modal').style.display = 'flex'; }
+    function closeModal()   { document.getElementById('mode-modal').style.display = 'none'; }
 
     function startQuiz(mode) {
         currentMode = mode;
@@ -230,6 +260,7 @@ async function loadDatabase() {
         userAnswers = {};
         closeModal();
         document.getElementById('menu-view').style.display = 'none';
+        document.getElementById('result-view').style.display = 'none';
         document.getElementById('quiz-view').style.display = 'block';
         if (currentMode === 'exam') startTimer();
         showQuestion();
@@ -239,16 +270,16 @@ async function loadDatabase() {
         try {
             var qData = activeQuestions[currentIndex][currentLang];
             var expLabel = currentLang === 'el' ? 'Επεξήγηση' : 'Explanation';
-            var passageBox = document.getElementById('passage-container');
+            var passageBox  = document.getElementById('passage-container');
             var questionText = document.getElementById('question-text');
             var progressInfo = document.getElementById('progress-info');
-            var optCont = document.getElementById('options-container');
-            var expArea = document.getElementById('explanation-area');
+            var optCont  = document.getElementById('options-container');
+            var expArea  = document.getElementById('explanation-area');
 
-if (qData.image && qData.image.trim() !== '') {
+            if (qData.image && qData.image.trim() !== '') {
                 var imgs = '<img src="' + qData.image + '" crossorigin="anonymous" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
-if (qData.optionsImage && qData.optionsImage.trim() !== '') {
-    imgs += '<img src="' + qData.optionsImage + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
+                if (qData.optionsImage && qData.optionsImage.trim() !== '') {
+                    imgs += '<img src="' + qData.optionsImage + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
                 }
                 passageBox.innerHTML = imgs;
                 passageBox.style.display = 'block';
@@ -258,6 +289,7 @@ if (qData.optionsImage && qData.optionsImage.trim() !== '') {
             } else {
                 passageBox.style.display = 'none';
             }
+
             if (progressInfo) progressInfo.innerText = (currentIndex + 1) + ' / ' + activeQuestions.length;
             if (questionText) questionText.innerText = qData.question;
 
@@ -269,16 +301,20 @@ if (qData.optionsImage && qData.optionsImage.trim() !== '') {
                     div.innerText = opt;
                     if (userAnswers[currentIndex] !== undefined) {
                         var isSelected = userAnswers[currentIndex] === idx;
-                        var isCorrect = idx === qData.answer;
+                        var isCorrect  = idx === qData.answer;
                         if (currentMode === 'exam') {
                             if (isSelected) div.classList.add('selected-exam');
                         } else {
+                            // practice: always green on correct, red on wrong selection
                             if (isCorrect) div.classList.add('correct');
                             else if (isSelected) div.classList.add('wrong');
                         }
                     }
                     div.onclick = function() {
-                        if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined) return;
+                        if (userAnswers[currentIndex] !== undefined) {
+                            // practice: locked after first answer; exam: allow changing
+                            if (currentMode === 'practice') return;
+                        }
                         userAnswers[currentIndex] = idx;
                         showQuestion();
                     };
@@ -312,39 +348,76 @@ if (qData.optionsImage && qData.optionsImage.trim() !== '') {
     }
 
     function startTimer() {
-    var totalSeconds = getTimerLimit();
-    seconds = totalSeconds;
-    var timerBox = document.getElementById('timer-box');
-    if (timerBox) timerBox.style.display = 'block';
-    timer = setInterval(function() {
-        seconds--;
-        var m = Math.floor(seconds / 60);
-        var s = seconds % 60;
-        if (timerBox) timerBox.innerText = m + ':' + (s < 10 ? '0' + s : s);
-        if (seconds <= 0) { clearInterval(timer); finishExam(); }
-    }, 1000);
-}
+        var totalSeconds = getTimerLimit();
+        seconds = totalSeconds;
+        var timerBox = document.getElementById('timer-box');
+        if (timerBox) timerBox.style.display = 'block';
+        timer = setInterval(function() {
+            seconds--;
+            var m = Math.floor(seconds / 60);
+            var s = seconds % 60;
+            if (timerBox) timerBox.innerText = m + ':' + (s < 10 ? '0' + s : s);
+            if (seconds <= 0) { clearInterval(timer); finishExam(); }
+        }, 1000);
+    }
 
-function getTimerLimit() {
-    if (selectedTestKey.startsWith('num'))      return 10 * 120;
-    if (selectedTestKey.startsWith('verbal'))   return 20 * 110;
-    if (selectedTestKey.startsWith('eu'))       return 30 * 80;
-    if (selectedTestKey.startsWith('ds'))       return 20 * 45;
-    if (selectedTestKey.startsWith('abstract')) return 10 * 60;
-    return 20 * 60;
-}
+    function getTimerLimit() {
+        if (selectedTestKey.startsWith('num'))      return 10 * 120;
+        if (selectedTestKey.startsWith('verbal'))   return 20 * 110;
+        if (selectedTestKey.startsWith('eu'))       return 30 * 80;
+        if (selectedTestKey.startsWith('ds'))       return 20 * 45;
+        if (selectedTestKey.startsWith('abstract')) return 10 * 60;
+        return 20 * 60;
+    }
 
+    // ─────────────────────────────────────────────────────────────
+    // FIX 2: finishExam — show score PLUS per-question review table
+    // ─────────────────────────────────────────────────────────────
     function finishExam() {
         clearInterval(timer);
         var timerBox = document.getElementById('timer-box');
         if (timerBox) timerBox.style.display = 'none';
+
         var score = 0;
         activeQuestions.forEach(function(q, i) {
             if (userAnswers[i] === q[currentLang].answer) score++;
         });
+
         document.getElementById('quiz-view').style.display = 'none';
         document.getElementById('result-view').style.display = 'block';
         document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
+
+        // Build the per-question review table
+        var isEl = currentLang === 'el';
+        var reviewHTML = '<table class="review-table"><thead><tr>'
+            + '<th>#</th>'
+            + '<th>' + (isEl ? 'Ερώτηση' : 'Question') + '</th>'
+            + '<th>' + (isEl ? 'Απάντησή σας' : 'Your Answer') + '</th>'
+            + '<th>' + (isEl ? 'Σωστή' : 'Correct') + '</th>'
+            + '<th>' + (isEl ? 'Επεξήγηση' : 'Explanation') + '</th>'
+            + '</tr></thead><tbody>';
+
+        activeQuestions.forEach(function(qObj, i) {
+            var q = qObj[currentLang];
+            var userIdx   = userAnswers[i];
+            var correctIdx = q.answer;
+            var isCorrect  = userIdx === correctIdx;
+            var rowClass   = isCorrect ? 'row-correct' : 'row-wrong';
+            var icon       = isCorrect ? '✅' : '❌';
+            var yourAnswer = userIdx !== undefined ? q.options[userIdx] : (isEl ? '—' : '—');
+            var correctAnswer = q.options[correctIdx] !== undefined ? q.options[correctIdx] : '?';
+
+            reviewHTML += '<tr class="' + rowClass + '">'
+                + '<td style="white-space:nowrap;">' + icon + ' ' + (i + 1) + '</td>'
+                + '<td>' + q.question + '</td>'
+                + '<td class="' + (isCorrect ? 'badge-correct' : 'badge-wrong') + '">' + yourAnswer + '</td>'
+                + '<td class="badge-correct">' + correctAnswer + '</td>'
+                + '<td class="exp-cell">' + (q.explanation || '—') + '</td>'
+                + '</tr>';
+        });
+
+        reviewHTML += '</tbody></table>';
+        document.getElementById('exam-review-container').innerHTML = reviewHTML;
     }
 
     function backToMenu() {
@@ -353,6 +426,7 @@ function getTimerLimit() {
         if (timerBox) timerBox.style.display = 'none';
         document.getElementById('quiz-view').style.display = 'none';
         document.getElementById('result-view').style.display = 'none';
+        document.getElementById('exam-review-container').innerHTML = '';
         document.getElementById('menu-view').style.display = 'block';
     }
 
