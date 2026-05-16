@@ -345,7 +345,7 @@
           "E"
         ],
         "answer": 5,
-        "explanation": "The three shapes in each frame align to form a line that shifts 45° counter-clockwise. In each subsequent frame, the preceding middle shape is replaced by a new icon at the edge. Therefore, the correct solution consists of three shapes in a horizontal row, where the 'knob' has been replaced by a new icon in the leftmost position."
+        "explanation": "E. The three shapes in each frame align to form a line that shifts 45° counter-clockwise. In each subsequent frame, the preceding middle shape is replaced by a new icon at the edge. Therefore, the correct solution consists of three shapes in a horizontal row, where the 'knob' has been replaced by a new icon in the leftmost position."
       },
       "el": {
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1777273814/AR2_2r_sr4k8l.png",
@@ -359,7 +359,7 @@
           "E"
         ],
         "answer": 5,
-        "explanation": "Τα 3 σχήματα σε κάθε πλαίσιο δημιουργούν μία νοητή ευθεία η οποία μετακινείται κατά 45ο αριστερόστροφα. Σε κάθε επόμενο πλαίσιο, το μεσαίο σχήμα του προηγούμενου πλαισίου αντικαθίσταται από ένα νέο εικονίδιο στην ακραία θέση. Βάσει αυτών των παρατηρήσεων η ορθή απάντηση θα έχει τα 3 σχήματα σε οριζόντια παράθεση και το ‘πόμολο’ θα έχει αντικατασταθεί από νέο εικονίδιο στην αριστερή θέση."
+        "explanation": "E. Τα 3 σχήματα σε κάθε πλαίσιο δημιουργούν μία νοητή ευθεία η οποία μετακινείται κατά 45ο αριστερόστροφα. Σε κάθε επόμενο πλαίσιο, το μεσαίο σχήμα του προηγούμενου πλαισίου αντικαθίσταται από ένα νέο εικονίδιο στην ακραία θέση. Βάσει αυτών των παρατηρήσεων η ορθή απάντηση θα έχει τα 3 σχήματα σε οριζόντια παράθεση και το ‘πόμολο’ θα έχει αντικατασταθεί από νέο εικονίδιο στην αριστερή θέση."
       }
     },
     {
