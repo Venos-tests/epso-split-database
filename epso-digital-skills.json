@@ -1,5 +1,5 @@
 {
-"ds_1": [
+  "ds_1": [
     {
       "en": {
         "passage": "",
@@ -525,7 +525,7 @@
     {
       "en": {
         "passage": "",
-        "question": "21. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
+        "question": "1. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
         "options": [
           "Click the link to ensure your account isn't locked",
           "Forward the email to your entire department to warn them",
@@ -537,7 +537,7 @@
       },
       "el": {
         "passage": "",
-        "question": "21. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
+        "question": "1. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
         "options": [
           "Πατάτε τον σύνδεσμο για να μην κλειδωθεί ο λογαριασμός σας",
           "Προωθείτε το email σε όλο το τμήμα για να τους προειδοποιήσετε",
@@ -551,7 +551,7 @@
     {
       "en": {
         "passage": "",
-        "question": "22. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
+        "question": "2. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
         "options": [
           "Using only high-resolution images without text",
           "Adding alternative text (Alt-text) to images and using clear heading structures",
@@ -563,7 +563,7 @@
       },
       "el": {
         "passage": "",
-        "question": "22. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
+        "question": "2. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
         "options": [
           "Χρήση μόνο εικόνων υψηλής ανάλυσης χωρίς κείμενο",
           "Προσθήκη εναλλακτικού κειμένου (Alt-text) στις εικόνες και χρήση σαφών επικεφαλίδων",
@@ -577,7 +577,7 @@
     {
       "en": {
         "passage": "",
-        "question": "23. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
+        "question": "3. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
         "options": [
           "Using the same password for all platforms to avoid forgetting",
           "Writing passwords in a notebook kept in the office desk",
@@ -589,7 +589,7 @@
       },
       "el": {
         "passage": "",
-        "question": "23. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
+        "question": "3. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
         "options": [
           "Χρήση του ίδιου κωδικού παντού για να μην τον ξεχνάτε",
           "Καταγραφή των κωδικών σε ένα σημειωματάριο στο γραφείο",
@@ -603,7 +603,7 @@
     {
       "en": {
         "passage": "",
-        "question": "24. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
+        "question": "4. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
         "options": [
           "Physical tripping hazards in the office",
           "Unauthorized access to sensitive information",
@@ -615,7 +615,7 @@
       },
       "el": {
         "passage": "",
-        "question": "24. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
+        "question": "4. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
         "options": [
           "Κίνδυνος πτώσης στο γραφείο",
           "Μη εξουσιοδοτημένη πρόσβαση σε ευαίσθητες πληροφορίες",
@@ -629,7 +629,7 @@
     {
       "en": {
         "passage": "",
-        "question": "25. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
+        "question": "5. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
         "options": [
           "A static PDF table",
           "A spreadsheet with raw data only",
@@ -641,7 +641,7 @@
       },
       "el": {
         "passage": "",
-        "question": "25. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
+        "question": "5. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
         "options": [
           "Ένας στατικός πίνακας PDF",
           "Ένα υπολογιστικό φύλλο μόνο με ακατέργαστα δεδομένα",
@@ -655,7 +655,7 @@
     {
       "en": {
         "passage": "",
-        "question": "26. What does the term 'Data Portability' under GDPR allow a citizen to do?",
+        "question": "6. What does the term 'Data Portability' under GDPR allow a citizen to do?",
         "options": [
           "To delete their data from all internet records permanently",
           "To receive their personal data in a structured format and transmit it to another controller",
@@ -667,7 +667,7 @@
       },
       "el": {
         "passage": "",
-        "question": "26. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
+        "question": "6. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
         "options": [
           "Να διαγράψει οριστικά τα δεδομένα του από το διαδίκτυο",
           "Να λάβει τα δεδομένα του σε δομημένο μορφότυπο και να τα διαβιβάσει σε άλλον υπεύθυνο",
@@ -681,7 +681,7 @@
     {
       "en": {
         "passage": "",
-        "question": "27. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
+        "question": "7. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
         "options": [
           "Re-type the paragraph from memory",
           "Use the 'Version History' feature to restore the specific previous state",
@@ -693,7 +693,7 @@
       },
       "el": {
         "passage": "",
-        "question": "27. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
+        "question": "7. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
         "options": [
           "Ξαναγράφετε την παράγραφο από μνήμης",
           "Χρησιμοποιείτε το 'Ιστορικό Εκδόσεων' για επαναφορά στην προηγούμενη κατάσταση",
@@ -707,7 +707,7 @@
     {
       "en": {
         "passage": "",
-        "question": "28. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
+        "question": "8. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
         "options": [
           "Responding to emails 24/7, including during leave",
           "Setting focus hours and using 'Do Not Disturb' modes to complete complex tasks",
@@ -719,7 +719,7 @@
       },
       "el": {
         "passage": "",
-        "question": "28. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
+        "question": "8. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
         "options": [
           "Απάντηση σε email 24/7, ακόμα και σε άδεια",
           "Ορισμός ωρών συγκέντρωσης και χρήση λειτουργίας 'Μην ενοχλείτε' για σύνθετες εργασίες",
@@ -733,7 +733,7 @@
     {
       "en": {
         "passage": "",
-        "question": "29. When searching for reliable sources for an official briefing, which search strategy is most effective?",
+        "question": "9. When searching for reliable sources for an official briefing, which search strategy is most effective?",
         "options": [
           "Using only the first result from a generic Google search",
           "Cross-referencing multiple academic/official databases and checking for peer review",
@@ -745,7 +745,7 @@
       },
       "el": {
         "passage": "",
-        "question": "29. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
+        "question": "9. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
         "options": [
           "Χρήση μόνο του πρώτου αποτελέσματος από μια απλή αναζήτηση στη Google",
           "Διασταύρωση πολλαπλών ακαδημαϊκών/επίσημων βάσεων δεδομένων",
@@ -759,7 +759,7 @@
     {
       "en": {
         "passage": "",
-        "question": "30. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
+        "question": "10. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
         "options": [
           "It makes the login process faster",
           "It adds an extra layer of security, making stolen passwords alone useless",
@@ -771,7 +771,7 @@
       },
       "el": {
         "passage": "",
-        "question": "30. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
+        "question": "10. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
         "options": [
           "Κάνει τη διαδικασία σύνδεσης ταχύτερη",
           "Προσθέτει ένα επιπλέον επίπεδο ασφάλειας, καθιστώντας άχρηστο έναν κλεμμένο κωδικό",
@@ -785,7 +785,7 @@
     {
       "en": {
         "passage": "",
-        "question": "31. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
+        "question": "11. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
         "options": [
           "Try to send 50 separate emails with attachments",
           "Use a secure EU-approved cloud file-sharing service with access controls",
@@ -797,7 +797,7 @@
       },
       "el": {
         "passage": "",
-        "question": "31. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
+        "question": "11. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
         "options": [
           "Αποστολή 50 ξεχωριστών email με συνημμένα",
           "Χρήση ασφαλούς και εγκεκριμένης υπηρεσίας cloud με ελέγχους πρόσβασης",
@@ -811,7 +811,7 @@
     {
       "en": {
         "passage": "",
-        "question": "32. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
+        "question": "12. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
         "options": [
           "Install it immediately to save time",
           "Download it but only use it for non-confidential files",
@@ -823,7 +823,7 @@
       },
       "el": {
         "passage": "",
-        "question": "32. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
+        "question": "12. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
         "options": [
           "Τον εγκαθιστάτε αμέσως για εξοικονόμηση χρόνου",
           "Τον κατεβάζετε αλλά τον χρησιμοποιείτε μόνο για μη εμπιστευτικά αρχεία",
@@ -837,7 +837,7 @@
     {
       "en": {
         "passage": "",
-        "question": "33. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
+        "question": "13. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
         "options": [
           "The right to stop paying for a digital service",
           "The right to have personal data erased under specific conditions, such as when it is no longer necessary",
@@ -849,7 +849,7 @@
       },
       "el": {
         "passage": "",
-        "question": "33. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
+        "question": "13. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
         "options": [
           "Το δικαίωμα να σταματήσετε να πληρώνετε για μια ψηφιακή υπηρεσία",
           "Το δικαίωμα διαγραφής προσωπικών δεδομένων υπό προϋποθέσεις, π.χ. όταν δεν είναι πλέον απαραίτητα",
@@ -863,7 +863,7 @@
     {
       "en": {
         "passage": "",
-        "question": "34. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
+        "question": "14. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
         "options": [
           "To calculate the financial cost of data storage",
           "To identify and minimize data protection risks for new projects with high-risk processing",
@@ -875,7 +875,7 @@
       },
       "el": {
         "passage": "",
-        "question": "34. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
+        "question": "14. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
         "options": [
           "Για τον υπολογισμό του οικονομικού κόστους αποθήκευσης",
           "Για τον εντοπισμό και την ελαχιστοποίηση κινδύνων σε νέα έργα υψηλής επικινδυνότητας",
@@ -889,7 +889,7 @@
     {
       "en": {
         "passage": "",
-        "question": "35. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
+        "question": "15. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
         "options": [
           "Using a Virtual Private Network (VPN)",
           "Turning up the brightness of your screen",
@@ -901,7 +901,7 @@
       },
       "el": {
         "passage": "",
-        "question": "35. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
+        "question": "15. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
         "options": [
           "Χρήση Εικονικού Ιδιωτικού Δικτύου (VPN)",
           "Αύξηση της φωτεινότητας της οθόνης",
@@ -915,7 +915,7 @@
     {
       "en": {
         "passage": "",
-        "question": "36. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
+        "question": "16. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
         "options": [
           "Ensuring the AI does the work while you focus on other tasks",
           "Reviewing, editing, and fact-checking every statement produced by the AI before use",
@@ -927,7 +927,7 @@
       },
       "el": {
         "passage": "",
-        "question": "36. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
+        "question": "16. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
         "options": [
           "Να αφήνετε την ΤΝ να κάνει τη δουλειά ενώ εσείς κάνετε κάτι άλλο",
           "Η αναθεώρηση, επεξεργασία και διασταύρωση κάθε δήλωσης της ΤΝ πριν τη χρήση",
@@ -941,7 +941,7 @@
     {
       "en": {
         "passage": "",
-        "question": "37. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
+        "question": "17. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
         "options": [
           "A handwritten note",
           "An audio recording of a meeting",
@@ -953,7 +953,7 @@
       },
       "el": {
         "passage": "",
-        "question": "37. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
+        "question": "17. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
         "options": [
           "Μια χειρόγραφη σημείωση",
           "Μια ηχογράφηση συνεδρίασης",
@@ -967,7 +967,7 @@
     {
       "en": {
         "passage": "",
-        "question": "38. What is the main purpose of the EU 'eIDAS' Regulation?",
+        "question": "18. What is the main purpose of the EU 'eIDAS' Regulation?",
         "options": [
           "To regulate the prices of electronic devices",
           "To provide a predictable legal framework for electronic identification and trust services",
@@ -979,7 +979,7 @@
       },
       "el": {
         "passage": "",
-        "question": "38. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
+        "question": "18. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
         "options": [
           "Η ρύθμιση των τιμών των ηλεκτρονικών συσκευών",
           "Η παροχή νομικού πλαισίου για την ηλεκτρονική ταυτοποίηση και τις υπηρεσίες εμπιστοσύνης",
@@ -993,7 +993,7 @@
     {
       "en": {
         "passage": "",
-        "question": "39. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
+        "question": "19. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
         "options": [
           "Send an invitation without an agenda to keep it flexible",
           "Record the meeting and use a collaborative whiteboard for live notes",
@@ -1005,7 +1005,7 @@
       },
       "el": {
         "passage": "",
-        "question": "39. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
+        "question": "19. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
         "options": [
           "Αποστολή πρόσκλησης χωρίς ημερήσια διάταξη για ευελιξία",
           "Ηχογράφηση της συνάντησης και χρήση συνεργατικού πίνακα (whiteboard) για σημειώσεις",
@@ -1019,7 +1019,7 @@
     {
       "en": {
         "passage": "",
-        "question": "40. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
+        "question": "20. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
         "options": [
           "Manually calculate every cell with a handheld calculator",
           "Using cell references and formulas instead of typing fixed numbers",
@@ -1031,7 +1031,7 @@
       },
       "el": {
         "passage": "",
-        "question": "40. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
+        "question": "20. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
         "options": [
           "Χειροκίνητος υπολογισμός κάθε κελιού με κομπιουτεράκι",
           "Χρήση αναφορών κελιών και τύπων αντί για πληκτρολόγηση σταθερών αριθμών",
@@ -1565,526 +1565,526 @@
       }
     }
   ],
-  "ds_4": [
+    "ds_4": [
     {
-      "en": {
-        "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
+    "en": {
+      "passage": "",
+      "question": "1. You lose your service tablet while traveling for a conference. What is your immediate action?",
+      "options": [
+        "Try to find it yourself for 24 hours to avoid the embarrassment of reporting it.",
+        "Buy a similar tablet and hope no one notices.",
+        "Wait until you return to the office to report it in person.",
+        "Report it immediately to the IT Security/Helpdesk to allow remote wiping of the device."
+      ],
+      "answer": 3,
+      "explanation": "Immediate reporting enables IT to trigger remote locking or wiping via Mobile Device Management (MDM), protecting institutional data. Delay — even a few hours — can result in unauthorized access or data breach. Personal embarrassment is never a valid reason to delay a security incident report. Source: EU Institutional Cybersecurity Policy / ENISA Good Practices."
     },
-    {
-      "en": {
-        "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    },
-    {
-      "en": {
-        "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      },
-      "el": {
-        "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
+    "el": {
+      "passage": "",
+      "question": "1. Χάνετε το υπηρεσιακό σας tablet ενώ ταξιδεύετε για συνέδριο. Ποια είναι η άμεση ενέργειά σας;",
+      "options": [
+        "Να το ψάξετε μόνοι σας για 24 ώρες για να αποφύγετε την αμηχανία της αναφοράς.",
+        "Να αγοράσετε ένα παρόμοιο tablet και να ελπίζετε ότι κανείς δεν θα το παρατηρήσει.",
+        "Να περιμένετε να επιστρέψετε στο γραφείο για να το αναφέρετε αυτοπροσώπως.",
+        "Να το αναφέρετε αμέσως στην Ασφάλεια ΤΠ/Helpdesk ώστε να επιτραπεί η απομακρυσμένη διαγραφή δεδομένων."
+      ],
+      "answer": 3,
+      "explanation": "Η άμεση αναφορά επιτρέπει στο τμήμα ΤΠ να ενεργοποιήσει απομακρυσμένο κλείδωμα ή διαγραφή μέσω Mobile Device Management (MDM), προστατεύοντας τα θεσμικά δεδομένα. Καθυστέρηση έστω και λίγων ωρών μπορεί να οδηγήσει σε μη εξουσιοδοτημένη πρόσβαση ή παραβίαση δεδομένων. Πηγή: Πολιτική Κυβερνοασφάλειας ΕΕ / ENISA."
     }
-  ]
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "2. In a hybrid meeting, remote participants are being ignored by those in the room. As the meeting leader, what do you do?",
+      "options": [
+        "Stop the meeting and ask everyone to come to the office.",
+        "Continue as usual and send the recording to the remote staff later.",
+        "Actively solicit input from remote participants first and ensure 'digital-first' inclusivity.",
+        "Tell the remote participants to speak up louder if they have something to say."
+      ],
+      "answer": 2,
+      "explanation": "Hybrid leadership requires intentional inclusivity to counteract 'presence bias' — the tendency to favor those physically in the room. A 'digital-first' approach ensures remote participants have equal voice and contribution opportunities. Sending recordings after the fact is passive and excludes real-time participation. Source: Digital Leadership Skills / DigComp 2.2."
+    },
+    "el": {
+      "passage": "",
+      "question": "2. Σε μια υβριδική συνάντηση, οι απομακρυσμένοι συμμετέχοντες αγνοούνται από όσους βρίσκονται στο δωμάτιο. Ως επικεφαλής της συνάντησης, τι κάνετε;",
+      "options": [
+        "Να διακόψετε τη συνάντηση και να ζητήσετε από όλους να έρθουν στο γραφείο.",
+        "Να συνεχίσετε κανονικά και να στείλετε την εγγραφή στο απομακρυσμένο προσωπικό αργότερα.",
+        "Να ζητάτε ενεργά πρώτα τη γνώμη των απομακρυσμένων συμμετεχόντων και να διασφαλίζετε ισότιμη ψηφιακή συμμετοχή.",
+        "Να πείτε στους απομακρυσμένους συμμετέχοντες να μιλούν πιο δυνατά αν έχουν κάτι να πουν."
+      ],
+      "answer": 2,
+      "explanation": "Η υβριδική ηγεσία απαιτεί σκόπιμη ένταξη για την αντιμετώπιση της 'προκατάληψης παρουσίας'. Η ψηφιακά προσανατολισμένη προσέγγιση διασφαλίζει ίση φωνή για τους απομακρυσμένους συμμετέχοντες. Πηγή: Ψηφιακές Δεξιότητες Ηγεσίας / DigComp 2.2."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "3. A colleague uses a 'deepfake' voice filter during a casual internal call for a joke. Is this a concern?",
+      "options": [
+        "Yes, it can normalize deceptive technology and poses a security and ethics risk in a professional context.",
+        "No, it is just a joke and shows they are tech-savvy.",
+        "Only if the voice filter belongs to a famous person.",
+        "No, as long as the call was not recorded."
+      ],
+      "answer": 0,
+      "explanation": "Normalizing deepfakes and synthetic media — even in informal contexts — erodes institutional trust and desensitizes staff to deceptive techniques that are increasingly used in social engineering attacks. Professional environments require consistent digital ethics standards regardless of intent. Source: EU AI Act / Digital Ethics Guidelines."
+    },
+    "el": {
+      "passage": "",
+      "question": "3. Ένας συνάδελφος χρησιμοποιεί φίλτρο φωνής 'deepfake' κατά τη διάρκεια μιας ανεπίσημης εσωτερικής κλήσης για πλάκα. Αποτελεί αυτό ανησυχία;",
+      "options": [
+        "Ναι, μπορεί να εξομαλύνει την παραπλανητική τεχνολογία και αποτελεί κίνδυνο ασφάλειας και ηθικής σε επαγγελματικό πλαίσιο.",
+        "Όχι, είναι απλώς πλάκα και δείχνει ότι είναι τεχνολογικά καταρτισμένος.",
+        "Μόνο αν το φίλτρο φωνής ανήκει σε διάσημο πρόσωπο.",
+        "Όχι, εφόσον η κλήση δεν ηχογραφήθηκε."
+      ],
+      "answer": 0,
+      "explanation": "Η εξομάλυνση των deepfakes — ακόμα και σε ανεπίσημα πλαίσια — διαβρώνει την θεσμική εμπιστοσύνη και απευαισθητοποιεί το προσωπικό σε παραπλανητικές τεχνικές που χρησιμοποιούνται όλο και περισσότερο σε επιθέσεις κοινωνικής μηχανικής. Πηγή: Νόμος ΤΝ της ΕΕ / Κατευθυντήριες Γραμμές Ψηφιακής Ηθικής."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "4. What is a key challenge in integrating data from multiple legacy systems within large organizations?",
+      "options": [
+        "There are no challenges; integration is always straightforward.",
+        "Modern systems cannot connect to older systems under any circumstances.",
+        "Data integration only requires copying files between folders.",
+        "Legacy systems typically use incompatible data formats, schemas, and communication protocols."
+      ],
+      "answer": 3,
+      "explanation": "Legacy systems were often built with proprietary formats and protocols that predate modern interoperability standards. Bridging these gaps requires middleware, data mapping, and sometimes full system migration. This is recognized as the primary technical barrier to interoperability in large institutions. Source: EIF (European Interoperability Framework)."
+    },
+    "el": {
+      "passage": "",
+      "question": "4. Ποια είναι μια βασική πρόκληση στην ενσωμάτωση δεδομένων από πολλαπλά παλαιά συστήματα σε μεγάλους οργανισμούς;",
+      "options": [
+        "Δεν υπάρχουν προκλήσεις· η ενσωμάτωση είναι πάντα απλή.",
+        "Τα σύγχρονα συστήματα δεν μπορούν να συνδεθούν με παλαιότερα συστήματα σε καμία περίπτωση.",
+        "Η ενσωμάτωση δεδομένων απαιτεί μόνο αντιγραφή αρχείων μεταξύ φακέλων.",
+        "Τα παλαιά συστήματα χρησιμοποιούν συνήθως μη συμβατές μορφές δεδομένων, σχήματα και πρωτόκολλα επικοινωνίας."
+      ],
+      "answer": 3,
+      "explanation": "Τα παλαιά συστήματα κατασκευάστηκαν συχνά με ιδιόκτητες μορφές και πρωτόκολλα που προηγούνται των σύγχρονων προτύπων διαλειτουργικότητας. Η γεφύρωση αυτών των κενών απαιτεί middleware, αντιστοίχιση δεδομένων και ενίοτε πλήρη μετεγκατάσταση συστήματος. Πηγή: ΕΠΔ (Ευρωπαϊκό Πλαίσιο Διαλειτουργικότητας)."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "5. You need to analyze a large dataset of 50,000 rows. Which digital tool is most efficient for summarizing key trends quickly?",
+      "options": [
+        "Manual tallying on paper.",
+        "Copy-pasting into a Word document.",
+        "Pivot Tables in a spreadsheet or BI tool.",
+        "Creating a separate file for every 10 rows."
+      ],
+      "answer": 2,
+      "explanation": "Pivot Tables allow rapid aggregation, grouping, and cross-tabulation of large datasets without any programming. Business Intelligence (BI) tools extend this with interactive dashboards. Manual methods or fragmented files are error-prone and impractical at this scale. Source: Data Literacy / Spreadsheet Skills (DigComp 2.2)."
+    },
+    "el": {
+      "passage": "",
+      "question": "5. Χρειάζεστε να αναλύσετε ένα μεγάλο σύνολο δεδομένων 50.000 γραμμών. Ποιο ψηφιακό εργαλείο είναι πιο αποδοτικό για γρήγορη σύνοψη βασικών τάσεων;",
+      "options": [
+        "Χειροκίνητη καταμέτρηση σε χαρτί.",
+        "Αντιγραφή-επικόλληση σε έγγραφο Word.",
+        "Συγκεντρωτικοί Πίνακες σε υπολογιστικό φύλλο ή εργαλείο BI.",
+        "Δημιουργία ξεχωριστού αρχείου για κάθε 10 γραμμές."
+      ],
+      "answer": 2,
+      "explanation": "Οι Συγκεντρωτικοί Πίνακες επιτρέπουν γρήγορη ομαδοποίηση και διασταύρωση μεγάλων συνόλων δεδομένων χωρίς προγραμματισμό. Τα εργαλεία BI επεκτείνουν αυτή τη δυνατότητα με διαδραστικούς πίνακες ελέγχου. Πηγή: Ψηφιακός Γραμματισμός Δεδομένων / DigComp 2.2."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "6. The EU Data Act (2023) primarily aims to:",
+      "options": [
+        "Prohibit the use of any cookies on websites.",
+        "Fairly distribute the value of data generated by IoT (Internet of Things) devices.",
+        "Create a central EU database for all medical records.",
+        "Ban the sale of data to marketing companies."
+      ],
+      "answer": 1,
+      "explanation": "The EU Data Act addresses who can use and access data generated by connected devices (IoT), aiming to ensure a fair distribution of the economic value of such data between manufacturers, users, and third parties. It does not prohibit cookies, create medical databases, or broadly ban data sales. Source: EU Data Act (Regulation 2023/2854)."
+    },
+    "el": {
+      "passage": "",
+      "question": "6. Ο Νόμος της ΕΕ για τα Δεδομένα (2023) αποσκοπεί κυρίως σε:",
+      "options": [
+        "Απαγόρευση της χρήσης cookies σε ιστότοπους.",
+        "Δίκαιη κατανομή της αξίας των δεδομένων που παράγονται από συσκευές IoT (Διαδίκτυο των Πραγμάτων).",
+        "Δημιουργία κεντρικής βάσης δεδομένων ΕΕ για όλα τα ιατρικά αρχεία.",
+        "Απαγόρευση πώλησης δεδομένων σε εταιρείες μάρκετινγκ."
+      ],
+      "answer": 1,
+      "explanation": "Ο Νόμος για τα Δεδομένα ρυθμίζει ποιος μπορεί να χρησιμοποιεί και να έχει πρόσβαση σε δεδομένα που παράγονται από συνδεδεμένες συσκευές (IoT), με στόχο τη δίκαιη κατανομή της οικονομικής αξίας μεταξύ κατασκευαστών, χρηστών και τρίτων. Πηγή: Κανονισμός (ΕΕ) 2023/2854."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "7. Which statement best reflects the principles of open data governance in line with EU transparency initiatives?",
+      "options": [
+        "All institutional data must be kept secret from the public.",
+        "Open data increases costs and provides no organizational benefits.",
+        "Open data initiatives eliminate the need for data security measures.",
+        "Making non-sensitive data publicly accessible promotes transparency and enables reuse."
+      ],
+      "answer": 3,
+      "explanation": "Open data governance makes non-sensitive public sector data freely available for reuse, supporting evidence-based policy, accountability, and innovation. It does not mean eliminating security — sensitive data categories remain protected. Source: Open Data Directive (EU 2019/1024)."
+    },
+    "el": {
+      "passage": "",
+      "question": "7. Ποια δήλωση αντικατοπτρίζει καλύτερα τις αρχές της διακυβέρνησης ανοιχτών δεδομένων σύμφωνα με τις πρωτοβουλίες διαφάνειας της ΕΕ;",
+      "options": [
+        "Όλα τα θεσμικά δεδομένα πρέπει να παραμένουν μυστικά από το κοινό.",
+        "Τα ανοιχτά δεδομένα αυξάνουν το κόστος και δεν προσφέρουν οργανωτικά οφέλη.",
+        "Οι πρωτοβουλίες ανοιχτών δεδομένων εξαλείφουν την ανάγκη για μέτρα ασφάλειας δεδομένων.",
+        "Η δημόσια πρόσβαση σε μη ευαίσθητα δεδομένα προωθεί τη διαφάνεια και επιτρέπει την επαναχρησιμοποίησή τους."
+      ],
+      "answer": 3,
+      "explanation": "Η διακυβέρνηση ανοιχτών δεδομένων καθιστά τα μη ευαίσθητα δεδομένα του δημόσιου τομέα ελεύθερα διαθέσιμα, υποστηρίζοντας την τεκμηριωμένη χάραξη πολιτικής και τη λογοδοσία. Δεν σημαίνει κατάργηση της ασφάλειας. Πηγή: Οδηγία Ανοιχτών Δεδομένων (ΕΕ 2019/1024)."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "8. An EU official searches for a new regulation using two different search engines and notices very different results. What is the most likely reason?",
+      "options": [
+        "One of the search engines is experiencing a technical problem.",
+        "The regulation was published only on a limited number of websites.",
+        "The official entered the search terms incorrectly.",
+        "The search engines use different algorithms and personalization methods."
+      ],
+      "answer": 3,
+      "explanation": "Search engines rank results using proprietary algorithms that weigh factors such as relevance, authority, recency, and user behavior. Personalization — based on browsing history, location, and profile — further customizes results. Different engines therefore produce legitimately different outputs for the same query. This is a key concept in digital media literacy. Source: DigComp 2.2 — Evaluating information and data."
+    },
+    "el": {
+      "passage": "",
+      "question": "8. Ένας αξιωματούχος της ΕΕ αναζητά έναν νέο κανονισμό χρησιμοποιώντας δύο διαφορετικές μηχανές αναζήτησης και παρατηρεί πολύ διαφορετικά αποτελέσματα. Ποια είναι η πιο πιθανή αιτία;",
+      "options": [
+        "Μία από τις μηχανές αναζήτησης αντιμετωπίζει τεχνικό πρόβλημα.",
+        "Ο κανονισμός δημοσιεύτηκε μόνο σε περιορισμένο αριθμό ιστότοπων.",
+        "Ο αξιωματούχος εισήγαγε λανθασμένα τους όρους αναζήτησης.",
+        "Οι μηχανές αναζήτησης χρησιμοποιούν διαφορετικούς αλγόριθμους και μεθόδους εξατομίκευσης."
+      ],
+      "answer": 3,
+      "explanation": "Οι μηχανές αναζήτησης κατατάσσουν τα αποτελέσματα χρησιμοποιώντας ιδιόκτητους αλγόριθμους που λαμβάνουν υπόψη τη σχετικότητα, την εξουσιοδότηση, την επικαιρότητα και τη συμπεριφορά χρήστη. Η εξατομίκευση — βάσει ιστορικού περιήγησης, τοποθεσίας και προφίλ — προσαρμόζει περαιτέρω τα αποτελέσματα. Πηγή: DigComp 2.2 — Αξιολόγηση πληροφοριών."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "9. According to EU institutional standards, what is the purpose of records management in data governance?",
+      "options": [
+        "Store all documents indefinitely without organization.",
+        "Prevent any employee access to historical documents.",
+        "Systematically control the creation, maintenance, use, and disposition of records.",
+        "Replace digital systems with paper-based filing."
+      ],
+      "answer": 2,
+      "explanation": "Records management ensures systematic control of records from creation through to disposal, guaranteeing regulatory compliance, institutional memory, and auditability. Indefinite, unorganized storage or blanket access restrictions both undermine good governance. Source: ISO 15489 / EU Records Management Rules."
+    },
+    "el": {
+      "passage": "",
+      "question": "9. Σύμφωνα με τα θεσμικά πρότυπα της ΕΕ, ποιος είναι ο σκοπός της διαχείρισης αρχείων στη διακυβέρνηση δεδομένων;",
+      "options": [
+        "Αποθήκευση όλων των εγγράφων επ' αόριστον χωρίς οργάνωση.",
+        "Πρόληψη πρόσβασης οποιουδήποτε υπαλλήλου σε ιστορικά έγγραφα.",
+        "Συστηματικός έλεγχος της δημιουργίας, συντήρησης, χρήσης και διάθεσης των αρχείων.",
+        "Αντικατάσταση ψηφιακών συστημάτων με έντυπη αρχειοθέτηση."
+      ],
+      "answer": 2,
+      "explanation": "Η διαχείριση αρχείων διασφαλίζει συστηματικό έλεγχο από τη δημιουργία έως την απόρριψη, εγγυώμενη τη συμμόρφωση, τη θεσμική μνήμη και τη δυνατότητα ελέγχου. Πηγή: ISO 15489 / Κανόνες Διαχείρισης Αρχείων ΕΕ."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "10. A data lake differs from a data warehouse because it:",
+      "options": [
+        "Stores only structured data.",
+        "Stores raw, unprocessed data in diverse formats.",
+        "Always guarantees high data quality.",
+        "Requires relational modelling."
+      ],
+      "answer": 1,
+      "explanation": "A data lake ingests raw data in any format — structured, semi-structured, or unstructured — without upfront schema requirements. Quality, governance, and transformation happen downstream. A data warehouse, by contrast, stores pre-processed, structured data optimized for querying. Source: Gartner / Data Management Body of Knowledge (DAMA-DMBOK)."
+    },
+    "el": {
+      "passage": "",
+      "question": "10. Μια λίμνη δεδομένων (data lake) διαφέρει από μια αποθήκη δεδομένων (data warehouse) επειδή:",
+      "options": [
+        "Αποθηκεύει μόνο δομημένα δεδομένα.",
+        "Αποθηκεύει ακατέργαστα, μη επεξεργασμένα δεδομένα σε ποικίλες μορφές.",
+        "Εγγυάται πάντα υψηλή ποιότητα δεδομένων.",
+        "Απαιτεί σχεσιακή μοντελοποίηση."
+      ],
+      "answer": 1,
+      "explanation": "Μια λίμνη δεδομένων δέχεται ακατέργαστα δεδομένα σε οποιαδήποτε μορφή χωρίς προαπαιτούμενο σχήμα. Η ποιότητα και η μετατροπή γίνονται σε μεταγενέστερο στάδιο. Αντίθετα, μια αποθήκη δεδομένων αποθηκεύει προ-επεξεργασμένα, δομημένα δεδομένα βελτιστοποιημένα για αναζητήσεις. Πηγή: Gartner / DAMA-DMBOK."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "11. You open a shared document and notice a colleague is currently editing a paragraph you also need to update. What is the most appropriate first step?",
+      "options": [
+        "Add a comment or use suggestion/track-changes mode for the paragraph.",
+        "Wait for the colleague to finish and close the document before editing.",
+        "Edit the paragraph at the same time without coordinating.",
+        "Create a personal copy of the document and make your edits there."
+      ],
+      "answer": 0,
+      "explanation": "Using comments or track-changes allows both collaborators to contribute without overwriting each other's work, preserving a transparent record of changes. Simultaneous uncoordinated editing risks data loss and conflicts. Creating a personal copy breaks version control and leads to divergent document versions. Source: DigComp 2.2 — Collaboration through digital technologies."
+    },
+    "el": {
+      "passage": "",
+      "question": "11. Ανοίγετε ένα κοινόχρηστο έγγραφο και παρατηρείτε ότι ένας συνάδελφος επεξεργάζεται μια παράγραφο που χρειάζεστε και εσείς να ενημερώσετε. Ποιο είναι το πιο κατάλληλο πρώτο βήμα;",
+      "options": [
+        "Να προσθέσετε σχόλιο ή να χρησιμοποιήσετε τη λειτουργία πρότασης/παρακολούθησης αλλαγών για την παράγραφο.",
+        "Να περιμένετε τον συνάδελφο να τελειώσει και να κλείσει το έγγραφο πριν επεξεργαστείτε.",
+        "Να επεξεργαστείτε την παράγραφο ταυτόχρονα χωρίς συντονισμό.",
+        "Να δημιουργήσετε προσωπικό αντίγραφο του εγγράφου και να κάνετε εκεί τις αλλαγές σας."
+      ],
+      "answer": 0,
+      "explanation": "Η χρήση σχολίων ή παρακολούθησης αλλαγών επιτρέπει και στους δύο συνεργάτες να συνεισφέρουν χωρίς να αντικαθιστούν την εργασία του άλλου, διατηρώντας διαφανές ιστορικό αλλαγών. Η ταυτόχρονη ανεξέλεγκτη επεξεργασία κινδυνεύει να προκαλέσει απώλεια δεδομένων. Πηγή: DigComp 2.2 — Συνεργασία μέσω ψηφιακών τεχνολογιών."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "12. You use generative AI to draft a policy summary. Before submission, what is your most responsible step?",
+      "options": [
+        "Submit it as it is.",
+        "Verify factual accuracy and check for bias or hallucinations.",
+        "Remove all references to AI usage.",
+        "Assume AI content is neutral and requires no verification."
+      ],
+      "answer": 1,
+      "explanation": "Generative AI models can produce plausible-sounding but factually incorrect or biased outputs — a phenomenon known as 'hallucination'. Responsible AI use, as defined in DigComp 2.2 and the EU AI Act, requires human oversight, verification of accuracy, and transparency about AI involvement in official outputs. Source: DigComp 2.2 / EU AI Act."
+    },
+    "el": {
+      "passage": "",
+      "question": "12. Χρησιμοποιείτε γεννητική ΤΝ για να συντάξετε μια σύνοψη πολιτικής. Πριν την υποβολή, ποιο είναι το πιο υπεύθυνο βήμα;",
+      "options": [
+        "Να την υποβάλετε ως έχει.",
+        "Να επαληθεύσετε την πραγματική ακρίβεια και να ελέγξετε για προκατάληψη ή παραισθήσεις.",
+        "Να αφαιρέσετε όλες τις αναφορές στη χρήση ΤΝ.",
+        "Να υποθέσετε ότι το περιεχόμενο ΤΝ είναι ουδέτερο και δεν χρειάζεται επαλήθευση."
+      ],
+      "answer": 1,
+      "explanation": "Τα μοντέλα γεννητικής ΤΝ μπορούν να παράγουν αληθοφανή αλλά πραγματικά λανθασμένα ή προκατειλημμένα αποτελέσματα — φαινόμενο γνωστό ως 'παραίσθηση'. Η υπεύθυνη χρήση ΤΝ απαιτεί ανθρώπινη εποπτεία και επαλήθευση ακρίβειας. Πηγή: DigComp 2.2 / Νόμος ΤΝ ΕΕ."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "13. While working from home, your file-sharing application stops uploading changes despite a working internet connection. What should you check first?",
+      "options": [
+        "Examine and if needed replace your computer's hard drive.",
+        "Restart your television or other connected devices to check internet health.",
+        "Contact your mobile phone provider immediately.",
+        "Verify whether the application requires an update or if your storage limit has been reached."
+      ],
+      "answer": 3,
+      "explanation": "When a specific application fails while general internet connectivity works, the issue is most likely application-level: an available update may have introduced a required change, or the cloud storage quota may be full. Checking these is fast, non-destructive, and resolves the majority of such cases. Hardware replacement or ISP contact are disproportionate first responses. Source: DigComp 2.2 — Problem solving in digital environments."
+    },
+    "el": {
+      "passage": "",
+      "question": "13. Ενώ εργάζεστε από το σπίτι, η εφαρμογή κοινής χρήσης αρχείων σταματά να ανεβάζει αλλαγές παρόλο που η σύνδεσή σας στο διαδίκτυο λειτουργεί. Τι πρέπει να ελέγξετε πρώτα;",
+      "options": [
+        "Να εξετάσετε και αν χρειαστεί να αντικαταστήσετε τον σκληρό δίσκο του υπολογιστή σας.",
+        "Να επανεκκινήσετε την τηλεόρασή σας ή άλλες συνδεδεμένες συσκευές για να ελέγξετε την υγεία του διαδικτύου.",
+        "Να επικοινωνήσετε αμέσως με τον πάροχο κινητής τηλεφωνίας σας.",
+        "Να επαληθεύσετε αν η εφαρμογή χρειάζεται ενημέρωση ή αν έχει συμπληρωθεί το όριο αποθηκευτικού χώρου."
+      ],
+      "answer": 3,
+      "explanation": "Όταν μια συγκεκριμένη εφαρμογή αποτυγχάνει ενώ η γενική σύνδεση λειτουργεί, το πρόβλημα είναι πιθανότατα σε επίπεδο εφαρμογής: μια διαθέσιμη ενημέρωση ή πλήρης ποσόστωση αποθηκευτικού χώρου. Πηγή: DigComp 2.2 — Επίλυση προβλημάτων σε ψηφιακά περιβάλλοντα."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "14. You find statistical data on a blog citing 'recent EU labour statistics' but without source links. What is your first action?",
+      "options": [
+        "Use the data but mention the blog as a source.",
+        "Compare the numbers with social media commentary.",
+        "Search for the dataset on the official EU portal and verify its methodology.",
+        "Use the figures since they align with your understanding and expectations."
+      ],
+      "answer": 2,
+      "explanation": "Unlinked citations are a red flag for unreliable data. Responsible digital information literacy requires verifying provenance and methodology at the primary source — in this case Eurostat or official EU portals. Accepting data because it 'feels right' or citing a secondary blog introduces confirmation bias and methodological risk. Source: DigComp 2.2 — Evaluating data reliability and provenance."
+    },
+    "el": {
+      "passage": "",
+      "question": "14. Βρίσκετε στατιστικά δεδομένα σε blog που αναφέρει 'πρόσφατες στατιστικές εργασίας ΕΕ' χωρίς συνδέσμους πηγών. Ποια είναι η πρώτη σας ενέργεια;",
+      "options": [
+        "Να χρησιμοποιήσετε τα δεδομένα αλλά να αναφέρετε το blog ως πηγή.",
+        "Να συγκρίνετε τους αριθμούς με σχόλια στα μέσα κοινωνικής δικτύωσης.",
+        "Να αναζητήσετε το σύνολο δεδομένων στην επίσημη πύλη ΕΕ και να επαληθεύσετε τη μεθοδολογία του.",
+        "Να χρησιμοποιήσετε τα στοιχεία επειδή συμφωνούν με την κατανόηση και τις προσδοκίες σας."
+      ],
+      "answer": 2,
+      "explanation": "Οι αναφορές χωρίς συνδέσμους αποτελούν προειδοποιητικό σήμα για αναξιόπιστα δεδομένα. Ο υπεύθυνος ψηφιακός γραμματισμός απαιτεί επαλήθευση προέλευσης και μεθοδολογίας στην πρωτογενή πηγή — εν προκειμένω Eurostat ή επίσημες πύλες ΕΕ. Πηγή: DigComp 2.2."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "15. You learn that your new team uses a China-based tool storing data outside the EU with low transparency. What is your decision?",
+      "options": [
+        "Conduct a compliance and data transfer assessment.",
+        "Continue using it without reviewing.",
+        "Ban it immediately.",
+        "Migrate all data to personal drives."
+      ],
+      "answer": 0,
+      "explanation": "Evaluating tool compliance regarding cross-border data transfers is part of digital competence and data protection responsibility. Under GDPR, transferring personal data outside the EU requires adequate safeguards. A structured assessment — rather than outright banning or ignoring — is the proportionate, legally sound response. Source: GDPR (Articles 44-49) / DigComp 2.2 — Digital security and privacy."
+    },
+    "el": {
+      "passage": "",
+      "question": "15. Μαθαίνετε ότι η νέα σας ομάδα χρησιμοποιεί ένα εργαλείο με έδρα την Κίνα που αποθηκεύει δεδομένα εκτός ΕΕ με χαμηλή διαφάνεια. Ποια είναι η απόφασή σας;",
+      "options": [
+        "Να διενεργήσετε αξιολόγηση συμμόρφωσης και μεταφοράς δεδομένων.",
+        "Να συνεχίσετε να το χρησιμοποιείτε χωρίς αξιολόγηση.",
+        "Να το απαγορεύσετε αμέσως.",
+        "Να μεταφέρετε όλα τα δεδομένα σε προσωπικές μονάδες αποθήκευσης."
+      ],
+      "answer": 0,
+      "explanation": "Η αξιολόγηση συμμόρφωσης εργαλείων όσον αφορά διασυνοριακές μεταφορές δεδομένων αποτελεί μέρος της ψηφιακής επάρκειας και της ευθύνης προστασίας δεδομένων. Βάσει ΓΚΠΔ, η μεταφορά προσωπικών δεδομένων εκτός ΕΕ απαιτεί επαρκείς εγγυήσεις. Πηγή: ΓΚΠΔ (Άρθρα 44-49) / DigComp 2.2."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "16. A software update causes issues for your department users. What is your initial response?",
+      "options": [
+        "Ignore the complaints.",
+        "Roll back immediately without investigation.",
+        "Gather feedback from the users experiencing issues.",
+        "Blame the developers and demand immediate replacement of the software."
+      ],
+      "answer": 2,
+      "explanation": "Collecting structured feedback from affected users identifies the scope of the problem, which systems and workflows are impacted, and whether issues are widespread or isolated. This evidence base informs whether a rollback, patch, or configuration fix is the right solution. Immediate rollback without data risks discarding a valid update; ignoring complaints is negligent. Source: IT Change Management / DigComp 2.2."
+    },
+    "el": {
+      "passage": "",
+      "question": "16. Μια ενημέρωση λογισμικού προκαλεί προβλήματα στους χρήστες του τμήματός σας. Ποια είναι η αρχική σας αντίδραση;",
+      "options": [
+        "Να αγνοήσετε τα παράπονα.",
+        "Να κάνετε αμέσως επαναφορά χωρίς διερεύνηση.",
+        "Να συλλέξετε σχόλια από τους χρήστες που αντιμετωπίζουν προβλήματα.",
+        "Να κατηγορήσετε τους προγραμματιστές και να ζητήσετε άμεση αντικατάσταση του λογισμικού."
+      ],
+      "answer": 2,
+      "explanation": "Η συλλογή δομημένων σχολίων από τους επηρεαζόμενους χρήστες εντοπίζει την έκταση του προβλήματος και ποιά συστήματα επηρεάζονται, ώστε να ληφθεί τεκμηριωμένη απόφαση για επαναφορά ή επιδιόρθωση. Πηγή: Διαχείριση Αλλαγών ΤΠ / DigComp 2.2."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "17. Which mechanism ensures that data transmitted between a browser and a website cannot be read by intermediaries?",
+      "options": [
+        "HTML",
+        "HTTPS using TLS encryption",
+        "DNS routing",
+        "Firewall filtering"
+      ],
+      "answer": 1,
+      "explanation": "HTTPS uses TLS (Transport Layer Security) to encrypt the data channel between browser and server, making intercepted traffic unreadable to intermediaries. HTML is a markup language with no encryption capability. DNS resolves domain names but does not protect data content. Firewalls filter traffic by rules but do not encrypt the data stream. Source: IETF RFC 8446 (TLS 1.3) / ENISA."
+    },
+    "el": {
+      "passage": "",
+      "question": "17. Ποιος μηχανισμός διασφαλίζει ότι τα δεδομένα που μεταδίδονται μεταξύ ενός προγράμματος περιήγησης και ενός ιστότοπου δεν μπορούν να διαβαστούν από ενδιάμεσους;",
+      "options": [
+        "HTML",
+        "HTTPS με κρυπτογράφηση TLS",
+        "Δρομολόγηση DNS",
+        "Φιλτράρισμα τείχους προστασίας"
+      ],
+      "answer": 1,
+      "explanation": "Το HTTPS χρησιμοποιεί TLS (Transport Layer Security) για κρυπτογράφηση του καναλιού επικοινωνίας μεταξύ προγράμματος περιήγησης και διακομιστή. Το HTML είναι γλώσσα σήμανσης χωρίς κρυπτογραφική δυνατότητα. Το DNS επιλύει ονόματα τομέα αλλά δεν προστατεύει περιεχόμενο. Τα τείχη προστασίας φιλτράρουν κίνηση αλλά δεν κρυπτογραφούν. Πηγή: IETF RFC 8446 / ENISA."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "18. What are the typical stages of a data lifecycle in organizational information management?",
+      "options": [
+        "All of the above.",
+        "Collection, Processing, Analysis, Archival, Deletion.",
+        "Creation, Storage, Use, Sharing, Destruction.",
+        "Reception, Integration, Retention, Auditing, Expunging."
+      ],
+      "answer": 0,
+      "explanation": "The data lifecycle encompasses the full journey of data from creation or collection through active use to eventual disposal. Different frameworks use different terminology — DAMA-DMBOK, ISO standards, and EU records management rules each define stages slightly differently — but all capture the same core cycle of generation, storage, use, preservation, and disposal. Source: DAMA-DMBOK / EU Records Management."
+    },
+    "el": {
+      "passage": "",
+      "question": "18. Ποια είναι τα τυπικά στάδια του κύκλου ζωής δεδομένων στη διαχείριση οργανωτικών πληροφοριών;",
+      "options": [
+        "Όλα τα παραπάνω.",
+        "Συλλογή, Επεξεργασία, Ανάλυση, Αρχειοθέτηση, Διαγραφή.",
+        "Δημιουργία, Αποθήκευση, Χρήση, Κοινοποίηση, Καταστροφή.",
+        "Λήψη, Ενσωμάτωση, Διατήρηση, Έλεγχος, Εξάλειψη."
+      ],
+      "answer": 0,
+      "explanation": "Ο κύκλος ζωής δεδομένων καλύπτει ολόκληρη την πορεία των δεδομένων από τη δημιουργία έως την τελική τους διάθεση. Διαφορετικά πλαίσια χρησιμοποιούν διαφορετική ορολογία αλλά καλύπτουν τον ίδιο βασικό κύκλο. Πηγή: DAMA-DMBOK / Διαχείριση Αρχείων ΕΕ."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "19. Which of the following information types would NOT typically be stored within an image's embedded (EXIF) metadata?",
+      "options": [
+        "The geographic coordinates where the image was captured.",
+        "The device model used to take the photo.",
+        "The IP address of the network through which the image was transmitted.",
+        "The date and time the image was created."
+      ],
+      "answer": 2,
+      "explanation": "EXIF metadata is embedded at capture time and typically records device-related and environmental data: GPS coordinates, camera/phone model, timestamp, exposure settings. An IP address is a network transmission identifier — it belongs to the connection layer, not the image file itself, and is not embedded in EXIF. Source: CIPA DC-008 EXIF Standard."
+    },
+    "el": {
+      "passage": "",
+      "question": "19. Ποιος από τους παρακάτω τύπους πληροφοριών ΔΕΝ αποθηκεύεται συνήθως στα ενσωματωμένα μεταδεδομένα (EXIF) μιας εικόνας;",
+      "options": [
+        "Οι γεωγραφικές συντεταγμένες όπου τραβήχτηκε η εικόνα.",
+        "Το μοντέλο συσκευής που χρησιμοποιήθηκε για τη λήψη.",
+        "Η διεύθυνση IP του δικτύου μέσω του οποίου μεταδόθηκε η εικόνα.",
+        "Η ημερομηνία και ώρα δημιουργίας της εικόνας."
+      ],
+      "answer": 2,
+      "explanation": "Τα μεταδεδομένα EXIF ενσωματώνονται κατά τη λήψη και καταγράφουν συνήθως δεδομένα σχετικά με τη συσκευή και το περιβάλλον: GPS, μοντέλο κάμερας, χρονική σήμανση. Μια διεύθυνση IP είναι αναγνωριστικό δικτυακής μετάδοσης — ανήκει στο επίπεδο σύνδεσης, όχι στο αρχείο εικόνας. Πηγή: CIPA DC-008 EXIF Standard."
+    }
+  },
+  {
+    "en": {
+      "passage": "",
+      "question": "20. What is a 'Digital Footprint'?",
+      "options": [
+        "The physical weight of a communication device such as a smartphone or laptop.",
+        "The trail of data you leave behind when using the internet, including websites visited and social media posts.",
+        "A biometric security feature used to unlock PCs and tablets.",
+        "The amount of electricity that a data centre consumes on an annual basis."
+      ],
+      "answer": 1,
+      "explanation": "A digital footprint is the cumulative record of data traces left by a person's online activity — browsing history, search queries, social media interactions, purchases, and more. It can be active (data you intentionally share) or passive (data collected without direct input). Digital footprints are persistent, searchable, and have implications for privacy and reputation. Source: DigComp 2.2 / ENISA Awareness Resources."
+    },
+    "el": {
+      "passage": "",
+      "question": "20. Τι είναι το 'Ψηφιακό Αποτύπωμα';",
+      "options": [
+        "Το φυσικό βάρος μιας συσκευής επικοινωνίας όπως smartphone ή laptop.",
+        "Το ίχνος δεδομένων που αφήνετε όταν χρησιμοποιείτε το διαδίκτυο, συμπεριλαμβανομένων ιστότοπων που επισκεφθήκατε και αναρτήσεων στα μέσα κοινωνικής δικτύωσης.",
+        "Ένα βιομετρικό χαρακτηριστικό ασφαλείας που χρησιμοποιείται για ξεκλείδωμα υπολογιστών και tablet.",
+        "Η ποσότητα ηλεκτρικής ενέργειας που καταναλώνει ένα κέντρο δεδομένων ετησίως."
+      ],
+      "answer": 1,
+      "explanation": "Το ψηφιακό αποτύπωμα είναι το αθροιστικό αρχείο ιχνών δεδομένων από την online δραστηριότητα ενός ατόμου — ιστορικό περιήγησης, αναζητήσεις, αλληλεπιδράσεις μέσων κοινωνικής δικτύωσης, αγορές. Μπορεί να είναι ενεργητικό (δεδομένα που μοιράζεστε εκούσια) ή παθητικό (δεδομένα που συλλέγονται χωρίς άμεση εισροή). Πηγή: DigComp 2.2 / ENISA."
+    }
+  }
+]
 }
