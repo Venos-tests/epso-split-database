@@ -2345,5 +2345,786 @@
       }
     }
   ],
-  "eu_4": []
-}
+"eu_4": [
+    {
+      "en": {
+        "passage": "1. The EU Competency Framework maps out the essential professional skills and capabilities required of staff working within the European institutions.",
+        "question": "Which of the following is not a competency expected by candidates to demonstrate according to the EU Competency Framework?",
+        "options": [
+          "Human resources management",
+          "Learning as a skill",
+          "Communication",
+          "Intrapreneurship"
+        ],
+        "answer": 0,
+        "explanation": "The official EU Careers competency framework outlines core skills for candidates, such as learning as a skill, communication, and intrapreneurship, but does not include general human resources management as a baseline entry competency."
+      },
+      "el": {
+        "passage": "1. Το Πλαίσιο Ικανοτήτων της ΕΕ χαρτογραφεί τις βασικές επαγγελματικές δεξιότητες και ικανότητες που απαιτούνται από το προσωπικό που εργάζεται στα ευρωπαϊκά θεσμικά όργανα.",
+        "question": "Ποια από τις ακόλουθες ΔΕΝ είναι μια ικανότητα που αναμένεται να επιδείξουν οι υποψήφιοι σύμφωνα με το Πλαίσιο Ικανοτήτων της ΕΕ;",
+        "options": [
+          "Διαχείριση ανθρώπινων πόρων",
+          "Η μάθηση ως δεξιότητα",
+          "Επικοινωνία",
+          "Ενδοεπιχειρηματικότητα"
+        ],
+        "answer": 0,
+        "explanation": "Το επίσημο πλαίσιο ικανοτήτων EU Careers περιγράφει βασικές δεξιότητες για τους υποψηφίους, όπως η μάθηση ως δεξιότητα, η επικοινωνία και η ενδοεπιχειρηματικότητα, αλλά δεν περιλαμβάνει τη γενική διαχείριση ανθρώπινων πόρων ως βασική ικανότητα εισαγωγής."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The evolution of the European Parliament's legislative powers has been a gradual process driven by successive revisions of the foundational treaties.",
+        "question": "Which EU treaty first established the European Parliament as a co-legislator by allowing it to block or modify certain legislative proposals?",
+        "options": [
+          "Treaty of Amsterdam",
+          "Single European Act (SEA)",
+          "Treaty of Rome",
+          "Maastricht Treaty"
+        ],
+        "answer": 3,
+        "explanation": "The Maastricht Treaty introduced the co-decision procedure, granting to the European Parliament the right to propose amendments to legislative acts and prevent legislation from being adopted. This critical institutional change transformed EU Parliament from a consulting into a co-legislator body alongside the Council, enhancing the democratic legitimacy of EU lawmaking."
+      },
+      "el": {
+        "passage": "2. Η εξέλιξη των νομοθετικών εξουσιών του Ευρωπαϊκού Κοινοβουλίου υπήρξε μια σταδιακή διαδικασία που καθοδηγήθηκε από διαδοχικές αναθεωρήσεις των ιδρυτικών συνθηκών.",
+        "question": "Ποια συνθήκη της ΕΕ καθιέρωσε για πρώτη φορά το Ευρωπαϊκό Κοινοβούλιο ως συννομοθέτη, επιτρέποντάς του να μπλοκάρει ή να τροποποιεί ορισμένες νομοθετικές προτάσεις;",
+        "options": [
+          "Συνθήκη του Άμστερνταμ",
+          "Ενιαία Ευρωπαϊκή Πράξη (ΕΕΠ)",
+          "Συνθήκη της Ρώμης",
+          "Συνθήκη του Μάαστριχτ"
+        ],
+        "answer": 3,
+        "explanation": "Η Συνθήκη του Μάαστριχτ εισήγαγε τη διαδικασία της συναπόφασης, παρέχοντας στο Ευρωπαϊκό Κοινοβούλιο το δικαίωμα να προτείνει τροπολογίες σε νομοθετικές πράξεις και να αποτρέπει την έγκριση νομοθεσίας. Αυτή η κρίσιμη θεσμική αλλαγή μετέτρεψε το Ευρωπαϊκό Κοινοβούλιο από συμβουλευτικό σε συννομοθετικό όργανο μαζί με το Συμβούλιο, ενισχύοντας τη δημοκρατική νομιμότητα της παραγωγής δικαίου της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The European Committee of the Regions (CoR) ensures that local and regional authorities have a direct voice within the EU policy-making framework.",
+        "question": "On which types of issues are the Council and the Commission required to consult the Committee of the Regions (CoR)?",
+        "options": [
+          "Matters relating to the appointment of regional judges to the Court of Justice of the European Union",
+          "Matters concerning the management of the EU regional budget and monetary policy",
+          "Matters concerning local and regional government",
+          "Matters relating to the negotiation of international trade agreements"
+        ],
+        "answer": 2,
+        "explanation": "The CoR is the EU's advisory body representing regional and local authorities. The Council and the Commission are required to consult the CoR when preparing legislation in policy areas that have a direct impact on regional and local authorities, such as economic and social cohesion, transport, public health, education, culture, employment, and environmental policy."
+      },
+      "el": {
+        "passage": "3. Η Ευρωπαϊκή Επιτροπή των Περιφερειών (ΕτΠ) διασφαλίζει ότι οι τοπικές και περιφερειακές αρχές έχουν άμεση φωνή στο πλαίσιο χάραξης πολιτικής της ΕΕ.",
+        "question": "Για ποια είδη θεμάτων υποχρεούνται το Συμβούλιο και η Επιτροπή να συμβουλεύονται την Ευρωπαϊκή Επιτροπή των Περιφερειών (ΕτΠ);",
+        "options": [
+          "Θέματα που αφορούν τον διορισμό περιφερειακών δικαστών στο Δικαστήριο της Ευρωπαϊκής Ένωσης",
+          "Θέματα που αφορούν τη διαχείριση του περιφερειακού προϋπολογισμού της ΕΕ και τη νομισματική πολιτική",
+          "Θέματα που αφορούν την τοπική και περιφερειακή αυτοδιοίκηση",
+          "Θέματα που αφορούν τη διαπραγμάτευση διεθνών εμπορικών συμφωνιών"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕτΠ είναι το συμβουλευτικό όργανο της ΕΕ που εκπροσωπεί τις περιφερειακές και τοπικές αρχές. Το Συμβούλιο και η Επιτροπή υποχρεούνται να συμβουλεύονται την ΕτΠ κατά την κατάρτιση νομοθεσίας σε τομείς πολιτικής που έχουν άμεσο αντίκτυπο στις περιφερειακές και τοπικές αρχές, όπως η οικονομική και κοινωνική cohesion, οι μεταφορές, η δημόσια υγεία, η εκπαίδευση, ο πολιτισμός, η απασχόληση και η περιβαλλοντική πολιτική."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. Decentralized agencies play a critical role in enforcing rules and offering targeted expertise across specialized sectors in the EU.",
+        "question": "Which EU agency is responsible for providing scientific advice and ensuring a high level of safety for food and animal feed within the European Union?",
+        "options": [
+          "European Food Safety Authority (EFSA)",
+          "European Consumer Protection Agency (ECPA)",
+          "European Agency for Food and Safety Regulations (EAFSR)",
+          "European Agriculture Agency (EAA)"
+        ],
+        "answer": 0,
+        "explanation": "The European Food Safety Authority (EFSA) is responsible for providing independent scientific advice on risks associated with the food chain. Its work covers food and feed safety, nutrition, animal health and welfare, plant health, and consumer protection."
+      },
+      "el": {
+        "passage": "4. Οι αποκεντρωμένοι οργανισμοί διαδραματίζουν κρίσιμο ρόλο στην επιβολή των κανόνων και στην προσφορά εξειδικευμένης τεχνογνωσίας σε συγκεκριμένους τομείς στην ΕΕ.",
+        "question": "Ποιος οργανισμός της ΕΕ είναι υπεύθυνος για την παροχή επιστημονικών συμβουλών και τη διασφάλιση υψηλού επιπέδου ασφάλειας για τα τρόφιμα και τις ζωοτροφές εντός της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)",
+          "Ευρωπαϊκή Υπηρεσία Προστασίας Καταναλωτών (ECPA)",
+          "Ευρωπαϊκός Οργανισμός για τους Κανονισμούς Τροφίμων και Ασφάλειας (EAFSR)",
+          "Ευρωπαϊκός Οργανισμός Γεωργίας (EAA)"
+        ],
+        "answer": 0,
+        "explanation": "Η Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA) είναι υπεύθυνη για την παροχή ανεξάρτητων επιστημονικών συμβουλών σχετικά με τους κινδύνους που συνδέονται με την τροφική αλυσίδα. Το έργο της καλύπτει την ασφάλεια των τροφίμων και των ζωοτροφών, τη διατροφή, την υγεία και την καλή διαβίωση των ζώων, την υγεία των φυτών και την προστασία των καταναλωτών."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. In the wake of macroeconomic instabilities, the European Central Bank has historically utilized non-standard monetary policies to maintain stability.",
+        "question": "What was the primary objective of the European Central Bank’s Quantitative Easing (QE) programme?",
+        "options": [
+          "To reduce inflation in the euro area to a level below 2%",
+          "To reinforce Member States’ fiscal policies through direct government financing",
+          "To regulate unemployment levels across the euro area",
+          "To stimulate economic activity and support the return of inflation to the ECB’s target level"
+        ],
+        "answer": 3,
+        "explanation": "The ECB introduced QE in response to weak economic growth and persistently low inflation. By purchasing large volumes of public and private sector securities, the ECB aimed to lower long-term interest rates, improve financing conditions, encourage investment and consumption, prevent deflationary pressures, and support economic recovery."
+      },
+      "el": {
+        "passage": "5. Στον απόηχο των μακροοικονομικών ασταθειών, η Ευρωπαϊκή Κεντρική Τράπεζα έχει ιστορικά χρησιμοποιήσει μη συμβατικές νομισματικές πολιτικές για τη διατήρηση της σταθερότητας.",
+        "question": "Ποιος ήταν ο πρωταρχικός στόχος του προγράμματος Ποσοτικής Χαλάρωσης (QE) της Ευρωπαϊκής Κεντρικής Τράπεζας;",
+        "options": [
+          "Η μείωση του πληθωρισμού στη ζώνη του ευρώ σε επίπεδο κάτω του 2%",
+          "Η ενίσχυση των δημοσιονομικών πολιτικών των κρατών μελών μέσω απευθείας κρατικής χρηματοδότησης",
+          "Η ρύθμιση των επιπέδων ανεργίας σε ολόκληρη τη ζώνη του ευρώ",
+          "Η τόνωση της οικονομικής δραστηριότητας και η υποστήριξη της επιστροφής του πληθωρισμού στο επίπεδο-στόχο της ΕΚΤ"
+        ],
+        "answer": 3,
+        "explanation": "Η ΕΚΤ εισήγαγε το πρόγραμμα ποσοτικής χαλάρωσης (QE) ως απάντηση στην ασθενή οικονομική ανάπτυξη και τον επίμονα χαμηλό πληθωρισμό. Αγοράζοντας μεγάλους όγκους τίτλων του δημόσιου και του ιδιωτικού τομέα, η ΕΚΤ στόχευε στη μείωση των μακροπρόθεσμων επιτοκίων, στη βελτίωση των συνθηκών χρηματοδότησης, στην ενθάρρυνση των επενδύσεων και της κατανάλωσης και στην πρόληψη αποπληθωριστικών πιέσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The structural integration of the European economic zone required concrete legal commitments to dissolve internal trade friction.",
+        "question": "What was the principal objective of the Single European Act (SEA), which entered into force in 1987?",
+        "options": [
+          "To establish the internal market by eliminating barriers to the free movement of goods, services, capital and people",
+          "To introduce the euro as the common currency of the European Union",
+          "To create a unified European defence and security policy",
+          "To make the European Community the world's most competitive economy"
+        ],
+        "answer": 0,
+        "explanation": "The SEA was the first major revision of the founding treaties, aiming to complete the internal market by 1 January 1993 through the removal of remaining barriers to the free movement of goods, persons, services, and capital."
+      },
+      "el": {
+        "passage": "6. Η διαρθρωτική ολοκλήρωση της ευρωπαϊκής οικονομικής ζώνης απαιτούσε συγκεκριμένες νομικές δεσμεύσεις για τη διάλυση των εσωτερικών εμπορικών τριβών.",
+        "question": "Ποιος ήταν ο κύριος στόχος της Ενιαίας Ευρωπαϊκής Πράξης (ΕΕΠ), η οποία τέθηκε σε ισχύ το 1987;",
+        "options": [
+          "Η εγκαθίδρυση της εσωτερικής αγοράς με την εξάλειψη των φραγμών στην ελεύθερη κυκλοφορία αγαθών, υπηρεσιών, κεφαλαίων και προσώπων",
+          "Η εισαγώγη του ευρώ ως κοινού νομίσματος της Ευρωπαϊκής Ένωσης",
+          "Η δημιουργία μιας ενιαίας ευρωπαϊκής πολιτικής άμυνας και ασφάλειας",
+          "Η μετατροπή της Ευρωπαϊκής Κοινότητας στην πιο ανταγωνιστική οικονομία του κόσμου"
+        ],
+        "answer": 0,
+        "explanation": "Η ΕΕΠ ήταν η πρώτη σημαντική αναθεώρηση των ιδρυτικών συνθηκών, με στόχο την ολοκλήρωση της εσωτερικής αγοράς έως την 1η Ιανουαρίου 1993 μέσω της άρσης των εναπομενόντων φραγμών στην ελεύθερη κυκλοφορία αγαθών, προσώπων, υπηρεσιών και κεφαλαίων."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. Operational leadership within the Council of the European Union utilizes an institutional rotation system to maintain organizational equity among Member States.",
+        "question": "How often does the Council Presidency rotate among Member States?",
+        "options": [
+          "Every 3 months",
+          "Every 6 months",
+          "Every 12 months",
+          "Every 4 years"
+        ],
+        "answer": 1,
+        "explanation": "The Presidency of the Council of the European Union rotates among the EU Member States every 6 months, during which the presiding nation chairs meetings at every level in the Council."
+      },
+      "el": {
+        "passage": "7. Η επιχειρησιακή ηγεσία στο πλαίσιο του Συμβουλίου της Ευρωπαϊκής Ένωσης χρησιμοποιεί ένα σύστημα θεσμικής εναλλαγής για τη διατήρηση της οργανωτικής ισότητας μεταξύ των κρατών μελών.",
+        "question": "Κάθε πότε εναλλάσσεται η Προεδρία του Συμβουλίου μεταξύ των κρατών μελών?",
+        "options": [
+          "Κάθε 3 μήνες",
+          "Κάθε 6 μήνες",
+          "Κάθε 12 μήνες",
+          "Κάθε 4 χρόνια"
+        ],
+        "answer": 1,
+        "explanation": "Η Προεδρία του Συμβουλίου της Ευρωπαϊκής Ένωσης εναλλάσσεται μεταξύ των κρατών μελών της ΕΕ κάθε 6 μήνες, κατά τη διάρκεια των οποίων η προεδρεύουσα χώρα διευθύνει τις συνεδριάσεις σε κάθε επίπεδο του Συμβουλίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The political transparency of the European Union depends on robust systems of democratic checks and balances between its central structures.",
+        "question": "Under which condition is the European Commission collectively required to step down?",
+        "options": [
+          "If the Council of the European Union withdraws its political support by qualified majority vote",
+          "If the European Parliament adopts a motion of censure against the Commission",
+          "If the European Council requests a change in the composition of the Commission",
+          "If the Court of Justice of the European Union issues a ruling against the Commission’s policy decisions"
+        ],
+        "answer": 1,
+        "explanation": "The European Commission is politically accountable to the European Parliament. Under the EU Treaties, if Parliament passes a motion of censure, the entire College of Commissioners is required to resign collectively."
+      },
+      "el": {
+        "passage": "8. Η πολιτική διαφάνεια της Ευρωπαϊκής Ένωσης εξαρτάται από ισχυρά συστήματα δημοκρατικών ελέγχων και ισορροπιών μεταξύ των κεντρικών δομών της.",
+        "question": "Υπό ποια προϋπόθεση υποχρεούται η Ευρωπαϊκή Επιτροπή να παραιτηθεί συλλογικά;",
+        "options": [
+          "Εάν το Συμβούλιο της Ευρωπαϊκής Ένωσης αποσύρει την πολιτική του υποστήριξη με ειδική πλειοψηφία",
+          "Εάν το Ευρωπαϊκό Κοινοβούλιο εγκρίνει πρόταση μομφής κατά της Επιτροπής",
+          "Εάν το Ευρωπαϊκό Συμβούλιο ζητήσει αλλαγή στη σύνθεση της Επιτροπής",
+          "Εάν το Δικαστήριο της Ευρωπαϊκής Ένωσης εκδώσει απόφαση κατά των πολιτικών αποφάσεων της Επιτροπής"
+        ],
+        "answer": 1,
+        "explanation": "Η Ευρωπαϊκή Επιτροπή είναι πολιτικά υπόλογη στο Ευρωπαϊκό Κοινοβούλιο. Σύμφωνα με τις Συνθήκες της ΕΕ, εάν το Κοινοβούλιο εγκρίνει πρόταση μομφής, ολόκληρο το Σώμα των Επιτρόπων υποχρεούται να παραιτηθεί συλλογικά."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The European Council acts as a strategic engine for the Union, led by a President whose term of office is bounded by strict institutional parameters.",
+        "question": "The President of the European Council is elected for a term of two and a half years. What are the rules regarding the renewal of this mandate?",
+        "options": [
+          "The mandate cannot be renewed under any circumstances",
+          "The mandate may be renewed once, allowing a maximum of two consecutive terms",
+          "The mandate may be renewed twice, for a maximum of three terms",
+          "There is no limit on the number of times the mandate may be renewed"
+        ],
+        "answer": 1,
+        "explanation": "According to Article 15(5) of the Treaty on European Union (TEU), the President of the European Council is elected for a term of 2.5 years, renewable once, establishing a maximum continuous service of 5 years."
+      },
+      "el": {
+        "passage": "9. Το Ευρωπαϊκό Συμβούλιο ενεργεί ως στρατηγική κινητήριος δύναμη για την Ένωση, υπό την ηγεσία ενός Προέδρου του οποίου η θητεία οριοθετείται από αυστηρές θεσμικές παραμέτρους.",
+        "question": "Ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου εκλέγεται για θητεία δυόμισι ετών. Ποιοι είναι οι κανόνες σχετικά με την ανανέωση αυτής της εντολής;",
+        "options": [
+          "Η εντολή δεν μπορεί να ανανεωθεί σε καμία περίπτωση",
+          "Η εντολή μπορεί να ανανεωθεί μία φορά, επιτρέποντας το μέγιστο δύο συνεχόμενες θητείες",
+          "Η εντολή μπορεί να ανανεωθεί δύο φορές, για μέγιστο τρεις θητείες",
+          "Δεν υπάρχει όριο στον αριθμό των φορών που μπορεί να ανανεωθεί η εντολή"
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με το άρθρο 15 παράγραφος 5 της Συνθήκης για την Ευρωπαϊκή Ένωση (ΣΕΕ), ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου εκλέγεται για θητεία 2,5 ετών, η οποία μπορεί να ανανεωθεί μόνο μία φορά, καθορίζοντας μια μέγιστη συνεχή υπηρεσία 5 ετών."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The judicial mechanics of the Court of Justice of the European Union (CJEU) depend on independent legal scholars to optimize procedural clarity.",
+        "question": "What is the primary function of the Advocates General at the Court of Justice of the European Union (CJEU)?",
+        "options": [
+          "To represent the interests of EU institutions during judicial proceedings",
+          "To act as mediators between the parties before a judgment is delivered",
+          "To provide independent, public and reasoned opinions on cases brought before the Court",
+          "To defend the rights and interests of EU citizens in legal disputes before the Court"
+        ],
+        "answer": 2,
+        "explanation": "Advocates General deliver impartial and independent legal opinions on cases assigned to them. These opinions are not legally binding but offer valuable guidance to the Court."
+      },
+      "el": {
+        "passage": "10. Η δικαστική μηχανική του Δικαστηρίου της Ευρωπαϊκής Ένωσης (ΔΕΕ) βασίζεται σε ανεξάρτητους νομικούς λειτουργούς για τη βελτιστοποίηση της διαδικαστικής σαφήνειας.",
+        "question": "Ποια είναι η κύρια αποστολή των Γενικών Εισαγγελέων στο Δικαστήριο της Ευρωπαϊκής Ένωσης (ΔΕΕ);",
+        "options": [
+          "Να εκπροσωπούν τα συμφέροντα των θεσμικών οργάνων της ΕΕ κατά τη διάρκεια των δικαστικών διαδικασιών",
+          "Να ενεργούν ως διαμεσολαβητές μεταξύ των διαδίκων πριν από την έκδοση μιας απόφασης",
+          "Να παρέχουν ανεξάρτητες, δημόσιες και αιτιολογημένες γνώμες επί των υποθέσεων που εισάγονται ενώπιον του Δικαστηρίου",
+          "Να υπερασπίζονται τα δικαιώματα και τα συμφέροντα των Ευρωπαίων πολιτών σε νομικές διαφορές ενώπιον του Δικαστηρίου"
+        ],
+        "answer": 2,
+        "explanation": "Οι Γενικοί Εισαγγελείς εκδίδουν αμερόληπτες και ανεξάρτητες νομικές γνώμες για τις υποθέσεις που τους ανατίθενται. Οι γνώμες αυτές δεν είναι νομικά δεσμευτικές, αλλά παρέχουν πολύτιμη καθοδήγηση στο Δικαστήριο."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Global administrative interactions frequently demand verified legal and public documentation across cross-border frameworks.",
+        "question": "What is the effect of an Apostille under the 1961 Hague Convention, which the EU Member States apply?",
+        "options": [
+          "It authenticates the signature and capacity of the person signing, simplifying cross-border use.",
+          "It legalises the content of a foreign public document.",
+          "It replaces all translation requirements for foreign documents.",
+          "It creates EU-wide notarial services."
+        ],
+        "answer": 0,
+        "explanation": "The 1961 Hague Apostille Convention provides that an Apostille certifies only the authenticity of the signature and the capacity of the executing official, not the underlying content of the public document."
+      },
+      "el": {
+        "passage": "11. Οι παγκόσμιες διοικητικές αλληλεπιδράσεις απαιτούν συχνά επαληθευμένα νομικά και δημόσια έγγραφα σε διασυνοριακά πλαίσια.",
+        "question": "Ποιο είναι το αποτέλεσμα της επισημείωσης της Χάγης (Apostille) βάσει της Σύμβασης της Χάγης του 1961, την οποία εφαρμόζουν τα κράτη μέλη της ΕΕ;",
+        "options": [
+          "Πιστοποιεί τη γνησιότητα της υπογραφής και την ιδιότητα του προσώπου που υπογράφει, απλουστεύοντας τη διασυνοριακή χρήση.",
+          "Νομιμοποιεί το περιεχόμενο ενός ξένου δημόσιου εγγράφου.",
+          "Αντικαθιστά όλες τις απαιτήσεις μετάφρασης για ξένα έγγραφα.",
+          "Δημιουργεί συμβολαιογραφικές υπηρεσίες σε επίπεδο ΕΕ."
+        ],
+        "answer": 0,
+        "explanation": "Η Σύμβαση της Χάγης του 1961 προβλέπει ότι η επισημείωση (Apostille) πιστοποιεί μόνο τη γνησιότητα της υπογραφής και την ιδιότητα του υπογράφοντος υπαλλήλου, όχι το ίδιο το περιεχόμενο του δημόσιου εγγράφου."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The European Green Deal acts as a comprehensive map for climate mitigation, backed by precise updates to regional metrics.",
+        "question": "As part of the European Green Deal's 'Fit for 55' package, the EU has revised its binding climate target for 2030. What is this new target?",
+        "options": [
+          "A reduction of at least 40% in net greenhouse gas emissions compared to 1990 levels.",
+          "A reduction of at least 55% in net greenhouse gas emissions compared to 1990 levels.",
+          "A reduction of at least 60% in net greenhouse gas emissions compared to 2005 levels.",
+          "Achieving climate neutrality (net-zero emissions) by 2030."
+        ],
+        "answer": 1,
+        "explanation": "The European Climate Law transformed the 'Fit for 55' objective into a legally binding target requiring a net greenhouse gas emission reduction of at least 55% by 2030 compared to 1990 baselines."
+      },
+      "el": {
+        "passage": "12. Η Ευρωπαϊκή Πράσινη Συμφωνία λειτουργεί ως ένας ολοκληρωμένος χάρτης για τον μετριασμό της κλιματικής αλλαγής, υποστηριζόμενος από ακριβείς επικαιροποιήσεις των περιφερειακών δεικτών.",
+        "question": "Ως μέρος του πακέτου 'Fit for 55' της Ευρωπαϊκής Πράσινης Συμφωνίας, η ΕΕ αναθεώρησε τον δεσμευτικό κλιματικό της στόχο για το 2030. Ποιος είναι αυτός ο νέος στόχος;",
+        "options": [
+          "Μείωση των καθαρών εκπομπών αερίων του θερμοκηπίου κατά τουλάχιστον 40% σε σύγκριση με τα επίπεδα του 1990.",
+          "Μείωση των καθαρών εκπομπών αερίων του θερμοκηπίου κατά τουλάχιστον 55% σε σύγκριση με τα επίπεδα του 1990.",
+          "Μείωση των καθαρών εκπομπών αερίων του θερμοκηπίου κατά τουλάχιστον 60% σε σύγκριση με τα επίπεδα του 2005.",
+          "Επίτευξη κλιματικής ουδετερότητας (μηδενικές καθαρές εκπομπές) έως το 2030."
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Κλιματικός Νόμος μετέτρεψε τον στόχο 'Fit for 55' σε νομικά δεσμευτικό στόχο που απαιτεί μείωση των καθαρών εκπομπών αερίων του θερμοκηπίου κατά τουλάχιστον 55% έως το 2030 σε σύγκριση με τα επίπεδα του 1990."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The allocation of regulatory weight across various sectors within the TFEU determines how decision-making power is shared between the Union and Member States.",
+        "question": "Under which category of EU competence does the Common Foreign and Security Policy (CFSP) fall?",
+        "options": [
+          "Exclusive competence",
+          "Shared competence",
+          "Supporting competence",
+          "Special competence"
+        ],
+        "answer": 3,
+        "explanation": "The CFSP is governed by specific rules and procedures that distinguish it from standard competences, operating as a special competence categorized by intergovernmental decision-making under Article 2(4) TFEU."
+      },
+      "el": {
+        "passage": "13. Η κατανομή της ρυθμιστικής ισχύος σε διάφορους τομείς στο πλαίσιο της ΣΛΕΕ καθορίζει τον τρόπο με τον οποίο μοιράζεται η εξουσία λήψης αποφάσεων μεταξύ της Ένωσης και των κρατών μελών.",
+        "question": "Σε ποια κατηγορία αρμοδιοτήτων της ΕΕ εμπίπτει η Κοινή Εξωτερική Πολιτική και Πολιτική Ασφάλειας (ΚΕΠΠΑ);",
+        "options": [
+          "Αποκλειστική αρμοδιότητα",
+          "Συντρέχουσα αρμοδιότητα",
+          "Υποστηρικτική αρμοδιότητα",
+          "Ειδική αρμοδιότητα"
+        ],
+        "answer": 3,
+        "explanation": "Η ΚΕΠΠΑ διέπεται από ειδικούς κανόνες και διαδικασίες που τη διαφοροποιούν από τις τυπικές αρμοδιότητες, λειτουργώντας ως ειδική αρμοδιότητα που χαρακτηρίζεται από διακυβερνητική λήψη αποφάσεων βάσει του άρθρου 2 παράγραφος 4 της ΣΛΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. Ensuring structural uniformity in the application of secondary legislation across the single market requires specific execution mechanisms.",
+        "question": "Which type of EU legal act enables the European Commission, or in certain cases an EU agency, to establish uniform conditions for the application of EU legislation across all Member States?",
+        "options": [
+          "Implementing act",
+          "Delegated act",
+          "Decision",
+          "Directive"
+        ],
+        "answer": 0,
+        "explanation": "Under Article 291(2) TFEU, implementing acts are used when uniform conditions for executing legally binding EU acts are necessary across all Member States."
+      },
+      "el": {
+        "passage": "14. Η διασφάλιση της διαρθρωτικής ομοιόμορφης εφαρμογής του παράγωγου δικαίου σε ολόκληρη την ενιαία αγορά απαιτεί ειδικούς μηχανισμούς εκτέλεσης.",
+        "question": "Ποιος τύπος νομικής πράξης της ΕΕ επιτρέπει στην Ευρωπαϊκή Επιτροπή, ή σε ορισμένες περιπτώσεις σε έναν οργανισμό της ΕΕ, να θεσπίσει ενιαίους όρους για την εφαρμογή της νομοθεσίας της ΕΕ σε όλα τα κράτη μέλη;",
+        "options": [
+          "Εκτελεστική πράξη",
+          "Κατ' εξουσιοδότηση πράξη",
+          "Απόφαση",
+          "Οδηγία"
+        ],
+        "answer": 0,
+        "explanation": "Σύμφωνα με το άρθρο 291 παράγραφος 2 της ΣΛΕΕ, οι εκτελεστικές πράξεις χρησιμοποιούνται όταν απαιτούνται ενιαίες προϋποθέσεις για την εκτέλεση νομικά δεσμευτικών πράξεων της ΕΕ σε όλα τα κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. Human rights frameworks in Europe are upheld by distinct judicial entities whose specific configurations must not be confused with basic EU structures.",
+        "question": "What does the abbreviation 'ECHR' stand for in the context of the European Union and Council of Europe?",
+        "options": [
+          "European Court of Human Rights",
+          "European Committee for Health Regulation",
+          "Economic Council on Human Resources",
+          "European Cohesion and Regional Hub"
+        ],
+        "answer": 0,
+        "explanation": "The ECHR stands for the European Court of Human Rights, an international court established by the Council of Europe, separate from the institutional framework of the European Union."
+      },
+      "el": {
+        "passage": "15. Τα πλαίσια για τα ανθρώπινα δικαιώματα στην Ευρώπη υποστηρίζονται από διακριτές δικαστικές οντότητες των οποίων οι ειδικές δομές δεν πρέπει να συγχέονται με τις βασικές δομές της ΕΕ.",
+        "question": "Τι σημαίνει η συντομογραφία 'ECHR' (ΕΔΑΔ) στο πλαίσιο της Ευρωπαϊκής Ένωσης και του Συμβουλίου της Ευρώπης;",
+        "options": [
+          "Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιμάτων",
+          "Ευρωπαϊκή Επιτροπή για τη Ρύθμιση της Υγείας",
+          "Οικονομικό Συμβούλιο Ανθρωπίνων Πόρων",
+          "Ευρωπαϊκός Κόμβος Συνοχής και Περιφερειών"
+        ],
+        "answer": 0,
+        "explanation": "Το ECHR (στα ελληνικά ΕΔΑΔ) σημαίνει Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιμάτων (European Court of Human Rights), το οποίο είναι ένα διεθνές δικαστήριο που ιδρύθηκε από το Συμβούλιο της Ευρώπης και είναι ανεξάρτητο από την ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The operational security of the Eurozone Banking Union depends on a coordinated sequence of evaluations by supervisory frameworks.",
+        "question": "In the EU's Banking Union, the Single Resolution Board (SRB) can adopt a resolution scheme for a failing bank only after which condition is met?",
+        "options": [
+          "The European Central Bank (ECB) has declared the bank failing or likely to fail.",
+          "The national resolution authority of the Member State concerned has requested its intervention.",
+          "The European Systemic Risk Board (ESRB) has issued a warning of systemic risk.",
+          "The European Commission and the Council have endorsed the resolution scheme."
+        ],
+        "answer": 0,
+        "explanation": "The resolution mechanism is triggered once the ECB, as the supervisor, explicitly assesses and declares a banking institution to be 'failing or likely to fail' (FOLF)."
+      },
+      "el": {
+        "passage": "16. Η επιχειρησιακή ασφάλεια της Τραπεζικής Ένωσης της Ευρωζώνης εξαρτάται από μια συντονισμένη αλληλουχία αξιολογήσεων από τα εποπτικά πλαίσια.",
+        "question": "Στην Τραπεζική Ένωση της ΕΕ, το Ενιαίο Συμβούλιο Εξυγίανσης (SRB) μπορεί να εγκρίνει ένα σχήμα εξυγίανσης για μια προβληματική τράπεζα μόνο αφού εκπληρωθεί ποια προϋπόθεση;",
+        "options": [
+          "Η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) έχει δηλώσει ότι η τράπεζα τελεί υπό κατάρρευση ή πιθανή κατάρρευση.",
+          "Η εθνική αρχή εξυγίανσης του ενδιαφερόμενου κράτους μέλους έχει ζητήσει την παρέμβασή του.",
+          "Το Ευρωπαϊκό Συμβούλιο Συστημικού Κινδύνου (ΕΣΣΚ) έχει εκδώσει προειδοποίηση για συστημικό κίνδυνο.",
+          "Η Ευρωπαϊκή Επιτροπή και το Συμβούλιο έχουν εγκρίνει το σχήμα εξυγίανσης."
+        ],
+        "answer": 0,
+        "explanation": "Ο μηχανισμός εξυγίανσης ενεργοποιείται μόλις η ΕΚΤ, ως εποπτική αρχή, αξιολογήσει και δηλώσει ρητά ότι ένα τραπεζικό ίδρυμα «τελεί υπό κατάρρευση ή ενδέχεται να καταρρεύσει» (FOLF)."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Ordinary Legislative Procedure maintains a structural layout requiring co-equal consensus to successfully enact proposals.",
+        "question": "In the Ordinary Legislative Procedure (OLP), if the Conciliation Committee fails to agree on a joint text, what is the outcome?",
+        "options": [
+          "The European Commission's original proposal is automatically adopted.",
+          "The proposal is deemed to be rejected and the legislative process ends.",
+          "The proposal is sent back to the European Parliament for a final vote requiring a 2/3 majority.",
+          "The Council can adopt its position as law if it acts unanimously."
+        ],
+        "answer": 1,
+        "explanation": "If the Conciliation Committee, representing the final procedural block for consensus, cannot agree on a common compromise text, the legal act is completely blocked and rejected."
+      },
+      "el": {
+        "passage": "17. Η Συνήθης Νομοθετική Διαδικασία διατηρεί μια διαρθρωτική δομή που απαιτεί ισότιμη συναίνεση για την επιτυχή ψήφιση των προτάσεων.",
+        "question": "Στη Συνήθη Νομοθετική Διαδικασία (ΣΝΔ), εάν η Επιτροπή Συνδιαλλαγής αποτύχει να συμφωνήσει σε ένα κοινό κείμενο, ποιο είναι το αποτέλεσμα;",
+        "options": [
+          "Η αρχική πρόταση της Ευρωπαϊκής Επιτροπής υιοθετείται αυτόματα.",
+          "Η πρόταση θεωρείται ότι απορρίφθηκε και η νομοθετική διαδικασία τερματίζεται.",
+          "Η πρόταση αποστέλλεται πίσω στο Ευρωπαϊκό Κοινοβούλιο για τελική ψηφοφορία που απαιτεί πλειοψηφία 2/3.",
+          "Το Συμβούλιο μπορεί να εγκρίνει τη θέση του ως νόμο εάν ενεργήσει ομόφωνα."
+        ],
+        "answer": 1,
+        "explanation": "Εάν η Επιτροπή Συνδιαλλαγής, η οποία αποτελεί το τελικό διαδικαστικό στάδιο για την επίτευξη συναίνεσης, δεν καταφέρει να συμφωνήσει σε ένα συμβιβαστικό κείμενο, η νομοθετική πράξη απορρίπτεται και η διαδικασία λήγει."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The Charter of Fundamental Rights codifies protection principles within the territory of Europe, but its jurisdiction is legally bounded.",
+        "question": "Under which condition does the Charter of Fundamental Rights of the EU apply to the Member States, according to Article 51(1)?",
+        "options": [
+          "It applies automatically and in all cases to all actions of the Member States.",
+          "It applies only when a Member State is implementing European Union law.",
+          "It applies only in areas of exclusive competence of the Union, such as competition policy.",
+          "It applies only to Member States that have formally opted-in via a protocol to the Treaties."
+        ],
+        "answer": 1,
+        "explanation": "Under Article 51(1), the Charter's provisions bind Member States strictly and exclusively when they are acting within the scope of implementing EU law."
+      },
+      "el": {
+        "passage": "18. Ο Χάρτης των Θεμελιωδών Δικαιωμάτων κωδικοποιεί τις αρχές προστασίας εντός της Ευρώπης, αλλά η δικαιοδοσία του είναι νομικά περιορισμένη.",
+        "question": "Υπό ποια προϋπόθεση εφαρμόζεται ο Χάρτης των Θεμελιωδών Δικαιωμάτων της ΕΕ στα κράτη μέλη, σύμφωνα με το άρθρο 51 παράγραφος 1;",
+        "options": [
+          "Εφαρμόζεται αυτόματα και σε όλες τις περιπτώσεις σε όλες τις ενέργειες των κρατών μελών.",
+          "Εφαρμόζεται μόνο όταν ένα κράτος μέλος εφαρμόζει το δίκαιο της Ευρωπαϊκής Ένωσης.",
+          "Εφαρμόζεται μόνο σε τομείς αποκλειστικής αρμοδιότητας της Ένωσης, όπως η πολιτική ανταγωνισμού.",
+          "Εφαρμόζεται μόνο στα κράτη μέλη που έχουν συμμετάσχει επίσημα μέσω πρωτοκόλλου στις Συνθήκες."
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με το άρθρο 51 παράγραφος 1, οι διατάξεις του Χάρτη δεσμεύουν τα κράτη μέλη αυστηρά και αποκλειστικά μόνο όταν ενεργούν στο πλαίσιο της εφαρμογής του δικαίου της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The update of non-financial metrics to unified criteria represents an important component of green transition policy within regional corporate reporting.",
+        "question": "Compared with the Non-Financial Reporting Directive (NFRD), what is one of the main changes introduced by the Corporate Sustainability Reporting Directive (CSRD)?",
+        "options": [
+          "It restricts sustainability reporting requirements to small and medium-sized enterprises (SMEs).",
+          "It broadens the range of companies subject to reporting obligations and introduces mandatory reporting in line with EU sustainability reporting standards.",
+          "It removes sustainability reporting obligations for listed companies.",
+          "It limits reporting requirements to greenhouse gas emissions, excluding social and governance matters."
+        ],
+        "answer": 1,
+        "explanation": "The CSRD expands corporate compliance by broadening the baseline scope of required companies and mandating detailed tracking aligned with the European Sustainability Reporting Standards (ESRS)."
+      },
+      "el": {
+        "passage": "19. Η αναβάθμιση των μη χρηματοοικονομικών δεικτών σε ενιαία κριτήρια αποτελεί σημαντικό στοιχείο της πολιτικής πράσινης μετάβασης στην εταιρική αναφορά.",
+        "question": "Σε σύγκριση με την Οδηγία για τη Μη Χρηματοοικονομική Αναφορά (NFRD), ποια είναι μία από τις κύριες αλλαγές που εισάγει η Οδηγία για την Εταιρική Αναφορά Βιωσιμότητας (CSRD);",
+        "options": [
+          "Περιορίζει τις απαιτήσεις αναφοράς βιωσιμότητας στις μικρές και μεσαίες επιχειρήσεις (ΜΜΕ).",
+          "Διευρύνει το φάσμα των εταιρειών που υπόκεινται σε υποχρεώσεις αναφοράς και εισάγει υποχρεωτική αναφορά σύμφωνα με τα ευρωπαϊκά πρότυπα αναφοράς βιωσιμότητας.",
+          "Καταργεί τις υποχρεώσεις αναφοράς βιωσιμότητας για τις εισηγμένες εταιρείες.",
+          "Περιορίζει τις απαιτήσεις αναφοράς στις εκπομπές αερίων του θερμοκηπίου, εξαιρώντας κοινωνικά ζητήματα και ζητήματα διακυβέρνησης."
+        ],
+        "answer": 1,
+        "explanation": "Η οδηγία CSRD διευρύνει σημαντικά την εταιρική συμμόρφωση, επεκτείνοντας το πεδίο των υπόχρεων εταιρειών και επιβάλλοντας λεπτομερή αναφορά σύμφωνα με τα Ευρωπαϊκά Πρότυπα Αναφοράς Βιωσιμότητας (ESRS)."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. Maximizing continuous growth across the Eurozone demands structured supervision of regional public finances and annual policy targets.",
+        "question": "What is the name of the framework that the European Union Member States use to coordinate their economic and fiscal policies?",
+        "options": [
+          "European Semester",
+          "Fiscal Compact",
+          "Common Economic and Fiscal Framework",
+          "European Economic Framework"
+        ],
+        "answer": 0,
+        "explanation": "The European Semester is the central framework established by the EU to monitor, review, and coordinate national macroeconomic plans and structural developments."
+      },
+      "el": {
+        "passage": "20. Η μεγιστοποίηση της συνεχούς ανάπτυξης στην Ευρωζώνη απαιτεί δομημένη εποπτεία των εθνικών δημόσιων οικονομικών και ετήσιων στόχων πολιτικής.",
+        "question": "Ποιο είναι το όνομα του πλαισίου που χρησιμοποιούν τα κράτη μέλη της Ευρωπαϊκής Ένωσης για τον συντονισμό των οικονομικών και δημοσιονομικών τους πολιτικών;",
+        "options": [
+          "Ευρωπαϊκό Εξάμηνο",
+          "Δημοσιονομικό Σύμφωνο",
+          "Κοινό Οικονομικό και Δημοσιονομικό Πλαίσιο",
+          "Ευρωπαϊκό Οικονομικό Πλαίσιο"
+        ],
+        "answer": 0,
+        "explanation": "Το Ευρωπαϊκό Εξάμηνο είναι το κεντρικό πλαίσιο που θεσπίστηκε από την ΕΕ για την παρακολούθηση, την επανεξέταση και τον συντονισμό των εθνικών μακροοικονομικών σχεδίων και των διαρθρωτικών εξελίξεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Enlargement policy dictates that incorporating a new state into the Union is subject to absolute parliamentary confirmation.",
+        "question": "Which EU institution must give its consent before a new country can accede to the European Union?",
+        "options": [
+          "The European Economic and Social Committee",
+          "The Court of Justice of the European Union",
+          "The Committee of the Regions",
+          "The European Parliament"
+        ],
+        "answer": 3,
+        "explanation": "Under Article 49 TEU, any enlargement action requires the formal consent of the European Parliament, which must vote to approve the accession by an absolute majority of its component members."
+      },
+      "el": {
+        "passage": "21. Η πολιτική διεύρυνσης υπαγορεύει ότι η ένταξη ενός νέου κράτους στην Ένωση υπόκειται σε απόλυτη κοινοβουλευτική επιβεβαίωση.",
+        "question": "Ποιο θεσμικό όργανο της ΕΕ πρέπει να δώσει τη συγκατάθεσή του πριν μια νέα χώρα προσχωρήσει στην Ευρωπαϊκή Ένωση;",
+        "options": [
+          "Η Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή",
+          "Το Δικαστήριο της Ευρωπαϊκής Ένωσης",
+          "Η Επιτροπή των Περιφερειών",
+          "Το Ευρωπαϊκό Κοινοβούλιο"
+        ],
+        "answer": 3,
+        "explanation": "Σύμφωνα με το άρθρο 49 της ΣΕΕ, κάθε ενέργεια διεύρυνσης απαιτεί την επίσημη έγκριση του Ευρωπαϊκού Κοινοβουλίου, το οποίο πρέπει να ψηφίσει υπέρ της προσχώρησης με απόλυτη πλειοψηφία των μελών του."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The monetary topography of the Eurozone undergoes structural expansions as participating nations meet converge profiles.",
+        "question": "Which of the following groups consists entirely of countries that use the euro as their official currency?",
+        "options": [
+          "Greece, Bulgaria, Portugal",
+          "Greece, Portugal, Denmark",
+          "Portugal, Denmark, Germany",
+          "Spain, Sweden, France"
+        ],
+        "answer": 0,
+        "explanation": "As of 1 January 2026, Bulgaria has officially entered the euro area. Since Greece and Portugal are already members, this choice consists entirely of Eurozone nations."
+      },
+      "el": {
+        "passage": "22. Η νομισματική τοπογραφία της Ευρωζώνης υφίσταται διαρθρωτικές επεκτάσεις καθώς τα συμμετέχοντα έθνη πληρούν τα προφίλ σύγκλισης.",
+        "question": "Ποια από τις ακόλουθες ομάδες αποτελείται αποκλειστικά από χώρες που χρησιμοποιούν το ευρώ ως επίσημο νόμισμά τους;",
+        "options": [
+          "Ελλάδα, Βουλγαρία, Πορτογαλία",
+          "Ελλάδα, Πορτογαλία, Δανία",
+          "Πορτογαλία, Δανία, Γερμανία",
+          "Ισπανία, Σουηδία, Γαλλία"
+        ],
+        "answer": 0,
+        "explanation": "Από την 1η Ιανουαρίου 2026, η Βουλγαρία έχει ενταχθεί επίσημα στη ζώνη του ευρώ. Δεδομένου ότι η Ελλάδα και η Πορτογαλία είναι ήδη μέλη, αυτή η επιλογή αποτελείται εξ ολοκλήρου από χώρες της Ευρωζώνης."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. Protecting the stratospheric ozone layer required strict compliance with international treaties, resulting in accelerated phase-out legal acts.",
+        "question": "Why did Regulation (EC) No 1005/2009 accelerate the phase-out of hydrochlorofluorocarbons (HCFCs) despite concerns that some replacement substances could contribute to global warming?",
+        "options": [
+          "To fulfil the EU’s obligations under the Montreal Protocol while reducing emissions of ozone-depleting substances",
+          "To eliminate all restrictions on the production and use of fluorinated gases",
+          "To promote the unrestricted use of alternative refrigerants regardless of their environmental impact",
+          "To concentrate the production of ozone-depleting substances within a limited number of Member States"
+        ],
+        "answer": 0,
+        "explanation": "The acceleration was implemented to ensure compliance with the Montreal Protocol obligations, specifically choosing to prioritize reducing the emission profile of ozone-depleting chemical substances."
+      },
+      "el": {
+        "passage": "23. Η προστασία της στρατοσφαιρικής στιβάδας του όζοντος απαιτούσε αυστηρή συμμόρφωση με τις διεθνείς συνθήκες, με αποτέλεσμα νομικές πράξεις επιταχυνόμενης σταδιακής κατάργησης.",
+        "question": "Γιατί ο Κανονισμός (ΕΚ) αριθ. 1005/2009 επιτάχυνε τη σταδιακή κατάργηση των υδροχλωροφθορανθράκων (HCFC), παρά τις ανησυχίες ότι ορισμένες ουσίες αντικατάστασης θα μπορούσαν να συμβάλουν στην υπερθέρμανση του πλανήτη;",
+        "options": [
+          "Για την εκπλήρωση των υποχρεώσεων της ΕΕ στο πλαίσιο του Πρωτοκόλλου του Μόντρεαλ με παράλληλη μείωση των εκπομπών ουσιών που καταστρέφουν τη στιβάδα του όζοντος",
+          "Για την εξάλειψη όλων των περιορισμών στην παραγωγή και χρήση φθοριούχων αερίων",
+          "Για την προώθηση της απεριόριστης χρήσης εναλλακτικών ψυκτικών μέσων ανεξάρτητα από τις περιβαλλοντικές τους επιπτώσεις",
+          "Για τη συγκέντρωση της παραγωγής ουσιών που καταστρέφουν τη στιβάδα του όζοντος εντός περιορισμένου αριθμού κρατών μελών"
+        ],
+        "answer": 0,
+        "explanation": "Η επιτάχυνση εφαρμόστηκε για να διασφαλιστεί η συμμόρφωση με τις υποχρεώσεις του Πρωτοκόλλου του Μόντρεαλ, επιλέγοντας συγκεκριμένα να δοθεί προτεραιότητα στη μείωση των εκπομπών ουσειών που καταστρέφουν τη στιβάδα του όζοντος."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. Digital data security across the Union is built on fundamental rights to privacy and the free, protected tracking of information.",
+        "question": "The GDPR, applicable since May 2018, primarily aims to:",
+        "options": [
+          "Harmonise consumer protection rules for digital goods across the EU.",
+          "Strengthen individuals’ rights regarding personal data and ensure its free movement within the EU.",
+          "Establish a single EU authority to centrally control all data processing.",
+          "Regulate only public-sector data processing activities in the EU."
+        ],
+        "answer": 1,
+        "explanation": "As stated in Article 1 of Regulation (EU) 2016/679, the core mandate of the GDPR is to protect natural persons' privacy profiles while establishing a unified tracking space for personal data movement."
+      },
+      "el": {
+        "passage": "24. Η ασφάλεια των ψηφιακών δεδομένων σε ολόκληρη την Ένωση βασίζεται στα θεμελιώδη δικαιώματα στην ιδιωτική ζωή και στην ελεύθερη, προστατευμένη διακίνηση πληροφοριών.",
+        "question": "Ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR), που εφαρμόζεται από τον Μάιο του 2018, στοχεύει κυρίως στο να:",
+        "options": [
+          "Εναρμονίσει τους κανόνες προστασίας των καταναλωτών για ψηφιακά αγαθά σε ολόκληρη την ΕΕ.",
+          "Ενισχύσει τα δικαιώματα των ατόμων όσον αφορά τα προσωπικά δεδομένα και να διασφαλίσει την ελεύθερη κυκλοφορία τους εντός της ΕΕ.",
+          "Καθιερώσει μια ενιαία αρχή της ΕΕ για τον κεντρικό έλεγχο όλης της επεξεργασίας δεδομένων.",
+          "Ρυθμίσει μόνο τις δραστηριότητες επεξεργασίας δεδομένων του δημόσιου τομέα στην ΕΕ."
+        ],
+        "answer": 1,
+        "explanation": "Όπως αναφέρεται στο άρθρο 1 του Κανονισμού (ΕΕ) 2016/679, η βασική αποστολή του GDPR είναι η προστασία της ιδιωτικής ζωής των φυσικών προσώπων, καθιερώνοντας παράλληλα ένα ενιαίο καθεστώς για την κυκλοφορία των προσωπικών δεδομένων."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. Interinstitutional coordination requires structured dialogue loops to bypass gridlocks prior to the official voting stages of text adoption.",
+        "question": "What is meant by a ‘trilogue’ in the European Union’s legislative process?",
+        "options": [
+          "A formal stage of the legislative procedure involving public debates between the EU institutions",
+          "A review procedure conducted by three specialised committees within the European Parliament",
+          "A public consultation mechanism involving citizens, the European Parliament and the Council of the EU",
+          "An informal negotiation process involving representatives of the European Parliament, the Council of the EU and the European Commission"
+        ],
+        "answer": 3,
+        "explanation": "A trilogue is an informal tripartite meeting enabling representatives of the Parliament, Council, and Commission to iron out differences and build compromise text solutions before final adoption steps."
+      },
+      "el": {
+        "passage": "25. Ο διοργανικός συντονισμός απαιτεί δομημένους διαλόγους για την παράκαμψη αδιεξόδων πριν από τα επίσημα στάδια ψηφοφορίας για την έγκριση κειμένων.",
+        "question": "Τι εννοούμε με τον όρο «τρίλογος» (trilogue) στη νομοθετική διαδικασία της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Ένα επίσημο στάδιο της νομοθετικής διαδικασίας που περιλαμβάνει δημόσια συζητήσεις μεταξύ των θεσμικών οργάνων της ΕΕ",
+          "Μια διαδικασία επανεξέτασης που διεξάγεται από τρεις εξειδικευμένες επιτροπές εντός του Ευρωπαϊκού Κοινοβουλίου",
+          "Ένας μηχανισμός δημόσιας διαβούλευσης με τη συμμετοχή πολιτών, του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της ΕΕ",
+          "Μια άτυπη διαδικασία διαπραγμάτευσης στην οποία συμμετέχουν εκπρόσωποι του Ευρωπαϊκού Κοινοβουλίου, του Συμβουλίου της ΕΕ και της Ευρωπαϊκής Επιτροπής"
+        ],
+        "answer": 3,
+        "explanation": "Ο τρίλογος είναι μια άτυπη τριμερής συνάντηση που επιτρέπει σε εκπροσώπους του Κοινοβουλίου, του Συμβουλίου και της Επιτροπής να γεφυρώσουν τις διαφορές τους και να βρουν συμβιβαστικές λύσεις επί του κειμένου πριν από τα τελικά στάδια έγκρισης."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. The initial integration architecture of European sectors utilized operational structures bounded by explicit durations.",
+        "question": "The Treaty of Paris, which established the European Coal and Steel Community (ECSC), was signed on 18 April 1951. When did the Treaty expire?",
+        "options": [
+          "1 January 1993",
+          "1 May 2004",
+          "23 July 2002",
+          "1 December 2009"
+        ],
+        "answer": 2,
+        "explanation": "The historic Treaty of Paris explicitly limited the operational lifespan of the ECSC to exactly 50 years. Entering into force on 23 July 1952, it formally expired on 23 July 2002."
+      },
+      "el": {
+        "passage": "26. Η αρχική αρχιτεκτονική ολοκλήρωσης των ευρωπαϊκών τομέων χρησιμοποίησε επιχειρησιακές δομές που περιορίζονταν από ρητή διάρκεια.",
+        "question": "Η Συνθήκη του Παρισιού, με την οποία ιδρύθηκε η Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα (ΕΚΑΧ), υπεγράφη στις 18 Απριλίου 1951. Πότε έληξε η ισχύς της Συνθήκης;",
+        "options": [
+          "1 Ιανουαρίου 1993",
+          "1 Μαΐου 2004",
+          "23 Ιουλίου 2002",
+          "1 Δεκεμβρίου 2009"
+        ],
+        "answer": 2,
+        "explanation": "Η ιστορική Συνθήκη του Παρισιού περιόριζε ρητά την επιχειρησιακή διάρκεια ζωής της ΕΚΑΧ σε ακριβώς 50 έτη. Έχοντας τεθεί σε ισχύ στις 23 Ιουλίου 1952, έληξε επίσημα στις 23 Ιουλίου 2002."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. Geopolitical strategy deployment and the setting of diplomatic targets across external frameworks require high-level institutional prioritization.",
+        "question": "What role does the European Council play in the European Union’s foreign policy framework?",
+        "options": [
+          "It directly conducts negotiations and signs international treaties on behalf of the EU",
+          "It defines the strategic direction and priorities of the EU’s Common Foreign and Security Policy (CFSP)",
+          "It exercises operational command over the armed forces of Member States",
+          "It represents the EU as its permanent diplomatic service in international organisations"
+        ],
+        "answer": 1,
+        "explanation": "Under Article 26 TEU, the European Council does not carry out field diplomacy but is tasked with defining the overall strategic goals and core priorities of the CFSP."
+      },
+      "el": {
+        "passage": "27. Η ανάπτυξη γεωπολιτικής στρατηγικής και ο καθορισμός διπλωματικών στόχων σε εξωτερικά πλαίσια απαιτούν ιεράρχηση προτεραιοτήτων σε υψηλό θεσμικό επίπεδο.",
+        "question": "Ποιο ρόλο διαδραματίζει το Ευρωπαϊκό Συμβούλιο στο πλαίσιο της εξωτερικής πολιτικής της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Διεξάγει απευθείας διαπραγματεύσεις και υπογράφει διεθνές συνθήκες εξ ονόματος της ΕΕ",
+          "Καθορίζει την κλιματική και στρατηγική κατεύθυνση και τις προτεραιότητες της Κοινής Εξωτερικής Πολιτικής και Πολιτικής Ασφάλειας (ΚΕΠΠΑ) της ΕΕ",
+          "Ασκεί επιχειρησιακή διοίκηση επί των ενόπλων δυνάμεων των κρατών μελών",
+          "Εκπροσωπεί την ΕΕ ως μόνιμη διπλωματική υπηρεσία σε διεθνείς οργανισμούς"
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με το άρθρο 26 της ΣΕΕ, το Ευρωπαϊκό Συμβούλιο δεν ασκεί διπλωματία πεδίου, αλλά είναι επιφορτισμένο με τον καθορισμό των γενικών στρατηγικών στόχων και των βασικών προτεραιοτήτων της ΚΕΠΠΑ."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Regional direct support structures within agricultural sectors combine budgetary distribution with ecological criteria.",
+        "question": "How does the Common Agricultural Policy (CAP) conditionality mechanism primarily link EU agricultural payments to environmental and sustainability requirements?",
+        "options": [
+          "By making the receipt of direct payments conditional on compliance with EU environmental, climate, and public health standards",
+          "By applying environmental standards only through voluntary eco-schemes",
+          "By restricting sustainability measures exclusively to rural development funding programmes",
+          "By excluding regulations related to farming inputs such as fertilisers and pesticides from payment eligibility conditions"
+        ],
+        "answer": 0,
+        "explanation": "CAP conditionality integrates ecological accountability directly into baseline economics, conditioning full income support tracking upon compliance with statutory environmental standards."
+      },
+      "el": {
+        "passage": "28. Οι περιφερειακές δομές άμεσης στήριξης στους αγροτικούς τομείς συνδυάζουν τη δημοσιονομική κατανομή με οικολογικά κριτήρια.",
+        "question": "Πώς ο μηχανισμός αιρεσιμότητας της Κοινής Αγροτικής Πολιτικής (ΚΑΠ) συνδέει κυρίως τις γεωργικές πληρωμές της ΕΕ με τις απαιτήσεις περιβάλλοντος και βιωσιμότητας;",
+        "options": [
+          "Εξαρτώντας τη λήψη άμεσων ενισχύσεων από τη συμμόρφωση με τα πρότυπα της ΕΕ για το περιβάλλον, το κλίμα και τη δημόσια υγεία",
+          "Εφαρμόζοντας περιβαλλοντικά πρότυπα μόνο μέσω εθελοντικών οικολογικών προγραμμάτων",
+          "Περιορίζοντας τα μέτρα βιωσιμότητας αποκλειστικά σε προγράμματα χρηματοδότησης της αγροτικής ανάπτυξης",
+          "Εξαιρώντας τους κανονισμούς που σχετίζονται με εισροές όπως τα λιπάσματα και τα παρασιτοκτόνα από τις προϋποθέσεις επιλεξιμότητας πληρωμής"
+        ],
+        "answer": 0,
+        "explanation": "Η αιρεσιμότητα της ΚΑΠ ενσωματώνει την οικολογική ευθύνη απευθείας στο βασικό οικονομικό σύστημα, εξαρτώντας την πλήρη λήψη της εισοδηματικής ενίσχυσης από τη συμμόρφωση με θεσμοθετημένα περιβαλλοντικά πρότυπα."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Executing financial allocations within the multiannual framework relies on decentralized administrative coordination across different territorial zones.",
+        "question": "Approximately what proportion of EU spending is executed under shared management with Member States?",
+        "options": [
+          "About 25%",
+          "About 40%",
+          "About 70%",
+          "About 95%"
+        ],
+        "answer": 2,
+        "explanation": "The operational reality of EU spending models relies heavily on 'shared management', meaning that national and regional structures handle roughly 70% of the complete allocation tracking."
+      },
+      "el": {
+        "passage": "29. Η εκτέλεση των οικονομικών κονδυλίων στο πλαίσιο του πολυετούς πλαισίου βασίζεται σε αποκεντρωμένο διοικητικό συντονισμό σε διαφορετικές εδαφικές ζώνες.",
+        "question": "Περίπου ποιο ποσοστό των δαπανών της ΕΕ εκτελείται υπό καθεστώς επιμερισμένης διαχείρισης με τα κράτη μέλη;",
+        "options": [
+          "Περίπου 25%",
+          "Περίπου 40%",
+          "Περίπου 70%",
+          "Περίπου 95%"
+        ],
+        "answer": 2,
+        "explanation": "Η επιχειρησιακή πραγματικότητα των μοντέλων δαπανών της ΕΕ βασίζεται σε μεγάλο βαθμή στην «επιμερισμένη διαχείριση», πράγμα που σημαίνει ότι οι εθνικές και περιφερειακές δομές διαχειρίζονται περίπου το 70% των συνολικών κονδυλίων."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. The institutional landscape of the EMU builds an absolute boundary separating credit allocation oversight from political authority.",
+        "question": "Which of the following best describes the core mandate and operational role of the European Central Bank (ECB) within the Economic and Monetary Union?",
+        "options": [
+          "To finance Member States’ public debt and directly support government budgets during economic downturns",
+          "To ensure price stability in the euro area by conducting monetary policy and managing key interest rates independently of political institutions",
+          "To coordinate fiscal policy across Member States and enforce national budgetary discipline",
+          "To regulate commercial banking taxation and set corporate tax rates within the euro area"
+        ],
+        "answer": 1,
+        "explanation": "As codified under Article 127 TFEU, the primary task of the ECB is maintaining price stability by independently running monetary parameters without political interference."
+      },
+      "el": {
+        "passage": "30. Το θεσμικό τοπίο της ΟΝΕ δημιουργεί ένα απόλυτο όριο που διαχωρίζει την εποπτεία της κατανομής των πιστώσεων από την πολιτική εξουσία.",
+        "question": "Ποιο από τα ακόλουθα περιγράφει καλύτερα την κύρια αποστολή και τον επιχειρησιακό ρόλο της Ευρωπαϊκής Κεντρικής Τράπεζας (ΕΚΤ) στο πλαίσιο της Οικονομικής και Νομισματικής Ένωσης;",
+        "options": [
+          "Η χρηματοδότηση του δημόσιου χρέους των κρατών μελών και η άμεση στήριξη των κρατικών προϋπολογισμών κατά τη διάρκεια οικονομικών υφέσεων",
+          "Η διασφάλιση της σταθερότητας των τιμών στη ζώνη του ευρώ μέσω της άσκησης νομισματικής πολιτικής και της διαχείρισης βασικών επιτοκίων ανεξάρτητα από πολιτικά όργανα",
+          "Ο συντονισμός της δημοσιονομικής πολιτικής στα κράτη μέλη και η επιβολή εθνικής δημοσιονομικής πειθαρχίας",
+          "Η ρύθμιση της φορολογίας των εμπορικών τραπεζών και ο καθορισμός των συντελεστών εταιρικού φόρου στη ζώνη του ευρώ"
+        ],
+        "answer": 1,
+        "explanation": "Όπως κωδικοποιείται στο άρθρο 127 της ΣΛΕΕ, το πρωταρχικό καθήκον της ΕΚΤ είναι η διατήρηση της σταθερότητας των τιμών μέσω της ανεξάρτητης διαχείρισης των νομισματικών παραμέτρων χωρίς πολιτικές παρεμβάσεις."
+      }
+    }
+  ]
+  }
