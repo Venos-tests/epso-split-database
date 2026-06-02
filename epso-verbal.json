@@ -1,5 +1,5 @@
 {
-  "verbal_1": [
+"verbal_1": [
     {
       "el": {
         "passage": "1. Ο ψηφιακός μετασχηματισμός της οικονομίας της ΕΕ αναδιαμορφώνει τις βιομηχανίες, τη διακυβέρνηση και την καθημερινή ζωή. Με οδηγό τη στρατηγική της «Ψηφιακής Δεκαετίας», η ΕΕ στοχεύει το 80% των ενηλίκων να διαθέτει ψηφιακές δεξιότητες και το 75% των επιχειρήσεων της ΕΕ να χρησιμοποιεί cloud, τεχνητή νοημοσύνη (AI) ή μαζικά δεδομένα (big data) έως το 2030. Οι επενδύσεις μέσω του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας (RRF) ιεραρχούν τις ψηφιακές υποδομές, την ηλεκτρονική διακυβέρνηση και την κυβερνοασφάλεια. Η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA) και η Πράξη για τις Ψηφιακές Αγορές (DMA) διασφαλίζουν τον θεμιτό ανταγωνισμό και τη λογοδοσία στο διαδίκτυο.",
@@ -1568,523 +1568,523 @@
   "verbal_4": [
     {
       "en": {
-        "passage": "",
-        "question": "1. ",
+        "passage": "Biomass is a versatile energy source encompassing diverse fuels derived from agriculture, timber or fuel crops. According to a recent study conducted by Environmental Institute of Science and Technology, 60 percent of the world's energy comes from biomass which is converted into heat, electricity or liquid fuels. To produce electricity, chemical energy is captured by gasification and does not involve any direct material combustion or anaerobic digestion. Biomass technologies can generate electricity at any time unlike wind and solar technologies which are only productive when the wind is blowing or the sun is shining. Biomass power is currently the second largest source of renewable energy in the world, and production is likely to double over the next ten years.",
+        "question": "1. Based on the text, which statement accurately reflects the global status and outlook of biomass energy?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Biomass accounts for more than half of the world's energy consumption.",
+          "Biomass is currently the leading source of renewable energy worldwide.",
+          "The use of biomass is expected to decrease as solar technology improves.",
+          "Biomass energy comes exclusively from timber and fuel crops."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The passage cites a study stating that 60 percent of the world's energy comes from biomass, which is more than half. Option B is wrong as biomass is the 2nd largest renewable source, not the first. Option C contradicts the prediction of doubling production. Option D is wrong because biomass also includes agriculture."
       },
       "el": {
-        "passage": "",
-        "question": "1. ",
+        "passage": "Η βιομάζα είναι μια ευέλικτη πηγή ενέργειας που περιλαμβάνει διάφορα καύσιμα προερχόμενα από γεωργία, ξυλεία ή ενεργειακές καλλιέργειες. Σύμφωνα με πρόσφατη μελέτη του Περιβαλλοντικού Ινστιτούτου Επιστήμης και Τεχνολογίας, το 60% της παγκόσμιας ενέργειας προέρχεται από βιομάζα, η οποία μετατρέπεται σε θερμότητα, ηλεκτρισμό ή υγρά καύσιμα. Για την παραγωγή ηλεκτρισμού, η χημική ενέργεια δεσμεύεται μέσω αεριοποίησης και δεν περιλαμβάνει άμεση καύση υλικού ή αναερόβια χώνευση. Οι τεχνολογίες βιομάζας μπορούν να παράγουν ηλεκτρισμό ανά πάσα στιγμή, σε αντίθεση με τις αιολικές και ηλιακές τεχνολογίες που είναι παραγωγικές μόνο όταν φυσά ο άνεμος ή λάμπει ο ήλιος. Η ενέργεια από βιομάζα είναι σήμερα η δεύτερη μεγαλύτερη πηγή ανανεώσιμης ενέργειας παγκοσμίως, και η παραγωγή αναμένεται να διπλασιαστεί τα επόμενα δέκα χρόνια.",
+        "question": "1. Βάσει του κειμένου, ποια δήλωση αντικατοπτρίζει με ακρίβεια την παγκόσμια κατάσταση και τις προοπτικές της ενέργειας από βιομάζα;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Η βιομάζα αντιπροσωπεύει περισσότερο από το μισό της παγκόσμιας κατανάλωσης ενέργειας.",
+          "Η βιομάζα είναι σήμερα η κορυφαία πηγή ανανεώσιμης ενέργειας παγκοσμίως.",
+          "Η χρήση βιομάζας αναμένεται να μειωθεί καθώς βελτιώνεται η ηλιακή τεχνολογία.",
+          "Η ενέργεια βιομάζας προέρχεται αποκλειστικά από ξυλεία και ενεργειακές καλλιέργειες."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το κείμενο αναφέρει μελέτη που δηλώνει ότι το 60% της παγκόσμιας ενέργειας προέρχεται από βιομάζα, δηλαδή περισσότερο από τη μισή. Η Β είναι λάθος καθώς η βιομάζα είναι η 2η μεγαλύτερη ανανεώσιμη πηγή. Η Γ έρχεται σε αντίθεση με την πρόβλεψη διπλασιασμού. Η Δ είναι λάθος γιατί η βιομάζα περιλαμβάνει και γεωργία."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "2. ",
+        "passage": "The blend of aggregates bound together with a cement paste and activated by water form a dense mass known as concrete. Concrete has been used throughout much of human history. As of the twenty-first century, it is the most widely used human-made material. In the later part of the twentieth-century, major improvements in the chemistry of concrete mixtures have granted structures improved lifespans and ease of manufacturing. This has led to the development of new possibilities, such as longer bridge spans and taller buildings. Equally, concrete construction has also become more affordable for many improving economies. As such, developing countries have been able to produce more sophisticated construction that was not possible in previous decades.",
+        "question": "2. Based on the text, which of the following is a result of the chemical advancements in concrete mixtures during the late 20th century?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Concrete became the most widely used human-made material for the first time.",
+          "Developing countries ceased using traditional construction materials.",
+          "Construction projects became more expensive for improving economies.",
+          "Bridges can now feature longer spans and buildings can be constructed taller."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "The passage notes that major improvements in chemistry led to new possibilities, such as longer bridge spans and taller buildings, directly supporting option D. Option A is wrong because the text doesn't link this to 20th-century chemistry. Options B and C are directly contradicted by the passage."
       },
       "el": {
-        "passage": "",
-        "question": "2. ",
+        "passage": "Το μείγμα αδρανών υλικών συνδεδεμένων με τσιμεντόπαστα και ενεργοποιημένων με νερό σχηματίζει μια πυκνή μάζα γνωστή ως σκυρόδεμα. Το σκυρόδεμα χρησιμοποιείται καθ' όλη τη διάρκεια της ανθρώπινης ιστορίας. Τον 21ο αιώνα αποτελεί το πλέον διαδεδομένο κατασκευαστικό υλικό ανθρώπινης παραγωγής. Στο τέλος του 20ού αιώνα, σημαντικές βελτιώσεις στη χημεία των μιγμάτων σκυροδέματος έδωσαν σε κατασκευές βελτιωμένη διάρκεια ζωής και ευκολία κατασκευής. Αυτό οδήγησε στην ανάπτυξη νέων δυνατοτήτων, όπως μεγαλύτερα ανοίγματα γεφυρών και υψηλότερα κτήρια. Επίσης, η κατασκευή από σκυρόδεμα έγινε πιο προσιτή για πολλές αναπτυσσόμενες οικονομίες, επιτρέποντας πιο εξελιγμένα έργα από ό,τι ήταν εφικτό σε προηγούμενες δεκαετίες.",
+        "question": "2. Βάσει του κειμένου, ποιο είναι αποτέλεσμα των χημικών εξελίξεων στα μίγματα σκυροδέματος κατά τον ύστερο 20ό αιώνα;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Το σκυρόδεμα έγινε για πρώτη φορά το πιο διαδεδομένο κατασκευαστικό υλικό ανθρώπινης παραγωγής.",
+          "Οι αναπτυσσόμενες χώρες σταμάτησαν να χρησιμοποιούν παραδοσιακά δομικά υλικά.",
+          "Τα κατασκευαστικά έργα έγιναν πιο δαπανηρά για τις αναπτυσσόμενες οικονομίες.",
+          "Οι γέφυρες μπορούν πλέον να έχουν μεγαλύτερα ανοίγματα και τα κτήρια να κατασκευάζονται ψηλότερα."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι οι βελτιώσεις στη χημεία οδήγησαν σε «νέες δυνατότητες, όπως μεγαλύτερα ανοίγματα γεφυρών και ψηλότερα κτήρια», υποστηρίζοντας άμεσα την επιλογή Δ. Η Α είναι λανθασμένη, οι Β και Γ αντικρούονται από το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "3. ",
+        "passage": "The number of accidents which occur during the course of the working day will never be reduced to zero, regardless of the attempts of regulating bodies. This is because all activity inevitably involves some degree of risk and luck. However, it is possible to reduce the number of occupational accidents, and one way of doing this would be to impose punitive fines on organisations within which occupational accidents occur. Whilst this will result in cases of injustice to some organisations, the overall effect for the employee, in terms of securing a safer workplace, will surely be beneficial.",
+        "question": "3. Which of the following can be validly inferred from the passage?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Punitive fines are the most effective method for eliminating workplace accidents.",
+          "Regulating bodies have failed in their attempt to manage workplace safety.",
+          "Achieving an accident-free work environment is an unattainable goal.",
+          "Injustice to organizations is a necessary requirement for workplace safety."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "The text explicitly states that the number of accidents 'will never be reduced to zero,' directly supporting the inference that an accident-free environment is unattainable. Option A overstates — the passage says fines are one way, not the most effective. Option B is an overreach. Option D misrepresents the passage, which says injustice may result, not that it is a requirement."
       },
       "el": {
-        "passage": "",
-        "question": "3. ",
+        "passage": "Ο αριθμός των ατυχημάτων που συμβαίνουν κατά τη διάρκεια της εργάσιμης ημέρας δεν θα μηδενιστεί ποτέ, ανεξαρτήτως των προσπαθειών των ρυθμιστικών φορέων. Αυτό οφείλεται στο γεγονός ότι κάθε δραστηριότητα εμπεριέχει αναπόφευκτα κάποιον βαθμό κινδύνου και τύχης. Ωστόσο, είναι δυνατό να μειωθεί ο αριθμός των εργατικών ατυχημάτων· ένας τρόπος για να επιτευχθεί αυτό είναι η επιβολή ποινικών προστίμων στους οργανισμούς εντός των οποίων συμβαίνουν εργατικά ατυχήματα. Αν και αυτό θα οδηγήσει σε περιπτώσεις αδικίας για ορισμένους οργανισμούς, η συνολική επίδραση για τον εργαζόμενο, ως προς την εξασφάλιση ενός ασφαλέστερου εργασιακού περιβάλλοντος, θα είναι σίγουρα ευεργετική.",
+        "question": "3. Ποιο από τα παρακάτω μπορεί να συναχθεί εγκύρως από το κείμενο;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Τα ποινικά πρόστιμα είναι η πιο αποτελεσματική μέθοδος εξάλειψης των εργατικών ατυχημάτων.",
+          "Οι ρυθμιστικοί φορείς έχουν αποτύχει στην προσπάθειά τους να διαχειριστούν την ασφάλεια στον εργασιακό χώρο.",
+          "Η επίτευξη ενός εργασιακού περιβάλλοντος χωρίς ατυχήματα είναι ανέφικτος στόχος.",
+          "Η αδικία απέναντι σε οργανισμούς αποτελεί αναγκαία προϋπόθεση για την ασφάλεια στον χώρο εργασίας."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Το κείμενο δηλώνει ρητά ότι ο αριθμός των ατυχημάτων «δεν θα μηδενιστεί ποτέ», υποστηρίζοντας άμεσα ότι ένα περιβάλλον χωρίς ατυχήματα είναι ανέφικτο. Η Α υπερβάλλει· η Β είναι υπερβολικό συμπέρασμα· η Δ παρερμηνεύει το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "4. ",
+        "passage": "Entrepreneurs running small firms play a vital role in ensuring a healthy economy, not just from a business perspective, but also in social, educational and political terms. They compete with the large businesses that would otherwise dominate the markets and are key providers of new jobs. Smaller businesses are able to accommodate working patterns tailored to the employee's needs. They are, therefore, valuable sources of employment for the large number of people with family responsibilities who wish to remain part of the labour market but are unable, because of domestic commitments, to take up full-time employment.",
+        "question": "4. Which of the following is best supported by the passage?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Entrepreneurs running small firms prioritize social goals over business profitability.",
+          "Small businesses are the only entities capable of competing with market-dominating corporations.",
+          "Large businesses are unable to provide flexible working patterns for their employees.",
+          "Small firms contribute to social stability by facilitating the labour participation of primary caregivers."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "The text states that small businesses accommodate working patterns for those with family responsibilities, thus supporting their participation in the labour market. Option A is unsupported — the text says they play a role in social terms, not that they prioritize social goals over profit. Option B is an overstatement. Option C is an inference not directly made in the passage."
       },
       "el": {
-        "passage": "",
-        "question": "4. ",
+        "passage": "Οι επιχειρηματίες που διευθύνουν μικρές επιχειρήσεις διαδραματίζουν ζωτικό ρόλο στη διασφάλιση μιας υγιούς οικονομίας, όχι μόνο από επιχειρηματική σκοπιά αλλά και σε κοινωνικό, εκπαιδευτικό και πολιτικό επίπεδο. Ανταγωνίζονται τις μεγάλες επιχειρήσεις που διαφορετικά θα κυριαρχούσαν στις αγορές και αποτελούν βασικούς παρόχους νέων θέσεων εργασίας. Οι μικρότερες επιχειρήσεις μπορούν να προσαρμόζουν τα εργασιακά πρότυπα στις ανάγκες του εργαζομένου. Αποτελούν, επομένως, πολύτιμες πηγές απασχόλησης για τον μεγάλο αριθμό ατόμων με οικογενειακές υποχρεώσεις που επιθυμούν να παραμείνουν στην αγορά εργασίας αλλά αδυνατούν, λόγω οικιακών δεσμεύσεων, να αναλάβουν πλήρη απασχόληση.",
+        "question": "4. Ποια από τις παρακάτω δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Οι επιχειρηματίες μικρών επιχειρήσεων δίνουν προτεραιότητα στους κοινωνικούς στόχους έναντι της επιχειρηματικής κερδοφορίας.",
+          "Οι μικρές επιχειρήσεις είναι οι μόνες που μπορούν να ανταγωνιστούν τις κυρίαρχες στην αγορά εταιρείες.",
+          "Οι μεγάλες επιχειρήσεις αδυνατούν να προσφέρουν ευέλικτα εργασιακά πρότυπα στους εργαζομένους τους.",
+          "Οι μικρές επιχειρήσεις συμβάλλουν στην κοινωνική σταθερότητα διευκολύνοντας τη συμμετοχή των κύριων φροντιστών στην αγορά εργασίας."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι οι μικρές επιχειρήσεις προσαρμόζουν τα εργασιακά πρότυπα για άτομα με οικογενειακές υποχρεώσεις, υποστηρίζοντας τη συμμετοχή τους στην αγορά εργασίας. Η Α δεν υποστηρίζεται· η Β υπερβάλλει· η Γ είναι συμπέρασμα που δεν διατυπώνεται άμεσα."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "5. ",
+        "passage": "Not many inventions last for more than 100 years without major modifications. One of these is the incandescent light bulb, which still produces almost half of the artificial light used in homes around the world. The bulb works by passing an electric current through a thin metal filament that heats up and then emits light. The filament is enclosed in a glass bulb filled with an inert gas, such as nitrogen, to prevent the oxygen in the air from reaching the hot filament, which would otherwise rapidly burn away. Incandescent bulbs are very inefficient, converting only about 5% of the energy they receive into light.",
+        "question": "5. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Since it was developed, the incandescent light bulb has not been modified in any way.",
+          "For the last 100 years, the incandescent light bulb has produced about half of the light used in homes around the world.",
+          "Incandescent light bulbs would not last very long if the filament was exposed to the air.",
+          "Incandescent light bulbs are the least efficient light source, in terms of the percentage of energy they actually convert."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "The passage states that the inert gas prevents oxygen from reaching the filament, which would 'otherwise rapidly burn away,' confirming that exposure to air would shorten its lifespan considerably. Option A is contradicted by the passage's reference to the bulb lasting 100 years without 'major' modifications. Option B misreads the timeframe. Option D makes a comparative claim not found in the text."
       },
       "el": {
-        "passage": "",
-        "question": "5. ",
+        "passage": "Λίγες εφευρέσεις διαρκούν περισσότερο από 100 χρόνια χωρίς σημαντικές τροποποιήσεις. Μία από αυτές είναι ο λαμπτήρας πυράκτωσης, ο οποίος εξακολουθεί να παράγει σχεδόν τους μισούς τεχνητούς φωτισμούς που χρησιμοποιούνται στα σπίτια παγκοσμίως. Ο λαμπτήρας λειτουργεί περνώντας ηλεκτρικό ρεύμα μέσα από ένα λεπτό μεταλλικό νήμα που θερμαίνεται και εκπέμπει φως. Το νήμα βρίσκεται μέσα σε ένα γυάλινο περίβλημα γεμάτο με αδρανές αέριο, όπως το άζωτο, ώστε να εμποδίζεται το οξυγόνο από το να φτάσει στο θερμό νήμα, το οποίο διαφορετικά θα καιγόταν γρήγορα. Οι λαμπτήρες πυράκτωσης είναι πολύ αναποτελεσματικοί, μετατρέποντας μόνο περίπου το 5% της ενέργειας που λαμβάνουν σε φως.",
+        "question": "5. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Από την εποχή που αναπτύχθηκε, ο λαμπτήρας πυράκτωσης δεν έχει τροποποιηθεί με κανέναν τρόπο.",
+          "Τα τελευταία 100 χρόνια, ο λαμπτήρας πυράκτωσης παράγει περίπου τον μισό φωτισμό που χρησιμοποιείται στα σπίτια παγκοσμίως.",
+          "Οι λαμπτήρες πυράκτωσης δεν θα διαρκούσαν πολύ αν το νήμα εκτίθετο στον αέρα.",
+          "Οι λαμπτήρες πυράκτωσης είναι η λιγότερο αποδοτική πηγή φωτός ως προς το ποσοστό ενέργειας που μετατρέπουν."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Το κείμενο δηλώνει ότι το αδρανές αέριο εμποδίζει το οξυγόνο να φτάσει στο νήμα, το οποίο «διαφορετικά θα καιγόταν γρήγορα», επιβεβαιώνοντας ότι η έκθεση στον αέρα θα συντόμευε τη διάρκεια ζωής του. Η Α αντικρούεται από το κείμενο· η Β παρερμηνεύει το χρονικό πλαίσιο· η Δ κάνει συγκριτικό ισχυρισμό που δεν απαντάται στο κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "6. ",
+        "passage": "The EU faces a critical productivity challenge requiring extensive reforms and approximately €800 billion in annual investment across green, digital, research, and defence sectors—exceeding the entire Next Generation EU (NGEU) recovery fund. Beyond financing, successful implementation hinges on strengthening administrative capacities, often hampered by skill shortages and bureaucratic hurdles. The EU budget, though limited to about 1% of GDP, remains a key investment source, notably through cohesion policy and the Recovery and Resilience Facility (RRF). However, managing overlapping investment instruments with differing rules has complicated governance, underscoring the need for strategic innovation and capacity building to avoid economic decline and foster competitiveness.",
+        "question": "6. Which of the following best explains why strengthening administrative capacities is crucial alongside financial investment in the EU's strategic areas?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Because bureaucratic inefficiencies and skill shortages can delay or derail the implementation of reforms and investments.",
+          "Because abundant funding automatically guarantees successful project outcomes.",
+          "Because administrative capacity allows the EU to bypass national governments.",
+          "Because administrative capacity eliminates the need for private investment."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The passage directly mentions that successful implementation hinges on strengthening administrative capacities, often hampered by skill shortages and bureaucratic hurdles. This implies that without adequate administrative capacity, reforms and investments risk being delayed or failing. Options B, C, and D are not supported by the text."
       },
       "el": {
-        "passage": "",
-        "question": "6. ",
+        "passage": "Η ΕΕ αντιμετωπίζει κρίσιμη πρόκληση παραγωγικότητας που απαιτεί εκτεταμένες μεταρρυθμίσεις και περίπου 800 δισεκατομμύρια ευρώ ετήσιων επενδύσεων στους τομείς της πράσινης μετάβασης, της ψηφιακής οικονομίας, της έρευνας και της άμυνας — ποσό που υπερβαίνει το σύνολο του ταμείου ανάκαμψης NGEU. Πέραν της χρηματοδότησης, η επιτυχής εφαρμογή εξαρτάται από την ενίσχυση των διοικητικών ικανοτήτων, που συχνά δυσχεραίνονται από ελλείψεις δεξιοτήτων και γραφειοκρατικά εμπόδια. Ο προϋπολογισμός της ΕΕ, αν και περιορισμένος στο περίπου 1% του ΑΕΠ, παραμένει βασική πηγή επενδύσεων, κυρίως μέσω της πολιτικής συνοχής και του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας. Ωστόσο, η διαχείριση επικαλυπτόμενων επενδυτικών μέσων με διαφορετικούς κανόνες έχει περιπλέξει τη διακυβέρνηση, υπογραμμίζοντας την ανάγκη για στρατηγική καινοτομία και ανάπτυξη ικανοτήτων.",
+        "question": "6. Ποιο από τα παρακάτω εξηγεί καλύτερα γιατί η ενίσχυση των διοικητικών ικανοτήτων είναι κρίσιμη παράλληλα με τις χρηματοοικονομικές επενδύσεις στους στρατηγικούς τομείς της ΕΕ;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Επειδή οι γραφειοκρατικές αναποτελεσματικότητες και οι ελλείψεις δεξιοτήτων μπορούν να καθυστερήσουν ή να ανατρέψουν την εφαρμογή μεταρρυθμίσεων και επενδύσεων.",
+          "Επειδή η άφθονη χρηματοδότηση εγγυάται αυτόματα επιτυχείς εκβάσεις έργων.",
+          "Επειδή η διοικητική ικανότητα επιτρέπει στην ΕΕ να παρακάμπτει τις εθνικές κυβερνήσεις.",
+          "Επειδή η διοικητική ικανότητα εξαλείφει την ανάγκη για ιδιωτικές επενδύσεις."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η επιτυχής εφαρμογή εξαρτάται από την ενίσχυση των διοικητικών ικανοτήτων, που συχνά δυσχεραίνονται από ελλείψεις δεξιοτήτων και γραφειοκρατικά εμπόδια. Οι επιλογές Β, Γ και Δ δεν υποστηρίζονται από το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "7. ",
+        "passage": "Leprosy is a chronic infectious disease that affects humans by attacking the nervous system, particularly the nerves of the hands, feet and face. The disease is characterised by skin lesions that form on the body, coupled with a loss of sensation in the hands and arms, or legs and feet. It is difficult to diagnose leprosy accurately, as in the early stages of the disease people often have only minor symptoms. However, once it is diagnosed, it is curable with drugs. There are two forms of the disease: 'tuberculoid' and 'lepromatous'. Both produce skin lesions, but the 'lepromatous' form is more severe, producing disfiguring lumps and bumps all over the body.",
+        "question": "7. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "The 'tuberculoid' form of leprosy is the less severe form.",
+          "Although leprosy is curable with drugs, the damage it has already done is irreversible.",
+          "The effects of leprosy are worse for the hands and arms than they are for the legs and feet.",
+          "The 'lepromatous' form of leprosy is the easier of the two to diagnose."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The text states that both forms produce lesions but the 'lepromatous' form is 'more severe,' which logically implies the 'tuberculoid' form is the less severe one. Option B adds information not in the text. Option C is not supported — the passage treats hands/arms and legs/feet symmetrically. Option D is not supported; the difficulty of diagnosis applies generally."
       },
       "el": {
-        "passage": "",
-        "question": "7. ",
+        "passage": "Η λέπρα είναι μια χρόνια μολυσματική ασθένεια που επηρεάζει τους ανθρώπους προσβάλλοντας το νευρικό σύστημα, ιδιαίτερα τα νεύρα των χεριών, των ποδιών και του προσώπου. Η ασθένεια χαρακτηρίζεται από δερματικές βλάβες που σχηματίζονται στο σώμα, σε συνδυασμό με απώλεια αίσθησης στα χέρια και τους βραχίονες ή στα πόδια. Είναι δύσκολο να διαγνωστεί η λέπρα με ακρίβεια, καθώς στα πρώιμα στάδια της νόσου τα άτομα εμφανίζουν συχνά μόνο ήπια συμπτώματα. Ωστόσο, μόλις διαγνωστεί, θεραπεύεται με φάρμακα. Υπάρχουν δύο μορφές της νόσου: η «φυματοειδής» και η «λεπρωματώδης». Και οι δύο προκαλούν δερματικές βλάβες, αλλά η «λεπρωματώδης» μορφή είναι πιο σοβαρή, προκαλώντας παραμορφωτικά εξογκώματα σε όλο το σώμα.",
+        "question": "7. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Η «φυματοειδής» μορφή της λέπρας είναι η λιγότερο σοβαρή.",
+          "Αν και η λέπρα θεραπεύεται με φάρμακα, οι βλάβες που έχει ήδη προκαλέσει είναι μη αναστρέψιμες.",
+          "Τα αποτελέσματα της λέπρας είναι χειρότερα για τα χέρια και τους βραχίονες απ' ό,τι για τα πόδια.",
+          "Η «λεπρωματώδης» μορφή της λέπρας είναι η ευκολότερη να διαγνωστεί από τις δύο."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το κείμενο δηλώνει ότι και οι δύο μορφές προκαλούν βλάβες αλλά η «λεπρωματώδης» είναι «πιο σοβαρή», άρα η «φυματοειδής» είναι η λιγότερο σοβαρή. Η Β προσθέτει πληροφορίες που δεν υπάρχουν στο κείμενο· η Γ δεν υποστηρίζεται· η Δ επίσης δεν υποστηρίζεται."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "8. ",
+        "passage": "The EU allocates a significant share of environmental protection funding to farmers because the Common Agricultural Policy (CAP) is one of the EU's oldest and most integrated policies, and farmers are essential both for food production and for preserving rural landscapes. However, the CAP has evolved considerably from its earlier reputation for encouraging overproduction without considering market demand or cheaper imports. Current reforms promote a more balanced policy that places greater emphasis on food quality and safety, animal welfare, and the broader needs of rural communities.",
+        "question": "8. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "The main driver for the Common Agricultural Policy was always the improvement of efficiency of food production.",
+          "The operations and approaches of the Common Agricultural Policy have evolved over time to view farming and its impacts more holistically.",
+          "The Common Agricultural Policy is an effective mechanism for sharing knowledge and best practice across the EU.",
+          "Farmers in all European countries are encouraged to protect the natural environment through the Common Agricultural Policy."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "The passage explains that the CAP has changed considerably — from a policy associated with overproduction to one that takes a more balanced approach, emphasising food safety, animal welfare, and rural community needs. This holistic evolution is directly captured by option B. Options A, C, and D are not supported by the text."
       },
       "el": {
-        "passage": "",
-        "question": "8. ",
+        "passage": "Η ΕΕ διαθέτει σημαντικό μέρος της χρηματοδότησης για περιβαλλοντική προστασία στους αγρότες, επειδή η Κοινή Αγροτική Πολιτική (ΚΑΠ) είναι μία από τις παλαιότερες και πιο ολοκληρωμένες πολιτικές της ΕΕ, και οι αγρότες είναι απαραίτητοι τόσο για την παραγωγή τροφίμων όσο και για τη διατήρηση των αγροτικών τοπίων. Ωστόσο, η ΚΑΠ έχει εξελιχθεί σημαντικά από την παλαιότερη φήμη της ως μέσο ενθάρρυνσης της υπερπαραγωγής χωρίς να λαμβάνεται υπόψη η ζήτηση της αγοράς ή οι φθηνότερες εισαγωγές. Οι τρέχουσες μεταρρυθμίσεις προωθούν μια πιο ισορροπημένη πολιτική που δίνει μεγαλύτερη έμφαση στην ποιότητα και ασφάλεια των τροφίμων, στην καλή μεταχείριση των ζώων και στις ευρύτερες ανάγκες των αγροτικών κοινοτήτων.",
+        "question": "8. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Ο κύριος στόχος της Κοινής Αγροτικής Πολιτικής ήταν πάντα η βελτίωση της αποδοτικότητας της παραγωγής τροφίμων.",
+          "Οι λειτουργίες και οι προσεγγίσεις της Κοινής Αγροτικής Πολιτικής έχουν εξελιχθεί με την πάροδο του χρόνου ώστε να αντιμετωπίζουν τη γεωργία και τις επιπτώσεις της πιο ολιστικά.",
+          "Η Κοινή Αγροτική Πολιτική είναι ένας αποτελεσματικός μηχανισμός ανταλλαγής γνώσεων και βέλτιστων πρακτικών σε ολόκληρη την ΕΕ.",
+          "Οι αγρότες σε όλες τις ευρωπαϊκές χώρες ενθαρρύνονται να προστατεύουν το φυσικό περιβάλλον μέσω της Κοινής Αγροτικής Πολιτικής."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Το κείμενο εξηγεί ότι η ΚΑΠ άλλαξε σημαντικά — από μια πολιτική που συνδεόταν με υπερπαραγωγή σε μια πιο ισορροπημένη προσέγγιση που δίνει έμφαση στην ασφάλεια τροφίμων, την καλή μεταχείριση των ζώων και τις αγροτικές κοινότητες. Αυτή η ολιστική εξέλιξη αποτυπώνεται άμεσα από την επιλογή Β. Οι Α, Γ και Δ δεν υποστηρίζονται από το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "9. ",
+        "passage": "An oratorio is a large musical composition for orchestra, vocal soloists and a chorus of singers. Whilst it tells a story using music, it differs from an opera because it does not have scenery, costumes or any acting. The peak period for the composition of oratorios was the 17th and 18th centuries and, although oratorios are rarely composed nowadays, performances of famous old oratorios are regular and popular events. Most oratorios have biblical themes — however a number of composers, notably Handel, wrote oratorios based on famous Greek and Roman mythology to maximise their popular appeal. Whatever an oratorio was based on, it usually followed a formula — a classic hero and a moral or message for the audience to learn.",
+        "question": "9. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Oratorios have biblical themes whereas operas tend not to.",
+          "Handel wrote oratorios in the 17th and 18th centuries.",
+          "Nowadays, the majority of oratorio performances are of old rather than modern compositions.",
+          "The most popular oratorios were based on Greek and Roman mythology, rather than biblical stories."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "The text states that oratorios are 'rarely composed nowadays' but performances of 'famous old oratorios' are regular and popular events, confirming that current performances are primarily of older works. Option A is an overstatement — the text says 'most' have biblical themes, not all. Option B cannot be confirmed. Option D misrepresents the text, which says mythology was used to maximise appeal, not that such oratorios were the most popular."
       },
       "el": {
-        "passage": "",
-        "question": "9. ",
+        "passage": "Το ορατόριο είναι ένα μεγάλο μουσικό έργο για ορχήστρα, φωνητικούς σολίστ και χορωδία. Αν και αφηγείται μια ιστορία μέσω της μουσικής, διαφέρει από την όπερα επειδή δεν έχει σκηνικά, κοστούμια ή υποκριτική. Η κορυφαία περίοδος σύνθεσης ορατορίων ήταν ο 17ος και 18ος αιώνας και, αν και τα ορατόρια σπάνια συντίθενται σήμερα, οι παραστάσεις διάσημων παλαιών ορατορίων είναι τακτικά και δημοφιλή γεγονότα. Τα περισσότερα ορατόρια έχουν βιβλικά θέματα — ωστόσο, αρκετοί συνθέτες, κυρίως ο Χέντελ, έγραψαν ορατόρια βασισμένα σε διάσημη ελληνορωμαϊκή μυθολογία για να μεγιστοποιήσουν την ευρεία τους απήχηση. Ανεξάρτητα από τη θεματολογία, ένα ορατόριο συνήθως ακολουθούσε μια φόρμουλα — έναν κλασικό ήρωα και ένα ηθικό ή μήνυμα για το κοινό.",
+        "question": "9. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Τα ορατόρια έχουν βιβλικά θέματα ενώ οι όπερες συνήθως όχι.",
+          "Ο Χέντελ έγραψε ορατόρια τον 17ο και 18ο αιώνα.",
+          "Σήμερα, η πλειονότητα των παραστάσεων ορατορίου αφορά παλαιά και όχι σύγχρονα έργα.",
+          "Τα πιο δημοφιλή ορατόρια βασίζονταν στην ελληνορωμαϊκή μυθολογία και όχι σε βιβλικές ιστορίες."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι τα ορατόρια «σπάνια συντίθενται σήμερα» αλλά οι παραστάσεις «διάσημων παλαιών ορατορίων» είναι τακτικά και δημοφιλή γεγονότα, επιβεβαιώνοντας ότι οι σύγχρονες παραστάσεις αφορούν κυρίως παλαιότερα έργα. Η Α υπερβάλλει· η Β δεν επιβεβαιώνεται· η Δ παρερμηνεύει το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "10. ",
+        "passage": "The European Union has taken significant steps to promote digital innovation across member states. The European Commission supports initiatives to improve digital infrastructure, foster startups, and enhance cybersecurity. However, disparities remain between western and eastern member states in terms of access to high-speed internet and digital skills training. While some countries have quickly adopted advanced technologies, others face challenges due to limited funding and lower digital literacy rates. The EU continues to emphasize the importance of cross-border cooperation and shared best practices to bridge these gaps.",
+        "question": "10. Which of the following statements is least supported by the passage?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "All EU member states have successfully adopted advanced digital technologies.",
+          "There are notable differences in digital skills training across the EU.",
+          "The EU encourages collaboration to reduce digital disparities.",
+          "The European Commission actively promotes digital infrastructure improvements."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The passage clearly states that 'some countries have quickly adopted advanced technologies, while others face challenges due to limited funding and lower digital literacy rates.' This directly contradicts the claim that all member states have successfully adopted advanced digital technologies, making option A the least supported statement."
       },
       "el": {
-        "passage": "",
-        "question": "10. ",
+        "passage": "Η Ευρωπαϊκή Ένωση έχει λάβει σημαντικά μέτρα για την προώθηση της ψηφιακής καινοτομίας στα κράτη μέλη. Η Ευρωπαϊκή Επιτροπή υποστηρίζει πρωτοβουλίες για τη βελτίωση της ψηφιακής υποδομής, την ενθάρρυνση νεοφυών επιχειρήσεων και την ενίσχυση της κυβερνοασφάλειας. Ωστόσο, παραμένουν ανισότητες μεταξύ δυτικών και ανατολικών κρατών μελών ως προς την πρόσβαση στο ευρυζωνικό διαδίκτυο και την κατάρτιση σε ψηφιακές δεξιότητες. Ενώ ορισμένες χώρες έχουν υιοθετήσει γρήγορα προηγμένες τεχνολογίες, άλλες αντιμετωπίζουν προκλήσεις λόγω περιορισμένης χρηματοδότησης και χαμηλότερων ποσοστών ψηφιακής εγγραμματοσύνης. Η ΕΕ συνεχίζει να τονίζει τη σημασία της διασυνοριακής συνεργασίας και της ανταλλαγής βέλτιστων πρακτικών για τη γεφύρωση αυτών των χασμάτων.",
+        "question": "10. Ποια από τις παρακάτω δηλώσεις υποστηρίζεται λιγότερο από το κείμενο;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Όλα τα κράτη μέλη της ΕΕ έχουν υιοθετήσει επιτυχώς προηγμένες ψηφιακές τεχνολογίες.",
+          "Υπάρχουν αξιοσημείωτες διαφορές στην κατάρτιση ψηφιακών δεξιοτήτων σε ολόκληρη την ΕΕ.",
+          "Η ΕΕ ενθαρρύνει τη συνεργασία για τη μείωση των ψηφιακών ανισοτήτων.",
+          "Η Ευρωπαϊκή Επιτροπή προωθεί ενεργά βελτιώσεις στην ψηφιακή υποδομή."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το κείμενο αναφέρει ρητά ότι «ορισμένες χώρες έχουν υιοθετήσει γρήγορα προηγμένες τεχνολογίες, ενώ άλλες αντιμετωπίζουν προκλήσεις». Αυτό αντικρούει άμεσα τον ισχυρισμό ότι όλα τα κράτη μέλη έχουν υιοθετήσει επιτυχώς προηγμένες ψηφιακές τεχνολογίες, καθιστώντας την επιλογή Α την λιγότερο υποστηριζόμενη."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "11. ",
+        "passage": "Western Poison Oak is actually no more related to oak trees than Poison Ivy is to ivy. In fact, both Poison Ivy and the Western Poison Oak actually belong to the Sumac family of shrubs and trees (of which the cashew tree is another member). Western Poison Oak and Poison Ivy both contain a resinous sap that causes an irritating itchy rash, often accompanied with blistering of the skin, when humans come into contact with it. Whilst the shrubs do not naturally secrete the resin — it is only found on bark and leaves if the plant has been damaged in some way — some people are so sensitive that only a molecule or two of the toxin is necessary to cause a reaction.",
+        "question": "11. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "The cashew tree is more closely related to the Western Poison Oak than an oak tree is.",
+          "Western Poison Oak is more irritating to humans than Poison Ivy.",
+          "Most members of the Sumac family have a toxic sap.",
+          "Merely touching an undamaged cashew tree causes irritation to humans."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The text states that both Poison Oak and the cashew tree belong to the Sumac family, while Poison Oak is not related to oak trees. Therefore, the cashew tree is a closer relative of Western Poison Oak than an oak tree. Option B is unsupported — the passage does not compare severity. Option C generalises beyond the text. Option D is contradicted — resin is only present when the plant is damaged."
       },
       "el": {
-        "passage": "",
-        "question": "11. ",
+        "passage": "Η Δυτική Δηλητηριώδης Βελανιδιά στην πραγματικότητα δεν συγγενεύει με τις βελανιδιές περισσότερο απ' ό,τι ο Δηλητηριώδης Κισσός συγγενεύει με τον κισσό. Στην πραγματικότητα, τόσο ο Δηλητηριώδης Κισσός όσο και η Δυτική Δηλητηριώδης Βελανιδιά ανήκουν στην οικογένεια Sumac θάμνων και δέντρων (της οποίας μέλος είναι και το δέντρο κάσιους). Και οι δύο περιέχουν ρητινώδη χυμό που προκαλεί ενοχλητικό φαγούρα και συχνά φουσκάλες στο δέρμα όταν έρθει σε επαφή με ανθρώπους. Ενώ οι θάμνοι δεν εκκρίνουν φυσικά τη ρητίνη — βρίσκεται μόνο στο φλοιό και τα φύλλα αν το φυτό έχει υποστεί κάποια ζημιά — ορισμένοι άνθρωποι είναι τόσο ευαίσθητοι που μόνο ένα ή δύο μόρια της τοξίνης αρκούν για να προκαλέσουν αντίδραση.",
+        "question": "11. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Το δέντρο κάσιους συγγενεύει πιο στενά με τη Δυτική Δηλητηριώδη Βελανιδιά απ' ό,τι μια βελανιδιά.",
+          "Η Δυτική Δηλητηριώδης Βελανιδιά είναι πιο ερεθιστική για τους ανθρώπους από τον Δηλητηριώδη Κισσό.",
+          "Τα περισσότερα μέλη της οικογένειας Sumac έχουν τοξικό χυμό.",
+          "Η απλή επαφή με ένα αδαμάγωτο δέντρο κάσιους προκαλεί ερεθισμό στους ανθρώπους."
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το κείμενο αναφέρει ότι τόσο η Δηλητηριώδης Βελανιδιά όσο και το δέντρο κάσιους ανήκουν στην οικογένεια Sumac, ενώ η Βελανιδιά δεν συγγενεύει με τις βελανιδιές. Άρα το κάσιους συγγενεύει πιο στενά. Η Β δεν υποστηρίζεται· η Γ γενικεύει πέρα από το κείμενο· η Δ αντικρούεται από το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "12. ",
+        "passage": "The Digital Agenda's objective is to bring broadband internet to all people including those living in isolated areas by 2013. However, expensive new infrastructures and the low density of demand deter telecoms companies from installing the necessary broadband infrastructure. To tackle this problem the EU will work with Member States to reinforce and better target regional and other funding programmes to support investment and adopt measures lowering investment costs. The Digital Agenda also foresees proposals to ensure that part of the digital dividend — the radio frequencies freed up by the move from analogue to digital broadcasting — can be used for wireless broadband technologies. This is particularly important because wireless (terrestrial and satellite) broadband is not only opening up exciting new services but will be crucial to the provision of fast internet for all, including remote and rural regions.",
+        "question": "12. What is one of the main challenges to providing broadband internet access in remote and rural areas under the EU Digital Agenda?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "A lack of interest from citizens in using digital services.",
+          "High infrastructure costs combined with low demand density.",
+          "Legal restrictions on satellite communications.",
+          "Competition between analogue and digital television broadcasters."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "The passage explicitly identifies that telecoms companies are deterred by 'expensive new infrastructures and the low density of demand.' This combination of high cost and low demand density is the primary barrier described. Options A, C, and D are not mentioned in the text."
       },
       "el": {
-        "passage": "",
-        "question": "12. ",
+        "passage": "Στόχος της Ψηφιακής Ατζέντας είναι η παροχή ευρυζωνικού διαδικτύου σε όλους τους πολίτες, συμπεριλαμβανομένων αυτών που ζουν σε απομακρυσμένες περιοχές, έως το 2013. Ωστόσο, το υψηλό κόστος νέων υποδομών και η χαμηλή πυκνότητα ζήτησης αποτρέπουν τις τηλεπικοινωνιακές εταιρείες από την εγκατάσταση της αναγκαίας ευρυζωνικής υποδομής. Για να αντιμετωπιστεί αυτό, η ΕΕ θα συνεργαστεί με τα κράτη μέλη για να ενισχύσει και να στοχεύσει καλύτερα τα περιφερειακά και άλλα προγράμματα χρηματοδότησης. Η Ψηφιακή Ατζέντα προβλέπει επίσης προτάσεις για τη χρήση μέρους του «ψηφιακού μερίσματος» — των ραδιοσυχνοτήτων που ελευθερώνονται με τη μετάβαση από την αναλογική στην ψηφιακή εκπομπή — για ασύρματες τεχνολογίες ευρυζωνικής σύνδεσης.",
+        "question": "12. Ποια είναι μία από τις κύριες προκλήσεις για την παροχή ευρυζωνικής πρόσβασης στο διαδίκτυο σε απομακρυσμένες και αγροτικές περιοχές στο πλαίσιο της Ψηφιακής Ατζέντας της ΕΕ;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Έλλειψη ενδιαφέροντος από τους πολίτες για χρήση ψηφιακών υπηρεσιών.",
+          "Υψηλό κόστος υποδομών σε συνδυασμό με χαμηλή πυκνότητα ζήτησης.",
+          "Νομικοί περιορισμοί στις δορυφορικές επικοινωνίες.",
+          "Ανταγωνισμός μεταξύ αναλογικών και ψηφιακών τηλεοπτικών εκπομπών."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι οι τηλεπικοινωνιακές εταιρείες αποτρέπονται από το «υψηλό κόστος νέων υποδομών και τη χαμηλή πυκνότητα ζήτησης». Αυτός ο συνδυασμός είναι το κύριο εμπόδιο που περιγράφεται. Οι επιλογές Α, Γ και Δ δεν αναφέρονται στο κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "13. ",
+        "passage": "The blend of aggregates bound together with a cement paste and activated by water form a dense mass known as concrete. Concrete has been used throughout much of human history. As of the twenty-first century, it is the most widely used human-made material. In the later part of the twentieth-century, major improvements in the chemistry of concrete mixtures have granted structures improved lifespans and ease of manufacturing. This has led to the development of new possibilities, such as longer bridge spans and taller buildings. Equally, concrete construction has also become more affordable for many improving economies. As such, developing countries have been able to produce more sophisticated construction that was not possible in previous decades.",
+        "question": "13. Which of the following statements is NOT consistent with the information provided about concrete?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Concrete is formed by a mixture of water, aggregates, and cement paste.",
+          "Sophisticated construction in developing countries has been enabled by lower costs.",
+          "Concrete use is a strictly modern phenomenon emerging in the 21st century.",
+          "Major chemical improvements in the 20th century increased the lifespan of structures."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "The text states that concrete 'has been used throughout much of human history,' directly contradicting the idea that it is a strictly modern phenomenon emerging in the 21st century. Options A, B, and D are all consistent with information given in the passage."
       },
       "el": {
-        "passage": "",
-        "question": "13. ",
+        "passage": "Το μείγμα αδρανών υλικών συνδεδεμένων με τσιμεντόπαστα και ενεργοποιημένων με νερό σχηματίζει μια πυκνή μάζα γνωστή ως σκυρόδεμα. Το σκυρόδεμα χρησιμοποιείται καθ' όλη τη διάρκεια της ανθρώπινης ιστορίας. Τον 21ο αιώνα αποτελεί το πλέον διαδεδομένο κατασκευαστικό υλικό ανθρώπινης παραγωγής. Στο τέλος του 20ού αιώνα, σημαντικές βελτιώσεις στη χημεία των μιγμάτων σκυροδέματος έδωσαν σε κατασκευές βελτιωμένη διάρκεια ζωής. Αυτό οδήγησε στην ανάπτυξη νέων δυνατοτήτων, όπως μεγαλύτερα ανοίγματα γεφυρών και υψηλότερα κτήρια. Επίσης, η κατασκευή από σκυρόδεμα έγινε πιο προσιτή για πολλές αναπτυσσόμενες οικονομίες.",
+        "question": "13. Ποια από τις παρακάτω δηλώσεις ΔΕΝ είναι συνεπής με τις πληροφορίες που παρέχονται για το σκυρόδεμα;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Το σκυρόδεμα σχηματίζεται από μείγμα νερού, αδρανών υλικών και τσιμεντόπαστας.",
+          "Η εξελιγμένη κατασκευή στις αναπτυσσόμενες χώρες έχει καταστεί εφικτή χάρη στο χαμηλότερο κόστος.",
+          "Η χρήση σκυροδέματος είναι αυστηρά σύγχρονο φαινόμενο που αναδύθηκε τον 21ο αιώνα.",
+          "Οι σημαντικές χημικές βελτιώσεις του 20ού αιώνα αύξησαν τη διάρκεια ζωής των κατασκευών."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι το σκυρόδεμα «χρησιμοποιείται καθ' όλη τη διάρκεια της ανθρώπινης ιστορίας», αντικρούοντας άμεσα την ιδέα ότι είναι αυστηρά σύγχρονο φαινόμενο. Οι Α, Β και Δ είναι συνεπείς με το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "14. ",
+        "passage": "Psychologist Raymond Cattell proposed that human intelligence can be divided into two distinct types: fluid intelligence and crystallized intelligence. Fluid intelligence refers to the capacity to solve novel problems, recognize patterns, and adapt to unfamiliar situations; it is independent of acquired knowledge and often measured through abstract reasoning tests. Crystallized intelligence, by contrast, involves accumulated knowledge, vocabulary, and learned skills, typically assessed through verbal and factual questions. Fluid intelligence tends to peak in early adulthood and decline with age, while crystallized intelligence may improve well into later life. In practice, fluid intelligence is more useful when dealing with ambiguity or change, such as navigating a new software interface or deciphering logic puzzles. Crystallized intelligence, however, proves superior in situations requiring experience or stored knowledge, such as reading comprehension or professional decision-making. Both forms of intelligence contribute to cognitive performance, though their applications and trajectories differ.",
+        "question": "14. Which of the following best distinguishes fluid intelligence from crystallized intelligence, as described in the passage?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Fluid intelligence is acquired through reading, while crystallized intelligence is innate.",
+          "Fluid intelligence relies on prior learning, while crystallized intelligence requires quick thinking.",
+          "Fluid intelligence involves problem-solving in unfamiliar contexts, while crystallized intelligence relies on stored knowledge.",
+          "Fluid intelligence is measured through vocabulary tests, while crystallized intelligence is measured through puzzles."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "The passage defines fluid intelligence as the ability to solve novel problems and adapt to unfamiliar situations, while crystallized intelligence is based on accumulated knowledge and learned skills. Option C captures this distinction precisely. Option A reverses the definitions. Option B also reverses the definitions. Option D swaps the assessment methods described in the passage."
       },
       "el": {
-        "passage": "",
-        "question": "14. ",
+        "passage": "Ο ψυχολόγος Raymond Cattell πρότεινε ότι η ανθρώπινη νοημοσύνη μπορεί να χωριστεί σε δύο διακριτούς τύπους: τη ρευστή νοημοσύνη και την κρυσταλλωμένη νοημοσύνη. Η ρευστή νοημοσύνη αναφέρεται στην ικανότητα επίλυσης νέων προβλημάτων, αναγνώρισης προτύπων και προσαρμογής σε άγνωστες καταστάσεις· είναι ανεξάρτητη από αποκτημένες γνώσεις και συχνά μετράται μέσω δοκιμασιών αφηρημένης συλλογιστικής. Η κρυσταλλωμένη νοημοσύνη, αντιθέτως, περιλαμβάνει συσσωρευμένες γνώσεις, λεξιλόγιο και εκμαθημένες δεξιότητες, και αξιολογείται συνήθως μέσω λεκτικών και πραγματολογικών ερωτήσεων. Η ρευστή νοημοσύνη τείνει να κορυφώνεται στην πρώιμη ενηλικίωση και να μειώνεται με την ηλικία, ενώ η κρυσταλλωμένη μπορεί να βελτιώνεται έως τα γηρατειά.",
+        "question": "14. Ποιο από τα παρακάτω αποδίδει καλύτερα τη διαφορά μεταξύ ρευστής και κρυσταλλωμένης νοημοσύνης, όπως περιγράφεται στο κείμενο;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Η ρευστή νοημοσύνη αποκτάται μέσω της ανάγνωσης, ενώ η κρυσταλλωμένη είναι έμφυτη.",
+          "Η ρευστή νοημοσύνη στηρίζεται σε προηγούμενη μάθηση, ενώ η κρυσταλλωμένη απαιτεί γρήγορη σκέψη.",
+          "Η ρευστή νοημοσύνη αφορά την επίλυση προβλημάτων σε άγνωστα πλαίσια, ενώ η κρυσταλλωμένη βασίζεται σε αποθηκευμένες γνώσεις.",
+          "Η ρευστή νοημοσύνη μετράται μέσω δοκιμασιών λεξιλογίου, ενώ η κρυσταλλωμένη μέσω γρίφων."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Το κείμενο ορίζει τη ρευστή νοημοσύνη ως ικανότητα επίλυσης νέων προβλημάτων σε άγνωστες καταστάσεις, ενώ η κρυσταλλωμένη βασίζεται σε συσσωρευμένες γνώσεις. Η Γ αποτυπώνει αυτή τη διάκριση με ακρίβεια. Οι Α και Β αντιστρέφουν τους ορισμούς· η Δ εναλλάσσει τις μεθόδους αξιολόγησης."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "15. ",
+        "passage": "Mario Draghi has repeatedly urged the European Union to reconsider its regulatory culture. He argues that while rules are meant to safeguard citizens and ensure fair competition, they often become fixed quickly, especially in fast-moving sectors like artificial intelligence, biotechnology, and digital finance. Over time, what once provided clarity may become a barrier to innovation. Draghi warns that the EU risks lagging behind the United States and China, where looser frameworks enable quicker technological adoption. For Europe, he suggests, the challenge is to remain protective without becoming paralyzing.",
+        "question": "15. According to the passage, Draghi believes that:",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Strong regulations are essential for Europe to catch up with the US and China.",
+          "Regulations can lose relevance over time and hinder technological innovation.",
+          "The EU already surpasses the US and China in technological adoption.",
+          "Looser regulatory frameworks in the US and China are harmful to innovation."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "The passage clearly states that regulations 'become fixed quickly' and can become 'a barrier to innovation,' which is the core of Draghi's argument. Option A is the opposite of his view. Option C directly contradicts the passage. Option D contradicts the passage, which presents US and China's looser frameworks as enabling faster adoption."
       },
       "el": {
-        "passage": "",
-        "question": "15. ",
+        "passage": "Ο Μάριο Ντράγκι έχει επανειλημμένα καλέσει την Ευρωπαϊκή Ένωση να επανεξετάσει τη ρυθμιστική της κουλτούρα. Υποστηρίζει ότι, ενώ οι κανόνες αποσκοπούν στη διαφύλαξη των πολιτών και στη διασφάλιση θεμιτού ανταγωνισμού, συχνά παγιώνονται γρήγορα, ιδιαίτερα σε ταχέως εξελισσόμενους τομείς όπως η τεχνητή νοημοσύνη, η βιοτεχνολογία και η ψηφιακή χρηματοδότηση. Με την πάροδο του χρόνου, αυτό που κάποτε παρείχε σαφήνεια μπορεί να μετατραπεί σε εμπόδιο στην καινοτομία. Ο Ντράγκι προειδοποιεί ότι η ΕΕ κινδυνεύει να υστερεί έναντι των ΗΠΑ και της Κίνας, όπου πιο χαλαρά ρυθμιστικά πλαίσια επιτρέπουν ταχύτερη υιοθέτηση τεχνολογιών.",
+        "question": "15. Σύμφωνα με το κείμενο, ο Ντράγκι πιστεύει ότι:",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Η αυστηρή ρύθμιση είναι απαραίτητη για να καταφέρει η Ευρώπη να φτάσει τις ΗΠΑ και την Κίνα.",
+          "Οι κανονισμοί μπορεί να χάσουν τη συνάφειά τους με την πάροδο του χρόνου και να εμποδίσουν την τεχνολογική καινοτομία.",
+          "Η ΕΕ ήδη υπερτερεί των ΗΠΑ και της Κίνας στην υιοθέτηση τεχνολογιών.",
+          "Τα πιο χαλαρά ρυθμιστικά πλαίσια στις ΗΠΑ και την Κίνα είναι επιβλαβή για την καινοτομία."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Το κείμενο δηλώνει ρητά ότι οι κανονισμοί «παγιώνονται γρήγορα» και μπορούν να μετατραπούν σε «εμπόδιο στην καινοτομία». Η Α αντιτίθεται στην άποψή του· η Γ αντικρούεται ρητά· η Δ αντιφάσκει με το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "16. ",
+        "passage": "Although there are many more small and medium-sized firms than large companies, big businesses play a dominant role in the economy. Big businesses are important to the overall economy because they tend to have more financial resources to conduct research and develop new goods than do small firms. Large companies can supply goods and services to more people, and they frequently operate more efficiently than small ones. In addition, because large volumes tend to lead to lower costs per unit, they can often sell their products at lower prices because of the large volume of sales they achieve. Large businesses also have an advantage in the marketplace because many consumers are attracted to well-known brand names, which they believe offer a certain level of quality.",
+        "question": "16. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Large businesses can produce goods of a higher quality than small businesses can.",
+          "Developing new products is easier for large businesses than for small ones because large companies have lower research costs.",
+          "The total number of products sold by large businesses is greater than the total number sold by small ones.",
+          "Large businesses can offer goods at lower prices because they sell more of them than small businesses do."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "The text explains that large volumes lead to lower costs per unit, allowing large businesses to sell at lower prices 'because of the large volume of sales they achieve.' Option A is not supported — the text mentions brand perception, not actual quality. Option B misreads the text, which says large firms have more resources, not lower research costs. Option C is not stated in the passage."
       },
       "el": {
-        "passage": "",
-        "question": "16. ",
+        "passage": "Αν και υπάρχουν πολύ περισσότερες μικρές και μεσαίες επιχειρήσεις από μεγάλες, οι μεγάλες επιχειρήσεις διαδραματίζουν κυρίαρχο ρόλο στην οικονομία. Οι μεγάλες επιχειρήσεις είναι σημαντικές για τη συνολική οικονομία επειδή τείνουν να διαθέτουν περισσότερους χρηματοοικονομικούς πόρους για έρευνα και ανάπτυξη νέων αγαθών. Οι μεγάλες εταιρείες μπορούν να προμηθεύουν αγαθά και υπηρεσίες σε περισσότερους ανθρώπους και συχνά λειτουργούν αποδοτικότερα. Επιπλέον, επειδή οι μεγάλοι όγκοι τείνουν να οδηγούν σε χαμηλότερο κόστος ανά μονάδα, μπορούν συχνά να πουλούν τα προϊόντα τους σε χαμηλότερες τιμές λόγω του μεγάλου όγκου πωλήσεων που επιτυγχάνουν.",
+        "question": "16. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Οι μεγάλες επιχειρήσεις μπορούν να παράγουν αγαθά υψηλότερης ποιότητας από τις μικρές.",
+          "Η ανάπτυξη νέων προϊόντων είναι ευκολότερη για τις μεγάλες επιχειρήσεις επειδή έχουν χαμηλότερο κόστος έρευνας.",
+          "Ο συνολικός αριθμός προϊόντων που πωλούνται από μεγάλες επιχειρήσεις είναι μεγαλύτερος από αυτόν των μικρών.",
+          "Οι μεγάλες επιχειρήσεις μπορούν να προσφέρουν αγαθά σε χαμηλότερες τιμές επειδή πωλούν μεγαλύτερες ποσότητες από τις μικρές."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Το κείμενο εξηγεί ότι οι μεγάλοι όγκοι οδηγούν σε χαμηλότερο κόστος ανά μονάδα, επιτρέποντας χαμηλότερες τιμές. Η Α δεν υποστηρίζεται· η Β παρερμηνεύει το κείμενο· η Γ δεν αναφέρεται στο κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "17. ",
+        "passage": "A political agreement on a Regulation will considerably improve the provisions governing animal transport in Europe. This Regulation increases accountability by identifying clearly who is responsible for what and when, which will help enormously in ensuring that the rules are properly enforced throughout the animals' journey. It provides for the introduction from 2007 of new, more effective enforcement tools such as checks via a satellite navigation system. It also introduces much stricter rules for journeys of more than eight hours, in particular by substantially upgrading vehicle standards. The Regulation recognises that stress suffered by animals is mostly due to loading and unloading and therefore introduces rules to deal with situations before and after transport, for example at slaughterhouses or in ports.",
+        "question": "17. Which of the following conclusions can be validly drawn regarding the new Regulation's approach to animal welfare?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "The Regulation's primary focus is on reducing the total duration of journeys to under eight hours to minimise stress.",
+          "Improved animal welfare is sought through a combination of technological monitoring, structural requirements, and procedural oversight.",
+          "The new enforcement tools, such as satellite navigation, are designed to replace physical checks at slaughterhouses and ports.",
+          "By identifying responsible parties, the Regulation shifts the legal burden of animal stress exclusively onto vehicle operators."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "The text outlines a multi-faceted approach: technological (satellite navigation checks), structural (upgraded vehicle standards for long journeys), and procedural (accountability and rules for loading/unloading). This combination directly corresponds to option B. Option A misrepresents the text — stricter rules apply to journeys over eight hours, not a reduction to under eight. Option C is unsupported. Option D overstates the scope of accountability provisions."
       },
       "el": {
-        "passage": "",
-        "question": "17. ",
+        "passage": "Μια πολιτική συμφωνία για έναν Κανονισμό θα βελτιώσει σημαντικά τις διατάξεις που διέπουν τη μεταφορά ζώων στην Ευρώπη. Αυτός ο Κανονισμός ενισχύει τη λογοδοσία προσδιορίζοντας σαφώς ποιος είναι υπεύθυνος για τι και πότε, γεγονός που θα βοηθήσει σημαντικά στη διασφάλιση της ορθής εφαρμογής των κανόνων καθ' όλη τη διαδρομή των ζώων. Προβλέπει από το 2007 νέα, πιο αποτελεσματικά εργαλεία επιβολής, όπως ελέγχους μέσω συστήματος δορυφορικής πλοήγησης. Επίσης, εισάγει πολύ αυστηρότερους κανόνες για διαδρομές άνω των οκτώ ωρών, αναβαθμίζοντας σημαντικά τα πρότυπα οχημάτων. Ο Κανονισμός αναγνωρίζει ότι το άγχος που υφίστανται τα ζώα οφείλεται κυρίως στη φόρτωση και εκφόρτωση και εισάγει κανόνες για καταστάσεις πριν και μετά τη μεταφορά.",
+        "question": "17. Ποιο από τα παρακάτω συμπεράσματα μπορεί να συναχθεί εγκύρως σχετικά με την προσέγγιση του νέου Κανονισμού για την καλή μεταχείριση των ζώων;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Ο Κανονισμός επικεντρώνεται κυρίως στη μείωση της συνολικής διάρκειας των διαδρομών κάτω από οκτώ ώρες για την ελαχιστοποίηση του άγχους.",
+          "Η βελτιωμένη καλή μεταχείριση των ζώων επιδιώκεται μέσω συνδυασμού τεχνολογικής παρακολούθησης, δομικών απαιτήσεων και διαδικαστικής εποπτείας.",
+          "Τα νέα εργαλεία επιβολής, όπως η δορυφορική πλοήγηση, έχουν σχεδιαστεί για να αντικαταστήσουν τους φυσικούς ελέγχους στα σφαγεία και τα λιμάνια.",
+          "Με τον προσδιορισμό υπευθύνων, ο Κανονισμός μεταθέτει αποκλειστικά στους οδηγούς οχημάτων το νομικό βάρος του άγχους των ζώων."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Το κείμενο περιγράφει μια πολύπλευρη προσέγγιση: τεχνολογική (δορυφορική πλοήγηση), δομική (αναβαθμισμένα πρότυπα οχημάτων) και διαδικαστική (λογοδοσία και κανόνες φόρτωσης/εκφόρτωσης). Η Α παρερμηνεύει το κείμενο· η Γ δεν υποστηρίζεται· η Δ υπερβάλλει."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "18. ",
+        "passage": "In a modern knowledge-based and globalised economy, workers may need to change jobs several times during their careers. To respond to this reality, many European countries promote the concept of 'flexicurity.' This model combines flexible labour market rules for employers with strong social protection for employees. It aims to make it easier for businesses to adapt to economic change while ensuring support for unemployed workers. Flexicurity does not encourage unstable or insecure employment. Instead, it seeks to create conditions in which workers can move more easily between jobs, ideally progressing towards better salaries and improved working conditions. In this way, job mobility becomes a normal and positive part of professional development.",
+        "question": "18. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Flexicurity aims to reduce job mobility in order to provide workers with lifelong employment in a single company.",
+          "Flexicurity guarantees high unemployment benefits only for workers employed in temporary contracts.",
+          "Flexicurity mainly focuses on increasing the number of temporary and short-term jobs in the labour market.",
+          "Flexicurity combines labour market flexibility for employers with social security measures for employees."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "The passage explains that flexicurity combines flexible hiring and firing rules for employers with strong social protection for workers, while promoting positive career mobility rather than job insecurity. Option A is directly contradicted — flexicurity encourages mobility, not stability in one job. Option B is not supported. Option C is also contradicted, as the passage explicitly states flexicurity does not encourage unstable employment."
       },
       "el": {
-        "passage": "",
-        "question": "18. ",
+        "passage": "Σε μια σύγχρονη οικονομία βασισμένη στη γνώση και παγκοσμιοποιημένη, οι εργαζόμενοι μπορεί να χρειαστεί να αλλάξουν δουλειά αρκετές φορές κατά τη διάρκεια της σταδιοδρομίας τους. Για να ανταποκριθούν σε αυτή την πραγματικότητα, πολλές ευρωπαϊκές χώρες προωθούν την έννοια της «ευελιξίας με ασφάλεια» (flexicurity). Αυτό το μοντέλο συνδυάζει ευέλικτους κανόνες αγοράς εργασίας για τους εργοδότες με ισχυρή κοινωνική προστασία για τους εργαζομένους. Στοχεύει να διευκολύνει τις επιχειρήσεις να προσαρμοστούν στις οικονομικές αλλαγές, παράλληλα με τη διασφάλιση υποστήριξης για τους ανέργους. Το flexicurity δεν ενθαρρύνει ασταθή ή επισφαλή απασχόληση. Αντίθετα, επιδιώκει να δημιουργήσει συνθήκες στις οποίες οι εργαζόμενοι μπορούν να μετακινούνται πιο εύκολα μεταξύ θέσεων εργασίας.",
+        "question": "18. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Το flexicurity στοχεύει στη μείωση της κινητικότητας εργασίας ώστε να παρέχει στους εργαζομένους ισόβια απασχόληση σε μια εταιρεία.",
+          "Το flexicurity εγγυάται υψηλά επιδόματα ανεργίας αποκλειστικά για εργαζομένους με συμβάσεις ορισμένου χρόνου.",
+          "Το flexicurity επικεντρώνεται κυρίως στην αύξηση του αριθμού προσωρινών θέσεων εργασίας στην αγορά.",
+          "Το flexicurity συνδυάζει ευελιξία στην αγορά εργασίας για τους εργοδότες με μέτρα κοινωνικής ασφάλισης για τους εργαζομένους."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Το κείμενο εξηγεί ότι το flexicurity συνδυάζει ευέλικτους κανόνες πρόσληψης/απόλυσης με ισχυρή κοινωνική προστασία. Η Α αντικρούεται ρητά· η Β δεν υποστηρίζεται· η Γ επίσης αντικρούεται από το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "19. ",
+        "passage": "For centuries, large numbers of Europeans emigrated to regions such as the Americas, Australasia and parts of Africa in search of better living conditions or to escape political and religious persecution. In recent decades, however, the situation has reversed, with the European Union becoming an important destination for immigrants due to its economic prosperity and political stability. After the Second World War, many western European countries encouraged immigration from nearby regions and former colonies to meet growing labour demands during periods of rapid economic expansion. These immigrant populations played a significant role in the development of modern European prosperity. At the same time, European integration also encouraged mobility within the EU itself, as citizens gained the right to live and work freely across Member States.",
+        "question": "19. Which of the following statements is correct?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Europeans historically emigrated mainly because the Americas and Australasia experienced labour shortages after the Second World War.",
+          "Immigration to the EU began only after the creation of the European Union and was mainly driven by political instability within Europe.",
+          "Post-war western European countries restricted immigration because rising economic growth reduced the need for additional workers.",
+          "Both immigration from outside Europe and free movement within the EU contributed to the development of today's European Union."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "The passage explains that immigrants from outside Europe helped build the EU's prosperity after the Second World War, while internal free movement within the EU also increased mobility and integration. Both factors are explicitly credited. Option A misrepresents the historical motivations. Option B is contradicted — post-war countries encouraged immigration. Option C is the opposite of what the passage states."
       },
       "el": {
-        "passage": "",
-        "question": "19. ",
+        "passage": "Για αιώνες, μεγάλος αριθμός Ευρωπαίων μετανάστευε σε περιοχές όπως η Αμερική, η Αυστραλασία και τμήματα της Αφρικής αναζητώντας καλύτερες συνθήκες διαβίωσης ή για να ξεφύγουν από πολιτικές και θρησκευτικές διώξεις. Τις τελευταίες δεκαετίες, ωστόσο, η κατάσταση αντιστράφηκε, με την Ευρωπαϊκή Ένωση να καθίσταται σημαντικός προορισμός για μετανάστες λόγω της οικονομικής της ευημερίας και πολιτικής σταθερότητας. Μετά τον Δεύτερο Παγκόσμιο Πόλεμο, πολλές δυτικοευρωπαϊκές χώρες ενθάρρυναν τη μετανάστευση από γειτονικές περιοχές και πρώην αποικίες για να καλύψουν τις αυξανόμενες ανάγκες εργατικού δυναμικού. Αυτοί οι πληθυσμοί μεταναστών διαδραμάτισαν σημαντικό ρόλο στην ανάπτυξη της σύγχρονης ευρωπαϊκής ευημερίας. Παράλληλα, η ευρωπαϊκή ολοκλήρωση ενθάρρυνε και την κινητικότητα εντός της ΕΕ.",
+        "question": "19. Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Οι Ευρωπαίοι μετανάστευαν ιστορικά κυρίως επειδή η Αμερική και η Αυστραλασία αντιμετώπιζαν ελλείψεις εργατικού δυναμικού μετά τον Β΄ Παγκόσμιο Πόλεμο.",
+          "Η μετανάστευση στην ΕΕ ξεκίνησε μόνο μετά τη δημιουργία της Ευρωπαϊκής Ένωσης και οφειλόταν κυρίως στην πολιτική αστάθεια εντός της Ευρώπης.",
+          "Οι δυτικοευρωπαϊκές χώρες μετά τον πόλεμο περιόρισαν τη μετανάστευση επειδή η οικονομική ανάπτυξη μείωσε την ανάγκη για πρόσθετους εργαζομένους.",
+          "Τόσο η μετανάστευση από εκτός Ευρώπης όσο και η ελεύθερη κυκλοφορία εντός της ΕΕ συνέβαλαν στην ανάπτυξη της σημερινής Ευρωπαϊκής Ένωσης."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Το κείμενο εξηγεί ότι οι μετανάστες από εκτός Ευρώπης βοήθησαν στην οικονομική ανάπτυξη μετά τον Β΄ ΠΠ, ενώ η ελεύθερη κυκλοφορία εντός ΕΕ αύξησε επίσης την κινητικότητα. Και οι δύο παράγοντες εκτιμώνται ρητά. Η Α παρερμηνεύει τα ιστορικά κίνητρα· η Β αντικρούεται· η Γ είναι το αντίθετο από αυτό που αναφέρει το κείμενο."
       }
     },
     {
       "en": {
-        "passage": "",
-        "question": "20. ",
+        "passage": "There are 45,000 road deaths per year in Europe, a number which governments all over Europe are trying hard to reduce. At the same time, 60,000 deaths are caused by air pollution. In both cases, children, in particular those living in urban areas, are the most vulnerable. Many cities and towns across Europe are already working hard on promoting alternative means of transport: they are providing good, efficient public transport, they offer incentives to citizens that go for environmentally friendly cars, they try to give the city centre back to pedestrians, etc. Mobility Week is an event where they can present new initiatives and see what others are doing. It focuses on the benefits of sustainable modes of transport and policies that improve air quality, reduce noise and enhance people's quality of life.",
+        "question": "20. Based on the text, what can be inferred about the strategic role of 'Mobility Week' in the context of European urban policy?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "It serves as a primary regulatory body for imposing fines on cities with high air pollution levels.",
+          "It functions as a platform for knowledge exchange and the promotion of holistic urban sustainability measures.",
+          "It is designed to exclusively benefit children in urban areas by eliminating road traffic during that week.",
+          "Its main purpose is to provide direct financial incentives for the purchase of environmentally friendly vehicles."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "The text describes Mobility Week as an event where cities 'present new initiatives and see what others are doing' (knowledge exchange) and highlights its focus on sustainable transport, air quality, and noise reduction (holistic urban sustainability). Option A is not supported. Option C introduces a specific limitation not found in the text. Option D misrepresents the text — incentives for green cars are a city-level initiative, not Mobility Week's purpose."
       },
       "el": {
-        "passage": "",
-        "question": "20. ",
+        "passage": "Υπάρχουν 45.000 θάνατοι σε τροχαία ατυχήματα ετησίως στην Ευρώπη, αριθμός που οι κυβερνήσεις σε όλη την Ευρώπη προσπαθούν να μειώσουν. Ταυτόχρονα, 60.000 θάνατοι οφείλονται στην ατμοσφαιρική ρύπανση. Και στις δύο περιπτώσεις, τα παιδιά, ιδιαίτερα αυτά που ζουν σε αστικές περιοχές, είναι τα πιο ευάλωτα. Πολλές πόλεις σε ολόκληρη την Ευρώπη προωθούν ήδη εναλλακτικά μέσα μεταφοράς: παρέχουν αποδοτικές δημόσιες συγκοινωνίες, προσφέρουν κίνητρα για φιλικά προς το περιβάλλον αυτοκίνητα, επιστρέφουν το κέντρο στους πεζούς κ.λπ. Η Εβδομάδα Κινητικότητας είναι μια εκδήλωση όπου μπορούν να παρουσιάζουν νέες πρωτοβουλίες και να βλέπουν τι κάνουν άλλοι. Εστιάζει στα οφέλη των βιώσιμων μεταφορών και πολιτικών που βελτιώνουν την ποιότητα του αέρα, μειώνουν τον θόρυβο και ενισχύουν την ποιότητα ζωής.",
+        "question": "20. Βάσει του κειμένου, τι μπορεί να συναχθεί για τον στρατηγικό ρόλο της «Εβδομάδας Κινητικότητας» στο πλαίσιο της ευρωπαϊκής αστικής πολιτικής;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Λειτουργεί ως κύριος ρυθμιστικός φορέας επιβολής προστίμων σε πόλεις με υψηλά επίπεδα ατμοσφαιρικής ρύπανσης.",
+          "Λειτουργεί ως πλατφόρμα ανταλλαγής γνώσεων και προώθησης ολιστικών μέτρων αστικής βιωσιμότητας.",
+          "Έχει σχεδιαστεί αποκλειστικά για να ωφελεί τα παιδιά σε αστικές περιοχές εξαλείφοντας την οδική κυκλοφορία εκείνη την εβδομάδα.",
+          "Κύριος σκοπός της είναι η παροχή άμεσων οικονομικών κινήτρων για την αγορά φιλικών προς το περιβάλλον οχημάτων."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Το κείμενο περιγράφει την Εβδομάδα Κινητικότητας ως εκδήλωση όπου οι πόλεις «παρουσιάζουν νέες πρωτοβουλίες και βλέπουν τι κάνουν άλλοι» (ανταλλαγή γνώσεων) με έμφαση στις βιώσιμες μεταφορές, την ποιότητα αέρα και τη μείωση θορύβου. Η Α δεν υποστηρίζεται· η Γ εισάγει περιορισμό που δεν υπάρχει στο κείμενο· η Δ παρερμηνεύει τον σκοπό της εκδήλωσης."
       }
     }
   ]
-}
+  }
