@@ -1,5 +1,5 @@
 {
-  "num_1": [
+"num_1": [
     {
       "en": {
         "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% of Population Using E-Government Services in selected EU Member States (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Denmark</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Greece</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Estonia</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>France</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
@@ -420,11 +420,551 @@
         "options": ["71.500 εκατ. €","79.800 εκατ. €","82.000 εκατ. €","61.500 εκατ. €"],
         "answer": 3,
         "explanation": "Συνολική δαπάνη Γαλλίας: 18.300 × 68.000.000 = 1.244.400.000.000 €. Αναψυχή &amp; Πολιτισμός (5,0%): 62.220.000.000 € = 62.220 εκατ. €. Συνολική δαπάνη Εσθονίας: 10.500 × 1.400.000 = 14.700.000.000 €. Μεταφορές (5,0%): 735.000.000 € = 735 εκατ. €. Διαφορά: 62.220 − 735 = 61.485 εκατ. € ≈ 61.500 εκατ. €. Απάντηση: Δ) 61.500 εκατ. €."
-         }
       }
-   ],
-   "numerical_3":[   
-   ],
-   "numerical_4":[  
-   ]
+    }
+  ],
+  "num_3": [
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Renewable Energy Investments and Projected Carbon Offsets (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Member State</th><th>Total Energy Budget (€ M)</th><th>Renewables Allocation (%)</th><th>CO₂ Reduction per €1 M Invested (kt)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Country A</strong></td><td>450</td><td>28%</td><td>14.2</td></tr><tr><td><strong>Country B</strong></td><td>320</td><td>45%</td><td>11.5</td></tr><tr style='background:#f7f7f7;'><td><strong>Country C</strong></td><td>680</td><td>15%</td><td>18.5</td></tr><tr><td><strong>Country D</strong></td><td>290</td><td>35%</td><td>16.0</td></tr></tbody></table>",
+        "question": "1. If Country C reallocates its budget so that its absolute spending on renewables matches Country B's absolute spending on renewables, what will be the new total expected CO₂ reduction for Country C from its renewable energy investments?",
+        "options": [
+          "1,842.3 kt",
+          "2,664.0 kt",
+          "2,073.6 kt",
+          "2,414.2 kt"
+        ],
+        "answer": 1,
+        "explanation": "Step 1: Find Country B's absolute renewable spending: 320 × 45% = 144 M€. Step 2: Apply this as Country C's new investment (144 M€). Step 3: CO₂ reduction for Country C: 144 × 18.5 = 2,664.0 kt. Option A (1,842.3 kt) mistakenly uses Country C's original 15% allocation on its full budget. Option C (2,073.6 kt) applies Country B's CO₂ rate (11.5) instead of Country C's (18.5). Option D (2,414.2 kt) uses an incorrect spending figure of 130.5 M€."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Επενδύσεις Ανανεώσιμης Ενέργειας και Προβλεπόμενες Μειώσεις CO₂ (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Κράτος Μέλος</th><th>Συνολικός Ενεργειακός Προϋπολογισμός (€ εκ.)</th><th>Κατανομή σε ΑΠΕ (%)</th><th>Μείωση CO₂ ανά €1 εκ. Επένδυσης (kt)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Χώρα Α</strong></td><td>450</td><td>28%</td><td>14,2</td></tr><tr><td><strong>Χώρα Β</strong></td><td>320</td><td>45%</td><td>11,5</td></tr><tr style='background:#f7f7f7;'><td><strong>Χώρα Γ</strong></td><td>680</td><td>15%</td><td>18,5</td></tr><tr><td><strong>Χώρα Δ</strong></td><td>290</td><td>35%</td><td>16,0</td></tr></tbody></table>",
+        "question": "1. Αν η Χώρα Γ ανακατανείμει τον προϋπολογισμό της ώστε η απόλυτη δαπάνη για ΑΠΕ να ισούται με αυτή της Χώρας Β, ποια θα είναι η νέα συνολική αναμενόμενη μείωση CO₂ για τη Χώρα Γ;",
+        "options": [
+          "1.842,3 kt",
+          "2.664,0 kt",
+          "2.073,6 kt",
+          "2.414,2 kt"
+        ],
+        "answer": 1,
+        "explanation": "Βήμα 1: Απόλυτη δαπάνη ΑΠΕ Χώρας Β: 320 × 45% = 144 εκ. €. Βήμα 2: Αυτό εφαρμόζεται ως νέα επένδυση της Χώρας Γ. Βήμα 3: Μείωση CO₂: 144 × 18,5 = 2.664,0 kt. Η επιλογή Α (1.842,3) χρησιμοποιεί λανθασμένα την αρχική κατανομή 15% της Χώρας Γ. Η επιλογή Γ (2.073,6) εφαρμόζει τον συντελεστή CO₂ της Χώρας Β αντί της Γ. Η επιλογή Δ (2.414,2) χρησιμοποιεί λανθασμένο ποσό επένδυσης 130,5 εκ. €."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Graduates by Broad Field of Study, 2010</caption><thead><tr style='background:#e8f0fe;'><th>Country / Region</th><th>Total Graduates</th><th>Female Graduates (%)</th><th>Social Science (% of total)</th><th>Maths & Science (% of total)</th><th>Other (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>EU</strong></td><td>4,400,000</td><td>60.1</td><td>34.9</td><td>30.9</td><td>34.2</td></tr><tr><td><strong>Argentina</strong></td><td>306,000</td><td>55.9</td><td>44.1</td><td>9.8</td><td>46.1</td></tr><tr style='background:#f7f7f7;'><td><strong>Ukraine</strong></td><td>465,000</td><td>54.4</td><td>47.6</td><td>19.4</td><td>33.0</td></tr><tr><td><strong>Russia</strong></td><td>2,065,000</td><td>53.6</td><td>45.6</td><td>22.4</td><td>32.0</td></tr><tr style='background:#f7f7f7;'><td><strong>Malaysia</strong></td><td>490,000</td><td>46.0</td><td>38.0</td><td>12.5</td><td>49.5</td></tr></tbody></table>",
+        "question": "2. In the EU, 30.9% of all graduates studied Maths and Science, and 60.1% of all EU graduates were female. Assuming the same proportion of female graduates applies within the Maths and Science field, approximately how many female graduates studied Maths and Science in the EU in 2010?",
+        "options": [
+          "1,359,600",
+          "884,440",
+          "817,120",
+          "745,380"
+        ],
+        "answer": 2,
+        "explanation": "Step 1: Total EU Maths & Science graduates: 4,400,000 × 30.9% = 1,359,600. Step 2: Apply the female proportion: 1,359,600 × 60.1% ≈ 817,120. Option A (1,359,600) is the total M&S figure — the female proportion was never applied. Option B (884,440) mistakenly uses 65.1% instead of 60.1% (digit transposition). Option D (745,380) applies Malaysia's female rate (46.0%) instead of the EU rate."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Απόφοιτοι ανά Ευρύ Επιστημονικό Πεδίο, 2010</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα / Περιοχή</th><th>Σύνολο Αποφοίτων</th><th>Γυναίκες Απόφοιτοι (%)</th><th>Κοινωνικές Επιστήμες (% συνόλου)</th><th>Μαθηματικά & Φυσικές Επιστήμες (% συνόλου)</th><th>Άλλα (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>ΕΕ</strong></td><td>4.400.000</td><td>60,1</td><td>34,9</td><td>30,9</td><td>34,2</td></tr><tr><td><strong>Αργεντινή</strong></td><td>306.000</td><td>55,9</td><td>44,1</td><td>9,8</td><td>46,1</td></tr><tr style='background:#f7f7f7;'><td><strong>Ουκρανία</strong></td><td>465.000</td><td>54,4</td><td>47,6</td><td>19,4</td><td>33,0</td></tr><tr><td><strong>Ρωσία</strong></td><td>2.065.000</td><td>53,6</td><td>45,6</td><td>22,4</td><td>32,0</td></tr><tr style='background:#f7f7f7;'><td><strong>Μαλαισία</strong></td><td>490.000</td><td>46,0</td><td>38,0</td><td>12,5</td><td>49,5</td></tr></tbody></table>",
+        "question": "2. Στην ΕΕ, το 30,9% των αποφοίτων σπούδασε Μαθηματικά και Φυσικές Επιστήμες, και το 60,1% ήταν γυναίκες. Υποθέτοντας ότι το ίδιο ποσοστό γυναικών ισχύει και για αυτό το γνωστικό πεδίο, πόσες περίπου γυναίκες αποφοίτησαν από Μαθηματικά και Φυσικές Επιστήμες στην ΕΕ το 2010;",
+        "options": [
+          "1.359.600",
+          "884.440",
+          "817.120",
+          "745.380"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1: Σύνολο αποφοίτων ΕΕ σε Μαθηματικά & Φυσικές Επιστ.: 4.400.000 × 30,9% = 1.359.600. Βήμα 2: Εφαρμογή ποσοστού γυναικών: 1.359.600 × 60,1% ≈ 817.120. Επιλογή Α (1.359.600): δεν εφαρμόστηκε το ποσοστό γυναικών. Επιλογή Β (884.440): λανθασμένη χρήση 65,1% αντί 60,1%. Επιλογή Δ (745.380): χρησιμοποιεί το ποσοστό γυναικών της Μαλαισίας (46,0%) αντί της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Distribution of Digitalisation Funding across Innovation Clusters (2023–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Innovation Cluster</th><th>2023 Funding (€ M)</th><th>YoY Growth (2023→2024)</th><th>2024 Admin. Overhead (% of 2024 Allocation)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>AI & Deep Tech</strong></td><td>125.0</td><td>+12%</td><td>6.5%</td></tr><tr><td><strong>Green Transition</strong></td><td>180.0</td><td>+15%</td><td>4.0%</td></tr><tr style='background:#f7f7f7;'><td><strong>Cybersecurity</strong></td><td>95.0</td><td>−4%</td><td>8.0%</td></tr><tr><td><strong>Smart Logistics</strong></td><td>110.0</td><td>+5%</td><td>5.5%</td></tr></tbody></table>",
+        "question": "3. In 2024, by how much did the net funding reaching the real economy (total allocation minus administrative overhead) for the Green Transition cluster exceed that of the Cybersecurity cluster?",
+        "options": [
+          "114.52 M€",
+          "123.64 M€",
+          "107.08 M€",
+          "114.82 M€"
+        ],
+        "answer": 3,
+        "explanation": "Step 1: Green Transition 2024 allocation: 180 × 1.15 = 207.00 M€. Admin overhead: 207 × 4% = 8.28 M€. Net = 198.72 M€. Step 2: Cybersecurity 2024 allocation: 95 × 0.96 = 91.20 M€. Admin overhead: 91.2 × 8% = 7.296 M€. Net = 83.904 M€. Step 3: Difference: 198.72 − 83.904 = 114.816 M€ ≈ 114.82 M€. Option A (114.52) applies a rounded overhead figure. Option B (123.64) omits the Cybersecurity overhead deduction. Option C (107.08) incorrectly subtracts both overhead amounts from only one cluster's figure."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή Χρηματοδότησης Ψηφιοποίησης ανά Καινοτομική Ομάδα (2023–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Ομάδα Καινοτομίας</th><th>Χρηματοδότηση 2023 (€ εκ.)</th><th>Ετήσια Μεταβολή (2023→2024)</th><th>Διοικητικό Κόστος 2024 (% κατανομής 2024)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>ΤΝ & Βαθιά Τεχνολογία</strong></td><td>125,0</td><td>+12%</td><td>6,5%</td></tr><tr><td><strong>Πράσινη Μετάβαση</strong></td><td>180,0</td><td>+15%</td><td>4,0%</td></tr><tr style='background:#f7f7f7;'><td><strong>Κυβερνοασφάλεια</strong></td><td>95,0</td><td>−4%</td><td>8,0%</td></tr><tr><td><strong>Έξυπνες Εφοδ. Αλυσίδες</strong></td><td>110,0</td><td>+5%</td><td>5,5%</td></tr></tbody></table>",
+        "question": "3. Το 2024, κατά πόσο υπερέβη η καθαρή χρηματοδότηση (ποσό κατανομής μείον διοικητικό κόστος) της Πράσινης Μετάβασης αυτή της Κυβερνοασφάλειας;",
+        "options": [
+          "114,52 εκ. €",
+          "123,64 εκ. €",
+          "107,08 εκ. €",
+          "114,82 εκ. €"
+        ],
+        "answer": 3,
+        "explanation": "Βήμα 1: Κατανομή Πράσινης Μετάβασης 2024: 180 × 1,15 = 207,00 εκ. €. Διοικητικό κόστος: 207 × 4% = 8,28 εκ. €. Καθαρό = 198,72 εκ. €. Βήμα 2: Κατανομή Κυβερνοασφάλειας 2024: 95 × 0,96 = 91,20 εκ. €. Διοικητικό κόστος: 91,2 × 8% = 7,296 εκ. €. Καθαρό = 83,904 εκ. €. Βήμα 3: Διαφορά: 198,72 − 83,904 = 114,816 εκ. € ≈ 114,82 εκ. €. Επιλογή Α (114,52): χρησιμοποιεί στρογγυλοποιημένο κόστος. Επιλογή Β (123,64): παραλείπει την αφαίρεση διοικητικού κόστους Κυβερνοασφάλειας. Επιλογή Γ (107,08): αφαιρεί λανθασμένα και τα δύο κόστη από έναν μόνο κλάδο."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Labour Force Indicators for Select Regions (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Region</th><th>Working-Age Population (M)</th><th>Employment Rate (%)</th><th>Cross-Border Commuters (% of Employed)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Region W</strong></td><td>4.2</td><td>72%</td><td>12.5%</td></tr><tr><td><strong>Region X</strong></td><td>6.5</td><td>64%</td><td>4.0%</td></tr><tr style='background:#f7f7f7;'><td><strong>Region Y</strong></td><td>2.8</td><td>80%</td><td>15.0%</td></tr><tr><td><strong>Region Z</strong></td><td>5.1</td><td>68%</td><td>8.5%</td></tr></tbody></table>",
+        "question": "4. What is the closest ratio of the total number of cross-border commuters from Region W and Region Y combined to the number of cross-border commuters from Region X?",
+        "options": [
+          "23 : 11",
+          "43 : 10",
+          "51 : 12",
+          "37 : 13"
+        ],
+        "answer": 1,
+        "explanation": "Step 1: Region W commuters: 4.2 M × 72% × 12.5% = 0.378 M. Step 2: Region Y commuters: 2.8 M × 80% × 15.0% = 0.336 M. Step 3: W + Y = 0.714 M. Step 4: Region X commuters: 6.5 M × 64% × 4.0% = 0.1664 M. Step 5: Ratio = 0.714 / 0.1664 ≈ 4.29 : 1. Expressed as 43 : 10 = 4.30 : 1, the closest match among the options. Option A (23:11 ≈ 2.09) and Option D (37:13 ≈ 2.85) are too low. Option C (51:12 = 4.25) is close but 43:10 is a better approximation of 4.29."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτες Εργατικού Δυναμικού για Επιλεγμένες Περιφέρειες (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Περιφέρεια</th><th>Πληθυσμός Εργάσιμης Ηλικίας (εκ.)</th><th>Ποσοστό Απασχόλησης (%)</th><th>Διασυνοριακοί Μετακινούμενοι (% απασχολούμενων)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Περιφέρεια Δ</strong></td><td>4,2</td><td>72%</td><td>12,5%</td></tr><tr><td><strong>Περιφέρεια Χ</strong></td><td>6,5</td><td>64%</td><td>4,0%</td></tr><tr style='background:#f7f7f7;'><td><strong>Περιφέρεια Υ</strong></td><td>2,8</td><td>80%</td><td>15,0%</td></tr><tr><td><strong>Περιφέρεια Ζ</strong></td><td>5,1</td><td>68%</td><td>8,5%</td></tr></tbody></table>",
+        "question": "4. Ποια είναι η πλησιέστερη αναλογία του συνολικού αριθμού διασυνοριακών μετακινούμενων από τις Περιφέρειες Δ και Υ μαζί προς τους διασυνοριακούς μετακινούμενους της Περιφέρειας Χ;",
+        "options": [
+          "23 : 11",
+          "43 : 10",
+          "51 : 12",
+          "37 : 13"
+        ],
+        "answer": 1,
+        "explanation": "Βήμα 1: Μετακινούμενοι Περιφέρειας Δ: 4,2 εκ. × 72% × 12,5% = 0,378 εκ. Βήμα 2: Μετακινούμενοι Περιφέρειας Υ: 2,8 εκ. × 80% × 15,0% = 0,336 εκ. Βήμα 3: Δ + Υ = 0,714 εκ. Βήμα 4: Μετακινούμενοι Περιφέρειας Χ: 6,5 εκ. × 64% × 4,0% = 0,1664 εκ. Βήμα 5: Λόγος = 0,714 / 0,1664 ≈ 4,29 : 1. Ως 43 : 10 = 4,30 : 1, η πλησιέστερη επιλογή. Επιλογή Α (23:11 ≈ 2,09) και Δ (37:13 ≈ 2,85) είναι πολύ χαμηλές. Επιλογή Γ (51:12 = 4,25) είναι κοντά αλλά το 43:10 είναι καλύτερη προσέγγιση."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Energy Efficiency Ratings by EU Zone (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Zone</th><th>Building Type</th><th>A-rated</th><th>B-rated</th><th>C-rated</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Baltic Zone</strong></td><td>Residential</td><td>600</td><td>400</td><td>200</td></tr><tr><td><strong>Baltic Zone</strong></td><td>Commercial</td><td>300</td><td>250</td><td>150</td></tr><tr style='background:#f7f7f7;'><td><strong>Adriatic Zone</strong></td><td>Residential</td><td>400</td><td>500</td><td>300</td></tr><tr><td><strong>Adriatic Zone</strong></td><td>Commercial</td><td>200</td><td>350</td><td>250</td></tr></tbody></table>",
+        "question": "5. Using the building counts as weights and scores of 90, 80, and 60 for A-, B-, and C-rated buildings respectively, what is the weighted average energy efficiency score for Baltic Zone buildings (residential and commercial combined), rounded to one decimal place?",
+        "options": [
+          "79.2",
+          "80.0",
+          "81.1",
+          "82.4"
+        ],
+        "answer": 2,
+        "explanation": "Step 1: Baltic Zone totals: A-rated = 600 + 300 = 900; B-rated = 400 + 250 = 650; C-rated = 200 + 150 = 350. Total = 1,900 buildings. Step 2: Weighted sum: (900 × 90) + (650 × 80) + (350 × 60) = 81,000 + 52,000 + 21,000 = 154,000. Step 3: Weighted average: 154,000 ÷ 1,900 ≈ 81.05 → 81.1. Option A (79.2) uses residential buildings only. Option B (80.0) assumes equal weights across rating categories. Option D (82.4) applies Adriatic Zone data instead of Baltic."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Βαθμολογίες Ενεργειακής Απόδοσης ανά Ζώνη ΕΕ (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Ζώνη</th><th>Τύπος Κτηρίου</th><th>Βαθμολογία Α</th><th>Βαθμολογία Β</th><th>Βαθμολογία Γ</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Βαλτική Ζώνη</strong></td><td>Οικιστικά</td><td>600</td><td>400</td><td>200</td></tr><tr><td><strong>Βαλτική Ζώνη</strong></td><td>Εμπορικά</td><td>300</td><td>250</td><td>150</td></tr><tr style='background:#f7f7f7;'><td><strong>Αδριατική Ζώνη</strong></td><td>Οικιστικά</td><td>400</td><td>500</td><td>300</td></tr><tr><td><strong>Αδριατική Ζώνη</strong></td><td>Εμπορικά</td><td>200</td><td>350</td><td>250</td></tr></tbody></table>",
+        "question": "5. Χρησιμοποιώντας τους αριθμούς κτηρίων ως συντελεστές στάθμισης και βαθμολογίες 90, 80 και 60 για τις κατηγορίες Α, Β και Γ αντίστοιχα, ποιος είναι ο σταθμισμένος μέσος βαθμός ενεργειακής απόδοσης για τα κτήρια της Βαλτικής Ζώνης (οικιστικά και εμπορικά μαζί), στρογγυλοποιημένος σε ένα δεκαδικό;",
+        "options": [
+          "79,2",
+          "80,0",
+          "81,1",
+          "82,4"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1: Σύνολα Βαλτικής Ζώνης: Α = 900, Β = 650, Γ = 350. Σύνολο = 1.900 κτήρια. Βήμα 2: Σταθμισμένο άθροισμα: (900×90)+(650×80)+(350×60) = 81.000+52.000+21.000 = 154.000. Βήμα 3: Σταθμισμένος μέσος: 154.000 ÷ 1.900 ≈ 81,05 → 81,1. Distractors:Επιλογή Α (79,2): μόνο οικιστικά. Επιλογή Β (80,0): ίσα βάρη. Επιλογή Δ (82,4): δεδομένα Αδριατικής."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Biomass Processing and Bio-Pellet Production Yields (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Crop Waste Category</th><th>Raw Biomass Collected (t)</th><th>Processing Waste Loss (%)</th><th>Market Value of Refined Bio-Pellets (€/t)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Cereal Straw</strong></td><td>45,000</td><td>22%</td><td>€145</td></tr><tr><td><strong>Sugar Beet Tops</strong></td><td>28,000</td><td>35%</td><td>€190</td></tr><tr style='background:#f7f7f7;'><td><strong>Corn Stover</strong></td><td>36,000</td><td>18%</td><td>€160</td></tr><tr><td><strong>Sunflower Stalks</strong></td><td>18,000</td><td>25%</td><td>€210</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Note: The processing technology change affected only the final 40% of Sugar Beet Tops raw biomass collected.</p>",
+        "question": "6. Due to a new processing technology introduced halfway through the production cycle, the processing waste loss for Sugar Beet Tops was reduced from 35% to 30% for the final 40% of the raw biomass collected. What is the total market value generated by the refined bio-pellets from Sugar Beet Tops under this new condition?",
+        "options": [
+          "€3,541,600",
+          "€3,476,200",
+          "€3,724,000",
+          "€3,449,600"
+        ],
+        "answer": 3,
+        "explanation": "Step 1: Split raw biomass: first 60% = 28,000 × 0.60 = 16,800 t; final 40% = 28,000 × 0.40 = 11,200 t. Step 2: First batch yield: 16,800 × (1 − 0.35) = 10,920 t. Final batch yield: 11,200 × (1 − 0.30) = 7,840 t. Step 3: Total yield: 10,920 + 7,840 = 18,760 t. Step 4: Market value: 18,760 × €190 = €3,449,600. Option C (€3,724,000) is the key trap — it applies a flat 30% loss to the full 28,000 t, ignoring the split. Option A applies the new rate to the wrong batch proportion."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Επεξεργασία Βιομάζας και Αποδόσεις Παραγωγής Βιοσβόλων (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Κατηγορία Αγροτικών Υπολειμμάτων</th><th>Συλλεχθείσα Ακατέργαστη Βιομάζα (t)</th><th>Απώλεια Επεξεργασίας (%)</th><th>Αξία Αγοράς Βιοσβόλων (€/t)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Άχυρο Δημητριακών</strong></td><td>45.000</td><td>22%</td><td>€145</td></tr><tr><td><strong>Φύλλα Ζαχαρότευτλων</strong></td><td>28.000</td><td>35%</td><td>€190</td></tr><tr style='background:#f7f7f7;'><td><strong>Υπολείμματα Καλαμποκιού</strong></td><td>36.000</td><td>18%</td><td>€160</td></tr><tr><td><strong>Στελέχη Ηλίανθου</strong></td><td>18.000</td><td>25%</td><td>€210</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Σημείωση: Η αλλαγή τεχνολογίας επεξεργασίας επηρέασε μόνο το τελευταίο 40% της ακατέργαστης βιομάζας Φύλλων Ζαχαρότευτλων.</p>",
+        "question": "6. Λόγω νέας τεχνολογίας επεξεργασίας που εισήχθη στα μισά του κύκλου παραγωγής, η απώλεια επεξεργασίας για τα Φύλλα Ζαχαρότευτλων μειώθηκε από 35% σε 30% για το τελευταίο 40% της βιομάζας. Ποια είναι η συνολική αξία αγοράς των βιοσβόλων;",
+        "options": [
+          "€3.541.600",
+          "€3.476.200",
+          "€3.724.000",
+          "€3.449.600"
+        ],
+        "answer": 3,
+        "explanation": "Βήμα 1: Πρώτο 60%: 16.800 t. Τελευταίο 40%: 11.200 t. Βήμα 2: Απόδοση πρώτης παρτίδας: 16.800 × 0,65 = 10.920 t. Απόδοση τελευταίας: 11.200 × 0,70 = 7.840 t. Βήμα 3: Σύνολο: 18.760 t. Βήμα 4: Αξία: 18.760 × €190 = €3.449.600. Παγίδα επιλογής Γ (€3.724.000):εφαρμογή 30% σε ολόκληρη τη βιομάζα, αγνοώντας τη διάκριση αποδοτικότητας."
+      }
+    },  	
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Emergency Relief Cargo Shipments (Q1–Q2)</caption><thead><tr style='background:#e8f0fe;'><th>Mission Hub</th><th>Total Cargo Dispatched (t)</th><th>Transport Cost per Tonne (€)</th><th>Damaged / Spoiled Cargo Rate (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Hub East</strong></td><td>12,400</td><td>€85</td><td>3.2%</td></tr><tr><td><strong>Hub South</strong></td><td>18,600</td><td>€112</td><td>4.5%</td></tr><tr style='background:#f7f7f7;'><td><strong>Hub Central</strong></td><td>9,200</td><td>€64</td><td>1.8%</td></tr><tr><td><strong>Hub Coast</strong></td><td>22,100</td><td>€95</td><td>5.0%</td></tr></tbody></table>",
+        "question": "7. For Hub South, the effective cost per successfully delivered tonne is calculated as total transport cost divided by total tonnes successfully delivered (undamaged). By how much does this effective rate exceed the nominal transport cost per tonne originally charged?",
+        "options": [
+          "€4.91",
+          "€5.04",
+          "€5.28",
+          "€4.66"
+        ],
+        "answer": 2,
+        "explanation": "Step 1: Total transport cost: 18,600 × €112 = €2,083,200. Step 2: Successfully delivered tonnes: 18,600 × (1 − 0.045) = 17,763 t. Step 3: Effective cost per tonne: €2,083,200 ÷ 17,763 ≈ €117.28. Step 4: Premium over nominal: €117.28 − €112.00 ≈ €5.28. Option B (€5.04) is the classic trap — it calculates 4.5% × €112 directly, confusing a rate applied to cost with a rate applied to quantity. Options A and D use incorrect spoilage rates (3.2% and 5.0% from other hubs)."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αποστολές Φορτίου Έκτακτης Ανθρωπιστικής Βοήθειας (Α΄–Β΄ Τρίμηνο)</caption><thead><tr style='background:#e8f0fe;'><th>Κόμβος Αποστολής</th><th>Σύνολο Φορτίου (t)</th><th>Κόστος Μεταφοράς ανά Τόνο (€)</th><th>Ποσοστό Κατεστραμμένου/Αλλοιωμένου Φορτίου (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Κόμβος Ανατολής</strong></td><td>12.400</td><td>€85</td><td>3,2%</td></tr><tr><td><strong>Κόμβος Νότου</strong></td><td>18.600</td><td>€112</td><td>4,5%</td></tr><tr style='background:#f7f7f7;'><td><strong>Κόμβος Κέντρου</strong></td><td>9.200</td><td>€64</td><td>1,8%</td></tr><tr><td><strong>Κόμβος Παραλίας</strong></td><td>22.100</td><td>€95</td><td>5,0%</td></tr></tbody></table>",
+        "question": "7. Για τον Κόμβο Νότου, το πραγματικό κόστος ανά τόνο επιτυχώς παραδοθέντος φορτίου υπολογίζεται ως συνολικό κόστος μεταφοράς διά τους συνολικούς τόνους που παραδόθηκαν επιτυχώς. Κατά πόσο το πραγματικό κόστος υπερβαίνει το ονομαστικό κόστος ανά τόνο;",
+        "options": [
+          "€4,91",
+          "€5,04",
+          "€5,28",
+          "€4,66"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1: Συνολικό κόστος μεταφοράς: 18.600 × €112 = €2.083.200. Βήμα 2: Επιτυχώς παραδοθέντες τόνοι: 18.600 × (1 − 0,045) = 17.763 t. Βήμα 3: Πραγματικό κόστος: €2.083.200 ÷ 17.763 ≈ €117,28. Βήμα 4: Υπέρβαση: €117,28 − €112,00 ≈ €5,28. Επιλογή Β (€5,04): κλασική παγίδα — εφαρμογή 4,5% × €112 απευθείας. Επιλογές Α και Δ χρησιμοποιούν ποσοστά των άλλων κόμβων."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Budget Distribution and Overlapping Portfolio Pillars</caption><thead><tr style='background:#e8f0fe;'><th>Innovation Cluster</th><th>Total Portfolio Budget (€ M)</th><th>Pillar 1: Decarbonisation (%)</th><th>Pillar 2: Circular Economy (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Cluster Alpha</strong></td><td>240</td><td>45%</td><td>35%</td></tr><tr><td><strong>Cluster Beta</strong></td><td>180</td><td>60%</td><td>40%</td></tr><tr style='background:#f7f7f7;'><td><strong>Cluster Gamma</strong></td><td>310</td><td>30%</td><td>55%</td></tr><tr><td><strong>Cluster Delta</strong></td><td>150</td><td>50%</td><td>30%</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Contextual Note: Within each cluster's portfolio, certain integrated projects meet the criteria for both pillars simultaneously. For Cluster Beta, the funding allocated exclusively to Pillar 1 (not shared with Pillar 2) is exactly €75.6 Million.</p>",
+        "question": "8. What percentage of Cluster Beta's total approved portfolio budget is allocated to integrated projects that participate in both Pillar 1 and Pillar 2?",
+        "options": [
+          "14.5%",
+          "18.0%",
+          "22.0%",
+          "24.4%"
+        ],
+        "answer": 1,
+        "explanation": "Step 1: Cluster Beta total = €180 M. Pillar 1 total = 180 × 60% = €108 M. Step 2: Overlap = Total Pillar 1 − Exclusive Pillar 1 = 108 − 75.6 = €32.4 M. Step 3: As % of total budget: 32.4 ÷ 180 × 100 = 18.0%. Option A (14.5%) confuses direction, subtracting from Pillar 2 instead. Option C (22.0%) adds the exclusive portion instead of subtracting. Option D (24.4%) divides the overlap by Pillar 1 budget rather than total budget."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή Προϋπολογισμού και Επικαλυπτόμενοι Πυλώνες Χαρτοφυλακίου</caption><thead><tr style='background:#e8f0fe;'><th>Καινοτομική Ομάδα</th><th>Συνολικός Προϋπολογισμός Χαρτοφυλακίου (€ εκ.)</th><th>Πυλώνας 1: Απανθρακοποίηση (%)</th><th>Πυλώνας 2: Κυκλική Οικονομία (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Ομάδα Άλφα</strong></td><td>240</td><td>45%</td><td>35%</td></tr><tr><td><strong>Ομάδα Βήτα</strong></td><td>180</td><td>60%</td><td>40%</td></tr><tr style='background:#f7f7f7;'><td><strong>Ομάδα Γάμμα</strong></td><td>310</td><td>30%</td><td>55%</td></tr><tr><td><strong>Ομάδα Δέλτα</strong></td><td>150</td><td>50%</td><td>30%</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Σημείωση: Ορισμένα έργα της Ομάδας Βήτα πληρούν ταυτόχρονα τα κριτήρια και των δύο πυλώνων. Η χρηματοδότηση αποκλειστικά για τον Πυλώνα 1 (χωρίς επικάλυψη με Πυλώνα 2) ανέρχεται σε ακριβώς €75,6 εκ.</p>",
+        "question": "8. Τι ποσοστό του συνολικού προϋπολογισμού χαρτοφυλακίου της Ομάδας Βήτα αντιστοιχεί σε ολοκληρωμένα έργα που συμμετέχουν και στους δύο πυλώνες;",
+        "options": [
+          "14,5%",
+          "18,0%",
+          "22,0%",
+          "24,4%"
+        ],
+        "answer": 1,
+        "explanation": "Βήμα 1: Σύνολο Ομάδας Βήτα = €180 εκ. Πυλώνας 1 = 180 × 60% = €108 εκ. Βήμα 2: Επικάλυψη = 108 − 75,6 = €32,4 εκ. Βήμα 3: Ως ποσοστό επί του συνόλου: 32,4 ÷ 180 × 100 = 18,0%. Επιλογή Α (14,5%): σύγχυση κατεύθυνσης. Επιλογή Γ (22,0%): πρόσθεση αντί αφαίρεσης. Επιλογή Δ (24,4%): διαίρεση με Πυλώνα 1 αντί συνόλου."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Healthcare Indicators, 2000 and 2010 (per 100,000 inhabitants)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Physicians 2000</th><th>Physicians 2010</th><th>Hospital Beds 2000</th><th>Hospital Beds 2010</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Belgium</strong></td><td>283</td><td>292</td><td>777</td><td>644</td></tr><tr><td><strong>Germany</strong></td><td>326</td><td>373</td><td>911</td><td>825</td></tr><tr style='background:#f7f7f7;'><td><strong>Spain</strong></td><td>330</td><td>400</td><td>660</td><td>650</td></tr><tr><td><strong>Italy</strong></td><td>416</td><td>392</td><td>471</td><td>352</td></tr><tr style='background:#f7f7f7;'><td><strong>Netherlands</strong></td><td>244</td><td>292</td><td>482</td><td>466</td></tr><tr><td><strong>Austria</strong></td><td>385</td><td>478</td><td>795</td><td>763</td></tr><tr style='background:#f7f7f7;'><td><strong>Sweden</strong></td><td>308</td><td>380</td><td>358</td><td>273</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Italy's 2010 figures serve as the baseline. All values are per 100,000 inhabitants and are used as working units throughout.</p>",
+        "question": "9. Using Italy's 2010 figures as the baseline, in 2011 the number of practising physicians per 100,000 inhabitants dropped by 1/15 and the number of hospital beds per 100,000 inhabitants dropped by 1/12. In 2012, hospital beds are projected to increase by 7 units per 100,000 inhabitants. Assuming the 2011 physician-to-bed ratio is maintained, how many physicians per 100,000 inhabitants will be required in 2012 (rounded to the nearest whole number)?",
+        "options": [
+          "361",
+          "369",
+          "374",
+          "381"
+        ],
+        "answer": 2,
+        "explanation": "Step 1: Italy 2010 baseline: 392 physicians, 352 beds per 100,000. Step 2: 2011 physicians: 392 × (14/15) = 5,488/15 ≈ 365.9. Step 3: 2011 beds: 352 × (11/12) = 968/3 ≈ 322.7. Step 4: 2011 ratio: (5,488/15) ÷ (968/3) = 686/605 ≈ 1.1339. Step 5: 2012 beds: 968/3 + 7 = 989/3 ≈ 329.7. Step 6: 2012 physicians: (686/605) × (989/3) ≈ 373.8 → 374. Option A (361) applies a second 1/15 drop instead of using the ratio. Option D (381) uses Italy's 2000 figures instead of 2010."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτες Υγείας, 2000 και 2010 (ανά 100.000 κατοίκους)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Ιατροί 2000</th><th>Ιατροί 2010</th><th>Κλίνες Νοσοκομείων 2000</th><th>Κλίνες Νοσοκομείων 2010</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Βέλγιο</strong></td><td>283</td><td>292</td><td>777</td><td>644</td></tr><tr><td><strong>Γερμανία</strong></td><td>326</td><td>373</td><td>911</td><td>825</td></tr><tr style='background:#f7f7f7;'><td><strong>Ισπανία</strong></td><td>330</td><td>400</td><td>660</td><td>650</td></tr><tr><td><strong>Ιταλία</strong></td><td>416</td><td>392</td><td>471</td><td>352</td></tr><tr style='background:#f7f7f7;'><td><strong>Ολλανδία</strong></td><td>244</td><td>292</td><td>482</td><td>466</td></tr><tr><td><strong>Αυστρία</strong></td><td>385</td><td>478</td><td>795</td><td>763</td></tr><tr style='background:#f7f7f7;'><td><strong>Σουηδία</strong></td><td>308</td><td>380</td><td>358</td><td>273</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Τα στοιχεία Ιταλίας 2010 αποτελούν τη βάση υπολογισμού. Όλες οι τιμές είναι ανά 100.000 κατοίκους και χρησιμοποιούνται ως μονάδες εργασίας.</p>",
+        "question": "9. Με βάση τα στοιχεία Ιταλίας 2010, το 2011 οι ιατροί ανά 100.000 κατοίκους μειώθηκαν κατά 1/15 και οι νοσοκομειακές κλίνες κατά 1/12. Το 2012 οι κλίνες αναμένεται να αυξηθούν κατά 7 ανά 100.000 κατοίκους. Διατηρώντας την αναλογία ιατρών/κλινών του 2011, πόσοι ιατροί ανά 100.000 κατοίκους απαιτούνται στην Ιταλία το 2012 (στρογγυλοποίηση στον πλησιέστερο ακέραιο);",
+        "options": [
+          "361",
+          "369",
+          "374",
+          "381"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1: Ιταλία 2010: 392 ιατροί, 352 κλίνες. Βήμα 2: Ιατροί 2011: 392 × (14/15) ≈ 365,9. Βήμα 3: Κλίνες 2011: 352 × (11/12) ≈ 322,7. Βήμα 4: Αναλογία 2011: 686/605 ≈ 1,1339. Βήμα 5: Κλίνες 2012: 322,7 + 7 ≈ 329,7. Βήμα 6: Ιατροί 2012: 1,1339 × 329,7 ≈ 373,8 → 374. Επιλογή Α (361): δεύτερη μείωση 1/15 αντί αναλογίας. Επιλογή Δ (381): χρήση στοιχείων 2000 αντί 2010."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Cohesion Policy – Structural Funding Allocations (2025–2026)</caption><thead><tr style='background:#e8f0fe;'><th>Funding Scheme</th><th>2025 Initial Allocation (€ M)</th><th>Regional Co-Financing Target (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Scheme 1: Urban Renewal</strong></td><td>Unknown (A)</td><td>25%</td></tr><tr><td><strong>Scheme 2: Rural Connectivity</strong></td><td>Unknown (B)</td><td>15%</td></tr><tr style='background:#f7f7f7;'><td><strong>Scheme 3: Industrial Transition</strong></td><td>420</td><td>20%</td></tr><tr><td><strong>Scheme 4: Youth Employment</strong></td><td>185</td><td>10%</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>For 2026: Scheme 1 increases by 12%, Scheme 2 decreases by 15%. After these adjustments the two allocations become equal. The combined 2025 budget for Schemes 1 and 2 represents exactly 65% of the total 2025 budget across all four schemes.</p>",
+        "question": "10. What was the difference between the initial 2025 budget allocations of Scheme 1 (A) and Scheme 2 (B)?",
+        "options": [
+          "€115.4 Million",
+          "€132.0 Million",
+          "€124.6 Million",
+          "€154.0 Million"
+        ],
+        "answer": 3,
+        "explanation": "Step 1: Schemes 3 + 4 = 420 + 185 = €605 M = 35% of total. Total budget = 605 ÷ 0.35 ≈ €1,728.57 M. A + B = 65% × 1,728.57 ≈ €1,123.57 M. Step 2: 2026 equality: 1.12A = 0.85B → A = (85/112) × B. Step 3: Substituting: (85/112)B + B = (197/112)B = 1,123.57 → B ≈ €638.78 M. Step 4: A = 1,123.57 − 638.78 ≈ €484.79 M. Step 5: Difference: B − A ≈ 638.78 − 484.79 ≈ €154.0 M. Option A (€115.4 M) inverts the ratio, placing A > B. Option C (€124.6 M) omits the 65% constraint and assumes A + B equals only the known schemes."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πολιτική Συνοχής ΕΕ – Κατανομές Διαρθρωτικής Χρηματοδότησης (2025–2026)</caption><thead><tr style='background:#e8f0fe;'><th>Σχέδιο Χρηματοδότησης</th><th>Αρχική Κατανομή 2025 (€ εκ.)</th><th>Στόχος Συγχρηματοδότησης Περιφέρειας (%)</th></tr></thead><tbody><tr style='background:#f7f7f7;'><td><strong>Σχέδιο 1: Αστική Ανανέωση</strong></td><td>Άγνωστο (Α)</td><td>25%</td></tr><tr><td><strong>Σχέδιο 2: Αγροτική Συνδεσιμότητα</strong></td><td>Άγνωστο (Β)</td><td>15%</td></tr><tr style='background:#f7f7f7;'><td><strong>Σχέδιο 3: Βιομηχανική Μετάβαση</strong></td><td>420</td><td>20%</td></tr><tr><td><strong>Σχέδιο 4: Νεανική Απασχόληση</strong></td><td>185</td><td>10%</td></tr></tbody></table><p style='font-size:0.9em;font-style:italic;margin-top:6px;color:#444;'>Για το 2026: Το Σχέδιο 1 αυξάνεται κατά 12%, το Σχέδιο 2 μειώνεται κατά 15%. Μετά τις αλλαγές οι κατανομές τους εξισώνονται. Ο συνδυασμένος προϋπολογισμός Σχεδίων 1 και 2 αντιπροσωπεύει ακριβώς το 65% του συνολικού προϋπολογισμού 2025.</p>",
+        "question": "10. Ποια ήταν η διαφορά μεταξύ των αρχικών κατανομών 2025 του Σχεδίου 1 (Α) και του Σχεδίου 2 (Β);",
+        "options": [
+          "€115,4 εκ.",
+          "€132,0 εκ.",
+          "€124,6 εκ.",
+          "€154,0 εκ."
+        ],
+        "answer": 3,
+        "explanation": "Βήμα 1: Σχέδια 3+4 = €605 εκ. = 35% του συνόλου. Σύνολο = 605 ÷ 0,35 ≈ €1.728,57 εκ. Α+Β ≈ €1.123,57 εκ. Βήμα 2: Ισότητα 2026: 1,12Α = 0,85Β → Α = (85/112)Β. Βήμα 3: (197/112)Β = 1.123,57 → Β ≈ €638,78 εκ. Βήμα 4: Α ≈ €484,79 εκ. Βήμα 5: Διαφορά ≈ €154,0 εκ. Επιλογή Α (€115,4): αντιστροφή λόγου. Επιλογή Γ (€124,6): παράλειψη περιορισμού 65%."
+      }
+    }
+  ],
+  "num_4": [
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>European Import and Emissions Data for Sectoral Goods</caption><thead><tr style='background:#e8f0fe;'><th>Year / Parameter</th><th>Material Quantity (tonnes)</th><th>Verified Supplier Intensity (tCO₂e/tonne)</th><th>EU ETS Benchmark Baseline (tCO₂e/tonne)</th><th>Free Allocation Factor (%)</th><th>Overseas Tax Paid (€ credit)</th></tr></thead><tbody><tr><td><strong>2026</strong></td><td>1,000</td><td>3.10</td><td>1.30</td><td>0.950</td><td>10.5</td></tr><tr><td><strong>2027</strong></td><td>1,200</td><td>3.40</td><td>1.20</td><td>0.975</td><td>11.4</td></tr><tr><td><strong>2028</strong></td><td>1,500</td><td>3.50</td><td>1.10</td><td>0.900</td><td>15.0</td></tr><tr><td><strong>2029</strong></td><td>1,800</td><td>3.80</td><td>1.00</td><td>0.850</td><td>20.0</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: The official average price for a single CBAM certificate across all listed periods is fixed at <strong>€75.36</strong>.</em></p>",
+      "question": "1. An industrial importer is evaluating compliance costs for a 2027 shipment. The net billable certificates equal the adjusted excess emissions (gross excess × (1 − Free Allocation Factor)) minus the overseas credit. What is the total financial budget required to purchase CBAM certificates for the 2027 shipment?",
+      "options": [
+        "€2,637.60",
+        "€4,114.66",
+        "€4,124.96",
+        "€4,214.88",
+        "€4,983.84"
+      ],
+      "answer": 1,
+      "explanation": "Step 1 — isolate 2027 row: Quantity = 1,200 t; Supplier Intensity = 3.40; Benchmark = 1.20; Free Allocation = 0.975; Overseas Credit = €11.4. Step 2 — gross excess emissions: (3.40 − 1.20) × 1,200 = 2,640 tCO₂e. Step 3 — chargeable fraction (apply phase-out): 2,640 × (1 − 0.975) = 2,640 × 0.025 = 66 tCO₂e. Step 4 — deduct overseas credit: 66 − 11.4 = 54.6 net certificates. Step 5 — total cost: 54.6 × €75.36 = €4,114.66. Option A (€2,637.60) is a trap that omits the free-allocation step. Option C (€4,124.96) results from a small rounding error in the allocation factor. The correct answer is B."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ευρωπαϊκά Δεδομένα Εισαγωγών και Εκπομπών για Τομεακά Αγαθά</caption><thead><tr style='background:#e8f0fe;'><th>Έτος / Παράμετρος</th><th>Ποσότητα Υλικού (τόνοι)</th><th>Επαληθευμένη Ένταση Προμηθευτή (tCO₂e/τόνο)</th><th>Βάση ETS ΕΕ (tCO₂e/τόνο)</th><th>Συντελεστής Δωρεάν Δέσμευσης (%)</th><th>Φόρος Εξωτερικού (€ πίστωση)</th></tr></thead><tbody><tr><td><strong>2026</strong></td><td>1.000</td><td>3,10</td><td>1,30</td><td>0,950</td><td>10,5</td></tr><tr><td><strong>2027</strong></td><td>1.200</td><td>3,40</td><td>1,20</td><td>0,975</td><td>11,4</td></tr><tr><td><strong>2028</strong></td><td>1.500</td><td>3,50</td><td>1,10</td><td>0,900</td><td>15,0</td></tr><tr><td><strong>2029</strong></td><td>1.800</td><td>3,80</td><td>1,00</td><td>0,850</td><td>20,0</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Η επίσημη μέση τιμή ανά πιστοποιητικό CBAM για όλες τις αναφερόμενες περιόδους είναι <strong>€75,36</strong>.</em></p>",
+      "question": "1. Ένας βιομηχανικός εισαγωγέας αξιολογεί το κόστος συμμόρφωσης για παραλαβή εμπορευμάτων του 2027. Τα καθαρά χρεώσιμα πιστοποιητικά ισούνται με τις προσαρμοσμένες πλεονάζουσες εκπομπές (ακαθάριστες πλεονάζουσες × (1 − Συντελεστής Δωρεάν Δέσμευσης)) μείον την πίστωση (αντιστάθμιση) του εξωτερικού. Ποιος είναι ο συνολικός προϋπολογισμός για την αγορά πιστοποιητικών ρύπανσης για την αποστολή του 2027;",
+      "options": [
+        "€2.637,60",
+        "€4.114,66",
+        "€4.124,96",
+        "€4.214,88",
+        "€4.983,84"
+      ],
+      "answer": 1,
+      "explanation": "Βήμα 1 — απομόνωση σειράς 2027: Ποσότητα = 1.200 t, Ένταση Προμηθευτή = 3,40, Προτυπη τιμή ETS = 1,20, Δωρεάν Δέσμευση = 0,975, Πίστωση = €11,4. Βήμα 2 — ακαθάριστες πλεονάζουσες εκπομπές: (3,40 − 1,20) × 1.200 = 2.640 tCO₂e. Βήμα 3 — χρεώσιμο κλάσμα: 2.640 × (1 − 0,975) = 66 tCO₂e. Βήμα 4 — αφαίρεση πίστωσης από εξωτ.: 66 − 11,4 = 54,6 πιστοποιητικά. Βήμα 5 — συνολικό κόστος: 54,6 × €75,36 = €4.114,66. Η Α παραλείπει το βήμα δωρεάν δέσμευσης. Η Γ οφείλεται σε σφάλμα στρογγυλοποίησης του συντελεστή."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Estimated production cost increase for selected EU manufacturing sectors due to CBAM and ETS free allowance phase-out, 2026–2034 (Source: Orgalim study on CBAM impacts)</caption><thead><tr style='background:#e8f0fe;'><th>Sector</th><th>Sub-sector</th><th>Production cost increase (% of GVA)</th><th>Trade intensity</th></tr></thead><tbody><tr><td>Mechanical / Electrical Engineering</td><td>Product 1</td><td>38–68%</td><td>&gt;50%</td></tr><tr><td>Mechanical / Electrical Engineering</td><td>Product 4</td><td>19–40%</td><td>&gt;10%</td></tr><tr><td>Metal Technology</td><td>Product 2</td><td>23–50%</td><td>&gt;50%</td></tr><tr><td>Metal Technology</td><td>Product 3</td><td>23–49%</td><td>&gt;50%</td></tr><tr><td>Metal Technology</td><td>Product 12</td><td>&lt;3%</td><td>&gt;50%</td></tr></tbody></table>",
+      "question": "2. For Product 2, if the lower bound of the production cost increase as a percentage of GVA is exactly half the upper bound of Product 4's range, what is the minimum trade intensity threshold that must apply for a sector to be classified at risk of carbon leakage under the study's criteria?",
+      "options": [
+        ">10%",
+        ">20%",
+        ">30%",
+        ">50%",
+        "Cannot be determined from the table"
+      ],
+      "answer": 0,
+      "explanation": "The question embeds a hypothetical premise (Product 2 lower bound = half of Product 4 upper bound: 23% vs 20%) to test careful reading, not arithmetic. The substantive question is: what is the minimum trade intensity threshold for carbon leakage classification under the study? From the table, Product 4 has a trade intensity of >10% and is classified at risk, while all other at-risk products show >50%. The minimum threshold at which a product is classified at risk is therefore >10% — the lowest value among at-risk products. Options B–D are higher thresholds present in the data but are not the minimum. The correct answer is A."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Εκτιμώμενη αύξηση κόστους παραγωγής για επιλεγμένους τομείς μεταποίησης ΕΕ λόγω Μηχανισμού Ρύπανσης και κατάργησης δωρεάν δικαιωμάτων ETS, 2026–2034 (Πηγή: μελέτη Orgalim)</caption><thead><tr style='background:#e8f0fe;'><th>Τομέας</th><th>Υποτομέας</th><th>Αύξηση κόστους παραγωγής (% ΑΠΑ)</th><th>Εμπορική ένταση</th></tr></thead><tbody><tr><td>Μηχανολογία / Ηλεκτρολογία</td><td>Προϊόν 1</td><td>38–68%</td><td>&gt;50%</td></tr><tr><td>Μηχανολογία / Ηλεκτρολογία</td><td>Προϊόν 4</td><td>19–40%</td><td>&gt;10%</td></tr><tr><td>Μεταλλοτεχνία</td><td>Προϊόν 2</td><td>23–50%</td><td>&gt;50%</td></tr><tr><td>Μεταλλοτεχνία</td><td>Προϊόν 3</td><td>23–49%</td><td>&gt;50%</td></tr><tr><td>Μεταλλοτεχνία</td><td>Προϊόν 12</td><td>&lt;3%</td><td>&gt;50%</td></tr></tbody></table>",
+      "question": "2. Για το Προϊόν 2, εάν το κατώτατο όριο της αύξησης κόστους παραγωγής ως ποσοστό ΑΠΑ είναι ακριβώς το μισό του ανώτατου ορίου του εύρους του Προϊόντος 4, ποιο είναι το ελάχιστο κατώφλι εμπορικής έντασης που απαιτείται για να κατηγοριοποιηθεί ένας τομέας ως σε κίνδυνο διαρροής άνθρακα;",
+      "options": [
+        ">10%",
+        ">20%",
+        ">30%",
+        ">50%",
+        "Δεν μπορεί να προσδιοριστεί από τον πίνακα"
+      ],
+      "answer": 0,
+      "explanation": "Η υποθετική προϋπόθεση (κατώτατο Προϊόντος 2 = μισό ανώτατου Προϊόντος 4: 23% vs 20%) ελέγχει την προσεκτική ανάγνωση, όχι την αριθμητική. Το ουσιαστικό ερώτημα είναι: ποιο είναι το ελάχιστο κατώφλι εμπορικής έντασης για κατηγοριοποίηση κινδύνου; Από τον πίνακα, το Προϊόν 4 έχει εμπορική ένταση >10% και κατηγοριοποιείται ως σε κίνδυνο — αυτό είναι το χαμηλότερο κατώφλι μεταξύ των προϊόντων σε κίνδυνο. Η σωστή απάντηση είναι Α."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EPF assistance measures approved for partner armed forces — selected decisions, 2025–2026 (Source: European Commission FPI factsheet)</caption><thead><tr style='background:#e8f0fe;'><th>Date</th><th>Recipient Country</th><th>Reference Amount (EUR)</th></tr></thead><tbody><tr><td>21 January 2025</td><td>Lebanon</td><td>60,000,000</td></tr><tr><td>07 April 2025</td><td>Moldova</td><td>40,000,000</td></tr><tr><td>23 April 2025</td><td>Moldova</td><td>20,000,000</td></tr><tr><td>25 April 2025</td><td>North Macedonia</td><td>15,000,000</td></tr><tr><td>24 November 2025</td><td>Jordan</td><td>35,000,000</td></tr><tr><td>29 January 2026</td><td>Armenia</td><td>20,000,000</td></tr><tr><td>22 May 2026</td><td>Albania</td><td>21,000,000</td></tr></tbody></table>",
+      "question": "3. The total EPF funding committed to Moldova in 2025 represents approximately what percentage of the combined total of all listed 2025 measures (excluding 2026 decisions)?",
+      "options": [
+        "23.5%",
+        "28.4%",
+        "35.3%",
+        "42.1%",
+        "45.3%"
+      ],
+      "answer": 2,
+      "explanation": "Step 1 — identify 2025 measures only (exclude Armenia Jan 2026 and Albania May 2026): Lebanon €60m, Moldova €40m + €20m, North Macedonia €15m, Jordan €35m. Step 2 — total 2025 funding: 60 + 40 + 20 + 15 + 35 = €170m. Step 3 — Moldova's 2025 total: 40 + 20 = €60m. Step 4 — percentage: (60 ÷ 170) × 100 = 35.29% ≈ 35.3%. Option A (23.5%) is the trap for candidates who use Moldova's single largest payment (€40m) divided by the total. The correct answer is C."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Μέτρα βοήθειας EPF εγκεκριμένα για συνεργαζόμενες ένοπλες δυνάμεις — επιλεγμένες αποφάσεις 2025–2026 (Πηγή: FPI ΕΕ)</caption><thead><tr style='background:#e8f0fe;'><th>Ημερομηνία</th><th>Χώρα Αποδέκτης</th><th>Ποσό Αναφοράς (EUR)</th></tr></thead><tbody><tr><td>21 Ιανουαρίου 2025</td><td>Λίβανος</td><td>60.000.000</td></tr><tr><td>07 Απριλίου 2025</td><td>Μολδαβία</td><td>40.000.000</td></tr><tr><td>23 Απριλίου 2025</td><td>Μολδαβία</td><td>20.000.000</td></tr><tr><td>25 Απριλίου 2025</td><td>Βόρεια Μακεδονία</td><td>15.000.000</td></tr><tr><td>24 Νοεμβρίου 2025</td><td>Ιορδανία</td><td>35.000.000</td></tr><tr><td>29 Ιανουαρίου 2026</td><td>Αρμενία</td><td>20.000.000</td></tr><tr><td>22 Μαΐου 2026</td><td>Αλβανία</td><td>21.000.000</td></tr></tbody></table>",
+      "question": "3. Η συνολική χρηματοδότηση EPF που δεσμεύτηκε για τη Μολδαβία το 2025 αντιπροσωπεύει περίπου τι ποσοστό του συνολικού συνόλου όλων των αναφερόμενων μέτρων του 2025 (εξαιρουμένων των αποφάσεων του 2026);",
+      "options": [
+        "23,5%",
+        "28,4%",
+        "35,3%",
+        "42,1%",
+        "45,3%"
+      ],
+      "answer": 2,
+      "explanation": "Βήμα 1 — μέτρα 2025 μόνο: Λίβανος €60εκ, Μολδαβία €40εκ + €20εκ, Βόρεια Μακεδονία €15εκ, Ιορδανία €35εκ. Βήμα 2 — σύνολο 2025: 60+40+20+15+35 = €170εκ. Βήμα 3 — σύνολο Μολδαβίας: 40+20 = €60εκ. Βήμα 4 — ποσοστό: (60÷170)×100 = 35,3%. Η παγίδα Α (23,5%) προκύπτει από διαίρεση της μεγαλύτερης μεμονωμένης πληρωμής (€40εκ) με το σύνολο. Η σωστή απάντηση είναι Γ."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>RRF grant allocation — end of 2024 for selected Member States (Source: Eurostat / European Commission RRF data)</caption><thead><tr style='background:#e8f0fe;'><th>Member State</th><th>Total Grant Allocation (EUR bn)</th><th>Grants Received by end-2024 (EUR bn)</th><th>Costs Incurred by end-2024 (EUR bn)</th></tr></thead><tbody><tr><td><strong>Italy</strong></td><td>68.9</td><td>41.3</td><td>38.5</td></tr><tr><td><strong>Spain</strong></td><td>69.5</td><td>34.8</td><td>31.2</td></tr><tr><td><strong>France</strong></td><td>39.4</td><td>23.6</td><td>19.7</td></tr><tr><td><strong>Germany</strong></td><td>28.0</td><td>16.8</td><td>14.0</td></tr><tr><td><strong>Poland</strong></td><td>23.9</td><td>11.9</td><td>10.1</td></tr></tbody></table>",
+      "question": "4. The average ratio of costs incurred to grants received across the five Member States shown is approximately:",
+      "options": [
+        "83.5%",
+        "86.9%",
+        "89.7%",
+        "93.2%",
+        "96.9%"
+      ],
+      "answer": 1,
+      "explanation": "Calculate the ratio (costs incurred ÷ grants received) for each country: Italy: 38.5 ÷ 41.3 = 93.2%; Spain: 31.2 ÷ 34.8 = 89.7%; France: 19.7 ÷ 23.6 = 83.5%; Germany: 14.0 ÷ 16.8 = 83.3%; Poland: 10.1 ÷ 11.9 = 84.9%. Average: (93.2 + 89.7 + 83.5 + 83.3 + 84.9) ÷ 5 = 434.6 ÷ 5 = 86.9%. The distractors are all real individual country ratios: A = France, C = Spain, D = Italy — making this a test of reading comprehension as much as arithmetic. The correct answer is B."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή επιχορηγήσεων RRF — τέλος 2024 για επιλεγμένα κράτη μέλη (Πηγή: Eurostat / Ευρωπαϊκή Επιτροπή)</caption><thead><tr style='background:#e8f0fe;'><th>Κράτος Μέλος</th><th>Συνολική Κατανομή (δισ. EUR)</th><th>Επιχορηγήσεις ληφθείσες ως τέλος 2024 (δισ. EUR)</th><th>Κόστη που έχουν πραγματοποιηθεί ως τέλος 2024 (δισ. EUR)</th></tr></thead><tbody><tr><td><strong>Ιταλία</strong></td><td>68,9</td><td>41,3</td><td>38,5</td></tr><tr><td><strong>Ισπανία</strong></td><td>69,5</td><td>34,8</td><td>31,2</td></tr><tr><td><strong>Γαλλία</strong></td><td>39,4</td><td>23,6</td><td>19,7</td></tr><tr><td><strong>Γερμανία</strong></td><td>28,0</td><td>16,8</td><td>14,0</td></tr><tr><td><strong>Πολωνία</strong></td><td>23,9</td><td>11,9</td><td>10,1</td></tr></tbody></table>",
+      "question": "4. Ο μέσος λόγος κόστους που έχει πραγματοποιηθεί προς επιχορηγήσεις που ελήφθησαν για τα πέντε κράτη μέλη που εμφανίζονται είναι περίπου:",
+      "options": [
+        "83,5%",
+        "86,9%",
+        "89,7%",
+        "93,2%",
+        "96,9%"
+      ],
+      "answer": 1,
+      "explanation": "Αναλογία κόστους/επιχορηγήσεων ανά χώρα: Ιταλία: 38,5÷41,3=93,2%; Ισπανία: 31,2÷34,8=89,7%; Γαλλία: 19,7÷23,6=83,5%; Γερμανία: 14,0÷16,8=83,3%; Πολωνία: 10,1÷11,9=84,9%. Μέσος: (93,2+89,7+83,5+83,3+84,9)÷5=434,6÷5=86,9%. Οι παγίδες είναι πραγματικές αναλογίες μεμονωμένων χωρών: Α=Γαλλία, Γ=Ισπανία, Δ=Ιταλία. Η σωστή απάντηση είναι Β."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Average Energy Efficiency Score of Industrial Kilns Across EU Facilities</caption><thead><tr style='background:#e8f0fe;'><th>Regional Facility Cluster</th><th>Total Kilns Tracked</th><th>Original Group Average (2025)</th><th>Revised Group Average (2026)</th><th>Baseline Expected Value</th><th>Standard Dev. Reference</th></tr></thead><tbody><tr><td><strong>Cluster Alpha</strong></td><td>4</td><td>74.5</td><td>76.0</td><td>72.0</td><td>3.1</td></tr><tr><td><strong>Cluster Beta</strong></td><td>5</td><td>81.2</td><td>80.0</td><td>80.0</td><td>2.4</td></tr><tr><td><strong>Cluster Gamma</strong></td><td>6</td><td>85.0</td><td>89.5</td><td>85.0</td><td>4.0</td></tr><tr><td><strong>Cluster Delta</strong></td><td>8</td><td>68.0</td><td>71.5</td><td>70.0</td><td>5.5</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: In Cluster Gamma, the efficiency gain between 2025 and 2026 was driven exclusively by structural upgrades on exactly <strong>two</strong> of its six kilns. The other four kilns remained completely unchanged.</em></p>",
+      "question": "5. Based on the data provided, what was the average increase in the energy efficiency score achieved by the two upgraded kilns in Cluster Gamma?",
+      "options": [
+        "4.5",
+        "9.0",
+        "13.5",
+        "27.0",
+        "17.0"
+      ],
+      "answer": 2,
+      "explanation": "Step 1 — overall average increase for Cluster Gamma: 89.5 − 85.0 = 4.5 points. Step 2 — total aggregate point gain across all 6 kilns: 6 × 4.5 = 27.0 points. Step 3 — since the 4 unchanged kilns contributed 0, all 27.0 points came from the 2 upgraded kilns. Step 4 — average per upgraded kiln: 27.0 ÷ 2 = 13.5 points. Option A (4.5) is the overall cluster average increase — the most common trap. Option D (27.0) is the total aggregate gain before dividing. The leverage formula ntotal × Δavg = nchanged × Δsubgroup gives 6 × 4.5 = 2 × X → X = 13.5. The correct answer is C."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Μέση Βαθμολογία Ενεργειακής Απόδοσης Βιομηχανικών Κλιβάνων σε Εγκαταστάσεις ΕΕ</caption><thead><tr style='background:#e8f0fe;'><th>Περιφερειακό Σύμπλεγμα</th><th>Σύνολο Κλιβάνων</th><th>Αρχικός Μέσος Όρος (2025)</th><th>Αναθεωρημένος Μέσος Όρος (2026)</th><th>Αναμενόμενη Βασική Τιμή</th><th>Τυπική Απόκλιση</th></tr></thead><tbody><tr><td><strong>Σύμπλεγμα Άλφα</strong></td><td>4</td><td>74,5</td><td>76,0</td><td>72,0</td><td>3,1</td></tr><tr><td><strong>Σύμπλεγμα Βήτα</strong></td><td>5</td><td>81,2</td><td>80,0</td><td>80,0</td><td>2,4</td></tr><tr><td><strong>Σύμπλεγμα Γάμμα</strong></td><td>6</td><td>85,0</td><td>89,5</td><td>85,0</td><td>4,0</td></tr><tr><td><strong>Σύμπλεγμα Δέλτα</strong></td><td>8</td><td>68,0</td><td>71,5</td><td>70,0</td><td>5,5</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Στο Σύμπλεγμα Γάμμα, το κέρδος απόδοσης μεταξύ 2025 και 2026 οφείλεται αποκλειστικά σε δομικές αναβαθμίσεις σε ακριβώς <strong>δύο</strong> από τους έξι κλιβάνους. Οι άλλοι τέσσερις παρέμειναν αμετάβλητοι.</em></p>",
+      "question": "5. Βάσει των δεδομένων, ποια ήταν η μέση αύξηση της βαθμολογίας ενεργειακής απόδοσης για τους δύο αναβαθμισμένους κλιβάνους στο Σύμπλεγμα Γάμμα;",
+      "options": [
+        "4,5",
+        "9,0",
+        "13,5",
+        "27,0",
+        "17,0"
+      ],
+      "answer": 2,
+      "explanation": "Βήμα 1 — συνολική αύξηση μέσου Γάμμα: 89,5−85,0=4,5 μονάδες. Βήμα 2 — άθροισμα κέρδους για 6 κλιβάνους: 6×4,5=27,0 μονάδες. Βήμα 3 — όλες οι 27,0 μονάδες προέρχονται από τους 2 αναβαθμισμένους κλιβάνους (οι 4 αμετάβλητοι συνεισφέρουν 0). Βήμα 4 — μέσος ανά αναβαθμισμένο κλίβανο: 27,0÷2=13,5. Παγίδα Α (4,5) = αύξηση μέσου συμπλέγματος. Παγίδα Δ (27,0) = συνολικό αθροιστικό κέρδος. Η σωστή απάντηση είναι Γ."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Demographic and Economic Baseline of Selected EU Member States</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Registered Population (Millions)</th><th>GDP per Capita (€, Nominal)</th><th>Projected Real GDP Growth (%)</th><th>National Debt (% of GDP)</th></tr></thead><tbody><tr><td><strong>Country Alpha</strong></td><td>4.0</td><td>45,000</td><td>1.4</td><td>62.5</td></tr><tr><td><strong>Country Beta</strong></td><td>2.0</td><td>70,000</td><td>0.8</td><td>48.2</td></tr><tr><td><strong>Country Gamma</strong></td><td>10.0</td><td>25,000</td><td>2.1</td><td>78.0</td></tr><tr><td><strong>Country Delta</strong></td><td>5.0</td><td>36,000</td><td>1.1</td><td>55.4</td></tr><tr><td><strong>Country Epsilon</strong></td><td>8.0</td><td>15,000</td><td>3.5</td><td>—</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Nominal GDP = Registered Population × GDP per Capita.</em></p>",
+      "question": "6. What is the exact ratio of the combined total GDP of the two richest countries (by GDP per capita) to the combined total GDP of the three poorest countries (by GDP per capita)?",
+      "options": [
+        "16:25",
+        "26:19",
+        "23:32",
+        "32:55",
+        "16:29"
+      ],
+      "answer": 3,
+      "explanation": "Step 1 — rank by GDP per capita: Beta (€70,000) > Alpha (€45,000) > Delta (€36,000) > Gamma (€25,000) > Epsilon (€15,000). Step 2 — two richest (Beta & Alpha) total GDP: Beta: 2.0M × 70,000 = €140,000M; Alpha: 4.0M × 45,000 = €180,000M; combined = €320,000M. Step 3 — three poorest (Delta, Gamma & Epsilon) total GDP: Delta: 5.0M × 36,000 = €180,000M; Gamma: 10.0M × 25,000 = €250,000M; Epsilon: 8.0M × 15,000 = €120,000M; combined = €550,000M. Step 4 — ratio: 320,000 : 550,000 = 32 : 55. Option E (16:29) results from a calculation error that produces 580,000 instead of 550,000 for the three poorest. The correct answer is D."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δημογραφικά και Οικονομικά Στοιχεία Επιλεγμένων Κρατών Μελών ΕΕ</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Πληθυσμός (εκατ.)</th><th>ΑΕΠ ανά Κάτοικο (€, Ονομαστικό)</th><th>Προβλεπόμενη Πραγματική Ανάπτυξη ΑΕΠ (%)</th><th>Εθνικό Χρέος (% ΑΕΠ)</th></tr></thead><tbody><tr><td><strong>Χώρα Άλφα</strong></td><td>4,0</td><td>45.000</td><td>1,4</td><td>62,5</td></tr><tr><td><strong>Χώρα Βήτα</strong></td><td>2,0</td><td>70.000</td><td>0,8</td><td>48,2</td></tr><tr><td><strong>Χώρα Γάμμα</strong></td><td>10,0</td><td>25.000</td><td>2,1</td><td>78,0</td></tr><tr><td><strong>Χώρα Δέλτα</strong></td><td>5,0</td><td>36.000</td><td>1,1</td><td>55,4</td></tr><tr><td><strong>Χώρα Έψιλον</strong></td><td>8,0</td><td>15.000</td><td>3,5</td><td>—</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Ονομαστικό ΑΕΠ = Πληθυσμός × ΑΕΠ ανά Κάτοικο.</em></p>",
+      "question": "6. Ποιος είναι ο ακριβής λόγος του συνολικού ΑΕΠ των δύο πλουσιότερων, βάσει ΑΕΠ ανά κάτοικο,χωρών προς το συνολικό ΑΕΠ των τριών φτωχότερων, βάσει του ΑΕΠ ανά κάτοικο, χωρών;",  
+      "options": ["βάσει ΑΕΠ ανά κάτοικο",
+        "16:25",
+        "26:19",
+        "23:32",
+        "32:55",
+        "16:29"
+      ],
+      "answer": 3,
+      "explanation": "Βήμα 1 — κατάταξη: Βήτα (€70.000) > Άλφα (€45.000) > Δέλτα (€36.000) > Γάμμα (€25.000) > Έψιλον (€15.000). Βήμα 2 — δύο πλουσιότερες: Βήτα €140δισ + Άλφα €180δισ = €320δισ. Βήμα 3 — τρεις φτωχότερες: Δέλτα €180δισ + Γάμμα €250δισ + Έψιλον €120δισ = €550δισ. Βήμα 4 — αναλογία: 320:550 = 32:55. Η επιλογή Ε (16:29) προκύπτει από αριθμητικό σφάλμα που δίνει €580δισ αντί €550δισ. Η σωστή απάντηση είναι Δ."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Electricity Consumption Distribution by Sector in Regions of Greece (%)</caption><thead><tr style='background:#e8f0fe;'><th>Region</th><th>Domestic Use (%)</th><th>Industry (%)</th><th>Commercial Use (%)</th><th>Agricultural Sector (%)</th></tr></thead><tbody><tr><td><strong>Attica</strong></td><td>42</td><td>18</td><td>35</td><td>5</td></tr><tr><td><strong>Central Macedonia</strong></td><td>35</td><td>28</td><td>25</td><td>12</td></tr><tr><td><strong>Thessaly</strong></td><td>25</td><td>20</td><td>20</td><td>35</td></tr><tr><td><strong>Western Greece</strong></td><td>38</td><td>15</td><td>32</td><td>15</td></tr></tbody></table>",
+      "question": "7. In Thessaly, the Agricultural Sector accounted for 14,000 MWh of total annual electricity consumption. What was the total annual electricity consumption across all sectors in Thessaly?",
+      "options": [
+        "35,000 MWh",
+        "40,000 MWh",
+        "56,000 MWh",
+        "65,000 MWh",
+        "70,000 MWh"
+      ],
+      "answer": 1,
+      "explanation": "From the table, the Agricultural Sector in Thessaly represents 35% of total regional consumption. The question states that this 35% equals 14,000 MWh. Using the rule of three: Total = 14,000 × (100 ÷ 35) = 14,000 × 2.857 = 40,000 MWh. Option A (35,000 MWh) is the trap for candidates who confuse the percentage share (35%) with the absolute value. Option C (56,000 MWh) results from incorrectly adding Domestic + Industry + Commercial shares (25+20+20=65%, then 14,000÷0.65). The correct answer is B."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή Κατανάλωσης Ηλεκτρικής Ενέργειας ανά Τομέα σε Περιφέρειες της Ελλάδας (%)</caption><thead><tr style='background:#e8f0fe;'><th>Περιφέρεια</th><th>Οικιακή Χρήση (%)</th><th>Βιομηχανία (%)</th><th>Εμπορική Χρήση (%)</th><th>Αγροτικός Τομέας (%)</th></tr></thead><tbody><tr><td><strong>Αττική</strong></td><td>42</td><td>18</td><td>35</td><td>5</td></tr><tr><td><strong>Κεντρική Μακεδονία</strong></td><td>35</td><td>28</td><td>25</td><td>12</td></tr><tr><td><strong>Θεσσαλία</strong></td><td>25</td><td>20</td><td>20</td><td>35</td></tr><tr><td><strong>Δυτική Ελλάδα</strong></td><td>38</td><td>15</td><td>32</td><td>15</td></tr></tbody></table>",
+      "question": "7. Στη Θεσσαλία, ο Αγροτικός Τομέας αντιστοιχούσε σε 14.000 MWh ετήσιας κατανάλωσης ηλεκτρικής ενέργειας. Ποια ήταν η συνολική ετήσια κατανάλωση ηλεκτρικής ενέργειας σε όλους τους τομείς στη Θεσσαλία;",
+      "options": [
+        "35.000 MWh",
+        "40.000 MWh",
+        "56.000 MWh",
+        "65.000 MWh",
+        "70.000 MWh"
+      ],
+      "answer": 1,
+      "explanation": "Από τον πίνακα, ο Αγροτικός Τομέας στη Θεσσαλία αντιπροσωπεύει το 35% της συνολικής κατανάλωσης. Το 35% = 14.000 MWh. Σύνολο: 14.000 × (100÷35) = 40.000 MWh. Παγίδα Α (35.000 MWh): σύγχυση ποσοστού (35%) με απόλυτη τιμή. Η σωστή απάντηση είναι Β."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Member States Trade in Goods with India (million euro)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Exports (2021)</th><th>Exports (2024)</th><th>Imports (2021)</th><th>Imports (2024)</th><th>Balance (2021)</th><th>Balance (2024)</th></tr></thead><tbody><tr><td><strong>France</strong></td><td>4,110</td><td>6,250</td><td>3,890</td><td>5,100</td><td>220</td><td>1,150</td></tr><tr><td><strong>Italy</strong></td><td>3,200</td><td>4,800</td><td>3,950</td><td>4,900</td><td>-750</td><td>-100</td></tr><tr><td><strong>Spain</strong></td><td>1,450</td><td>2,100</td><td>2,100</td><td>3,200</td><td>-650</td><td>-1,100</td></tr><tr><td><strong>Netherlands</strong></td><td>2,800</td><td>4,200</td><td>4,100</td><td>5,800</td><td>-1,300</td><td>-1,600</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Balance = Exports − Imports.</em></p>",
+      "question": "8. If France's exports to India increased by 12% each year between 2024 and 2027, while its imports remained constant at the 2024 level, what would France's trade balance with India be in 2027 (in million euro)?",
+      "options": [
+        "1,150",
+        "2,150",
+        "3,680",
+        "4,100",
+        "8,782"
+      ],
+      "answer": 2,
+      "explanation": "Step 1 — baseline: Exports (2024) = €6,250m; Imports (2024) = €5,100m (constant through 2027). Step 2 — compounded export growth over 3 years (2024→2025→2026→2027): 6,250 × 1.12³ = 6,250 × 1.404928 = €8,780.8m. Step 3 — balance: 8,780.8 − 5,100 = €3,680.8m ≈ €3,680m. Option A (1,150) is the 2024 balance — the trap for ignoring growth entirely. Option E (8,782) is the exports figure itself, not the balance. The correct answer is C."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Εμπόριο Αγαθών Κρατών Μελών της ΕΕ με Ινδία (εκατ. ευρώ)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Εξαγωγές (2021)</th><th>Εξαγωγές (2024)</th><th>Εισαγωγές (2021)</th><th>Εισαγωγές (2024)</th><th>Ισοζύγιο (2021)</th><th>Ισοζύγιο (2024)</th></tr></thead><tbody><tr><td><strong>Γαλλία</strong></td><td>4.110</td><td>6.250</td><td>3.890</td><td>5.100</td><td>220</td><td>1.150</td></tr><tr><td><strong>Ιταλία</strong></td><td>3.200</td><td>4.800</td><td>3.950</td><td>4.900</td><td>-750</td><td>-100</td></tr><tr><td><strong>Ισπανία</strong></td><td>1.450</td><td>2.100</td><td>2.100</td><td>3.200</td><td>-650</td><td>-1.100</td></tr><tr><td><strong>Κάτω Χώρες</strong></td><td>2.800</td><td>4.200</td><td>4.100</td><td>5.800</td><td>-1.300</td><td>-1.600</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Ισοζύγιο = Εξαγωγές − Εισαγωγές.</em></p>",
+      "question": "8. Εάν οι εξαγωγές της Γαλλίας προς την Ινδία αυξάνονταν κατά 12% ετησίως μεταξύ 2024 και 2027, ενώ οι εισαγωγές παρέμεναν σταθερές στα επίπεδα του 2024, ποιο θα ήταν το εμπορικό ισοζύγιο Γαλλίας-Ινδίας το 2027 (σε εκατ. ευρώ);",
+      "options": [
+        "1.150",
+        "2.150",
+        "3.680",
+        "4.100",
+        "8.782"
+      ],
+      "answer": 2,
+      "explanation": "Βήμα 1 — βάση: Εξαγωγές (2024) = €6.250εκ; Εισαγωγές (2024) = €5.100εκ (σταθερές). Βήμα 2 — σύνθετη αύξηση σε 3 χρόνια: 6.250 × 1,12³ = 6.250 × 1,404928 = €8.780,8εκ. Βήμα 3 — ισοζύγιο: 8.780,8 − 5.100 = €3.680,8εκ ≈ €3.680εκ. Παγίδα Α (1.150) = ισοζύγιο 2024, χωρίς ανάπτυξη. Παγίδα Ε (8.782) = οι εξαγωγές μόνο, όχι το ισοζύγιο. Η σωστή απάντηση είναι Γ."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>R&amp;D Expenditure Statistical Data (2000 vs 2003)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>R&amp;D Expenditure (% GDP) 2000</th><th>R&amp;D Expenditure (% GDP) 2003</th><th>Gov. Funding of R&amp;D (%) 2000</th><th>Gov. Funding of R&amp;D (%) 2003</th><th>Patent Applications per Million Inhabitants (2000)</th><th>R&amp;D Expenditure (€m) 2000</th><th>GDP per Head (€) 2000</th></tr></thead><tbody><tr><td><strong>Belgium</strong></td><td>1.97%</td><td>1.89%</td><td>22.9%</td><td>23.5%</td><td>145.6</td><td>3,900</td><td>19,330</td></tr><tr><td><strong>Finland</strong></td><td>3.34%</td><td>3.43%</td><td>26.2%</td><td>25.7%</td><td>350.8</td><td>3,725</td><td>21,582</td></tr><tr><td><strong>France</strong></td><td>2.15%</td><td>2.17%</td><td>38.7%</td><td>39.0%</td><td>139.5</td><td>24,075</td><td>18,874</td></tr><tr><td><strong>Germany</strong></td><td>2.45%</td><td>2.52%</td><td>31.4%</td><td>31.2%</td><td>307.0</td><td>41,100</td><td>20,261</td></tr><tr><td><strong>Netherlands</strong></td><td>1.82%</td><td>1.76%</td><td>34.2%</td><td>36.2%</td><td>246.3</td><td>6,075</td><td>21,003</td></tr></tbody></table>",
+      "question": "9. In 2000, what was the ratio of GDP in the Netherlands to that in Finland?",
+      "options": [
+        "1 : 3",
+        "2 : 3",
+        "3 : 2",
+        "3 : 1",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "Total GDP is not given directly but can be derived: Total GDP = R&D Expenditure (€m) ÷ R&D Expenditure (% of GDP). Netherlands: 6,075 ÷ 0.0182 ≈ €333,791m. Finland: 3,725 ÷ 0.0334 ≈ €111,527m. Ratio (NL : FI): 333,791 ÷ 111,527 ≈ 2.99, which simplifies cleanly to 3 : 1. The correct answer is D. Option C (3:2) is the most common distractor as candidates may confuse the direction or misread the approximate value. The original document mislabelled the answer as C, but the explanation within it explicitly confirms the ratio is 3:1, matching option D."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Στατιστικά Στοιχεία Δαπανών Ε&amp;Α (2000 έναντι 2003)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Δαπάνες Ε&amp;Α (% ΑΕΠ) 2000</th><th>Δαπάνες Ε&amp;Α (% ΑΕΠ) 2003</th><th>Κυβ. Χρηματοδότηση Ε&amp;Α (%) 2000</th><th>Κυβ. Χρηματοδότηση Ε&amp;Α (%) 2003</th><th>Αιτήσεις Διπλωμάτων ανά εκατ. κατοίκων (2000)</th><th>Δαπάνες Ε&amp;Α (€εκ) 2000</th><th>ΑΕΠ ανά κάτοικο (€) 2000</th></tr></thead><tbody><tr><td><strong>Βέλγιο</strong></td><td>1,97%</td><td>1,89%</td><td>22,9%</td><td>23,5%</td><td>145,6</td><td>3.900</td><td>19.330</td></tr><tr><td><strong>Φινλανδία</strong></td><td>3,34%</td><td>3,43%</td><td>26,2%</td><td>25,7%</td><td>350,8</td><td>3.725</td><td>21.582</td></tr><tr><td><strong>Γαλλία</strong></td><td>2,15%</td><td>2,17%</td><td>38,7%</td><td>39,0%</td><td>139,5</td><td>24.075</td><td>18.874</td></tr><tr><td><strong>Γερμανία</strong></td><td>2,45%</td><td>2,52%</td><td>31,4%</td><td>31,2%</td><td>307,0</td><td>41.100</td><td>20.261</td></tr><tr><td><strong>Κάτω Χώρες</strong></td><td>1,82%</td><td>1,76%</td><td>34,2%</td><td>36,2%</td><td>246,3</td><td>6.075</td><td>21.003</td></tr></tbody></table>",
+      "question": "9. Το 2000, ποιος ήταν ο λόγος του ΑΕΠ των Κάτω Χωρών προς το ΑΕΠ της Φινλανδίας;",
+      "options": [
+        "1 : 3",
+        "2 : 3",
+        "3 : 2",
+        "3 : 1",
+        "Καμία από τις παραπάνω"
+      ],
+      "answer": 3,
+      "explanation": "Το ΑΕΠ δεν δίνεται απευθείας, αλλά παράγεται: ΑΕΠ = Δαπάνες Ε&Α (€εκ) ÷ Δαπάνες Ε&Α (% ΑΕΠ). Κάτω Χώρες: 6.075 ÷ 0,0182 ≈ €333.791εκ. Φινλανδία: 3.725 ÷ 0,0334 ≈ €111.527εκ. Λόγος: 333.791 ÷ 111.527 ≈ 2,99 ≈ 3:1. Η σωστή απάντηση είναι Δ. Η επιλογή Γ (3:2) είναι η συνηθέστερη παγίδα λόγω σύγχυσης κατεύθυνσης ή ανάγνωσης."
+    }
+  },
+  {
+    "en": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Hospital Bed Statistics — EU and Selected Member States</caption><thead><tr style='background:#e8f0fe;'><th>Entity</th><th>Total Beds (2024)</th><th>Total Beds (2025)</th><th>% Curative Care Beds (2024)</th><th>% Curative Care Beds (2025)</th></tr></thead><tbody><tr><td><strong>EU-27</strong></td><td>2,910,400</td><td>2,895,150</td><td>13.50%</td><td>12.10%</td></tr><tr><td><strong>Germany</strong></td><td>712,400</td><td>705,200</td><td>8.50%</td><td>8.00%</td></tr><tr><td><strong>Spain</strong></td><td>152,600</td><td>154,800</td><td>16.20%</td><td>15.50%</td></tr><tr><td><strong>France</strong></td><td>465,000</td><td>461,000</td><td>8.20%</td><td>7.80%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Total hospital beds are divided strictly into two mutually exclusive categories: curative care beds and non-curative care beds.</em></p>",
+      "question": "10. The number of non-curative care beds in France increased by 5% from 2025 to 2026. Based on the data provided, how many non-curative care beds were there in France in 2026?",
+      "options": [
+        "35,958",
+        "425,042",
+        "435,606",
+        "440,294",
+        "446,294"
+      ],
+      "answer": 4,
+      "explanation": "Step 1 — France 2025 baseline: Total beds = 461,000; Curative care = 7.8%. Step 2 — non-curative percentage: 100% − 7.8% = 92.2%. Step 3 — non-curative beds in 2025: 461,000 × 0.922 = 425,042. Step 4 — apply 5% growth: 425,042 × 1.05 = 446,294. Option A (35,958) is the number of curative beds in 2025 — the trap for candidates who apply growth to the wrong category. Option B (425,042) is the 2025 non-curative figure — the trap for forgetting to apply the 5% increase. The correct answer is E."
+    },
+    "el": {
+      "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Στατιστικά Νοσοκομειακών Κλινών — ΕΕ και Επιλεγμένα Κράτη Μέλη</caption><thead><tr style='background:#e8f0fe;'><th>Οντότητα</th><th>Σύνολο Κλινών (2024)</th><th>Σύνολο Κλινών (2025)</th><th>% Κλίνες Θεραπευτικής Φροντίδας (2024)</th><th>% Κλίνες Θεραπευτικής Φροντίδας (2025)</th></tr></thead><tbody><tr><td><strong>ΕΕ-27</strong></td><td>2.910.400</td><td>2.895.150</td><td>13,50%</td><td>12,10%</td></tr><tr><td><strong>Γερμανία</strong></td><td>712.400</td><td>705.200</td><td>8,50%</td><td>8,00%</td></tr><tr><td><strong>Ισπανία</strong></td><td>152.600</td><td>154.800</td><td>16,20%</td><td>15,50%</td></tr><tr><td><strong>Γαλλία</strong></td><td>465.000</td><td>461.000</td><td>8,20%</td><td>7,80%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Το σύνολο των νοσοκομειακών κλινών διαιρείται αυστηρά σε δύο αμοιβαία αποκλειστικές κατηγορίες: κλίνες θεραπευτικής φροντίδας και κλίνες μη θεραπευτικής φροντίδας.</em></p>",
+      "question": "10. Ο αριθμός κλινών μη θεραπευτικής φροντίδας στη Γαλλία αυξήθηκε κατά 5% από το 2025 στο 2026. Βάσει των δεδομένων, πόσες κλίνες μη θεραπευτικής φροντίδας υπήρχαν στη Γαλλία το 2026;",
+      "options": [
+        "35.958",
+        "425.042",
+        "435.606",
+        "440.294",
+        "446.294"
+      ],
+      "answer": 4,
+      "explanation": "Βήμα 1 — βάση Γαλλίας 2025: Σύνολο = 461.000, Θεραπευτικές = 7,8%. Βήμα 2 — μη θεραπευτικό ποσοστό: 100%−7,8%=92,2%. Βήμα 3 — μη θεραπευτικές κλίνες 2025: 461.000×0,922=425.042. Βήμα 4 — αύξηση 5%: 425.042×1,05=446.294. Παγίδα Α (35.958) = αριθμός θεραπευτικών κλινών. Παγίδα Β (425.042) = μη θεραπευτικές 2025 χωρίς αύξηση. Η σωστή απάντηση είναι Ε."
+    }
+  }
+]
 }
