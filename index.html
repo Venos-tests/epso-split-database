@@ -163,7 +163,6 @@
                 base + "epso-abstract.json" + cb,
                 base + "epso-eu-knowledge.json" + cb,
                 base + "epso-digital-skills.json" + cb
-                base + "digital-skills-external/epso-digital-skills-external.json" + cb
             ];
             var results = await Promise.all(files.map(function(f) {
                 return fetch(f).then(function(r) { return r.json(); });
@@ -232,7 +231,6 @@
             { title: 'Abstract Reasoning',  keys: ['abstract_1','abstract_2','abstract_3','abstract_4'] },
             { title: 'EU Knowledge',        keys: ['eu_1','eu_2','eu_3','eu_4'] },
             { title: 'Digital Skills',      keys: ['ds_1','ds_2','ds_3','ds_4'] }
-            { title: 'Digital Skills — Set B (EN only)', keys: ['ds_ext_1','ds_ext_2','ds_ext_3','ds_ext_4','ds_ext_5','ds_ext_6','ds_ext_7','ds_ext_8','ds_ext_9','ds_ext_10','ds_ext_11','ds_ext_12','ds_ext_13','ds_ext_14','ds_ext_15']      }
         ];
         grid.innerHTML = sections.map(function(s) {
             return '<div class="section-container">'
@@ -250,11 +248,7 @@
                 + '</div></div>';
         }).join('');
     }
-    function openModal(key) {
-    selectedTestKey = key;
-    if (key.startsWith('ds_ext')) {
-        currentLang = 'en';
-        updateUIStrings();
+function openModal(key) { selectedTestKey = key; document.getElementById('mode-modal').style.display = 'flex'; }
     }
     document.getElementById('mode-modal').style.display = 'flex';
 }
