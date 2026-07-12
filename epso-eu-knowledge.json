@@ -3126,5 +3126,1569 @@
         "explanation": "Όπως κωδικοποιείται στο άρθρο 127 της ΣΛΕΕ, το πρωταρχικό καθήκον της ΕΚΤ είναι η διατήρηση της σταθερότητας των τιμών μέσω της ανεξάρτητης διαχείρισης των νομισματικών παραμέτρων χωρίς πολιτικές παρεμβάσεις."
       }
     }
+  ],
+"eu_5": [
+    {
+      "en": {
+        "passage": "1. The European Union's legislative process involves complex interplay between the European Parliament, Council of the European Union, and European Commission. The ordinary legislative procedure (co-decision) requires approval from both the Parliament and Council, fundamentally reshaping power dynamics since Maastricht.",
+        "question": "Under the ordinary legislative procedure, which two institutions must approve legislation for it to pass?",
+        "options": [
+          "European Commission and European Council",
+          "European Parliament and Council of the European Union",
+          "European Court of Justice and European Central Bank",
+          "European Parliament and European Commission"
+        ],
+        "answer": 1,
+        "explanation": "The ordinary legislative procedure (formerly co-decision) requires joint approval from the European Parliament and the Council of the European Union. This was expanded by successive treaties to cover most EU legislation."
+      },
+      "el": {
+        "passage": "1. Η νομοθετική διαδικασία της Ευρωπαϊκής Ένωσης περιλαμβάνει πολύπλοκη αλληλεπίδραση μεταξύ του Ευρωπαϊκού Κοινοβουλίου, του Συμβουλίου της Ευρωπαϊκής Ένωσης και της Ευρωπαϊκής Επιτροπής. Η συνήθης νομοθετική διαδικασία απαιτεί έγκριση τόσο από το Κοινοβούλιο όσο και από το Συμβούλιο.",
+        "question": "Στο πλαίσιο της συνήθους νομοθετικής διαδικασίας, ποιες δύο θεσμικές αρχές πρέπει να εγκρίνουν τη νομοθεσία;",
+        "options": [
+          "Ευρωπαϊκή Επιτροπή και Ευρωπαϊκό Συμβούλιο",
+          "Ευρωπαϊκό Κοινοβούλιο και Συμβούλιο της Ευρωπαϊκής Ένωσης",
+          "Ευρωπαϊκό Δικαστήριο και Ευρωπαϊκή Κεντρική Τράπεζα",
+          "Ευρωπαϊκό Κοινοβούλιο και Ευρωπαϊκή Επιτροπή"
+        ],
+        "answer": 1,
+        "explanation": "Η συνήθης νομοθετική διαδικασία (προηγουμένως συν-απόφαση) απαιτεί κοινή έγκριση από το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο της Ευρωπαϊκής Ένωσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The European Central Bank (ECB) maintains monetary policy autonomy to ensure price stability across the Eurozone. However, fiscal policy remains under national government control, creating potential tensions between monetary and fiscal authorities.",
+        "question": "Which EU institution is primarily responsible for monetary policy in the Eurozone?",
+        "options": [
+          "The European Commission",
+          "The Council of the European Union",
+          "The European Central Bank",
+          "National central banks collectively"
+        ],
+        "answer": 2,
+        "explanation": "The ECB is the central monetary authority for the 20 EU member states using the Euro, responsible for setting interest rates and maintaining price stability across the Eurozone."
+      },
+      "el": {
+        "passage": "2. Η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) διατηρεί αυτονομία νομισματικής πολιτικής για να διασφαλίσει σταθερότητα των τιμών στην Ευρωζώνη. Ωστόσο, η δημοσιονομική πολιτική παραμένει υπό τον έλεγχο των εθνικών κυβερνήσεων.",
+        "question": "Ποια θεσμική αρχή της ΕΕ είναι κύρια υπεύθυνη για τη νομισματική πολιτική στην Ευρωζώνη;",
+        "options": [
+          "Η Ευρωπαϊκή Επιτροπή",
+          "Το Συμβούλιο της Ευρωπαϊκής Ένωσης",
+          "Η Ευρωπαϊκή Κεντρική Τράπεζα",
+          "Οι εθνικές κεντρικές τράπεζες συλλογικά"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΚΤ είναι η κεντρική νομισματική αρχή για τα 20 κράτη μέλη της ΕΕ που χρησιμοποιούν το Ευρώ, υπεύθυνη για τη θέσπιση επιτοκίων και τη διατήρηση σταθερότητας των τιμών."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The Single Market represents one of the EU's greatest achievements, eliminating trade barriers between member states. However, Brexit demonstrated that EU membership is not irreversible, as the United Kingdom invoked Article 50 of the Lisbon Treaty in 2016.",
+        "question": "What is Article 50 of the Lisbon Treaty primarily used for?",
+        "options": [
+          "Establishing the Eurozone",
+          "Providing the legal framework for a member state to withdraw from the EU",
+          "Creating the European Parliament",
+          "Defining the EU's external trade policy"
+        ],
+        "answer": 1,
+        "explanation": "Article 50 TEU provides the legal mechanism for a member state to withdraw from the EU, specifying a two-year negotiation period. It was first invoked by the United Kingdom on March 29, 2017."
+      },
+      "el": {
+        "passage": "3. Η Ενιαία Αγορά αντιπροσωπεύει ένα από τα μεγαλύτερα επιτεύγματα της ΕΕ, εξαλείφοντας εμπόδια στο εμπόριο μεταξύ κρατών μελών. Ωστόσο, το Brexit έδειξε ότι η ιδιότητα του κράτους μέλους δεν είναι αμετάκλητη.",
+        "question": "Το Άρθρο 50 της Συνθήκης της Λισαβόνας χρησιμοποιείται κυρίως για ποιο σκοπό;",
+        "options": [
+          "Τη θέσπιση της Ευρωζώνης",
+          "Την παροχή του νομικού πλαισίου για την αποχώρηση ενός κράτους μέλους από την ΕΕ",
+          "Τη δημιουργία του Ευρωπαϊκού Κοινοβουλίου",
+          "Τον καθορισμό της εξωτερικής εμπορικής πολιτικής της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Το Άρθρο 50 ΣΕΕ παρέχει τον νομικό μηχανισμό για την αποχώρηση ενός κράτους μέλους από την ΕΕ, προσδιορίζοντας περίοδο διαπραγμάτευσης δύο ετών. Χρησιμοποιήθηκε για πρώτη φορά από το Ηνωμένο Βασίλειο στις 29 Μαρτίου 2017."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The Schengen Area, established in 1985, represents a major achievement in freedom of movement by eliminating internal border controls. However, the area experienced significant challenges during the 2015 migration crisis and COVID-19 pandemic, with several member states temporarily reintroducing border controls.",
+        "question": "Which treaty framework established the Schengen Area's principle of free movement?",
+        "options": [
+          "The Treaty of Rome",
+          "The Schengen Convention and the Maastricht Treaty",
+          "The Treaty of Amsterdam",
+          "The Lisbon Treaty"
+        ],
+        "answer": 1,
+        "explanation": "The Schengen Convention (1985) established the framework, with the Treaty of Amsterdam (1999) incorporating it into EU law. This created the principle of borderless travel across participating member states."
+      },
+      "el": {
+        "passage": "4. Ο χώρος Σένγκεν, που ιδρύθηκε το 1985, αντιπροσωπεύει ένα σημαντικό επίτευγμα στη θέσπιση της ελευθερίας κυκλοφορίας. Ωστόσο, αντιμετώπισε σημαντικές προκλήσεις κατά τη διάρκεια της κρίσης μετανάστευσης του 2015 και της πανδημίας COVID-19.",
+        "question": "Ποια συνθήκη ίδρυσε το νομικό πλαίσιο της αρχής της ελευθερίας κυκλοφορίας του χώρου Σένγκεν;",
+        "options": [
+          "Η Συνθήκη της Ρώμης",
+          "Η Σύμβαση Σένγκεν και η Συνθήκη του Μάαστριχτ",
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Λισαβόνας"
+        ],
+        "answer": 1,
+        "explanation": "Η Σύμβαση Σένγκεν (1985) ίδρυσε το πλαίσιο, το οποίο ενσωματώθηκε στο ευρωπαϊκό δίκαιο μέσω της Συνθήκης του Άμστερνταμ (1999)."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The Common Agricultural Policy (CAP) is one of the EU's oldest and most complex policies, accounting for approximately 37% of the EU budget. Recent reforms have attempted to balance productivity with environmental sustainability goals.",
+        "question": "Approximately what percentage of the EU budget is allocated to the Common Agricultural Policy?",
+        "options": [
+          "15%",
+          "25%",
+          "37%",
+          "50%"
+        ],
+        "answer": 2,
+        "explanation": "The CAP remains the largest single item in the EU budget, historically consuming around 37% of expenditures, though this percentage has gradually decreased with recent budget revisions."
+      },
+      "el": {
+        "passage": "5. Η Κοινή Γεωργική Πολιτική (ΚΓΠ) είναι μία από τις παλαιότερες και πιο περίπλοκες πολιτικές της ΕΕ, απορροφώντας περίπου το 37% του προϋπολογισμού της ΕΕ. Πρόσφατες μεταρρυθμίσεις προσπαθούν να ισορροπήσουν την παραγωγικότητα με τους στόχους περιβαλλοντικής βιωσιμότητας.",
+        "question": "Περίπου ποιο ποσοστό του προϋπολογισμού της ΕΕ κατανέμεται στην Κοινή Γεωργική Πολιτική;",
+        "options": [
+          "15%",
+          "25%",
+          "37%",
+          "50%"
+        ],
+        "answer": 2,
+        "explanation": "Η ΚΓΠ παραμένει το μεγαλύτερο μόνο στοιχείο του προϋπολογισμού της ΕΕ, ιστορικά καταναλώνοντας περίπου το 37% των δαπανών."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The European Court of Justice (ECJ) serves as the supreme judicial authority of the EU, responsible for interpreting EU law and ensuring consistent application across member states. Its preliminary ruling procedure allows national courts to seek guidance on EU law interpretation.",
+        "question": "What is the primary function of the European Court of Justice's preliminary ruling procedure?",
+        "options": [
+          "To overturn national court decisions",
+          "To allow national courts to seek guidance on EU law interpretation",
+          "To punish member states for non-compliance",
+          "To replace national judicial systems"
+        ],
+        "answer": 1,
+        "explanation": "The preliminary ruling procedure (Article 267 TFEU) enables national courts to refer questions about EU law interpretation to the ECJ, ensuring consistent application of EU law across all member states without replacing national judicial systems."
+      },
+      "el": {
+        "passage": "6. Το Ευρωπαϊκό Δικαστήριο (ΕΔ) είναι η ανώτατη δικαστική αρχή της ΕΕ, υπεύθυνη για την ερμηνεία του ευρωπαϊκού δικαίου. Η διαδικασία προδικασίας επιτρέπει στα εθνικά δικαστήρια να ζητούν καθοδήγηση σχετικά με την ερμηνεία του ευρωπαϊκού δικαίου.",
+        "question": "Ποια είναι η κύρια λειτουργία της διαδικασίας προδικασίας του Ευρωπαϊκού Δικαστηρίου;",
+        "options": [
+          "Η ακύρωση αποφάσεων εθνικών δικαστηρίων",
+          "Η δυνατότητα των εθνικών δικαστηρίων να ζητούν καθοδήγηση επί της ερμηνείας του ευρωπαϊκού δικαίου",
+          "Η τιμωρία κρατών μελών για μη συμμόρφωση",
+          "Η αντικατάσταση των εθνικών δικαστικών συστημάτων"
+        ],
+        "answer": 1,
+        "explanation": "Η διαδικασία προδικασίας (Άρθρο 267 ΣΛΕΕ) επιτρέπει στα εθνικά δικαστήρια να υποβάλλουν ερωτήματα σχετικά με την ερμηνεία του ευρωπαϊκού δικαίου στο ΕΔ, διασφαλίζοντας συνεπή εφαρμογή σε όλα τα κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The European Union's response to economic disparities includes regional policy and structural funds aimed at reducing inequalities between regions. The European Fund for Strategic Investments (EFSI) was created to stimulate growth in disadvantaged areas.",
+        "question": "What is the primary goal of the EU's regional policy and structural funds?",
+        "options": [
+          "To increase tariffs on imports",
+          "To reduce economic inequalities between regions",
+          "To strengthen the European military",
+          "To promote linguistic uniformity"
+        ],
+        "answer": 1,
+        "explanation": "EU regional policy and structural funds are designed to promote cohesion and reduce economic disparities between regions, supporting underdeveloped areas through targeted investment and development initiatives."
+      },
+      "el": {
+        "passage": "7. Η απάντηση της Ευρωπαϊκής Ένωσης στις οικονομικές ανισότητες περιλαμβάνει περιφερειακή πολιτική και διαρθρωτικά κεφάλαια που στοχεύουν στη μείωση των ανισοτήτων μεταξύ των περιφερειών.",
+        "question": "Ποιος είναι ο κύριος στόχος της περιφερειακής πολιτικής και των διαρθρωτικών κεφαλαίων της ΕΕ;",
+        "options": [
+          "Η αύξηση των δασμών στις εισαγωγές",
+          "Η μείωση των οικονομικών ανισοτήτων μεταξύ των περιφερειών",
+          "Η ενίσχυση του ευρωπαϊκού στρατού",
+          "Η προώθηση της γλωσσικής ομοιομορφίας"
+        ],
+        "answer": 1,
+        "explanation": "Η περιφερειακή πολιτική και τα διαρθρωτικά κεφάλαια της ΕΕ σχεδιάζονται για την προώθηση της συνοχής και τη μείωση των οικονομικών διαφορών μεταξύ των περιφερειών."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The EU has established strict data protection regulations, most notably the General Data Protection Regulation (GDPR) enacted in 2016 and enforced from 2018. The GDPR grants individuals extensive rights over their personal data and imposes significant obligations on organizations.",
+        "question": "In what year did the General Data Protection Regulation (GDPR) become enforceable across the EU?",
+        "options": [
+          "2014",
+          "2016",
+          "2018",
+          "2020"
+        ],
+        "answer": 2,
+        "explanation": "Although the GDPR was enacted in 2016, it became enforceable on May 25, 2018. It replaced the 1995 Data Protection Directive and established the world's most comprehensive data protection framework."
+      },
+      "el": {
+        "passage": "8. Η ΕΕ έχει θεσπίσει αυστηρούς κανονισμούς προστασίας δεδομένων, κυρίως το Γενικό Κανονισμό για την Προστασία Δεδομένων (GDPR) που θεσπίστηκε το 2016 και εφαρμόστηκε από το 2018.",
+        "question": "Σε ποιο έτος ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR) έγινε δεσμευτικός σε ολόκληρη την ΕΕ;",
+        "options": [
+          "2014",
+          "2016",
+          "2018",
+          "2020"
+        ],
+        "answer": 2,
+        "explanation": "Αν και ο GDPR θεσπίστηκε το 2016, έγινε δεσμευτικός στις 25 Μαΐου 2018, αντικαθιστώντας τη Διεύθυνση Προστασίας Δεδομένων του 1995."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Treaty of Rome (1957) established the European Economic Community, creating the foundation for European integration. It introduced the concept of the Common Market and laid the groundwork for supranational governance in Europe.",
+        "question": "What major economic concept did the Treaty of Rome (1957) introduce?",
+        "options": [
+          "The Eurozone",
+          "The Common Market",
+          "The Customs Union",
+          "The Free Trade Agreement"
+        ],
+        "answer": 1,
+        "explanation": "The Treaty of Rome established the European Economic Community (EEC) and introduced the concept of the Common Market, eliminating customs duties and trade barriers between member states and establishing free movement of goods, services, capital, and people."
+      },
+      "el": {
+        "passage": "9. Η Συνθήκη της Ρώμης (1957) ίδρυσε την Ευρωπαϊκή Οικονομική Κοινότητα, δημιουργώντας τη βάση για την ευρωπαϊκή ολοκλήρωση. Εισήγαγε την έννοια της Κοινής Αγοράς και έθεσε τα θεμέλια για υπερεθνική διακυβέρνηση στην Ευρώπη.",
+        "question": "Ποια σημαντική οικονομική έννοια εισήγαγε η Συνθήκη της Ρώμης (1957);",
+        "options": [
+          "Η Ευρωζώνη",
+          "Η Κοινή Αγορά",
+          "Η Τελωνειακή Ένωση",
+          "Η Ελεύθερη Εμπορική Συμφωνία"
+        ],
+        "answer": 1,
+        "explanation": "Η Συνθήκη της Ρώμης ίδρυσε την ΕΟΚ και εισήγαγε την έννοια της Κοινής Αγοράς, εξαλείφοντας δασμούς και εμπόδια στο εμπόριο μεταξύ κρατών μελών."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The Charter of Fundamental Rights, formally recognized by the Treaty of Lisbon (2009), enshrines essential rights and freedoms of EU citizens. It covers civil, political, social, and economic rights, serving as a constitutional document within the EU legal framework.",
+        "question": "Which treaty formally incorporated the Charter of Fundamental Rights into EU law?",
+        "options": [
+          "The Treaty of Maastricht",
+          "The Treaty of Amsterdam",
+          "The Treaty of Nice",
+          "The Treaty of Lisbon"
+        ],
+        "answer": 3,
+        "explanation": "The Treaty of Lisbon (2009) formally incorporated the Charter of Fundamental Rights into EU law with binding legal effect, making it enforceable across all member states and creating a comprehensive catalogue of fundamental rights."
+      },
+      "el": {
+        "passage": "10. Ο Χάρτης των Θεμελιωδών Δικαιωμάτων, επίσημα αναγνωρισμένος από τη Συνθήκη της Λισαβόνας (2009), κωδικοποιεί τα ουσιώδη δικαιώματα και ελευθερίες των πολιτών της ΕΕ.",
+        "question": "Ποια συνθήκη ενσωμάτωσε επίσημα τον Χάρτη των Θεμελιωδών Δικαιωμάτων στο ευρωπαϊκό δίκαιο;",
+        "options": [
+          "Η Συνθήκη του Μάαστριχτ",
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Νίκαιας",
+          "Η Συνθήκη της Λισαβόνας"
+        ],
+        "answer": 3,
+        "explanation": "Η Συνθήκη της Λισαβόνας (2009) ενσωμάτωσε επίσημα τον Χάρτη των Θεμελιωδών Δικαιωμάτων με δεσμευτική νομική ισχύ, καθιστώντας τον εφαρμόσιμο σε όλα τα κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. The composition of the Eurozone has continued to expand since its 1999 launch, with the most recent accession taking place at the start of 2026.",
+        "question": "As of 2026, how many EU member states use the Euro as their official currency?",
+        "options": [
+          "19",
+          "20",
+          "21",
+          "27"
+        ],
+        "answer": 2,
+        "explanation": "The Eurozone reached 21 members when Bulgaria adopted the euro on 1 January 2026, following Croatia's accession in 2023. Six EU states (Czechia, Denmark, Hungary, Poland, Romania, Sweden) remain outside the Eurozone; Denmark holds a formal opt-out, while the other five are treaty-bound to join once they meet the convergence criteria."
+      },
+      "el": {
+        "passage": "11. Η σύνθεση της Ευρωζώνης συνεχίζει να διευρύνεται από την έναρξή της το 1999, με την πιο πρόσφατη ένταξη να πραγματοποιείται στις αρχές του 2026.",
+        "question": "Από το 2026, πόσα κράτη μέλη της ΕΕ χρησιμοποιούν το Ευρώ ως επίσημο νόμισμά τους;",
+        "options": [
+          "19",
+          "20",
+          "21",
+          "27"
+        ],
+        "answer": 2,
+        "explanation": "Η Ευρωζώνη έφτασε τα 21 μέλη όταν η Βουλγαρία υιοθέτησε το ευρώ την 1η Ιανουαρίου 2026, μετά την ένταξη της Κροατίας το 2023. Έξι κράτη μέλη της ΕΕ (Τσεχία, Δανία, Ουγγαρία, Πολωνία, Ρουμανία, Σουηδία) παραμένουν εκτός Ευρωζώνης· η Δανία έχει επίσημη εξαίρεση (opt-out), ενώ τα υπόλοιπα πέντε δεσμεύονται από συνθήκη να ενταχθούν μόλις πληρούν τα κριτήρια σύγκλισης."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The European Commission operates as the executive branch of the EU, comprising the President and Commissioners from each member state. The Commission President is elected by the European Parliament following European Council nominations.",
+        "question": "How are Commissioners appointed to the European Commission?",
+        "options": [
+          "Directly elected by EU citizens",
+          "One nominated by each member state and approved by the European Parliament",
+          "Appointed by the European Council without consultation",
+          "Selected exclusively by the European Parliament"
+        ],
+        "answer": 1,
+        "explanation": "Each EU member state nominates one Commissioner, and the entire Commission, led by the President, must be approved by the European Parliament. The President is elected by Parliament after European Council nomination."
+      },
+      "el": {
+        "passage": "12. Η Ευρωπαϊκή Επιτροπή λειτουργεί ως εκτελεστική εξουσία της ΕΕ, αποτελούμενη από τον Πρόεδρο και Επιτρόπους από κάθε κράτος μέλος. Ο Πρόεδρος της Επιτροπής εκλέγεται από το Ευρωπαϊκό Κοινοβούλιο.",
+        "question": "Πώς διορίζονται οι Επίτροποι στην Ευρωπαϊκή Επιτροπή;",
+        "options": [
+          "Άμεσα εκλέγονται από τους πολίτες της ΕΕ",
+          "Ένας ορίζεται από κάθε κράτος μέλος και εγκρίνεται από το Ευρωπαϊκό Κοινοβούλιο",
+          "Ορίζονται από το Ευρωπαϊκό Συμβούλιο χωρίς διαβούλευση",
+          "Επιλέγονται αποκλειστικά από το Ευρωπαϊκό Κοινοβούλιο"
+        ],
+        "answer": 1,
+        "explanation": "Κάθε κράτος μέλος της ΕΕ προτείνει έναν Επίτροπο και ολόκληρη η Επιτροπή, υπό την ηγεσία του Προέδρου, πρέπει να εγκριθεί από το Ευρωπαϊκό Κοινοβούλιο."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The European Council differs fundamentally from the Council of the European Union. The European Council comprises heads of state or government and meets to define strategic EU policy direction, while the Council of the EU handles legislative and executive matters at the ministerial level.",
+        "question": "Who are the typical members of the European Council?",
+        "options": [
+          "Government ministers from all member states",
+          "Heads of state or government of member states",
+          "Members of the European Parliament",
+          "Appointed officials from the European Commission"
+        ],
+        "answer": 1,
+        "explanation": "The European Council comprises the heads of state or government of the EU member states, plus the President of the European Commission and the High Representative for Foreign Affairs. It sets strategic policy direction for the EU."
+      },
+      "el": {
+        "passage": "13. Το Ευρωπαϊκό Συμβούλιο διαφέρει ουσιαστικά από το Συμβούλιο της Ευρωπαϊκής Ένωσης. Το Ευρωπαϊκό Συμβούλιο αποτελείται από τα κεφάλια κρατών ή κυβερνήσεων και συνέρχεται για να καθορίσει τη στρατηγική κατεύθυνση της πολιτικής της ΕΕ.",
+        "question": "Ποιοι είναι συνήθως τα μέλη του Ευρωπαϊκού Συμβουλίου;",
+        "options": [
+          "Υπουργοί κυβερνήσεων από όλα τα κράτη μέλη",
+          "Προέδρους κρατών ή κυβερνήσεων κρατών μελών",
+          "Μέλη του Ευρωπαϊκού Κοινοβουλίου",
+          "Διορισμένοι αξιωματούχοι της Ευρωπαϊκής Επιτροπής"
+        ],
+        "answer": 1,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο αποτελείται από τα κεφάλια κρατών ή κυβερνήσεων των κρατών μελών της ΕΕ, τον Πρόεδρο της Ευρωπαϊκής Επιτροπής και τον Ύπατο Εκπρόσωπο για Ξένα Υποθέσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The 2008 global financial crisis exposed vulnerabilities in the Eurozone, leading to the sovereign debt crises in Greece, Ireland, Portugal, and Spain. In response, the EU established bailout mechanisms including the European Financial Stability Facility (EFSF) and later the European Stability Mechanism (ESM).",
+        "question": "Which mechanism did the EU establish to provide financial assistance to crisis-stricken Eurozone members?",
+        "options": [
+          "The Marshall Plan",
+          "The European Stability Mechanism (ESM)",
+          "The Bretton Woods System",
+          "The Gold Standard Framework"
+        ],
+        "answer": 1,
+        "explanation": "The European Stability Mechanism (ESM) was established in 2012 as a permanent crisis-resolution mechanism for Eurozone member states, replacing the temporary European Financial Stability Facility (EFSF) and providing financial assistance under strict conditions."
+      },
+      "el": {
+        "passage": "14. Η παγκόσμια χρηματοπιστωτική κρίση του 2008 αποκάλυψε τρωτότητες στην Ευρωζώνη, οδηγώντας σε κρίσεις κυρίαρχου χρέους στην Ελλάδα, Ιρλανδία, Πορτογαλία και Ισπανία. Ως απάντηση, η ΕΕ ίδρυσε μηχανισμούς διάσωσης.",
+        "question": "Ποιον μηχανισμό ίδρυσε η ΕΕ για να παράσχει οικονομική βοήθεια στα κράτη μέλη της Ευρωζώνης που αντιμετώπιζαν κρίση;",
+        "options": [
+          "Το σχέδιο Marshall",
+          "Τον Ευρωπαϊκό Μηχανισμό Σταθερότητας (ESM)",
+          "Το Σύστημα Bretton Woods",
+          "Το σύστημα χρυσού κανόνα"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Μηχανισμός Σταθερότητας (ESM) ιδρύθηκε το 2012 ως μόνιμος μηχανισμός επίλυσης κρίσεων για τα κράτη μέλη της Ευρωζώνης."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The EU's climate policy has evolved significantly, with the European Green Deal (2019) establishing an ambitious target of climate neutrality by 2050. This comprehensive strategy includes the Carbon Border Adjustment Mechanism (CBAM) to prevent carbon leakage.",
+        "question": "What is the primary target year for achieving climate neutrality under the European Green Deal?",
+        "options": [
+          "2030",
+          "2035",
+          "2045",
+          "2050"
+        ],
+        "answer": 3,
+        "explanation": "The European Green Deal, presented by the European Commission in 2019, sets an ambitious target of achieving climate neutrality across the EU by 2050, with an interim target of reducing net greenhouse gas emissions by at least 55% by 2030."
+      },
+      "el": {
+        "passage": "15. Η κλιματική πολιτική της ΕΕ έχει εξελιχθεί σημαντικά, με το Ευρωπαϊκό Πράσινο Σχέδιο (2019) να θέτει έναν φιλόδοξο στόχο κλιματικής ουδετερότητας έως το 2050.",
+        "question": "Ποιο είναι το κύριο έτος-στόχος για την επίτευξη κλιματικής ουδετερότητας στο πλαίσιο του Ευρωπαϊκού Πράσινου Σχεδίου;",
+        "options": [
+          "2030",
+          "2035",
+          "2045",
+          "2050"
+        ],
+        "answer": 3,
+        "explanation": "Το Ευρωπαϊκό Πράσινο Σχέδιο, που παρουσιάστηκε από την Ευρωπαϊκή Επιτροπή το 2019, θέτει έναν φιλόδοξο στόχο επίτευξης κλιματικής ουδετερότητας σε ολόκληρη την ΕΕ έως το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. EU enlargement has expanded the Union from the original six member states to 27 today. The 2004 enlargement wave brought ten Central and Eastern European countries into the EU, fundamentally reshaping its political and economic landscape.",
+        "question": "How many countries joined the EU in the major 2004 enlargement?",
+        "options": [
+          "5",
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "The 2004 enlargement brought ten countries into the EU: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia, and Cyprus. This was the largest single enlargement and significantly expanded the EU eastward."
+      },
+      "el": {
+        "passage": "16. Η διεύρυνση της ΕΕ έχει επεκτείνει την Ένωση από τα αρχικά έξι κράτη μέλη σε 27 σήμερα. Το κύμα διεύρυνσης του 2004 ένταξε δέκα χώρες της Κεντρικής και Ανατολικής Ευρώπης στην ΕΕ.",
+        "question": "Πόσες χώρες ενταχθησαν στην ΕΕ στη μεγάλη διεύρυνση του 2004;",
+        "options": [
+          "5",
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "Η διεύρυνση του 2004 ένταξε δέκα χώρες στην ΕΕ: Τσεχία, Εσθονία, Ουγγαρία, Λετονία, Λιθουανία, Μάλτα, Πολωνία, Σλοβακία, Σλοβενία και Κύπρο."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The principle of subsidiarity, enshrined in the Treaty of Maastricht, requires that decisions should be taken as closely as possible to EU citizens, with the EU acting only when member states cannot effectively address issues.",
+        "question": "What does the principle of subsidiarity require regarding decision-making in the EU?",
+        "options": [
+          "All decisions must be made at the EU level",
+          "Decisions should be made as closely as possible to citizens, with EU action only when necessary",
+          "Member states have absolute sovereignty",
+          "The European Parliament has exclusive decision-making authority"
+        ],
+        "answer": 1,
+        "explanation": "Subsidiarity requires that decisions be made at the lowest possible level—preferably at national or local level—with the EU only intervening when member states are unable to effectively address an issue. This principle limits EU competence and respects member state autonomy."
+      },
+      "el": {
+        "passage": "17. Η αρχή της επικουρικότητας, ενσωματωμένη στη Συνθήκη του Μάαστριχτ, απαιτεί ότι οι αποφάσεις θα πρέπει να λαμβάνονται όσο το δυνατόν πλησιέστερα στους πολίτες της ΕΕ.",
+        "question": "Τι απαιτεί η αρχή της επικουρικότητας σχετικά με τη λήψη αποφάσεων στην ΕΕ;",
+        "options": [
+          "Όλες οι αποφάσεις πρέπει να λαμβάνονται σε επίπεδο ΕΕ",
+          "Οι αποφάσεις θα πρέπει να λαμβάνονται όσο το δυνατόν πλησιέστερα στους πολίτες, με δράση της ΕΕ μόνο όταν είναι απαραίτητο",
+          "Τα κράτη μέλη έχουν απόλυτη κυριαρχία",
+          "Το Ευρωπαϊκό Κοινοβούλιο έχει αποκλειστική εξουσία λήψης αποφάσεων"
+        ],
+        "answer": 1,
+        "explanation": "Η επικουρικότητα απαιτεί ότι οι αποφάσεις λαμβάνονται στο χαμηλότερο δυνατό επίπεδο, με την ΕΕ να παρεμβαίνει μόνο όταν τα κράτη μέλη είναι ανίκανα να αντιμετωπίσουν αποτελεσματικά ένα θέμα."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The European Court of Auditors, established by the Treaty of Brussels (1975), independently audits the EU's finances to ensure proper use of public funds. Its role is crucial in maintaining financial accountability and transparency across EU institutions.",
+        "question": "What is the primary responsibility of the European Court of Auditors?",
+        "options": [
+          "To interpret EU law",
+          "To legislate on EU financial matters",
+          "To independently audit EU finances and ensure proper use of public funds",
+          "To appoint European Commission officials"
+        ],
+        "answer": 2,
+        "explanation": "The European Court of Auditors is an independent institution responsible for auditing the finances of the EU institutions, bodies, and member states' management of EU funds. It promotes accountability, transparency, and proper financial management across the EU."
+      },
+      "el": {
+        "passage": "18. Το Ευρωπαϊκό Ελεγκτικό Συνέδριο, που ιδρύθηκε με τη Συνθήκη των Βρυξελών (1975), ελέγχει ανεξάρτητα τα οικονομικά της ΕΕ για να διασφαλίσει τη σωστή χρήση δημόσιων κεφαλαίων.",
+        "question": "Ποια είναι η κύρια ευθύνη του Ευρωπαϊκού Ελεγκτικού Συνεδρίου;",
+        "options": [
+          "Η ερμηνεία του ευρωπαϊκού δικαίου",
+          "Η νομοθεσία για ζητήματα ευρωπαϊκών οικονομικών",
+          "Η ανεξάρτητη ελεγκτική επιθεώρηση των οικονομικών της ΕΕ",
+          "Η διορισμός αξιωματούχων της Ευρωπαϊκής Επιτροπής"
+        ],
+        "answer": 2,
+        "explanation": "Το Ευρωπαϊκό Ελεγκτικό Συνέδριο είναι μια ανεξάρτητη θεσμική αρχή υπεύθυνη για τον έλεγχο των οικονομικών των θεσμικών αρχών της ΕΕ και τη διακυβέρνηση κεφαλαίων της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The European Union has developed a comprehensive asylum and migration framework known as the Common European Asylum System (CEAS). However, recent crises have exposed tensions between member states' burden-sharing obligations and national sovereignty concerns.",
+        "question": "What is the Common European Asylum System (CEAS) designed to establish?",
+        "options": [
+          "Uniform external trade tariffs",
+          "Common standards for asylum procedures and refugee protection",
+          "Mandatory military service across member states",
+          "Unified cultural policies"
+        ],
+        "answer": 1,
+        "explanation": "The CEAS establishes common standards and procedures for asylum claims and refugee protection across the EU, aiming to ensure fair treatment and burden-sharing among member states while maintaining the integrity of the Schengen Area."
+      },
+      "el": {
+        "passage": "19. Η Ευρωπαϊκή Ένωση έχει αναπτύξει ένα ολοκληρωμένο σύστημα ασύλου και μετανάστευσης γνωστό ως Κοινό Ευρωπαϊκό Σύστημα Ασύλου (ΚΕΣΑ).",
+        "question": "Τι έχει σχεδιαστεί να θεσπίσει το Κοινό Ευρωπαϊκό Σύστημα Ασύλου (ΚΕΣΑ);",
+        "options": [
+          "Ομοιόμορφες εξωτερικές εμπορικές δασμολογήσεις",
+          "Κοινά πρότυπα για διαδικασίες ασύλου και προστασίας προσφύγων",
+          "Υποχρεωτική στρατιωτική θητεία σε κράτη μέλη",
+          "Ενοποιημένες πολιτικές πολιτισμού"
+        ],
+        "answer": 1,
+        "explanation": "Το ΚΕΣΑ θεσπίζει κοινά πρότυπα και διαδικασίες για αιτήματα ασύλου και προστασίας προσφύγων σε ολόκληρη την ΕΕ, στοχεύοντας στη δίκαιη μεταχείριση και κατανομή βάρους μεταξύ κρατών μελών."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The Erasmus+ programme, funded by the EU, promotes educational exchange and cooperation across member states. It provides opportunities for students, young professionals, and educators to study or work abroad, fostering European identity and cooperation.",
+        "question": "What is the primary purpose of the Erasmus+ programme?",
+        "options": [
+          "To restrict student movement between countries",
+          "To promote educational exchange and cooperation across EU member states",
+          "To enforce linguistic uniformity in education",
+          "To replace national education systems"
+        ],
+        "answer": 1,
+        "explanation": "Erasmus+ is an EU funding programme that promotes educational exchange, cooperation, and mobility among students, educators, and young professionals across member states. It strengthens European identity and facilitates the development of skills essential for employability and personal growth."
+      },
+      "el": {
+        "passage": "20. Το πρόγραμμα Erasmus+, χρηματοδοτούμενο από την ΕΕ, προωθεί τη διακίνηση γνώσης και τη συνεργασία στα κράτη μέλη. Παρέχει ευκαιρίες σε φοιτητές, νέους επαγγελματίες και εκπαιδευτικούς να σπουδάσουν ή να εργαστούν στο εξωτερικό.",
+        "question": "Ποιος είναι ο κύριος σκοπός του προγράμματος Erasmus+;",
+        "options": [
+          "Να περιορίσει την κινητικότητα φοιτητών μεταξύ χωρών",
+          "Να προωθήσει τη διακίνηση γνώσης και τη συνεργασία μεταξύ κρατών μελών της ΕΕ",
+          "Να επιβάλει γλωσσική ομοιομορφία στην εκπαίδευση",
+          "Να αντικαταστήσει τα εθνικά εκπαιδευτικά συστήματα"
+        ],
+        "answer": 1,
+        "explanation": "Το Erasmus+ είναι ένα πρόγραμμα χρηματοδότησης της ΕΕ που προωθεί τη διακίνηση γνώσης, τη συνεργασία και την κινητικότητα μεταξύ φοιτητών, εκπαιδευτικών και νέων επαγγελματιών σε κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. The European Union's industrial and innovation policy, outlined in recent strategic agendas, emphasizes digital transformation, green technology, and strategic autonomy. The EU aims to maintain technological sovereignty in critical sectors while promoting global competitiveness.",
+        "question": "What are the key pillars of the EU's contemporary industrial strategy?",
+        "options": [
+          "Maximizing reliance on imports",
+          "Digital transformation, green technology, and strategic autonomy",
+          "Returning to pre-industrial economy",
+          "Eliminating all regulations on manufacturing"
+        ],
+        "answer": 1,
+        "explanation": "The EU's industrial and innovation strategy prioritizes digital transformation, the green economy transition, and strategic autonomy in critical sectors such as semiconductors, batteries, and rare earth elements, ensuring technological independence and competitiveness."
+      },
+      "el": {
+        "passage": "21. Η βιομηχανική και πολιτική καινοτομίας της ΕΕ, όπως περιγράφεται στις πρόσφατες στρατηγικές ημερήσιες διάταξης, τονίζει την ψηφιακή μετασχηματισμό, την πράσινη τεχνολογία και τη στρατηγική αυτάρκεια.",
+        "question": "Ποιοι είναι οι κύριοι πυλώνες της σύγχρονης βιομηχανικής στρατηγικής της ΕΕ;",
+        "options": [
+          "Μεγιστοποίηση της εξάρτησης από εισαγωγές",
+          "Ψηφιακή μετασχηματισμό, πράσινη τεχνολογία και στρατηγική αυτάρκεια",
+          "Επιστροφή στην προ-βιομηχανική οικονομία",
+          "Εξάλειψη όλων των κανονισμών στη διαδικασία παραγωγής"
+        ],
+        "answer": 1,
+        "explanation": "Η βιομηχανική και πολιτική καινοτομίας της ΕΕ δίνει προτεραιότητα στην ψηφιακή μετασχηματισμό, τη μετάβαση προς την πράσινη οικονομία και τη στρατηγική αυτάρκεια σε κρίσιμους τομείς."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The European Union's external action is coordinated through the High Representative for Foreign Affairs and Security Policy, who leads the European External Action Service (EEAS). This structure aims to enhance EU diplomatic coordination and strategic coherence in international relations.",
+        "question": "Who leads the European External Action Service (EEAS) for the EU?",
+        "options": [
+          "The President of the European Council",
+          "The High Representative for Foreign Affairs and Security Policy",
+          "The President of the European Commission",
+          "The President of the European Parliament"
+        ],
+        "answer": 1,
+        "explanation": "The High Representative for Foreign Affairs and Security Policy leads the EEAS and serves as Vice-President of the European Commission. This dual role enhances coordination between EU foreign policy and other policy areas, strengthening the Union's international presence."
+      },
+      "el": {
+        "passage": "22. Η εξωτερική δράση της Ευρωπαϊκής Ένωσης συντονίζεται μέσω του Ύπατου Εκπροσώπου για Ξένα Υποθέσεων και Πολιτική Ασφαλείας, ο οποίος ηγείται της Ευρωπαϊκής Υπηρεσίας Εξωτερικής Δράσης (EEAS).",
+        "question": "Ποιος ηγείται της Ευρωπαϊκής Υπηρεσίας Εξωτερικής Δράσης (EEAS) για την ΕΕ;",
+        "options": [
+          "Ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου",
+          "Ο Ύπατος Εκπρόσωπος για Ξένα Υποθέσεων και Πολιτική Ασφαλείας",
+          "Ο Πρόεδρος της Ευρωπαϊκής Επιτροπής",
+          "Ο Πρόεδρος του Ευρωπαϊκού Κοινοβουλίου"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ύπατος Εκπρόσωπος για Ξένα Υποθέσεων και Πολιτική Ασφαλείας ηγείται της EEAS και εξυπηρετεί ως Αντιπρόεδρος της Ευρωπαϊκής Επιτροπής."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. EU consumer protection policies establish minimum standards for product safety, fair trading practices, and consumer rights across member states. The EU's approach emphasizes prevention, information provision, and remedies for consumers harmed by unsafe or unfair practices.",
+        "question": "What is the primary focus of EU consumer protection policies?",
+        "options": [
+          "To increase product prices",
+          "To establish minimum standards for safety, fair practices, and consumer rights",
+          "To eliminate competition between firms",
+          "To require state control of all businesses"
+        ],
+        "answer": 1,
+        "explanation": "EU consumer protection policies establish common minimum standards for product safety, fair trading practices, and consumer rights across all member states. These policies include mechanisms for complaint resolution, compensation, and prevention of unfair commercial practices."
+      },
+      "el": {
+        "passage": "23. Οι πολιτικές προστασίας του καταναλωτή της ΕΕ θεσπίζουν ελάχιστα πρότυπα για την ασφάλεια προϊόντων, τις δίκαιες εμπορικές πρακτικές και τα δικαιώματα των καταναλωτών σε όλα τα κράτη μέλη.",
+        "question": "Ποια είναι η κύρια εστίαση των πολιτικών προστασίας του καταναλωτή της ΕΕ;",
+        "options": [
+          "Αύξηση των τιμών των προϊόντων",
+          "Θέσπιση ελάχιστων προτύπων για ασφάλεια, δίκαιες πρακτικές και δικαιώματα καταναλωτών",
+          "Εξάλειψη του ανταγωνισμού μεταξύ επιχειρήσεων",
+          "Απαίτηση κρατικού ελέγχου όλων των επιχειρήσεων"
+        ],
+        "answer": 1,
+        "explanation": "Οι πολιτικές προστασίας του καταναλωτή της ΕΕ θεσπίζουν κοινά ελάχιστα πρότυπα για την ασφάλεια προϊόντων, τις δίκαιες εμπορικές πρακτικές και τα δικαιώματα των καταναλωτών σε όλα τα κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. The EU's internal market is governed by competition law, primarily Articles 101 and 102 of the Treaty on the Functioning of the EU (TFEU). These provisions prohibit anticompetitive agreements and abuse of dominant market positions, ensuring fair competition and consumer welfare.",
+        "question": "Which articles of the TFEU are primarily concerned with EU competition law?",
+        "options": [
+          "Articles 50 and 51",
+          "Articles 101 and 102",
+          "Articles 200 and 201",
+          "Articles 301 and 302"
+        ],
+        "answer": 1,
+        "explanation": "Articles 101 and 102 TFEU form the cornerstone of EU competition law. Article 101 prohibits agreements that restrict competition, while Article 102 prohibits abuse of dominant market positions. These provisions are enforced by the European Commission."
+      },
+      "el": {
+        "passage": "24. Η εσωτερική αγορά της ΕΕ διέπεται από το δίκαιο ανταγωνισμού, κυρίως τα Άρθρα 101 και 102 της Συνθήκης για τη Λειτουργία της ΕΕ (ΣΛΕΕ).",
+        "question": "Ποια άρθρα της ΣΛΕΕ ασχολούνται κυρίως με το ευρωπαϊκό δίκαιο ανταγωνισμού;",
+        "options": [
+          "Τα Άρθρα 50 και 51",
+          "Τα Άρθρα 101 και 102",
+          "Τα Άρθρα 200 και 201",
+          "Τα Άρθρα 301 και 302"
+        ],
+        "answer": 1,
+        "explanation": "Τα Άρθρα 101 και 102 ΣΛΕΕ αποτελούν τη βάση του ευρωπαϊκού δικαίου ανταγωνισμού. Το Άρθρο 101 απαγορεύει συμφωνίες που περιορίζουν τον ανταγωνισμό, ενώ το Άρθρο 102 απαγορεύει την κατάχρηση κυρίαρχης θέσης στην αγορά."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The EU's social policy framework, including the European Social Charter and the European Pillar of Social Rights, establishes standards for labor rights, social protection, and employment conditions. These instruments represent the EU's commitment to social cohesion alongside economic integration.",
+        "question": "What does the European Pillar of Social Rights aim to establish?",
+        "options": [
+          "Trade barriers between member states",
+          "Standards for labor rights, social protection, and employment conditions",
+          "Military cooperation among member states",
+          "Centralized control of all national economies"
+        ],
+        "answer": 1,
+        "explanation": "The European Pillar of Social Rights, proclaimed in 2017, outlines 20 key principles and rights necessary for functioning well in modern, fair European labor markets and welfare systems, including employment, fair wages, training, and social protection."
+      },
+      "el": {
+        "passage": "25. Το κοινωνικό πλαίσιο πολιτικής της ΕΕ, συμπεριλαμβανομένης της Ευρωπαϊκής Κοινωνικής Χάρτας και του Ευρωπαϊκού Πυλώνα Κοινωνικών Δικαιωμάτων, θεσπίζει πρότυπα για εργατικά δικαιώματα, κοινωνική προστασία και συνθήκες εργασίας.",
+        "question": "Τι στοχεύει να θεσπίσει ο Ευρωπαϊκός Πυλώνας Κοινωνικών Δικαιωμάτων;",
+        "options": [
+          "Εμπορικά εμπόδια μεταξύ κρατών μελών",
+          "Πρότυπα για εργατικά δικαιώματα, κοινωνική προστασία και συνθήκες εργασίας",
+          "Στρατιωτική συνεργασία μεταξύ κρατών μελών",
+          "Κεντρικοποιημένος έλεγχος όλων των εθνικών οικονομιών"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Πυλώνας Κοινωνικών Δικαιωμάτων, που κηρύχθηκε το 2017, περιγράφει 20 βασικές αρχές και δικαιώματα, συμπεριλαμβανομένης της απασχόλησης, δίκαιων μισθών, κατάρτισης και κοινωνικής προστασίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. Most decisions in the Council of the European Union are taken by qualified majority voting (QMV), a double-majority mechanism designed to balance the weight of larger and smaller member states.",
+        "question": "Under the standard qualified majority voting rule in the Council, what threshold must be met for a proposal to pass?",
+        "options": [
+          "A simple majority of member states, regardless of population",
+          "At least 55% of member states, representing at least 65% of the EU population",
+          "Unanimous agreement among all member states",
+          "Two-thirds of member states and two-thirds of the EU population"
+        ],
+        "answer": 1,
+        "explanation": "Since the Treaty of Lisbon, the standard QMV threshold requires at least 55% of Council members (at least 15 of 27), representing member states comprising at least 65% of the EU population. This 'double majority' prevents both a small group of large states and a large group of small states from dominating decisions alone."
+      },
+      "el": {
+        "passage": "26. Οι περισσότερες αποφάσεις στο Συμβούλιο της Ευρωπαϊκής Ένωσης λαμβάνονται με ειδική πλειοψηφία (QMV), έναν μηχανισμό διπλής πλειοψηφίας σχεδιασμένο να ισορροπεί το βάρος μεγαλύτερων και μικρότερων κρατών μελών.",
+        "question": "Σύμφωνα με τον κανόνα της ειδικής πλειοψηφίας στο Συμβούλιο, ποιο κατώφλι πρέπει να επιτευχθεί για να εγκριθεί μια πρόταση;",
+        "options": [
+          "Απλή πλειοψηφία των κρατών μελών, ανεξαρτήτως πληθυσμού",
+          "Τουλάχιστον το 55% των κρατών μελών, που να αντιπροσωπεύουν τουλάχιστον το 65% του πληθυσμού της ΕΕ",
+          "Ομόφωνη συμφωνία όλων των κρατών μελών",
+          "Τα δύο τρίτα των κρατών μελών και τα δύο τρίτα του πληθυσμού της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Από τη Συνθήκη της Λισαβόνας, το τυπικό κατώφλι QMV απαιτεί τουλάχιστον το 55% των μελών του Συμβουλίου (τουλάχιστον 15 από τα 27), που να αντιπροσωπεύουν κράτη μέλη με τουλάχιστον το 65% του πληθυσμού της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. The European Citizens' Initiative (ECI) allows EU citizens to directly request that the European Commission propose legislation on matters within its competence.",
+        "question": "What minimum requirements must a European Citizens' Initiative meet to be considered by the Commission?",
+        "options": [
+          "500,000 signatures from any single member state",
+          "1 million signatures collected from at least one-quarter of EU member states",
+          "100,000 signatures from the European Parliament",
+          "A petition approved by a majority of national parliaments"
+        ],
+        "answer": 1,
+        "explanation": "An ECI requires at least 1 million signatures from EU citizens, collected across at least seven member states (approximately one-quarter of the total), with a minimum number of signatures per country based on population. If successful, the Commission must respond formally, though it is not obliged to propose legislation."
+      },
+      "el": {
+        "passage": "27. Η Ευρωπαϊκή Πρωτοβουλία Πολιτών (ΕΠΠ) επιτρέπει στους πολίτες της ΕΕ να ζητούν απευθείας από την Ευρωπαϊκή Επιτροπή να προτείνει νομοθεσία σε θέματα αρμοδιότητάς της.",
+        "question": "Ποιες ελάχιστες προϋποθέσεις πρέπει να πληροί μια Ευρωπαϊκή Πρωτοβουλία Πολιτών για να εξεταστεί από την Επιτροπή;",
+        "options": [
+          "500.000 υπογραφές από ένα και μόνο κράτος μέλος",
+          "1 εκατομμύριο υπογραφές από τουλάχιστον το ένα τέταρτο των κρατών μελών της ΕΕ",
+          "100.000 υπογραφές από το Ευρωπαϊκό Κοινοβούλιο",
+          "Αίτημα εγκεκριμένο από την πλειοψηφία των εθνικών κοινοβουλίων"
+        ],
+        "answer": 1,
+        "explanation": "Μια ΕΠΠ απαιτεί τουλάχιστον 1 εκατομμύριο υπογραφές πολιτών της ΕΕ, συγκεντρωμένες από τουλάχιστον επτά κράτη μέλη (περίπου το ένα τέταρτο του συνόλου), με ελάχιστο αριθμό υπογραφών ανά χώρα βάσει πληθυσμού."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. The EU budget is financed through a system of 'own resources' rather than direct national contributions alone, a structure central to understanding how EU spending is funded.",
+        "question": "Which of the following is a traditional 'own resource' financing the EU budget?",
+        "options": [
+          "Income tax collected directly from EU citizens",
+          "Customs duties on imports from outside the EU",
+          "Corporate tax revenue from multinational companies",
+          "Loans issued directly by the European Central Bank"
+        ],
+        "answer": 1,
+        "explanation": "Traditional own resources consist mainly of customs duties collected on imports from non-EU countries. Alongside these, the EU budget is funded by a VAT-based contribution and a GNI-based contribution from member states, with newer resources (e.g., based on non-recycled plastic packaging waste) introduced more recently."
+      },
+      "el": {
+        "passage": "28. Ο προϋπολογισμός της ΕΕ χρηματοδοτείται μέσω ενός συστήματος «ιδίων πόρων» και όχι αποκλειστικά από άμεσες εθνικές εισφορές, μια δομή κεντρικής σημασίας για την κατανόηση της χρηματοδότησης των δαπανών της ΕΕ.",
+        "question": "Ποιο από τα παρακάτω αποτελεί «παραδοσιακό ίδιο πόρο» χρηματοδότησης του προϋπολογισμού της ΕΕ;",
+        "options": [
+          "Φόρος εισοδήματος που εισπράττεται απευθείας από πολίτες της ΕΕ",
+          "Δασμοί επί εισαγωγών από χώρες εκτός ΕΕ",
+          "Έσοδα από εταιρικό φόρο πολυεθνικών εταιρειών",
+          "Δάνεια που εκδίδονται απευθείας από την Ευρωπαϊκή Κεντρική Τράπεζα"
+        ],
+        "answer": 1,
+        "explanation": "Οι παραδοσιακοί ίδιοι πόροι αποτελούνται κυρίως από δασμούς που εισπράττονται σε εισαγωγές από χώρες εκτός ΕΕ. Παράλληλα, ο προϋπολογισμός χρηματοδοτείται από εισφορά βάσει ΦΠΑ και εισφορά βάσει ΑΕΕ των κρατών μελών."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Before a country can join the European Union, it must satisfy a set of political and economic conditions first defined at a European Council summit in 1993.",
+        "question": "What are the 'Copenhagen criteria' primarily used to assess?",
+        "options": [
+          "Whether a country qualifies to join the Eurozone",
+          "The eligibility of a country for EU membership",
+          "Whether a member state can invoke Article 50 to leave the EU",
+          "The distribution of seats in the European Parliament"
+        ],
+        "answer": 1,
+        "explanation": "Established in 1993, the Copenhagen criteria require candidate countries to have stable democratic institutions, the rule of law, human rights protection, a functioning market economy, and the administrative capacity to implement EU law (the 'acquis communautaire') before accession."
+      },
+      "el": {
+        "passage": "29. Πριν μια χώρα ενταχθεί στην Ευρωπαϊκή Ένωση, πρέπει να πληροί ένα σύνολο πολιτικών και οικονομικών προϋποθέσεων που ορίστηκαν για πρώτη φορά σε σύνοδο του Ευρωπαϊκού Συμβουλίου το 1993.",
+        "question": "Τι αξιολογούν κυρίως τα «κριτήρια της Κοπεγχάγης»;",
+        "options": [
+          "Αν μια χώρα πληροί τις προϋποθέσεις ένταξης στην Ευρωζώνη",
+          "Την καταλληλότητα μιας χώρας για ένταξη στην ΕΕ",
+          "Αν ένα κράτος μέλος μπορεί να επικαλεστεί το Άρθρο 50 για αποχώρηση από την ΕΕ",
+          "Την κατανομή εδρών στο Ευρωπαϊκό Κοινοβούλιο"
+        ],
+        "answer": 1,
+        "explanation": "Τα κριτήρια της Κοπεγχάγης (1993) απαιτούν από τις υποψήφιες χώρες σταθερούς δημοκρατικούς θεσμούς, κράτος δικαίου, προστασία ανθρωπίνων δικαιωμάτων, λειτουργική οικονομία της αγοράς, και διοικητική ικανότητα εφαρμογής του ενωσιακού κεκτημένου πριν την ένταξη."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. In 2024, the European Union adopted landmark legislation regulating artificial intelligence, positioning itself as a global first-mover in this regulatory area.",
+        "question": "What best characterizes the EU's Artificial Intelligence Act, which entered into force in August 2024?",
+        "options": [
+          "A voluntary code of conduct with no legal enforcement mechanism",
+          "The world's first comprehensive legal framework regulating AI, using a risk-based approach",
+          "A regulation applying exclusively to AI systems developed by EU-based companies",
+          "An amendment to the GDPR covering only AI-driven data processing"
+        ],
+        "answer": 1,
+        "explanation": "The AI Act is widely recognized as the world's first comprehensive AI regulatory framework, classifying AI systems by risk level (unacceptable, high, limited, minimal) and applying obligations accordingly. Its extraterritorial reach means it applies to providers placing AI systems on the EU market regardless of where they are established, similarly to the GDPR."
+      },
+      "el": {
+        "passage": "30. Το 2024, η Ευρωπαϊκή Ένωση υιοθέτησε εμβληματική νομοθεσία για τη ρύθμιση της τεχνητής νοημοσύνης, τοποθετώντας τον εαυτό της ως παγκόσμιο πρωτοπόρο σε αυτόν τον ρυθμιστικό τομέα.",
+        "question": "Ποιο χαρακτηρίζει καλύτερα τον Κανονισμό της ΕΕ για την Τεχνητή Νοημοσύνη (AI Act), που τέθηκε σε ισχύ τον Αύγουστο του 2024;",
+        "options": [
+          "Έναν εθελοντικό κώδικα δεοντολογίας χωρίς μηχανισμό νομικής επιβολής",
+          "Το πρώτο παγκοσμίως ολοκληρωμένο νομικό πλαίσιο ρύθμισης της ΤΝ, με προσέγγιση βασισμένη στον κίνδυνο",
+          "Έναν κανονισμό που εφαρμόζεται αποκλειστικά σε συστήματα ΤΝ που αναπτύσσονται από εταιρείες με έδρα στην ΕΕ",
+          "Μια τροποποίηση του ΓΚΠΔ που καλύπτει μόνο την επεξεργασία δεδομένων μέσω ΤΝ"
+        ],
+        "answer": 1,
+        "explanation": "Ο AI Act αναγνωρίζεται ευρέως ως το πρώτο παγκοσμίως ολοκληρωμένο ρυθμιστικό πλαίσιο για την ΤΝ, ταξινομώντας τα συστήματα ΤΝ ανά επίπεδο κινδύνου (απαράδεκτος, υψηλός, περιορισμένος, ελάχιστος) και εφαρμόζοντας αντίστοιχες υποχρεώσεις. Η εξωεδαφική εμβέλειά του σημαίνει ότι εφαρμόζεται σε παρόχους που διαθέτουν συστήματα ΤΝ στην αγορά της ΕΕ ανεξαρτήτως έδρας, ανάλογα με τον ΓΚΠΔ."
+      }
+    }
+  ],
+"eu_6": [
+    {
+      "en": {
+        "passage": "1. The EU's legal order is built upon principles developed through both treaties and landmark case law of the Court of Justice.",
+        "question": "Which landmark 1964 case established the principle of primacy of EU law over national law?",
+        "options": [
+          "Van Gend en Loos",
+          "Costa v ENEL",
+          "Cassis de Dijon",
+          "Francovich v Italy"
+        ],
+        "answer": 1,
+        "explanation": "Costa v ENEL (1964) established that EU law takes precedence over conflicting national law, a cornerstone of EU legal integration."
+      },
+      "el": {
+        "passage": "1. Η έννομη τάξη της ΕΕ βασίζεται σε αρχές που αναπτύχθηκαν τόσο μέσω των συνθηκών όσο και μέσω της νομολογίας του Δικαστηρίου.",
+        "question": "Ποια εμβληματική υπόθεση του 1964 καθιέρωσε την αρχή της υπεροχής του δικαίου της ΕΕ έναντι του εθνικού δικαίου;",
+        "options": [
+          "Van Gend en Loos",
+          "Costa κατά ENEL",
+          "Cassis de Dijon",
+          "Francovich κατά Ιταλίας"
+        ],
+        "answer": 1,
+        "explanation": "Η υπόθεση Costa κατά ENEL (1964) καθιέρωσε ότι το δίκαιο της ΕΕ υπερισχύει του αντίθετου εθνικού δικαίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The ordinary legislative procedure is the main way in which EU laws are adopted.",
+        "question": "Under the ordinary legislative procedure, who has the exclusive right to initiate legislation?",
+        "options": [
+          "The European Parliament",
+          "The Council of the EU",
+          "The European Commission",
+          "The European Council"
+        ],
+        "answer": 2,
+        "explanation": "The European Commission holds the near-exclusive right of legislative initiative in the ordinary legislative procedure."
+      },
+      "el": {
+        "passage": "2. Η συνήθης νομοθετική διαδικασία είναι ο κύριος τρόπος θέσπισης της νομοθεσίας της ΕΕ.",
+        "question": "Στο πλαίσιο της συνήθους νομοθετικής διαδικασίας, ποιος έχει το αποκλειστικό δικαίωμα νομοθετικής πρωτοβουλίας;",
+        "options": [
+          "Το Ευρωπαϊκό Κοινοβούλιο",
+          "Το Συμβούλιο της ΕΕ",
+          "Η Ευρωπαϊκή Επιτροπή",
+          "Το Ευρωπαϊκό Συμβούλιο"
+        ],
+        "answer": 2,
+        "explanation": "Η Ευρωπαϊκή Επιτροπή έχει το σχεδόν αποκλειστικό δικαίωμα νομοθετικής πρωτοβουλίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. Established through enhanced cooperation among a subset of member states, the European Public Prosecutor's Office investigates and prosecutes crimes against the EU budget.",
+        "question": "As of 2026, how many EU member states participate in the European Public Prosecutor's Office (EPPO), and where is it seated?",
+        "options": [
+          "27 member states; seated in Brussels",
+          "24 member states; seated in Luxembourg",
+          "20 member states; seated in Strasbourg",
+          "22 member states; seated in The Hague"
+        ],
+        "answer": 1,
+        "explanation": "The EPPO currently comprises 24 participating member states, operating through enhanced cooperation since not all EU states chose to join. It is seated in Luxembourg and investigates offences affecting the EU's financial interests, such as fraud and cross-border VAT fraud above set thresholds."
+      },
+      "el": {
+        "passage": "3. Ιδρυμένη μέσω ενισχυμένης συνεργασίας μεταξύ ενός υποσυνόλου κρατών μελών, η Ευρωπαϊκή Εισαγγελία ερευνά και διώκει εγκλήματα κατά του προϋπολογισμού της ΕΕ.",
+        "question": "Από το 2026, πόσα κράτη μέλη της ΕΕ συμμετέχουν στην Ευρωπαϊκή Εισαγγελία (EPPO), και πού εδρεύει;",
+        "options": [
+          "27 κράτη μέλη· έδρα στις Βρυξέλλες",
+          "24 κράτη μέλη· έδρα στο Λουξεμβούργο",
+          "20 κράτη μέλη· έδρα στο Στρασβούργο",
+          "22 κράτη μέλη· έδρα στη Χάγη"
+        ],
+        "answer": 1,
+        "explanation": "Η EPPO αποτελείται σήμερα από 24 συμμετέχοντα κράτη μέλη, λειτουργώντας μέσω ενισχυμένης συνεργασίας καθώς δεν επέλεξαν όλα τα κράτη μέλη της ΕΕ να συμμετάσχουν. Εδρεύει στο Λουξεμβούργο και ερευνά αδικήματα που θίγουν τα οικονομικά συμφέροντα της ΕΕ, όπως απάτη και διασυνοριακή απάτη ΦΠΑ πάνω από καθορισμένα όρια."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The European Central Bank plays a key role in eurozone monetary policy.",
+        "question": "Where is the seat of the European Central Bank located?",
+        "options": [
+          "Brussels",
+          "Luxembourg",
+          "Frankfurt am Main",
+          "Strasbourg"
+        ],
+        "answer": 2,
+        "explanation": "The ECB is headquartered in Frankfurt am Main, Germany."
+      },
+      "el": {
+        "passage": "4. Η Ευρωπαϊκή Κεντρική Τράπεζα διαδραματίζει καίριο ρόλο στη νομισματική πολιτική της ευρωζώνης.",
+        "question": "Πού βρίσκεται η έδρα της Ευρωπαϊκής Κεντρικής Τράπεζας;",
+        "options": [
+          "Βρυξέλλες",
+          "Λουξεμβούργο",
+          "Φρανκφούρτη",
+          "Στρασβούργο"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΚΤ εδρεύει στη Φρανκφούρτη της Γερμανίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The principle of subsidiarity governs the exercise of EU competences.",
+        "question": "In which article of the TEU is the principle of subsidiarity enshrined?",
+        "options": [
+          "Article 2",
+          "Article 4",
+          "Article 5",
+          "Article 7"
+        ],
+        "answer": 2,
+        "explanation": "Article 5 TEU sets out the principles of conferral, subsidiarity, and proportionality."
+      },
+      "el": {
+        "passage": "5. Η αρχή της επικουρικότητας διέπει την άσκηση των αρμοδιοτήτων της ΕΕ.",
+        "question": "Σε ποιο άρθρο της ΣΕΕ κατοχυρώνεται η αρχή της επικουρικότητας;",
+        "options": [
+          "Άρθρο 2",
+          "Άρθρο 4",
+          "Άρθρο 5",
+          "Άρθρο 7"
+        ],
+        "answer": 2,
+        "explanation": "Το άρθρο 5 ΣΕΕ ορίζει τις αρχές της δοτής αρμοδιότητας, της επικουρικότητας και της αναλογικότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The European External Action Service supports the High Representative.",
+        "question": "Who currently holds the position of High Representative of the Union for Foreign Affairs and Security Policy (as of 2024)?",
+        "options": [
+          "Josep Borrell",
+          "Kaja Kallas",
+          "Federica Mogherini",
+          "Ursula von der Leyen"
+        ],
+        "answer": 1,
+        "explanation": "Kaja Kallas, former Prime Minister of Estonia, took office as High Representative in December 2024."
+      },
+      "el": {
+        "passage": "6. Η Ευρωπαϊκή Υπηρεσία Εξωτερικής Δράσης υποστηρίζει τον Ύπατο Εκπρόσωπο.",
+        "question": "Ποιος κατέχει σήμερα τη θέση του Ύπατου Εκπροσώπου της Ένωσης για Θέματα Εξωτερικής Πολιτικής και Πολιτικής Ασφάλειας (2024);",
+        "options": [
+          "Josep Borrell",
+          "Kaja Kallas",
+          "Federica Mogherini",
+          "Ursula von der Leyen"
+        ],
+        "answer": 1,
+        "explanation": "Η Kaja Kallas, πρώην πρωθυπουργός της Εσθονίας, ανέλαβε τη θέση της Ύπατης Εκπροσώπου τον Δεκέμβριο του 2024."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The Court of Auditors examines EU finances.",
+        "question": "How many members compose the European Court of Auditors?",
+        "options": [
+          "One per member state (27)",
+          "15 members appointed by the Commission",
+          "20 members elected by Parliament",
+          "12 members appointed by the Council"
+        ],
+        "answer": 0,
+        "explanation": "The ECA has one member per member state, appointed by the Council after consulting the Parliament, for a renewable six-year term."
+      },
+      "el": {
+        "passage": "7. Το Ελεγκτικό Συνέδριο ελέγχει τα οικονομικά της ΕΕ.",
+        "question": "Πόσα μέλη απαρτίζουν το Ευρωπαϊκό Ελεγκτικό Συνέδριο;",
+        "options": [
+          "Ένα ανά κράτος μέλος (27)",
+          "15 μέλη διορισμένα από την Επιτροπή",
+          "20 μέλη εκλεγμένα από το Κοινοβούλιο",
+          "12 μέλη διορισμένα από το Συμβούλιο"
+        ],
+        "answer": 0,
+        "explanation": "Το ΕΕΣ έχει ένα μέλος ανά κράτος μέλος, διοριζόμενο από το Συμβούλιο για ανανεώσιμη εξαετή θητεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The Schengen Area allows for free movement of persons.",
+        "question": "Which two countries became the newest full members of the Schengen Area in 2025 for land borders?",
+        "options": [
+          "Cyprus and Ireland",
+          "Bulgaria and Romania",
+          "Croatia and Slovenia",
+          "Montenegro and Serbia"
+        ],
+        "answer": 1,
+        "explanation": "Bulgaria and Romania fully joined Schengen for land borders on 1 January 2025, having joined for air/sea in March 2024."
+      },
+      "el": {
+        "passage": "8. Ο χώρος Σένγκεν επιτρέπει την ελεύθερη κυκλοφορία προσώπων.",
+        "question": "Ποιες δύο χώρες έγιναν πρόσφατα πλήρη μέλη του χώρου Σένγκεν το 2025 για τα χερσαία σύνορα;",
+        "options": [
+          "Κύπρος και Ιρλανδία",
+          "Βουλγαρία και Ρουμανία",
+          "Κροατία και Σλοβενία",
+          "Μαυροβούνιο και Σερβία"
+        ],
+        "answer": 1,
+        "explanation": "Η Βουλγαρία και η Ρουμανία εντάχθηκαν πλήρως στη Σένγκεν για τα χερσαία σύνορα την 1η Ιανουαρίου 2025."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Multiannual Financial Framework sets the EU budget ceilings.",
+        "question": "What is the total commitment ceiling of the 2021-2027 MFF (excluding NextGenerationEU)?",
+        "options": [
+          "Approximately €750 billion",
+          "Approximately €1.074 trillion",
+          "Approximately €1.211 trillion",
+          "Approximately €2 trillion"
+        ],
+        "answer": 1,
+        "explanation": "The 2021-2027 MFF has a ceiling of approximately €1.074 trillion in 2018 prices, complemented by €750 billion under NextGenerationEU."
+      },
+      "el": {
+        "passage": "9. Το Πολυετές Δημοσιονομικό Πλαίσιο καθορίζει τα ανώτατα όρια του προϋπολογισμού της ΕΕ.",
+        "question": "Ποιο είναι το συνολικό ανώτατο όριο πιστώσεων του ΠΔΠ 2021-2027 (χωρίς το NextGenerationEU);",
+        "options": [
+          "Περίπου 750 δισ. ευρώ",
+          "Περίπου 1,074 τρισ. ευρώ",
+          "Περίπου 1,211 τρισ. ευρώ",
+          "Περίπου 2 τρισ. ευρώ"
+        ],
+        "answer": 1,
+        "explanation": "Το ΠΔΠ 2021-2027 ανέρχεται σε περίπου 1,074 τρισ. ευρώ σε τιμές 2018, συμπληρωμένο με 750 δισ. από το NextGenerationEU."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The Charter of Fundamental Rights became legally binding with the Treaty of Lisbon.",
+        "question": "How many chapters (titles) does the Charter of Fundamental Rights contain?",
+        "options": [
+          "Five",
+          "Six",
+          "Seven",
+          "Eight"
+        ],
+        "answer": 2,
+        "explanation": "The Charter contains seven titles: Dignity, Freedoms, Equality, Solidarity, Citizens' Rights, Justice, and General Provisions."
+      },
+      "el": {
+        "passage": "10. Ο Χάρτης των Θεμελιωδών Δικαιωμάτων κατέστη νομικά δεσμευτικός με τη Συνθήκη της Λισαβόνας.",
+        "question": "Πόσα κεφάλαια (τίτλους) περιέχει ο Χάρτης των Θεμελιωδών Δικαιωμάτων;",
+        "options": [
+          "Πέντε",
+          "Έξι",
+          "Επτά",
+          "Οκτώ"
+        ],
+        "answer": 2,
+        "explanation": "Ο Χάρτης περιλαμβάνει επτά τίτλους: Αξιοπρέπεια, Ελευθερίες, Ισότητα, Αλληλεγγύη, Δικαιώματα των πολιτών, Δικαιοσύνη και Γενικές διατάξεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Article 50 TEU governs the withdrawal of a member state.",
+        "question": "On what date did the United Kingdom formally leave the European Union?",
+        "options": [
+          "29 March 2019",
+          "31 October 2019",
+          "31 January 2020",
+          "31 December 2020"
+        ],
+        "answer": 2,
+        "explanation": "The UK officially left the EU on 31 January 2020, followed by a transition period ending on 31 December 2020."
+      },
+      "el": {
+        "passage": "11. Το άρθρο 50 ΣΕΕ διέπει την αποχώρηση κράτους μέλους.",
+        "question": "Σε ποια ημερομηνία το Ηνωμένο Βασίλειο αποχώρησε επίσημα από την ΕΕ;",
+        "options": [
+          "29 Μαρτίου 2019",
+          "31 Οκτωβρίου 2019",
+          "31 Ιανουαρίου 2020",
+          "31 Δεκεμβρίου 2020"
+        ],
+        "answer": 2,
+        "explanation": "Το ΗΒ αποχώρησε επίσημα από την ΕΕ στις 31 Ιανουαρίου 2020, ακολουθούμενο από μεταβατική περίοδο έως τις 31 Δεκεμβρίου 2020."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The European Green Deal aims for climate neutrality.",
+        "question": "By what year does the European Green Deal aim to make the EU climate-neutral?",
+        "options": [
+          "2035",
+          "2040",
+          "2045",
+          "2050"
+        ],
+        "answer": 3,
+        "explanation": "The European Green Deal sets 2050 as the target year for the EU to become the first climate-neutral continent."
+      },
+      "el": {
+        "passage": "12. Η Ευρωπαϊκή Πράσινη Συμφωνία στοχεύει στην κλιματική ουδετερότητα.",
+        "question": "Έως ποιο έτος στοχεύει η Πράσινη Συμφωνία να καταστήσει την ΕΕ κλιματικά ουδέτερη;",
+        "options": [
+          "2035",
+          "2040",
+          "2045",
+          "2050"
+        ],
+        "answer": 3,
+        "explanation": "Η Πράσινη Συμφωνία θέτει το 2050 ως έτος-στόχο για την κλιματική ουδετερότητα της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Enhanced cooperation allows a group of member states to integrate further.",
+        "question": "What is the minimum number of member states required to launch enhanced cooperation?",
+        "options": [
+          "Seven",
+          "Nine",
+          "Eleven",
+          "Thirteen"
+        ],
+        "answer": 1,
+        "explanation": "Under Article 20 TEU, enhanced cooperation requires a minimum of nine member states."
+      },
+      "el": {
+        "passage": "13. Η ενισχυμένη συνεργασία επιτρέπει σε ομάδα κρατών μελών να προχωρήσει σε περαιτέρω ολοκλήρωση.",
+        "question": "Ποιος είναι ο ελάχιστος αριθμός κρατών μελών για την έναρξη ενισχυμένης συνεργασίας;",
+        "options": [
+          "Επτά",
+          "Εννέα",
+          "Έντεκα",
+          "Δεκατρία"
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με το άρθρο 20 ΣΕΕ, η ενισχυμένη συνεργασία απαιτεί τουλάχιστον εννέα κράτη μέλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The European Ombudsman investigates complaints of maladministration.",
+        "question": "By which institution is the European Ombudsman elected?",
+        "options": [
+          "The European Council",
+          "The Council of the EU",
+          "The European Parliament",
+          "The Court of Justice"
+        ],
+        "answer": 2,
+        "explanation": "The European Ombudsman is elected by the European Parliament for a five-year renewable term."
+      },
+      "el": {
+        "passage": "14. Ο Ευρωπαίος Διαμεσολαβητής εξετάζει καταγγελίες κακοδιοίκησης.",
+        "question": "Από ποιο θεσμικό όργανο εκλέγεται ο Ευρωπαίος Διαμεσολαβητής;",
+        "options": [
+          "Το Ευρωπαϊκό Συμβούλιο",
+          "Το Συμβούλιο της ΕΕ",
+          "Το Ευρωπαϊκό Κοινοβούλιο",
+          "Το Δικαστήριο"
+        ],
+        "answer": 2,
+        "explanation": "Ο Ευρωπαίος Διαμεσολαβητής εκλέγεται από το Ευρωπαϊκό Κοινοβούλιο για ανανεώσιμη πενταετή θητεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. EU candidate countries must fulfil the Copenhagen criteria.",
+        "question": "Which of the following is NOT one of the Copenhagen criteria?",
+        "options": [
+          "Stable institutions guaranteeing democracy and rule of law",
+          "A functioning market economy",
+          "Ability to adopt the acquis communautaire",
+          "Minimum GDP per capita of 75% of EU average"
+        ],
+        "answer": 3,
+        "explanation": "The Copenhagen criteria (1993) cover political, economic, and acquis conditions but do not impose a minimum GDP threshold."
+      },
+      "el": {
+        "passage": "15. Οι υποψήφιες χώρες πρέπει να πληρούν τα κριτήρια της Κοπεγχάγης.",
+        "question": "Ποιο από τα ακόλουθα ΔΕΝ είναι κριτήριο της Κοπεγχάγης;",
+        "options": [
+          "Σταθεροί θεσμοί που εγγυώνται τη δημοκρατία και το κράτος δικαίου",
+          "Λειτουργούσα οικονομία της αγοράς",
+          "Ικανότητα υιοθέτησης του κοινοτικού κεκτημένου",
+          "Ελάχιστο κατά κεφαλήν ΑΕΠ στο 75% του μέσου όρου της ΕΕ"
+        ],
+        "answer": 3,
+        "explanation": "Τα κριτήρια της Κοπεγχάγης (1993) περιλαμβάνουν πολιτικές, οικονομικές και θεσμικές προϋποθέσεις χωρίς όριο ΑΕΠ."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The Recovery and Resilience Facility is central to NextGenerationEU.",
+        "question": "What is the total size of the Recovery and Resilience Facility (RRF)?",
+        "options": [
+          "€338 billion in grants only",
+          "€672.5 billion combining grants and loans",
+          "€723.8 billion combining grants and loans",
+          "€1 trillion in loans only"
+        ],
+        "answer": 2,
+        "explanation": "The RRF totals €723.8 billion (€338 bn in grants and €385.8 bn in loans) at current prices."
+      },
+      "el": {
+        "passage": "16. Ο Μηχανισμός Ανάκαμψης και Ανθεκτικότητας είναι κεντρικός στο NextGenerationEU.",
+        "question": "Ποιο είναι το συνολικό μέγεθος του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας (RRF);",
+        "options": [
+          "338 δισ. ευρώ μόνο σε επιχορηγήσεις",
+          "672,5 δισ. ευρώ σε επιχορηγήσεις και δάνεια",
+          "723,8 δισ. ευρώ σε επιχορηγήσεις και δάνεια",
+          "1 τρισ. ευρώ μόνο σε δάνεια"
+        ],
+        "answer": 2,
+        "explanation": "Ο RRF ανέρχεται σε 723,8 δισ. ευρώ (338 δισ. επιχορηγήσεις και 385,8 δισ. δάνεια) σε τρέχουσες τιμές."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The European Parliament is composed of MEPs elected every five years.",
+        "question": "How many MEPs sit in the European Parliament following the 2024 elections?",
+        "options": [
+          "705",
+          "720",
+          "732",
+          "751"
+        ],
+        "answer": 1,
+        "explanation": "Following the 2024 elections, the European Parliament has 720 MEPs, up from 705."
+      },
+      "el": {
+        "passage": "17. Το Ευρωπαϊκό Κοινοβούλιο απαρτίζεται από ευρωβουλευτές που εκλέγονται κάθε πέντε χρόνια.",
+        "question": "Πόσοι ευρωβουλευτές έχουν έδρα στο ΕΚ μετά τις εκλογές του 2024;",
+        "options": [
+          "705",
+          "720",
+          "732",
+          "751"
+        ],
+        "answer": 1,
+        "explanation": "Μετά τις εκλογές του 2024, το ΕΚ έχει 720 ευρωβουλευτές, από 705 προηγουμένως."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The Digital Services Act (DSA) regulates online platforms.",
+        "question": "When did the Digital Services Act become fully applicable to all in-scope platforms?",
+        "options": [
+          "25 August 2023",
+          "17 February 2024",
+          "1 January 2024",
+          "6 October 2024"
+        ],
+        "answer": 1,
+        "explanation": "The DSA became fully applicable to all in-scope online platforms on 17 February 2024."
+      },
+      "el": {
+        "passage": "18. Ο Κανονισμός για τις Ψηφιακές Υπηρεσίες (DSA) ρυθμίζει τις διαδικτυακές πλατφόρμες.",
+        "question": "Πότε τέθηκε σε πλήρη εφαρμογή ο DSA για όλες τις πλατφόρμες εντός πεδίου εφαρμογής;",
+        "options": [
+          "25 Αυγούστου 2023",
+          "17 Φεβρουαρίου 2024",
+          "1 Ιανουαρίου 2024",
+          "6 Οκτωβρίου 2024"
+        ],
+        "answer": 1,
+        "explanation": "Ο DSA τέθηκε σε πλήρη εφαρμογή για όλες τις πλατφόρμες στις 17 Φεβρουαρίου 2024."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The Eurogroup coordinates policies among eurozone finance ministers.",
+        "question": "For how long is the President of the Eurogroup elected?",
+        "options": [
+          "1 year",
+          "2.5 years",
+          "4 years",
+          "5 years"
+        ],
+        "answer": 1,
+        "explanation": "The Eurogroup President is elected by eurozone finance ministers for a term of 2.5 years."
+      },
+      "el": {
+        "passage": "19. Η Ευρωομάδα συντονίζει τις πολιτικές των υπουργών οικονομικών της ευρωζώνης.",
+        "question": "Για πόσο χρονικό διάστημα εκλέγεται ο Πρόεδρος της Ευρωομάδας;",
+        "options": [
+          "1 έτος",
+          "2,5 έτη",
+          "4 έτη",
+          "5 έτη"
+        ],
+        "answer": 1,
+        "explanation": "Ο Πρόεδρος της Ευρωομάδας εκλέγεται για θητεία 2,5 ετών."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. EU citizenship provides a set of rights across member states.",
+        "question": "Which treaty first introduced the concept of EU citizenship?",
+        "options": [
+          "The Single European Act",
+          "The Treaty of Maastricht",
+          "The Treaty of Amsterdam",
+          "The Treaty of Lisbon"
+        ],
+        "answer": 1,
+        "explanation": "EU citizenship was formally introduced by the Maastricht Treaty in 1992."
+      },
+      "el": {
+        "passage": "20. Η ιθαγένεια της ΕΕ παρέχει δικαιώματα σε όλα τα κράτη μέλη.",
+        "question": "Ποια συνθήκη εισήγαγε πρώτη την έννοια της ιθαγένειας της ΕΕ;",
+        "options": [
+          "Η Ενιαία Ευρωπαϊκή Πράξη",
+          "Η Συνθήκη του Μάαστριχτ",
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Λισαβόνας"
+        ],
+        "answer": 1,
+        "explanation": "Η ιθαγένεια της ΕΕ εισήχθη επίσημα με τη Συνθήκη του Μάαστριχτ το 1992."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Most EU legislation under the ordinary legislative procedure is agreed not in formal plenary votes alone, but through informal negotiations preceding them.",
+        "question": "What term describes the informal tripartite negotiations between the European Parliament, the Council, and the European Commission used to reach early agreement on legislation?",
+        "options": [
+          "Comitology",
+          "Trilogue",
+          "Codecision hearing",
+          "Conciliation committee"
+        ],
+        "answer": 1,
+        "explanation": "Trilogues are informal, closed-door negotiation meetings between representatives of the Parliament, Council, and Commission, used to reach a provisional agreement on legislative texts before they are formally adopted, allowing many files to be concluded without going to a formal conciliation procedure."
+      },
+      "el": {
+        "passage": "21. Η πλειονότητα της νομοθεσίας της ΕΕ στο πλαίσιο της συνήθους νομοθετικής διαδικασίας συμφωνείται όχι μόνο σε επίσημες ψηφοφορίες ολομέλειας, αλλά μέσω άτυπων διαπραγματεύσεων που προηγούνται.",
+        "question": "Ποιος όρος περιγράφει τις άτυπες τριμερείς διαπραγματεύσεις μεταξύ Ευρωπαϊκού Κοινοβουλίου, Συμβουλίου και Ευρωπαϊκής Επιτροπής για επίτευξη πρώιμης συμφωνίας επί νομοθεσίας;",
+        "options": [
+          "Επιτροπολογία (Comitology)",
+          "Τριμερής διάλογος (Trilogue)",
+          "Ακρόαση συναπόφασης",
+          "Επιτροπή συνδιαλλαγής"
+        ],
+        "answer": 1,
+        "explanation": "Οι τριμερείς διάλογοι (trilogues) είναι άτυπες, κεκλεισμένων των θυρών συναντήσεις διαπραγμάτευσης μεταξύ εκπροσώπων Κοινοβουλίου, Συμβουλίου και Επιτροπής, που χρησιμοποιούνται για την επίτευξη προσωρινής συμφωνίας πριν την επίσημη έγκριση νομοθετικών κειμένων."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The rule of law conditionality regulation links EU funds to respect for rule of law.",
+        "question": "When did the rule of law conditionality regulation enter into force?",
+        "options": [
+          "1 January 2020",
+          "1 January 2021",
+          "1 January 2022",
+          "1 January 2023"
+        ],
+        "answer": 1,
+        "explanation": "Regulation 2020/2092 on rule of law conditionality entered into force on 1 January 2021."
+      },
+      "el": {
+        "passage": "22. Ο κανονισμός για την αιρεσιμότητα του κράτους δικαίου συνδέει τα κονδύλια της ΕΕ με τον σεβασμό του κράτους δικαίου.",
+        "question": "Πότε τέθηκε σε ισχύ ο κανονισμός για την αιρεσιμότητα του κράτους δικαίου;",
+        "options": [
+          "1 Ιανουαρίου 2020",
+          "1 Ιανουαρίου 2021",
+          "1 Ιανουαρίου 2022",
+          "1 Ιανουαρίου 2023"
+        ],
+        "answer": 1,
+        "explanation": "Ο κανονισμός 2020/2092 τέθηκε σε ισχύ την 1η Ιανουαρίου 2021."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. The EU has exclusive competence in certain policy areas.",
+        "question": "Which of the following is an EXCLUSIVE competence of the EU under Article 3 TFEU?",
+        "options": [
+          "Agriculture",
+          "Environment",
+          "Common commercial policy",
+          "Consumer protection"
+        ],
+        "answer": 2,
+        "explanation": "The common commercial policy is an exclusive EU competence, alongside customs union, competition rules for the internal market, monetary policy for the euro area, and marine biological resources."
+      },
+      "el": {
+        "passage": "23. Η ΕΕ έχει αποκλειστική αρμοδιότητα σε ορισμένους τομείς πολιτικής.",
+        "question": "Ποιο από τα ακόλουθα αποτελεί ΑΠΟΚΛΕΙΣΤΙΚΗ αρμοδιότητα της ΕΕ βάσει του άρθρου 3 ΣΛΕΕ;",
+        "options": [
+          "Γεωργία",
+          "Περιβάλλον",
+          "Κοινή εμπορική πολιτική",
+          "Προστασία των καταναλωτών"
+        ],
+        "answer": 2,
+        "explanation": "Η κοινή εμπορική πολιτική αποτελεί αποκλειστική αρμοδιότητα της ΕΕ μαζί με την τελωνειακή ένωση, τους κανόνες ανταγωνισμού, τη νομισματική πολιτική και τους θαλάσσιους βιολογικούς πόρους."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. The AI Act is the world's first comprehensive AI regulation.",
+        "question": "When did the EU AI Act formally enter into force?",
+        "options": [
+          "1 January 2024",
+          "1 August 2024",
+          "1 November 2024",
+          "1 February 2025"
+        ],
+        "answer": 1,
+        "explanation": "The AI Act entered into force on 1 August 2024, with most provisions applying from 2 August 2026."
+      },
+      "el": {
+        "passage": "24. Ο κανονισμός για την ΤΝ είναι ο πρώτος ολοκληρωμένος κανονισμός για την τεχνητή νοημοσύνη παγκοσμίως.",
+        "question": "Πότε τέθηκε επίσημα σε ισχύ ο κανονισμός της ΕΕ για την ΤΝ;",
+        "options": [
+          "1 Ιανουαρίου 2024",
+          "1 Αυγούστου 2024",
+          "1 Νοεμβρίου 2024",
+          "1 Φεβρουαρίου 2025"
+        ],
+        "answer": 1,
+        "explanation": "Ο κανονισμός για την ΤΝ τέθηκε σε ισχύ την 1η Αυγούστου 2024, με τις περισσότερες διατάξεις να εφαρμόζονται από τις 2 Αυγούστου 2026."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The Committee of the Regions represents local and regional authorities.",
+        "question": "How many members does the Committee of the Regions currently have?",
+        "options": [
+          "245",
+          "265",
+          "329",
+          "350"
+        ],
+        "answer": 2,
+        "explanation": "The Committee of the Regions consists of 329 members (and 329 alternates), as set out in Council Decision (EU) 2019/852, representing local and regional authorities from all 27 EU member states."
+      },
+      "el": {
+        "passage": "25. Η Επιτροπή των Περιφερειών εκπροσωπεί τις τοπικές και περιφερειακές αρχές.",
+        "question": "Πόσα μέλη έχει σήμερα η Επιτροπή των Περιφερειών;",
+        "options": [
+          "245",
+          "265",
+          "329",
+          "350"
+        ],
+        "answer": 2,
+        "explanation": "Η Επιτροπή των Περιφερειών έχει 329 τακτικά μέλη που εκπροσωπούν τις τοπικές και περιφερειακές αρχές των 27 κρατών μελών."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. Several national parliaments claim that a proposal violates subsidiarity and respond within the time limit set by the Treaties.",
+        "question": "Which mechanism allows national parliaments to trigger an early review of subsidiarity concerns?",
+        "options": [
+          "A complaint to the European Court of Auditors",
+          "Reasoned opinions under the early-warning procedure (yellow card mechanism)",
+          "A motion of censure against the Commission",
+          "A request for annulment directly before the Court of Justice"
+        ],
+        "answer": 1,
+        "explanation": "National parliaments issue reasoned opinions under the early-warning system; if the threshold is reached, a “yellow card” obliges the proposing institution to review the proposal."
+      },
+      "el": {
+        "passage": "4. Πολλά εθνικά κοινοβούλια υποστηρίζουν ότι μια πρόταση παραβιάζει την επικουρικότητα και απαντούν μέσα στις προθεσμίες που προβλέπουν οι Συνθήκες.",
+        "question": "Ποιος μηχανισμός επιτρέπει στα εθνικά κοινοβούλια να ενεργοποιήσουν πρώιμη επανεξέταση των ανησυχιών για την επικουρικότητα;",
+        "options": [
+          "Καταγγελία στο Ευρωπαϊκό Ελεγκτικό Συνέδριο",
+          "Αιτιολογημένες γνώμες στο πλαίσιο της πρώιμης προειδοποίησης (μηχανισμός «κίτρινης κάρτας»)",
+          "Πρόταση μομφής κατά της Επιτροπής",
+          "Αίτηση ακύρωσης απευθείας ενώπιον του Δικαστηρίου της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Τα εθνικά κοινοβούλια εκδίδουν αιτιολογημένες γνώμες στο πλαίσιο του μηχανισμού πρώιμης προειδοποίησης· αν συμπληρωθεί το όριο, μια «κίτρινη κάρτα» υποχρεώνει το αρμόδιο θεσμικό όργανο να επανεξετάσει την πρόταση."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. A legislative act sets the political framework. The Commission must later update technical details in a way that does not change the act’s essential elements.",
+        "question": "Which type of EU act is typically appropriate for updating non-essential elements of a legislative act?",
+        "options": [
+          "A delegated act",
+          "An implementing act",
+          "An amendment of the Treaties",
+          "A recommendation"
+        ],
+        "answer": 0,
+        "explanation": "Delegated acts (Article 290 TFEU) are designed to supplement or amend non-essential elements of a legislative act."
+      },
+      "el": {
+        "passage": "27. Μια νομοθετική πράξη καθορίζει το πολιτικό πλαίσιο. Αργότερα, η Επιτροπή πρέπει να ενημερώσει τεχνικές λεπτομέρειες χωρίς να τροποποιήσει τα ουσιώδη στοιχεία της πράξης.",
+        "question": "Ποιος τύπος πράξης της ΕΕ είναι συνήθως κατάλληλος για την ενημέρωση μη ουσιωδών στοιχείων μιας νομοθετικής πράξης;",
+        "options": [
+          "Μια κατ’ εξουσιοδότηση πράξη",
+          "Μια εκτελεστική πράξη",
+          "Τροποποίηση των Συνθηκών",
+          "Μια σύσταση"
+        ],
+        "answer": 0,
+        "explanation": "Οι κατ’ εξουσιοδότηση πράξεις (άρθρο 290 ΣΛΕΕ) προορίζονται να συμπληρώνουν ή να τροποποιούν μη ουσιώδη στοιχεία νομοθετικής πράξης."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. A proposed EU measure is challenged because it imposes a complex set of obligations that appear excessive compared with what is needed to achieve the objective.",
+        "question": "Which principle is the key test that the content and form of EU action should not exceed what is necessary to achieve the Treaties’ objectives?",
+        "options": [
+          "Solidarity",
+          "Subsidiarity",
+          "Conferral",
+          "Proportionality"
+        ],
+        "answer": 3,
+        "explanation": "Proportionality requires that neither the content nor the form of Union action exceed what is necessary to achieve the objectives."
+      },
+      "el": {
+        "passage": "28. Μια προτεινόμενη πράξη της ΕΕ αμφισβητείται επειδή επιβάλλει ένα πολύπλοκο σύνολο υποχρεώσεων που φαίνεται υπερβολικό σε σχέση με το τι απαιτείται για την επίτευξη του στόχου.",
+        "question": "Ποια αρχή είναι ο βασικός έλεγχος ότι το περιεχόμενο και η μορφή της δράσης της ΕΕ δεν πρέπει να υπερβαίνουν αυτό που είναι αναγκαίο για την επίτευξη των στόχων των Συνθηκών;",
+        "options": [
+          "Αλληλεγγύη",
+          "Επικουρικότητα",
+          "Δοτή αρμοδιότητα (Conferral)",
+          "Αναλογικότητα"
+        ],
+        "answer": 3,
+        "explanation": "Η αναλογικότητα απαιτεί ούτε το περιεχόμενο ούτε η μορφή της δράσης της Ένωσης να υπερβαίνουν το αναγκαίο για την επίτευξη των στόχων."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. A national authority applies national measures that implement EU rules. A person claims their fundamental rights were violated.",
+        "question": "When must Member States respect the Charter of Fundamental Rights?",
+        "options": [
+          "Only when Member States act as EU institutions",
+          "When Member States act within the scope of Union law, including when implementing EU law",
+          "Only during elections",
+          "Never; the Charter binds only EU institutions"
+        ],
+        "answer": 1,
+        "explanation": "The Charter binds Member States when they act within the scope of Union law, including when they implement EU law."
+      },
+      "el": {
+        "passage": "29. Μια εθνική αρχή εφαρμόζει εθνικά μέτρα που υλοποιούν κανόνες της ΕΕ. Ένα πρόσωπο υποστηρίζει ότι παραβιάστηκαν θεμελιώδη δικαιώματά του.",
+        "question": "Πότε πρέπει να τηρείται ο Χάρτης Θεμελιωδών Δικαιωμάτων από τα κράτη μέλη;",
+        "options": [
+          "Μόνο όταν τα κράτη μέλη ενεργούν ως θεσμικά όργανα της ΕΕ",
+          "Όταν τα κράτη μέλη ενεργούν στο πεδίο εφαρμογής του δικαίου της Ένωσης, συμπεριλαμβανομένης της υλοποίησης της νομοθεσίας της ΕΕ",
+          "Μόνο κατά τις εκλογές",
+          "Ποτέ· ο Χάρτης δεσμεύει μόνο τα θεσμικά όργανα της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Ο Χάρτης δεσμεύει τα κράτη μέλη όταν ενεργούν στο πεδίο εφαρμογής του δικαίου της Ένωσης, συμπεριλαμβανομένης της υλοποίησης της νομοθεσίας της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. Two private companies are in dispute before a national court. One party tries to rely directly on an untransposed directive provision to obtain an advantage.",
+        "question": "Which statement is generally correct regarding direct reliance on EU acts in disputes between private parties?",
+        "options": [
+          "A directive can generally be relied on directly in horizontal disputes without transposition",
+          "A regulation can generally be relied on directly because it is directly applicable",
+          "Only Commission opinions can be relied on directly in national disputes",
+          "CFSP measures are normally directly applicable between private parties"
+        ],
+        "answer": 1,
+        "explanation": "Regulations are directly applicable. Direct reliance on directives in horizontal disputes is generally not available as a rule; directives require transposition for full effect."
+      },
+      "el": {
+        "passage": "30. Δύο ιδιωτικές εταιρείες διαφωνούν ενώπιον εθνικού δικαστηρίου. Το ένα μέρος προσπαθεί να στηριχθεί απευθείας σε διάταξη οδηγίας που δεν έχει μεταφερθεί για να αποκτήσει πλεονέκτημα.",
+        "question": "Ποια διατύπωση είναι γενικά ορθή σχετικά με την απευθείας επίκληση πράξεων της ΕΕ σε διαφορές μεταξύ ιδιωτών;",
+        "options": [
+          "Μια οδηγία μπορεί γενικά να γίνεται απευθείας επίκληση σε οριζόντιες διαφορές χωρίς μεταφορά",
+          "Ένας κανονισμός μπορεί γενικά να γίνεται απευθείας επίκληση επειδή είναι άμεσα εφαρμοστέος",
+          "Μόνο οι γνώμες της Επιτροπής μπορούν να γίνουν απευθείας επίκληση σε εθνικές διαφορές",
+          "Οι πράξεις ΚΕΠΠΑ είναι συνήθως άμεσα εφαρμοστέες μεταξύ ιδιωτών"
+        ],
+        "answer": 1,
+        "explanation": "Οι κανονισμοί είναι άμεσα εφαρμοστέοι. Η απευθείας επίκληση οδηγιών σε οριζόντιες διαφορές δεν είναι κατ’ αρχήν διαθέσιμη· οι οδηγίες απαιτούν μεταφορά για πλήρη αποτελεσματικότητα."
+      }
+    }
   ]
   }
