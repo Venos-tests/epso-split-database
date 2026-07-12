@@ -2086,5 +2086,1049 @@
       "explanation": "Το ψηφιακό αποτύπωμα είναι το αθροιστικό αρχείο ιχνών δεδομένων από την online δραστηριότητα ενός ατόμου — ιστορικό περιήγησης, αναζητήσεις, αλληλεπιδράσεις μέσων κοινωνικής δικτύωσης, αγορές. Μπορεί να είναι ενεργητικό (δεδομένα που μοιράζεστε εκούσια) ή παθητικό (δεδομένα που συλλέγονται χωρίς άμεση εισροή). Πηγή: DigComp 2.2 / ENISA."
     }
   }
-]
+],
+"ds_5": [
+    {
+      "en": {
+        "passage": "1. A colleague sends you an Excel spreadsheet containing quarterly expenditure data for three EU agencies. The summary sheet shows that Agency C spent €12 million more than Agency A. However, when you open the raw data tab, you notice that Agency A's figures exclude a €15 million procurement contract classified as 'capital expenditure'.",
+        "question": "What is the most appropriate first step before using this data in a report?",
+        "options": [
+          "Recalculate totals using the raw data and flag the discrepancy to your colleague for clarification.",
+          "Use the summary sheet as-is since the colleague compiled it.",
+          "Ignore the discrepancy since it is a minor accounting classification issue.",
+          "Delete the spreadsheet and request entirely new data from all three agencies."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Evaluating data: Cross-checking source data against summaries and flagging inconsistencies before use is a core information literacy skill."
+      },
+      "el": {
+        "passage": "1. Ένας συνάδελφος σας στέλνει ένα υπολογιστικό φύλλο Excel με δεδομένα εξόδων ανά τρίμηνο για τρεις υπηρεσίες της ΕΕ. Το φύλλο σύνοψης δείχνει ότι η Υπηρεσία C ξόδεψε 12 εκατομμύρια € περισσότερα από την Υπηρεσία A. Ωστόσο, όταν ανοίξετε την καρτέλα των αρχικών δεδομένων, παρατηρείτε ότι τα στοιχεία της Υπηρεσίας A δεν περιλαμβάνουν ένα συμβόλαιο προμήθειας 15 εκατομμυρίων € που έχει καταχωρηθεί ως 'κεφαλαιοκαταβολική δαπάνη'.",
+        "question": "Ποια είναι η πιο κατάλληλη πρώτη ενέργεια πριν χρησιμοποιήσετε αυτά τα δεδομένα σε μια έκθεση;",
+        "options": [
+          "Ανακαταμετρήστε τα σύνολα χρησιμοποιώντας τα αρχικά δεδομένα και σημειώστε τη διαφορά στον συνάδελφό σας για διευκρίνιση.",
+          "Χρησιμοποιήστε το φύλλο σύνοψης όπως είναι, αφού ο συνάδελφος το συνέταξε.",
+          "Αγνοήστε τη διαφορά, αφού πρόκειται για μια μικρή λογιστική ταξινόμηση.",
+          "Διαγράψτε το υπολογιστικό φύλλο και ζητήστε εντελώς νέα δεδομένα από τις τρεις υπηρεσίες."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Αξιολόγηση δεδομένων: Η διασταύρωση των πηγαίων δεδομένων με τις συνοψίσεις και η σημείωση ασυνεπειών πριν τη χρήση είναι βασική δεξιότητα πληροφοριακής επιμόρφωσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. Your unit needs to prepare a briefing on air quality trends in EU Member States. You have access to the European Environment Agency's open data portal, a World Health Organization dataset, and a recent peer-reviewed academic paper.",
+        "question": "Which source strategy best ensures the briefing is well-evidenced?",
+        "options": [
+          "Use only the academic paper since it is peer-reviewed and most recent.",
+          "Combine the EEA open data, the WHO dataset, and the academic paper for a multi-source evidence base.",
+          "Use the WHO dataset alone since it provides global comparability.",
+          "Rely on news articles since they are more accessible to non-specialist readers."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Evaluating data, information and digital content: Combining multiple authoritative sources strengthens credibility and contextual depth."
+      },
+      "el": {
+        "passage": "2. Η μονάδα σας πρέπει να προετοιμάσει ένα έγγραφο ενημερωτικού χαρακτήρα για τις τάσεις ποιότητας αέρα στα κράτη μέλη της ΕΕ. Διαθέτετε πρόσβαση στην πύλη ανοικτών δεδομένων του Ευρωπαϊκού Περιβαλλοντικού Γραφείου, σε ένα σύνολο δεδομένων του Παγκόσμιου Οργανισμού Υγείας και σε μια πρόσφατη αξιολογημένη ακαδημαϊκή μελέτη.",
+        "question": "Ποια στρατηγική πηγών εξασφαλίζει καλύτερα ότι το έγγραφο βασίζεται σε αξιόπιστες αποδείξεις;",
+        "options": [
+          "Χρησιμοποιήστε μόνο την ακαδημαϊκή μελέτη, αφού έχει αξιολογηθεί από συναδέλφους και είναι η πιο πρόσφατη.",
+          "Συνδυάστε τα ανοικτά δεδομένα του ΕΠΓ, το σύνολο δεδομένων του ΠΟΥ και την ακαδημαϊκή μελέτη για μια βάση αποδείξεων από πολλαπλές πηγές.",
+          "Χρησιμοποιήστε μόνο το σύνολο δεδομένων του ΠΟΥ, αφού παρέχει παγκόσμια συγκρισιμότητα.",
+          "Βασιστείτε σε ειδησεογραφικά άρθρα, αφού είναι πιο προσβάσιμα σε μη ειδικούς αναγνώστες."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Αξιολόγηση δεδομένων και πληροφοριών: Ο συνδυασμός πολλαπλών αξιόπιστων πηγών ενισχύει την αξιοπιστία και το πλαίσιο της ανάλυσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. You are responsible for maintaining a shared folder containing over 500 policy documents. A new colleague needs to locate all documents related to 'digital identity' published after 2021.",
+        "question": "Which approach is most efficient and reliable?",
+        "options": [
+          "Ask the colleague to open each folder and read filenames one by one.",
+          "Create a new folder containing only documents you personally remember being relevant.",
+          "Use the search function with the keyword 'digital identity' and apply a date filter for documents created after 2021.",
+          "Rename all relevant files with a prefix so they appear first in alphabetical order."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Browsing, searching and filtering: Efficient search with combined keyword and date filters is the standard method for navigating large document repositories."
+      },
+      "el": {
+        "passage": "3. Είστε υπεύθυνος για τη διαχείριση ενός κοινού φακέλου που περιέχει πάνω από 500 πολιτικά έγγραφα. Ένας νέος συνάδελφος πρέπει να εντοπίσει όλα τα έγγραφα που αφορούν τη 'ψηφιακή ταυτότητα' και δημοσιεύθηκαν μετά το 2021.",
+        "question": "Ποια προσέγγιση είναι πιο αποτελεσματική και αξιόπιστη;",
+        "options": [
+          "Ζητήστε από τον συνάδελφο να ανοίξει κάθε φάκελο και να διαβάσει τα ονόματα αρχείων ένα-ένα.",
+          "Δημιουργήστε έναν νέο φάκελο που περιέχει μόνο έγγραφα που θυμάστε εσείς προσωπικά.",
+          "Χρησιμοποιήστε τη λειτουργία αναζήτησης με τη λέξη-κλειδί 'ψηφιακή ταυτότητα' και εφαρμόστε φίλτρο ημερομηνίας για έγγραφα μετά το 2021.",
+          "Μετονομάστε όλα τα σχετικά αρχεία με ένα πρόθεμα ώστε να εμφανίζονται πρώτα σε αλφαβητική σειρά."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Περιήγηση, αναζήτηση και φιλτράρισμα: Η αποτελεσματική αναζήτηση με συνδυασμό λέξης-κλειδιού και φίλτρου ημερομηνίας είναι ο τυπικός τρόπος πλοήγησης σε μεγάλα αποθετήρια εγγράφων."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. You need to present staff distribution across five salary grades to senior management. The data shows: A* (2%), A (8%), B (25%), C (40%), D (25%).",
+        "question": "Which visualization would most clearly communicate this distribution to a non-technical audience?",
+        "options": [
+          "A scatter plot with salary on the x-axis and headcount on the y-axis.",
+          "A word cloud of grade labels sized by percentage.",
+          "A heatmap using a colour gradient from green to red.",
+          "A bar chart or pie chart showing proportional distribution across the five grades."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Managing data: Bar and pie charts are the most intuitive formats for proportional distributions when addressing non-technical audiences."
+      },
+      "el": {
+        "passage": "4. Πρέπει να παρουσιάσετε την κατανομή προσωπικού σε πέντε βαθμούς μισθολογίκους σε υψηλότερους αξιωματούχους. Τα δεδομένα δείχνουν: A* (2%), A (8%), B (25%), C (40%), D (25%).",
+        "question": "Ποια απεικόνιση θα μεταδώσει πιο σαφώς αυτή την κατανομή σε ένα μη τεχνικό κοινό;",
+        "options": [
+          "Ένα διάγραμμα διασποράς με τον μισθό στον άξονα x και τον αριθμό προσωπικού στον άξονα y.",
+          "Ένα σύννεφο λέξεων με ετικέτες βαθμών ανάλογα με το ποσοστό.",
+          "Ένα χρωματικό χάρτημα με διαβάθμιση από πράσινο σε κόκκινο.",
+          "Ένα ραβδωτό ή κυκλικό διάγραμμα που δείχνει την αναλογική κατανομή στους πέντες βαθμούς."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Διαχείριση δεδομένων: Τα ραβδωτά και κυκλικά διαγράμματα είναι οι πιο εύληπτες μορφές για αναλογικές κατανομές σε μη τεχνικό κοινό."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. You are organising a cross-departmental virtual meeting with 15 participants from 6 EU institutions. Several attendees are not native English speakers, and the agenda includes a sensitive budget discussion.",
+        "question": "Which combination of measures best ensures productive and inclusive communication?",
+        "options": [
+          "Send the agenda and supporting documents in advance, enable live captioning, and establish clear turn-taking rules.",
+          "Limit the meeting to only native English speakers to avoid misunderstandings.",
+          "Record the meeting secretly to share with absent colleagues later.",
+          "Use a single shared email thread and attach all documents."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Interacting and sharing through digital technologies: Preparing materials in advance, using accessibility tools like live captioning, and setting communication protocols are best practices for inclusive digital communication."
+      },
+      "el": {
+        "passage": "5. Διοργανώνετε μια διατμηματική εικονική συνάντηση με 15 συμμετέχοντες από 6 θεσμούς της ΕΕ. Αρκετοί συμμετέχοντες δεν είναι θρησκευτικοί ομιλητές αγγλικών, και η ημερήσια διάταξη περιλαμβάνει μια ευαίσθητη συζήτηση προϋπολογισμού.",
+        "question": "Ποιος συνδυασμός μέτρων εξασφαλίζει καλύτερα την παραγωγική και περιεκτική επικοινωνία;",
+        "options": [
+          "Αποστείλτε την ημερήσια διάταξη και τα υποστηρικτικά έγγραφα εκ των προτέρων, ενεργοποιήστε ζωντανή λήψη λόγου και θέσπιστε σαφείς κανόνες εναλλαγής ομιλίας.",
+          "Περιορίστε τη συμμετοχή σε ομιλητές αγγλικών για να αποφύγετε παρεξηγήσεις.",
+          "Καταγράψτε τη συνάντηση κρυφά για να τη μοιραστείτε με απόντες συναδέλφους αργότερα.",
+          "Χρησιμοποιήστε έναν ενιαίο email κατάστημα και επισυνάψτε όλα τα έγγραφα."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Επικοινωνία και συνεργασία: Η προετοιμασία υλικού εκ των προτέρων, η χρήση εργαλείων προσβασιμότητας και ο καθορισμός πρωτοκόλλων επικοινωνίας είναι βέλτιστες πρακτικές."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. During a Teams meeting, a colleague accidentally shares their screen displaying personal emails before switching to the intended presentation.",
+        "question": "What is the most appropriate immediate response?",
+        "options": [
+          "Screenshot the emails and share them in the team chat as a joke.",
+          "Politely ignore the incident, avoid drawing attention to it, and let the colleague continue.",
+          "Interrupt immediately and ask them to close their personal email in front of everyone.",
+          "Report the incident to the Data Protection Officer as a formal breach."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Netiquette: Maintaining professionalism and respecting a colleague's dignity during accidental disclosures reflects mature digital communication etiquette."
+      },
+      "el": {
+        "passage": "6. Κατά τη διάρκεια μιας συνάντησης στο Teams, ένας συνάδελφος κάνει κατά λάθος share την οθόνη του εμφανίζοντας προσωπικά email, πριν εναλλαχθεί στην προοριζόμενη παρουσίαση.",
+        "question": "Ποια είναι η πιο κατάλληλη άμεση αντίδραση;",
+        "options": [
+          "Κάντε στιγμιότυπο οθόνης των email και μοιραστείτε το στο chat της ομάδας ως αστείο.",
+          "Αγνοήστε ευγενικά το περιστατικό, αποφεύγοντας να προσελκύσετε προσοχή, και αφήστε τον συνάδελφο να συνεχίσει.",
+          "Διακόψτε αμέσως και ζητήστε του να κλείσει τα προσωπικά του email μπροστά σε όλους.",
+          "Αναφέρετε το περιστατικό στον Υπεύθυνο Προστασίας Δεδομένων ως επίσημη παραβίαση."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Δικτυακή συμπεριφορά: Η διατήρηση επαγγελματισμού και ο σεβασμός της αξιοπρέπειας ενός συναδέλφου κατά τη διάρκεια τυχαίων αποκαλύψεων αντικατοπτρίζει ώριμη ψηφιακή επικοινωνία."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. Your team is co-editing a 40-page strategic document using an online collaborative platform. You notice that a senior colleague has overwritten a section you spent two hours drafting, without leaving any comment or track changes.",
+        "question": "What is the most professional way to handle this?",
+        "options": [
+          "Quietly restore your version and delete theirs without telling anyone.",
+          "Report the colleague to management for data tampering.",
+          "Use the platform's version history to recover your text, then message the colleague to discuss a shared editing approach.",
+          "Stop collaborating and complete the document independently."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Collaborating through digital technologies: Using built-in version control tools and communicating constructively are essential collaborative competences in shared digital workspaces."
+      },
+      "el": {
+        "passage": "7. Η ομάδα σας επεξεργάζεται από κοινού ένα 40σέλιδο στρατηγικό έγγραφο μέσω μιας συνεργατικής διαδικτυακής πλατφόρμας. Παρατηρείτε ότι ένας ανώτερος συνάδελφος έχει αντικαταστήσει ένα τμήμα που είχατε διαμορφώσει σε δύο ώρες, χωρίς να αφήσει σχόλιο ή ίχνη αλλαγών.",
+        "question": "Ποιος είναι ο πιο επαγγελματικός τρόπος αντιμετώπισης;",
+        "options": [
+          "Επαναφέρετε ήσυχα την έκδοσή σας και διαγράψτε τη δική τους χωρίς να πείτε σε κανέναν.",
+          "Αναφέρετε τον συνάδελφο στη διοίκηση για παραποίηση δεδομένων.",
+          "Χρησιμοποιήστε το ιστορικό εκδόσεων της πλατφόρμας για να ανακτήσετε το κείμενό σας, στη συνέχεια στείλτε μήνυμα στον συνάδελφο για κοινή προσέγγιση.",
+          "Σταματήστε τη συνεργασία και ολοκληρώστε το έγγραφο μόνοι σας."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Συνεργασία μέσω ψηφιακών τεχνολογιών: Η χρήση εργαλείων ελέγχου εκδόσεων και η εποικοδομητική επικοινωνία είναι απαραίτητες δεξιότητες σε ψηφιακούς χώρους συνεργασίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. Your institution wants to increase public engagement with a new EU policy initiative targeting citizens aged 25-45 across all 27 Member States.",
+        "question": "Which digital strategy would be most effective for reaching this audience?",
+        "options": [
+          "Publish a 200-page PDF on the institution's intranet.",
+          "Organise a closed-door conference and livestream it on an internal channel.",
+          "Send formal press releases exclusively to national news agencies.",
+          "Create short, multilingual social media content with clear infographics and a dedicated landing page."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Engaging in citizenship through digital technologies: Short-form visual content in multiple languages with clear calls to action maximises reach among the target demographic."
+      },
+      "el": {
+        "passage": "8. Ο θεσμός σας θέλει να αυξήσει τη δημόσια συμμετοχή σε μια νέα πολιτική πρωτοβουλία της ΕΕ που απευθύνεται σε πολίτες ηλικίας 25-45 ετών σε όλα τα 27 κράτη μέλη.",
+        "question": "Ποια ψηφιακή στρατηγική θα ήταν πιο αποτελεσματική για την πρόσβαση σε αυτό το κοινό;",
+        "options": [
+          "Δημοσιεύστε ένα PDF 200 σελίδων στον εσωτερικό ιστότοπο του θεσμού.",
+          "Διοργανώστε μια κλειστή συνάντηση και μεταδόστε τη ζωντανά σε εσωτερικό κανάλι.",
+          "Αποστείλτε επίσημα δελτία τύπου αποκλειστικά σε εθνικά πρακτορεία ειδήσεων.",
+          "Δημιουργήστε σύντομο πολύγλωσσο περιεχόμενο για κοινωνικά δίκτυα με σαφή γραφικά και αφιερωμένη σελίδα."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Συμμετοχή στην κοινωνική ζωή μέσω ψηφιακών τεχνολογιών: Το σύντομο οπτικό περιεχόμενο σε πολλές γλώσσες με σαφή μηνύματα ελαχιστοποιεί την πρόσβαση στον τομέα στόχο."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. You want to use a Creative Commons-licensed infographic from an EU open data portal in a presentation that will be uploaded to your institution's public website.",
+        "question": "What must you verify before using the infographic?",
+        "options": [
+          "The specific CC licence terms (attribution, non-commercial, no derivatives) and comply accordingly.",
+          "Nothing, since EU materials are always in the public domain.",
+          "Whether the infographic has received more than 1,000 downloads.",
+          "Whether the original author is still employed by the EU institution."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Copyright and licences: Understanding and complying with specific Creative Commons terms is a fundamental digital content creation competence."
+      },
+      "el": {
+        "passage": "9. Θέλετε να χρησιμοποιήσετε ένα γραφικό από ανοικτά δεδομένα της ΕΕ με άδεια Creative Commons σε μια παρουσίαση που θα μεταφορτωθεί στον δημόσιο ιστότοπο του θεσμού σας.",
+        "question": "Τι πρέπει να επαληθεύσετε πριν χρησιμοποιήσετε το γραφικό;",
+        "options": [
+          "Τους συγκεκριμένους όρους της άδειας CC (αναγνώριση, μη εμπορική χρήση, χωρίς παράγωγα) και να συμμορφωθείτε αντίστοιχα.",
+          "Τίποτα, αφού τα υλικά της ΕΕ είναι πάντα στον δημόσιο χώρο.",
+          "Αν το γραφικό έχει λάβει πάνω από 1.000 λήψεις.",
+          "Αν ο αρχικός δημιουργός είναι ακόμα υπάλληλος του θεσμού της ΕΕ."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Δικαιώματα πνευματικής ιδιοκτησίας και άδειες: Η κατανόηση και τήρηση συγκεκριμένων όρων Creative Commons είναι θεμελιώδης δεξιότητα δημιουργίας ψηφιακού περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. You are preparing a web page announcement for a new EU programme. The page includes text, images, a downloadable PDF, and a registration form. It must be accessible to all users, including those using screen readers.",
+        "question": "Which measure is most critical for accessibility?",
+        "options": [
+          "Use bright, animated backgrounds to make the page visually engaging.",
+          "Add alternative text (alt text) to all images and ensure form fields have proper labels.",
+          "Use only uppercase text to improve readability.",
+          "Remove all images so the page loads faster."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Developing digital content: Alternative text for images and properly labelled form fields are core WCAG requirements for screen reader compatibility."
+      },
+      "el": {
+        "passage": "10. Ετοιμάζετε μια σελίδα ανακοίνωσης για ένα νέο πρόγραμμα της ΕΕ. Η σελίδα περιέχει κείμενο, εικόνες, ένα PDF για λήψη και ένα φόρμα εγγραφής. Πρέπει να είναι προσβάσιμη σε όλους τους χρήστες, συμπεριλαμβανομένων εκείνων που χρησιμοποιούν αναγνώστη οθόνης.",
+        "question": "Ποιο μέτρο είναι πιο κρίσιμο για την προσβασιμότητα;",
+        "options": [
+          "Χρησιμοποιήστε φωτεινά, κινούμενα υπόβαθρα για οπτική έλξη.",
+          "Προσθέστε εναλλακτικό κείμενο (alt text) σε όλες τις εικόνες και βεβαιωθείτε ότι τα πεδία φόρμας έχουν σωστές ετικέτες.",
+          "Χρησιμοποιήστε αποκλειστικά κεφαλαία γράμματα για βελτίωση αναγνωσιμότητας.",
+          "Αφαιρέστε όλες τις εικόνες ώστε η σελίδα να φορτώνει πιο γρήγορα."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Δημιουργία ψηφιακού περιεχομένου: Το εναλλακτικό κείμενο για εικόνες και οι σωστές ετικέτες σε πεδία φόρμας είναι βασικές απαιτήσεις WCAG για συμβατότητα με αναγνώστη οθόνης."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Your unit has collected video testimonials from 10 EU citizens about their Erasmus+ experience. You need to create a single 3-minute promotional video for the institution's public channels.",
+        "question": "Which approach best balances quality, time, and accessibility?",
+        "options": [
+          "Upload all 10 full-length videos without editing to preserve authenticity.",
+          "Convert all videos to audio-only files to reduce file size.",
+          "Use a video editing tool to select the strongest excerpts, add multilingual subtitles, and include a brief introduction.",
+          "Embed the raw footage directly into a PowerPoint presentation."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Integrating and re-elaborating digital content: Selecting key segments, adding subtitles for accessibility, and structuring content professionally is standard practice for public communication."
+      },
+      "el": {
+        "passage": "11. Η μονάδα σας έχει συλλέξει βιντεοσκοπημένες μαρτυρίες από 10 πολίτες της ΕΕ για την εμπειρία τους στο Erasmus+. Πρέπει να δημιουργήσετε ένα ενιαίο 3λεπτό προωθητικό βίντεο για τα δημόσια κανάλια του θεσμού.",
+        "question": "Ποια προσέγγιση ισορροπεί καλύτερα ποιότητα, χρόνο και προσβασιμότητα;",
+        "options": [
+          "Μεταφορτώστε όλα τα 10 πλήρη βίντεο χωρίς επεξεργασία για να διατηρήσετε την αυθεντικότητα.",
+          "Μετατρέψτε όλα τα βίντεο σε μόνο ήχο για μείωση του μεγέθους αρχείου.",
+          "Χρησιμοποιήστε εργαλείο επεξεργασίας βίντεο για να επιλέξετε τα ισχυρότερα αποσπάσματα, να προσθέσετε πολύγλωσσους υπότιτλους και να συμπεριλάβετε μια σύντομη εισαγωγή.",
+          "Ενσωματώστε το ακατέργαστο υλικό απευθείας σε μια παρουσίαση PowerPoint."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Ενσωμάτωση και επεξεργασία ψηφιακού περιεχομένου: Η επιλογή βασικών αποσπασμάτων, η προσθήκη υποτίτλων και η επαγγελματική δομή του περιεχομένου είναι τυπική πρακτική."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. Your team manually copies data from incoming email requests into a tracking spreadsheet every day. This process takes approximately 90 minutes daily and is prone to human error.",
+        "question": "Which is the most practical digital improvement?",
+        "options": [
+          "Hire a temporary contract worker to continue the manual process.",
+          "Stop tracking requests entirely to save time.",
+          "Print all emails and file them in a physical cabinet for later manual entry.",
+          "Use a mail merge tool or basic automation to extract key fields from emails into the spreadsheet automatically."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Programming (operational level): Recognising when a repetitive manual task can be automated using basic digital tools is a key problem-solving competence for administrative staff."
+      },
+      "el": {
+        "passage": "12. Η ομάδα σας αντιγράφει χειροκίνητα δεδομένα από εισερχόμενα email αιτήματα σε ένα φύλλο ελέγχου κάθε μέρα. Αυτή η διαδικασία απαιτεί περίπου 90 λεπτά ημερησίως και είναι ευάλωτη σε ανθρώπινο σφάλμα.",
+        "question": "Ποια είναι η πιο πρακτική ψηφιακή βελτίωση;",
+        "options": [
+          "Προσλάβετε έναν προσωρινό υπάλληλο για να συνεχίσει τη χειροκίνητη διαδικασία.",
+          "Σταματήστε εντελώς την καταγραφή των αιτημάτων για εξοικονόμηση χρόνου.",
+          "Εκτυπώστε όλα τα email και αρχειοθετήστε τα σε φυσικό αρχειοθήκη για μελλοντική χειροκίνητη εισαγωγή.",
+          "Χρησιμοποιήστε εργαλείο mail merge ή αυτοματοποίηση για την αυτόματη εξαγωγή βασικών πεδίων από email στο φύλλο ελέγχου."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Προγραμματισμός (λειτουργικό επίπεδο): Η αναγνώριση ότι μια επαναλαμβανόμενη χειροκίνητη εργασία μπορεί να αυτοματοποιηθεί με ψηφιακά εργαλεία είναι βασική δεξιότητα επίλυσης προβλημάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. You receive an email that appears to come from your institution's IT helpdesk. It states: 'Your account will be deactivated in 24 hours. Click here to verify your credentials.' The sender address looks correct but the hyperlink points to a different domain.",
+        "question": "What is the most appropriate action?",
+        "options": [
+          "Do not click the link, report the email to your institution's IT security team, and delete it.",
+          "Click the link immediately to check if your account is really at risk.",
+          "Reply to the email asking for clarification about the deactivation.",
+          "Forward the email to all colleagues to warn them."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Protecting personal data and privacy: Recognising phishing indicators (mismatched URLs, urgency language) and reporting through official channels is essential cybersecurity hygiene."
+      },
+      "el": {
+        "passage": "13. Λαμβάνετε ένα email που φαίνεται να προέρχεται από την υπηρεσία τεχνικής υποστήριξης του θεσμού σας. Αναφέρει: 'Ο λογαριασμός σας θα απενεργοποιηθεί σε 24 ώρες. Κάντε κλικ εδώ για να επαληθεύσετε τα διαπιστευτήριά σας.' Η διεύθυνση αποστολέα φαίνεται σωστή αλλά ο υπερσύνδεσμος οδηγεί σε διαφορετικό τομέα.",
+        "question": "Ποια είναι η πιο κατάλληλη ενέργεια;",
+        "options": [
+          "Μην κάνετε κλικ στον σύνδεσμο, αναφέρετε το email στην ομάδα ασφάλειας IT του θεσμού και διαγράψτε το.",
+          "Κάντε κλικ αμέσως για να ελέγξετε αν ο λογαριασμός σας πράγματι κινδυνεύει.",
+          "Απαντήστε στο email ζητώντας διευκρίνιση σχετικά με την απενεργοποίηση.",
+          "Προωθήστε το email σε όλους τους συναδέλφους για να τους προειδοποιήσετε."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Προστασία προσωπικών δεδομένων και απορρήτου: Η αναγνώριση δεικτών phishing (αντιταθέμενοι σύνδεσμοι, γλώσσα επείγοντος) και η αναφορά μέσω επίσημων καναλιών είναι απαραίτητη."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. You are travelling for work and need to access sensitive institutional documents from your laptop. You are connected to a public Wi-Fi network at the airport.",
+        "question": "Which practice best protects your data in this situation?",
+        "options": [
+          "Use the public Wi-Fi as normal since airport networks are generally secure.",
+          "Connect through your institution's VPN before accessing any documents online.",
+          "Share your login credentials with a trusted colleague so they can access the documents on your behalf.",
+          "Post screenshots of the documents on a messaging app for quick reference."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Protecting devices: A VPN encrypts data in transit, providing essential protection when using untrusted public networks."
+      },
+      "el": {
+        "passage": "14. Ταξιδεύετε για εργασία και πρέπει να αποκτήσετε πρόσβαση σε ευαίσθητα θεσμικά έγγραφα από το laptop σας. Είστε συνδεδεμένοι σε δημόσιο Wi-Fi δίκτυο στο αεροδρόμιο.",
+        "question": "Ποια πρακτική προστατεύει καλύτερα τα δεδομένα σας σε αυτή την κατάσταση;",
+        "options": [
+          "Χρησιμοποιήστε το δημόσιο Wi-Fi κανονικά, αφού τα δίκτυα αεροδρομίων είναι γενικά ασφαλή.",
+          "Συνδεθείτε μέσω του VPN του θεσμού σας πριν αποκτήσετε πρόσβαση σε οποιοδήποτε έγγραφο online.",
+          "Μοιραστείτε τα διαπιστευτήριά σας με έναν αξιόπιστο συνάδελφο για να αποκτήσει πρόσβαση εκ μέρους σας.",
+          "Δημοσιεύστε στιγμιότυπα οθόνης των εγγράφων σε εφαρμογή μηνυμάτων για γρήγорη αναφορά."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Προστασία συσκευών: Το VPN κρυπτογραφεί τα δεδομένα κατά τη μετάδοση, παρέχοντας απαραίτητη προστασία σε αναξιόπιστα δημόσια δίκτυα."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. After completing a project, your colleague suggests sharing the final report with a friend who works at a non-EU consultancy, arguing that the report contains no classified information.",
+        "question": "What is the most appropriate response?",
+        "options": [
+          "Share only the executive summary, which is publicly available.",
+          "Agree, since the report is unclassified and the consultancy is a trusted partner.",
+          "Decline and explain that institutional documents are subject to internal data handling policies and cannot be shared externally without proper authorisation.",
+          "Ask the friend to sign a non-disclosure agreement and then share the document."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Protecting personal data and privacy: Institutional documents, even if unclassified, are governed by internal rules on information handling that restrict external sharing."
+      },
+      "el": {
+        "passage": "15. Μετά την ολοκλήρωση ενός έργου, ένας συνάδελφος προτείνει να μοιραστείτε την τελική έκθεση με έναν φίλο που εργάζεται σε μη-Ευρωπαϊκό γραφείο συμβούλων, υποστηρίζοντας ότι η έκθεση δεν περιέχει εμπιστευτικές πληροφορίες.",
+        "question": "Ποια είναι η πιο κατάλληλη απάντηση;",
+        "options": [
+          "Μοιραστείτε μόνο τη σύνοψη, η οποία είναι δημόσια διαθέσιμη.",
+          "Συμφωνήστε, αφού η έκθεση δεν είναι εμπιστευτική και το γραφείο είναι αξιόπιστος συνεργάτης.",
+          "Αρνηθείτε και εξηγήστε ότι τα θεσμικά έγγραφα υπόκεινται σε εσωτερικές πολιτικές διαχείρισης πληροφοριών και δεν μπορούν να κοινοποιηθούν εξωτερικά χωρίς την κατάλληλη εξουσιοδότηση.",
+          "Ζητήστε από τον φίλο να υπογράψει σύμφωνο εμπιστευτικότητας και στη συνέχεια μοιραστείτε το έγγραφο."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Προστασία προσωπικών δεδομένων και απορρήτου: Τα θεσμικά έγγραφα, ακόμα και μη εμπιστευτικά, διέπονται από εσωτερικούς κανόνες διαχείρισης πληροφοριών."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. You spend most of your working day in front of two monitors, frequently switching between video calls, document editing, and spreadsheet analysis. Over the past month, you have experienced persistent headaches and eye strain.",
+        "question": "Which combination of measures best addresses this issue?",
+        "options": [
+          "Increase monitor brightness to maximum to see more clearly.",
+          "Switch to working exclusively on a smartphone to reduce screen size.",
+          "Take a full week off work to rest your eyes completely.",
+          "Follow the 20-20-20 rule (every 20 minutes, look at something 20 feet/6 metres away for 20 seconds), adjust screen brightness, and ensure proper room lighting."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Protecting health and well-being: Ergonomic habits such as the 20-20-20 rule, proper lighting, and regular visual breaks help prevent digital eye strain."
+      },
+      "el": {
+        "passage": "16. Περνάτε το μεγαλύτερο μέρος της εργάσιμης ημέρας σας μπροστά σε δύο οθόνες, εναλλάσσοντας συχνά μεταξύ βιντεοκλήσεων, επεξεργασίας εγγράφων και ανάλυσης υπολογιστικών φύλλων. Τον τελευταίο μήνα έχετε αντιμετωπίσει μόνιμους πονοκεφάλους και κούραση των ματιών.",
+        "question": "Ποιος συνδυασμός μέτρων αντιμετωπίζει καλύτερα αυτό το πρόβλημα;",
+        "options": [
+          "Αυξήστε τη φωτεινότητα των οθονών στο μέγιστο για καλύτερη ορατότητα.",
+          "Μεταβείτε στην εργασία αποκλειστικά από smartphone για μείωση του μεγέθους οθόνης.",
+          "Πάρτε έναν ολόκληρο εβδομάδα άδεια για πλήρη ξεκούραση των ματιών.",
+          "Ακολουθήστε τον κανόνα 20-20-20 (κάθε 20 λεπτά, κοιτάξτε κάτι σε απόσταση 6 μέτρων για 20 δευτερόλεπτα), ρυθμίστε τη φωτεινότητα της οθόνης και βεβαιωθείτε ότι υπάρχει κατάλληλος φωτισμός στο δωμάτιο."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Προστασία υγείας και ευεξίας: Εργονομικές συνήθειες όπως ο κανόνας 20-20-20, ο σωστός φωτισμός και τα τακτικά διαλείμματα βοηθούν στην πρόληψη ψηφιακής κούρασης ματιών."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. You are about to begin a live video presentation to 200 participants when you discover that the presentation file will not open. The event is scheduled to start in 3 minutes.",
+        "question": "What is the most effective immediate response?",
+        "options": [
+          "Use the cloud-saved version of the file, or present using your speaker notes and screen-share the document directly.",
+          "Cancel the event and reschedule for the following week.",
+          "Apologise and ask each participant to wait while you restart your computer.",
+          "Begin speaking from memory without any visual support."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Solving technical problems: Having backup access to files via cloud storage and the ability to adapt your presentation method under pressure is a critical digital resilience skill."
+      },
+      "el": {
+        "passage": "17. Πρόκειται να ξεκινήσετε μια ζωντανή βιντεοπαρουσίαση σε 200 συμμετέχοντες όταν ανακαλύπτετε ότι το αρχείο παρουσίασης δεν ανοίγει. Η εκδήλωση ξεκινά σε 3 λεπτά.",
+        "question": "Ποια είναι η πιο αποτελεσματική άμεση αντίδραση;",
+        "options": [
+          "Χρησιμοποιήστε την αποθηκευμένη στο cloud έκδοση του αρχείου, ή παρουσιάστε χρησιμοποιώντας τα σημειώματά σας και κάνοντας screen-share το έγγραφο απευθείας.",
+          "Ακυρώστε την εκδήλωση και προγραμματίστε την επόμενη εβδομάδα.",
+          "Ζητήστε συγγνώμη και ζητήστε σε κάθε συμμετέχοντα να περιμένει ενώ κάνετε επανεκκίνηση του υπολογιστή.",
+          "Αρχίστε να μιλάτε από μνήμη χωρίς κανένα οπτικό υποστήριγμα."
+        ],
+        "answer": 0,
+        "explanation": "DigComp 2.2 — Επίλυση τεχνικών προβλημάτων: Η ύπαρξη εφεδρικής πρόσβασης σε αρχεία μέσω cloud και η ικανότητα προσαρμογής υπό πίεση είναι κρίσιμη δεξιότητα ψηφικής ανθεκτικότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. Your team receives over 50 repetitive email requests per week asking for the same standard information: office opening hours, procurement procedures, and travel rules.",
+        "question": "Which digital solution would most effectively reduce this workload?",
+        "options": [
+          "Block all incoming emails from external addresses.",
+          "Create a public-facing FAQ page or a chatbot on the intranet that provides instant answers to recurring questions.",
+          "Hire an additional staff member to answer emails.",
+          "Set up an auto-reply that says 'We will respond within 30 days'."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Identifying needs and technological responses: A self-service FAQ or chatbot addresses repetitive queries at scale, freeing staff time for higher-value tasks."
+      },
+      "el": {
+        "passage": "18. Η ομάδα σας λαμβάνει πάνω από 50 επαναλαμβανόμενα email ανά εβδομάδα με τις ίδιες τυπικές ερωτήσεις: ώρες λειτουργίας γραφείου, διαδικασίες προμήθειας και κανόνες ταξιδιών.",
+        "question": "Ποια ψηφική λύση θα μείωσε πιο αποτελεσματικά αυτό το φορτίο εργασίας;",
+        "options": [
+          "Μπλοκάρετε όλα τα εισερχόμενα email από εξωτερικές διευθύνσεις.",
+          "Δημιουργήστε μια δημόσια σελίδα FAQ ή ένα chatbot στον εσωτερικό ιστότοπο που παρέχει άμεσες απαντήσεις σε επαναλαμβανόμενες ερωτήσεις.",
+          "Προσλάβετε έναν επιπλέον υπάλληλο για την απάντηση σε email.",
+          "Ρυθμίστε μια αυτόματη απάντηση που λέει 'Θα απαντήσουμε εντός 30 ημερών'."
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 — Αναγνώριση αναγκών και τεχνολογικών απαντήσεων: Ένα self-service FAQ ή chatbot αντιμετωπίζει επαναλαμβανόμενες ερωτήσεις σε κλίμακα, ελευθερώνοντας χρόνο για πιο σημαντικές εργασίες."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. Your institution is transitioning from a legacy document management system to a new cloud-based platform. Half of the team has adapted well, but five senior colleagues struggle with basic navigation and frequently revert to saving files on their local desktops.",
+        "question": "Which approach best balances digital transformation with staff support?",
+        "options": [
+          "Mandate immediate use of the new system and disable the old one overnight.",
+          "Assign a junior staff member to manage all file storage on behalf of the senior colleagues permanently.",
+          "Provide targeted, hands-on training sessions tailored to their daily tasks while allowing a brief parallel-use transition period.",
+          "Abandon the new system and revert to the legacy platform."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Identifying digital competence gaps: Tailored training aligned with actual daily workflows and a managed transition period ensures sustainable adoption without alienating staff."
+      },
+      "el": {
+        "passage": "19. Ο θεσμός σας μεταβαίνει από ένα παλαιό σύστημα διαχείρισης εγγράφων σε μια νέα cloud-βασισμένη πλατφόρμα. Το μισό τμήμα έχει προσαρμοστεί καλά, αλλά πέντε ανώτεροι συνάδελφοι αντιμετωπίζουν δυσκολίες στη βασική πλοήγηση και επανέρχονται συχνά στην αποθήκευση αρχείων στην τοπική επιφάνεια εργασίας.",
+        "question": "Ποια προσέγγιση ισορροπεί καλύτερα τον ψηφιακό μετασχηματισμό με την υποστήριξη προσωπικού;",
+        "options": [
+          "Επιβάλλετε άμεση χρήση του νέου συστήματος και απενεργοποιήστε το παλιό απροειδοποίητα.",
+          "Αναθέστε έναν νεότερο υπάλληλο να διαχειρίζεται μόνιμα όλη την αποθήκευση αρχείων εκ μέρους των ανωτέρων συναδέλφων.",
+          "Παρέχετε στοχευμένα, πρακτικά σεμινάρια εκμάθησης προσαρμοσμένα στις καθημερινές τους εργασίες, επιτρέποντας παράλληλη χρήση κατά τη μετάβαση.",
+          "Εγκαταλείψτε το νέο σύστημα και επιστρέψτε στο παλαιό."
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 — Αναγνώριση ψηφικών κενών επιμόρφωσης: Η στοχευμένη εκπαίδευση σε σχέση με τις καθημερινές εργασίες και μια διαχειριζόμενη μετάβαση εξασφαλίζουν βιώσιμη υιοθέτηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. You are reviewing a colleague's work and discover they are manually re-typing data from a 10-page scanned PDF table of statistics into a Word document.",
+        "question": "Which digital competence would most improve this process?",
+        "options": [
+          "Use a highlighter to mark the most important data in the printed PDF.",
+          "Take a photo of each page and send it to the colleague.",
+          "Manually type faster by using keyboard shortcuts.",
+          "Use optical character recognition (OCR) software to extract the text from the scanned PDF, then paste and format it."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Programming (operational level): OCR technology converts scanned images into editable text, eliminating manual re-typing and reducing errors — a practical example of matching a digital solution to a documented need."
+      },
+      "el": {
+        "passage": "20. Ελέγχετε την εργασία ενός συναδέλφου και ανακαλύπτετε ότι αντιγράφει χειροκίνητα δεδομένα από ένα σαρωμένο PDF 10 σελίδων με στατιστικά σε ένα έγγραφο Word.",
+        "question": "Ποια ψηφική δεξιότητα θα βελτίωνε πιο πολύ αυτή τη διαδικασία;",
+        "options": [
+          "Χρησιμοποιήστε έναν επισημαντή για να σημειώσετε τα πιο σημαντικά δεδομένα στο εκτυπωμένο PDF.",
+          "Τραβήξτε φωτογραφία κάθε σελίδας και στείλτε τη στον συνάδελφο.",
+          "Πληκτρολογήστε πιο γρήγορα χρησιμοποιώντας συντομεύσεις πληκτρολογίου.",
+          "Χρησιμοποιήστε λογισμικό οπτικής αναγνώρισης χαρακτήρων (OCR) για να εξάγετε το κείμενο από το σαρωμένο PDF και στη συνέχεια να το επικολλήσετε και να το μορφοποιήσετε."
+        ],
+        "answer": 3,
+        "explanation": "DigComp 2.2 — Προγραμματισμός (λειτουργικό επίπεδο): Η τεχνολογία OCR μετατρέπει σαρωμένες εικόνες σε επεξεργάσιμο κείμενο, εξαλείφοντας τη χειροκίνητη αντιγραφή — πρακτικό παράδειγμα αντιστοίχισης ψηφικής λύσης σε αναγνωρισμένη ανάγκη."
+      }
+    }
+  ],
+  "ds_6": [
+    {
+      "en": {
+        "passage": "1. You are drafting a note on teleworking trends in the EU. Two online articles cite the same percentage for remote workers, but neither explains how the figure was calculated. A Eurostat dataset shows a slightly different percentage and includes methodology notes.",
+        "question": "Which source should you rely on first for your note?",
+        "options": [
+          "The two articles, because they confirm each other.",
+          "The Eurostat dataset, because it provides official data and explains the methodology.",
+          "The highest percentage, because it highlights the trend more clearly.",
+          "Any source, as long as the number is recent."
+        ],
+        "answer": 1,
+        "explanation": "Official data with transparent methodology is generally more reliable than secondary sources repeating the same figure."
+      },
+      "el": {
+        "passage": "1. Συντάσσετε σημείωμα για τις τάσεις τηλεργασίας στην ΕΕ. Δύο διαδικτυακά άρθρα αναφέρουν το ίδιο ποσοστό εξ αποστάσεως εργαζομένων, αλλά κανένα δεν εξηγεί πώς υπολογίστηκε. Ένα σύνολο δεδομένων της Eurostat δείχνει ελαφρώς διαφορετικό ποσοστό και περιλαμβάνει μεθοδολογικές σημειώσεις.",
+        "question": "Σε ποια πηγή πρέπει να βασιστείτε πρώτα για το σημείωμά σας;",
+        "options": [
+          "Στα δύο άρθρα, επειδή επιβεβαιώνουν το ένα το άλλο.",
+          "Στο σύνολο δεδομένων της Eurostat, επειδή παρέχει επίσημα δεδομένα και εξηγεί τη μεθοδολογία.",
+          "Στο υψηλότερο ποσοστό, επειδή αναδεικνύει πιο καθαρά την τάση.",
+          "Σε οποιαδήποτε πηγή, αρκεί ο αριθμός να είναι πρόσφατος."
+        ],
+        "answer": 1,
+        "explanation": "Τα επίσημα δεδομένα με διαφανή μεθοδολογία είναι συνήθως πιο αξιόπιστα από δευτερογενείς πηγές που επαναλαμβάνουν το ίδιο ποσοστό."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. Your team stores reports in a shared drive, but file names are inconsistent: some use dates, others abbreviations, and others generic titles like 'final version'. A new colleague cannot quickly identify the latest approved document.",
+        "question": "What is the best way to improve findability?",
+        "options": [
+          "Ask everyone to remember where the important files are stored.",
+          "Delete older versions so only one file remains in each folder.",
+          "Adopt a shared naming convention including topic, date, and version number.",
+          "Move all files to one large folder to reduce navigation time."
+        ],
+        "answer": 2,
+        "explanation": "Consistent naming conventions improve retrieval, version control, and team collaboration."
+      },
+      "el": {
+        "passage": "2. Η ομάδα σας αποθηκεύει εκθέσεις σε κοινόχρηστο δίσκο, αλλά τα ονόματα αρχείων είναι ασυνεπή: άλλα χρησιμοποιούν ημερομηνίες, άλλα συντομογραφίες, και άλλα γενικούς τίτλους όπως 'τελική έκδοση'. Ένας νέος συνάδελφος δεν μπορεί να εντοπίσει γρήγορα το πιο πρόσφατο εγκεκριμένο έγγραφο.",
+        "question": "Ποιος είναι ο καλύτερος τρόπος για να βελτιωθεί η δυνατότητα εντοπισμού;",
+        "options": [
+          "Να ζητήσετε από όλους να θυμούνται πού βρίσκονται τα σημαντικά αρχεία.",
+          "Να διαγράψετε τις παλαιότερες εκδόσεις ώστε να απομένει μόνο ένα αρχείο σε κάθε φάκελο.",
+          "Να υιοθετήσετε κοινή σύμβαση ονοματοδοσίας που να περιλαμβάνει θέμα, ημερομηνία και αριθμό έκδοσης.",
+          "Να μεταφέρετε όλα τα αρχεία σε έναν μεγάλο φάκελο για μείωση του χρόνου πλοήγησης."
+        ],
+        "answer": 2,
+        "explanation": "Οι συνεπείς συμβάσεις ονοματοδοσίας βελτιώνουν την ανάκτηση, τον έλεγχο εκδόσεων και τη συνεργασία."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. You are preparing a short briefing and find a chart on social media claiming to show EU migration trends. The chart has no source, no date, and no axis labels, but it looks visually convincing.",
+        "question": "What is the most appropriate reaction?",
+        "options": [
+          "Use it if it supports the key message of the briefing.",
+          "Redraw it in your institution's template so it looks more official.",
+          "Ignore the missing details because the trend seems plausible.",
+          "Do not use it unless you can trace it back to a credible original source."
+        ],
+        "answer": 3,
+        "explanation": "A chart without source, date, or labels cannot be properly verified and should not be used in official work."
+      },
+      "el": {
+        "passage": "3. Ετοιμάζετε ένα σύντομο ενημερωτικό σημείωμα και βρίσκετε στα κοινωνικά δίκτυα ένα διάγραμμα που υποτίθεται ότι δείχνει τις τάσεις μετανάστευσης στην ΕΕ. Το διάγραμμα δεν έχει πηγή, ημερομηνία ούτε ετικέτες αξόνων, αλλά φαίνεται οπτικά πειστικό.",
+        "question": "Ποια είναι η καταλληλότερη αντίδραση;",
+        "options": [
+          "Να το χρησιμοποιήσετε αν υποστηρίζει το βασικό μήνυμα του σημειώματος.",
+          "Να το ανασχεδιάσετε στο πρότυπο του θεσμού σας ώστε να φαίνεται πιο επίσημο.",
+          "Να αγνοήσετε τις ελλείψεις, επειδή η τάση φαίνεται πιθανή.",
+          "Να μην το χρησιμοποιήσετε εκτός αν μπορείτε να εντοπίσετε την αρχική αξιόπιστη πηγή του."
+        ],
+        "answer": 3,
+        "explanation": "Ένα διάγραμμα χωρίς πηγή, ημερομηνία ή ετικέτες δεν μπορεί να επαληθευτεί επαρκώς και δεν πρέπει να χρησιμοποιείται σε επίσημη εργασία."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. A colleague shares a large dataset and asks you to identify whether the number of grant applications has generally increased over the last five years, without conducting complex statistical analysis.",
+        "question": "Which first step is most appropriate?",
+        "options": [
+          "Sort the data by date and create a simple line chart to visualise the trend.",
+          "Print the full dataset and inspect it manually on paper.",
+          "Delete rows with missing values before checking what they contain.",
+          "Convert all figures into percentages immediately."
+        ],
+        "answer": 0,
+        "explanation": "A simple visualisation after sorting the data is an efficient first step for identifying broad trends."
+      },
+      "el": {
+        "passage": "4. Ένας συνάδελφος μοιράζεται μαζί σας ένα μεγάλο σύνολο δεδομένων και σας ζητά να εντοπίσετε αν ο αριθμός των αιτήσεων επιχορήγησης έχει γενικά αυξηθεί τα τελευταία πέντε έτη, χωρίς σύνθετη στατιστική ανάλυση.",
+        "question": "Ποιο πρώτο βήμα είναι το καταλληλότερο;",
+        "options": [
+          "Να ταξινομήσετε τα δεδομένα κατά ημερομηνία και να δημιουργήσετε ένα απλό γραμμικό διάγραμμα για οπτικοποίηση της τάσης.",
+          "Να εκτυπώσετε ολόκληρο το σύνολο δεδομένων και να το ελέγξετε χειροκίνητα σε χαρτί.",
+          "Να διαγράψετε τις γραμμές με ελλιπείς τιμές πριν εξετάσετε τι περιέχουν.",
+          "Να μετατρέψετε αμέσως όλα τα στοιχεία σε ποσοστά."
+        ],
+        "answer": 0,
+        "explanation": "Μια απλή οπτικοποίηση μετά την ταξινόμηση των δεδομένων είναι αποτελεσματικό πρώτο βήμα για τον εντοπισμό γενικών τάσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. Your unit is co-authoring a briefing note. One colleague keeps sending updated drafts by email, while another edits a cloud-based version online. Team members are no longer sure which version is the current one.",
+        "question": "Which solution is most effective?",
+        "options": [
+          "Continue using both methods so everyone can work in their preferred way.",
+          "Choose one shared collaborative space as the single source of truth and stop parallel editing elsewhere.",
+          "Ask the most senior colleague to decide which version feels most complete.",
+          "Merge all drafts manually at the end of the process."
+        ],
+        "answer": 1,
+        "explanation": "Using one shared collaborative space reduces duplication, confusion, and version conflicts."
+      },
+      "el": {
+        "passage": "5. Η μονάδα σας συντάσσει από κοινού ένα ενημερωτικό σημείωμα. Ένας συνάδελφος συνεχίζει να στέλνει ενημερωμένα προσχέδια μέσω email, ενώ ένας άλλος επεξεργάζεται μια cloud-based έκδοση online. Τα μέλη της ομάδας δεν είναι πλέον βέβαια ποια έκδοση είναι η τρέχουσα.",
+        "question": "Ποια λύση είναι η πιο αποτελεσματική;",
+        "options": [
+          "Να συνεχίσετε και με τους δύο τρόπους ώστε όλοι να εργάζονται όπως προτιμούν.",
+          "Να επιλέξετε έναν κοινό συνεργατικό χώρο ως τη μοναδική έγκυρη έκδοση και να σταματήσετε την παράλληλη επεξεργασία αλλού.",
+          "Να ζητήσετε από τον πιο ανώτερο συνάδελφο να αποφασίσει ποια έκδοση φαίνεται πιο πλήρης.",
+          "Να συγχωνεύσετε χειροκίνητα όλα τα προσχέδια στο τέλος της διαδικασίας."
+        ],
+        "answer": 1,
+        "explanation": "Η χρήση ενός κοινού συνεργατικού χώρου μειώνει τη διπλή εργασία, τη σύγχυση και τις συγκρούσεις εκδόσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. You need to send meeting documents to a mixed group of internal staff and external participants. Some attachments contain internal comments that should not be visible outside your institution.",
+        "question": "What should you do before sending the documents?",
+        "options": [
+          "Send the same files to everyone to avoid confusion.",
+          "Upload the files to social media so all participants can access them.",
+          "Review the files carefully, remove internal comments or metadata where necessary, and share the appropriate version with each group.",
+          "Convert all documents into image files so comments are harder to read."
+        ],
+        "answer": 2,
+        "explanation": "Documents should be reviewed before sharing to ensure that hidden comments, tracked changes, or metadata are not disclosed inappropriately."
+      },
+      "el": {
+        "passage": "6. Πρέπει να στείλετε έγγραφα συνάντησης σε μια μικτή ομάδα εσωτερικού προσωπικού και εξωτερικών συμμετεχόντων. Ορισμένα συνημμένα περιέχουν εσωτερικά σχόλια που δεν πρέπει να είναι ορατά εκτός του θεσμού σας.",
+        "question": "Τι πρέπει να κάνετε πριν αποστείλετε τα έγγραφα;",
+        "options": [
+          "Να στείλετε τα ίδια αρχεία σε όλους για αποφυγή σύγχυσης.",
+          "Να ανεβάσετε τα αρχεία στα κοινωνικά δίκτυα ώστε να έχουν όλοι πρόσβαση.",
+          "Να ελέγξετε προσεκτικά τα αρχεία, να αφαιρέσετε εσωτερικά σχόλια ή μεταδεδομένα όπου χρειάζεται και να μοιραστείτε την κατάλληλη έκδοση με κάθε ομάδα.",
+          "Να μετατρέψετε όλα τα έγγραφα σε εικόνες ώστε τα σχόλια να διαβάζονται δυσκολότερα."
+        ],
+        "answer": 2,
+        "explanation": "Τα έγγραφα πρέπει να ελέγχονται πριν από την κοινοποίηση ώστε να μη διαρρεύσουν ακατάλληλα κρυφά σχόλια, αλλαγές παρακολούθησης ή μεταδεδομένα."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. During an online workshop, one participant dominates the discussion using the chat and microphone continuously, making it difficult for others to contribute.",
+        "question": "What is the best digital communication response?",
+        "options": [
+          "Privately or publicly remind participants of the speaking rules and moderate turn-taking more actively.",
+          "Mute all participants except the speaker for the rest of the session.",
+          "End the workshop early to avoid conflict.",
+          "Ignore the issue because active participation is positive."
+        ],
+        "answer": 0,
+        "explanation": "Moderation and clear communication rules help keep digital meetings inclusive and balanced."
+      },
+      "el": {
+        "passage": "7. Κατά τη διάρκεια ενός διαδικτυακού εργαστηρίου, ένας συμμετέχων κυριαρχεί στη συζήτηση χρησιμοποιώντας συνεχώς το chat και το μικρόφωνο, δυσκολεύοντας τους άλλους να συμβάλουν.",
+        "question": "Ποια είναι η καλύτερη αντίδραση ψηφιακής επικοινωνίας;",
+        "options": [
+          "Να υπενθυμίσετε ιδιωτικά ή δημόσια τους κανόνες ομιλίας και να συντονίσετε πιο ενεργά τη σειρά παρεμβάσεων.",
+          "Να θέσετε όλους τους συμμετέχοντες σε σίγαση εκτός από τον ομιλητή για το υπόλοιπο της συνεδρίας.",
+          "Να τερματίσετε νωρίτερα το εργαστήριο για αποφυγή σύγκρουσης.",
+          "Να αγνοήσετε το ζήτημα επειδή η ενεργή συμμετοχή είναι θετική."
+        ],
+        "answer": 0,
+        "explanation": "Ο συντονισμός και οι σαφείς κανόνες επικοινωνίας βοηθούν ώστε οι ψηφιακές συναντήσεις να παραμένουν ισόρροπες και συμπεριληπτικές."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. A department wants to gather feedback from staff on a new internal process. They plan to send a lengthy email and ask people to reply with comments individually.",
+        "question": "Which digital method is likely to be more efficient and easier to analyse?",
+        "options": [
+          "A structured online form or survey with a mix of closed and open questions.",
+          "A paper questionnaire distributed by post.",
+          "A request for comments only by telephone.",
+          "A long email asking staff to reply in free text."
+        ],
+        "answer": 0,
+        "explanation": "Structured online forms simplify collection, comparison, and analysis of feedback."
+      },
+      "el": {
+        "passage": "8. Μια διεύθυνση θέλει να συλλέξει ανατροφοδότηση από το προσωπικό σχετικά με μια νέα εσωτερική διαδικασία. Σχεδιάζει να στείλει ένα μακροσκελές email και να ζητήσει από τους υπαλλήλους να απαντήσουν ατομικά με σχόλια.",
+        "question": "Ποια ψηφιακή μέθοδος είναι πιθανό να είναι πιο αποδοτική και ευκολότερη στην ανάλυση;",
+        "options": [
+          "Μια δομημένη online φόρμα ή έρευνα με συνδυασμό κλειστών και ανοικτών ερωτήσεων.",
+          "Ένα έντυπο ερωτηματολόγιο που διανέμεται ταχυδρομικά.",
+          "Ένα αίτημα για σχόλια μόνο τηλεφωνικά.",
+          "Ένα μακρύ email που ζητά ελεύθερο κείμενο ως απάντηση."
+        ],
+        "answer": 0,
+        "explanation": "Οι δομημένες online φόρμες απλοποιούν τη συλλογή, τη σύγκριση και την ανάλυση της ανατροφοδότησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. You are adapting a policy factsheet for publication on the web. The print version contains dense paragraphs, footnotes, and a complex table spanning two pages.",
+        "question": "What is the most appropriate digital content adaptation?",
+        "options": [
+          "Upload the print PDF only, because the original layout should be preserved.",
+          "Break the content into shorter sections, use headings and bullet points, and simplify or reformat the table for screen reading.",
+          "Convert the whole factsheet into one large image.",
+          "Remove all structure so the page looks less formal."
+        ],
+        "answer": 1,
+        "explanation": "Content for the web should be scannable, structured, and readable on screen rather than copied unchanged from print."
+      },
+      "el": {
+        "passage": "9. Προσαρμόζετε ένα ενημερωτικό δελτίο πολιτικής για δημοσίευση στο διαδίκτυο. Η έντυπη έκδοση περιέχει πυκνές παραγράφους, υποσημειώσεις και έναν σύνθετο πίνακα δύο σελίδων.",
+        "question": "Ποια είναι η καταλληλότερη προσαρμογή ψηφιακού περιεχομένου;",
+        "options": [
+          "Να ανεβάσετε μόνο το έντυπο PDF, επειδή πρέπει να διατηρηθεί η αρχική διάταξη.",
+          "Να χωρίσετε το περιεχόμενο σε συντομότερες ενότητες, να χρησιμοποιήσετε επικεφαλίδες και κουκκίδες, και να απλοποιήσετε ή αναμορφώσετε τον πίνακα για ανάγνωση στην οθόνη.",
+          "Να μετατρέψετε ολόκληρο το δελτίο σε μία μεγάλη εικόνα.",
+          "Να αφαιρέσετε κάθε δομή ώστε η σελίδα να φαίνεται λιγότερο επίσημη."
+        ],
+        "answer": 1,
+        "explanation": "Το περιεχόμενο για το διαδίκτυο πρέπει να είναι ευανάγνωστο στην οθόνη, δομημένο και εύκολο στη σάρωση, όχι απλώς αντιγραφή της έντυπης μορφής."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. You are preparing slides for a public presentation. One slide contains six colours, three different fonts, and large blocks of text copied from a report.",
+        "question": "Which revision would most improve the slide?",
+        "options": [
+          "Add more colours so each point stands out separately.",
+          "Keep the content unchanged because the information is complete.",
+          "Use a simpler layout with fewer colours, consistent fonts, and concise text highlighting the key message.",
+          "Replace all text with decorative icons only."
+        ],
+        "answer": 2,
+        "explanation": "Clear, consistent, and focused slide design improves readability and audience understanding."
+      },
+      "el": {
+        "passage": "10. Ετοιμάζετε διαφάνειες για δημόσια παρουσίαση. Μία διαφάνεια περιέχει έξι χρώματα, τρεις διαφορετικές γραμματοσειρές και μεγάλα τμήματα κειμένου αντιγραμμένα από έκθεση.",
+        "question": "Ποια αναθεώρηση θα βελτίωνε περισσότερο τη διαφάνεια;",
+        "options": [
+          "Να προσθέσετε περισσότερα χρώματα ώστε κάθε σημείο να ξεχωρίζει χωριστά.",
+          "Να διατηρήσετε το περιεχόμενο ως έχει, επειδή οι πληροφορίες είναι πλήρεις.",
+          "Να χρησιμοποιήσετε απλούστερη διάταξη με λιγότερα χρώματα, συνεπείς γραμματοσειρές και σύντομο κείμενο που αναδεικνύει το βασικό μήνυμα.",
+          "Να αντικαταστήσετε όλο το κείμενο μόνο με διακοσμητικά εικονίδια."
+        ],
+        "answer": 2,
+        "explanation": "Η σαφής, συνεπής και στοχευμένη σχεδίαση διαφανειών βελτιώνει την αναγνωσιμότητα και την κατανόηση από το κοινό."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. You want to reuse a photo from an external website in a brochure. The page does not mention copyright, licensing terms, or reuse permissions.",
+        "question": "What is the safest course of action?",
+        "options": [
+          "Use the photo if it has already been widely shared online.",
+          "Assume it is free to use for non-commercial public sector work.",
+          "Edit the photo slightly so it counts as new content.",
+          "Do not use it unless you obtain permission or verify a licence that allows reuse."
+        ],
+        "answer": 3,
+        "explanation": "If reuse rights are unclear, permission or a verified licence is needed before using the content."
+      },
+      "el": {
+        "passage": "11. Θέλετε να επαναχρησιμοποιήσετε μια φωτογραφία από εξωτερικό ιστότοπο σε φυλλάδιο. Η σελίδα δεν αναφέρει πνευματικά δικαιώματα, όρους άδειας ή δικαιώματα επαναχρησιμοποίησης.",
+        "question": "Ποια είναι η ασφαλέστερη επιλογή;",
+        "options": [
+          "Να χρησιμοποιήσετε τη φωτογραφία αν έχει ήδη διαδοθεί ευρέως στο διαδίκτυο.",
+          "Να θεωρήσετε ότι είναι ελεύθερη για χρήση σε μη εμπορική εργασία του δημόσιου τομέα.",
+          "Να επεξεργαστείτε ελαφρώς τη φωτογραφία ώστε να θεωρείται νέο περιεχόμενο.",
+          "Να μην τη χρησιμοποιήσετε εκτός αν λάβετε άδεια ή επαληθεύσετε άδεια που επιτρέπει την επαναχρησιμοποίηση."
+        ],
+        "answer": 3,
+        "explanation": "Αν τα δικαιώματα επαναχρησιμοποίησης δεν είναι σαφή, απαιτείται άδεια ή επαληθευμένη άδεια χρήσης πριν από τη χρήση του περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. Your team regularly publishes meeting minutes as PDFs. Some users complain that the documents are difficult to navigate because they have no headings, bookmarks, or searchable text.",
+        "question": "What improvement would address this best?",
+        "options": [
+          "Create accessible PDFs with proper heading structure, bookmarks, and selectable text.",
+          "Increase the font size only.",
+          "Scan printed pages back into PDF format to standardise the appearance.",
+          "Lock the PDF so users cannot copy text from it."
+        ],
+        "answer": 0,
+        "explanation": "Accessible PDFs need structure and searchable text to support usability and navigation."
+      },
+      "el": {
+        "passage": "12. Η ομάδα σας δημοσιεύει τακτικά πρακτικά συναντήσεων σε PDF. Ορισμένοι χρήστες διαμαρτύρονται ότι τα έγγραφα είναι δύσκολα στην πλοήγηση επειδή δεν έχουν επικεφαλίδες, σελιδοδείκτες ή αναζητήσιμο κείμενο.",
+        "question": "Ποια βελτίωση θα αντιμετώπιζε καλύτερα αυτό το πρόβλημα;",
+        "options": [
+          "Να δημιουργείτε προσβάσιμα PDF με σωστή δομή επικεφαλίδων, σελιδοδείκτες και επιλέξιμο κείμενο.",
+          "Να αυξήσετε μόνο το μέγεθος γραμματοσειράς.",
+          "Να σαρώσετε ξανά τις εκτυπωμένες σελίδες σε μορφή PDF για ομοιόμορφη εμφάνιση.",
+          "Να κλειδώσετε το PDF ώστε οι χρήστες να μην μπορούν να αντιγράψουν κείμενο."
+        ],
+        "answer": 0,
+        "explanation": "Τα προσβάσιμα PDF χρειάζονται δομή και αναζητήσιμο κείμενο ώστε να υποστηρίζουν τη χρηστικότητα και την πλοήγηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. You receive a message through a professional networking platform from someone claiming to be a recruiter asking for your work email, phone number, and a copy of your staff ID card.",
+        "question": "Which response is most appropriate?",
+        "options": [
+          "Provide the requested information because the contact seems professional.",
+          "Share only your work email and send the ID later if needed.",
+          "Verify the person's identity through official channels before sharing any personal or professional data.",
+          "Post the message in a group chat and ask colleagues to guess whether it is real."
+        ],
+        "answer": 2,
+        "explanation": "Requests for personal or professional data should be verified through trusted channels before any information is shared."
+      },
+      "el": {
+        "passage": "13. Λαμβάνετε μήνυμα μέσω επαγγελματικής πλατφόρμας δικτύωσης από άτομο που ισχυρίζεται ότι είναι υπεύθυνος προσλήψεων και ζητά το επαγγελματικό σας email, τον αριθμό τηλεφώνου σας και αντίγραφο της υπηρεσιακής σας ταυτότητας.",
+        "question": "Ποια απάντηση είναι η καταλληλότερη;",
+        "options": [
+          "Να παράσχετε τα ζητούμενα στοιχεία επειδή η επαφή φαίνεται επαγγελματική.",
+          "Να μοιραστείτε μόνο το επαγγελματικό email και να στείλετε την ταυτότητα αργότερα αν χρειαστεί.",
+          "Να επαληθεύσετε την ταυτότητα του ατόμου μέσω επίσημων καναλιών πριν μοιραστείτε προσωπικά ή επαγγελματικά δεδομένα.",
+          "Να δημοσιεύσετε το μήνυμα σε ομαδική συνομιλία και να ζητήσετε από συναδέλφους να μαντέψουν αν είναι αληθινό."
+        ],
+        "answer": 2,
+        "explanation": "Αιτήματα για προσωπικά ή επαγγελματικά δεδομένα πρέπει να επαληθεύονται μέσω αξιόπιστων καναλιών πριν κοινοποιηθεί οποιαδήποτε πληροφορία."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. You are leaving your desk for a short meeting in another office. Confidential documents are open on your screen and several visitors are walking through the corridor.",
+        "question": "What should you do?",
+        "options": [
+          "Leave the screen open if you will return within five minutes.",
+          "Minimise the windows so the content is less visible.",
+          "Ask a nearby colleague to watch your screen.",
+          "Lock your computer before leaving your desk."
+        ],
+        "answer": 3,
+        "explanation": "Locking the device is the standard and safest way to protect on-screen confidential information."
+      },
+      "el": {
+        "passage": "14. Φεύγετε από το γραφείο σας για μια σύντομη συνάντηση σε άλλο γραφείο. Εμπιστευτικά έγγραφα είναι ανοιχτά στην οθόνη σας και αρκετοί επισκέπτες περνούν από τον διάδρομο.",
+        "question": "Τι πρέπει να κάνετε;",
+        "options": [
+          "Να αφήσετε την οθόνη ανοιχτή αν θα επιστρέψετε μέσα σε πέντε λεπτά.",
+          "Να ελαχιστοποιήσετε τα παράθυρα ώστε το περιεχόμενο να φαίνεται λιγότερο.",
+          "Να ζητήσετε από κοντινό συνάδελφο να προσέχει την οθόνη σας.",
+          "Να κλειδώσετε τον υπολογιστή σας πριν φύγετε από το γραφείο."
+        ],
+        "answer": 3,
+        "explanation": "Το κλείδωμα της συσκευής είναι ο τυπικός και ασφαλέστερος τρόπος προστασίας εμπιστευτικών πληροφοριών στην οθόνη."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. A colleague wants to install a free file-conversion tool from an unknown website because the official software does not support a specific format.",
+        "question": "What is the best response?",
+        "options": [
+          "Advise using the tool immediately if it solves the problem quickly.",
+          "Suggest checking first with IT or approved software repositories before installing unverified software.",
+          "Install it on a shared office computer so others can benefit too.",
+          "Bypass security warnings if the website looks modern."
+        ],
+        "answer": 1,
+        "explanation": "Unknown software may create security risks, so installation should follow approved channels or IT guidance."
+      },
+      "el": {
+        "passage": "15. Ένας συνάδελφος θέλει να εγκαταστήσει ένα δωρεάν εργαλείο μετατροπής αρχείων από άγνωστο ιστότοπο, επειδή το επίσημο λογισμικό δεν υποστηρίζει μια συγκεκριμένη μορφή.",
+        "question": "Ποια είναι η καλύτερη αντίδραση;",
+        "options": [
+          "Να προτείνετε τη χρήση του εργαλείου αμέσως αν λύνει γρήγορα το πρόβλημα.",
+          "Να προτείνετε πρώτα έλεγχο με το IT ή με εγκεκριμένα αποθετήρια λογισμικού πριν εγκατασταθεί μη επαληθευμένο λογισμικό.",
+          "Να το εγκαταστήσετε σε κοινόχρηστο υπολογιστή γραφείου ώστε να ωφεληθούν και άλλοι.",
+          "Να παρακάμψετε τις προειδοποιήσεις ασφαλείας αν ο ιστότοπος φαίνεται σύγχρονος."
+        ],
+        "answer": 1,
+        "explanation": "Άγνωστο λογισμικό μπορεί να δημιουργήσει κινδύνους ασφάλειας, άρα η εγκατάσταση πρέπει να γίνεται μέσω εγκεκριμένων καναλιών ή με καθοδήγηση IT."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. You spend long hours working from a laptop at home while sitting at the kitchen table. Recently you have developed neck and shoulder discomfort.",
+        "question": "Which change would most likely improve the situation?",
+        "options": [
+          "Use the laptop in bed to reduce table strain.",
+          "Work longer without breaks so you finish earlier.",
+          "Set up a more ergonomic workstation, for example by raising the screen and using an external keyboard if possible.",
+          "Lower the screen brightness to solve the posture issue."
+        ],
+        "answer": 2,
+        "explanation": "An ergonomic workstation setup helps reduce physical strain during prolonged digital work."
+      },
+      "el": {
+        "passage": "16. Περνάτε πολλές ώρες δουλεύοντας από laptop στο σπίτι, καθισμένος στο τραπέζι της κουζίνας. Πρόσφατα εμφανίσατε ενόχληση στον αυχένα και στους ώμους.",
+        "question": "Ποια αλλαγή είναι πιθανότερο να βελτιώσει την κατάσταση;",
+        "options": [
+          "Να χρησιμοποιείτε το laptop στο κρεβάτι για να μειωθεί η καταπόνηση του τραπεζιού.",
+          "Να εργάζεστε περισσότερη ώρα χωρίς διαλείμματα ώστε να τελειώνετε νωρίτερα.",
+          "Να οργανώσετε πιο εργονομικό σταθμό εργασίας, π.χ. υψώνοντας την οθόνη και χρησιμοποιώντας εξωτερικό πληκτρολόγιο αν είναι δυνατόν.",
+          "Να μειώσετε τη φωτεινότητα της οθόνης για να λυθεί το πρόβλημα στάσης."
+        ],
+        "answer": 2,
+        "explanation": "Η εργονομική οργάνωση του σταθμού εργασίας βοηθά στη μείωση της σωματικής καταπόνησης κατά την παρατεταμένη ψηφιακή εργασία."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. A colleague says they are 'bad with digital tools' and avoids using the shared task-management platform, which causes delays in team coordination.",
+        "question": "What is the most constructive response?",
+        "options": [
+          "Take over all their digital tasks permanently.",
+          "Suggest short targeted training or peer support focused on the specific platform tasks they need most often.",
+          "Exclude them from collaborative projects.",
+          "Tell them digital tools are unavoidable and they should simply adapt."
+        ],
+        "answer": 1,
+        "explanation": "Targeted support around real tasks is more effective than general criticism or permanent workaround arrangements."
+      },
+      "el": {
+        "passage": "17. Ένας συνάδελφος λέει ότι 'δεν τα πάει καλά με τα ψηφιακά εργαλεία' και αποφεύγει να χρησιμοποιεί την κοινή πλατφόρμα διαχείρισης εργασιών, προκαλώντας καθυστερήσεις στον συντονισμό της ομάδας.",
+        "question": "Ποια είναι η πιο εποικοδομητική αντίδραση;",
+        "options": [
+          "Να αναλάβετε μόνιμα όλες τις ψηφιακές του εργασίες.",
+          "Να προτείνετε σύντομη στοχευμένη εκπαίδευση ή υποστήριξη από συνάδελφο, εστιασμένη στις συγκεκριμένες λειτουργίες της πλατφόρμας που χρειάζεται συχνότερα.",
+          "Να τον αποκλείσετε από συνεργατικά έργα.",
+          "Να του πείτε ότι τα ψηφιακά εργαλεία είναι αναπόφευκτα και πρέπει απλώς να προσαρμοστεί."
+        ],
+        "answer": 1,
+        "explanation": "Η στοχευμένη υποστήριξη πάνω σε πραγματικές εργασίες είναι αποτελεσματικότερη από τη γενική κριτική ή τις μόνιμες παρακάμψεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. You often receive recurring questions from the public that require copying and pasting the same paragraphs into email replies.",
+        "question": "Which simple digital solution could save time while maintaining consistency?",
+        "options": [
+          "Prepare approved reusable response templates for the most common questions.",
+          "Type each reply from scratch to keep it personal.",
+          "Reply with only a link to the homepage, regardless of the question.",
+          "Delay replies until several similar messages accumulate."
+        ],
+        "answer": 0,
+        "explanation": "Reusable templates increase efficiency and consistency while still allowing adaptation if needed."
+      },
+      "el": {
+        "passage": "18. Λαμβάνετε συχνά επαναλαμβανόμενες ερωτήσεις από το κοινό που απαιτούν αντιγραφή και επικόλληση των ίδιων παραγράφων σε απαντητικά email.",
+        "question": "Ποια απλή ψηφιακή λύση θα μπορούσε να εξοικονομήσει χρόνο διατηρώντας παράλληλα τη συνέπεια;",
+        "options": [
+          "Να ετοιμάσετε εγκεκριμένα επαναχρησιμοποιήσιμα πρότυπα απαντήσεων για τις συχνότερες ερωτήσεις.",
+          "Να γράφετε κάθε απάντηση από την αρχή για να είναι προσωπική.",
+          "Να απαντάτε μόνο με έναν σύνδεσμο προς την αρχική σελίδα, ανεξαρτήτως ερώτησης.",
+          "Να καθυστερείτε τις απαντήσεις μέχρι να συσσωρευτούν αρκετά παρόμοια μηνύματα."
+        ],
+        "answer": 0,
+        "explanation": "Τα επαναχρησιμοποιήσιμα πρότυπα αυξάνουν την αποδοτικότητα και τη συνέπεια, επιτρέποντας ταυτόχρονα προσαρμογές αν χρειάζεται."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. Your team needs to choose between two digital tools for managing project deadlines. One has many advanced features but is complex; the other is simpler and covers the core needs of the team.",
+        "question": "Which is the better choice in most administrative contexts?",
+        "options": [
+          "Always choose the most advanced tool because it is more future-proof.",
+          "Choose the tool that best matches the team's actual needs and capacity to use it consistently.",
+          "Pick the tool preferred by the youngest colleague.",
+          "Use both tools in parallel to keep options open."
+        ],
+        "answer": 1,
+        "explanation": "A tool is effective only if it is fit for purpose and realistically usable by the team."
+      },
+      "el": {
+        "passage": "19. Η ομάδα σας πρέπει να επιλέξει μεταξύ δύο ψηφιακών εργαλείων για τη διαχείριση προθεσμιών έργων. Το ένα έχει πολλές προηγμένες λειτουργίες αλλά είναι σύνθετο· το άλλο είναι απλούστερο και καλύπτει τις βασικές ανάγκες της ομάδας.",
+        "question": "Ποια είναι η καλύτερη επιλογή στις περισσότερες διοικητικές περιστάσεις;",
+        "options": [
+          "Να επιλέγετε πάντα το πιο προηγμένο εργαλείο, επειδή είναι πιο 'μελλοντοστραφές'.",
+          "Να επιλέξετε το εργαλείο που ανταποκρίνεται καλύτερα στις πραγματικές ανάγκες της ομάδας και στην ικανότητά της να το χρησιμοποιεί με συνέπεια.",
+          "Να επιλέξετε το εργαλείο που προτιμά ο νεότερος συνάδελφος.",
+          "Να χρησιμοποιείτε και τα δύο εργαλεία παράλληλα για να έχετε περισσότερες επιλογές."
+        ],
+        "answer": 1,
+        "explanation": "Ένα εργαλείο είναι αποτελεσματικό μόνο αν είναι κατάλληλο για τον σκοπό και ρεαλιστικά χρησιμοποιήσιμο από την ομάδα."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. While filling out an online form, you repeatedly receive an error message saying a mandatory field is incomplete, even though all visible fields appear filled in.",
+        "question": "What is the most sensible next step?",
+        "options": [
+          "Restart the computer immediately without checking anything else.",
+          "Submit the form repeatedly until it works.",
+          "Look for hidden validation messages, check the required format of the fields, and review any sections marked with an asterisk.",
+          "Abandon the form and send a paper letter instead."
+        ],
+        "answer": 2,
+        "explanation": "Systematic checking of required fields and formatting is a practical first step in solving common digital form errors."
+      },
+      "el": {
+        "passage": "20. Κατά τη συμπλήρωση μιας online φόρμας, λαμβάνετε επανειλημμένα μήνυμα σφάλματος ότι ένα υποχρεωτικό πεδίο είναι ελλιπές, παρότι όλα τα ορατά πεδία φαίνονται συμπληρωμένα.",
+        "question": "Ποιο είναι το πιο λογικό επόμενο βήμα;",
+        "options": [
+          "Να κάνετε αμέσως επανεκκίνηση του υπολογιστή χωρίς να ελέγξετε κάτι άλλο.",
+          "Να υποβάλετε τη φόρμα επανειλημμένα μέχρι να λειτουργήσει.",
+          "Να αναζητήσετε κρυφά μηνύματα επικύρωσης, να ελέγξετε την απαιτούμενη μορφή των πεδίων και να επανεξετάσετε τις ενότητες με αστερίσκο.",
+          "Να εγκαταλείψετε τη φόρμα και να στείλετε έντυπη επιστολή."
+        ],
+        "answer": 2,
+        "explanation": "Ο συστηματικός έλεγχος υποχρεωτικών πεδίων και μορφοποίησης είναι πρακτικό πρώτο βήμα για την επίλυση συνηθισμένων σφαλμάτων σε online φόρμες."
+      }
+    }
+  ]
 }
