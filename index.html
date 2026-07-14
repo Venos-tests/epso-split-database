@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>EPSO UNLOCKED - Official Portal</title>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <style>
         :root { 
             --eu-blue: #003399; 
@@ -14,6 +15,7 @@
         .view { display: none; background: white; padding: 45px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,51,153,0.1); border-top: 5px solid var(--eu-blue); min-height: 800px; box-sizing: border-box; }
         #menu-view { display: block; min-height: 800px; }
         .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--eu-gold); padding-bottom: 15px; margin-bottom: 30px; }
+        .header-buttons { display: flex; gap: 10px; }
         .section-container { margin-bottom: 30px; }
         .pack-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; margin-top: 15px; }
         .pack-card { background: white; padding: 25px; border-radius: 10px; border: 1px solid #d1d9e6; text-align: center; font-weight: 600; cursor: pointer; transition: 0.3s; color: var(--eu-blue); box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
@@ -28,6 +30,7 @@
         .btn { padding: 12px 25px; border-radius: 6px; border: none; cursor: pointer; font-weight: bold; transition: 0.3s; text-transform: uppercase; }
         .btn-primary { background: var(--eu-blue); color: white; }
         .btn-gold { background: var(--eu-gold); color: #003399; }
+        .btn-small { padding: 6px 14px; font-size: 0.75em; border-radius: 4px; }
         #mode-modal { display: none; position: fixed; inset: 0; background: rgba(0,51,153,0.4); backdrop-filter: blur(5px); align-items: center; justify-content: center; z-index: 15000; }
         .modal-content { background: white; padding: 45px; border-radius: 20px; text-align: center; width: 400px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
         #timer-box { position: fixed; top: 20px; right: 20px; background: var(--eu-blue); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: none; border-bottom: 3px solid var(--eu-gold); z-index: 1001; }
@@ -35,7 +38,7 @@
         .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; }
         .hint-divider { border: none; border-top: 1px solid #eee; margin: 8px 0; }
 
-        /* ── Exam review table ── */
+        /* ── Exam review / performance / admin tables ── */
         .review-table { width: 100%; border-collapse: collapse; margin-top: 25px; font-size: 0.95em; text-align: left; }
         .review-table th { background: var(--eu-blue); color: white; padding: 10px 14px; }
         .review-table td { padding: 10px 14px; border-bottom: 1px solid #e8edf5; vertical-align: top; }
@@ -44,6 +47,18 @@
         .review-table .badge-correct { color: #155724; font-weight: bold; }
         .review-table .badge-wrong   { color: #721c24; font-weight: bold; }
         .exp-cell { font-size: 0.88em; color: #444; line-height: 1.5; }
+        .perf-empty { text-align: center; color: #888; padding: 60px 20px; font-style: italic; }
+
+        /* ── Admin ── */
+        #admin-link { text-align: center; font-size: 0.7em; color: #b8c2d4; margin-top: 25px; cursor: pointer; user-select: none; }
+        #admin-link:hover { color: var(--eu-blue); }
+        .admin-section { margin-bottom: 40px; }
+        .admin-section h3 { color: var(--eu-blue); border-left: 4px solid var(--eu-gold); padding-left: 12px; }
+        .admin-form-row { display: flex; gap: 10px; margin-top: 15px; flex-wrap: wrap; }
+        .admin-form-row input, .admin-form-row select { padding: 10px; border: 1px solid #d1d9e6; border-radius: 6px; font-size: 0.9em; }
+        .difficulty-hard { color: #721c24; font-weight: bold; }
+        .difficulty-mid { color: #8a6d00; font-weight: bold; }
+        .difficulty-easy { color: #155724; font-weight: bold; }
     </style>
 </head>
 <body>
@@ -53,10 +68,10 @@
 <div id="login-screen">
     <div class="login-box">
         <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 15px;">EUROPEAN PORTAL</div>
-        <p id="hint-el" style="font-size: 0.9em; color: #444; margin: 0 0 6px 0;"></p>
+        <p id="hint-el" style="font-size: 0.9em; color: #444; margin: 0 0 6px 0;">Εισάγετε τον προσωπικό σας 5ψήφιο κωδικό πρόσβασης</p>
         <hr class="hint-divider">
-        <p id="hint-en" style="font-size: 0.9em; color: #888; font-style: italic; margin: 6px 0 18px 0;"></p>
-        <input type="text" id="pass-input" autocomplete="off" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box;">
+        <p id="hint-en" style="font-size: 0.9em; color: #888; font-style: italic; margin: 6px 0 18px 0;">Enter your personal 5-digit access code</p>
+        <input type="text" id="pass-input" autocomplete="off" maxlength="5" inputmode="numeric" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box; text-align:center; font-size:1.3em; letter-spacing: 4px;">
         <button onclick="unlock()" class="btn btn-primary" style="width:100%;">Access Portal</button>
         <p id="login-status" style="font-size:0.8em; color:#999; margin-top:10px; min-height:1.2em;"></p>
     </div>
@@ -75,9 +90,13 @@
     <div id="menu-view" class="view" style="display:block;">
         <div class="header">
             <h1 id="txt-main-title" style="color:var(--eu-blue); margin:0;">EPSO Prep Portal</h1>
-            <button class="btn btn-gold" onclick="toggleLanguage()">🇬🇷 EL / 🇬🇧 EN</button>
+            <div class="header-buttons">
+                <button class="btn btn-primary" onclick="showPerformance()" id="btn-performance">📊 My Performance</button>
+                <button class="btn btn-gold" onclick="toggleLanguage()">🇬🇷 EL / 🇬🇧 EN</button>
+            </div>
         </div>
         <div id="all-packs"></div>
+        <div id="admin-link" onclick="openAdminPrompt()">admin</div>
     </div>
 
     <div id="quiz-view" class="view">
@@ -102,19 +121,64 @@
         <div style="text-align:center; margin-bottom:30px;">
             <button onclick="backToMenu()" class="btn btn-primary" id="btn-res-back">Home</button>
         </div>
-        <!-- ── per-question review (exam mode only) ── -->
         <div id="exam-review-container"></div>
+    </div>
+
+    <div id="performance-view" class="view">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+            <button onclick="backToMenu()" class="btn btn-primary" id="btn-perf-back">Back</button>
+            <h2 id="txt-perf-title" style="color:var(--eu-blue); margin:0;">My Performance</h2>
+            <div></div>
+        </div>
+        <div id="performance-container"></div>
+    </div>
+
+    <div id="admin-view" class="view">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+            <button onclick="backToMenu()" class="btn btn-primary">Back</button>
+            <h2 style="color:var(--eu-blue); margin:0;">Admin Dashboard</h2>
+            <div></div>
+        </div>
+
+        <div class="admin-section">
+            <h3>Access Codes</h3>
+            <div class="admin-form-row">
+                <input type="text" id="new-code-input" maxlength="5" placeholder="5-digit code">
+                <input type="text" id="new-code-label" placeholder="Label (e.g. name or batch)">
+                <button class="btn btn-primary btn-small" onclick="addAdminCode()">Add Code</button>
+            </div>
+            <div id="admin-codes-container"><p style="color:#888;">Loading...</p></div>
+        </div>
+
+        <div class="admin-section">
+            <h3>Item Analysis — Question Difficulty</h3>
+            <div class="admin-form-row">
+                <select id="admin-test-select" onchange="loadItemAnalysis(this.value)"></select>
+            </div>
+            <div id="admin-item-container"><p style="color:#888;">Select a test set above.</p></div>
+        </div>
+
+        <div class="admin-section">
+            <h3>Export Data</h3>
+            <div class="admin-form-row">
+                <button class="btn btn-gold btn-small" onclick="exportAttemptsCSV()">Export Attempts CSV</button>
+                <button class="btn btn-gold btn-small" onclick="exportResponsesCSV()">Export Responses CSV</button>
+            </div>
+        </div>
     </div>
 </div>
 
 <script>
     // ============================================================
-    // PASSWORD SETTINGS — only change these 4 lines!
+    // SUPABASE SETTINGS
     // ============================================================
-    var correctPass    = "understand";
-    var pageNumber     = 129;
-    var wordPositionEN = "first";
-    var wordPositionEL = "πρώτη";
+    var SUPABASE_URL = "https://dcrlpkkhyjrhyvtmvibb.supabase.co";
+    var SUPABASE_KEY = "sb_publishable_P4qGSJkBoR_B8RPt5ML6Mw_xZM7HNx6";
+    var supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+    // CHANGE THIS before deploying — this only gates the admin panel UI,
+    // it is not a real server-side secret (see schema.sql notes).
+    var ADMIN_PASSCODE = "epso-admin-2026";
     // ============================================================
 
     var currentLang = 'el';
@@ -128,12 +192,8 @@
     var DATABASE = {};
     var dbLoaded = false;
     var userUnlocked = false;
+    var userCode = null;
 
-    // ─────────────────────────────────────────────────────────────
-    // FIX 1: Normalise answer values to 0-based index.
-    // Some JSON entries store answer as 1-based (e.g. 5 meaning
-    // the 5th option). We detect and convert on load.
-    // ─────────────────────────────────────────────────────────────
     function normaliseAnswers(db) {
         Object.values(db).forEach(function(arr) {
             if (!Array.isArray(arr)) return;
@@ -141,7 +201,6 @@
                 ['en', 'el'].forEach(function(lang) {
                     if (!qObj[lang]) return;
                     var q = qObj[lang];
-                    // If answer >= options.length it must be 1-based — convert.
                     if (q.answer !== undefined && q.options && q.answer >= q.options.length) {
                         q.answer = q.answer - 1;
                     }
@@ -153,8 +212,6 @@
     async function loadDatabase() {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-            // Cache-busting: append current date (YYYYMMDD) so jsDelivr
-            // serves a fresh copy each day, and immediately after a purge.
             var cb = '?v=' + new Date().toISOString().slice(0, 10).replace(/-/g, '');
             var base = "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/";
             var files = [
@@ -168,7 +225,7 @@
                 return fetch(f).then(function(r) { return r.json(); });
             }));
             results.forEach(function(data) { Object.assign(DATABASE, data); });
-            normaliseAnswers(DATABASE); // ← FIX 1 applied here
+            normaliseAnswers(DATABASE);
             dbLoaded = true;
             document.getElementById('login-status').innerText = '';
             if (userUnlocked) enterPortal();
@@ -179,20 +236,47 @@
         }
     }
 
-    function setLoginHints() {
-        document.getElementById('hint-el').innerHTML =
-            'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
-        document.getElementById('hint-en').innerHTML =
-            'Use as password the <strong>' + wordPositionEN + '</strong> word on page <strong>' + pageNumber + '</strong> of the book';
+    async function unlock() {
+        var input = document.getElementById('pass-input').value.trim();
+        var statusEl = document.getElementById('login-status');
+        if (!/^[0-9]{5}$/.test(input)) {
+            statusEl.style.color = '#dc3545';
+            statusEl.innerText = 'Enter a valid 5-digit code / Εισάγετε 5ψήφιο κωδικό';
+            return;
+        }
+        statusEl.style.color = '#999';
+        statusEl.innerText = 'Checking code...';
+        try {
+            var res = await supabaseClient
+                .from('access_codes')
+                .select('code, active')
+                .eq('code', input)
+                .eq('active', true)
+                .maybeSingle();
+            if (res.error) throw res.error;
+            if (res.data) {
+                userCode = input;
+                localStorage.setItem('epso_user_code', userCode);
+                statusEl.innerText = '';
+                if (dbLoaded) { enterPortal(); }
+                else { userUnlocked = true; statusEl.innerText = 'Please wait...'; }
+            } else {
+                statusEl.style.color = '#dc3545';
+                statusEl.innerText = 'Invalid or inactive code / Μη έγκυρος κωδικός';
+            }
+        } catch (e) {
+            console.error('Code check failed:', e);
+            statusEl.style.color = '#dc3545';
+            statusEl.innerText = 'Connection error — please try again.';
+        }
     }
 
-    function unlock() {
-        var userInput = document.getElementById('pass-input').value.trim().toLowerCase();
-        if (userInput === correctPass) {
-            if (dbLoaded) { enterPortal(); }
-            else { userUnlocked = true; document.getElementById('login-status').innerText = 'Please wait...'; }
-        } else {
-            alert('Λάθος λέξη-κλειδί! / Wrong keyword!\nCheck page ' + pageNumber + '.');
+    function tryAutoLogin() {
+        var saved = localStorage.getItem('epso_user_code');
+        if (saved && /^[0-9]{5}$/.test(saved)) {
+            userCode = saved;
+            userUnlocked = true;
+            if (dbLoaded) enterPortal();
         }
     }
 
@@ -214,12 +298,16 @@
         document.getElementById('btn-finish').innerText       = currentLang === 'el' ? 'Τέλος' : 'Finish';
         document.getElementById('txt-result-title').innerText = currentLang === 'el' ? 'Αποτελέσματα' : 'Results';
         document.getElementById('btn-res-back').innerText     = currentLang === 'el' ? 'Αρχική' : 'Home';
+        document.getElementById('btn-performance').innerText  = currentLang === 'el' ? '📊 Οι Επιδόσεις μου' : '📊 My Performance';
+        document.getElementById('txt-perf-title').innerText   = currentLang === 'el' ? 'Οι Επιδόσεις μου' : 'My Performance';
+        document.getElementById('btn-perf-back').innerText    = currentLang === 'el' ? 'Πίσω' : 'Back';
     }
 
     function toggleLanguage() {
         currentLang = (currentLang === 'el') ? 'en' : 'el';
         updateUIStrings();
         if (document.getElementById('quiz-view').style.display === 'block') showQuestion();
+        else if (document.getElementById('performance-view').style.display === 'block') renderPerformance(lastPerfRows || []);
         else renderMenu();
     }
 
@@ -248,7 +336,8 @@
                 + '</div></div>';
         }).join('');
     }
-function openModal(key) { selectedTestKey = key; document.getElementById('mode-modal').style.display = 'flex'; }
+
+    function openModal(key) { selectedTestKey = key; document.getElementById('mode-modal').style.display = 'flex'; }
     function closeModal()   { document.getElementById('mode-modal').style.display = 'none'; }
 
     function startQuiz(mode) {
@@ -258,8 +347,7 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
         currentIndex = 0;
         userAnswers = {};
         closeModal();
-        document.getElementById('menu-view').style.display = 'none';
-        document.getElementById('result-view').style.display = 'none';
+        hideAllViews();
         document.getElementById('quiz-view').style.display = 'block';
         if (currentMode === 'exam') startTimer();
         showQuestion();
@@ -304,14 +392,12 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
                         if (currentMode === 'exam') {
                             if (isSelected) div.classList.add('selected-exam');
                         } else {
-                            // practice: always green on correct, red on wrong selection
                             if (isCorrect) div.classList.add('correct');
                             else if (isSelected) div.classList.add('wrong');
                         }
                     }
                     div.onclick = function() {
                         if (userAnswers[currentIndex] !== undefined) {
-                            // practice: locked after first answer; exam: allow changing
                             if (currentMode === 'practice') return;
                         }
                         userAnswers[currentIndex] = idx;
@@ -369,9 +455,47 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
         return 20 * 60;
     }
 
-    // ─────────────────────────────────────────────────────────────
-    // FIX 2: finishExam — show score PLUS per-question review table
-    // ─────────────────────────────────────────────────────────────
+    function getCategory(key) {
+        if (key.startsWith('verbal'))   return 'Verbal';
+        if (key.startsWith('num'))      return 'Numerical';
+        if (key.startsWith('abstract')) return 'Abstract';
+        if (key.startsWith('eu'))       return 'EU Knowledge';
+        if (key.startsWith('ds'))       return 'Digital Skills';
+        return 'Other';
+    }
+
+    async function saveAttempt(testKey, score, total, mode) {
+        if (!userCode) return;
+        try {
+            var res = await supabaseClient.from('attempts').insert({
+                code: userCode, test_key: testKey, category: getCategory(testKey),
+                score: score, total: total, mode: mode
+            });
+            if (res.error) console.error('Could not save attempt:', res.error);
+        } catch (e) { console.error('Could not save attempt:', e); }
+    }
+
+    // NEW — logs one row per question, used for admin item analysis
+    async function saveResponses(testKey, questions, answers) {
+        if (!userCode) return;
+        try {
+            var rows = questions.map(function(qObj, i) {
+                var correctIdx = qObj[currentLang].answer;
+                var chosenIdx = answers[i] !== undefined ? answers[i] : null;
+                return {
+                    code: userCode,
+                    test_key: testKey,
+                    question_index: i,
+                    chosen_idx: chosenIdx,
+                    correct_idx: correctIdx,
+                    is_correct: chosenIdx === correctIdx
+                };
+            });
+            var res = await supabaseClient.from('responses').insert(rows);
+            if (res.error) console.error('Could not save responses:', res.error);
+        } catch (e) { console.error('Could not save responses:', e); }
+    }
+
     function finishExam() {
         clearInterval(timer);
         var timerBox = document.getElementById('timer-box');
@@ -382,11 +506,13 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
             if (userAnswers[i] === q[currentLang].answer) score++;
         });
 
-        document.getElementById('quiz-view').style.display = 'none';
+        hideAllViews();
         document.getElementById('result-view').style.display = 'block';
         document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
 
-        // Build the per-question review table
+        saveAttempt(selectedTestKey, score, activeQuestions.length, currentMode);
+        saveResponses(selectedTestKey, activeQuestions, userAnswers);
+
         var isEl = currentLang === 'el';
         var reviewHTML = '<table class="review-table"><thead><tr>'
             + '<th>#</th>'
@@ -403,7 +529,7 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
             var isCorrect  = userIdx === correctIdx;
             var rowClass   = isCorrect ? 'row-correct' : 'row-wrong';
             var icon       = isCorrect ? '✅' : '❌';
-            var yourAnswer = userIdx !== undefined ? q.options[userIdx] : (isEl ? '—' : '—');
+            var yourAnswer = userIdx !== undefined ? q.options[userIdx] : '—';
             var correctAnswer = q.options[correctIdx] !== undefined ? q.options[correctIdx] : '?';
 
             reviewHTML += '<tr class="' + rowClass + '">'
@@ -419,20 +545,295 @@ function openModal(key) { selectedTestKey = key; document.getElementById('mode-m
         document.getElementById('exam-review-container').innerHTML = reviewHTML;
     }
 
+    // ─────────────────────────────────────────────────────────────
+    // PERFORMANCE DASHBOARD (per user)
+    // ─────────────────────────────────────────────────────────────
+    var lastPerfRows = null;
+
+    async function showPerformance() {
+        hideAllViews();
+        document.getElementById('performance-view').style.display = 'block';
+        var container = document.getElementById('performance-container');
+        container.innerHTML = '<p style="text-align:center;color:#888;">Loading...</p>';
+        try {
+            var res = await supabaseClient
+                .from('attempts').select('*')
+                .eq('code', userCode)
+                .order('created_at', { ascending: true });
+            if (res.error) throw res.error;
+            lastPerfRows = res.data || [];
+            renderPerformance(lastPerfRows);
+        } catch (e) {
+            console.error('Could not load performance:', e);
+            container.innerHTML = '<p class="perf-empty">Could not load your history. Please try again.</p>';
+        }
+    }
+
+    function renderPerformance(rows) {
+        var isEl = currentLang === 'el';
+        var container = document.getElementById('performance-container');
+
+        if (!rows || rows.length === 0) {
+            container.innerHTML = '<div class="perf-empty">' +
+                (isEl ? 'Δεν έχετε ολοκληρώσει ακόμη κανένα τεστ.' : 'You have not completed any tests yet.') +
+                '</div>';
+            return;
+        }
+
+        var byCategory = {};
+        rows.forEach(function(r) {
+            if (!byCategory[r.category]) byCategory[r.category] = [];
+            byCategory[r.category].push(r);
+        });
+
+        var html = '<table class="review-table"><thead><tr>'
+            + '<th>' + (isEl ? 'Κατηγορία' : 'Category') + '</th>'
+            + '<th>' + (isEl ? 'Προσπάθειες' : 'Attempts') + '</th>'
+            + '<th>' + (isEl ? 'Μ.Ο. %' : 'Avg %') + '</th>'
+            + '<th>' + (isEl ? 'Καλύτερη %' : 'Best %') + '</th>'
+            + '<th>' + (isEl ? 'Τελευταία Προσπάθεια' : 'Last Attempt') + '</th>'
+            + '</tr></thead><tbody>';
+
+        Object.keys(byCategory).sort().forEach(function(cat) {
+            var list = byCategory[cat];
+            var pct = list.map(function(r) { return (r.score / r.total) * 100; });
+            var avg = pct.reduce(function(a, b) { return a + b; }, 0) / pct.length;
+            var best = Math.max.apply(null, pct);
+            var last = list[list.length - 1];
+            var lastDate = new Date(last.created_at).toLocaleDateString();
+            html += '<tr>'
+                + '<td><strong>' + cat + '</strong></td>'
+                + '<td>' + list.length + '</td>'
+                + '<td>' + avg.toFixed(0) + '%</td>'
+                + '<td>' + best.toFixed(0) + '%</td>'
+                + '<td>' + lastDate + ' (' + last.score + '/' + last.total + ', ' + last.mode + ')</td>'
+                + '</tr>';
+        });
+
+        html += '</tbody></table>';
+        container.innerHTML = html;
+    }
+
+    // ─────────────────────────────────────────────────────────────
+    // ADMIN DASHBOARD
+    // ─────────────────────────────────────────────────────────────
+    function openAdminPrompt() {
+        var pass = prompt('Admin passcode:');
+        if (pass === null) return;
+        if (pass === ADMIN_PASSCODE) { showAdminView(); }
+        else { alert('Incorrect passcode.'); }
+    }
+
+    function showAdminView() {
+        hideAllViews();
+        document.getElementById('admin-view').style.display = 'block';
+        loadAdminCodes();
+        populateAdminTestSelect();
+    }
+
+    async function loadAdminCodes() {
+        var container = document.getElementById('admin-codes-container');
+        container.innerHTML = '<p style="color:#888;">Loading...</p>';
+        try {
+            var codesRes = await supabaseClient.from('access_codes').select('*').order('created_at', { ascending: false });
+            var attemptsRes = await supabaseClient.from('attempts').select('code, score, total, created_at');
+            if (codesRes.error) throw codesRes.error;
+            if (attemptsRes.error) throw attemptsRes.error;
+
+            var byCode = {};
+            (attemptsRes.data || []).forEach(function(a) {
+                if (!byCode[a.code]) byCode[a.code] = [];
+                byCode[a.code].push(a);
+            });
+
+            var html = '<table class="review-table"><thead><tr>'
+                + '<th>Code</th><th>Label</th><th>Status</th><th>Attempts</th><th>Avg %</th><th>Last Active</th><th></th>'
+                + '</tr></thead><tbody>';
+
+            (codesRes.data || []).forEach(function(c) {
+                var list = byCode[c.code] || [];
+                var avg = list.length
+                    ? (list.reduce(function(s, a) { return s + (a.score / a.total) * 100; }, 0) / list.length).toFixed(0) + '%'
+                    : '—';
+                var last = list.length
+                    ? new Date(list[list.length - 1].created_at).toLocaleDateString()
+                    : '—';
+                html += '<tr>'
+                    + '<td>' + c.code + '</td>'
+                    + '<td>' + (c.label || '—') + '</td>'
+                    + '<td>' + (c.active ? '<span class="badge-correct">Active</span>' : '<span class="badge-wrong">Inactive</span>') + '</td>'
+                    + '<td>' + list.length + '</td>'
+                    + '<td>' + avg + '</td>'
+                    + '<td>' + last + '</td>'
+                    + '<td><button class="btn btn-small ' + (c.active ? 'btn-primary' : 'btn-gold') + '" onclick="toggleCodeActive(\'' + c.code + '\', ' + c.active + ')">' + (c.active ? 'Deactivate' : 'Activate') + '</button></td>'
+                    + '</tr>';
+            });
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        } catch (e) {
+            console.error('Could not load admin codes:', e);
+            container.innerHTML = '<p class="perf-empty">Could not load codes.</p>';
+        }
+    }
+
+    async function toggleCodeActive(code, currentlyActive) {
+        try {
+            var res = await supabaseClient.from('access_codes').update({ active: !currentlyActive }).eq('code', code);
+            if (res.error) throw res.error;
+            loadAdminCodes();
+        } catch (e) {
+            console.error('Could not toggle code:', e);
+            alert('Could not update that code.');
+        }
+    }
+
+    async function addAdminCode() {
+        var code = document.getElementById('new-code-input').value.trim();
+        var label = document.getElementById('new-code-label').value.trim();
+        if (!/^[0-9]{5}$/.test(code)) { alert('Code must be exactly 5 digits.'); return; }
+        try {
+            var res = await supabaseClient.from('access_codes').insert({ code: code, label: label, active: true });
+            if (res.error) throw res.error;
+            document.getElementById('new-code-input').value = '';
+            document.getElementById('new-code-label').value = '';
+            loadAdminCodes();
+        } catch (e) {
+            console.error('Could not add code:', e);
+            alert('Could not add that code (it may already exist).');
+        }
+    }
+
+    function populateAdminTestSelect() {
+        var select = document.getElementById('admin-test-select');
+        var allKeys = Object.keys(DATABASE).filter(function(k) {
+            return DATABASE[k] && DATABASE[k].length > 0
+                && !(DATABASE[k][0][currentLang] && DATABASE[k][0][currentLang].question.trim() === '1.');
+        });
+        select.innerHTML = '<option value="">-- select a test --</option>' +
+            allKeys.map(function(k) { return '<option value="' + k + '">' + k + '</option>'; }).join('');
+    }
+
+    async function loadItemAnalysis(testKey) {
+        var container = document.getElementById('admin-item-container');
+        if (!testKey) { container.innerHTML = '<p style="color:#888;">Select a test set above.</p>'; return; }
+        container.innerHTML = '<p style="color:#888;">Loading...</p>';
+        try {
+            var res = await supabaseClient.from('responses').select('*').eq('test_key', testKey);
+            if (res.error) throw res.error;
+            var rows = res.data || [];
+
+            var byQuestion = {};
+            rows.forEach(function(r) {
+                if (!byQuestion[r.question_index]) byQuestion[r.question_index] = [];
+                byQuestion[r.question_index].push(r);
+            });
+
+            var questions = DATABASE[testKey];
+            var stats = Object.keys(byQuestion).map(function(idx) {
+                var list = byQuestion[idx];
+                var correctCount = list.filter(function(r) { return r.is_correct; }).length;
+                var pct = (correctCount / list.length) * 100;
+                var qText = questions[idx] ? questions[idx][currentLang].question : '(question text unavailable)';
+                return { idx: parseInt(idx, 10), attempts: list.length, pct: pct, text: qText };
+            }).sort(function(a, b) { return a.pct - b.pct; }); // hardest first
+
+            if (stats.length === 0) {
+                container.innerHTML = '<p class="perf-empty">No attempts recorded yet for this test.</p>';
+                return;
+            }
+
+            var html = '<table class="review-table"><thead><tr>'
+                + '<th>#</th><th>Question</th><th>Attempts</th><th>% Correct</th>'
+                + '</tr></thead><tbody>';
+            stats.forEach(function(s) {
+                var diffClass = s.pct < 50 ? 'difficulty-hard' : (s.pct < 75 ? 'difficulty-mid' : 'difficulty-easy');
+                html += '<tr>'
+                    + '<td>' + (s.idx + 1) + '</td>'
+                    + '<td>' + s.text + '</td>'
+                    + '<td>' + s.attempts + '</td>'
+                    + '<td class="' + diffClass + '">' + s.pct.toFixed(0) + '%</td>'
+                    + '</tr>';
+            });
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        } catch (e) {
+            console.error('Could not load item analysis:', e);
+            container.innerHTML = '<p class="perf-empty">Could not load item analysis.</p>';
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────
+    // CSV EXPORT
+    // ─────────────────────────────────────────────────────────────
+    function toCSV(rows) {
+        if (!rows || rows.length === 0) return '';
+        var headers = Object.keys(rows[0]);
+        var lines = [headers.join(',')];
+        rows.forEach(function(r) {
+            lines.push(headers.map(function(h) {
+                var val = r[h] === null || r[h] === undefined ? '' : String(r[h]).replace(/"/g, '""');
+                return '"' + val + '"';
+            }).join(','));
+        });
+        return lines.join('\n');
+    }
+
+    function downloadCSV(filename, csvString) {
+        var blob = new Blob([csvString], { type: 'text/csv;charset=utf-8;' });
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url; a.download = filename;
+        document.body.appendChild(a); a.click(); document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    async function exportAttemptsCSV() {
+        try {
+            var res = await supabaseClient.from('attempts').select('*').order('created_at', { ascending: true });
+            if (res.error) throw res.error;
+            downloadCSV('epso_attempts.csv', toCSV(res.data));
+        } catch (e) {
+            console.error('Export failed:', e);
+            alert('Could not export attempts.');
+        }
+    }
+
+    async function exportResponsesCSV() {
+        try {
+            var res = await supabaseClient.from('responses').select('*').order('created_at', { ascending: true });
+            if (res.error) throw res.error;
+            downloadCSV('epso_responses.csv', toCSV(res.data));
+        } catch (e) {
+            console.error('Export failed:', e);
+            alert('Could not export responses.');
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────
+    // NAVIGATION HELPERS
+    // ─────────────────────────────────────────────────────────────
+    function hideAllViews() {
+        document.getElementById('menu-view').style.display = 'none';
+        document.getElementById('quiz-view').style.display = 'none';
+        document.getElementById('result-view').style.display = 'none';
+        document.getElementById('performance-view').style.display = 'none';
+        document.getElementById('admin-view').style.display = 'none';
+    }
+
     function backToMenu() {
         clearInterval(timer);
         var timerBox = document.getElementById('timer-box');
         if (timerBox) timerBox.style.display = 'none';
-        document.getElementById('quiz-view').style.display = 'none';
-        document.getElementById('result-view').style.display = 'none';
+        hideAllViews();
         document.getElementById('exam-review-container').innerHTML = '';
         document.getElementById('menu-view').style.display = 'block';
     }
 
     document.addEventListener("DOMContentLoaded", function() {
-        setLoginHints();
         updateUIStrings();
         loadDatabase();
+        tryAutoLogin();
     });
 </script>
 </body>
