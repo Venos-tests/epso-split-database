@@ -209,43 +209,34 @@
         });
     }
 
-async function unlock() {
-        var input = document.getElementById('pass-input').value.trim();
-        var statusEl = document.getElementById('login-status');
-        if (!/^[0-9]{5}$/.test(input)) {
-            statusEl.style.color = '#dc3545';
-            statusEl.innerText = 'Enter a valid 5-digit code / Εισάγετε 5ψήφιο κωδικό';
-            return;
-        }
-        statusEl.style.color = '#999';
-        statusEl.innerText = 'Checking code...';
+    // ─────────────────────────────────────────────────────────────
+    // RESTORED — this was missing from the file you sent, which is
+    // why DOMContentLoaded threw "loadDatabase is not defined" and
+    // dbLoaded stayed false forever, blocking every login attempt
+    // regardless of whether the access code was valid.
+    // ─────────────────────────────────────────────────────────────
+    async function loadDatabase() {
+        document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-            // Μετατρέπουμε ρητά σε string για την αναζήτηση στη βάση
-            var stringCode = String(input);
-
-            var res = await supabaseClient
-                .from('access_codes')
-                .select('code, active')
-                .eq('code', stringCode)
-                .eq('active', true);
-
-            if (res.error) throw res.error;
-
-            // Αν βρέθηκε τουλάχιστον μία εγγραφή με αυτόν τον κωδικό
-            if (res.data && res.data.length > 0) {
-                userCode = stringCode;
-                localStorage.setItem('epso_user_code', userCode);
-                statusEl.innerText = '';
-                if (dbLoaded) { enterPortal(); }
-                else { userUnlocked = true; statusEl.innerText = 'Please wait...'; }
-            } else {
-                statusEl.style.color = '#dc3545';
-                statusEl.innerText = 'Invalid or inactive code / Μη έγκυρος κωδικός';
-            }
-        } catch (e) {
-            console.error('Code check failed:', e);
-            statusEl.style.color = '#dc3545';
-            statusEl.innerText = 'Connection error — please try again.';
+            var files = [
+                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-verbal.json",
+                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-numerical.json",
+                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-abstract.json",
+                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-eu-knowledge.json",
+                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-digital-skills.json"
+            ];
+            var results = await Promise.all(files.map(f => fetch(f).then(r => r.json())));
+            results.forEach(function(data) {
+                Object.assign(DATABASE, data);
+            });
+            normaliseAnswers(DATABASE);
+            dbLoaded = true;
+            document.getElementById('login-status').innerText = '';
+            if (userUnlocked) enterPortal();
+        } catch(e) {
+            document.getElementById('login-status').innerText = 'Could not load. Please refresh.';
+            document.getElementById('login-status').style.color = 'red';
+            console.error("DB load error:", e);
         }
     }
 
