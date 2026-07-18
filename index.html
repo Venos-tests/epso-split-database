@@ -198,6 +198,20 @@
     var userUnlocked = false;
     var userCode = null;
 
+    // A random ID remembered in this browser only, used to tell
+    // "the same device logging in again" apart from "a different
+    // device trying to use the same code."
+    function getDeviceId() {
+        var id = localStorage.getItem('epso_device_id');
+        if (!id) {
+            id = (window.crypto && crypto.randomUUID)
+                ? crypto.randomUUID()
+                : 'dev-' + Math.random().toString(36).slice(2) + Date.now();
+            localStorage.setItem('epso_device_id', id);
+        }
+        return id;
+    }
+
     function normaliseAnswers(db) {
         Object.values(db).forEach(function(arr) {
             if (!Array.isArray(arr)) return;
@@ -252,14 +266,17 @@
         statusEl.style.color = '#999';
         statusEl.innerText = 'Checking code...';
         try {
-            var res = await supabaseClient.rpc('verify_access_code', { p_code: input });
+            var res = await supabaseClient.rpc('login_with_code', { p_code: input, p_device_id: getDeviceId() });
             if (res.error) throw res.error;
-            if (res.data === true) {
+            if (res.data === 'ok') {
                 userCode = input;
                 localStorage.setItem('epso_user_code', userCode);
                 statusEl.innerText = '';
                 if (dbLoaded) { enterPortal(); }
                 else { userUnlocked = true; statusEl.innerText = 'Please wait...'; }
+            } else if (res.data === 'bound_elsewhere') {
+                statusEl.style.color = '#dc3545';
+                statusEl.innerText = 'This code is already in use on another device / Ο κωδικός χρησιμοποιείται ήδη σε άλλη συσκευή';
             } else {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'Invalid or inactive code / Μη έγκυρος κωδικός';
@@ -664,7 +681,7 @@
             });
 
             var html = '<table class="review-table"><thead><tr>'
-                + '<th>Code</th><th>Label</th><th>Status</th><th>Attempts</th><th>Avg %</th><th>Last Active</th><th></th>'
+                + '<th>Code</th><th>Label</th><th>Status</th><th>Device</th><th>Attempts</th><th>Avg %</th><th>Last Active</th><th></th>'
                 + '</tr></thead><tbody>';
 
             (codesRes.data || []).forEach(function(c) {
@@ -675,14 +692,24 @@
                 var last = list.length
                     ? new Date(list[list.length - 1].created_at).toLocaleDateString()
                     : '—';
+                var deviceBadge = c.device_bound
+                    ? '<span class="badge-wrong">Bound</span>'
+                    : '<span class="badge-correct">Free</span>';
+                var resetBtn = c.device_bound
+                    ? '<button class="btn btn-small btn-gold" onclick="resetCodeDevice(\'' + c.code + '\')">Reset Device</button>'
+                    : '';
                 html += '<tr>'
                     + '<td>' + c.code + '</td>'
                     + '<td>' + (c.label || '—') + '</td>'
                     + '<td>' + (c.active ? '<span class="badge-correct">Active</span>' : '<span class="badge-wrong">Inactive</span>') + '</td>'
+                    + '<td>' + deviceBadge + '</td>'
                     + '<td>' + list.length + '</td>'
                     + '<td>' + avg + '</td>'
                     + '<td>' + last + '</td>'
-                    + '<td><button class="btn btn-small ' + (c.active ? 'btn-primary' : 'btn-gold') + '" onclick="toggleCodeActive(\'' + c.code + '\', ' + c.active + ')">' + (c.active ? 'Deactivate' : 'Activate') + '</button></td>'
+                    + '<td style="white-space:nowrap;">'
+                    + '<button class="btn btn-small ' + (c.active ? 'btn-primary' : 'btn-gold') + '" onclick="toggleCodeActive(\'' + c.code + '\', ' + c.active + ')">' + (c.active ? 'Deactivate' : 'Activate') + '</button> '
+                    + resetBtn
+                    + '</td>'
                     + '</tr>';
             });
 
@@ -704,6 +731,20 @@
         } catch (e) {
             console.error('Could not toggle code:', e);
             alert('Could not update that code.');
+        }
+    }
+
+    async function resetCodeDevice(code) {
+        if (!confirm('Free this code so it can be used on a new device? The current device will need to log in again too.')) return;
+        try {
+            var res = await supabaseClient.rpc('admin_reset_device', {
+                p_admin_passcode: adminPasscode, p_code: code
+            });
+            if (res.error) throw res.error;
+            loadAdminCodes();
+        } catch (e) {
+            console.error('Could not reset device:', e);
+            alert('Could not reset that code.');
         }
     }
 
