@@ -176,9 +176,13 @@
     var SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjcmxwa2toeWpyaHl2dG12aWJiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQwMDc1NjEsImV4cCI6MjA5OTU4MzU2MX0.EQEkt2pbE6BoEQ5CD8hUV0GuPWrS4O8C37lxcMutQQ4";
     var supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
-    // CHANGE THIS before deploying — this only gates the admin panel UI,
-    // it is not a real server-side secret (see schema.sql notes).
-    var ADMIN_PASSCODE = "epso-admin-2026";
+    // The admin passcode itself now lives ONLY in the database
+    // (hashed, in admin_secrets). This variable just remembers
+    // what you typed for this browser session, so the admin
+    // panel's buttons can pass it along with each action — the
+    // database re-checks it every single time, so there's no
+    // separate "gate" that could be bypassed.
+    var adminPasscode = null;
     // ============================================================
 
     var currentLang = 'el';
@@ -209,12 +213,6 @@
         });
     }
 
-    // ─────────────────────────────────────────────────────────────
-    // RESTORED — this was missing from the file you sent, which is
-    // why DOMContentLoaded threw "loadDatabase is not defined" and
-    // dbLoaded stayed false forever, blocking every login attempt
-    // regardless of whether the access code was valid.
-    // ─────────────────────────────────────────────────────────────
     async function loadDatabase() {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
@@ -240,6 +238,9 @@
         }
     }
 
+    // ── Login: now calls the verify_access_code() function instead
+    // of querying the table directly. The function only ever
+    // returns true or false — it never exposes the row itself.
     async function unlock() {
         var input = document.getElementById('pass-input').value.trim();
         var statusEl = document.getElementById('login-status');
@@ -251,14 +252,9 @@
         statusEl.style.color = '#999';
         statusEl.innerText = 'Checking code...';
         try {
-            var res = await supabaseClient
-                .from('access_codes')
-                .select('code, active')
-                .eq('code', input)
-                .eq('active', true)
-                .maybeSingle();
+            var res = await supabaseClient.rpc('verify_access_code', { p_code: input });
             if (res.error) throw res.error;
-            if (res.data) {
+            if (res.data === true) {
                 userCode = input;
                 localStorage.setItem('epso_user_code', userCode);
                 statusEl.innerText = '';
@@ -468,18 +464,20 @@
         return 'Other';
     }
 
+    // ── Recording results: now goes through record_attempt(),
+    // which checks the code is valid before writing anything.
     async function saveAttempt(testKey, score, total, mode) {
         if (!userCode) return;
         try {
-            var res = await supabaseClient.from('attempts').insert({
-                code: userCode, test_key: testKey, category: getCategory(testKey),
-                score: score, total: total, mode: mode
+            var res = await supabaseClient.rpc('record_attempt', {
+                p_code: userCode, p_test_key: testKey, p_category: getCategory(testKey),
+                p_score: score, p_total: total, p_mode: mode
             });
             if (res.error) console.error('Could not save attempt:', res.error);
         } catch (e) { console.error('Could not save attempt:', e); }
     }
 
-    // NEW — logs one row per question, used for admin item analysis
+    // ── Per-question responses: sent as one batch to record_responses().
     async function saveResponses(testKey, questions, answers) {
         if (!userCode) return;
         try {
@@ -487,15 +485,15 @@
                 var correctIdx = qObj[currentLang].answer;
                 var chosenIdx = answers[i] !== undefined ? answers[i] : null;
                 return {
-                    code: userCode,
-                    test_key: testKey,
                     question_index: i,
                     chosen_idx: chosenIdx,
                     correct_idx: correctIdx,
                     is_correct: chosenIdx === correctIdx
                 };
             });
-            var res = await supabaseClient.from('responses').insert(rows);
+            var res = await supabaseClient.rpc('record_responses', {
+                p_code: userCode, p_test_key: testKey, p_rows: rows
+            });
             if (res.error) console.error('Could not save responses:', res.error);
         } catch (e) { console.error('Could not save responses:', e); }
     }
@@ -551,6 +549,9 @@
 
     // ─────────────────────────────────────────────────────────────
     // PERFORMANCE DASHBOARD (per user)
+    // ── Now goes through get_my_attempts(), which filters by
+    // your code inside the database — you can only ever see your
+    // own history, never anyone else's.
     // ─────────────────────────────────────────────────────────────
     var lastPerfRows = null;
 
@@ -560,10 +561,7 @@
         var container = document.getElementById('performance-container');
         container.innerHTML = '<p style="text-align:center;color:#888;">Loading...</p>';
         try {
-            var res = await supabaseClient
-                .from('attempts').select('*')
-                .eq('code', userCode)
-                .order('created_at', { ascending: true });
+            var res = await supabaseClient.rpc('get_my_attempts', { p_code: userCode });
             if (res.error) throw res.error;
             lastPerfRows = res.data || [];
             renderPerformance(lastPerfRows);
@@ -620,12 +618,27 @@
 
     // ─────────────────────────────────────────────────────────────
     // ADMIN DASHBOARD
+    // ── The passcode is now checked by the database itself (via
+    // verify_admin / the admin_* functions), not just by this
+    // prompt. We still ask for it here so you don't have to retype
+    // it for every single admin action in the same visit.
     // ─────────────────────────────────────────────────────────────
-    function openAdminPrompt() {
+    async function openAdminPrompt() {
         var pass = prompt('Admin passcode:');
         if (pass === null) return;
-        if (pass === ADMIN_PASSCODE) { showAdminView(); }
-        else { alert('Incorrect passcode.'); }
+        try {
+            var res = await supabaseClient.rpc('verify_admin', { p_passcode: pass });
+            if (res.error) throw res.error;
+            if (res.data === true) {
+                adminPasscode = pass;
+                showAdminView();
+            } else {
+                alert('Incorrect passcode.');
+            }
+        } catch (e) {
+            console.error('Admin check failed:', e);
+            alert('Could not verify passcode — please try again.');
+        }
     }
 
     function showAdminView() {
@@ -639,8 +652,8 @@
         var container = document.getElementById('admin-codes-container');
         container.innerHTML = '<p style="color:#888;">Loading...</p>';
         try {
-            var codesRes = await supabaseClient.from('access_codes').select('*').order('created_at', { ascending: false });
-            var attemptsRes = await supabaseClient.from('attempts').select('code, score, total, created_at');
+            var codesRes = await supabaseClient.rpc('admin_list_codes', { p_admin_passcode: adminPasscode });
+            var attemptsRes = await supabaseClient.rpc('admin_list_attempts', { p_admin_passcode: adminPasscode });
             if (codesRes.error) throw codesRes.error;
             if (attemptsRes.error) throw attemptsRes.error;
 
@@ -683,7 +696,9 @@
 
     async function toggleCodeActive(code, currentlyActive) {
         try {
-            var res = await supabaseClient.from('access_codes').update({ active: !currentlyActive }).eq('code', code);
+            var res = await supabaseClient.rpc('admin_toggle_code', {
+                p_admin_passcode: adminPasscode, p_code: code, p_active: !currentlyActive
+            });
             if (res.error) throw res.error;
             loadAdminCodes();
         } catch (e) {
@@ -697,7 +712,9 @@
         var label = document.getElementById('new-code-label').value.trim();
         if (!/^[0-9]{5}$/.test(code)) { alert('Code must be exactly 5 digits.'); return; }
         try {
-            var res = await supabaseClient.from('access_codes').insert({ code: code, label: label, active: true });
+            var res = await supabaseClient.rpc('admin_add_code', {
+                p_admin_passcode: adminPasscode, p_code: code, p_label: label
+            });
             if (res.error) throw res.error;
             document.getElementById('new-code-input').value = '';
             document.getElementById('new-code-label').value = '';
@@ -723,7 +740,9 @@
         if (!testKey) { container.innerHTML = '<p style="color:#888;">Select a test set above.</p>'; return; }
         container.innerHTML = '<p style="color:#888;">Loading...</p>';
         try {
-            var res = await supabaseClient.from('responses').select('*').eq('test_key', testKey);
+            var res = await supabaseClient.rpc('admin_list_responses', {
+                p_admin_passcode: adminPasscode, p_test_key: testKey
+            });
             if (res.error) throw res.error;
             var rows = res.data || [];
 
@@ -794,7 +813,7 @@
 
     async function exportAttemptsCSV() {
         try {
-            var res = await supabaseClient.from('attempts').select('*').order('created_at', { ascending: true });
+            var res = await supabaseClient.rpc('admin_list_attempts', { p_admin_passcode: adminPasscode });
             if (res.error) throw res.error;
             downloadCSV('epso_attempts.csv', toCSV(res.data));
         } catch (e) {
@@ -803,11 +822,24 @@
         }
     }
 
+    // admin_list_responses is scoped to one test at a time, so we
+    // loop over every real (non-empty) test key and combine the
+    // results into a single CSV.
     async function exportResponsesCSV() {
         try {
-            var res = await supabaseClient.from('responses').select('*').order('created_at', { ascending: true });
-            if (res.error) throw res.error;
-            downloadCSV('epso_responses.csv', toCSV(res.data));
+            var allKeys = Object.keys(DATABASE).filter(function(k) {
+                return DATABASE[k] && DATABASE[k].length > 0
+                    && !(DATABASE[k][0][currentLang] && DATABASE[k][0][currentLang].question.trim() === '1.');
+            });
+            var allRows = [];
+            for (var i = 0; i < allKeys.length; i++) {
+                var res = await supabaseClient.rpc('admin_list_responses', {
+                    p_admin_passcode: adminPasscode, p_test_key: allKeys[i]
+                });
+                if (res.error) throw res.error;
+                allRows = allRows.concat(res.data || []);
+            }
+            downloadCSV('epso_responses.csv', toCSV(allRows));
         } catch (e) {
             console.error('Export failed:', e);
             alert('Could not export responses.');
