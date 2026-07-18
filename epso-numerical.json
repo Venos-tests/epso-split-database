@@ -1912,5 +1912,268 @@
         "explanation": "Ετήσιες μεταβολές: 2021 = +100%· 2022 = −50%· 2023 = +100%· 2024 = −50%. Ο απλός μέσος όρος αυτών των τεσσάρων ποσοστιαίων μεταβολών είναι (100−50+100−50)/4 = 25%, κάτι που παρασύρει σε λανθασμένο συμπέρασμα ότι τα έσοδα αυξήθηκαν σημαντικά κατά μέσο όρο. Ωστόσο, ο CAGR πρέπει να υπολογίζεται μόνο από την αρχική και την τελική τιμή: CAGR = (Έσοδα_2024 / Έσοδα_2020)^(1/4) − 1 = (100/100)^(1/4) − 1 = 0%. Τα έσοδα κατέληξαν ακριβώς εκεί όπου ξεκίνησαν το 2020 — καμία καθαρή ανάπτυξη, παρότι ο μέσος όρος των ετήσιων ποσοστιαίων μεταβολών είναι έντονα θετικός. Αυτό δείχνει γιατί τα ποσοστά δεν μπορούν απλώς να υπολογιστούν ως μέσος όρος."
       }
     }
+  ],
+{
+  "num_8": [
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Population and Annual GDP Growth Rate by Region (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Region</th><th>Population (millions)</th><th>GDP Growth (%)</th></tr></thead><tbody><tr><td><strong>Region A</strong></td><td>10</td><td>3.2</td></tr><tr><td><strong>Region B</strong></td><td>25</td><td>1.8</td></tr><tr><td><strong>Region C</strong></td><td>15</td><td>4.5</td></tr><tr><td><strong>Region D</strong></td><td>5</td><td>-1.0</td></tr></tbody></table>",
+        "question": "1. What is the population-weighted average GDP growth rate across all four regions, rounded to one decimal place?",
+        "options": [
+          "2.5",
+          "2.1",
+          "3.2",
+          "1.8"
+        ],
+        "answer": 0,
+        "explanation": "Weighted average = Σ(population × growth) / Σ(population) = (10×3.2 + 25×1.8 + 15×4.5 + 5×(-1)) / 55 = (32 + 45 + 67.5 − 5) / 55 = 139.5 / 55 ≈ 2.5%. Option B (2.1) is the trap — it is the unweighted simple average of the four rates ((3.2+1.8+4.5−1)/4 = 2.125), which ignores that Region B (the largest population) grew more slowly, pulling the true weighted figure down less than a naive average suggests but still distinct from it. Confusing simple and weighted averages is one of the most common EPSO numerical-reasoning traps."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πληθυσμός και Ετήσιος Ρυθμός Ανάπτυξης ΑΕΠ ανά Περιφέρεια (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Περιφέρεια</th><th>Πληθυσμός (εκατ.)</th><th>Ανάπτυξη ΑΕΠ (%)</th></tr></thead><tbody><tr><td><strong>Περιφέρεια Α</strong></td><td>10</td><td>3,2</td></tr><tr><td><strong>Περιφέρεια Β</strong></td><td>25</td><td>1,8</td></tr><tr><td><strong>Περιφέρεια Γ</strong></td><td>15</td><td>4,5</td></tr><tr><td><strong>Περιφέρεια Δ</strong></td><td>5</td><td>-1,0</td></tr></tbody></table>",
+        "question": "1. Ποιος είναι ο σταθμισμένος ως προς τον πληθυσμό μέσος ρυθμός ανάπτυξης ΑΕΠ και στις τέσσερις περιφέρειες, στρογγυλοποιημένος σε ένα δεκαδικό ψηφίο;",
+        "options": [
+          "2,5",
+          "2,1",
+          "3,2",
+          "1,8"
+        ],
+        "answer": 0,
+        "explanation": "Σταθμισμένος μέσος = Σ(πληθυσμός × ανάπτυξη) / Σ(πληθυσμός) = (10×3,2 + 25×1,8 + 15×4,5 + 5×(-1)) / 55 = 139,5 / 55 ≈ 2,5%. Η επιλογή Β (2,1) είναι η παγίδα — είναι ο απλός (μη σταθμισμένος) μέσος όρος των τεσσάρων ποσοστών ((3,2+1,8+4,5−1)/4 = 2,125), που αγνοεί το γεγονός ότι η Περιφέρεια Β (η μεγαλύτερη σε πληθυσμό) αναπτύχθηκε πιο αργά. Η σύγχυση απλού και σταθμισμένου μέσου όρου είναι μία από τις πιο συνηθισμένες παγίδες στις εξετάσεις EPSO."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Annual Exports of a Member State (€ billion), 2019–2024</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>2019</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>Exports (€bn)</strong></td><td>120</td><td>100</td><td>115</td><td>130</td><td>145</td><td>160</td></tr></tbody></table>",
+        "question": "2. What is the compound annual growth rate (CAGR) of exports between 2019 and 2024, rounded to one decimal place?",
+        "options": [
+          "5.9",
+          "6.7",
+          "8.0",
+          "4.0"
+        ],
+        "answer": 0,
+        "explanation": "CAGR = (End/Start)^(1/n) − 1, where n is the number of years between the two points (5 years, 2019→2024). CAGR = (160/120)^(1/5) − 1 = (1.333)^0.2 − 1 ≈ 0.059, i.e. 5.9%. Option B (6.7) is the trap — it comes from taking the total percentage change ((160−120)/120 = 33.3%) and dividing it linearly by 5 years, which overstates the true compounding rate. CAGR must be calculated geometrically, not by simple division of total growth across the period."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ετήσιες Εξαγωγές Κράτους Μέλους (δισ. €), 2019–2024</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>2019</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>Εξαγωγές (δισ. €)</strong></td><td>120</td><td>100</td><td>115</td><td>130</td><td>145</td><td>160</td></tr></tbody></table>",
+        "question": "2. Ποιος είναι ο μέσος ετήσιος σύνθετος ρυθμός ανάπτυξης (CAGR) των εξαγωγών μεταξύ 2019 και 2024, στρογγυλοποιημένος σε ένα δεκαδικό ψηφίο;",
+        "options": [
+          "5,9",
+          "6,7",
+          "8,0",
+          "4,0"
+        ],
+        "answer": 0,
+        "explanation": "CAGR = (Τελική/Αρχική)^(1/n) − 1, όπου n = 5 έτη. CAGR = (160/120)^(1/5) − 1 ≈ 0,059, δηλαδή 5,9%. Η επιλογή Β (6,7) είναι η παγίδα — προκύπτει αν πάρουμε τη συνολική ποσοστιαία μεταβολή ((160−120)/120 = 33,3%) και τη διαιρέσουμε γραμμικά με τα 5 έτη, κάτι που υπερεκτιμά τον πραγματικό ρυθμό ανατοκισμού. Ο CAGR πρέπει να υπολογίζεται γεωμετρικά, όχι με απλή διαίρεση της συνολικής αύξησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Trade Balances of Two Countries (2024, € million)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Exports (€M)</th><th>Imports (€M)</th></tr></thead><tbody><tr><td><strong>Country X</strong></td><td>4,200</td><td>3,600</td></tr><tr><td><strong>Country Y</strong></td><td>5,100</td><td>4,800</td></tr></tbody></table>",
+        "question": "3. What is the ratio of Country X's trade surplus to Country Y's trade surplus?",
+        "options": [
+          "2:1",
+          "1:2",
+          "4:3",
+          "3:2"
+        ],
+        "answer": 0,
+        "explanation": "Trade surplus = Exports − Imports. Country X: 4,200 − 3,600 = 600. Country Y: 5,100 − 4,800 = 300. Ratio = 600:300 = 2:1. Option D (3:2) is the trap — it resembles the ratio of the two countries' export figures rounded loosely (4,200:5,100 ≈ 0.82, not 3:2), a distractor for candidates who compare exports directly instead of first calculating each country's actual surplus."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Εμπορικά Ισοζύγια Δύο Χωρών (2024, εκατ. €)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Εξαγωγές (εκατ. €)</th><th>Εισαγωγές (εκατ. €)</th></tr></thead><tbody><tr><td><strong>Χώρα X</strong></td><td>4.200</td><td>3.600</td></tr><tr><td><strong>Χώρα Y</strong></td><td>5.100</td><td>4.800</td></tr></tbody></table>",
+        "question": "3. Ποια είναι η αναλογία του εμπορικού πλεονάσματος της Χώρας X προς το εμπορικό πλεόνασμα της Χώρας Y;",
+        "options": [
+          "2:1",
+          "1:2",
+          "4:3",
+          "3:2"
+        ],
+        "answer": 0,
+        "explanation": "Εμπορικό πλεόνασμα = Εξαγωγές − Εισαγωγές. Χώρα X: 4.200 − 3.600 = 600. Χώρα Y: 5.100 − 4.800 = 300. Αναλογία = 600:300 = 2:1. Η επιλογή Δ (3:2) είναι η παγίδα — μοιάζει χαλαρά με την αναλογία εξαγωγών (4.200:5.100), παρασύροντας όσους συγκρίνουν απευθείας τις εξαγωγές αντί να υπολογίσουν πρώτα το πραγματικό πλεόνασμα κάθε χώρας."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Commodity Price Index, Base Year 2015 = 100</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>2015</th><th>2018</th><th>2021</th><th>2024</th></tr></thead><tbody><tr><td><strong>Index (2015=100)</strong></td><td>100</td><td>112</td><td>126</td><td>140</td></tr></tbody></table>",
+        "question": "4. If the index is rebased so that 2018 = 100, what would the equivalent index value for 2024 be?",
+        "options": [
+          "125.0",
+          "128.0",
+          "140.0",
+          "112.5"
+        ],
+        "answer": 0,
+        "explanation": "Rebasing: New index(2024) = [Old index(2024) / Old index(2018)] × 100 = (140/112) × 100 = 125. Option D (112.5) is the trap — it results from dividing the 2018 value by the 2024 value instead of the reverse, or from confusing which year becomes the new denominator. Rebasing always divides by the value of the new base year, not the year being converted."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Τιμών Εμπορεύματος, Έτος Βάσης 2015 = 100</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>2015</th><th>2018</th><th>2021</th><th>2024</th></tr></thead><tbody><tr><td><strong>Δείκτης (2015=100)</strong></td><td>100</td><td>112</td><td>126</td><td>140</td></tr></tbody></table>",
+        "question": "4. Αν ο δείκτης αναπροσαρμοστεί ώστε το 2018 = 100, ποια θα ήταν η αντίστοιχη τιμή του δείκτη για το 2024;",
+        "options": [
+          "125,0",
+          "128,0",
+          "140,0",
+          "112,5"
+        ],
+        "answer": 0,
+        "explanation": "Αναπροσαρμογή βάσης: Νέος δείκτης(2024) = [Παλιός δείκτης(2024) / Παλιός δείκτης(2018)] × 100 = (140/112) × 100 = 125. Η επιλογή Δ (112,5) είναι η παγίδα — προκύπτει από διαίρεση της τιμής του 2018 με την τιμή του 2024 αντί του αντιστρόφου. Η αναπροσαρμογή βάσης πάντα διαιρεί με την τιμή του νέου έτους βάσης, όχι με του έτους που μετατρέπεται."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Population Growth Statement</caption><thead><tr style='background:#e8f0fe;'><th>Statement</th></tr></thead><tbody><tr><td>A region's population grew by 12% over the past five years and now stands at 3,136,000 people.</td></tr></tbody></table>",
+        "question": "5. What was the region's population five years ago?",
+        "options": [
+          "2,800,000",
+          "2,759,680",
+          "2,761,600",
+          "2,950,000"
+        ],
+        "answer": 0,
+        "explanation": "Since the current population reflects a 12% increase, current = original × 1.12. Original = 3,136,000 / 1.12 = 2,800,000. Option B (2,759,680) is the trap — it results from incorrectly subtracting 12% from the current figure (3,136,000 × 0.88) instead of dividing, a common reversal error when working backwards from a percentage increase."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δήλωση Πληθυσμιακής Αύξησης</caption><thead><tr style='background:#e8f0fe;'><th>Δήλωση</th></tr></thead><tbody><tr><td>Ο πληθυσμός μιας περιφέρειας αυξήθηκε κατά 12% τα τελευταία πέντε χρόνια και σήμερα ανέρχεται σε 3.136.000 κατοίκους.</td></tr></tbody></table>",
+        "question": "5. Ποιος ήταν ο πληθυσμός της περιφέρειας πριν από πέντε χρόνια;",
+        "options": [
+          "2.800.000",
+          "2.759.680",
+          "2.761.600",
+          "2.950.000"
+        ],
+        "answer": 0,
+        "explanation": "Αφού ο σημερινός πληθυσμός αντιστοιχεί σε αύξηση 12%, ισχύει: σημερινός = αρχικός × 1,12. Αρχικός = 3.136.000 / 1,12 = 2.800.000. Η επιλογή Β (2.759.680) είναι η παγίδα — προκύπτει από εσφαλμένη αφαίρεση 12% από τη σημερινή τιμή (3.136.000 × 0,88) αντί για διαίρεση, ένα συνηθισμένο λάθος αντιστροφής όταν υπολογίζουμε προς τα πίσω από ποσοστιαία αύξηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Unemployment Rate by Country (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Labour Force (millions)</th><th>Unemployment Rate (%)</th></tr></thead><tbody><tr><td><strong>Country A</strong></td><td>20</td><td>5</td></tr><tr><td><strong>Country B</strong></td><td>8</td><td>12</td></tr><tr><td><strong>Country C</strong></td><td>12</td><td>7</td></tr><tr><td><strong>Country D</strong></td><td>5</td><td>15</td></tr></tbody></table>",
+        "question": "6. What is the overall (labour-force-weighted) unemployment rate across all four countries combined, rounded to one decimal place?",
+        "options": [
+          "7.9",
+          "9.8",
+          "8.5",
+          "6.2"
+        ],
+        "answer": 0,
+        "explanation": "Weighted rate = Σ(labour force × rate) / Σ(labour force) = (20×5 + 8×12 + 12×7 + 5×15) / 45 = (100+96+84+75)/45 = 355/45 ≈ 7.9%. Option B (9.8) is the trap — it is the simple, unweighted average of the four rates ((5+12+7+15)/4 = 9.75), which overstates the true combined rate because it gives equal weight to Country D despite its small labour force."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ποσοστό Ανεργίας ανά Χώρα (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Εργατικό Δυναμικό (εκατ.)</th><th>Ποσοστό Ανεργίας (%)</th></tr></thead><tbody><tr><td><strong>Χώρα Α</strong></td><td>20</td><td>5</td></tr><tr><td><strong>Χώρα Β</strong></td><td>8</td><td>12</td></tr><tr><td><strong>Χώρα Γ</strong></td><td>12</td><td>7</td></tr><tr><td><strong>Χώρα Δ</strong></td><td>5</td><td>15</td></tr></tbody></table>",
+        "question": "6. Ποιο είναι το συνολικό (σταθμισμένο ως προς το εργατικό δυναμικό) ποσοστό ανεργίας και στις τέσσερις χώρες μαζί, στρογγυλοποιημένο σε ένα δεκαδικό ψηφίο;",
+        "options": [
+          "7,9",
+          "9,8",
+          "8,5",
+          "6,2"
+        ],
+        "answer": 0,
+        "explanation": "Σταθμισμένο ποσοστό = Σ(εργατικό δυναμικό × ποσοστό) / Σ(εργατικό δυναμικό) = (20×5 + 8×12 + 12×7 + 5×15) / 45 = 355/45 ≈ 7,9%. Η επιλογή Β (9,8) είναι η παγίδα — είναι ο απλός, μη σταθμισμένος μέσος όρος των τεσσάρων ποσοστών ((5+12+7+15)/4 = 9,75), που υπερεκτιμά το πραγματικό συνολικό ποσοστό επειδή δίνει ίση βαρύτητα στη Χώρα Δ παρά το μικρό εργατικό δυναμικό της."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Company Revenue and Inflation (2023–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Indicator</th><th>Value</th></tr></thead><tbody><tr><td>Revenue, 2023</td><td>€85 million</td></tr><tr><td>Nominal revenue growth, 2024</td><td>6.0%</td></tr><tr><td>Inflation rate, 2024</td><td>3.5%</td></tr></tbody></table>",
+        "question": "7. What was the company's approximate real (inflation-adjusted) revenue growth rate in 2024, rounded to one decimal place?",
+        "options": [
+          "2.4",
+          "2.5",
+          "9.5",
+          "2.0"
+        ],
+        "answer": 0,
+        "explanation": "Real growth is calculated using the Fisher relation: (1 + real) = (1 + nominal) / (1 + inflation). Real = (1.06 / 1.035) − 1 ≈ 0.0242, i.e. 2.4%. Option B (2.5) is the trap — it comes from simply subtracting the inflation rate from the nominal rate (6.0% − 3.5% = 2.5%), a linear approximation that is close but not mathematically correct; EPSO questions often test whether candidates apply the precise compounding relationship rather than a shortcut subtraction."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Έσοδα Εταιρείας και Πληθωρισμός (2023–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Δείκτης</th><th>Τιμή</th></tr></thead><tbody><tr><td>Έσοδα, 2023</td><td>85 εκατ. €</td></tr><tr><td>Ονομαστική αύξηση εσόδων, 2024</td><td>6,0%</td></tr><tr><td>Ρυθμός πληθωρισμού, 2024</td><td>3,5%</td></tr></tbody></table>",
+        "question": "7. Ποιος ήταν ο κατά προσέγγιση πραγματικός (προσαρμοσμένος στον πληθωρισμό) ρυθμός αύξησης εσόδων της εταιρείας το 2024, στρογγυλοποιημένος σε ένα δεκαδικό ψηφίο;",
+        "options": [
+          "2,4",
+          "2,5",
+          "9,5",
+          "2,0"
+        ],
+        "answer": 0,
+        "explanation": "Η πραγματική αύξηση υπολογίζεται με τη σχέση Fisher: (1 + πραγματική) = (1 + ονομαστική) / (1 + πληθωρισμός). Πραγματική = (1,06 / 1,035) − 1 ≈ 0,0242, δηλαδή 2,4%. Η επιλογή Β (2,5) είναι η παγίδα — προκύπτει από απλή αφαίρεση του πληθωρισμού από την ονομαστική αύξηση (6,0% − 3,5% = 2,5%), μια γραμμική προσέγγιση που είναι κοντά αλλά μαθηματικά λανθασμένη."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Mobile Phone Plan Pricing</caption><thead><tr style='background:#e8f0fe;'><th>Plan</th><th>Fixed Monthly Fee (€)</th><th>Cost per Minute (€)</th></tr></thead><tbody><tr><td><strong>Plan A</strong></td><td>25</td><td>0.05</td></tr><tr><td><strong>Plan B</strong></td><td>40</td><td>0.02</td></tr></tbody></table>",
+        "question": "8. At how many minutes of monthly usage do Plan A and Plan B cost exactly the same?",
+        "options": [
+          "500",
+          "300",
+          "750",
+          "600"
+        ],
+        "answer": 0,
+        "explanation": "Set the two cost functions equal: 25 + 0.05m = 40 + 0.02m. Solving: 0.05m − 0.02m = 40 − 25 → 0.03m = 15 → m = 500 minutes. Option D (600) is the trap — it results from a common sign or arithmetic slip when isolating m (e.g. dividing 15 by the wrong coefficient, 0.03 vs 0.025), which is easy to make under time pressure."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Τιμολόγηση Προγραμμάτων Κινητής Τηλεφωνίας</caption><thead><tr style='background:#e8f0fe;'><th>Πρόγραμμα</th><th>Πάγιο Μηνιαίο Τέλος (€)</th><th>Κόστος ανά Λεπτό (€)</th></tr></thead><tbody><tr><td><strong>Πρόγραμμα Α</strong></td><td>25</td><td>0,05</td></tr><tr><td><strong>Πρόγραμμα Β</strong></td><td>40</td><td>0,02</td></tr></tbody></table>",
+        "question": "8. Σε πόσα λεπτά μηνιαίας χρήσης το Πρόγραμμα Α και το Πρόγραμμα Β κοστίζουν ακριβώς το ίδιο;",
+        "options": [
+          "500",
+          "300",
+          "750",
+          "600"
+        ],
+        "answer": 0,
+        "explanation": "Εξισώνουμε τις δύο συναρτήσεις κόστους: 25 + 0,05m = 40 + 0,02m. Λύνοντας: 0,05m − 0,02m = 40 − 25 → 0,03m = 15 → m = 500 λεπτά. Η επιλογή Δ (600) είναι η παγίδα — προκύπτει από συνηθισμένο αριθμητικό λάθος κατά την απομόνωση του m, εύκολο λάθος υπό πίεση χρόνου."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Train Journey Data</caption><thead><tr style='background:#e8f0fe;'><th>Leg</th><th>Distance (km)</th><th>Speed (km/h)</th></tr></thead><tbody><tr><td><strong>A → B</strong></td><td>240</td><td>80</td></tr><tr><td><strong>B → C</strong></td><td>240</td><td>120</td></tr></tbody></table>",
+        "question": "9. What is the average speed for the entire journey from A to C?",
+        "options": [
+          "96",
+          "100",
+          "104",
+          "90"
+        ],
+        "answer": 0,
+        "explanation": "Average speed = Total distance / Total time, not the arithmetic mean of the two speeds. Total distance = 480 km. Time A→B = 240/80 = 3h. Time B→C = 240/120 = 2h. Total time = 5h. Average speed = 480/5 = 96 km/h. Option B (100) is the trap — it is the simple average of 80 and 120 ((80+120)/2), which is only valid when time (not distance) is equal on each leg; here the legs cover equal distances at different speeds, so the harmonic-style distance/time method must be used instead."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δεδομένα Σιδηροδρομικού Ταξιδιού</caption><thead><tr style='background:#e8f0fe;'><th>Διαδρομή</th><th>Απόσταση (χλμ)</th><th>Ταχύτητα (χλμ/ώρα)</th></tr></thead><tbody><tr><td><strong>Α → Β</strong></td><td>240</td><td>80</td></tr><tr><td><strong>Β → Γ</strong></td><td>240</td><td>120</td></tr></tbody></table>",
+        "question": "9. Ποια είναι η μέση ταχύτητα για ολόκληρο το ταξίδι από το Α στο Γ;",
+        "options": [
+          "96",
+          "100",
+          "104",
+          "90"
+        ],
+        "answer": 0,
+        "explanation": "Μέση ταχύτητα = Συνολική απόσταση / Συνολικός χρόνος, όχι ο αριθμητικός μέσος όρος των δύο ταχυτήτων. Συνολική απόσταση = 480 χλμ. Χρόνος Α→Β = 240/80 = 3ώ. Χρόνος Β→Γ = 240/120 = 2ώ. Συνολικός χρόνος = 5ώ. Μέση ταχύτητα = 480/5 = 96 χλμ/ώ. Η επιλογή Β (100) είναι η παγίδα — είναι ο απλός μέσος όρος του 80 και του 120, έγκυρος μόνο όταν ο χρόνος (όχι η απόσταση) είναι ίσος σε κάθε διαδρομή."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU R&D Fund Growth Projection</caption><thead><tr style='background:#e8f0fe;'><th>Indicator</th><th>Value</th></tr></thead><tbody><tr><td>Initial fund value</td><td>€50 million</td></tr><tr><td>Annual compound growth rate</td><td>8%</td></tr><tr><td>Time horizon</td><td>3 years</td></tr></tbody></table>",
+        "question": "10. What will the fund's value be after 3 years, rounded to the nearest million euros?",
+        "options": [
+          "63",
+          "62",
+          "65",
+          "60"
+        ],
+        "answer": 0,
+        "explanation": "Compound growth: Future value = Initial × (1 + rate)^years = 50 × (1.08)^3 = 50 × 1.259712 ≈ €62.99 million, which rounds to €63 million. Option B (62) is the trap — it results from applying simple (non-compounded) interest instead: 50 × (1 + 0.08×3) = 50 × 1.24 = €62 million, which under-states true growth because it ignores that each year's growth also compounds on prior years' gains."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πρόβλεψη Ανάπτυξης Ευρωπαϊκού Ταμείου Έρευνας</caption><thead><tr style='background:#e8f0fe;'><th>Δείκτης</th><th>Τιμή</th></tr></thead><tbody><tr><td>Αρχική αξία ταμείου</td><td>50 εκατ. €</td></tr><tr><td>Ετήσιος σύνθετος ρυθμός ανάπτυξης</td><td>8%</td></tr><tr><td>Χρονικός ορίζοντας</td><td>3 έτη</td></tr></tbody></table>",
+        "question": "10. Ποια θα είναι η αξία του ταμείου μετά από 3 χρόνια, στρογγυλοποιημένη στο πλησιέστερο εκατομμύριο ευρώ;",
+        "options": [
+          "63",
+          "62",
+          "65",
+          "60"
+        ],
+        "answer": 0,
+        "explanation": "Σύνθετη ανάπτυξη: Μελλοντική αξία = Αρχική × (1 + ρυθμός)^έτη = 50 × (1,08)^3 = 50 × 1,259712 ≈ 62,99 εκατ. €, που στρογγυλοποιείται σε 63 εκατ. €. Η επιλογή Β (62) είναι η παγίδα — προκύπτει από εφαρμογή απλού (μη ανατοκιζόμενου) επιτοκίου: 50 × (1 + 0,08×3) = 50 × 1,24 = 62 εκατ. €, που υποτιμά την πραγματική αύξηση επειδή αγνοεί ότι κάθε έτος ανατοκίζεται πάνω στα προηγούμενα κέρδη."
+      }
+    }
   ]
-}
+}  
