@@ -4690,5 +4690,1570 @@
         "explanation": "Οι κανονισμοί είναι άμεσα εφαρμοστέοι. Η απευθείας επίκληση οδηγιών σε οριζόντιες διαφορές δεν είναι κατ’ αρχήν διαθέσιμη· οι οδηγίες απαιτούν μεταφορά για πλήρη αποτελεσματικότητα."
       }
     }
+  ],
+  {
+  "eu_7": [
+    {
+      "en": {
+        "passage": "1. Before the EU's legal order recognised the primacy of EU law over national law in 1964, an earlier ruling had already established that individuals could invoke EU law directly before national courts.",
+        "question": "Which 1963 case first established the principle of 'direct effect' of EU law?",
+        "options": [
+          "Van Gend en Loos",
+          "Costa v ENEL",
+          "Simmenthal",
+          "Cassis de Dijon"
+        ],
+        "answer": 0,
+        "explanation": "Van Gend en Loos (1963) established that provisions of EU law can create rights that individuals may rely on directly before national courts, without needing national implementing measures, provided the provision is clear, precise, and unconditional."
+      },
+      "el": {
+        "passage": "1. Πριν η έννομη τάξη της ΕΕ αναγνωρίσει την υπεροχή του δικαίου της ΕΕ έναντι του εθνικού δικαίου το 1964, μια προγενέστερη απόφαση είχε ήδη καθιερώσει ότι οι ιδιώτες μπορούσαν να επικαλούνται απευθείας το δίκαιο της ΕΕ ενώπιον εθνικών δικαστηρίων.",
+        "question": "Ποια υπόθεση του 1963 καθιέρωσε για πρώτη φορά την αρχή του «άμεσου αποτελέσματος» του δικαίου της ΕΕ;",
+        "options": [
+          "Van Gend en Loos",
+          "Costa κατά ENEL",
+          "Simmenthal",
+          "Cassis de Dijon"
+        ],
+        "answer": 0,
+        "explanation": "Η υπόθεση Van Gend en Loos (1963) καθιέρωσε ότι διατάξεις του δικαίου της ΕΕ μπορούν να δημιουργούν δικαιώματα τα οποία οι ιδιώτες μπορούν να επικαλούνται απευθείας ενώπιον εθνικών δικαστηρίων, εφόσον η διάταξη είναι σαφής, ακριβής και ανεπιφύλακτη."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. Linguistic diversity is treated as a core value of the European project, reflected in the number of languages that hold official status across the institutions.",
+        "question": "How many official languages does the European Union currently recognise?",
+        "options": [
+          "20",
+          "24",
+          "27",
+          "31"
+        ],
+        "answer": 1,
+        "explanation": "The EU currently has 24 official languages. This is fewer than the number of member states (27) because some countries share a language (e.g. German is shared by Germany and Austria)."
+      },
+      "el": {
+        "passage": "2. Η γλωσσική πολυμορφία αντιμετωπίζεται ως θεμελιώδης αξία του ευρωπαϊκού εγχειρήματος, κάτι που αντικατοπτρίζεται στον αριθμό των γλωσσών που έχουν επίσημο καθεστώς στα θεσμικά όργανα.",
+        "question": "Πόσες επίσημες γλώσσες αναγνωρίζει σήμερα η Ευρωπαϊκή Ένωση;",
+        "options": [
+          "20",
+          "24",
+          "27",
+          "31"
+        ],
+        "answer": 1,
+        "explanation": "Η ΕΕ έχει σήμερα 24 επίσημες γλώσσες. Ο αριθμός αυτός είναι μικρότερος από τον αριθμό των κρατών μελών (27) επειδή ορισμένες χώρες μοιράζονται την ίδια γλώσσα (π.χ. τα γερμανικά τα μοιράζονται η Γερμανία και η Αυστρία)."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. Since the year 2000, a short phrase has served as the official motto of the European Union, symbolising how Europeans have combined to work for peace and prosperity while retaining their varied cultures, traditions and languages.",
+        "question": "What is the official motto of the European Union?",
+        "options": [
+          "Ever Closer Union",
+          "Unity in Strength",
+          "United in Diversity",
+          "Peace through Cooperation"
+        ],
+        "answer": 2,
+        "explanation": "'United in Diversity' has been the EU's official motto since the year 2000, reflecting how Europeans have united to promote peace and prosperity while celebrating the continent's many different cultures, traditions and languages."
+      },
+      "el": {
+        "passage": "3. Από το έτος 2000, μια σύντομη φράση χρησιμεύει ως το επίσημο μότο της Ευρωπαϊκής Ένωσης, συμβολίζοντας πώς οι Ευρωπαίοι ενώθηκαν για να εργαστούν για την ειρήνη και την ευημερία διατηρώντας παράλληλα τους πολιτισμούς, τις παραδόσεις και τις γλώσσες τους.",
+        "question": "Ποιο είναι το επίσημο μότο της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Ολοένα Στενότερη Ένωση",
+          "Ενότητα στη Δύναμη",
+          "Ενωμένοι στην Πολυμορφία",
+          "Ειρήνη μέσω Συνεργασίας"
+        ],
+        "answer": 2,
+        "explanation": "Το «Ενωμένοι στην Πολυμορφία» είναι το επίσημο μότο της ΕΕ από το 2000, αντικατοπτρίζοντας πώς οι Ευρωπαίοι ενώθηκαν για την ειρήνη και την ευημερία, τιμώντας παράλληλα τους πολλούς διαφορετικούς πολιτισμούς, παραδόσεις και γλώσσες της ηπείρου."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The design of the European flag has remained constant since its adoption, regardless of how many countries have subsequently joined the Union.",
+        "question": "How many stars appear on the flag of the European Union?",
+        "options": [
+          "A number equal to the current number of member states",
+          "12, a fixed number regardless of enlargement",
+          "15, representing the founding and early members",
+          "27, updated with each new accession"
+        ],
+        "answer": 1,
+        "explanation": "The European flag features a fixed circle of 12 gold stars on a blue background. The number 12 is traditionally a symbol of completeness and unity and does not change as new countries join the EU."
+      },
+      "el": {
+        "passage": "4. Ο σχεδιασμός της ευρωπαϊκής σημαίας έχει παραμείνει σταθερός από την υιοθέτησή της, ανεξάρτητα από το πόσες χώρες έχουν έκτοτε προσχωρήσει στην Ένωση.",
+        "question": "Πόσα αστέρια εμφανίζονται στη σημαία της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Έναν αριθμό ίσο με τον τρέχοντα αριθμό κρατών μελών",
+          "12, έναν σταθερό αριθμό ανεξαρτήτως διεύρυνσης",
+          "15, που αντιπροσωπεύουν τα ιδρυτικά και πρώιμα μέλη",
+          "27, ενημερωμένο με κάθε νέα προσχώρηση"
+        ],
+        "answer": 1,
+        "explanation": "Η ευρωπαϊκή σημαία απεικονίζει έναν σταθερό κύκλο 12 χρυσών αστεριών σε μπλε φόντο. Ο αριθμός 12 αποτελεί παραδοσιακά σύμβολο πληρότητας και ενότητας και δεν αλλάζει καθώς νέες χώρες προσχωρούν στην ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. Seat allocation in the European Parliament follows a rule ensuring that smaller Member States are not under-represented and larger ones are not over-represented relative to their population.",
+        "question": "Which principle governs the distribution of seats in the European Parliament among Member States, and what are its numerical limits?",
+        "options": [
+          "Strict proportionality, with no minimum or maximum number of seats",
+          "Degressive proportionality, with a minimum of 6 and a maximum of 96 seats per country",
+          "Equal representation, with exactly 27 seats per country",
+          "Degressive proportionality, with a minimum of 15 and a maximum of 100 seats per country"
+        ],
+        "answer": 1,
+        "explanation": "The European Parliament's seats are distributed according to 'degressive proportionality': more populous countries have more MEPs, but less populous countries get more seats per capita than their population would strictly justify. No Member State may have fewer than 6 or more than 96 seats."
+      },
+      "el": {
+        "passage": "5. Η κατανομή εδρών στο Ευρωπαϊκό Κοινοβούλιο ακολουθεί έναν κανόνα που διασφαλίζει ότι τα μικρότερα κράτη μέλη δεν υπο-εκπροσωπούνται και τα μεγαλύτερα δεν υπερ-εκπροσωπούνται σε σχέση με τον πληθυσμό τους.",
+        "question": "Ποια αρχή διέπει την κατανομή των εδρών στο Ευρωπαϊκό Κοινοβούλιο μεταξύ των κρατών μελών, και ποια είναι τα αριθμητικά της όρια;",
+        "options": [
+          "Αυστηρή αναλογικότητα, χωρίς ελάχιστο ή μέγιστο αριθμό εδρών",
+          "Φθίνουσα αναλογικότητα, με ελάχιστο 6 και μέγιστο 96 έδρες ανά χώρα",
+          "Ίση εκπροσώπηση, με ακριβώς 27 έδρες ανά χώρα",
+          "Φθίνουσα αναλογικότητα, με ελάχιστο 15 και μέγιστο 100 έδρες ανά χώρα"
+        ],
+        "answer": 1,
+        "explanation": "Οι έδρες του Ευρωπαϊκού Κοινοβουλίου κατανέμονται βάσει «φθίνουσας αναλογικότητας»: οι πιο πολυπληθείς χώρες έχουν περισσότερους ευρωβουλευτές, αλλά οι λιγότερο πολυπληθείς λαμβάνουν περισσότερες έδρες ανά κάτοικο απ' ό,τι θα δικαιολογούσε αυστηρά ο πληθυσμός τους. Κανένα κράτος μέλος δεν μπορεί να έχει λιγότερες από 6 ή περισσότερες από 96 έδρες."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. Decentralised EU agencies are spread across many host cities, several chosen specifically to bring EU institutional presence beyond the traditional political capitals.",
+        "question": "In which Greek city is the European Centre for the Development of Vocational Training (Cedefop) headquartered?",
+        "options": [
+          "Athens",
+          "Heraklion",
+          "Thessaloniki",
+          "Patras"
+        ],
+        "answer": 2,
+        "explanation": "Cedefop, the EU agency responsible for promoting the development of vocational education and training, has been headquartered in Thessaloniki since 1995, making it one of the few EU agencies based outside a national capital."
+      },
+      "el": {
+        "passage": "6. Οι αποκεντρωμένοι οργανισμοί της ΕΕ είναι κατανεμημένοι σε πολλές πόλεις-έδρες, αρκετές εκ των οποίων επιλέχθηκαν ειδικά για να φέρουν τη θεσμική παρουσία της ΕΕ πέρα από τις παραδοσιακές πολιτικές πρωτεύουσες.",
+        "question": "Σε ποια ελληνική πόλη εδρεύει το Ευρωπαϊκό Κέντρο για την Ανάπτυξη της Επαγγελματικής Κατάρτισης (Cedefop);",
+        "options": [
+          "Αθήνα",
+          "Ηράκλειο",
+          "Θεσσαλονίκη",
+          "Πάτρα"
+        ],
+        "answer": 2,
+        "explanation": "Το Cedefop, ο οργανισμός της ΕΕ αρμόδιος για την προώθηση της ανάπτυξης της επαγγελματικής εκπαίδευσης και κατάρτισης, εδρεύει στη Θεσσαλονίκη από το 1995, καθιστώντας το έναν από τους λίγους οργανισμούς της ΕΕ με έδρα εκτός εθνικής πρωτεύουσας."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. Cross-border police cooperation within the EU is supported by a dedicated agency that facilitates information exchange and coordinates operations against organised crime and terrorism.",
+        "question": "In which city is Europol, the EU's law enforcement cooperation agency, headquartered?",
+        "options": [
+          "Brussels",
+          "The Hague",
+          "Vienna",
+          "Lyon"
+        ],
+        "answer": 1,
+        "explanation": "Europol is headquartered in The Hague, Netherlands, the same city that hosts Eurojust (judicial cooperation) and several international courts, making it a hub for European and international justice and security cooperation."
+      },
+      "el": {
+        "passage": "7. Η διασυνοριακή αστυνομική συνεργασία εντός της ΕΕ υποστηρίζεται από έναν ειδικό οργανισμό που διευκολύνει την ανταλλαγή πληροφοριών και συντονίζει επιχειρήσεις κατά του οργανωμένου εγκλήματος και της τρομοκρατίας.",
+        "question": "Σε ποια πόλη εδρεύει η Europol, ο οργανισμός συνεργασίας επιβολής του νόμου της ΕΕ;",
+        "options": [
+          "Βρυξέλλες",
+          "Χάγη",
+          "Βιέννη",
+          "Λυών"
+        ],
+        "answer": 1,
+        "explanation": "Η Europol εδρεύει στη Χάγη των Κάτω Χωρών, την ίδια πόλη που φιλοξενεί την Eurojust (δικαστική συνεργασία) και αρκετά διεθνή δικαστήρια, καθιστώντας την κόμβο ευρωπαϊκής και διεθνούς συνεργασίας για τη δικαιοσύνη και την ασφάλεια."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The safe use of chemical substances across the single market is overseen by a dedicated EU regulatory framework and agency based in Finland.",
+        "question": "The REACH Regulation, which governs the Registration, Evaluation, Authorisation and Restriction of Chemicals, is implemented with the support of which EU agency?",
+        "options": [
+          "European Environment Agency (EEA)",
+          "European Chemicals Agency (ECHA)",
+          "European Food Safety Authority (EFSA)",
+          "European Medicines Agency (EMA)"
+        ],
+        "answer": 1,
+        "explanation": "The European Chemicals Agency (ECHA), headquartered in Helsinki, manages the technical, scientific, and administrative aspects of the REACH Regulation, which aims to ensure a high level of protection of human health and the environment from chemical risks."
+      },
+      "el": {
+        "passage": "8. Η ασφαλής χρήση χημικών ουσιών στην ενιαία αγορά εποπτεύεται από ένα ειδικό ρυθμιστικό πλαίσιο και οργανισμό της ΕΕ με έδρα στη Φινλανδία.",
+        "question": "Ο Κανονισμός REACH, που διέπει την Καταχώριση, Αξιολόγηση, Αδειοδότηση και Περιορισμούς Χημικών Προϊόντων, εφαρμόζεται με την υποστήριξη ποιου οργανισμού της ΕΕ;",
+        "options": [
+          "Ευρωπαϊκός Οργανισμός Περιβάλλοντος (EEA)",
+          "Ευρωπαϊκός Οργανισμός Χημικών Προϊόντων (ECHA)",
+          "Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)",
+          "Ευρωπαϊκός Οργανισμός Φαρμάκων (EMA)"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Οργανισμός Χημικών Προϊόντων (ECHA), με έδρα το Ελσίνκι, διαχειρίζεται τις τεχνικές, επιστημονικές και διοικητικές πτυχές του Κανονισμού REACH, ο οποίος στοχεύει στην υψηλή προστασία της ανθρώπινης υγείας και του περιβάλλοντος από χημικούς κινδύνους."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Farm to Fork Strategy, part of the European Green Deal, sets out ambitious targets for reducing the environmental footprint of the EU's food system by 2030.",
+        "question": "Under the Farm to Fork Strategy, what is the EU's target for reducing the use and risk of chemical pesticides by 2030?",
+        "options": [
+          "At least 25%",
+          "At least 50%",
+          "At least 75%",
+          "100% (complete phase-out)"
+        ],
+        "answer": 1,
+        "explanation": "The Farm to Fork Strategy sets a target of reducing the use and risk of chemical pesticides by 50% by 2030, alongside other targets such as reducing nutrient losses and increasing the share of organic farming."
+      },
+      "el": {
+        "passage": "9. Η στρατηγική «Από το Αγρόκτημα στο Πιάτο», μέρος της Ευρωπαϊκής Πράσινης Συμφωνίας, θέτει φιλόδοξους στόχους για τη μείωση του περιβαλλοντικού αποτυπώματος του συστήματος τροφίμων της ΕΕ έως το 2030.",
+        "question": "Στο πλαίσιο της στρατηγικής «Από το Αγρόκτημα στο Πιάτο», ποιος είναι ο στόχος της ΕΕ για τη μείωση της χρήσης και του κινδύνου των χημικών φυτοφαρμάκων έως το 2030;",
+        "options": [
+          "Τουλάχιστον 25%",
+          "Τουλάχιστον 50%",
+          "Τουλάχιστον 75%",
+          "100% (πλήρης σταδιακή κατάργηση)"
+        ],
+        "answer": 1,
+        "explanation": "Η στρατηγική «Από το Αγρόκτημα στο Πιάτο» θέτει στόχο μείωσης της χρήσης και του κινδύνου των χημικών φυτοφαρμάκων κατά 50% έως το 2030, μαζί με άλλους στόχους όπως η μείωση των απωλειών θρεπτικών ουσιών και η αύξηση του μεριδίου της βιολογικής γεωργίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The EU Biodiversity Strategy for 2030 sets specific coverage targets for protected natural areas across land and sea.",
+        "question": "Under the EU Biodiversity Strategy for 2030, what percentage of the EU's land and sea area is targeted to be legally protected?",
+        "options": [
+          "At least 10%",
+          "At least 20%",
+          "At least 30%",
+          "At least 50%"
+        ],
+        "answer": 2,
+        "explanation": "The Biodiversity Strategy for 2030 sets a target of legally protecting at least 30% of the EU's land area and 30% of its sea area, with at least a third of that under strict protection."
+      },
+      "el": {
+        "passage": "10. Η Στρατηγική της ΕΕ για τη Βιοποικιλότητα έως το 2030 θέτει συγκεκριμένους στόχους κάλυψης για τις προστατευόμενες φυσικές περιοχές σε ξηρά και θάλασσα.",
+        "question": "Στο πλαίσιο της Στρατηγικής της ΕΕ για τη Βιοποικιλότητα έως το 2030, ποιο ποσοστό της χερσαίας και θαλάσσιας έκτασης της ΕΕ στοχεύεται να προστατεύεται νομικά;",
+        "options": [
+          "Τουλάχιστον 10%",
+          "Τουλάχιστον 20%",
+          "Τουλάχιστον 30%",
+          "Τουλάχιστον 50%"
+        ],
+        "answer": 2,
+        "explanation": "Η Στρατηγική για τη Βιοποικιλότητα έως το 2030 θέτει στόχο νομικής προστασίας τουλάχιστον του 30% της χερσαίας έκτασης της ΕΕ και του 30% της θαλάσσιας έκτασής της, με τουλάχιστον το ένα τρίτο υπό αυστηρό καθεστώς προστασίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. The revised Renewable Energy Directive (RED III), adopted in 2023 as part of the Fit for 55 package, raised the EU's ambition for the share of renewables in overall energy consumption.",
+        "question": "What binding EU-wide target for the share of renewable energy in gross final energy consumption by 2030 was set by the revised Renewable Energy Directive (RED III)?",
+        "options": [
+          "At least 32%",
+          "At least 42.5%",
+          "At least 55%",
+          "At least 65%"
+        ],
+        "answer": 1,
+        "explanation": "RED III raised the binding EU-wide renewable energy target to at least 42.5% of gross final energy consumption by 2030, with an additional indicative top-up aiming for 45%, up from the previous 32% target."
+      },
+      "el": {
+        "passage": "11. Η αναθεωρημένη Οδηγία για τις Ανανεώσιμες Πηγές Ενέργειας (RED III), που εγκρίθηκε το 2023 στο πλαίσιο του πακέτου Fit for 55, αύξησε τη φιλοδοξία της ΕΕ για το μερίδιο των ανανεώσιμων πηγών στη συνολική κατανάλωση ενέργειας.",
+        "question": "Ποιος δεσμευτικός στόχος σε επίπεδο ΕΕ για το μερίδιο των ανανεώσιμων πηγών ενέργειας στην ακαθάριστη τελική κατανάλωση ενέργειας έως το 2030 τέθηκε από την αναθεωρημένη Οδηγία (RED III);",
+        "options": [
+          "Τουλάχιστον 32%",
+          "Τουλάχιστον 42,5%",
+          "Τουλάχιστον 55%",
+          "Τουλάχιστον 65%"
+        ],
+        "answer": 1,
+        "explanation": "Η RED III αύξησε τον δεσμευτικό στόχο ανανεώσιμων πηγών ενέργειας σε επίπεδο ΕΕ σε τουλάχιστον 42,5% της ακαθάριστης τελικής κατανάλωσης ενέργειας έως το 2030, με πρόσθετη ενδεικτική αύξηση προς το 45%, από τον προηγούμενο στόχο του 32%."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. As the EU shifts away from fossil fuels, dedicated financial instruments have been created to cushion the social and economic impact on the regions and workers most affected by the transition.",
+        "question": "What is the primary purpose of the EU's Just Transition Mechanism?",
+        "options": [
+          "To fund the relocation of EU institutions to less developed regions",
+          "To provide targeted support to regions and workers most affected by the shift away from carbon-intensive activities",
+          "To subsidise fossil fuel extraction in regions dependent on coal",
+          "To finance the enlargement of the Eurozone"
+        ],
+        "answer": 1,
+        "explanation": "The Just Transition Mechanism provides targeted financial and technical support to regions, industries, and workers most affected by the move away from carbon-intensive activities, helping to mitigate the socio-economic impact of the climate transition."
+      },
+      "el": {
+        "passage": "12. Καθώς η ΕΕ απομακρύνεται από τα ορυκτά καύσιμα, έχουν δημιουργηθεί ειδικά χρηματοδοτικά εργαλεία για την άμβλυνση των κοινωνικών και οικονομικών επιπτώσεων στις περιφέρειες και τους εργαζόμενους που επηρεάζονται περισσότερο από τη μετάβαση.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός του Μηχανισμού Δίκαιης Μετάβασης της ΕΕ;",
+        "options": [
+          "Η χρηματοδότηση της μετεγκατάστασης θεσμικών οργάνων της ΕΕ σε λιγότερο ανεπτυγμένες περιφέρειες",
+          "Η παροχή στοχευμένης στήριξης σε περιφέρειες και εργαζόμενους που επηρεάζονται περισσότερο από την απομάκρυνση από ενεργοβόρες δραστηριότητες",
+          "Η επιδότηση της εξόρυξης ορυκτών καυσίμων σε περιφέρειες εξαρτώμενες από τον άνθρακα",
+          "Η χρηματοδότηση της διεύρυνσης της Ευρωζώνης"
+        ],
+        "answer": 1,
+        "explanation": "Ο Μηχανισμός Δίκαιης Μετάβασης παρέχει στοχευμένη οικονομική και τεχνική στήριξη σε περιφέρειες, βιομηχανίες και εργαζόμενους που επηρεάζονται περισσότερο από την απομάκρυνση από ενεργοβόρες δραστηριότητες, συμβάλλοντας στον μετριασμό των κοινωνικοοικονομικών επιπτώσεων της κλιματικής μετάβασης."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Within the Banking Union, the ECB directly supervises the largest and most systemically important banks in the euro area, while national authorities continue to supervise smaller institutions.",
+        "question": "Under the Single Supervisory Mechanism (SSM), which banks does the European Central Bank directly supervise?",
+        "options": [
+          "All banks operating anywhere in the EU, regardless of size",
+          "Only banks headquartered in Frankfurt",
+          "The largest, most 'significant' banks in the euro area, based on criteria such as asset size",
+          "Only banks that have received state aid"
+        ],
+        "answer": 2,
+        "explanation": "Under the SSM, the ECB directly supervises 'significant' banks in the euro area — generally those with assets exceeding €30 billion or otherwise systemically important — while national supervisors continue to oversee smaller, 'less significant' institutions in cooperation with the ECB."
+      },
+      "el": {
+        "passage": "13. Στο πλαίσιο της Τραπεζικής Ένωσης, η ΕΚΤ εποπτεύει απευθείας τις μεγαλύτερες και πιο συστημικά σημαντικές τράπεζες της ζώνης του ευρώ, ενώ οι εθνικές αρχές συνεχίζουν να εποπτεύουν μικρότερα ιδρύματα.",
+        "question": "Στο πλαίσιο του Ενιαίου Εποπτικού Μηχανισμού (SSM), ποιες τράπεζες εποπτεύει απευθείας η Ευρωπαϊκή Κεντρική Τράπεζα;",
+        "options": [
+          "Όλες τις τράπεζες που λειτουργούν οπουδήποτε στην ΕΕ, ανεξαρτήτως μεγέθους",
+          "Μόνο τράπεζες με έδρα στη Φρανκφούρτη",
+          "Τις μεγαλύτερες, «σημαντικές» τράπεζες της ζώνης του ευρώ, βάσει κριτηρίων όπως το μέγεθος ενεργητικού",
+          "Μόνο τράπεζες που έχουν λάβει κρατική ενίσχυση"
+        ],
+        "answer": 2,
+        "explanation": "Στο πλαίσιο του SSM, η ΕΚΤ εποπτεύει απευθείας τις «σημαντικές» τράπεζες της ζώνης του ευρώ — γενικά όσες έχουν ενεργητικό άνω των 30 δισ. ευρώ ή είναι διαφορετικά συστημικά σημαντικές — ενώ οι εθνικές εποπτικές αρχές συνεχίζουν να εποπτεύουν μικρότερα, «λιγότερο σημαντικά» ιδρύματα σε συνεργασία με την ΕΚΤ."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. To ensure banks can be wound down without taxpayer bailouts, the Banking Union established a fund financed by contributions from the banking sector itself.",
+        "question": "What was the target funding level set for the Single Resolution Fund (SRF), to be reached by the end of 2023?",
+        "options": [
+          "At least 0.5% of covered deposits of all credit institutions in participating Member States",
+          "At least 1% of covered deposits of all credit institutions in participating Member States",
+          "At least 5% of covered deposits of all credit institutions in participating Member States",
+          "A fixed amount of €10 billion regardless of deposit levels"
+        ],
+        "answer": 1,
+        "explanation": "The Single Resolution Fund, financed by contributions from banks in participating Member States, was required to reach a target level of at least 1% of the amount of covered deposits of all credit institutions within the Banking Union by the end of 2023."
+      },
+      "el": {
+        "passage": "14. Για να διασφαλιστεί ότι οι τράπεζες μπορούν να εξυγιαίνονται χωρίς διασώσεις από τους φορολογούμενους, η Τραπεζική Ένωση θέσπισε ένα ταμείο χρηματοδοτούμενο από εισφορές του ίδιου του τραπεζικού τομέα.",
+        "question": "Ποιο ήταν το επίπεδο-στόχος χρηματοδότησης του Ενιαίου Ταμείου Εξυγίανσης (SRF), που έπρεπε να επιτευχθεί έως τα τέλη του 2023;",
+        "options": [
+          "Τουλάχιστον 0,5% των καλυμμένων καταθέσεων όλων των πιστωτικών ιδρυμάτων στα συμμετέχοντα κράτη μέλη",
+          "Τουλάχιστον 1% των καλυμμένων καταθέσεων όλων των πιστωτικών ιδρυμάτων στα συμμετέχοντα κράτη μέλη",
+          "Τουλάχιστον 5% των καλυμμένων καταθέσεων όλων των πιστωτικών ιδρυμάτων στα συμμετέχοντα κράτη μέλη",
+          "Ένα σταθερό ποσό 10 δισ. ευρώ ανεξαρτήτως επιπέδου καταθέσεων"
+        ],
+        "answer": 1,
+        "explanation": "Το Ενιαίο Ταμείο Εξυγίανσης, χρηματοδοτούμενο από εισφορές τραπεζών στα συμμετέχοντα κράτη μέλη, έπρεπε να φτάσει επίπεδο-στόχο τουλάχιστον 1% των καλυμμένων καταθέσεων όλων των πιστωτικών ιδρυμάτων της Τραπεζικής Ένωσης έως τα τέλη του 2023."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The Eurosystem has been exploring the possible introduction of a central bank digital currency to complement, not replace, physical cash.",
+        "question": "As of the most recent phase of the ECB's work on a central bank digital currency, what is the current status of the 'digital euro' project?",
+        "options": [
+          "It has been fully launched and is in circulation across the euro area",
+          "It is in a preparation phase, following an earlier investigation phase, with no final decision yet taken to issue it",
+          "The project was cancelled by the ECB in 2023",
+          "It has replaced physical euro banknotes and coins"
+        ],
+        "answer": 1,
+        "explanation": "The ECB moved from an investigation phase (2021-2023) into a preparation phase for the digital euro, focused on finalising rules and selecting providers. No final decision to actually issue a digital euro has yet been taken; that decision rests with the Eurosystem's Governing Council and requires legislative action by the EU co-legislators."
+      },
+      "el": {
+        "passage": "15. Το Ευρωσύστημα διερευνά την πιθανή εισαγωγή ενός ψηφιακού νομίσματος κεντρικής τράπεζας που θα συμπληρώνει, όχι θα αντικαθιστά, τα φυσικά μετρητά.",
+        "question": "Στο πλαίσιο της πιο πρόσφατης φάσης εργασιών της ΕΚΤ για ένα ψηφιακό νόμισμα κεντρικής τράπεζας, ποια είναι η τρέχουσα κατάσταση του έργου του «ψηφιακού ευρώ»;",
+        "options": [
+          "Έχει πλήρως εγκαινιαστεί και κυκλοφορεί σε ολόκληρη τη ζώνη του ευρώ",
+          "Βρίσκεται σε φάση προετοιμασίας, μετά από προηγούμενη φάση διερεύνησης, χωρίς να έχει ληφθεί ακόμη τελική απόφαση έκδοσής του",
+          "Το έργο ακυρώθηκε από την ΕΚΤ το 2023",
+          "Έχει αντικαταστήσει τα φυσικά χαρτονομίσματα και κέρματα ευρώ"
+        ],
+        "answer": 1,
+        "explanation": "Η ΕΚΤ πέρασε από μια φάση διερεύνησης (2021-2023) σε φάση προετοιμασίας για το ψηφιακό ευρώ, εστιάζοντας στην οριστικοποίηση κανόνων και την επιλογή παρόχων. Δεν έχει ληφθεί ακόμη τελική απόφαση έκδοσής του· αυτή ανήκει στο Διοικητικό Συμβούλιο του Ευρωσυστήματος και απαιτεί νομοθετική δράση από τους συννομοθέτες της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. To provide legal clarity for the rapidly growing crypto-asset sector, the EU adopted a comprehensive regulation covering issuers and service providers.",
+        "question": "What does the EU's Markets in Crypto-Assets Regulation (MiCA) primarily aim to achieve?",
+        "options": [
+          "To ban all crypto-asset trading within the EU",
+          "To provide a harmonised regulatory framework for crypto-assets not already covered by existing financial services legislation",
+          "To make Bitcoin legal tender across the Eurozone",
+          "To merge crypto-asset supervision entirely into the ECB's mandate"
+        ],
+        "answer": 1,
+        "explanation": "MiCA establishes a harmonised EU-wide regulatory framework for crypto-assets, issuers, and crypto-asset service providers not already covered by existing EU financial services rules, aiming to protect investors and preserve financial stability while enabling innovation."
+      },
+      "el": {
+        "passage": "16. Για να παράσχει νομική σαφήνεια στον ταχέως αναπτυσσόμενο τομέα των κρυπτοστοιχείων, η ΕΕ υιοθέτησε έναν ολοκληρωμένο κανονισμό που καλύπτει εκδότες και παρόχους υπηρεσιών.",
+        "question": "Τι στοχεύει κυρίως να επιτύχει ο Κανονισμός της ΕΕ για τις Αγορές Κρυπτοστοιχείων (MiCA);",
+        "options": [
+          "Να απαγορεύσει κάθε συναλλαγή κρυπτοστοιχείων εντός της ΕΕ",
+          "Να παράσχει εναρμονισμένο ρυθμιστικό πλαίσιο για τα κρυπτοστοιχεία που δεν καλύπτονται ήδη από την υφιστάμενη νομοθεσία χρηματοπιστωτικών υπηρεσιών",
+          "Να καταστήσει το Bitcoin επίσημο νόμισμα σε ολόκληρη την Ευρωζώνη",
+          "Να ενσωματώσει πλήρως την εποπτεία κρυπτοστοιχείων στην αρμοδιότητα της ΕΚΤ"
+        ],
+        "answer": 1,
+        "explanation": "Ο MiCA θεσπίζει εναρμονισμένο ρυθμιστικό πλαίσιο σε επίπεδο ΕΕ για τα κρυπτοστοιχεία, τους εκδότες και τους παρόχους υπηρεσιών κρυπτοστοιχείων που δεν καλύπτονται ήδη από τους υφιστάμενους κανόνες χρηματοπιστωτικών υπηρεσιών της ΕΕ, με στόχο την προστασία των επενδυτών και τη διατήρηση της χρηματοπιστωτικής σταθερότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. As cyberattacks on critical infrastructure increase, the EU updated its cybersecurity legislation to widen its scope and strengthen requirements on covered entities.",
+        "question": "Compared with its predecessor, what is a key change introduced by the NIS2 Directive on cybersecurity?",
+        "options": [
+          "It removes all cybersecurity obligations for the public sector",
+          "It significantly expands the range of sectors and entities subject to cybersecurity risk-management and reporting obligations",
+          "It applies only to companies established outside the EU",
+          "It replaces national cybersecurity authorities with a single EU cyber-police force"
+        ],
+        "answer": 1,
+        "explanation": "The NIS2 Directive significantly broadens the scope of sectors covered (e.g. adding postal services, waste management, and public administration) and strengthens security and incident-reporting requirements compared with the original NIS Directive, aiming to raise the overall level of cybersecurity across the EU."
+      },
+      "el": {
+        "passage": "17. Καθώς αυξάνονται οι κυβερνοεπιθέσεις σε κρίσιμες υποδομές, η ΕΕ επικαιροποίησε τη νομοθεσία της για την κυβερνοασφάλεια, διευρύνοντας το πεδίο εφαρμογής της και ενισχύοντας τις απαιτήσεις για τις υπόχρεες οντότητες.",
+        "question": "Σε σύγκριση με την προκάτοχό της, ποια είναι μια βασική αλλαγή που εισάγει η Οδηγία NIS2 για την κυβερνοασφάλεια;",
+        "options": [
+          "Καταργεί όλες τις υποχρεώσεις κυβερνοασφάλειας για τον δημόσιο τομέα",
+          "Διευρύνει σημαντικά το φάσμα των τομέων και οντοτήτων που υπόκεινται σε υποχρεώσεις διαχείρισης κινδύνου και αναφοράς περιστατικών κυβερνοασφάλειας",
+          "Εφαρμόζεται μόνο σε εταιρείες εγκατεστημένες εκτός ΕΕ",
+          "Αντικαθιστά τις εθνικές αρχές κυβερνοασφάλειας με μια ενιαία αστυνομία κυβερνοασφάλειας της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία NIS2 διευρύνει σημαντικά το φάσμα των καλυπτόμενων τομέων (π.χ. προσθέτοντας ταχυδρομικές υπηρεσίες, διαχείριση αποβλήτων και δημόσια διοίκηση) και ενισχύει τις απαιτήσεις ασφάλειας και αναφοράς περιστατικών σε σύγκριση με την αρχική Οδηγία NIS."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. Concerned about its dependence on foreign semiconductor manufacturing, the EU adopted a strategy to boost domestic chip production capacity.",
+        "question": "What is the EU Chips Act's target for the EU's share of global semiconductor production capacity by 2030?",
+        "options": [
+          "10%",
+          "20%",
+          "35%",
+          "50%"
+        ],
+        "answer": 1,
+        "explanation": "The European Chips Act aims to double the EU's share of global semiconductor production capacity from around 10% to at least 20% by 2030, through investment in research, production capacity, and supply chain resilience."
+      },
+      "el": {
+        "passage": "18. Ανησυχώντας για την εξάρτησή της από την ξένη κατασκευή ημιαγωγών, η ΕΕ υιοθέτησε στρατηγική για την ενίσχυση της εγχώριας παραγωγικής ικανότητας τσιπ.",
+        "question": "Ποιος είναι ο στόχος του Ευρωπαϊκού Νόμου για τα Τσιπ (Chips Act) για το μερίδιο της ΕΕ στην παγκόσμια παραγωγική ικανότητα ημιαγωγών έως το 2030;",
+        "options": [
+          "10%",
+          "20%",
+          "35%",
+          "50%"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Νόμος για τα Τσιπ στοχεύει να διπλασιάσει το μερίδιο της ΕΕ στην παγκόσμια παραγωγική ικανότητα ημιαγωγών από περίπου 10% σε τουλάχιστον 20% έως το 2030, μέσω επενδύσεων σε έρευνα, παραγωγική ικανότητα και ανθεκτικότητα της εφοδιαστικής αλυσίδας."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. To reduce reliance on imports of materials essential for the green and digital transitions, the EU set specific numerical benchmarks for its own domestic capacity along the critical raw materials supply chain.",
+        "question": "Which set of domestic capacity benchmarks did the EU's Critical Raw Materials Act establish for 2030?",
+        "options": [
+          "10% extraction, 40% processing, and 25% recycling of the EU's annual consumption",
+          "25% extraction, 25% processing, and 25% recycling of the EU's annual consumption",
+          "50% extraction, 50% processing, and 50% recycling of the EU's annual consumption",
+          "5% extraction, 10% processing, and 5% recycling of the EU's annual consumption"
+        ],
+        "answer": 0,
+        "explanation": "The Critical Raw Materials Act sets 2030 benchmarks for the EU to achieve at least 10% domestic extraction, 40% domestic processing, and 25% domestic recycling of its annual consumption of strategic raw materials, while limiting reliance on any single third country to 65% for each material."
+      },
+      "el": {
+        "passage": "19. Για να μειώσει την εξάρτηση από εισαγωγές υλικών απαραίτητων για την πράσινη και ψηφιακή μετάβαση, η ΕΕ έθεσε συγκεκριμένους αριθμητικούς στόχους για την εγχώρια ικανότητά της κατά μήκος της αλυσίδας εφοδιασμού κρίσιμων πρώτων υλών.",
+        "question": "Ποιο σύνολο στόχων εγχώριας ικανότητας θέσπισε ο Ευρωπαϊκός Νόμος για τις Κρίσιμες Πρώτες Ύλες για το 2030;",
+        "options": [
+          "10% εξόρυξη, 40% επεξεργασία και 25% ανακύκλωση της ετήσιας κατανάλωσης της ΕΕ",
+          "25% εξόρυξη, 25% επεξεργασία και 25% ανακύκλωση της ετήσιας κατανάλωσης της ΕΕ",
+          "50% εξόρυξη, 50% επεξεργασία και 50% ανακύκλωση της ετήσιας κατανάλωσης της ΕΕ",
+          "5% εξόρυξη, 10% επεξεργασία και 5% ανακύκλωση της ετήσιας κατανάλωσης της ΕΕ"
+        ],
+        "answer": 0,
+        "explanation": "Ο Νόμος για τις Κρίσιμες Πρώτες Ύλες θέτει στόχους για το 2030 ώστε η ΕΕ να επιτύχει τουλάχιστον 10% εγχώρια εξόρυξη, 40% εγχώρια επεξεργασία και 25% εγχώρια ανακύκλωση της ετήσιας κατανάλωσής της σε στρατηγικές πρώτες ύλες, περιορίζοντας παράλληλα την εξάρτηση από μία τρίτη χώρα στο 65% ανά υλικό."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. Facing record numbers of asylum applications and uneven distribution among Member States, the EU adopted a comprehensive legislative reform in 2024 to overhaul its migration and asylum system.",
+        "question": "What is a central feature of the mandatory 'solidarity mechanism' introduced by the 2024 Pact on Migration and Asylum?",
+        "options": [
+          "It requires all Member States to accept an equal fixed number of asylum seekers regardless of circumstances",
+          "It allows Member States under migratory pressure to be supported by others, who can choose to relocate applicants, make financial contributions, or provide other forms of support",
+          "It abolishes the right to claim asylum in the EU",
+          "It transfers all asylum decision-making powers to Frontex"
+        ],
+        "answer": 1,
+        "explanation": "The solidarity mechanism under the Asylum and Migration Management Regulation requires Member States to contribute to supporting those under migratory pressure, but gives them flexibility to choose between relocating applicants, making financial contributions, or offering other operational support, rather than imposing a single uniform obligation."
+      },
+      "el": {
+        "passage": "20. Αντιμετωπίζοντας ρεκόρ αιτήσεων ασύλου και άνιση κατανομή μεταξύ κρατών μελών, η ΕΕ υιοθέτησε το 2024 μια ολοκληρωμένη νομοθετική μεταρρύθμιση για την ανασχεδίαση του συστήματος μετανάστευσης και ασύλου.",
+        "question": "Ποιο είναι ένα κεντρικό χαρακτηριστικό του υποχρεωτικού «μηχανισμού αλληλεγγύης» που εισήγαγε το Σύμφωνο για τη Μετανάστευση και το Άσυλο του 2024;",
+        "options": [
+          "Απαιτεί από όλα τα κράτη μέλη να δέχονται έναν ίσο σταθερό αριθμό αιτούντων άσυλο ανεξαρτήτως συνθηκών",
+          "Επιτρέπει στα κράτη μέλη υπό μεταναστευτική πίεση να υποστηρίζονται από άλλα, τα οποία μπορούν να επιλέξουν μετεγκατάσταση αιτούντων, οικονομικές συνεισφορές ή άλλες μορφές στήριξης",
+          "Καταργεί το δικαίωμα υποβολής αιτήματος ασύλου στην ΕΕ",
+          "Μεταβιβάζει όλες τις εξουσίες λήψης αποφάσεων ασύλου στη Frontex"
+        ],
+        "answer": 1,
+        "explanation": "Ο μηχανισμός αλληλεγγύης βάσει του Κανονισμού για τη Διαχείριση Ασύλου και Μετανάστευσης απαιτεί από τα κράτη μέλη να συνεισφέρουν στη στήριξη όσων βρίσκονται υπό μεταναστευτική πίεση, αλλά τους δίνει ευελιξία να επιλέξουν μεταξύ μετεγκατάστασης αιτούντων, οικονομικών συνεισφορών ή άλλης επιχειρησιακής στήριξης."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Since 2017, a subset of EU Member States has cooperated more closely on defence capability development through a framework created by the Lisbon Treaty but only activated years later.",
+        "question": "What is 'PESCO' in the context of EU defence policy?",
+        "options": [
+          "A permanent EU standing army under Commission command",
+          "Permanent Structured Cooperation, a framework for participating Member States to jointly develop defence capabilities and invest in joint projects",
+          "The EU's single external border control force",
+          "A treaty establishing a European nuclear deterrent"
+        ],
+        "answer": 1,
+        "explanation": "PESCO (Permanent Structured Cooperation), activated in December 2017, is a framework under the Lisbon Treaty enabling willing and able Member States to jointly plan, develop, and invest in shared defence capability projects, without creating an EU army."
+      },
+      "el": {
+        "passage": "21. Από το 2017, ένα υποσύνολο κρατών μελών της ΕΕ συνεργάζεται στενότερα για την ανάπτυξη αμυντικών ικανοτήτων μέσω ενός πλαισίου που δημιουργήθηκε από τη Συνθήκη της Λισαβόνας αλλά ενεργοποιήθηκε μόλις χρόνια αργότερα.",
+        "question": "Τι είναι η «PESCO» στο πλαίσιο της αμυντικής πολιτικής της ΕΕ;",
+        "options": [
+          "Ένας μόνιμος στρατός της ΕΕ υπό τη διοίκηση της Επιτροπής",
+          "Η Μόνιμη Διαρθρωμένη Συνεργασία, ένα πλαίσιο για τη συλλογική ανάπτυξη αμυντικών ικανοτήτων και επένδυση σε κοινά έργα από τα συμμετέχοντα κράτη μέλη",
+          "Η ενιαία δύναμη ελέγχου εξωτερικών συνόρων της ΕΕ",
+          "Μια συνθήκη που ιδρύει ευρωπαϊκό πυρηνικό αποτρεπτικό μηχανισμό"
+        ],
+        "answer": 1,
+        "explanation": "Η PESCO (Μόνιμη Διαρθρωμένη Συνεργασία), που ενεργοποιήθηκε τον Δεκέμβριο του 2017, είναι πλαίσιο βάσει της Συνθήκης της Λισαβόνας που επιτρέπει σε πρόθυμα και ικανά κράτη μέλη να σχεδιάζουν, αναπτύσσουν και επενδύουν από κοινού σε κοινά έργα αμυντικών ικανοτήτων, χωρίς να δημιουργείται στρατός της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. Support for the defence capabilities of partner countries, including the transfer of military equipment, falls outside the regular EU budget and is instead financed through an off-budget instrument.",
+        "question": "What is the primary purpose of the European Peace Facility (EPF)?",
+        "options": [
+          "To fund cultural exchange programmes promoting peace education",
+          "To finance, off the regular EU budget, military and defence-related support to partner countries and CSDP military operations",
+          "To pay pensions to retired EU civil servants",
+          "To provide humanitarian food aid exclusively"
+        ],
+        "answer": 1,
+        "explanation": "The European Peace Facility is an off-budget fund enabling the EU to finance military and defence-related support to partner countries (including equipment transfers) and to fund the common costs of EU military operations under the Common Security and Defence Policy (CSDP)."
+      },
+      "el": {
+        "passage": "22. Η στήριξη των αμυντικών ικανοτήτων εταίρων χωρών, συμπεριλαμβανομένης της μεταφοράς στρατιωτικού εξοπλισμού, βρίσκεται εκτός του τακτικού προϋπολογισμού της ΕΕ και χρηματοδοτείται αντ' αυτού μέσω εξωπροϋπολογισμικού εργαλείου.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός του Ευρωπαϊκού Μηχανισμού για την Ειρήνη (EPF);",
+        "options": [
+          "Η χρηματοδότηση προγραμμάτων πολιτιστικής ανταλλαγής για την εκπαίδευση στην ειρήνη",
+          "Η χρηματοδότηση, εκτός τακτικού προϋπολογισμού της ΕΕ, στρατιωτικής και αμυντικής στήριξης σε εταίρες χώρες και επιχειρήσεις ΚΠΑΑ",
+          "Η καταβολή συντάξεων σε συνταξιούχους υπαλλήλους της ΕΕ",
+          "Η αποκλειστική παροχή ανθρωπιστικής βοήθειας τροφίμων"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Μηχανισμός για την Ειρήνη είναι ένα εξωπροϋπολογισμικό ταμείο που επιτρέπει στην ΕΕ να χρηματοδοτεί στρατιωτική και αμυντική στήριξη σε εταίρες χώρες (συμπεριλαμβανομένων μεταφορών εξοπλισμού) και να χρηματοδοτεί τα κοινά κόστη στρατιωτικών επιχειρήσεων της ΕΕ στο πλαίσιο της Κοινής Πολιτικής Ασφάλειας και Άμυνας (ΚΠΑΑ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. Fisheries in EU waters are managed under a common policy aimed at ensuring the long-term sustainability of fish stocks alongside the economic viability of the fishing industry.",
+        "question": "What core scientific principle underpins fishing quotas set under the EU's Common Fisheries Policy?",
+        "options": [
+          "Maximum Sustainable Yield (MSY), the highest catch that can be taken from a stock indefinitely without depleting it",
+          "First-come, first-served access with no catch limits",
+          "Equal tonnage quotas for every Member State regardless of fish stock location",
+          "A complete ban on all commercial fishing within EU waters"
+        ],
+        "answer": 0,
+        "explanation": "The Common Fisheries Policy aims to set catch limits (Total Allowable Catches) at levels consistent with Maximum Sustainable Yield (MSY) — the largest catch that can be taken from a fish stock over an indefinite period without depleting it — to ensure long-term stock sustainability."
+      },
+      "el": {
+        "passage": "23. Η αλιεία στα ύδατα της ΕΕ διαχειρίζεται στο πλαίσιο κοινής πολιτικής που στοχεύει στη μακροπρόθεσμη βιωσιμότητα των αποθεμάτων ψαριών παράλληλα με την οικονομική βιωσιμότητα του αλιευτικού κλάδου.",
+        "question": "Ποια βασική επιστημονική αρχή διέπει τις αλιευτικές ποσοστώσεις που καθορίζονται στο πλαίσιο της Κοινής Αλιευτικής Πολιτικής της ΕΕ;",
+        "options": [
+          "Η Μέγιστη Βιώσιμη Απόδοση (MSY), η μεγαλύτερη σύλληψη που μπορεί να ληφθεί από ένα απόθεμα επ' αόριστον χωρίς να το εξαντλήσει",
+          "Πρόσβαση με σειρά προτεραιότητας χωρίς όρια σύλληψης",
+          "Ίσες ποσοστώσεις τονάζ για κάθε κράτος μέλος ανεξαρτήτως θέσης του αποθέματος ψαριών",
+          "Πλήρης απαγόρευση κάθε εμπορικής αλιείας εντός υδάτων της ΕΕ"
+        ],
+        "answer": 0,
+        "explanation": "Η Κοινή Αλιευτική Πολιτική στοχεύει να καθορίζει όρια σύλληψης (Συνολικά Επιτρεπόμενα Αλιεύματα) σε επίπεδα συνεπή με τη Μέγιστη Βιώσιμη Απόδοση (MSY) — τη μεγαλύτερη σύλληψη που μπορεί να ληφθεί από ένα απόθεμα ψαριών επ' αόριστον χωρίς να το εξαντλήσει — για τη διασφάλιση της μακροπρόθεσμης βιωσιμότητας των αποθεμάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. Beyond direct effect and primacy, the CJEU has developed a doctrine allowing individuals to seek compensation from a Member State that fails to properly implement EU law.",
+        "question": "Which landmark CJEU ruling established the principle that a Member State can be held liable in damages for losses caused by its failure to correctly transpose EU law?",
+        "options": [
+          "Van Gend en Loos",
+          "Cassis de Dijon",
+          "Francovich v Italy",
+          "Foto-Frost"
+        ],
+        "answer": 2,
+        "explanation": "Francovich v Italy (1991) established the principle of Member State liability, holding that individuals harmed by a Member State's failure to properly implement EU law (such as a directive) may be entitled to compensation from that state, under certain conditions."
+      },
+      "el": {
+        "passage": "24. Πέρα από το άμεσο αποτέλεσμα και την υπεροχή, το ΔΕΕ έχει αναπτύξει ένα δόγμα που επιτρέπει στους ιδιώτες να ζητούν αποζημίωση από κράτος μέλος που αποτυγχάνει να εφαρμόσει σωστά το δίκαιο της ΕΕ.",
+        "question": "Ποια εμβληματική απόφαση του ΔΕΕ καθιέρωσε την αρχή ότι ένα κράτος μέλος μπορεί να θεωρηθεί υπεύθυνο για αποζημίωση ζημιών που προκλήθηκαν από την αποτυχία ορθής μεταφοράς του δικαίου της ΕΕ;",
+        "options": [
+          "Van Gend en Loos",
+          "Cassis de Dijon",
+          "Francovich κατά Ιταλίας",
+          "Foto-Frost"
+        ],
+        "answer": 2,
+        "explanation": "Η υπόθεση Francovich κατά Ιταλίας (1991) καθιέρωσε την αρχή της ευθύνης των κρατών μελών, κρίνοντας ότι ιδιώτες που ζημιώνονται από την αποτυχία ενός κράτους μέλους να εφαρμόσει σωστά το δίκαιο της ΕΕ (όπως μια οδηγία) μπορεί να δικαιούνται αποζημίωση από το εν λόγω κράτος, υπό ορισμένες προϋποθέσεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The judicial architecture of the EU is not limited to a single court; a second court was created in 1988 to relieve the caseload of the original Court.",
+        "question": "What is the name of the court created in 1988 to handle certain categories of cases (such as actions by individuals and companies) and relieve the workload of the Court of Justice?",
+        "options": [
+          "The European Court of Human Rights",
+          "The General Court",
+          "The Civil Service Tribunal (still operating)",
+          "The European Court of First Instance for Criminal Matters"
+        ],
+        "answer": 1,
+        "explanation": "The General Court (originally named the Court of First Instance when created in 1988) handles certain categories of cases, including actions brought by individuals and companies, competition cases, and state aid cases, relieving the Court of Justice's caseload; its rulings can be appealed to the Court of Justice on points of law."
+      },
+      "el": {
+        "passage": "25. Η δικαστική αρχιτεκτονική της ΕΕ δεν περιορίζεται σε ένα μόνο δικαστήριο· ένα δεύτερο δικαστήριο δημιουργήθηκε το 1988 για την αποσυμφόρηση του φόρτου εργασίας του αρχικού Δικαστηρίου.",
+        "question": "Πώς ονομάζεται το δικαστήριο που δημιουργήθηκε το 1988 για να χειρίζεται ορισμένες κατηγορίες υποθέσεων (όπως προσφυγές ιδιωτών και εταιρειών) και να αποσυμφορήσει το Δικαστήριο;",
+        "options": [
+          "Το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων",
+          "Το Γενικό Δικαστήριο",
+          "Το Δικαστήριο Δημόσιας Διοίκησης (ακόμη σε λειτουργία)",
+          "Το Ευρωπαϊκό Πρωτοδικείο για Ποινικά Θέματα"
+        ],
+        "answer": 1,
+        "explanation": "Το Γενικό Δικαστήριο (αρχικά ονομαζόταν Πρωτοδικείο όταν δημιουργήθηκε το 1988) χειρίζεται ορισμένες κατηγορίες υποθέσεων, συμπεριλαμβανομένων προσφυγών ιδιωτών και εταιρειών, υποθέσεων ανταγωνισμού και κρατικών ενισχύσεων, αποσυμφορώντας το Δικαστήριο· οι αποφάσεις του μπορούν να προσβληθούν κατ' αναίρεση ενώπιον του Δικαστηρίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. While all 24 official languages have equal status for legislative and citizen-facing purposes, the European Commission's day-to-day internal work relies on a much smaller set of working languages.",
+        "question": "Which three languages are generally used as the European Commission's internal working languages?",
+        "options": [
+          "English, French, and German",
+          "English, French, and Spanish",
+          "French, German, and Italian",
+          "English only"
+        ],
+        "answer": 0,
+        "explanation": "While the EU has 24 official languages with equal legal status, the European Commission's internal administrative work is conducted primarily in English, French, and German, its three traditional working languages, for efficiency."
+      },
+      "el": {
+        "passage": "26. Ενώ όλες οι 24 επίσημες γλώσσες έχουν ίσο καθεστώς για νομοθετικούς σκοπούς και σκοπούς επικοινωνίας με τους πολίτες, η καθημερινή εσωτερική εργασία της Ευρωπαϊκής Επιτροπής βασίζεται σε πολύ μικρότερο σύνολο γλωσσών εργασίας.",
+        "question": "Ποιες τρεις γλώσσες χρησιμοποιούνται γενικά ως γλώσσες εσωτερικής εργασίας της Ευρωπαϊκής Επιτροπής;",
+        "options": [
+          "Αγγλικά, γαλλικά και γερμανικά",
+          "Αγγλικά, γαλλικά και ισπανικά",
+          "Γαλλικά, γερμανικά και ιταλικά",
+          "Μόνο αγγλικά"
+        ],
+        "answer": 0,
+        "explanation": "Ενώ η ΕΕ έχει 24 επίσημες γλώσσες με ίσο νομικό καθεστώς, η εσωτερική διοικητική εργασία της Ευρωπαϊκής Επιτροπής διεξάγεται κυρίως στα αγγλικά, γαλλικά και γερμανικά, τις τρεις παραδοσιακές γλώσσες εργασίας της, για λόγους αποτελεσματικότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. Workers sent temporarily by their employer to carry out work in another Member State fall under a specific EU legal framework distinct from ordinary migrant worker rules.",
+        "question": "What is the main purpose of the EU's Posting of Workers Directive?",
+        "options": [
+          "To grant permanent residency to any worker who works abroad for more than one week",
+          "To ensure that workers temporarily posted to another Member State receive certain core terms and conditions of employment (such as minimum rates of pay) applicable in the host state",
+          "To ban companies from sending employees to work in other Member States",
+          "To harmonise income tax rates across the EU for posted workers"
+        ],
+        "answer": 1,
+        "explanation": "The Posting of Workers Directive ensures that workers temporarily sent by their employer to provide services in another Member State are guaranteed certain core employment conditions (including remuneration rules) applicable in the host Member State, protecting against unfair competition based on lower labour costs while preserving freedom to provide services."
+      },
+      "el": {
+        "passage": "27. Οι εργαζόμενοι που αποσπώνται προσωρινά από τον εργοδότη τους για να εκτελέσουν εργασία σε άλλο κράτος μέλος υπάγονται σε ειδικό νομικό πλαίσιο της ΕΕ, διακριτό από τους συνήθεις κανόνες για μετανάστες εργαζόμενους.",
+        "question": "Ποιος είναι ο κύριος σκοπός της Οδηγίας της ΕΕ για την Απόσπαση Εργαζομένων;",
+        "options": [
+          "Η χορήγηση μόνιμης διαμονής σε κάθε εργαζόμενο που εργάζεται στο εξωτερικό για περισσότερο από μία εβδομάδα",
+          "Η διασφάλιση ότι οι εργαζόμενοι που αποσπώνται προσωρινά σε άλλο κράτος μέλος λαμβάνουν ορισμένους βασικούς όρους εργασίας (όπως ελάχιστες αμοιβές) που ισχύουν στο κράτος υποδοχής",
+          "Η απαγόρευση αποστολής εργαζομένων από εταιρείες για εργασία σε άλλα κράτη μέλη",
+          "Η εναρμόνιση των συντελεστών φόρου εισοδήματος σε ολόκληρη την ΕΕ για τους αποσπασμένους εργαζόμενους"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία για την Απόσπαση Εργαζομένων διασφαλίζει ότι οι εργαζόμενοι που αποστέλλονται προσωρινά από τον εργοδότη τους για παροχή υπηρεσιών σε άλλο κράτος μέλος λαμβάνουν εγγυημένα ορισμένους βασικούς όρους εργασίας (συμπεριλαμβανομένων κανόνων αμοιβής) που ισχύουν στο κράτος μέλος υποδοχής, προστατεύοντας από τον αθέμιτο ανταγωνισμό λόγω χαμηλότερου εργατικού κόστους."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Rather than setting a single EU-wide minimum wage, the 2022 Adequate Minimum Wages Directive takes a different regulatory approach respecting national wage-setting traditions.",
+        "question": "What approach does the EU's Adequate Minimum Wages Directive (2022) take toward minimum wages?",
+        "options": [
+          "It sets a single, identical minimum wage figure applicable in every Member State",
+          "It establishes a procedural framework and criteria to promote adequate minimum wages, without imposing a common minimum wage level or requiring statutory minimum wages where collective bargaining already exists",
+          "It abolishes minimum wage laws across the EU in favour of pure market pricing",
+          "It applies only to public-sector employees"
+        ],
+        "answer": 1,
+        "explanation": "The Directive does not set a common EU minimum wage or oblige Member States to introduce statutory minimum wages; instead, it establishes a framework of criteria and procedures (such as promoting collective bargaining coverage) to help ensure that, where minimum wages exist, they are set at an adequate level, respecting national traditions."
+      },
+      "el": {
+        "passage": "28. Αντί να θέτει έναν ενιαίο κατώτατο μισθό σε επίπεδο ΕΕ, η Οδηγία για τους Επαρκείς Κατώτατους Μισθούς του 2022 υιοθετεί διαφορετική ρυθμιστική προσέγγιση, σεβόμενη τις εθνικές παραδόσεις καθορισμού μισθών.",
+        "question": "Ποια προσέγγιση υιοθετεί η Οδηγία της ΕΕ για τους Επαρκείς Κατώτατους Μισθούς (2022) όσον αφορά τους κατώτατους μισθούς;",
+        "options": [
+          "Θέτει ένα ενιαίο, πανομοιότυπο ύψος κατώτατου μισθού που ισχύει σε κάθε κράτος μέλος",
+          "Θεσπίζει διαδικαστικό πλαίσιο και κριτήρια για την προώθηση επαρκών κατώτατων μισθών, χωρίς να επιβάλλει κοινό ύψος κατώτατου μισθού ή νομοθετημένους κατώτατους μισθούς όπου υπάρχει ήδη συλλογική διαπραγμάτευση",
+          "Καταργεί τους νόμους περί κατώτατου μισθού σε όλη την ΕΕ υπέρ καθαρής τιμολόγησης αγοράς",
+          "Εφαρμόζεται μόνο σε υπαλλήλους του δημόσιου τομέα"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία δεν θέτει κοινό κατώτατο μισθό σε επίπεδο ΕΕ ούτε υποχρεώνει τα κράτη μέλη να θεσπίσουν νομοθετημένους κατώτατους μισθούς· αντ' αυτού, θεσπίζει πλαίσιο κριτηρίων και διαδικασιών (όπως η προώθηση της κάλυψης συλλογικών διαπραγματεύσεων) για να διασφαλιστεί ότι, όπου υπάρχουν κατώτατοι μισθοί, καθορίζονται σε επαρκές επίπεδο."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Investment in ambitious cross-border research and innovation is coordinated through the EU's flagship framework programme for research and innovation, running from 2021 to 2027.",
+        "question": "What is the approximate total budget of Horizon Europe, the EU's research and innovation framework programme for 2021-2027?",
+        "options": [
+          "Approximately €30 billion",
+          "Approximately €55 billion",
+          "Approximately €95.5 billion",
+          "Approximately €200 billion"
+        ],
+        "answer": 2,
+        "explanation": "Horizon Europe has a budget of approximately €95.5 billion for 2021-2027 (including top-ups from NextGenerationEU), making it the world's largest multinational research and innovation programme, succeeding Horizon 2020."
+      },
+      "el": {
+        "passage": "29. Οι επενδύσεις σε φιλόδοξη διασυνοριακή έρευνα και καινοτομία συντονίζονται μέσω του εμβληματικού πλαισίου προγράμματος της ΕΕ για την έρευνα και την καινοτομία, που καλύπτει την περίοδο 2021-2027.",
+        "question": "Ποιος είναι ο κατά προσέγγιση συνολικός προϋπολογισμός του Horizon Europe, του προγράμματος-πλαισίου έρευνας και καινοτομίας της ΕΕ για το 2021-2027;",
+        "options": [
+          "Περίπου 30 δισ. ευρώ",
+          "Περίπου 55 δισ. ευρώ",
+          "Περίπου 95,5 δισ. ευρώ",
+          "Περίπου 200 δισ. ευρώ"
+        ],
+        "answer": 2,
+        "explanation": "Το Horizon Europe έχει προϋπολογισμό περίπου 95,5 δισ. ευρώ για την περίοδο 2021-2027 (συμπεριλαμβανομένων συμπληρωματικών κονδυλίων από το NextGenerationEU), καθιστώντας το το μεγαλύτερο πολυεθνικό πρόγραμμα έρευνας και καινοτομίας στον κόσμο, διάδοχο του Horizon 2020."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. The EU institutional structure comprises not one, but two distinct courts sitting together as the 'Court of Justice of the European Union'.",
+        "question": "What are the two courts that together compose the 'Court of Justice of the European Union' (CJEU)?",
+        "options": [
+          "The Court of Justice and the European Court of Human Rights",
+          "The Court of Justice and the General Court",
+          "The General Court and the Civil Service Tribunal",
+          "The Court of Auditors and the Court of Justice"
+        ],
+        "answer": 1,
+        "explanation": "The Court of Justice of the European Union (CJEU) comprises two courts: the Court of Justice (dealing mainly with requests for preliminary rulings and certain direct actions) and the General Court (dealing with a broader range of direct actions, including many brought by individuals and companies)."
+      },
+      "el": {
+        "passage": "30. Η θεσμική δομή της ΕΕ περιλαμβάνει όχι ένα, αλλά δύο διακριτά δικαστήρια που συνεδριάζουν από κοινού ως το «Δικαστήριο της Ευρωπαϊκής Ένωσης».",
+        "question": "Ποια είναι τα δύο δικαστήρια που μαζί απαρτίζουν το «Δικαστήριο της Ευρωπαϊκής Ένωσης» (ΔΕΕ);",
+        "options": [
+          "Το Δικαστήριο και το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων",
+          "Το Δικαστήριο και το Γενικό Δικαστήριο",
+          "Το Γενικό Δικαστήριο και το Δικαστήριο Δημόσιας Διοίκησης",
+          "Το Ελεγκτικό Συνέδριο και το Δικαστήριο"
+        ],
+        "answer": 1,
+        "explanation": "Το Δικαστήριο της Ευρωπαϊκής Ένωσης (ΔΕΕ) περιλαμβάνει δύο δικαστήρια: το Δικαστήριο (που ασχολείται κυρίως με αιτήματα προδικαστικής απόφασης και ορισμένες ευθείες προσφυγές) και το Γενικό Δικαστήριο (που ασχολείται με ευρύτερο φάσμα ευθειών προσφυγών, συμπεριλαμβανομένων πολλών που ασκούνται από ιδιώτες και εταιρείες)."
+      }
+    }
+  ],
+  "eu_8": [
+    {
+      "en": {
+        "passage": "1. Before EU law's supremacy over conflicting national law was fully entrenched, the CJEU had to clarify precisely how quickly and thoroughly national judges must act once a conflict is identified.",
+        "question": "Which CJEU ruling established that a national court must immediately set aside a conflicting national law of its own motion, without waiting for it to be repealed by the legislature or annulled by a constitutional court?",
+        "options": [
+          "Van Gend en Loos",
+          "Simmenthal",
+          "Francovich v Italy",
+          "Foto-Frost"
+        ],
+        "answer": 1,
+        "explanation": "The Simmenthal case (1978) held that national courts must immediately disapply any national provision that conflicts with EU law, on their own initiative, without needing to wait for the provision to be formally repealed or struck down by another body."
+      },
+      "el": {
+        "passage": "1. Πριν παγιωθεί πλήρως η υπεροχή του δικαίου της ΕΕ έναντι αντίθετου εθνικού δικαίου, το ΔΕΕ έπρεπε να διευκρινίσει ακριβώς πόσο γρήγορα και διεξοδικά πρέπει να ενεργούν οι εθνικοί δικαστές μόλις εντοπιστεί μια σύγκρουση.",
+        "question": "Ποια απόφαση του ΔΕΕ καθιέρωσε ότι ένα εθνικό δικαστήριο πρέπει να αφήνει αμέσως ανεφάρμοστο, αυτεπαγγέλτως, έναν αντίθετο εθνικό νόμο, χωρίς να περιμένει την κατάργησή του από τον νομοθέτη ή την ακύρωσή του από συνταγματικό δικαστήριο;",
+        "options": [
+          "Van Gend en Loos",
+          "Simmenthal",
+          "Francovich κατά Ιταλίας",
+          "Foto-Frost"
+        ],
+        "answer": 1,
+        "explanation": "Η υπόθεση Simmenthal (1978) έκρινε ότι τα εθνικά δικαστήρια πρέπει να αφήνουν αμέσως ανεφάρμοστη, αυτεπαγγέλτως, κάθε εθνική διάταξη που συγκρούεται με το δίκαιο της ΕΕ, χωρίς να χρειάζεται να περιμένουν την τυπική κατάργηση ή ακύρωσή της από άλλο όργανο."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. Before harmonised EU-wide product standards existed for many goods, a landmark ruling shaped how the single market handles differing national technical rules.",
+        "question": "The 'Cassis de Dijon' case established which key principle underpinning the functioning of the EU single market for goods?",
+        "options": [
+          "The principle of mutual recognition: a product lawfully manufactured and marketed in one Member State should, in principle, be allowed to be sold in others",
+          "The principle that all products must meet identical technical standards across the EU before sale",
+          "The principle that Member States may ban any imported product without justification",
+          "The principle that only harmonised EU legislation can regulate product standards"
+        ],
+        "answer": 0,
+        "explanation": "The Cassis de Dijon ruling (1979) established the principle of mutual recognition: absent an overriding justification (such as public health), a product lawfully produced and marketed in one Member State should be allowed to be sold in other Member States, even if it doesn't fully comply with the importing state's own technical rules."
+      },
+      "el": {
+        "passage": "2. Πριν υπάρξουν εναρμονισμένα πρότυπα προϊόντων σε επίπεδο ΕΕ για πολλά αγαθά, μια εμβληματική απόφαση διαμόρφωσε τον τρόπο με τον οποίο η ενιαία αγορά χειρίζεται διαφορετικούς εθνικούς τεχνικούς κανόνες.",
+        "question": "Η υπόθεση «Cassis de Dijon» καθιέρωσε ποια βασική αρχή που διέπει τη λειτουργία της ενιαίας αγοράς της ΕΕ για αγαθά;",
+        "options": [
+          "Την αρχή της αμοιβαίας αναγνώρισης: ένα προϊόν που παράγεται και διατίθεται νόμιμα σε ένα κράτος μέλος θα πρέπει, κατ' αρχήν, να επιτρέπεται να πωλείται και σε άλλα",
+          "Την αρχή ότι όλα τα προϊόντα πρέπει να πληρούν πανομοιότυπα τεχνικά πρότυπα σε ολόκληρη την ΕΕ πριν την πώληση",
+          "Την αρχή ότι τα κράτη μέλη μπορούν να απαγορεύσουν οποιοδήποτε εισαγόμενο προϊόν χωρίς αιτιολόγηση",
+          "Την αρχή ότι μόνο η εναρμονισμένη νομοθεσία της ΕΕ μπορεί να ρυθμίζει τα πρότυπα προϊόντων"
+        ],
+        "answer": 0,
+        "explanation": "Η απόφαση Cassis de Dijon (1979) καθιέρωσε την αρχή της αμοιβαίας αναγνώρισης: ελλείψει επιτακτικού λόγου δικαιολόγησης (όπως η δημόσια υγεία), ένα προϊόν που παράγεται και διατίθεται νόμιμα σε ένα κράτος μέλος θα πρέπει να επιτρέπεται να πωλείται και σε άλλα κράτη μέλη, ακόμη κι αν δεν συμμορφώνεται πλήρως με τους δικούς του τεχνικούς κανόνες της χώρας εισαγωγής."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. Article 6(2) TEU commits the EU to acceding to the European Convention on Human Rights, but a CJEU opinion has, so far, blocked this from happening on the terms initially negotiated.",
+        "question": "Why has the EU not yet formally acceded to the European Convention on Human Rights (ECHR), despite a Treaty commitment to do so?",
+        "options": [
+          "The Council of Europe has refused to allow the EU to join",
+          "The CJEU's Opinion 2/13 (2014) found the negotiated draft accession agreement incompatible with the specific characteristics of EU law",
+          "No Member State has ratified the ECHR",
+          "The Lisbon Treaty prohibits EU accession to any international human rights convention"
+        ],
+        "answer": 1,
+        "explanation": "In Opinion 2/13 (2014), the CJEU found that the draft agreement for EU accession to the ECHR was incompatible with certain specific characteristics of EU law, such as the autonomy of the EU legal order and the CJEU's exclusive jurisdiction over disputes between Member States concerning EU law. Accession negotiations have continued since, but have not yet been concluded."
+      },
+      "el": {
+        "passage": "3. Το άρθρο 6 παράγραφος 2 ΣΕΕ δεσμεύει την ΕΕ να προσχωρήσει στην Ευρωπαϊκή Σύμβαση Δικαιωμάτων του Ανθρώπου, ωστόσο μια γνωμοδότηση του ΔΕΕ έχει, μέχρι στιγμής, εμποδίσει αυτό να συμβεί με τους αρχικά διαπραγματευμένους όρους.",
+        "question": "Γιατί η ΕΕ δεν έχει ακόμη προσχωρήσει επίσημα στην Ευρωπαϊκή Σύμβαση Δικαιωμάτων του Ανθρώπου (ΕΣΔΑ), παρά τη σχετική δέσμευση στις Συνθήκες;",
+        "options": [
+          "Το Συμβούλιο της Ευρώπης έχει αρνηθεί να επιτρέψει στην ΕΕ να προσχωρήσει",
+          "Η Γνωμοδότηση 2/13 (2014) του ΔΕΕ έκρινε ότι το διαπραγματευμένο σχέδιο συμφωνίας προσχώρησης ήταν ασύμβατο με τα ειδικά χαρακτηριστικά του δικαίου της ΕΕ",
+          "Κανένα κράτος μέλος δεν έχει επικυρώσει την ΕΣΔΑ",
+          "Η Συνθήκη της Λισαβόνας απαγορεύει την προσχώρηση της ΕΕ σε οποιαδήποτε διεθνή σύμβαση ανθρωπίνων δικαιωμάτων"
+        ],
+        "answer": 1,
+        "explanation": "Στη Γνωμοδότηση 2/13 (2014), το ΔΕΕ έκρινε ότι το σχέδιο συμφωνίας για την προσχώρηση της ΕΕ στην ΕΣΔΑ ήταν ασύμβατο με ορισμένα ειδικά χαρακτηριστικά του δικαίου της ΕΕ, όπως η αυτονομία της έννομης τάξης της ΕΕ. Οι διαπραγματεύσεις προσχώρησης συνεχίστηκαν έκτοτε, αλλά δεν έχουν ακόμη ολοκληρωθεί."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. When travelling within the EU, EEA, or Switzerland, individuals can access state-provided healthcare on the same terms as residents of the visited country by presenting a specific document.",
+        "question": "What does the European Health Insurance Card (EHIC) entitle its holder to?",
+        "options": [
+          "Free private health insurance for life across the EU",
+          "Access to state-provided healthcare that becomes medically necessary during a temporary stay in another EU/EEA country or Switzerland, on the same terms as residents of that country",
+          "Automatic reimbursement of all medical costs incurred anywhere in the world",
+          "A guarantee of permanent residency in any EU country where treatment is received"
+        ],
+        "answer": 1,
+        "explanation": "The EHIC allows EU/EEA and Swiss citizens to access state-provided healthcare that becomes necessary during a temporary stay in another participating country, under the same conditions and at the same cost (free in some countries) as people insured in that country."
+      },
+      "el": {
+        "passage": "4. Κατά τη μετακίνηση εντός της ΕΕ, του ΕΟΧ ή της Ελβετίας, τα άτομα μπορούν να έχουν πρόσβαση σε κρατική περίθαλψη με τους ίδιους όρους όπως οι κάτοικοι της χώρας που επισκέπτονται, επιδεικνύοντας ένα συγκεκριμένο έγγραφο.",
+        "question": "Σε τι δικαιούται ο κάτοχος της Ευρωπαϊκής Κάρτας Ασφάλισης Ασθένειας (EHIC);",
+        "options": [
+          "Δωρεάν ιδιωτική ασφάλιση υγείας εφ' όρου ζωής σε ολόκληρη την ΕΕ",
+          "Πρόσβαση σε κρατική περίθαλψη που καθίσταται ιατρικά αναγκαία κατά τη διάρκεια προσωρινής παραμονής σε άλλη χώρα ΕΕ/ΕΟΧ ή Ελβετία, με τους ίδιους όρους όπως οι κάτοικοι της εν λόγω χώρας",
+          "Αυτόματη επιστροφή όλων των ιατρικών εξόδων που πραγματοποιούνται οπουδήποτε στον κόσμο",
+          "Εγγύηση μόνιμης διαμονής σε οποιαδήποτε χώρα της ΕΕ όπου λαμβάνεται θεραπεία"
+        ],
+        "answer": 1,
+        "explanation": "Η EHIC επιτρέπει σε πολίτες ΕΕ/ΕΟΧ και Ελβετίας να έχουν πρόσβαση σε κρατική περίθαλψη που καθίσταται αναγκαία κατά τη διάρκεια προσωρινής παραμονής σε άλλη συμμετέχουσα χώρα, υπό τους ίδιους όρους και με το ίδιο κόστος (δωρεάν σε ορισμένες χώρες) όπως τα ασφαλισμένα άτομα της εν λόγω χώρας."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. To attract highly qualified professionals from outside the EU to fill skills shortages, the EU created a specific fast-track work and residence permit scheme.",
+        "question": "Who is the primary target group of the EU Blue Card scheme?",
+        "options": [
+          "Unaccompanied minor asylum seekers",
+          "Highly qualified non-EU nationals seeking employment in the EU",
+          "Seasonal agricultural workers",
+          "EU citizens moving between Member States for work"
+        ],
+        "answer": 1,
+        "explanation": "The EU Blue Card is a work and residence permit designed to attract highly qualified workers from outside the EU, offering streamlined admission procedures and certain rights such as favourable family reunification conditions and intra-EU mobility after a period of residence."
+      },
+      "el": {
+        "passage": "5. Για να προσελκύσει άκρως ειδικευμένους επαγγελματίες εκτός ΕΕ ώστε να καλυφθούν ελλείψεις δεξιοτήτων, η ΕΕ δημιούργησε ειδικό ταχύρρυθμο σύστημα άδειας εργασίας και διαμονής.",
+        "question": "Ποια είναι η κύρια ομάδα-στόχος του συστήματος «Μπλε Κάρτα ΕΕ»;",
+        "options": [
+          "Ασυνόδευτοι ανήλικοι αιτούντες άσυλο",
+          "Άκρως ειδικευμένοι υπήκοοι τρίτων χωρών που αναζητούν απασχόληση στην ΕΕ",
+          "Εποχιακοί αγρότες εργαζόμενοι",
+          "Πολίτες της ΕΕ που μετακινούνται μεταξύ κρατών μελών για εργασία"
+        ],
+        "answer": 1,
+        "explanation": "Η Μπλε Κάρτα ΕΕ είναι άδεια εργασίας και διαμονής σχεδιασμένη να προσελκύσει άκρως ειδικευμένους εργαζόμενους από εκτός ΕΕ, προσφέροντας απλουστευμένες διαδικασίες εισδοχής και ορισμένα δικαιώματα, όπως ευνοϊκές προϋποθέσεις οικογενειακής επανένωσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. Following high-profile scandals in which employees exposed wrongdoing but faced retaliation, the EU adopted legislation to protect individuals who report breaches of EU law.",
+        "question": "What is the primary aim of the EU Whistleblower Protection Directive (2019)?",
+        "options": [
+          "To require companies to publish employee salaries",
+          "To establish common minimum standards protecting persons who report breaches of EU law from retaliation, such as dismissal or demotion",
+          "To criminalise all forms of internal corporate communication",
+          "To replace national labour courts with a single EU tribunal"
+        ],
+        "answer": 1,
+        "explanation": "The Whistleblower Protection Directive establishes common minimum standards for protecting individuals who report breaches of EU law encountered in a work-related context, safeguarding them against retaliatory measures such as dismissal, demotion, or harassment, and requiring organisations to establish secure internal reporting channels."
+      },
+      "el": {
+        "passage": "6. Μετά από πολύκροτα σκάνδαλα στα οποία εργαζόμενοι αποκάλυψαν παρατυπίες αλλά αντιμετώπισαν αντίποινα, η ΕΕ υιοθέτησε νομοθεσία για την προστασία όσων καταγγέλλουν παραβιάσεις του δικαίου της ΕΕ.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός της Οδηγίας της ΕΕ για την Προστασία των Καταγγελτών (2019);",
+        "options": [
+          "Η υποχρέωση των εταιρειών να δημοσιεύουν τους μισθούς των εργαζομένων",
+          "Η θέσπιση κοινών ελάχιστων προτύπων για την προστασία όσων καταγγέλλουν παραβιάσεις του δικαίου της ΕΕ από αντίποινα, όπως απόλυση ή υποβιβασμό",
+          "Η ποινικοποίηση κάθε μορφής εσωτερικής εταιρικής επικοινωνίας",
+          "Η αντικατάσταση των εθνικών εργατικών δικαστηρίων με ένα ενιαίο δικαστήριο της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία για την Προστασία των Καταγγελτών θεσπίζει κοινά ελάχιστα πρότυπα προστασίας ατόμων που καταγγέλλουν παραβιάσεις του δικαίου της ΕΕ που εντοπίζουν σε εργασιακό πλαίσιο, προστατεύοντάς τα από μέτρα αντιποίνων όπως απόλυση, υποβιβασμό ή παρενόχληση."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. As app-based and platform work expanded rapidly, concerns grew that many workers were being wrongly classified as self-employed, denying them employment rights.",
+        "question": "What is a key mechanism introduced by the 2024 Platform Work Directive to address the misclassification of platform workers?",
+        "options": [
+          "A ban on all digital labour platforms operating in the EU",
+          "A legal presumption of employment that can be triggered when facts indicating control and direction by the platform are present, shifting the burden of proof",
+          "Mandatory state ownership of all ride-hailing and delivery platforms",
+          "A requirement that all platform workers must be paid exclusively in cryptocurrency"
+        ],
+        "answer": 1,
+        "explanation": "The Platform Work Directive introduces a legal presumption of an employment relationship, triggered when certain facts indicating control and direction (such as platform-set pay levels or restrictions on working for others) are present, shifting the burden onto the platform to prove the relationship is genuinely self-employment if it disputes the presumption."
+      },
+      "el": {
+        "passage": "7. Καθώς η εργασία μέσω εφαρμογών και πλατφορμών επεκτάθηκε ραγδαία, αυξήθηκαν οι ανησυχίες ότι πολλοί εργαζόμενοι κατατάσσονταν εσφαλμένα ως αυτοαπασχολούμενοι, στερώντας τους εργασιακά δικαιώματα.",
+        "question": "Ποιος είναι ένας βασικός μηχανισμός που εισάγει η Οδηγία για την Εργασία μέσω Πλατφορμών του 2024 για την αντιμετώπιση της εσφαλμένης κατάταξης των εργαζομένων πλατφορμών;",
+        "options": [
+          "Απαγόρευση λειτουργίας κάθε ψηφιακής πλατφόρμας εργασίας στην ΕΕ",
+          "Ένα νομικό τεκμήριο σχέσης εργασίας, που ενεργοποιείται όταν υπάρχουν στοιχεία ελέγχου και καθοδήγησης από την πλατφόρμα, μετακυλίοντας το βάρος της απόδειξης",
+          "Υποχρεωτική κρατική ιδιοκτησία όλων των πλατφορμών μεταφοράς και διανομής",
+          "Απαίτηση όλοι οι εργαζόμενοι πλατφορμών να πληρώνονται αποκλειστικά σε κρυπτονόμισμα"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία για την Εργασία μέσω Πλατφορμών εισάγει νομικό τεκμήριο σχέσης εργασίας, που ενεργοποιείται όταν υπάρχουν ορισμένα στοιχεία ελέγχου και καθοδήγησης (όπως καθορισμένη από την πλατφόρμα αμοιβή ή περιορισμοί στην εργασία για άλλους), μετακυλίοντας στην πλατφόρμα το βάρος να αποδείξει ότι η σχέση είναι πράγματι αυτοαπασχόληση."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. Concerned about global deforestation linked to agricultural expansion, the EU adopted a regulation requiring companies to prove that certain imported commodities are not linked to forest destruction.",
+        "question": "What must companies do under the EU Deforestation Regulation (EUDR) before placing covered commodities (such as cocoa, coffee, or palm oil) on the EU market?",
+        "options": [
+          "Simply pay an import tariff based on the commodity's country of origin",
+          "Conduct due diligence to demonstrate the products are deforestation-free and were produced in compliance with the relevant country's laws",
+          "Obtain approval only from the country of origin's government, with no EU-level checks",
+          "Nothing; the Regulation applies only to companies based outside the EU"
+        ],
+        "answer": 1,
+        "explanation": "The EUDR requires companies to conduct due diligence, including geolocation traceability, to demonstrate that covered commodities and derived products (such as cocoa, coffee, palm oil, soy, cattle, wood, and rubber) are deforestation-free (produced on land not deforested after a set cut-off date) and legally produced."
+      },
+      "el": {
+        "passage": "8. Ανησυχώντας για την παγκόσμια αποψίλωση δασών που συνδέεται με τη γεωργική επέκταση, η ΕΕ υιοθέτησε κανονισμό που απαιτεί από τις εταιρείες να αποδεικνύουν ότι ορισμένα εισαγόμενα εμπορεύματα δεν συνδέονται με την καταστροφή δασών.",
+        "question": "Τι πρέπει να κάνουν οι εταιρείες βάσει του Κανονισμού της ΕΕ για την Αποψίλωση Δασών (EUDR) πριν διαθέσουν καλυπτόμενα εμπορεύματα (όπως κακάο, καφέ ή φοινικέλαιο) στην αγορά της ΕΕ;",
+        "options": [
+          "Απλώς να πληρώσουν εισαγωγικό δασμό βάσει της χώρας προέλευσης του εμπορεύματος",
+          "Να διενεργήσουν δέουσα επιμέλεια για να αποδείξουν ότι τα προϊόντα είναι απαλλαγμένα από αποψίλωση δασών και παράχθηκαν σύμφωνα με τη νομοθεσία της σχετικής χώρας",
+          "Να λάβουν έγκριση μόνο από την κυβέρνηση της χώρας προέλευσης, χωρίς ελέγχους σε επίπεδο ΕΕ",
+          "Τίποτα· ο Κανονισμός εφαρμόζεται μόνο σε εταιρείες εκτός ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Ο EUDR απαιτεί από τις εταιρείες να διενεργούν δέουσα επιμέλεια, συμπεριλαμβανομένης της ιχνηλασιμότητας γεωεντοπισμού, για να αποδεικνύουν ότι τα καλυπτόμενα εμπορεύματα (όπως κακάο, καφές, φοινικέλαιο, σόγια, βοοειδή, ξυλεία και καουτσούκ) είναι απαλλαγμένα από αποψίλωση δασών και παράχθηκαν νόμιμα."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. Beyond environmental reporting, the EU has moved to require large companies to actively identify and address human rights and environmental harms across their entire value chain, not just their own operations.",
+        "question": "What does the Corporate Sustainability Due Diligence Directive (CSDDD) primarily require of large companies within its scope?",
+        "options": [
+          "Only to publish an annual sustainability report with no further action required",
+          "To identify, prevent, mitigate, and account for actual and potential adverse human rights and environmental impacts in their own operations, subsidiaries, and, in certain cases, their value chains",
+          "To relocate all manufacturing operations to the EU",
+          "To disclose only their carbon dioxide emissions, with no other obligations"
+        ],
+        "answer": 1,
+        "explanation": "The CSDDD requires large companies to carry out due diligence across their operations and, where relevant, their chains of activities, to identify, prevent, and mitigate actual and potential adverse impacts on human rights and the environment, going beyond mere reporting obligations (such as those under the CSRD) to require active risk management."
+      },
+      "el": {
+        "passage": "9. Πέρα από την περιβαλλοντική αναφορά, η ΕΕ έχει προχωρήσει να απαιτεί από μεγάλες εταιρείες να εντοπίζουν και να αντιμετωπίζουν ενεργά ζημιές στα ανθρώπινα δικαιώματα και το περιβάλλον σε ολόκληρη την αλυσίδα αξίας τους, όχι μόνο στις δικές τους δραστηριότητες.",
+        "question": "Τι απαιτεί κυρίως η Οδηγία για την Εταιρική Βιώσιμη Δέουσα Επιμέλεια (CSDDD) από τις μεγάλες εταιρείες εντός του πεδίου εφαρμογής της;",
+        "options": [
+          "Μόνο τη δημοσίευση ετήσιας έκθεσης βιωσιμότητας χωρίς περαιτέρω δράση",
+          "Τον εντοπισμό, την πρόληψη, τον μετριασμό και τη λογοδοσία για πραγματικές και δυνητικές δυσμενείς επιπτώσεις στα ανθρώπινα δικαιώματα και το περιβάλλον στις δικές τους δραστηριότητες, θυγατρικές και, σε ορισμένες περιπτώσεις, στις αλυσίδες αξίας τους",
+          "Τη μετεγκατάσταση όλων των μεταποιητικών δραστηριοτήτων στην ΕΕ",
+          "Τη γνωστοποίηση μόνο των εκπομπών διοξειδίου του άνθρακα, χωρίς άλλες υποχρεώσεις"
+        ],
+        "answer": 1,
+        "explanation": "Η CSDDD απαιτεί από τις μεγάλες εταιρείες να διενεργούν δέουσα επιμέλεια στις δραστηριότητές τους και, όπου σχετίζεται, στις αλυσίδες δραστηριοτήτων τους, για τον εντοπισμό, την πρόληψη και τον μετριασμό πραγματικών και δυνητικών δυσμενών επιπτώσεων στα ανθρώπινα δικαιώματα και το περιβάλλον."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. Beyond protecting existing habitats, the EU has moved to actively repair ecosystems that have already been degraded, setting concrete restoration targets.",
+        "question": "What is a key target of the EU's Nature Restoration Law, adopted in 2024?",
+        "options": [
+          "To restore at least 20% of the EU's land and sea areas by 2030, with restoration measures in place on all ecosystems in need of restoration by 2050",
+          "To ban all agricultural activity within the EU by 2030",
+          "To restore only marine ecosystems, excluding terrestrial habitats",
+          "To relocate all EU citizens away from restored natural areas"
+        ],
+        "answer": 0,
+        "explanation": "The Nature Restoration Law sets a target of putting restoration measures in place on at least 20% of the EU's land and sea areas by 2030, with the aim of covering all ecosystems in need of restoration by 2050, addressing habitat and species decline across degraded EU ecosystems."
+      },
+      "el": {
+        "passage": "10. Πέρα από την προστασία υφιστάμενων ενδιαιτημάτων, η ΕΕ έχει προχωρήσει σε ενεργή αποκατάσταση οικοσυστημάτων που έχουν ήδη υποβαθμιστεί, θέτοντας συγκεκριμένους στόχους αποκατάστασης.",
+        "question": "Ποιος είναι ένας βασικός στόχος του Νόμου της ΕΕ για την Αποκατάσταση της Φύσης, που εγκρίθηκε το 2024;",
+        "options": [
+          "Η αποκατάσταση τουλάχιστον του 20% της χερσαίας και θαλάσσιας έκτασης της ΕΕ έως το 2030, με μέτρα αποκατάστασης σε όλα τα οικοσυστήματα που χρειάζονται αποκατάσταση έως το 2050",
+          "Η απαγόρευση κάθε γεωργικής δραστηριότητας εντός της ΕΕ έως το 2030",
+          "Η αποκατάσταση μόνο θαλάσσιων οικοσυστημάτων, εξαιρουμένων των χερσαίων ενδιαιτημάτων",
+          "Η μετεγκατάσταση όλων των πολιτών της ΕΕ μακριά από αποκατεστημένες φυσικές περιοχές"
+        ],
+        "answer": 0,
+        "explanation": "Ο Νόμος για την Αποκατάσταση της Φύσης θέτει στόχο εφαρμογής μέτρων αποκατάστασης σε τουλάχιστον το 20% της χερσαίας και θαλάσσιας έκτασης της ΕΕ έως το 2030, με σκοπό την κάλυψη όλων των οικοσυστημάτων που χρειάζονται αποκατάσταση έως το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. To reduce marine litter, the EU targeted specific everyday plastic products for which affordable and widely available alternatives already exist.",
+        "question": "What approach does the EU's Single-Use Plastics Directive take toward certain plastic products, such as plastic cutlery, plates, and cotton bud sticks?",
+        "options": [
+          "It requires them to be recycled but does not restrict their sale",
+          "It bans them outright from the EU market, where sustainable alternatives are readily available",
+          "It imposes a tax on them but permits unlimited sale",
+          "It applies only to plastic products used in medical settings"
+        ],
+        "answer": 1,
+        "explanation": "The Single-Use Plastics Directive bans the placing on the EU market of certain single-use plastic products for which more sustainable alternatives are readily and affordably available, including plastic cutlery, plates, straws, cotton bud sticks, and expanded polystyrene food containers."
+      },
+      "el": {
+        "passage": "11. Για τη μείωση των θαλάσσιων απορριμμάτων, η ΕΕ στόχευσε συγκεκριμένα καθημερινά πλαστικά προϊόντα για τα οποία υπάρχουν ήδη προσιτές και ευρέως διαθέσιμες εναλλακτικές λύσεις.",
+        "question": "Ποια προσέγγιση υιοθετεί η Οδηγία της ΕΕ για τα Πλαστικά Μιας Χρήσης όσον αφορά ορισμένα πλαστικά προϊόντα, όπως πλαστικά μαχαιροπίρουνα, πιάτα και μπατονέτες;",
+        "options": [
+          "Απαιτεί την ανακύκλωσή τους αλλά δεν περιορίζει την πώλησή τους",
+          "Απαγορεύει πλήρως τη διάθεσή τους στην αγορά της ΕΕ, όπου υπάρχουν εύκολα διαθέσιμες βιώσιμες εναλλακτικές",
+          "Επιβάλλει φόρο σε αυτά αλλά επιτρέπει απεριόριστη πώληση",
+          "Εφαρμόζεται μόνο σε πλαστικά προϊόντα που χρησιμοποιούνται σε ιατρικά περιβάλλοντα"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία για τα Πλαστικά Μιας Χρήσης απαγορεύει τη διάθεση στην αγορά της ΕΕ ορισμένων πλαστικών προϊόντων μιας χρήσης για τα οποία υπάρχουν εύκολα και προσιτά διαθέσιμες πιο βιώσιμες εναλλακτικές, συμπεριλαμβανομένων πλαστικών μαχαιροπίρουνων, πιάτων, καλαμακιών, μπατονετών και δοχείων τροφίμων από διογκωμένη πολυστυρόλη."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. To combat 'planned obsolescence' and reduce electronic waste, the EU has moved toward requiring manufacturers to make certain products easier to fix.",
+        "question": "What is the general aim of the EU's Right to Repair Directive?",
+        "options": [
+          "To require consumers to repair their own products without professional assistance",
+          "To make it easier and more attractive for consumers to have goods repaired rather than replaced, including obligations on manufacturers to repair certain products beyond the legal guarantee period",
+          "To ban the sale of any product that cannot be repaired",
+          "To require all repairs to be carried out free of charge in every circumstance"
+        ],
+        "answer": 1,
+        "explanation": "The Right to Repair Directive aims to make repair a more attractive and accessible option than replacement, requiring manufacturers to offer repair services for certain products (such as washing machines and smartphones) even after the legal guarantee period has expired, and to provide access to spare parts and repair information."
+      },
+      "el": {
+        "passage": "12. Για την καταπολέμηση της «προγραμματισμένης απαξίωσης» και τη μείωση των ηλεκτρονικών αποβλήτων, η ΕΕ έχει προχωρήσει στην απαίτηση από τους κατασκευαστές να καθιστούν ορισμένα προϊόντα ευκολότερα στην επισκευή.",
+        "question": "Ποιος είναι ο γενικός σκοπός της Οδηγίας της ΕΕ για το Δικαίωμα στην Επισκευή;",
+        "options": [
+          "Να απαιτήσει από τους καταναλωτές να επισκευάζουν τα δικά τους προϊόντα χωρίς επαγγελματική βοήθεια",
+          "Να καταστήσει ευκολότερη και πιο ελκυστική την επισκευή αγαθών αντί της αντικατάστασής τους, συμπεριλαμβανομένων υποχρεώσεων κατασκευαστών να επισκευάζουν ορισμένα προϊόντα πέραν της νόμιμης περιόδου εγγύησης",
+          "Να απαγορεύσει την πώληση οποιουδήποτε προϊόντος που δεν μπορεί να επισκευαστεί",
+          "Να απαιτήσει όλες οι επισκευές να πραγματοποιούνται δωρεάν σε κάθε περίπτωση"
+        ],
+        "answer": 1,
+        "explanation": "Η Οδηγία για το Δικαίωμα στην Επισκευή στοχεύει να καταστήσει την επισκευή πιο ελκυστική και προσιτή επιλογή από την αντικατάσταση, απαιτώντας από τους κατασκευαστές να προσφέρουν υπηρεσίες επισκευής για ορισμένα προϊόντα ακόμη και μετά τη λήξη της νόμιμης εγγύησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Following the success of the ETS for industry and power generation, the EU decided to extend carbon pricing to a new set of sectors starting later in the decade.",
+        "question": "Which sectors will be covered by the EU's new Emissions Trading System, known as ETS2, expected to start in 2027?",
+        "options": [
+          "Aviation and maritime shipping",
+          "Buildings, road transport, and additional fuel combustion sectors not already covered by the original ETS",
+          "Agriculture and forestry exclusively",
+          "The entire public sector, including hospitals and schools"
+        ],
+        "answer": 1,
+        "explanation": "ETS2 is a new, separate emissions trading system extending carbon pricing to fuel combustion in buildings, road transport, and additional sectors not covered by the original ETS (which covers power generation, industry, and aviation), with revenues partly channelled into the Social Climate Fund to cushion the impact on vulnerable households."
+      },
+      "el": {
+        "passage": "13. Μετά την επιτυχία του ETS για τη βιομηχανία και την παραγωγή ενέργειας, η ΕΕ αποφάσισε να επεκτείνει την τιμολόγηση άνθρακα σε νέους τομείς αργότερα μέσα στη δεκαετία.",
+        "question": "Ποιοι τομείς θα καλύπτονται από το νέο Σύστημα Εμπορίας Δικαιωμάτων Εκπομπών της ΕΕ, γνωστό ως ETS2, που αναμένεται να ξεκινήσει το 2027;",
+        "options": [
+          "Αεροπορία και θαλάσσιες μεταφορές",
+          "Κτίρια, οδικές μεταφορές και επιπλέον τομείς καύσης καυσίμων που δεν καλύπτονταν ήδη από το αρχικό ETS",
+          "Αποκλειστικά γεωργία και δασοκομία",
+          "Ολόκληρος ο δημόσιος τομέας, συμπεριλαμβανομένων νοσοκομείων και σχολείων"
+        ],
+        "answer": 1,
+        "explanation": "Το ETS2 είναι ένα νέο, ξεχωριστό σύστημα εμπορίας εκπομπών που επεκτείνει την τιμολόγηση άνθρακα στην καύση καυσίμων σε κτίρια, οδικές μεταφορές και επιπλέον τομείς που δεν καλύπτονταν από το αρχικό ETS, με έσοδα που διοχετεύονται εν μέρει στο Ταμείο Κοινωνικού Κλίματος."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. To prevent EU industries from being undercut by cheaper, more carbon-intensive imports, the EU introduced a mechanism applying a carbon price at the border for certain goods.",
+        "question": "Which sectors are initially covered by the EU's Carbon Border Adjustment Mechanism (CBAM)?",
+        "options": [
+          "Textiles, footwear, and furniture",
+          "Cement, iron and steel, aluminium, fertilisers, electricity, and hydrogen",
+          "Pharmaceuticals and cosmetics",
+          "All imported consumer goods without exception"
+        ],
+        "answer": 1,
+        "explanation": "CBAM initially applies to imports of cement, iron and steel, aluminium, fertilisers, electricity, and hydrogen — sectors at high risk of carbon leakage — requiring importers to purchase CBAM certificates reflecting the carbon price that would have been paid had the goods been produced under the EU's carbon pricing rules."
+      },
+      "el": {
+        "passage": "14. Για να αποτρέψει την υποτίμηση των βιομηχανιών της ΕΕ από φθηνότερες, πιο ενεργοβόρες σε άνθρακα εισαγωγές, η ΕΕ εισήγαγε μηχανισμό που εφαρμόζει τιμή άνθρακα στα σύνορα για ορισμένα αγαθά.",
+        "question": "Ποιοι τομείς καλύπτονται αρχικά από τον Μηχανισμό Συνοριακής Προσαρμογής Άνθρακα (CBAM) της ΕΕ;",
+        "options": [
+          "Κλωστοϋφαντουργία, υποδήματα και έπιπλα",
+          "Τσιμέντο, σίδηρος και χάλυβας, αλουμίνιο, λιπάσματα, ηλεκτρική ενέργεια και υδρογόνο",
+          "Φαρμακευτικά προϊόντα και καλλυντικά",
+          "Όλα τα εισαγόμενα καταναλωτικά αγαθά χωρίς εξαίρεση"
+        ],
+        "answer": 1,
+        "explanation": "Ο CBAM εφαρμόζεται αρχικά σε εισαγωγές τσιμέντου, σιδήρου και χάλυβα, αλουμινίου, λιπασμάτων, ηλεκτρικής ενέργειας και υδρογόνου — τομείς υψηλού κινδύνου διαρροής άνθρακα — απαιτώντας από τους εισαγωγείς να αγοράζουν πιστοποιητικά CBAM."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. Extending emissions trading to new sectors risks raising energy and fuel costs for lower-income households, prompting the EU to design a dedicated compensation instrument.",
+        "question": "What is the main purpose of the EU's Social Climate Fund?",
+        "options": [
+          "To fund the construction of new coal power plants",
+          "To provide financial support to vulnerable households, micro-enterprises, and transport users to help them cope with the costs resulting from the extension of emissions trading to buildings and road transport (ETS2)",
+          "To subsidise air travel for low-income citizens",
+          "To fund EU institutional buildings only"
+        ],
+        "answer": 1,
+        "explanation": "The Social Climate Fund is designed to provide financial support to vulnerable households, micro-enterprises, and transport users particularly affected by the carbon pricing introduced under ETS2, helping fund measures such as building renovations, clean heating, and access to zero- and low-emission mobility."
+      },
+      "el": {
+        "passage": "15. Η επέκταση της εμπορίας εκπομπών σε νέους τομείς κινδυνεύει να αυξήσει το κόστος ενέργειας και καυσίμων για νοικοκυριά χαμηλότερου εισοδήματος, ωθώντας την ΕΕ να σχεδιάσει ειδικό εργαλείο αντιστάθμισης.",
+        "question": "Ποιος είναι ο κύριος σκοπός του Ταμείου Κοινωνικού Κλίματος της ΕΕ;",
+        "options": [
+          "Η χρηματοδότηση κατασκευής νέων εργοστασίων άνθρακα",
+          "Η παροχή οικονομικής στήριξης σε ευάλωτα νοικοκυριά, πολύ μικρές επιχειρήσεις και χρήστες μεταφορών για την αντιμετώπιση του κόστους από την επέκταση της εμπορίας εκπομπών σε κτίρια και οδικές μεταφορές (ETS2)",
+          "Η επιδότηση αεροπορικών ταξιδιών για πολίτες χαμηλού εισοδήματος",
+          "Η χρηματοδότηση μόνο κτιρίων θεσμικών οργάνων της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Το Ταμείο Κοινωνικού Κλίματος σχεδιάστηκε για να παρέχει οικονομική στήριξη σε ευάλωτα νοικοκυριά, πολύ μικρές επιχειρήσεις και χρήστες μεταφορών που επηρεάζονται ιδιαίτερα από την τιμολόγηση άνθρακα του ETS2, βοηθώντας στη χρηματοδότηση μέτρων όπως ανακαινίσεις κτιρίων και καθαρή θέρμανση."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. Beyond individual bank supervision, the EU monitors risks to the financial system as a whole through a separate macroprudential body chaired by the ECB President.",
+        "question": "What is the primary role of the European Systemic Risk Board (ESRB)?",
+        "options": [
+          "To directly supervise individual banks' day-to-day compliance",
+          "To conduct macroprudential oversight of the EU financial system, identifying and mitigating systemic risks to financial stability",
+          "To set the interest rates for the euro area",
+          "To resolve failing banks through the Single Resolution Mechanism"
+        ],
+        "answer": 1,
+        "explanation": "The ESRB, chaired by the ECB President, is responsible for the macroprudential oversight of the EU's financial system, monitoring and assessing systemic risks and issuing warnings and recommendations to prevent or mitigate them, complementing the microprudential supervision carried out by bodies like the SSM."
+      },
+      "el": {
+        "passage": "16. Πέρα από την εποπτεία μεμονωμένων τραπεζών, η ΕΕ παρακολουθεί τους κινδύνους για το χρηματοπιστωτικό σύστημα στο σύνολό του μέσω ξεχωριστού μακροπροληπτικού οργάνου που προεδρεύεται από τον Πρόεδρο της ΕΚΤ.",
+        "question": "Ποιος είναι ο πρωταρχικός ρόλος του Ευρωπαϊκού Συμβουλίου Συστημικού Κινδύνου (ΕΣΣΚ);",
+        "options": [
+          "Η απευθείας εποπτεία της καθημερινής συμμόρφωσης μεμονωμένων τραπεζών",
+          "Η μακροπροληπτική εποπτεία του χρηματοπιστωτικού συστήματος της ΕΕ, ο εντοπισμός και ο μετριασμός συστημικών κινδύνων για τη χρηματοπιστωτική σταθερότητα",
+          "Ο καθορισμός των επιτοκίων για τη ζώνη του ευρώ",
+          "Η εξυγίανση προβληματικών τραπεζών μέσω του Ενιαίου Μηχανισμού Εξυγίανσης"
+        ],
+        "answer": 1,
+        "explanation": "Το ΕΣΣΚ, υπό την προεδρία του Προέδρου της ΕΚΤ, είναι υπεύθυνο για τη μακροπροληπτική εποπτεία του χρηματοπιστωτικού συστήματος της ΕΕ, παρακολουθώντας και αξιολογώντας συστημικούς κινδύνους και εκδίδοντας προειδοποιήσεις και συστάσεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. To make it easier for companies to raise capital across borders and reduce the EU's reliance on bank lending, the Commission has pursued an integration agenda for financial markets.",
+        "question": "What is the main goal of the EU's Capital Markets Union (CMU) initiative?",
+        "options": [
+          "To nationalise stock exchanges across the EU",
+          "To develop deeper and more integrated capital markets across the EU, improving access to finance for companies and diversifying funding sources beyond bank lending",
+          "To create a single EU stock exchange with mandatory listing for all companies",
+          "To eliminate all forms of investment risk for retail investors"
+        ],
+        "answer": 1,
+        "explanation": "The Capital Markets Union aims to develop deeper, more integrated capital markets across the EU, making it easier for businesses (particularly SMEs) to access diverse sources of funding, improving cross-border investment opportunities, and reducing over-reliance on bank financing."
+      },
+      "el": {
+        "passage": "17. Για να διευκολύνει τις εταιρείες να αντλούν κεφάλαια διασυνοριακά και να μειώσει την εξάρτηση της ΕΕ από τραπεζικό δανεισμό, η Επιτροπή έχει προωθήσει ατζέντα ολοκλήρωσης για τις χρηματοπιστωτικές αγορές.",
+        "question": "Ποιος είναι ο κύριος στόχος της πρωτοβουλίας της ΕΕ για την Ένωση Κεφαλαιαγορών (CMU);",
+        "options": [
+          "Η εθνικοποίηση των χρηματιστηρίων σε ολόκληρη την ΕΕ",
+          "Η ανάπτυξη βαθύτερων και πιο ολοκληρωμένων κεφαλαιαγορών σε ολόκληρη την ΕΕ, βελτιώνοντας την πρόσβαση των εταιρειών σε χρηματοδότηση και διαφοροποιώντας τις πηγές χρηματοδότησης πέρα από τον τραπεζικό δανεισμό",
+          "Η δημιουργία ενιαίου χρηματιστηρίου ΕΕ με υποχρεωτική εισαγωγή όλων των εταιρειών",
+          "Η εξάλειψη κάθε μορφής επενδυτικού κινδύνου για τους ιδιώτες επενδυτές"
+        ],
+        "answer": 1,
+        "explanation": "Η Ένωση Κεφαλαιαγορών στοχεύει στην ανάπτυξη βαθύτερων, πιο ολοκληρωμένων κεφαλαιαγορών σε ολόκληρη την ΕΕ, διευκολύνοντας τις επιχειρήσεις (ιδίως τις ΜΜΕ) να έχουν πρόσβαση σε διαφοροποιημένες πηγές χρηματοδότησης και μειώνοντας την υπερβολική εξάρτηση από τραπεζική χρηματοδότηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. As financial services become increasingly dependent on IT systems, the EU adopted rules requiring the sector to withstand and recover from cyber and IT-related disruptions.",
+        "question": "What does the Digital Operational Resilience Act (DORA) primarily regulate?",
+        "options": [
+          "The advertising practices of financial institutions",
+          "The ICT risk-management requirements for banks, insurers, and other financial entities, including oversight of their critical third-party technology providers",
+          "The physical security of bank branches",
+          "The interest rates offered by fintech companies"
+        ],
+        "answer": 1,
+        "explanation": "DORA establishes a comprehensive framework for digital operational resilience in the financial sector, requiring financial entities to manage ICT risk, test their digital operational resilience, report major ICT-related incidents, and extending oversight to critical third-party ICT providers, such as cloud service providers."
+      },
+      "el": {
+        "passage": "18. Καθώς οι χρηματοπιστωτικές υπηρεσίες εξαρτώνται όλο και περισσότερο από συστήματα ΤΠΕ, η ΕΕ υιοθέτησε κανόνες που απαιτούν από τον τομέα να αντέχει και να ανακάμπτει από κυβερνοδιαταραχές.",
+        "question": "Τι ρυθμίζει κυρίως ο Κανονισμός για την Ψηφιακή Επιχειρησιακή Ανθεκτικότητα (DORA);",
+        "options": [
+          "Τις διαφημιστικές πρακτικές των χρηματοπιστωτικών ιδρυμάτων",
+          "Τις απαιτήσεις διαχείρισης κινδύνου ΤΠΕ για τράπεζες, ασφαλιστές και άλλες χρηματοπιστωτικές οντότητες, συμπεριλαμβανομένης της εποπτείας κρίσιμων παρόχων τεχνολογίας τρίτων",
+          "Τη φυσική ασφάλεια τραπεζικών καταστημάτων",
+          "Τα επιτόκια που προσφέρουν εταιρείες fintech"
+        ],
+        "answer": 1,
+        "explanation": "Ο DORA θεσπίζει ολοκληρωμένο πλαίσιο για την ψηφιακή επιχειρησιακή ανθεκτικότητα στον χρηματοπιστωτικό τομέα, απαιτώντας από τις οντότητες να διαχειρίζονται τον κίνδυνο ΤΠΕ, να δοκιμάζουν την ανθεκτικότητά τους και να αναφέρουν σοβαρά περιστατικά ΤΠΕ, επεκτείνοντας την εποπτεία σε κρίσιμους παρόχους τρίτων όπως πάροχοι υπηρεσιών cloud."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. To speed up everyday cross-border payments and reduce reliance on non-European payment providers, the EU legislated to make a faster type of euro transfer the norm.",
+        "question": "What does the EU's Instant Payments Regulation require of payment service providers offering euro credit transfers?",
+        "options": [
+          "To stop offering standard (non-instant) credit transfers altogether",
+          "To offer instant euro credit transfers, executed within seconds at any time, at a price no higher than for standard credit transfers",
+          "To charge a premium fee for instant transfers of at least 5% of the transaction value",
+          "To limit instant transfers to business days only"
+        ],
+        "answer": 1,
+        "explanation": "The Instant Payments Regulation requires payment service providers in the EU that offer standard euro credit transfers to also offer instant credit transfers (executed within 10 seconds, available 24/7/365), at a price that is not higher than the price charged for standard transfers."
+      },
+      "el": {
+        "passage": "19. Για την επιτάχυνση των καθημερινών διασυνοριακών πληρωμών και τη μείωση της εξάρτησης από μη ευρωπαϊκούς παρόχους πληρωμών, η ΕΕ νομοθέτησε ώστε ένας ταχύτερος τύπος μεταφοράς ευρώ να γίνει ο κανόνας.",
+        "question": "Τι απαιτεί ο Κανονισμός της ΕΕ για τις Άμεσες Πληρωμές από παρόχους υπηρεσιών πληρωμών που προσφέρουν μεταφορές πίστωσης σε ευρώ;",
+        "options": [
+          "Να σταματήσουν εντελώς να προσφέρουν τυπικές (μη άμεσες) μεταφορές πίστωσης",
+          "Να προσφέρουν άμεσες μεταφορές πίστωσης σε ευρώ, εκτελούμενες μέσα σε δευτερόλεπτα ανά πάσα στιγμή, σε τιμή όχι υψηλότερη από αυτή των τυπικών μεταφορών",
+          "Να χρεώνουν πρόσθετη αμοιβή για άμεσες μεταφορές τουλάχιστον 5% της αξίας της συναλλαγής",
+          "Να περιορίζουν τις άμεσες μεταφορές μόνο σε εργάσιμες ημέρες"
+        ],
+        "answer": 1,
+        "explanation": "Ο Κανονισμός για τις Άμεσες Πληρωμές απαιτεί από τους παρόχους υπηρεσιών πληρωμών στην ΕΕ που προσφέρουν τυπικές μεταφορές πίστωσης σε ευρώ να προσφέρουν επίσης άμεσες μεταφορές πίστωσης (εκτελούμενες εντός 10 δευτερολέπτων, διαθέσιμες 24/7/365), σε τιμή όχι υψηλότερη από αυτή των τυπικών μεταφορών."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. Reducing reliance on non-European satellite systems for positioning and timing was one of the motivations behind the EU's investment in its own space infrastructure.",
+        "question": "What is Galileo, in the context of the EU's space programme?",
+        "options": [
+          "The EU's Earth observation and environmental monitoring programme",
+          "The EU's own global satellite navigation system, providing an alternative to GPS and GLONASS",
+          "The EU's satellite communications system for government use",
+          "The EU agency responsible for space policy coordination"
+        ],
+        "answer": 1,
+        "explanation": "Galileo is the EU's own global satellite navigation system, providing positioning, navigation, and timing services independent of the US GPS and Russian GLONASS systems, offering improved accuracy for both civilian and, through certain services, government users."
+      },
+      "el": {
+        "passage": "20. Η μείωση της εξάρτησης από μη ευρωπαϊκά δορυφορικά συστήματα για τον εντοπισμό θέσης και τον συγχρονισμό χρόνου ήταν ένα από τα κίνητρα πίσω από την επένδυση της ΕΕ στη δική της διαστημική υποδομή.",
+        "question": "Τι είναι το Galileo, στο πλαίσιο του διαστημικού προγράμματος της ΕΕ;",
+        "options": [
+          "Το πρόγραμμα παρατήρησης της Γης και περιβαλλοντικής παρακολούθησης της ΕΕ",
+          "Το δικό της παγκόσμιο δορυφορικό σύστημα πλοήγησης της ΕΕ, που παρέχει εναλλακτική λύση στα GPS και GLONASS",
+          "Το σύστημα δορυφορικών επικοινωνιών της ΕΕ για κυβερνητική χρήση",
+          "Ο οργανισμός της ΕΕ αρμόδιος για τον συντονισμό της διαστημικής πολιτικής"
+        ],
+        "answer": 1,
+        "explanation": "Το Galileo είναι το δικό της παγκόσμιο δορυφορικό σύστημα πλοήγησης της ΕΕ, που παρέχει υπηρεσίες εντοπισμού θέσης, πλοήγησης και συγχρονισμού χρόνου ανεξάρτητα από τα αμερικανικά GPS και ρωσικά GLONASS, προσφέροντας βελτιωμένη ακρίβεια τόσο για πολίτες όσο και, μέσω ορισμένων υπηρεσιών, για κυβερνητικούς χρήστες."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Monitoring the state of the planet's land, oceans, and atmosphere from orbit is the task of a distinct EU space programme, complementing Galileo's navigation function.",
+        "question": "What is the primary purpose of Copernicus, the EU's Earth observation programme?",
+        "options": [
+          "To provide satellite navigation and positioning services",
+          "To collect and provide free, open Earth observation data on the environment, climate change, and security, derived from satellites and ground-based sources",
+          "To manage the EU's secure military satellite communications",
+          "To coordinate air traffic control across EU airspace"
+        ],
+        "answer": 1,
+        "explanation": "Copernicus is the EU's Earth observation programme, providing free, full, and open access to data and information on the state of the environment, climate change, land, marine, and atmospheric monitoring, and emergency and security management, gathered from a dedicated fleet of satellites (Sentinels) and other sources."
+      },
+      "el": {
+        "passage": "21. Η παρακολούθηση της κατάστασης της ξηράς, των ωκεανών και της ατμόσφαιρας του πλανήτη από τροχιά είναι το έργο ενός ξεχωριστού διαστημικού προγράμματος της ΕΕ, που συμπληρώνει τη λειτουργία πλοήγησης του Galileo.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός του Copernicus, του προγράμματος παρατήρησης της Γης της ΕΕ;",
+        "options": [
+          "Η παροχή υπηρεσιών δορυφορικής πλοήγησης και εντοπισμού θέσης",
+          "Η συλλογή και παροχή δωρεάν, ανοικτών δεδομένων παρατήρησης της Γης για το περιβάλλον, την κλιματική αλλαγή και την ασφάλεια, προερχόμενων από δορυφόρους και επίγειες πηγές",
+          "Η διαχείριση των ασφαλών στρατιωτικών δορυφορικών επικοινωνιών της ΕΕ",
+          "Ο συντονισμός της εναέριας κυκλοφορίας στον εναέριο χώρο της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Το Copernicus είναι το πρόγραμμα παρατήρησης της Γης της ΕΕ, που παρέχει δωρεάν, πλήρη και ανοικτή πρόσβαση σε δεδομένα και πληροφορίες σχετικά με την κατάσταση του περιβάλλοντος, την κλιματική αλλαγή, την παρακολούθηση ξηράς, θάλασσας και ατμόσφαιρας, καθώς και τη διαχείριση εκτάκτων αναγκών και ασφάλειας."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. Investment in cross-border transport, energy, and digital infrastructure networks is coordinated through a dedicated EU funding instrument.",
+        "question": "What is the primary purpose of the Connecting Europe Facility (CEF)?",
+        "options": [
+          "To fund cultural festivals across Member States",
+          "To fund the development of high-performing, sustainable, and efficiently interconnected trans-European networks in transport, energy, and digital infrastructure",
+          "To finance the salaries of national civil servants",
+          "To fund exclusively road-building projects, excluding rail and energy"
+        ],
+        "answer": 1,
+        "explanation": "The Connecting Europe Facility funds key infrastructure projects in transport, energy, and digital connectivity, supporting the development of trans-European networks (TEN-T, TEN-E) to improve cross-border links, remove bottlenecks, and support the green and digital transitions."
+      },
+      "el": {
+        "passage": "22. Οι επενδύσεις σε διασυνοριακά δίκτυα υποδομών μεταφορών, ενέργειας και ψηφιακής τεχνολογίας συντονίζονται μέσω ειδικού χρηματοδοτικού εργαλείου της ΕΕ.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός του Μηχανισμού «Συνδέοντας την Ευρώπη» (CEF);",
+        "options": [
+          "Η χρηματοδότηση πολιτιστικών φεστιβάλ σε ολόκληρα τα κράτη μέλη",
+          "Η χρηματοδότηση της ανάπτυξης υψηλής απόδοσης, βιώσιμων και αποτελεσματικά διασυνδεδεμένων διευρωπαϊκών δικτύων μεταφορών, ενέργειας και ψηφιακών υποδομών",
+          "Η χρηματοδότηση μισθών εθνικών δημοσίων υπαλλήλων",
+          "Η χρηματοδότηση αποκλειστικά έργων οδοποιίας, εξαιρουμένων σιδηροδρόμων και ενέργειας"
+        ],
+        "answer": 1,
+        "explanation": "Ο Μηχανισμός «Συνδέοντας την Ευρώπη» χρηματοδοτεί βασικά έργα υποδομής σε μεταφορές, ενέργεια και ψηφιακή συνδεσιμότητα, υποστηρίζοντας την ανάπτυξη διευρωπαϊκών δικτύων (TEN-T, TEN-E) για τη βελτίωση διασυνοριακών συνδέσεων και την άρση σημείων συμφόρησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. To promote solidarity and civic engagement among young Europeans, the EU created a programme offering volunteering and work placements distinct from Erasmus+'s academic focus.",
+        "question": "What is the European Solidarity Corps primarily designed to offer young people?",
+        "options": [
+          "Guaranteed permanent employment in an EU institution",
+          "Opportunities to volunteer or work on projects benefiting communities across Europe, in areas such as social inclusion, environment, and humanitarian aid",
+          "Free university tuition anywhere in the EU",
+          "Mandatory military service in a Member State of their choice"
+        ],
+        "answer": 1,
+        "explanation": "The European Solidarity Corps offers young people aged 18-30 the opportunity to volunteer or work on projects in their own country or abroad, benefiting communities in areas such as social inclusion, environmental protection, humanitarian aid, and health, fostering solidarity and civic engagement."
+      },
+      "el": {
+        "passage": "23. Για την προώθηση της αλληλεγγύης και της συμμετοχής των νέων Ευρωπαίων, η ΕΕ δημιούργησε πρόγραμμα που προσφέρει εθελοντισμό και τοποθετήσεις εργασίας, διακριτό από την ακαδημαϊκή εστίαση του Erasmus+.",
+        "question": "Τι έχει σχεδιαστεί κυρίως να προσφέρει το Ευρωπαϊκό Σώμα Αλληλεγγύης στους νέους;",
+        "options": [
+          "Εγγυημένη μόνιμη απασχόληση σε θεσμικό όργανο της ΕΕ",
+          "Ευκαιρίες εθελοντισμού ή εργασίας σε έργα προς όφελος κοινοτήτων σε ολόκληρη την Ευρώπη, σε τομείς όπως η κοινωνική ένταξη, το περιβάλλον και η ανθρωπιστική βοήθεια",
+          "Δωρεάν πανεπιστημιακά δίδακτρα οπουδήποτε στην ΕΕ",
+          "Υποχρεωτική στρατιωτική θητεία σε κράτος μέλος της επιλογής τους"
+        ],
+        "answer": 1,
+        "explanation": "Το Ευρωπαϊκό Σώμα Αλληλεγγύης προσφέρει σε νέους ηλικίας 18-30 ετών την ευκαιρία να κάνουν εθελοντισμό ή να εργαστούν σε έργα στη χώρα τους ή στο εξωτερικό, προς όφελος κοινοτήτων σε τομείς όπως η κοινωνική ένταξη, η προστασία του περιβάλλοντος, η ανθρωπιστική βοήθεια και η υγεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. As part of efforts to help young people discover other EU countries firsthand, the EU has offered free rail travel passes to citizens reaching a particular age.",
+        "question": "What is DiscoverEU?",
+        "options": [
+          "An EU-funded loan scheme for buying a first home",
+          "An initiative offering free rail travel passes to young people (typically around age 18) to explore Europe",
+          "A mandatory EU-wide university entrance exam",
+          "A programme requiring young people to complete national service abroad"
+        ],
+        "answer": 1,
+        "explanation": "DiscoverEU offers young people, typically around the age of 18, the chance to apply for a free rail travel pass to explore other EU countries, promoting cultural exchange, a sense of European identity, and awareness of Europe's diversity."
+      },
+      "el": {
+        "passage": "24. Στο πλαίσιο προσπαθειών να βοηθήσει τους νέους να ανακαλύψουν από πρώτο χέρι άλλες χώρες της ΕΕ, η ΕΕ έχει προσφέρει δωρεάν κάρτες σιδηροδρομικών ταξιδιών σε πολίτες που φτάνουν σε συγκεκριμένη ηλικία.",
+        "question": "Τι είναι το DiscoverEU;",
+        "options": [
+          "Ένα χρηματοδοτούμενο από την ΕΕ πρόγραμμα δανείων για αγορά πρώτης κατοικίας",
+          "Μια πρωτοβουλία που προσφέρει δωρεάν κάρτες σιδηροδρομικών ταξιδιών σε νέους (συνήθως γύρω στα 18 έτη) για να εξερευνήσουν την Ευρώπη",
+          "Μια υποχρεωτική εξέταση εισαγωγής σε πανεπιστήμιο σε επίπεδο ΕΕ",
+          "Ένα πρόγραμμα που απαιτεί από τους νέους να ολοκληρώσουν εθνική θητεία στο εξωτερικό"
+        ],
+        "answer": 1,
+        "explanation": "Το DiscoverEU προσφέρει σε νέους, συνήθως γύρω στα 18 έτη, την ευκαιρία να υποβάλουν αίτηση για δωρεάν κάρτα σιδηροδρομικών ταξιδιών για να εξερευνήσουν άλλες χώρες της ΕΕ, προωθώντας την πολιτιστική ανταλλαγή και την αίσθηση ευρωπαϊκής ταυτότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The EU's official statistical office compiles and publishes comparable data across all Member States, supporting evidence-based policymaking.",
+        "question": "In which city is Eurostat, the EU's statistical office, headquartered?",
+        "options": [
+          "Brussels",
+          "Strasbourg",
+          "Luxembourg",
+          "Frankfurt"
+        ],
+        "answer": 2,
+        "explanation": "Eurostat, responsible for producing harmonised European statistics, is headquartered in Luxembourg, alongside several other EU legal and financial institutions."
+      },
+      "el": {
+        "passage": "25. Η επίσημη στατιστική υπηρεσία της ΕΕ συλλέγει και δημοσιεύει συγκρίσιμα δεδομένα σε όλα τα κράτη μέλη, υποστηρίζοντας τη χάραξη πολιτικής βάσει τεκμηρίων.",
+        "question": "Σε ποια πόλη εδρεύει η Eurostat, η στατιστική υπηρεσία της ΕΕ;",
+        "options": [
+          "Βρυξέλλες",
+          "Στρασβούργο",
+          "Λουξεμβούργο",
+          "Φρανκφούρτη"
+        ],
+        "answer": 2,
+        "explanation": "Η Eurostat, υπεύθυνη για την παραγωγή εναρμονισμένων ευρωπαϊκών στατιστικών, εδρεύει στο Λουξεμβούργο, μαζί με αρκετά άλλα νομικά και χρηματοοικονομικά θεσμικά όργανα της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. Following the United Kingdom's withdrawal from the EU, one major EU financial regulator had to relocate its headquarters from London to a city within a remaining Member State.",
+        "question": "To which city did the European Medicines Agency (EMA) relocate its headquarters following Brexit?",
+        "options": [
+          "Paris",
+          "Amsterdam",
+          "Berlin",
+          "Dublin"
+        ],
+        "answer": 1,
+        "explanation": "The European Medicines Agency, responsible for the scientific evaluation and safety monitoring of medicines in the EU, relocated its headquarters from London to Amsterdam following the UK's withdrawal from the EU."
+      },
+      "el": {
+        "passage": "26. Μετά την αποχώρηση του Ηνωμένου Βασιλείου από την ΕΕ, μια σημαντική ρυθμιστική αρχή της ΕΕ έπρεπε να μεταφέρει την έδρα της από το Λονδίνο σε πόλη εντός εναπομείναντος κράτους μέλους.",
+        "question": "Σε ποια πόλη μετέφερε την έδρα της ο Ευρωπαϊκός Οργανισμός Φαρμάκων (EMA) μετά το Brexit;",
+        "options": [
+          "Παρίσι",
+          "Άμστερνταμ",
+          "Βερολίνο",
+          "Δουβλίνο"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Οργανισμός Φαρμάκων, υπεύθυνος για την επιστημονική αξιολόγηση και την παρακολούθηση της ασφάλειας των φαρμάκων στην ΕΕ, μετέφερε την έδρα του από το Λονδίνο στο Άμστερνταμ μετά την αποχώρηση του Ηνωμένου Βασιλείου από την ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. Insurance and pension supervision at EU level is coordinated by a dedicated authority based in the same German city that hosts the ECB.",
+        "question": "In which city is the European Insurance and Occupational Pensions Authority (EIOPA) headquartered?",
+        "options": [
+          "Berlin",
+          "Frankfurt",
+          "Munich",
+          "Bonn"
+        ],
+        "answer": 1,
+        "explanation": "EIOPA, the EU authority responsible for supervisory convergence in the insurance and occupational pensions sectors, is headquartered in Frankfurt, the same city as the European Central Bank."
+      },
+      "el": {
+        "passage": "27. Η εποπτεία ασφαλίσεων και συντάξεων σε επίπεδο ΕΕ συντονίζεται από ειδική αρχή με έδρα στην ίδια γερμανική πόλη που φιλοξενεί την ΕΚΤ.",
+        "question": "Σε ποια πόλη εδρεύει η Ευρωπαϊκή Αρχή Ασφαλίσεων και Επαγγελματικών Συντάξεων (EIOPA);",
+        "options": [
+          "Βερολίνο",
+          "Φρανκφούρτη",
+          "Μόναχο",
+          "Βόννη"
+        ],
+        "answer": 1,
+        "explanation": "Η EIOPA, η αρχή της ΕΕ αρμόδια για την εποπτική σύγκλιση στους τομείς ασφαλίσεων και επαγγελματικών συντάξεων, εδρεύει στη Φρανκφούρτη, την ίδια πόλη με την Ευρωπαϊκή Κεντρική Τράπεζα."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Rather than mandating identical farming practices, the reformed Common Agricultural Policy offers farmers a voluntary green payment scheme within its main income-support pillar.",
+        "question": "What are 'eco-schemes' under the reformed Common Agricultural Policy (CAP)?",
+        "options": [
+          "Mandatory penalties imposed on all farmers who use pesticides",
+          "Voluntary annual payments, within CAP's direct payments pillar, rewarding farmers who adopt agricultural practices beneficial for the climate, environment, and animal welfare",
+          "A ban on the use of fertilisers across the entire EU",
+          "A compulsory scheme requiring all farms to convert entirely to organic production"
+        ],
+        "answer": 1,
+        "explanation": "Eco-schemes are voluntary annual payment schemes within the CAP's Pillar I (direct payments), rewarding farmers who go beyond baseline requirements by adopting agricultural practices beneficial to the climate, environment, animal welfare, and antimicrobial resistance action, complementing longer-term environmental commitments funded under Pillar II."
+      },
+      "el": {
+        "passage": "28. Αντί να επιβάλλει πανομοιότυπες γεωργικές πρακτικές, η μεταρρυθμισμένη Κοινή Αγροτική Πολιτική προσφέρει στους αγρότες ένα εθελοντικό σύστημα πράσινων πληρωμών εντός του κύριου πυλώνα εισοδηματικής στήριξής της.",
+        "question": "Τι είναι τα «οικολογικά προγράμματα» (eco-schemes) στο πλαίσιο της μεταρρυθμισμένης Κοινής Αγροτικής Πολιτικής (ΚΑΠ);",
+        "options": [
+          "Υποχρεωτικές κυρώσεις που επιβάλλονται σε όλους τους αγρότες που χρησιμοποιούν φυτοφάρμακα",
+          "Εθελοντικές ετήσιες πληρωμές, εντός του πυλώνα άμεσων ενισχύσεων της ΚΑΠ, που ανταμείβουν αγρότες που υιοθετούν γεωργικές πρακτικές επωφελείς για το κλίμα, το περιβάλλον και την καλή διαβίωση των ζώων",
+          "Απαγόρευση χρήσης λιπασμάτων σε ολόκληρη την ΕΕ",
+          "Υποχρεωτικό σύστημα που απαιτεί από όλες τις εκμεταλλεύσεις να μετατραπούν πλήρως σε βιολογική παραγωγή"
+        ],
+        "answer": 1,
+        "explanation": "Τα eco-schemes είναι εθελοντικά ετήσια συστήματα πληρωμών εντός του Πυλώνα Ι (άμεσες ενισχύσεις) της ΚΑΠ, που ανταμείβουν αγρότες που υπερβαίνουν τις βασικές απαιτήσεις υιοθετώντας γεωργικές πρακτικές επωφελείς για το κλίμα, το περιβάλλον και την καλή διαβίωση των ζώων."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Investing in the capabilities of the European defence industry, including cross-border collaborative projects, is supported through a dedicated EU funding instrument distinct from national defence budgets.",
+        "question": "What is the main purpose of the European Defence Fund (EDF)?",
+        "options": [
+          "To directly purchase weapons for the armed forces of Member States",
+          "To co-finance collaborative defence research and the joint development of defence capabilities and technologies among Member States' industries",
+          "To pay the salaries of soldiers deployed on EU missions",
+          "To fund the relocation of NATO headquarters"
+        ],
+        "answer": 1,
+        "explanation": "The European Defence Fund co-finances collaborative research projects and the joint development of defence capabilities and technologies, encouraging cross-border cooperation among defence companies, including SMEs, and aiming to improve the competitiveness and innovation of the European defence industry."
+      },
+      "el": {
+        "passage": "29. Η επένδυση στις ικανότητες της ευρωπαϊκής αμυντικής βιομηχανίας, συμπεριλαμβανομένων διασυνοριακών συνεργατικών έργων, υποστηρίζεται μέσω ειδικού χρηματοδοτικού εργαλείου της ΕΕ, διακριτού από τους εθνικούς αμυντικούς προϋπολογισμούς.",
+        "question": "Ποιος είναι ο κύριος σκοπός του Ευρωπαϊκού Ταμείου Άμυνας (EDF);",
+        "options": [
+          "Η απευθείας αγορά όπλων για τις ένοπλες δυνάμεις των κρατών μελών",
+          "Η συγχρηματοδότηση συνεργατικών ερευνητικών έργων και της από κοινού ανάπτυξης αμυντικών ικανοτήτων και τεχνολογιών μεταξύ βιομηχανιών κρατών μελών",
+          "Η καταβολή μισθών σε στρατιώτες που αναπτύσσονται σε αποστολές της ΕΕ",
+          "Η χρηματοδότηση της μετεγκατάστασης της έδρας του ΝΑΤΟ"
+        ],
+        "answer": 1,
+        "explanation": "Το Ευρωπαϊκό Ταμείο Άμυνας συγχρηματοδοτεί συνεργατικά ερευνητικά έργα και την από κοινού ανάπτυξη αμυντικών ικανοτήτων και τεχνολογιών, ενθαρρύνοντας τη διασυνοριακή συνεργασία μεταξύ αμυντικών εταιρειών, συμπεριλαμβανομένων ΜΜΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. To provide a strategic reference document guiding its security and defence ambitions for the coming decade, the EU adopted a major planning document in 2022 in the wake of Russia's full-scale invasion of Ukraine.",
+        "question": "What is the 'Strategic Compass', adopted by the EU in March 2022?",
+        "options": [
+          "A binding treaty creating a European army under a single command",
+          "A strategic document setting out a shared assessment of the EU's security environment and concrete goals and timelines for strengthening its security and defence policy by 2030",
+          "A new EU institution replacing the European Defence Agency",
+          "A trade agreement between the EU and NATO members"
+        ],
+        "answer": 1,
+        "explanation": "The Strategic Compass, adopted in March 2022, is a strategic document providing a shared EU assessment of the security and geopolitical environment, and setting out concrete goals and timelines across four areas — acting, securing, investing, and partnering — to strengthen the EU's security and defence policy by 2030."
+      },
+      "el": {
+        "passage": "30. Για να παράσχει ένα στρατηγικό έγγραφο αναφοράς που καθοδηγεί τις φιλοδοξίες της για την ασφάλεια και την άμυνα την επόμενη δεκαετία, η ΕΕ υιοθέτησε ένα σημαντικό σχέδιο το 2022, μετά την πλήρους κλίμακας εισβολή της Ρωσίας στην Ουκρανία.",
+        "question": "Τι είναι η «Στρατηγική Πυξίδα» (Strategic Compass), που υιοθετήθηκε από την ΕΕ τον Μάρτιο του 2022;",
+        "options": [
+          "Μια δεσμευτική συνθήκη που δημιουργεί ευρωπαϊκό στρατό υπό ενιαία διοίκηση",
+          "Ένα στρατηγικό έγγραφο που παρουσιάζει κοινή αξιολόγηση του περιβάλλοντος ασφαλείας της ΕΕ και συγκεκριμένους στόχους και χρονοδιαγράμματα για την ενίσχυση της πολιτικής ασφάλειας και άμυνάς της έως το 2030",
+          "Ένα νέο θεσμικό όργανο της ΕΕ που αντικαθιστά τον Ευρωπαϊκό Οργανισμό Άμυνας",
+          "Μια εμπορική συμφωνία μεταξύ ΕΕ και μελών του ΝΑΤΟ"
+        ],
+        "answer": 1,
+        "explanation": "Η Στρατηγική Πυξίδα, που υιοθετήθηκε τον Μάρτιο του 2022, είναι στρατηγικό έγγραφο που παρέχει κοινή αξιολόγηση της ΕΕ για το περιβάλλον ασφαλείας και γεωπολιτικής, θέτοντας συγκεκριμένους στόχους και χρονοδιαγράμματα σε τέσσερις τομείς — δράση, ασφάλεια, επένδυση και εταιρικές σχέσεις — για την ενίσχυση της πολιτικής ασφάλειας και άμυνας της ΕΕ έως το 2030."
+      }
+    }
   ]
-  }
+}
