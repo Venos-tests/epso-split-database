@@ -230,13 +230,13 @@
     async function loadDatabase() {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-            var files = [
-                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-verbal.json",
-                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-numerical.json",
-                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-abstract.json",
-                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-eu-knowledge.json",
-                "https://cdn.jsdelivr.net/gh/Venos-tests/epso-split-database@main/epso-digital-skills.json"
-            ];
+var files = [
+    "epso-verbal.json",
+    "epso-numerical.json",
+    "epso-abstract.json",
+    "epso-eu-knowledge.json",
+    "epso-digital-skills.json"
+];
             var results = await Promise.all(files.map(f => fetch(f).then(r => r.json())));
             results.forEach(function(data) {
                 Object.assign(DATABASE, data);
