@@ -1205,5 +1205,734 @@
       "explanation": "Σε αυτή την ερώτηση εφαρμόζονται εναλλάξ δύο ανακλάσεις (συμμετρίες). Η πρώτη είναι μια ανάκλαση ως προς τη διαγώνιο που εκτείνεται από κάτω αριστερά προς τα πάνω δεξιά και διέρχεται από το σημείο όπου ενώνονται η σημαία και το βέλος. Η δεύτερη είναι μια ανάκλαση ως προς την οριζόντια γραμμή που διέρχεται από το σημείο όπου ενώνονται η σημαία και το βέλος. Για το επόμενο διάγραμμα της σειράς, πρέπει να εφαρμοστεί η πρώτη ανάκλαση, και η σωστή απάντηση είναι το D."
     }
     }  
+  ],
+  "abstract_5": [
+    {
+      "en": {
+        "image": "abstract_5_q1_ref.png",
+        "optionsImage": "abstract_5_q1_opt.png",
+        "question": "1. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The triangle rotates 60° clockwise each frame. 2. Its fill cycles black \u2192 grey \u2192 white, repeating every three frames. By frame 6 the triangle has rotated to 300° and, on the third step of its second colour cycle, should be white."
+      },
+      "el": {
+        "image": "abstract_5_q1_ref.png",
+        "optionsImage": "abstract_5_q1_opt.png",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το τρίγωνο περιστρέφεται 60° δεξιόστροφα σε κάθε πλαίσιο. 2. Το γέμισμά του ακολουθεί τον κύκλο μαύρο \u2192 γκρι \u2192 λευκό, που επαναλαμβάνεται κάθε τρία πλαίσια. Στο πλαίσιο 6 το τρίγωνο έχει περιστραφεί στις 300° και, στο τρίτο βήμα του δεύτερου κύκλου χρώματος, θα πρέπει να είναι λευκό."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q2_ref.png",
+        "optionsImage": "abstract_5_q2_opt.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Two rules apply: 1. A black dot moves clockwise around the four corners of the frame, one corner per frame. 2. The central square outline cycles through three sizes (small \u2192 medium \u2192 large), repeating every three frames. By frame 6 the dot has completed one full lap plus one extra step, landing on the top-right corner, while the square is at its largest size."
+      },
+      "el": {
+        "image": "abstract_5_q2_ref.png",
+        "optionsImage": "abstract_5_q2_opt.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Μια μαύρη κουκκίδα κινείται δεξιόστροφα γύρω από τις τέσσερις γωνίες του πλαισίου, μία γωνία ανά πλαίσιο. 2. Το περίγραμμα του κεντρικού τετραγώνου ακολουθεί κύκλο τριών μεγεθών (μικρό \u2192 μεσαίο \u2192 μεγάλο), που επαναλαμβάνεται κάθε τρία πλαίσια. Στο πλαίσιο 6 η κουκκίδα έχει ολοκληρώσει έναν πλήρη γύρο συν ένα επιπλέον βήμα, καταλήγοντας πάνω δεξιά, ενώ το τετράγωνο βρίσκεται στο μεγαλύτερο μέγεθός του."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q3_ref.png",
+        "optionsImage": "abstract_5_q3_opt.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Conditional rule: the arrow rotates 90° clockwise each frame, cycling North \u2192 East \u2192 South \u2192 West. A dot appears at the centre only when the arrow points North; in every other orientation there is no dot. By frame 6 the arrow points East, so \u2014 following the conditional rule \u2014 no dot should appear."
+      },
+      "el": {
+        "image": "abstract_5_q3_ref.png",
+        "optionsImage": "abstract_5_q3_opt.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: το βέλος περιστρέφεται 90° δεξιόστροφα σε κάθε πλαίσιο, ακολουθώντας τον κύκλο Βορράς \u2192 Ανατολή \u2192 Νότος \u2192 Δύση. Μια κουκκίδα εμφανίζεται στο κέντρο μόνο όταν το βέλος δείχνει Βορρά· σε κάθε άλλη κατεύθυνση δεν υπάρχει κουκκίδα. Στο πλαίσιο 6 το βέλος δείχνει Ανατολή, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 δεν θα πρέπει να εμφανίζεται κουκκίδα."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q4_ref.png",
+        "optionsImage": "abstract_5_q4_opt.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The pentagon rotates 72° anticlockwise each frame (one fifth of a full turn), returning to its starting orientation every five frames. 2. The hexagon's fill alternates grey/white every single frame. By frame 6 the pentagon has completed exactly one full rotation (back to its start) and the hexagon, on its alternation, is white."
+      },
+      "el": {
+        "image": "abstract_5_q4_ref.png",
+        "optionsImage": "abstract_5_q4_opt.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το πεντάγωνο περιστρέφεται κατά 72° αριστερόστροφα σε κάθε πλαίσιο (το ένα πέμπτο μιας πλήρους περιστροφής), επιστρέφοντας στην αρχική του θέση κάθε πέντε πλαίσια. 2. Το γέμισμα του εξαγώνου εναλλάσσεται μεταξύ γκρι και λευκού σε κάθε πλαίσιο. Στο πλαίσιο 6 το πεντάγωνο έχει ολοκληρώσει ακριβώς μία πλήρη περιστροφή (επιστροφή στην αρχή) και το εξάγωνο, στην εναλλαγή του, είναι λευκό."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q5_ref.png",
+        "optionsImage": "abstract_5_q5_opt.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Two rules apply: 1. The row gains one extra dot each frame (1, 2, 3, 4, 5\u2026). 2. The dots' colour alternates black/white depending on whether the frame number is odd or even. By frame 6 there should be six dots, coloured white, since frame 6 is even."
+      },
+      "el": {
+        "image": "abstract_5_q5_ref.png",
+        "optionsImage": "abstract_5_q5_opt.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η σειρά αποκτά μία επιπλέον κουκκίδα σε κάθε πλαίσιο (1, 2, 3, 4, 5\u2026). 2. Το χρώμα των κουκκίδων εναλλάσσεται μαύρο/λευκό ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 θα πρέπει να υπάρχουν έξι κουκκίδες, χρώματος λευκού, αφού το 6 είναι άρτιος."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q6_ref.png",
+        "optionsImage": "abstract_5_q6_opt.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Three rules apply, one of them conditional: 1. The square's fill cycles black \u2192 grey \u2192 white every three frames. 2. It alternates between an upright and a 45°-rotated (\u2018diamond\u2019) orientation every frame. 3. (conditional) A small triangle appears above the square only when the square is black; it is absent otherwise. By frame 6 the fill is white (third step of the cycle), so \u2014 since white is not black \u2014 no triangle should be shown."
+      },
+      "el": {
+        "image": "abstract_5_q6_ref.png",
+        "optionsImage": "abstract_5_q6_opt.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν τρεις κανόνες, ένας εκ των οποίων υπό όρους: 1. Το γέμισμα του τετραγώνου ακολουθεί τον κύκλο μαύρο \u2192 γκρι \u2192 λευκό κάθε τρία πλαίσια. 2. Εναλλάσσεται μεταξύ όρθιας θέσης και περιστροφής 45° («ρόμβος») σε κάθε πλαίσιο. 3. (υπό όρους) Ένα μικρό τρίγωνο εμφανίζεται πάνω από το τετράγωνο μόνο όταν αυτό είναι μαύρο· διαφορετικά απουσιάζει. Στο πλαίσιο 6 το γέμισμα είναι λευκό (τρίτο βήμα του κύκλου), άρα \u2014 αφού το λευκό δεν είναι μαύρο \u2014 δεν θα πρέπει να εμφανίζεται τρίγωνο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q7_ref.png",
+        "optionsImage": "abstract_5_q7_opt.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Three rules apply: 1. The left (black) bar grows by a fixed amount each frame. 2. The right (grey) bar shrinks by the same amount each frame. 3. A small marker triangle sits above the left bar on odd frames and above the right bar on even frames. By frame 6 the black bar is at its tallest, the grey bar at its shortest, and \u2014 since 6 is even \u2014 the marker sits above the grey bar."
+      },
+      "el": {
+        "image": "abstract_5_q7_ref.png",
+        "optionsImage": "abstract_5_q7_opt.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 3,
+        "explanation": "Ισχύουν τρεις κανόνες: 1. Η αριστερή (μαύρη) στήλη μεγαλώνει κατά σταθερό ποσό σε κάθε πλαίσιο. 2. Η δεξιά (γκρι) στήλη μικραίνει κατά το ίδιο ποσό σε κάθε πλαίσιο. 3. Ένα μικρό τρίγωνο-δείκτης βρίσκεται πάνω από την αριστερή στήλη στα περιττά πλαίσια και πάνω από τη δεξιά στα άρτια. Στο πλαίσιο 6 η μαύρη στήλη είναι στο ψηλότερο σημείο της, η γκρι στο χαμηλότερο, και \u2014 αφού το 6 είναι άρτιος \u2014 ο δείκτης βρίσκεται πάνω από τη γκρι στήλη."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q8_ref.png",
+        "optionsImage": "abstract_5_q8_opt.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. A dot marks one vertex of the hexagon, advancing one vertex clockwise each frame and completing a full lap every six frames. 2. The hexagon's overall fill cycles white \u2192 grey \u2192 black every three frames. By frame 6 the marked vertex has returned to its starting position, and the fill \u2014 on the third step of its second cycle \u2014 is black."
+      },
+      "el": {
+        "image": "abstract_5_q8_ref.png",
+        "optionsImage": "abstract_5_q8_opt.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Μια κουκκίδα σημειώνει μία κορυφή του εξαγώνου, προχωρώντας μία κορυφή δεξιόστροφα σε κάθε πλαίσιο και ολοκληρώνοντας πλήρη γύρο κάθε έξι πλαίσια. 2. Το συνολικό γέμισμα του εξαγώνου ακολουθεί τον κύκλο λευκό \u2192 γκρι \u2192 μαύρο κάθε τρία πλαίσια. Στο πλαίσιο 6 η σημειωμένη κορυφή έχει επιστρέψει στην αρχική της θέση, και το γέμισμα \u2014 στο τρίτο βήμα του δεύτερου κύκλου του \u2014 είναι μαύρο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q9_ref.png",
+        "optionsImage": "abstract_5_q9_opt.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Conditional rule: the left circle's radius grows steadily each frame while the right circle's radius shrinks by the same amount. If the two radii were ever to become exactly equal, both circles would turn black; otherwise the left circle stays grey and the right one stays white. By frame 6 the left circle is at its largest and the right at its smallest \u2014 the radii are not equal \u2014 so the ordinary colours (grey left, white right) apply rather than the 'equal radii' condition."
+      },
+      "el": {
+        "image": "abstract_5_q9_ref.png",
+        "optionsImage": "abstract_5_q9_opt.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: η ακτίνα του αριστερού κύκλου αυξάνεται σταθερά σε κάθε πλαίσιο, ενώ η ακτίνα του δεξιού κύκλου μειώνεται κατά το ίδιο ποσό. Αν οι δύο ακτίνες γίνονταν ποτέ ακριβώς ίσες, και οι δύο κύκλοι θα γίνονταν μαύροι· διαφορετικά ο αριστερός παραμένει γκρι και ο δεξιός λευκός. Στο πλαίσιο 6 ο αριστερός κύκλος είναι στο μέγιστο μέγεθός του και ο δεξιός στο ελάχιστο \u2014 οι ακτίνες δεν είναι ίσες \u2014 άρα ισχύουν τα συνήθη χρώματα (γκρι αριστερά, λευκό δεξιά) και όχι η συνθήκη «ίσων ακτίνων»."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_5_q10_ref.png",
+        "optionsImage": "abstract_5_q10_opt.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The arrow's length increases by a fixed amount each frame. 2. Its direction rotates 45° anticlockwise each frame. By frame 6 the arrow has both grown to its greatest length in the sequence and rotated to 225° from its starting direction."
+      },
+      "el": {
+        "image": "abstract_5_q10_ref.png",
+        "optionsImage": "abstract_5_q10_opt.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το μήκος του βέλους αυξάνεται κατά σταθερό ποσό σε κάθε πλαίσιο. 2. Η κατεύθυνσή του περιστρέφεται κατά 45° αριστερόστροφα σε κάθε πλαίσιο. Στο πλαίσιο 6 το βέλος έχει φτάσει στο μεγαλύτερο μήκος του στη σειρά και έχει περιστραφεί στις 225° από την αρχική του κατεύθυνση."
+      }
+    }
+  ],
+  "abstract_6": [
+    {
+      "en": {
+        "image": "abstract_6_q1_ref.png",
+        "optionsImage": "abstract_6_q1_opt.png",
+        "question": "1. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The pentagon rotates 72° clockwise each frame, returning to its starting orientation every five frames. 2. The number of dots arranged inside it increases by one each frame. By frame 6 the pentagon has completed a full rotation plus one extra 72° step, and there are six dots inside it."
+      },
+      "el": {
+        "image": "abstract_6_q1_ref.png",
+        "optionsImage": "abstract_6_q1_opt.png",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το πεντάγωνο περιστρέφεται κατά 72° δεξιόστροφα σε κάθε πλαίσιο, επιστρέφοντας στην αρχική του θέση κάθε πέντε πλαίσια. 2. Ο αριθμός των κουκκίδων στο εσωτερικό του αυξάνεται κατά μία σε κάθε πλαίσιο. Στο πλαίσιο 6 το πεντάγωνο έχει ολοκληρώσει μία πλήρη περιστροφή συν ένα επιπλέον βήμα 72°, και υπάρχουν έξι κουκκίδες στο εσωτερικό του."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q2_ref.png",
+        "optionsImage": "abstract_6_q2_opt.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Conditional rule: a black square hops through the repeating sequence top-left \u2192 centre \u2192 bottom-right \u2192 centre on a 3\u00d73 grid. A thick grey border appears around the whole frame only when the black square is at the centre position; otherwise the border is absent. By frame 6 the sequence places the square at the centre, so \u2014 following the conditional rule \u2014 the border should be shown."
+      },
+      "el": {
+        "image": "abstract_6_q2_ref.png",
+        "optionsImage": "abstract_6_q2_opt.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: ένα μαύρο τετράγωνο μετακινείται ακολουθώντας τον επαναλαμβανόμενο κύκλο πάνω-αριστερά \u2192 κέντρο \u2192 κάτω-δεξιά \u2192 κέντρο σε πλέγμα 3\u00d73. Ένα παχύ γκρι περίγραμμα εμφανίζεται γύρω από όλο το πλαίσιο μόνο όταν το μαύρο τετράγωνο βρίσκεται στο κέντρο· διαφορετικά απουσιάζει. Στο πλαίσιο 6 η ακολουθία τοποθετεί το τετράγωνο στο κέντρο, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 θα πρέπει να εμφανίζεται το περίγραμμα."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q3_ref.png",
+        "optionsImage": "abstract_6_q3_opt.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The shape's number of sides cycles through 3, 4, 5, 6 and back to 3, every four frames. 2. Its fill alternates between black and white every two frames. By frame 6 the shape is a square (4 sides) and, on the second step of its colour alternation, it is black."
+      },
+      "el": {
+        "image": "abstract_6_q3_ref.png",
+        "optionsImage": "abstract_6_q3_opt.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Ο αριθμός των πλευρών του σχήματος ακολουθεί τον κύκλο 3, 4, 5, 6 και ξανά 3, κάθε τέσσερα πλαίσια. 2. Το γέμισμά του εναλλάσσεται μεταξύ μαύρου και λευκού κάθε δύο πλαίσια. Στο πλαίσιο 6 το σχήμα είναι τετράγωνο (4 πλευρές) και, στο δεύτερο βήμα της εναλλαγής χρώματος, είναι μαύρο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q4_ref.png",
+        "optionsImage": "abstract_6_q4_opt.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Two rules apply, one per arrow: 1. The black arrow turns 90° clockwise each frame, cycling North, East, South, West every four frames. 2. The grey arrow turns 45° anticlockwise each frame, completing its cycle every eight frames. By frame 6 the black arrow points East and the grey arrow has rotated to 225°."
+      },
+      "el": {
+        "image": "abstract_6_q4_ref.png",
+        "optionsImage": "abstract_6_q4_opt.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Ισχύουν δύο κανόνες, ένας για κάθε βέλος: 1. Το μαύρο βέλος στρέφεται κατά 90° δεξιόστροφα σε κάθε πλαίσιο, ακολουθώντας τον κύκλο Βορράς, Ανατολή, Νότος, Δύση κάθε τέσσερα πλαίσια. 2. Το γκρι βέλος στρέφεται κατά 45° αριστερόστροφα σε κάθε πλαίσιο, ολοκληρώνοντας τον κύκλο του κάθε οκτώ πλαίσια. Στο πλαίσιο 6 το μαύρο βέλος δείχνει Ανατολή και το γκρι έχει περιστραφεί στις 225°."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q5_ref.png",
+        "optionsImage": "abstract_6_q5_opt.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Conditional rule: the bar's height increases by a fixed amount each frame. A star marker appears above the bar only once its height exceeds a certain threshold; below that threshold there is no star. By frame 6 the bar's height is well above the threshold, so \u2014 following the conditional rule \u2014 the star should be present."
+      },
+      "el": {
+        "image": "abstract_6_q5_ref.png",
+        "optionsImage": "abstract_6_q5_opt.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: το ύψος της στήλης αυξάνεται κατά σταθερό ποσό σε κάθε πλαίσιο. Ένα αστέρι-δείκτης εμφανίζεται πάνω από τη στήλη μόνο όταν το ύψος της ξεπεράσει ένα συγκεκριμένο όριο· κάτω από αυτό το όριο δεν υπάρχει αστέρι. Στο πλαίσιο 6 το ύψος της στήλης είναι αρκετά πάνω από το όριο, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 θα πρέπει να υπάρχει αστέρι."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q6_ref.png",
+        "optionsImage": "abstract_6_q6_opt.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The two-colour pie (half grey, half white) rotates 30° clockwise each frame. 2. The small central dot's colour cycles black \u2192 grey \u2192 white every three frames. By frame 6 the pie has rotated further along its path, and the dot \u2014 on the third step of its second cycle \u2014 is white."
+      },
+      "el": {
+        "image": "abstract_6_q6_ref.png",
+        "optionsImage": "abstract_6_q6_opt.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η δίχρωμη πίτα (μισή γκρι, μισή λευκή) περιστρέφεται κατά 30° δεξιόστροφα σε κάθε πλαίσιο. 2. Το χρώμα της μικρής κεντρικής κουκκίδας ακολουθεί τον κύκλο μαύρο \u2192 γκρι \u2192 λευκό κάθε τρία πλαίσια. Στο πλαίσιο 6 η πίτα έχει περιστραφεί περαιτέρω, και η κουκκίδα \u2014 στο τρίτο βήμα του δεύτερου κύκλου της \u2014 είναι λευκή."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q7_ref.png",
+        "optionsImage": "abstract_6_q7_opt.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Two rules apply, one per square: 1. The outer square rotates 45° clockwise each frame. 2. The inner square rotates 45° anticlockwise each frame. By frame 6 the outer square has rotated to 135° and the inner square to 225° from their starting orientations."
+      },
+      "el": {
+        "image": "abstract_6_q7_ref.png",
+        "optionsImage": "abstract_6_q7_opt.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Ισχύουν δύο κανόνες, ένας για κάθε τετράγωνο: 1. Το εξωτερικό τετράγωνο περιστρέφεται κατά 45° δεξιόστροφα σε κάθε πλαίσιο. 2. Το εσωτερικό τετράγωνο περιστρέφεται κατά 45° αριστερόστροφα σε κάθε πλαίσιο. Στο πλαίσιο 6 το εξωτερικό τετράγωνο έχει περιστραφεί στις 135° και το εσωτερικό στις 225° από τις αρχικές τους θέσεις."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q8_ref.png",
+        "optionsImage": "abstract_6_q8_opt.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Conditional rule: a dot travels clockwise around the four corners of the frame, one corner per frame. The central shape is a circle in every position except when the dot reaches the top-right corner, at which point the central shape becomes a square instead. By frame 6 the dot has returned to the top-right corner, so \u2014 following the conditional rule \u2014 the central shape should be a square."
+      },
+      "el": {
+        "image": "abstract_6_q8_ref.png",
+        "optionsImage": "abstract_6_q8_opt.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: μια κουκκίδα κινείται δεξιόστροφα γύρω από τις τέσσερις γωνίες του πλαισίου, μία γωνία ανά πλαίσιο. Το κεντρικό σχήμα είναι κύκλος σε κάθε θέση εκτός από όταν η κουκκίδα φτάνει στην πάνω δεξιά γωνία, οπότε το κεντρικό σχήμα γίνεται τετράγωνο. Στο πλαίσιο 6 η κουκκίδα έχει επιστρέψει στην πάνω δεξιά γωνία, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 το κεντρικό σχήμα θα πρέπει να είναι τετράγωνο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q9_ref.png",
+        "optionsImage": "abstract_6_q9_opt.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The stack of horizontal lines gains one extra line each frame. 2. The lines' colour alternates black/grey depending on whether the frame number is odd or even. By frame 6 there should be six lines, coloured grey, since frame 6 is even."
+      },
+      "el": {
+        "image": "abstract_6_q9_ref.png",
+        "optionsImage": "abstract_6_q9_opt.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η στοίβα οριζόντιων γραμμών αποκτά μία επιπλέον γραμμή σε κάθε πλαίσιο. 2. Το χρώμα των γραμμών εναλλάσσεται μαύρο/γκρι ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 θα πρέπει να υπάρχουν έξι γραμμές, χρώματος γκρι, αφού το 6 είναι άρτιος."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_6_q10_ref.png",
+        "optionsImage": "abstract_6_q10_opt.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. A dot moves clockwise around eight positions evenly spaced along the frame's perimeter, one position per frame. 2. Its size alternates between small and large depending on whether the frame number is odd or even. By frame 6 the dot has advanced most of the way around the perimeter and, since 6 is even, is at its larger size."
+      },
+      "el": {
+        "image": "abstract_6_q10_ref.png",
+        "optionsImage": "abstract_6_q10_opt.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Μια κουκκίδα κινείται δεξιόστροφα γύρω από οκτώ ισαπέχουσες θέσεις κατά μήκος της περιμέτρου του πλαισίου, μία θέση ανά πλαίσιο. 2. Το μέγεθός της εναλλάσσεται μεταξύ μικρού και μεγάλου ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 η κουκκίδα έχει προχωρήσει σχεδόν σε όλη την περίμετρο και, αφού το 6 είναι άρτιος, βρίσκεται στο μεγαλύτερο μέγεθός της."
+      }
+    }
+  ],
+  "abstract_7": [
+    {
+      "en": {
+        "image": "abstract_7_q1_ref.png",
+        "optionsImage": "abstract_7_q1_opt.png",
+        "question": "1. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Three rules apply, one of them conditional: 1. A dot jumps forward 2 positions each frame among the 5 vertices of a pentagon (so the sequence of vertices visited is 0, 2, 4, 1, 3, 0\u2026). 2. (conditional) Whenever the dot lands back exactly on the starting vertex (vertex 0), it doubles in size; at every other vertex it stays its normal size. 3. Its colour alternates black/grey depending on whether the frame number is odd or even. By frame 6 the jump sequence returns the dot to vertex 0 for the first time since frame 1, so \u2014 following the conditional rule \u2014 it should be shown enlarged, and since 6 is even, its colour should be grey."
+      },
+      "el": {
+        "image": "abstract_7_q1_ref.png",
+        "optionsImage": "abstract_7_q1_opt.png",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν τρεις κανόνες, ένας εκ των οποίων υπό όρους: 1. Μια κουκκίδα προχωρά 2 θέσεις μπροστά σε κάθε πλαίσιο ανάμεσα στις 5 κορυφές ενός πενταγώνου (η ακολουθία κορυφών είναι 0, 2, 4, 1, 3, 0\u2026). 2. (υπό όρους) Όποτε η κουκκίδα επιστρέφει ακριβώς στην αρχική κορυφή (κορυφή 0), διπλασιάζεται σε μέγεθος· σε κάθε άλλη κορυφή παραμένει στο κανονικό της μέγεθος. 3. Το χρώμα της εναλλάσσεται μαύρο/γκρι ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 η ακολουθία αλμάτων επαναφέρει την κουκκίδα στην κορυφή 0 για πρώτη φορά μετά το πλαίσιο 1, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 θα πρέπει να εμφανίζεται μεγεθυμένη, και αφού το 6 είναι άρτιος, το χρώμα της θα πρέπει να είναι γκρι."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q2_ref.png",
+        "optionsImage": "abstract_7_q2_opt.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The square's 'cut' corner (shown as a small white triangle overlay) moves clockwise around the four corners, one corner per frame. 2. The square's fill alternates black/grey depending on whether the frame number is odd or even. By frame 6 the cut corner has advanced to the top-right, and since 6 is even, the fill should be grey."
+      },
+      "el": {
+        "image": "abstract_7_q2_ref.png",
+        "optionsImage": "abstract_7_q2_opt.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η «κομμένη» γωνία του τετραγώνου (απεικονίζεται ως μικρό λευκό τρίγωνο) μετακινείται δεξιόστροφα γύρω από τις τέσσερις γωνίες, μία γωνία ανά πλαίσιο. 2. Το γέμισμα του τετραγώνου εναλλάσσεται μαύρο/γκρι ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 η κομμένη γωνία έχει προχωρήσει στην πάνω δεξιά θέση, και αφού το 6 είναι άρτιος, το γέμισμα θα πρέπει να είναι γκρι."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q3_ref.png",
+        "optionsImage": "abstract_7_q3_opt.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The stack of horizontal lines loses one line each frame (starting from 5 and counting down). 2. The lines' colour cycles black \u2192 grey \u2192 white, repeating every three frames. By frame 6 the count has reached zero (no lines remain), while the colour \u2014 on the third step of its second cycle \u2014 would be white, though with no lines left to colour."
+      },
+      "el": {
+        "image": "abstract_7_q3_ref.png",
+        "optionsImage": "abstract_7_q3_opt.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η στοίβα οριζόντιων γραμμών χάνει μία γραμμή σε κάθε πλαίσιο (ξεκινώντας από 5 και μετρώντας προς τα κάτω). 2. Το χρώμα των γραμμών ακολουθεί τον κύκλο μαύρο \u2192 γκρι \u2192 λευκό, που επαναλαμβάνεται κάθε τρία πλαίσια. Στο πλαίσιο 6 ο αριθμός έχει φτάσει στο μηδέν (δεν απομένει καμία γραμμή), ενώ το χρώμα \u2014 στο τρίτο βήμα του δεύτερου κύκλου του \u2014 θα ήταν λευκό, αν και δεν υπάρχει πλέον γραμμή να χρωματιστεί."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q4_ref.png",
+        "optionsImage": "abstract_7_q4_opt.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Conditional rule: the arrow rotates 45° clockwise each frame, cycling through the eight compass points. A small square appears at the arrow's tip only when it points in one of the four diagonal directions (NE, SE, SW, NW); when it points to a cardinal direction (N, E, S, W) there is no square. By frame 6 the arrow points south-west, a diagonal direction, so \u2014 following the conditional rule \u2014 the companion square should be shown."
+      },
+      "el": {
+        "image": "abstract_7_q4_ref.png",
+        "optionsImage": "abstract_7_q4_opt.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: το βέλος περιστρέφεται κατά 45° δεξιόστροφα σε κάθε πλαίσιο, διατρέχοντας τα οκτώ σημεία της πυξίδας. Ένα μικρό τετράγωνο εμφανίζεται στην άκρη του βέλους μόνο όταν αυτό δείχνει σε μία από τις τέσσερις διαγώνιες κατευθύνσεις (ΒΑ, ΝΑ, ΝΔ, ΒΔ)· όταν δείχνει σε κύρια κατεύθυνση (Β, Α, Ν, Δ) δεν υπάρχει τετράγωνο. Στο πλαίσιο 6 το βέλος δείχνει νοτιοδυτικά, μια διαγώνια κατεύθυνση, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 θα πρέπει να εμφανίζεται το συνοδευτικό τετράγωνο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q5_ref.png",
+        "optionsImage": "abstract_7_q5_opt.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Two rules apply, one per triangle: 1. The outer (black-outline) triangle rotates 40° clockwise each frame. 2. The inner (grey) triangle rotates 80° anticlockwise each frame. By frame 6 the outer triangle has rotated to 160° and the inner triangle to 40° from their starting orientations."
+      },
+      "el": {
+        "image": "abstract_7_q5_ref.png",
+        "optionsImage": "abstract_7_q5_opt.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Ισχύουν δύο κανόνες, ένας για κάθε τρίγωνο: 1. Το εξωτερικό τρίγωνο (με μαύρο περίγραμμα) περιστρέφεται κατά 40° δεξιόστροφα σε κάθε πλαίσιο. 2. Το εσωτερικό (γκρι) τρίγωνο περιστρέφεται κατά 80° αριστερόστροφα σε κάθε πλαίσιο. Στο πλαίσιο 6 το εξωτερικό τρίγωνο έχει περιστραφεί στις 160° και το εσωτερικό στις 40° από τις αρχικές τους θέσεις."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q6_ref.png",
+        "optionsImage": "abstract_7_q6_opt.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The number of small dots scattered inside the circle increases by two each frame (1, 3, 5, 7\u2026). 2. The circle's border thickness alternates thin/thick depending on whether the frame number is odd or even. By frame 6 there should be eleven dots, with a thick border (since 6 is even)."
+      },
+      "el": {
+        "image": "abstract_7_q6_ref.png",
+        "optionsImage": "abstract_7_q6_opt.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Ο αριθμός των μικρών κουκκίδων μέσα στον κύκλο αυξάνεται κατά δύο σε κάθε πλαίσιο (1, 3, 5, 7\u2026). 2. Το πάχος του περιγράμματος του κύκλου εναλλάσσεται λεπτό/παχύ ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 θα πρέπει να υπάρχουν έντεκα κουκκίδες, με παχύ περίγραμμα (αφού το 6 είναι άρτιος)."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q7_ref.png",
+        "optionsImage": "abstract_7_q7_opt.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two independent rules apply: 1. The bar's height cycles through four fixed levels, repeating every four frames. 2. The border colour drawn around the bar cycles black \u2192 grey \u2192 white, repeating every three frames \u2014 independently of the height. By frame 6 the height is on the second of its four levels, and the border colour, on the third step of its second cycle, is white."
+      },
+      "el": {
+        "image": "abstract_7_q7_ref.png",
+        "optionsImage": "abstract_7_q7_opt.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο ανεξάρτητοι κανόνες: 1. Το ύψος της στήλης ακολουθεί κύκλο τεσσάρων σταθερών επιπέδων, που επαναλαμβάνεται κάθε τέσσερα πλαίσια. 2. Το χρώμα του περιγράμματος γύρω από τη στήλη ακολουθεί τον κύκλο μαύρο \u2192 γκρι \u2192 λευκό, που επαναλαμβάνεται κάθε τρία πλαίσια \u2014 ανεξάρτητα από το ύψος. Στο πλαίσιο 6 το ύψος βρίσκεται στο δεύτερο από τα τέσσερα επίπεδά του, και το χρώμα του περιγράμματος, στο τρίτο βήμα του δεύτερου κύκλου του, είναι λευκό."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q8_ref.png",
+        "optionsImage": "abstract_7_q8_opt.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The starting angle of the shaded pie slice rotates 30° clockwise each frame. 2. The slice's angular span widens by 45° each frame (45°, 90°, 135°\u2026). By frame 6 the starting angle has rotated to 210° and the span has widened to 270°."
+      },
+      "el": {
+        "image": "abstract_7_q8_ref.png",
+        "optionsImage": "abstract_7_q8_opt.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η αρχική γωνία της σκιασμένης φέτας πίτας περιστρέφεται κατά 30° δεξιόστροφα σε κάθε πλαίσιο. 2. Το εύρος της φέτας διευρύνεται κατά 45° σε κάθε πλαίσιο (45°, 90°, 135°\u2026). Στο πλαίσιο 6 η αρχική γωνία έχει περιστραφεί στις 210° και το εύρος έχει διευρυνθεί στις 270°."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q9_ref.png",
+        "optionsImage": "abstract_7_q9_opt.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Conditional rule: two dots orbit the four corners of a square \u2014 the grey dot advances one corner clockwise each frame, while the white dot advances one corner anticlockwise each frame, starting from opposite corners. Whenever the two dots land on the same corner, the central square turns black; otherwise it stays unfilled. By frame 6 both dots have arrived at the same corner (top-right), so \u2014 following the conditional rule \u2014 the square should be black."
+      },
+      "el": {
+        "image": "abstract_7_q9_ref.png",
+        "optionsImage": "abstract_7_q9_opt.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: δύο κουκκίδες περιστρέφονται γύρω από τις τέσσερις γωνίες ενός τετραγώνου \u2014 η γκρι κουκκίδα προχωρά μία γωνία δεξιόστροφα σε κάθε πλαίσιο, ενώ η λευκή προχωρά μία γωνία αριστερόστροφα, ξεκινώντας από αντίθετες γωνίες. Όποτε οι δύο κουκκίδες καταλήγουν στην ίδια γωνία, το κεντρικό τετράγωνο γίνεται μαύρο· διαφορετικά παραμένει αγέμιστο. Στο πλαίσιο 6 και οι δύο κουκκίδες έχουν φτάσει στην ίδια γωνία (πάνω δεξιά), άρα \u2014 βάσει του υπό όρους κανόνα \u2014 το τετράγωνο θα πρέπει να είναι μαύρο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_7_q10_ref.png",
+        "optionsImage": "abstract_7_q10_opt.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The shape's number of sides follows the 'bounce' sequence 6, 5, 4, 3, 4, 5 (decreasing to a minimum of 3, then increasing back), repeating every six frames. 2. Its fill alternates grey/black depending on whether the frame number is odd or even. By frame 6 the shape is a pentagon (5 sides) and, since 6 is even, its fill should be black."
+      },
+      "el": {
+        "image": "abstract_7_q10_ref.png",
+        "optionsImage": "abstract_7_q10_opt.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Ο αριθμός των πλευρών του σχήματος ακολουθεί την «παλινδρομική» ακολουθία 6, 5, 4, 3, 4, 5 (μειώνεται έως το ελάχιστο των 3, μετά αυξάνεται ξανά), που επαναλαμβάνεται κάθε έξι πλαίσια. 2. Το γέμισμά του εναλλάσσεται γκρι/μαύρο ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 το σχήμα είναι πεντάγωνο (5 πλευρές) και, αφού το 6 είναι άρτιος, το γέμισμά του θα πρέπει να είναι μαύρο."
+      }
+    }
+  ],
+  "abstract_8": [
+    {
+      "en": {
+        "image": "abstract_8_q1_ref.png",
+        "optionsImage": "abstract_8_q1_opt.png",
+        "question": "1. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The circle's radius cycles through three sizes (small \u2192 medium \u2192 large), repeating every three frames. 2. Its centre moves a fixed distance to the right each frame. By frame 6 the circle, on the third step of its second size cycle, is at its largest, and has moved to the far right of the frame."
+      },
+      "el": {
+        "image": "abstract_8_q1_ref.png",
+        "optionsImage": "abstract_8_q1_opt.png",
+        "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Η ακτίνα του κύκλου ακολουθεί κύκλο τριών μεγεθών (μικρό \u2192 μεσαίο \u2192 μεγάλο), που επαναλαμβάνεται κάθε τρία πλαίσια. 2. Το κέντρο του μετακινείται κατά σταθερή απόσταση προς τα δεξιά σε κάθε πλαίσιο. Στο πλαίσιο 6 ο κύκλος, στο τρίτο βήμα του δεύτερου κύκλου μεγέθους του, είναι στο μεγαλύτερο μέγεθός του, και έχει μετακινηθεί στο δεξί άκρο του πλαισίου."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q2_ref.png",
+        "optionsImage": "abstract_8_q2_opt.png",
+        "question": "2. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The hexagon rotates slowly, 15° clockwise each frame. 2. The number of lines radiating from the centre increases by one each frame (1, 2, 3, 4, 5\u2026). By frame 6 the hexagon has rotated to 285° from its start, and there should be six radiating lines."
+      },
+      "el": {
+        "image": "abstract_8_q2_ref.png",
+        "optionsImage": "abstract_8_q2_opt.png",
+        "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το εξάγωνο περιστρέφεται αργά, κατά 15° δεξιόστροφα σε κάθε πλαίσιο. 2. Ο αριθμός των γραμμών που ξεκινούν από το κέντρο αυξάνεται κατά μία σε κάθε πλαίσιο (1, 2, 3, 4, 5\u2026). Στο πλαίσιο 6 το εξάγωνο έχει περιστραφεί στις 285° από την αρχή του, και θα πρέπει να υπάρχουν έξι ακτινωτές γραμμές."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q3_ref.png",
+        "optionsImage": "abstract_8_q3_opt.png",
+        "question": "3. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Conditional rule: dots accumulate one by one at the square's four corners (1, 2, 3, 4), advancing clockwise from the top-left. Whenever the count would return to zero (that is, on every fifth frame), the whole square turns solid black instead of showing empty corners. By frame 6 the count has moved past that reset point and restarted at one, so the square should be unfilled again, showing a single dot at the top-left corner."
+      },
+      "el": {
+        "image": "abstract_8_q3_ref.png",
+        "optionsImage": "abstract_8_q3_opt.png",
+        "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 1,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: κουκκίδες συσσωρεύονται μία-μία στις τέσσερις γωνίες του τετραγώνου (1, 2, 3, 4), προχωρώντας δεξιόστροφα από πάνω αριστερά. Όποτε ο αριθμός θα επέστρεφε στο μηδέν (δηλαδή σε κάθε πέμπτο πλαίσιο), όλο το τετράγωνο γίνεται συμπαγές μαύρο αντί να δείχνει άδειες γωνίες. Στο πλαίσιο 6 ο αριθμός έχει περάσει αυτό το σημείο επαναφοράς και ξεκινά ξανά από το ένα, άρα το τετράγωνο θα πρέπει να είναι πάλι αγέμιστο, δείχνοντας μία μόνο κουκκίδα πάνω αριστερά."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q4_ref.png",
+        "optionsImage": "abstract_8_q4_opt.png",
+        "question": "4. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The number of stripes in the barcode-like block increases by one each frame (2, 3, 4, 5\u2026). 2. The block's orientation alternates between vertical and horizontal stripes depending on whether the frame number is odd or even. By frame 6 there should be seven stripes, arranged horizontally (since 6 is even)."
+      },
+      "el": {
+        "image": "abstract_8_q4_ref.png",
+        "optionsImage": "abstract_8_q4_opt.png",
+        "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Ο αριθμός των γραμμών στο μπλοκ τύπου «barcode» αυξάνεται κατά μία σε κάθε πλαίσιο (2, 3, 4, 5\u2026). 2. Ο προσανατολισμός του μπλοκ εναλλάσσεται μεταξύ κάθετων και οριζόντιων γραμμών ανάλογα με το αν ο αριθμός του πλαισίου είναι περιττός ή άρτιος. Στο πλαίσιο 6 θα πρέπει να υπάρχουν επτά γραμμές, διατεταγμένες οριζόντια (αφού το 6 είναι άρτιος)."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q5_ref.png",
+        "optionsImage": "abstract_8_q5_opt.png",
+        "question": "5. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The black (filled) triangle and the outlined triangle swap between the top and bottom positions each frame. 2. The pair grows slightly larger each frame. By frame 6 the arrangement has swapped back to match its even-frame state (filled triangle at the bottom, outlined triangle at the top), and the pair is at its largest size in the sequence."
+      },
+      "el": {
+        "image": "abstract_8_q5_ref.png",
+        "optionsImage": "abstract_8_q5_opt.png",
+        "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το συμπαγές (μαύρο) τρίγωνο και το περιγεγραμμένο τρίγωνο εναλλάσσουν θέσεις (πάνω/κάτω) σε κάθε πλαίσιο. 2. Το ζεύγος μεγαλώνει ελαφρώς σε κάθε πλαίσιο. Στο πλαίσιο 6 η διάταξη έχει επιστρέψει στην κατάσταση των άρτιων πλαισίων (το συμπαγές τρίγωνο κάτω, το περιγεγραμμένο πάνω), και το ζεύγος βρίσκεται στο μεγαλύτερο μέγεθός του στη σειρά."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q6_ref.png",
+        "optionsImage": "abstract_8_q6_opt.png",
+        "question": "6. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Conditional rule: a dot advances one vertex clockwise around a hexagon each frame, completing a full lap every six frames. Its colour inverts from black to white only at the vertex directly opposite its starting point (the fourth vertex of the cycle); at every other vertex it stays black. By frame 6 the dot has almost completed its lap and is not at that opposite vertex, so its colour should remain black."
+      },
+      "el": {
+        "image": "abstract_8_q6_ref.png",
+        "optionsImage": "abstract_8_q6_opt.png",
+        "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: μια κουκκίδα προχωρά μία κορυφή δεξιόστροφα γύρω από ένα εξάγωνο σε κάθε πλαίσιο, ολοκληρώνοντας πλήρη γύρο κάθε έξι πλαίσια. Το χρώμα της αντιστρέφεται από μαύρο σε λευκό μόνο στην κορυφή ακριβώς απέναντι από την αρχική της θέση (την τέταρτη κορυφή του κύκλου)· σε κάθε άλλη κορυφή παραμένει μαύρη. Στο πλαίσιο 6 η κουκκίδα έχει σχεδόν ολοκληρώσει τον γύρο της και δεν βρίσκεται σε εκείνη την απέναντι κορυφή, άρα το χρώμα της θα πρέπει να παραμένει μαύρο."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q7_ref.png",
+        "optionsImage": "abstract_8_q7_opt.png",
+        "question": "7. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The pentagon grows larger by a fixed amount each frame. 2. Its fill cycles black \u2192 white \u2192 grey, repeating every three frames. By frame 6 the pentagon is at its largest size in the sequence, and its fill, on the third step of its second colour cycle, is grey."
+      },
+      "el": {
+        "image": "abstract_8_q7_ref.png",
+        "optionsImage": "abstract_8_q7_opt.png",
+        "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το πεντάγωνο μεγαλώνει κατά σταθερό ποσό σε κάθε πλαίσιο. 2. Το γέμισμά του ακολουθεί τον κύκλο μαύρο \u2192 λευκό \u2192 γκρι, που επαναλαμβάνεται κάθε τρία πλαίσια. Στο πλαίσιο 6 το πεντάγωνο είναι στο μεγαλύτερο μέγεθός του στη σειρά, και το γέμισμά του, στο τρίτο βήμα του δεύτερου κύκλου χρώματος, είναι γκρι."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q8_ref.png",
+        "optionsImage": "abstract_8_q8_opt.png",
+        "question": "8. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Conditional rule: the bar's height increases by a fixed amount each frame. Its colour is grey as long as its height stays at or below the frame's midline; once the height exceeds the midline, the colour switches to black and remains black afterwards. By frame 6 the bar's height is well above the midline, so \u2014 following the conditional rule \u2014 it should be black."
+      },
+      "el": {
+        "image": "abstract_8_q8_ref.png",
+        "optionsImage": "abstract_8_q8_opt.png",
+        "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Δεσμευτικός (υπό όρους) κανόνας: το ύψος της στήλης αυξάνεται κατά σταθερό ποσό σε κάθε πλαίσιο. Το χρώμα της είναι γκρι όσο το ύψος παραμένει στο ή κάτω από το μέσο ύψος του πλαισίου· μόλις το ύψος ξεπεράσει αυτό το μέσο σημείο, το χρώμα γίνεται μαύρο και παραμένει έτσι στη συνέχεια. Στο πλαίσιο 6 το ύψος της στήλης είναι αρκετά πάνω από το μέσο σημείο, άρα \u2014 βάσει του υπό όρους κανόνα \u2014 θα πρέπει να είναι μαύρη."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q9_ref.png",
+        "optionsImage": "abstract_8_q9_opt.png",
+        "question": "9. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. The arrow's length shrinks by a fixed amount each frame. 2. Its direction rotates 30° anticlockwise each frame. By frame 6 the arrow has shrunk to its shortest length in the sequence and rotated to 150° from its starting direction."
+      },
+      "el": {
+        "image": "abstract_8_q9_ref.png",
+        "optionsImage": "abstract_8_q9_opt.png",
+        "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το μήκος του βέλους μικραίνει κατά σταθερό ποσό σε κάθε πλαίσιο. 2. Η κατεύθυνσή του περιστρέφεται κατά 30° αριστερόστροφα σε κάθε πλαίσιο. Στο πλαίσιο 6 το βέλος έχει μικρύνει στο μικρότερο μήκος του στη σειρά και έχει περιστραφεί στις 150° από την αρχική του κατεύθυνση."
+      }
+    },
+    {
+      "en": {
+        "image": "abstract_8_q10_ref.png",
+        "optionsImage": "abstract_8_q10_opt.png",
+        "question": "10. Which figure logically completes the series?",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Two rules apply: 1. A grey square marker always stays fixed at the centre of the 3\u00d73 grid. 2. A second, black square marker orbits clockwise around the eight outer cells of the grid, one cell per frame, completing a full lap every eight frames. By frame 6 the black marker has advanced to the bottom-middle cell, while the grey marker remains at the centre as always."
+      },
+      "el": {
+        "image": "abstract_8_q10_ref.png",
+        "optionsImage": "abstract_8_q10_opt.png",
+        "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": ["A", "B", "C", "D", "E"],
+        "answer": 2,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Ένας γκρι δείκτης-τετράγωνο παραμένει πάντα σταθερός στο κέντρο του πλέγματος 3\u00d73. 2. Ένας δεύτερος, μαύρος δείκτης-τετράγωνο περιστρέφεται δεξιόστροφα γύρω από τα οκτώ εξωτερικά κελιά του πλέγματος, ένα κελί ανά πλαίσιο, ολοκληρώνοντας πλήρη γύρο κάθε οκτώ πλαίσια. Στο πλαίσιο 6 ο μαύρος δείκτης έχει προχωρήσει στο κάτω-μεσαίο κελί, ενώ ο γκρι δείκτης παραμένει στο κέντρο όπως πάντα."
+      }
+    }
   ]
 }
+
