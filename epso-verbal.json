@@ -262,28 +262,28 @@
     },
     {
       "en": {
-        "passage": "11. Under the agency's internal rules, the Head of Section is entitled to request additional information from an applicant before forwarding the file to the Selection Board. If the Head of Section considers the documentation incomplete, the file may be forwarded only once the missing information has been supplied. The Selection Board alone is responsible for the final decision.",
+        "passage": "11. Under the agency's internal rules, the Head of Section is entitled to request additional information from an applicant before forwarding the file to the Selection Board. If the Head of Section considers the documentation incomplete, the file may be forwarded only once the missing information has been supplied. In all cases, the Selection Board alone is responsible for the final decision.",
         "question": "Which of the following is consistent with the passage?",
         "options": [
           "The Head of Section may overturn the Selection Board's final decision",
           "The Head of Section is entitled to request that an applicant provide additional information",
           "The Head of Section may refuse to forward the file unless the applicant agrees",
-          "The Head of Section may order an applicant to provide additional information"
+          "The Head of Section may require that an applicant provide additional information"
         ],
         "answer": 1,
         "explanation": "The passage states the Head of Section \"is entitled to request\" additional information — a right to ask, not an order or veto power."
       },
       "el": {
-        "passage": "11. Σύμφωνα με τους εσωτερικούς κανονισμούς του οργανισμού, ο Προϊστάμενος Τομέα δικαιούται να ζητήσει πρόσθετες πληροφορίες από έναν αιτούντα προτού προωθήσει τον φάκελο στην Επιτροπή Επιλογής. Εάν ο Προϊστάμενος Τομέα κρίνει ότι η τεκμηρίωση είναι ελλιπής, ο φάκελος μπορεί να προωθηθεί μόνο αφού παρασχεθούν οι πληροφορίες που λείπουν. Η Επιτροπή Επιλογής είναι η μόνη αρμόδια για την τελική απόφαση.",
+        "passage": "11. Σύμφωνα με τους εσωτερικούς κανονισμούς του οργανισμού, ο Προϊστάμενος Τομέα δικαιούται να ζητήσει πρόσθετες πληροφορίες από έναν αιτούντα προτού προωθήσει τον φάκελο στην Επιτροπή Επιλογής. Εάν ο Προϊστάμενος Τομέα κρίνει ότι η τεκμηρίωση είναι ελλιπής, ο φάκελος μπορεί να προωθηθεί μόνο αφού παρασχεθούν οι πληροφορίες που λείπουν. Σε κα΄θε περίπτωση, η Επιτροπή Επιλογής είναι η μόνη αρμόδια για την τελική απόφαση.",
         "question": "Ποιο από τα παρακάτω είναι συνεπές με το κείμενο;",
         "options": [
           "Ο Προϊστάμενος Τομέα μπορεί να ανατρέψει την τελική απόφαση της Επιτροπής Επιλογής",
           "Ο Προϊστάμενος Τομέα δικαιούται να ζητήσει από τον αιτούντα να παράσχει πρόσθετες πληροφορίες",
           "Ο Προϊστάμενος Τομέα μπορεί να αρνηθεί να προωθήσει τον φάκελο αν δεν συμφωνήσει ο αιτών",
-          "Ο Προϊστάμενος Τομέα μπορεί να διατάξει τον αιτούντα να παράσχει πρόσθετες πληροφορίες"
+          "Ο Προϊστάμενος Τομέα μπορεί να απαιτήσει από τον αιτούντα να παράσχει πρόσθετες πληροφορίες"
         ],
         "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ότι ο Προϊστάμενος Τομέα «δικαιούται να ζητήσει» πρόσθετες πληροφορίες — δικαίωμα να ζητήσει, όχι εντολή ή δικαίωμα βέτο."
+        "explanation": "Το κείμενο αναφέρει ότι ο Προϊστάμενος Τομέα «δικαιούται να ζητήσει» πρόσθετες πληροφορίες — Αρα, έχει δικαίωμα αιτήματος, όχι εντολής ή βέτο."
       }
     },
     {
@@ -292,24 +292,24 @@
         "question": "Which sector is considered most vulnerable to AI-driven automation, according to the passage?",
         "options": [
           "Renewable energy engineering",
-          "Customer service",
+          "Super markets",
           "Healthcare",
           "Creative arts"
         ],
         "answer": 1,
-        "explanation": "The passage explicitly lists customer service (alongside retail and logistics) as facing high automation risk."
+        "explanation": "The passage explicitly lists retail sales (alongside σcustomer service and logistics) as facing high automation risk."
       },
       "el": {
         "passage": "12. Η τεχνητή νοημοσύνη αναμένεται να αναδιαμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας, δημιουργώντας ζήτηση για νέες ψηφιακές ικανότητες και μεταβάλλοντας τα προφίλ θέσεων εργασίας σε όλους τους τομείς. Οι εκτιμήσεις δείχνουν ότι το 18–28% των σημερινών θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στο λιανικό εμπόριο, την εφοδιαστική και την εξυπηρέτηση πελατών.",
         "question": "Ποιος τομέας θεωρείται ο πλέον ευάλωτος στην αυτοματοποίηση λόγω AI, σύμφωνα με το κείμενο;",
         "options": [
           "Μηχανική ανανεώσιμων πηγών ενέργειας",
-          "Εξυπηρέτηση πελατών",
+          "Σούπερ μάρκετ",
           "Υγειονομική περίθαλψη",
           "Δημιουργικές τέχνες"
         ],
         "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ρητά την εξυπηρέτηση πελατών (μαζί με το λιανικό εμπόριο και την εφοδιαστική) ως τομέα υψηλού κινδύνου."
+        "explanation": "Το κείμενο αναφέρει ρητά στο λιανικό εμπόριο (μαζί με την εξυπηρέτηση πελατώνκαι την εφοδιαστική) όπου ανήκουν και τα σούπερ μάρκετ ως τομέα υψηλού κινδύνου."
       }
     },
     {
@@ -318,9 +318,9 @@
         "question": "How did the principle of popular sovereignty fundamentally challenge the political order that preceded the Revolution?",
         "options": [
           "By endorsing hereditary aristocracy as the foundation of governance",
-          "By promoting centralized imperial control over regional identities",
+          "By questioning the centralized imperial control over regional identities",
           "By replacing monarchical absolutism with citizen participation as the source of political legitimacy",
-          "By legitimising dynastic rule through divine sanction"
+          "By legitimising the, through divine sanction, dynastic rule"
         ],
         "answer": 2,
         "explanation": "Popular sovereignty relocates the source of legitimate authority from the monarch to the citizenry."
@@ -329,10 +329,10 @@
         "passage": "13. Η Γαλλική Επανάσταση (1789–1799) αναδιαμόρφωσε θεμελιωδώς τα πολιτικά και κοινωνικά ιδεώδη που στηρίζουν τη σύγχρονη Ευρωπαϊκή Ένωση. Αμφισβητώντας τη μοναρχική απολυταρχία και τα φεουδαρχικά προνόμια, προάσπισε την ελευθερία, την ισότητα και τη λαϊκή κυριαρχία — αρχές που είναι πλέον ενσωματωμένες στις ιδρυτικές αξίες της ΕΕ.",
         "question": "Πώς η αρχή της λαϊκής κυριαρχίας αμφισβήτησε θεμελιωδώς την πολιτική τάξη που προϋπήρχε της Επανάστασης;",
         "options": [
-          "Εγκρίνοντας την κληρονομική αριστοκρατία ως θεμέλιο της διακυβέρνησης",
-          "Προωθώντας τον κεντρικό αυτοκρατορικό έλεγχο επί των περιφερειακών ταυτοτήτων",
+          "Υποστηρίζοντας την κληρονομική αριστοκρατία ως θεμέλιο της διακυβέρνησης",
+          "Αμφισβητώντας τον κεντρικό αυτοκρατορικό έλεγχο επί των περιφερειακών ταυτοτήτων",
           "Αντικαθιστώντας τη μοναρχική απολυταρχία με τη συμμετοχή των πολιτών ως πηγή πολιτικής νομιμότητας",
-          "Νομιμοποιώντας τη δυναστική εξουσία μέσω θείας επικύρωσης"
+          "Νομιμοποιώντας την, μέσω θείας επικύρωσης, δυναστική εξουσία"
         ],
         "answer": 2,
         "explanation": "Η λαϊκή κυριαρχία μετατοπίζει την πηγή της νόμιμης εξουσίας από τον μονάρχη στους πολίτες."
@@ -343,9 +343,9 @@
         "passage": "14. Unlike Member States that favour strict subsidiarity, the European Commission argues for a more centralised legislative approach, citing the cross-border nature of environmental threats. Paradoxically, some Western European governments with strong environmental track records remain opposed to further integration in this field.",
         "question": "Which of the following statements is best supported by the passage?",
         "options": [
-          "Business associations are pushing for binding EU-wide environmental targets",
-          "Some Western European states with strong environmental records resist further EU integration",
-          "The European Parliament fully supports national discretion in environmental policy",
+          "Business associations are pushing for unified and binding EU-wide environmental targets",
+          "Some Western European states resist further EU integration despite their strong environmental records",
+          "The European Parliament fully supports a more centralised environmental legislative approach",
           "All Eastern European governments back the Commission's centralised approach"
         ],
         "answer": 1,
@@ -355,9 +355,9 @@
         "passage": "14. Σε αντίθεση με τα κράτη μέλη που ευνοούν την αυστηρή επικουρικότητα, η Ευρωπαϊκή Επιτροπή υποστηρίζει μια πιο συγκεντρωτική νομοθετική προσέγγιση, επικαλούμενη τον διασυνοριακό χαρακτήρα των περιβαλλοντικών απειλών. Παραδόξως, ορισμένες δυτικοευρωπαϊκές κυβερνήσεις με ισχυρό περιβαλλοντικό ιστορικό παραμένουν αντίθετες σε περαιτέρω ενοποίηση σε αυτόν τον τομέα.",
         "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
         "options": [
-          "Επιχειρηματικές ενώσεις πιέζουν για δεσμευτικούς περιβαλλοντικούς στόχους σε επίπεδο ΕΕ",
-          "Ορισμένες δυτικοευρωπαϊκές χώρες με ισχυρό περιβαλλοντικό ιστορικό αντιστέκονται σε περαιτέρω ενοποίηση της ΕΕ",
-          "Το Ευρωπαϊκό Κοινοβούλιο υποστηρίζει πλήρως την εθνική διακριτική ευχέρεια στην περιβαλλοντική πολιτική",
+          "Επιχειρηματικές ενώσεις πιέζουν για ενιαίους δεσμευτικούς περιβαλλοντικούς στόχους σε επίπεδο ΕΕ",
+          "Ορισμένες δυτικοευρωπαϊκές χώρες αντιστέκονται σε περαιτέρω περιβαλλοντική ενοποίηση της ΕΕ παρά το ισχυρό σχετικό ιστορικό τους",
+          "Το Ευρωπαϊκό Κοινοβούλιο υποστηρίζει μια πιο συγκεντρωτική νομοθετική προσέγγιση στην περιβαλλοντική πολιτική",
           "Όλες οι ανατολικοευρωπαϊκές κυβερνήσεις υποστηρίζουν τη συγκεντρωτική προσέγγιση της Επιτροπής"
         ],
         "answer": 1,
@@ -366,28 +366,28 @@
     },
     {
       "en": {
-        "passage": "15. Otto I, later known as Otto the Great, ruled the Kingdom of Germany from 936 and expanded his authority across much of Central Europe. He was crowned Holy Roman Emperor in the year 962 by Pope John XII.",
-        "question": "In which year was Otto I crowned Holy Roman Emperor?",
+        "passage": "15. One of the foremost concerns for reputable commercial construction companies is the significant amount of time required for contractors and cost estimators to commit to pricing up raw materials like steel and concrete. This is due to the constantly changing massive inflation rates, which result in a need for continuous researching and reporting on pricing information. In addition these companies need to ensure they have good relationships with their major subcontractors and suppliers, in order to capitalize on their capacity to forecast and budget the costs effectively throughout the whole construction process. However, some construction owners are taking a more proactive role throughout the whole process to streamline communications and impel project completion, by functioning as a team member.",
+        "question": "Which of the following can be inferred from the passage?",
         "options": [
-          "843",
-          "1066",
-          "962",
-          "476"
+          "Fluctuations in the cost of raw materials like steel and concrete are the single greatest financial risk faced by commercial construction firms",
+          "Maintaining strong partnerships with primary suppliers and subcontractors can positively influence a construction company's budgeting efficiency",
+          "Proactive construction owners generally possess more technical expertise in cost estimation than traditional contractors",
+          "If inflation rates stabilize, contractors will no longer need to conduct research on pricing information"
         ],
-        "answer": 2,
-        "explanation": "The passage explicitly states he was crowned in 962."
+        "answer": 1,
+        "explanation": "The text states that companies need good relationships with major subcontractors and suppliers in order to capitalize on their capacity to forecast and budget the costs effectively, supporting the inference that these relationships help improve budgeting efficiency.A exaggerates (the single greatest financial risk). C introduces outside assumptions about the technical expertise of proactive owners. D goes too far by claiming research will no longer be needed at all, whereas a drop in inflation would likely only reduce the need for continuous research."
       },
       "el": {
-        "passage": "15. Ο Όθων Α΄, γνωστός αργότερα ως Όθων ο Μέγας, κυβέρνησε το Βασίλειο της Γερμανίας από το 936 και επέκτεινε την εξουσία του σε μεγάλο μέρος της Κεντρικής Ευρώπης. Στέφθηκε Αυτοκράτορας της Αγίας Ρωμαϊκής Αυτοκρατορίας το έτος 962 από τον Πάπα Ιωάννη ΙΒ΄.",
-        "question": "Ποιο έτος στέφθηκε ο Όθων Α΄ Αυτοκράτορας της Αγίας Ρωμαϊκής Αυτοκρατορίας;",
+        "passage": "15. Μία από τις κύριες ανησυχίες των αξιόπιστων κατασκευαστικών εταιρειών είναι ο σημαντικός χρόνος που απαιτείται προκειμένου οι εργολάβοι και οι προμηθευτές να δεσμευτούν για την τιμολόγηση πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα. Αυτό οφείλεται στα συνεχώς μεταβαλλόμενα, υψηλά ποσοστά πληθωρισμού, τα οποία καθιστούν αναγκαία τη συνεχή έρευνα και αναφορά σχετικά με τις πληροφορίες τιμολόγησης. Επιπλόν, οι εταιρείες αυτές πρέπει να επιδιώκουν καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές τους, προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά καθ' όλη τη διάρκεια της κατασκευαστικής διαδικασίας. Ωστόσο, ορισμένοι ιδιοκτήτες κατασκευαστικών έργων αναλαμβάνουν πιο ενεργό ρόλο καθ' όλη τη διάρκεια της διαδικασίας, ώστε να απλοποιήσουν την επικοινωνία και να επιταχύνουν την ολοκλήρωση του έργου, λειτουργώντας ως μέλη της ομάδας.
+        "question": "Ποιο από τα ακόλουθα μπορεί να εξαχθεί ως συμπερασμα από το κείμενο;",
         "options": [
-          "843",
-          "1066",
-          "962",
-          "476"
+          "Οι διακυμάνσεις στο κόστος των πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα, αποτελούν τον μεγαλύτερο οικονομικό κίνδυνο που αντιμετωπίζουν οι εταιρείες εμπορικών κατασκευών.",
+          "Η διατήρηση ισχυρών συνεργασιών με τους βασικούς προμηθευτές και υπεργολάβους μπορεί να επηρεάσει θετικά την αποτελεσματικότητα του προϋπολογισμού μιας κατασκευαστικής εταιρείας",
+          "Οι ιδιοκτήτες έργων που αναλαμβάνουν ενεργό ρόλο διαθέτουν γενικά μεγαλύτερη τεχνική τεχνογνωσία στην εκτίμηση κόστους από τους παραδοσιακούς εργολάβους",
+          "Εάν τα ποσοστά πληθωρισμού σταθεροποιηθούν, οι εργολάβοι δεν θα χρειάζεται πλέον να διεξάγουν έρευνα για πληροφορίες τιμολόγησης"
         ],
-        "answer": 2,
-        "explanation": "Το κείμενο αναφέρει ρητά τη στέψη του το έτος 962."
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι εταιρείες χρειάζονται καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά. Αυτό υποστηρίζει άμεσα το συμπέρασμα ότι αυτές οι σχέσεις βοηθούν στη βελτίωση της αποτελεσματικότητας του προϋπολογισμού"
       }
     },
     {
