@@ -14,7 +14,7 @@
         "explanation": "The passage states that conflicts \"became less a matter of doctrine and more a contest for territorial and political advantage,\" indicating secular interests drove alliances."
       },
       "el": {
-        "passage": "1. Οι Ευρωπαϊκοί Θρησκευτικοί Πόλεμοι (16ος–17ος αιώνας) αντανακλούσαν μια πτητική σύντηξη θεολογικών αποκλίσεων και πολιτικού καιροσκοπισμού. Πυροδοτούμενες από την Προτεσταντική Μεταρρύθμιση, συγκρούσεις όπως ο Τριακονταετής Πόλεμος έγιναν λιγότερο ζήτημα δόγματος και περισσότερο αγώνας εδαφικού και πολιτικού πλεονεκτήματος, ιδίως μεταξύ των Αψβούργων, της Γαλλίας και των αναδυόμενων προτεσταντικών ηγεμονιών της Αγίας Ρωμαϊκής Αυτοκρατορίας.",
+        "passage": "1. Οι Ευρωπαϊκοί Θρησκευτικοί Πόλεμοι (16ος–17ος αιώνας) αντανακλούσαν μια ταχέως μεταβαλλόμενη σύντηξη θεολογικών αποκλίσεων και πολιτικού καιροσκοπισμού. Πυροδοτούμενες από την Προτεσταντική Μεταρρύθμιση, συγκρούσεις όπως ο Τριακονταετής Πόλεμος έγιναν λιγότερο ζήτημα δόγματος και περισσότερο αγώνας εδαφικού και πολιτικού πλεονεκτήματος, ιδίως μεταξύ των Αψβούργων, της Γαλλίας και των αναδυόμενων προτεσταντικών ηγεμονιών της Αγίας Ρωμαϊκής Αυτοκρατορίας.",
         "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο σχετικά με τον Τριακονταετή Πόλεμο;",
         "options": [
           "Οι εσωτερικές διαιρέσεις εντός της Καθολικής Εκκλησίας μείωσαν την εξουσία της",
@@ -40,7 +40,7 @@
         "explanation": "The passage states fines totalled \"over €6.1 billion,\" directly contradicting this statement."
       },
       "el": {
-        "passage": "2. Από τη θέση σε ισχύ του ΓΚΠΔ το 2018, η δραστηριότητα επιβολής έχει ενταθεί σταθερά σε όλη την ΕΕ. Έως το 2025, οι εθνικές αρχές είχαν επιβάλει περισσότερα από 3.200 πρόστιμα, συνολικού ύψους άνω των 6,1 δισεκατομμυρίων ευρώ. Μεγάλες εταιρείες τεχνολογίας αντιμετώπισαν μερικές από τις βαρύτερες ποινές, συχνά λόγω ανεπαρκούς συναίνεσης χρηστών, κακής διαχείρισης προσωπικών δεδομένων ή αδιαφανών πρακτικών κατάρτισης προφίλ. Οι αρχές προστασίας δεδομένων στην Ιρλανδία και τη Γερμανία υπήρξαν ιδιαίτερα ενεργές στην κίνηση διαδικασιών επιβολής.",
+        "passage": "2. Από τη θέση σε ισχύ του ΓΚΠΔ (GDPR) το 2018, η δραστηριότητα επιβολής έχει ενταθεί σταθερά σε όλη την ΕΕ. Έως το 2025, οι εθνικές αρχές είχαν επιβάλει περισσότερα από 3.200 πρόστιμα, συνολικού ύψους άνω των 6,1 δισεκατομμυρίων ευρώ. Μεγάλες εταιρείες τεχνολογίας αντιμετώπισαν μερικές από τις βαρύτερες ποινές, συχνά λόγω ανεπαρκούς συναίνεσης χρηστών, κακής διαχείρισης προσωπικών δεδομένων ή αδιαφανών πρακτικών κατάρτισης προφίλ. Οι αρχές προστασίας δεδομένων στην Ιρλανδία και τη Γερμανία υπήρξαν ιδιαίτερα ενεργές στην κίνηση διαδικασιών επιβολής.",
         "question": "Ποια από τις ακόλουθες δηλώσεις ΔΕΝ υποστηρίζεται από το κείμενο;",
         "options": [
           "Η συνολική αξία των προστίμων GDPR που επιβλήθηκαν έως το 2025 παρέμεινε κάτω από 1 δισεκατομμύριο ευρώ",
@@ -75,7 +75,7 @@
           "Η στρατηγική δεν μπορεί να πετύχει χωρίς την ανάπτυξη εντελώς νέων τεχνολογιών"
         ],
         "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ότι χώρες όπως η Γερμανία και οι Κάτω Χώρες ήδη «αποδεικνύουν» αυτή την αξία."
+        "explanation": "Το κείμενο αναφέρει ότι χώρες όπως η Γερμανία και οι Κάτω Χώρες ήδη «αποδεικνύουν» αυτή την αξία. Στο (C) η αναφορά σε βάθος πενταετίας είναι αυθαίρετη"
       }
     },
     {
@@ -92,7 +92,7 @@
         "explanation": "The text explicitly states the 85% target for 2032."
       },
       "el": {
-        "passage": "4. Ο ψηφιακός μετασχηματισμός της οικονομίας της ΕΕ συνεχίζει να αναδιαμορφώνει τις βιομηχανίες, τη διακυβέρνηση και την καθημερινή ζωή. Καθοδηγούμενη από τη στρατηγική της Ψηφιακής Δεκαετίας, η ΕΕ στοχεύει το 85% των ενηλίκων να διαθέτει βασικές ψηφιακές δεξιότητες και το 70% των επιχειρήσεων της ΕΕ να υιοθετήσει cloud, AI ή μαζικά δεδομένα έως το 2032. Οι επενδύσεις μέσω του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας δίνουν προτεραιότητα στις ψηφιακές υποδομές, την ηλεκτρονική διακυβέρνηση και την κυβερνοασφάλεια, ενώ η DSA και η DMA στοχεύουν να διασφαλίσουν θεμιτό ανταγωνισμό και λογοδοσία στο διαδίκτυο.",
+        "passage": "4. Ο ψηφιακός μετασχηματισμός της οικονομίας της ΕΕ συνεχίζει να αναδιαμορφώνει τις βιομηχανίες, τη διακυβέρνηση και την καθημερινή ζωή. Καθοδηγούμενη από τη στρατηγική της Ψηφιακής Δεκαετίας, η ΕΕ στοχεύει το 85% των ενηλίκων να διαθέτει βασικές ψηφιακές δεξιότητες και το 70% των επιχειρήσεων της ΕΕ να υιοθετήσει χρήση cloud, AI ή μαζικών δεδομένων έως το 2032. Οι επενδύσεις μέσω του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας δίνουν προτεραιότητα στις ψηφιακές υποδομές, την ηλεκτρονική διακυβέρνηση και την κυβερνοασφάλεια, ενώ η DSA και η DMA στοχεύουν να διασφαλίσουν θεμιτό ανταγωνισμό και λογοδοσία στο διαδίκτυο.",
         "question": "Σύμφωνα με το κείμενο, ποιο από τα παρακάτω είναι σωστό;",
         "options": [
           "Όλες οι δημόσιες υπηρεσίες αναμένεται να αυτοματοποιηθούν πλήρως",
@@ -109,10 +109,10 @@
         "passage": "5. In the coming years, the EU faces key deadlines in its transition to green mobility. New legislation mandates a 20% reduction in average CO2 emissions from new passenger cars compared with 2019 levels. Road transport emissions will also be integrated into the EU Emissions Trading System, requiring ongoing monitoring and reporting.",
         "question": "What is the primary purpose of integrating road transport into the EU Emissions Trading System?",
         "options": [
-          "To subsidise manufacturers resistant to emissions targets",
+          "To subsidise manufacturers eager to adopt the new emissions targets",
           "To exempt electric vehicles from environmental regulation",
           "To monitor and incentivise emission reductions through market-based mechanisms",
-          "To eliminate combustion engine vehicles with immediate effect"
+          "To reduce CO2 emissions produced by new combustion engine vehicles"
         ],
         "answer": 2,
         "explanation": "The ETS relies on market mechanisms (pricing carbon) to incentivise reductions, not immediate bans or subsidies."
@@ -121,10 +121,10 @@
         "passage": "5. Τα επόμενα χρόνια, η ΕΕ αντιμετωπίζει βασικές προθεσμίες στη μετάβασή της προς την πράσινη κινητικότητα. Η νέα νομοθεσία επιβάλλει μείωση 20% στις μέσες εκπομπές CO2 από νέα επιβατικά αυτοκίνητα σε σύγκριση με τα επίπεδα του 2019. Οι εκπομπές των οδικών μεταφορών θα ενταχθούν επίσης στο Σύστημα Εμπορίας Εκπομπών της ΕΕ, απαιτώντας συνεχή παρακολούθηση και αναφορά.",
         "question": "Ποιος είναι ο πρωταρχικός σκοπός της ένταξης των οδικών μεταφορών στο Σύστημα Εμπορίας Εκπομπών της ΕΕ;",
         "options": [
-          "Η επιδότηση κατασκευαστών που αντιστέκονται στους στόχους εκπομπών",
+          "Η επιδότηση κατασκευαστών που υιοθετούν τους στόχους εκπομπών",
           "Η απαλλαγή των ηλεκτρικών οχημάτων από την περιβαλλοντική νομοθεσία",
           "Η παρακολούθηση και η παροχή κινήτρων για μείωση εκπομπών μέσω μηχανισμών αγοράς",
-          "Η άμεση κατάργηση των οχημάτων εσωτερικής καύσης"
+          "Η μείωση 20% των εκπομπών CO2 από νέα αυτοκίνητα"
         ],
         "answer": 2,
         "explanation": "Το ETS βασίζεται σε μηχανισμούς αγοράς για να δώσει κίνητρα μείωσης, όχι σε άμεσες απαγορεύσεις."
@@ -136,7 +136,7 @@
         "question": "Which of the following statements is LEAST supported by the passage?",
         "options": [
           "The initiative requires all households to cut food waste by law",
-          "The initiative relies on voluntary pledges rather than binding rules",
+          "The initiative relies both on voluntary pledges and on binding rules",
           "Some observers doubt that progress will be consistent across member states",
           "Supermarkets are among the groups encouraged to make pledges"
         ],
@@ -144,11 +144,11 @@
         "explanation": "The passage states the initiative \"does not impose binding targets,\" contradicting this statement."
       },
       "el": {
-        "passage": "6. Μια νέα πανευρωπαϊκή πρωτοβουλία επιδιώκει τον περιορισμό της σπατάλης τροφίμων στα κράτη μέλη. Αν και δεν επιβάλλει δεσμευτικούς στόχους, ενθαρρύνει εθελοντικές δεσμεύσεις από σούπερ μάρκετ, εστιατόρια και νοικοκυριά. Ορισμένοι παρατηρητές υποστηρίζουν ότι χωρίς εκτελεστούς κανόνες, η πρόοδος είναι πιθανό να είναι ασυνεπής από το ένα κράτος μέλος στο άλλο.",
+        "passage": "6. Μια νέα πανευρωπαϊκή πρωτοβουλία επιδιώκει τον περιορισμό της σπατάλης τροφίμων στα κράτη μέλη. Αν και δεν επιβάλλει δεσμευτικούς στόχους, ενθαρρύνει εθελοντικές δεσμεύσεις από σούπερ μάρκετ, εστιατόρια και νοικοκυριά. Ορισμένοι παρατηρητές υποστηρίζουν ότι χωρίς σαφείς κανόνες εφαρμογής, η πρόοδος είναι πιθανό να είναι ασυνεπής από το ένα κράτος μέλος στο άλλο.",
         "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται ΛΙΓΟΤΕΡΟ από το κείμενο;",
         "options": [
           "Η πρωτοβουλία απαιτεί από όλα τα νοικοκυριά να μειώσουν τη σπατάλη τροφίμων διά νόμου",
-          "Η πρωτοβουλία βασίζεται σε εθελοντικές δεσμεύσεις και όχι σε δεσμευτικούς κανόνες",
+          "Η πρωτοβουλία βασίζεται τόσο σε εθελοντικές δεσμεύσεις όσο και σε δεσμευτικούς κανόνες",
           "Ορισμένοι παρατηρητές αμφιβάλλουν ότι η πρόοδος θα είναι συνεπής μεταξύ των κρατών μελών",
           "Τα σούπερ μάρκετ είναι μεταξύ των ομάδων που ενθαρρύνονται να αναλάβουν δεσμεύσεις"
         ],
@@ -161,7 +161,7 @@
         "passage": "7. A large share of EU funding for environmental protection goes to farmers, both because the Common Agricultural Policy (CAP) is among the most integrated of all EU policies and because farmers play a central role in supplying food and maintaining rural landscapes. Today's CAP differs considerably from the surplus-driven model of past decades, as ongoing reforms increasingly emphasise food security, animal welfare, and environmental stewardship.",
         "question": "Which of the following can best be inferred from the passage?",
         "options": [
-          "The CAP has always prioritised efficiency above all else",
+          "The CAP has always prioritised efficiency above other criteria such as food security, animal welfare, and environmental management",
           "The CAP functions mainly as a knowledge-exchange mechanism between farmers",
           "The CAP's focus has evolved toward a more holistic view of agriculture",
           "Every farmer across the EU is legally required to protect the environment"
@@ -173,10 +173,10 @@
         "passage": "7. Ένα μεγάλο μέρος της χρηματοδότησης της ΕΕ για την προστασία του περιβάλλοντος κατευθύνεται σε αγρότες, τόσο επειδή η Κοινή Αγροτική Πολιτική (ΚΑΠ) είναι από τις πλέον ολοκληρωμένες πολιτικές της ΕΕ όσο και επειδή οι αγρότες διαδραματίζουν κεντρικό ρόλο στην παροχή τροφίμων και τη διατήρηση του αγροτικού τοπίου. Η σημερινή ΚΑΠ διαφέρει σημαντικά από το μοντέλο πλεονασμάτων προηγούμενων δεκαετιών, καθώς οι συνεχιζόμενες μεταρρυθμίσεις δίνουν όλο και μεγαλύτερη έμφαση στην επισιτιστική ασφάλεια, την καλή διαβίωση των ζώων και τη διαχείριση του περιβάλλοντος.",
         "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
         "options": [
-          "Η ΚΑΠ έδινε πάντα προτεραιότητα στην αποτελεσματικότητα πάνω απ' όλα",
+          "Η ΚΑΠ έδινε προτεραιότητα στην αποτελεσματικότητα παρά σε κριτήρια όπως η επισιτιστική ασφάλεια, η καλή διαβίωση των ζώων και η διαχείριση του περιβάλλοντος",
           "Η ΚΑΠ λειτουργεί κυρίως ως μηχανισμός ανταλλαγής γνώσεων μεταξύ αγροτών",
           "Η εστίαση της ΚΑΠ έχει εξελιχθεί προς μια πιο ολιστική θεώρηση της γεωργίας",
-          "Κάθε αγρότης στην ΕΕ υποχρεούται νομικά να προστατεύει το περιβάλλον"
+          "Κάθε αγρότης στην ΕΕ υποχρεούται πλέον και νομικά να προστατεύει το περιβάλλον"
         ],
         "answer": 2,
         "explanation": "Η στροφή από τα πλεονάσματα προς την επισιτιστική ασφάλεια, την καλή διαβίωση των ζώων και τη διαχείριση του περιβάλλοντος δείχνει μια εξελισσόμενη, πιο ολιστική προσέγγιση."
@@ -187,10 +187,10 @@
         "passage": "8. A recent assessment by the European Environment Agency notes considerable variation in the pace of green technology adoption among member states. While Nordic and Baltic countries have rapidly expanded renewable energy and electric transport, several Balkan and Mediterranean countries continue to lag due to limited infrastructure and financial constraints.",
         "question": "Which of the following statements is correct, according to the passage?",
         "options": [
-          "The European Environment Agency has proposed new penalties for lagging countries",
+          "The European Environment Agency will soon propose new penalties for lagging countries",
           "Nordic and Baltic countries have already phased out all fossil-fuel vehicles",
           "Financial constraints are among the reasons some countries adopt green technology more slowly",
-          "The Agency recommends new funding mechanisms for all member states equally"
+          "The Agency recommends new funding mechanisms equally appropriate for all member states"
         ],
         "answer": 2,
         "explanation": "The passage attributes the slower pace in some countries to \"limited infrastructure and financial constraints.\""
@@ -199,10 +199,10 @@
         "passage": "8. Πρόσφατη αξιολόγηση του Ευρωπαϊκού Οργανισμού Περιβάλλοντος επισημαίνει σημαντικές διαφορές στον ρυθμό υιοθέτησης πράσινης τεχνολογίας μεταξύ των κρατών μελών. Ενώ οι σκανδιναβικές και βαλτικές χώρες έχουν επεκτείνει ταχέως τις ανανεώσιμες πηγές ενέργειας και τις ηλεκτρικές μεταφορές, αρκετές βαλκανικές και μεσογειακές χώρες συνεχίζουν να υστερούν λόγω περιορισμένων υποδομών και οικονομικών περιορισμών.",
         "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή, σύμφωνα με το κείμενο;",
         "options": [
-          "Ο Ευρωπαϊκός Οργανισμός Περιβάλλοντος έχει προτείνει νέες κυρώσεις για τις χώρες που υστερούν",
+          "Ο Ευρωπαϊκός Οργανισμός Περιβάλλοντος σύντομα θα προτείνει νέες κυρώσεις για τις χώρες που υστερούν",
           "Οι σκανδιναβικές και βαλτικές χώρες έχουν ήδη καταργήσει πλήρως τα οχήματα ορυκτών καυσίμων",
           "Οι οικονομικοί περιορισμοί είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση πράσινης τεχνολογίας σε ορισμένες χώρες",
-          "Ο Οργανισμός συνιστά νέους μηχανισμούς χρηματοδότησης εξίσου για όλα τα κράτη μέλη"
+          "Ο Οργανισμός συνιστά νέους μηχανισμούς χρηματοδότησης εξίσου κατάλληλους για όλα τα κράτη μέλη"
         ],
         "answer": 2,
         "explanation": "Το κείμενο αποδίδει τον πιο αργό ρυθμό σε ορισμένες χώρες σε «περιορισμένες υποδομές και οικονομικούς περιορισμούς»."
@@ -216,19 +216,19 @@
           "Institutional culture always determines which leadership style prevails",
           "Adaptability is considered largely irrelevant in most organisations",
           "The most respected leaders tend to combine vision with adaptability",
-          "Successful leaders rely exclusively on articulating a vision"
+          "Successful leaders rely on articulating a vision more than they rely on adaptability"
         ],
         "answer": 2,
         "explanation": "The passage states recent research shows the most respected leaders \"combine both qualities.\""
       },
       "el": {
-        "passage": "9. Εντός μεγάλων οργανισμών, η αποτελεσματικότητα της ηγεσίας εξετάζεται συχνά μέσω αντικρουόμενων πλαισίων. Ορισμένοι θεωρητικοί υποστηρίζουν ότι οι επιτυχημένοι ηγέτες διακρίνονται κυρίως από ένα πειστικό όραμα. Άλλοι υποστηρίζουν ότι η βιώσιμη ηγεσία εξαρτάται κυρίως από την προσαρμοστικότητα. Πρόσφατη έρευνα, ωστόσο, δείχνει ότι οι πιο σεβαστοί ηγέτες συνδυάζουν και τα δύο χαρακτηριστικά.",
+        "passage": "9. Εντός μεγάλων οργανισμών, η αποτελεσματικότητα της ηγεσίας εξετάζεται συχνά από τους ερευνητές μέσω αντικρουόμενων πλαισίων. Ορισμένοι θεωρητικοί υποστηρίζουν ότι οι επιτυχημένοι ηγέτες διακρίνονται κυρίως από ένα πειστικό όραμα. Άλλοι υποστηρίζουν ότι η βιώσιμη ηγεσία εξαρτάται κυρίως από την προσαρμοστικότητα. Πρόσφατη έρευνα, ωστόσο, δείχνει ότι οι πιο σεβαστοί ηγέτες συνδυάζουν και τα δύο χαρακτηριστικά.",
         "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
         "options": [
-          "Η θεσμική κουλτούρα καθορίζει πάντα ποιο στυλ ηγεσίας επικρατεί",
+          "Τελικά, είναι η θεσμική - επιχειρηματική κουλτούρα που καθορίζει πάντα ποιο στυλ ηγεσίας επικρατεί",
           "Η προσαρμοστικότητα θεωρείται σε μεγάλο βαθμό άσχετη στους περισσότερους οργανισμούς",
           "Οι πιο σεβαστοί ηγέτες τείνουν να συνδυάζουν όραμα και προσαρμοστικότητα",
-          "Οι επιτυχημένοι ηγέτες βασίζονται αποκλειστικά στη διατύπωση οράματος"
+          "Οι επιτυχημένοι ηγέτες βασίζονται στη διατύπωση οράματος περισσότερο απ' ότι στην προσαρμοστικότητα"
         ],
         "answer": 2,
         "explanation": "Το κείμενο αναφέρει ότι η πρόσφατη έρευνα δείχνει πως οι πιο σεβαστοί ηγέτες «συνδυάζουν και τα δύο χαρακτηριστικά»."
@@ -241,8 +241,8 @@
         "options": [
           "Fossil fuels remain the most sustainable option in the long term",
           "The transition may disproportionately affect vulnerable sectors",
-          "Green technologies have already been fully rolled out across the EU",
-          "Climate change poses no significant threat to Europe"
+          "Several green technologies have already been rolled out unsuccessfully across the EU",
+          "Nowadays, climate change does not pose the most significant threat to Europe"
         ],
         "answer": 1,
         "explanation": "The passage explicitly states critics warn of \"disproportionate effects on poorer regions and sectors.\""
@@ -253,8 +253,8 @@
         "options": [
           "Τα ορυκτά καύσιμα παραμένουν η πιο βιώσιμη επιλογή μακροπρόθεσμα",
           "Η μετάβαση ενδέχεται να επηρεάσει δυσανάλογα ευάλωτους τομείς",
-          "Οι πράσινες τεχνολογίες έχουν ήδη εφαρμοστεί πλήρως σε όλη την ΕΕ",
-          "Η κλιματική αλλαγή δεν αποτελεί σημαντική απειλή για την Ευρώπη"
+          "Πολλές πράσινες τεχνολογίες έχουν ήδη εφαρμοστεί χωρίς επιτυχία σε όλη την ΕΕ",
+          "Η κλιματική αλλαγή δεν αποτελεί σήμερα την σημαντικότερη απειλή για την Ευρώπη"
         ],
         "answer": 1,
         "explanation": "Το κείμενο αναφέρει ρητά ότι οι επικριτές προειδοποιούν για «δυσανάλογες επιπτώσεις σε φτωχότερες περιοχές και τομείς»."
