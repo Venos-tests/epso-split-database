@@ -364,32 +364,32 @@
         "explanation": "Το κείμενο αναφέρει ρητά αυτό το παράδοξο σχετικά με ορισμένες δυτικοευρωπαϊκές χώρες."
       }
     },
-    {
-      "en": {
-        "passage": "15. One of the foremost concerns for reputable commercial construction companies is the significant amount of time required for contractors and cost estimators to commit to pricing up raw materials like steel and concrete. This is due to the constantly changing massive inflation rates, which result in a need for continuous researching and reporting on pricing information. In addition these companies need to ensure they have good relationships with their major subcontractors and suppliers, in order to capitalize on their capacity to forecast and budget the costs effectively throughout the whole construction process. However, some construction owners are taking a more proactive role throughout the whole process to streamline communications and impel project completion, by functioning as a team member.",
-        "question": "Which of the following can be inferred from the passage?",
-        "options": [
-          "Fluctuations in the cost of raw materials like steel and concrete are the single greatest financial risk faced by commercial construction firms",
-          "Maintaining strong partnerships with primary suppliers and subcontractors can positively influence a construction company's budgeting efficiency",
-          "Proactive construction owners generally possess more technical expertise in cost estimation than traditional contractors",
-          "If inflation rates stabilize, contractors will no longer need to conduct research on pricing information"
-        ],
-        "answer": 1,
-        "explanation": "The text states that companies need good relationships with major subcontractors and suppliers in order to capitalize on their capacity to forecast and budget the costs effectively, supporting the inference that these relationships help improve budgeting efficiency.A exaggerates (the single greatest financial risk). C introduces outside assumptions about the technical expertise of proactive owners. D goes too far by claiming research will no longer be needed at all, whereas a drop in inflation would likely only reduce the need for continuous research."
-      },
-      "el": {
-        "passage": "15. Μία από τις κύριες ανησυχίες των αξιόπιστων κατασκευαστικών εταιρειών είναι ο σημαντικός χρόνος που απαιτείται προκειμένου οι εργολάβοι και οι προμηθευτές να δεσμευτούν για την τιμολόγηση πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα. Αυτό οφείλεται στα συνεχώς μεταβαλλόμενα, υψηλά ποσοστά πληθωρισμού, τα οποία καθιστούν αναγκαία τη συνεχή έρευνα και αναφορά σχετικά με τις πληροφορίες τιμολόγησης. Επιπλόν, οι εταιρείες αυτές πρέπει να επιδιώκουν καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές τους, προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά καθ' όλη τη διάρκεια της κατασκευαστικής διαδικασίας. Ωστόσο, ορισμένοι ιδιοκτήτες κατασκευαστικών έργων αναλαμβάνουν πιο ενεργό ρόλο καθ' όλη τη διάρκεια της διαδικασίας, ώστε να απλοποιήσουν την επικοινωνία και να επιταχύνουν την ολοκλήρωση του έργου, λειτουργώντας ως μέλη της ομάδας.
-        "question": "Ποιο από τα ακόλουθα μπορεί να εξαχθεί ως συμπερασμα από το κείμενο;",
-        "options": [
-          "Οι διακυμάνσεις στο κόστος των πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα, αποτελούν τον μεγαλύτερο οικονομικό κίνδυνο που αντιμετωπίζουν οι εταιρείες εμπορικών κατασκευών.",
-          "Η διατήρηση ισχυρών συνεργασιών με τους βασικούς προμηθευτές και υπεργολάβους μπορεί να επηρεάσει θετικά την αποτελεσματικότητα του προϋπολογισμού μιας κατασκευαστικής εταιρείας",
-          "Οι ιδιοκτήτες έργων που αναλαμβάνουν ενεργό ρόλο διαθέτουν γενικά μεγαλύτερη τεχνική τεχνογνωσία στην εκτίμηση κόστους από τους παραδοσιακούς εργολάβους",
-          "Εάν τα ποσοστά πληθωρισμού σταθεροποιηθούν, οι εργολάβοι δεν θα χρειάζεται πλέον να διεξάγουν έρευνα για πληροφορίες τιμολόγησης"
-        ],
-        "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ότι οι εταιρείες χρειάζονται καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά. Αυτό υποστηρίζει άμεσα το συμπέρασμα ότι αυτές οι σχέσεις βοηθούν στη βελτίωση της αποτελεσματικότητας του προϋπολογισμού"
-      }
-    },
+   {
+  "en": {
+    "passage": "15. One of the foremost concerns for reputable commercial construction companies is the significant amount of time required for contractors and cost estimators to commit to pricing up raw materials like steel and concrete. This is due to the constantly changing massive inflation rates, which result in a need for continuous researching and reporting on pricing information. In addition these companies need to ensure they have good relationships with their major subcontractors and suppliers, in order to capitalize on their capacity to forecast and budget the costs effectively throughout the whole construction process. However, some construction owners are taking a more proactive role throughout the whole process to streamline communications and impel project completion, by functioning as a team member.",
+    "question": "Which of the following can be inferred from the passage?",
+    "options": [
+      "Fluctuations in the cost of raw materials like steel and concrete are the single greatest financial risk faced by commercial construction firms",
+      "Maintaining strong partnerships with primary suppliers and subcontractors can positively influence a construction company's budgeting efficiency",
+      "Proactive construction owners generally possess more technical expertise in cost estimation than traditional contractors",
+      "If inflation rates stabilize, contractors will no longer need to conduct research on pricing information"
+    ],
+    "answer": 1,
+    "explanation": "The text states that companies need good relationships with major subcontractors and suppliers in order to capitalize on their capacity to forecast and budget the costs effectively, supporting the inference that these relationships help improve budgeting efficiency. A exaggerates (the single greatest financial risk). C introduces outside assumptions about the technical expertise of proactive owners. D goes too far by claiming research will no longer be needed at all, whereas a drop in inflation would likely only reduce the need for continuous research."
+  },
+  "el": {
+    "passage": "15. Μία από τις κύριες ανησυχίες των αξιόπιστων κατασκευαστικών εταιρειών είναι ο σημαντικός χρόνος που απαιτείται προκειμένου οι εργολάβοι και οι προμηθευτές να δεσμευτούν για την τιμολόγηση πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα. Αυτό οφείλεται στα συνεχώς μεταβαλλόμενα, υψηλά ποσοστά πληθωρισμού, τα οποία καθιστούν αναγκαία τη συνεχή έρευνα και αναφορά σχετικά με τις πληροφορίες τιμολόγησης. Επιπλέον, οι εταιρείες αυτές πρέπει να επιδιώκουν καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές τους, προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά καθ' όλη τη διάρκεια της κατασκευαστικής διαδικασίας. Ωστόσο, ορισμένοι ιδιοκτήτες κατασκευαστικών έργων αναλαμβάνουν πιο ενεργό ρόλο καθ' όλη τη διάρκεια της διαδικασίας, ώστε να απλοποιήσουν την επικοινωνία και να επιταχύνουν την ολοκλήρωση του έργου, λειτουργώντας ως μέλη της ομάδας.",
+    "question": "Ποιο από τα ακόλουθα μπορεί να εξαχθεί ως συμπέρασμα από το κείμενο;",
+    "options": [
+      "Οι διακυμάνσεις στο κόστος των πρώτων υλών, όπως ο χάλυβας και το σκυρόδεμα, αποτελούν τον μεγαλύτερο οικονομικό κίνδυνο που αντιμετωπίζουν οι εταιρείες εμπορικών κατασκευών.",
+      "Η διατήρηση ισχυρών συνεργασιών με τους βασικούς προμηθευτές και υπεργολάβους μπορεί να επηρεάσει θετικά την αποτελεσματικότητα του προϋπολογισμού μιας κατασκευαστικής εταιρείας",
+      "Οι ιδιοκτήτες έργων που αναλαμβάνουν ενεργό ρόλο διαθέτουν γενικά μεγαλύτερη τεχνική τεχνογνωσία στην εκτίμηση κόστους από τους παραδοσιακούς εργολάβους",
+      "Εάν τα ποσοστά πληθωρισμού σταθεροποιηθούν, οι εργολάβοι δεν θα χρειάζεται πλέον να διεξάγουν έρευνα για πληροφορίες τιμολόγησης"
+    ],
+    "answer": 1,
+    "explanation": "Το κείμενο αναφέρει ότι οι εταιρείες χρειάζονται καλές σχέσεις με τους βασικούς υπεργολάβους και προμηθευτές προκειμένου να αξιοποιήσουν την ικανότητά τους να προβλέπουν και να υπολογίζουν το κόστος στον προϋπολογισμό αποτελεσματικά. Αυτό υποστηρίζει άμεσα το συμπέρασμα ότι αυτές οι σχέσεις βοηθούν στη βελτίωση της αποτελεσματικότητας του προϋπολογισμού."
+  }
+},
     {
       "en": {
         "passage": "16. In a recent address, a member of the European Central Bank's Executive Board underlined the growing relevance of digital currencies for the future of European finance. While acknowledging cybersecurity risks and privacy concerns, the speaker argued that a digital euro could improve payment efficiency. Some analysts, however, caution that poor implementation could destabilise traditional banking systems. No official launch date has yet been confirmed.",
