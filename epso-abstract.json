@@ -1755,16 +1755,16 @@
   "abstract_8": [
     {
       "en": {
-        "image": "abstract_8_q1_ref.png",
-        "optionsImage": "abstract_8_q1_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542217/abstract_8_q1_ref_uszxqw.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542216/abstract_8_q1_opt_wurtet.png",
         "question": "1. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The circle's radius cycles through three sizes (small \u2192 medium \u2192 large), repeating every three frames. 2. Its centre moves a fixed distance to the right each frame. By frame 6 the circle, on the third step of its second size cycle, is at its largest, and has moved to the far right of the frame."
       },
       "el": {
-        "image": "abstract_8_q1_ref.png",
-        "optionsImage": "abstract_8_q1_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542217/abstract_8_q1_ref_uszxqw.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542216/abstract_8_q1_opt_wurtet.png",
         "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1773,16 +1773,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q2_ref.png",
-        "optionsImage": "abstract_8_q2_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542219/abstract_8_q2_ref_uhkm3v.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542218/abstract_8_q2_opt_uks4se.png",
         "question": "2. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The hexagon rotates slowly, 15° clockwise each frame. 2. The number of lines radiating from the centre increases by one each frame (1, 2, 3, 4, 5\u2026). By frame 6 the hexagon has rotated to 285° from its start, and there should be six radiating lines."
       },
       "el": {
-        "image": "abstract_8_q2_ref.png",
-        "optionsImage": "abstract_8_q2_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542219/abstract_8_q2_ref_uhkm3v.pngg",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542218/abstract_8_q2_opt_uks4se.pngg",
         "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1791,16 +1791,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q3_ref.png",
-        "optionsImage": "abstract_8_q3_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542221/abstract_8_q3_ref_fr1ltr.pngng",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542220/abstract_8_q3_opt_bqbldw.pngg",
         "question": "3. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 1,
         "explanation": "Conditional rule: dots accumulate one by one at the square's four corners (1, 2, 3, 4), advancing clockwise from the top-left. Whenever the count would return to zero (that is, on every fifth frame), the whole square turns solid black instead of showing empty corners. By frame 6 the count has moved past that reset point and restarted at one, so the square should be unfilled again, showing a single dot at the top-left corner."
       },
       "el": {
-        "image": "abstract_8_q3_ref.png",
-        "optionsImage": "abstract_8_q3_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542221/abstract_8_q3_ref_fr1ltr.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542220/abstract_8_q3_opt_bqbldw.png",
         "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 1,
@@ -1809,16 +1809,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q4_ref.png",
-        "optionsImage": "abstract_8_q4_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542202/abstract_8_q4_ref_xqqsdv.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542201/abstract_8_q4_opt_flzmcu.png",
         "question": "4. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The number of stripes in the barcode-like block increases by one each frame (2, 3, 4, 5\u2026). 2. The block's orientation alternates between vertical and horizontal stripes depending on whether the frame number is odd or even. By frame 6 there should be seven stripes, arranged horizontally (since 6 is even)."
       },
       "el": {
-        "image": "abstract_8_q4_ref.png",
-        "optionsImage": "abstract_8_q4_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542202/abstract_8_q4_ref_xqqsdv.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542201/abstract_8_q4_opt_flzmcu.png",
         "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1827,16 +1827,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q5_ref.png",
-        "optionsImage": "abstract_8_q5_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542205/abstract_8_q5_ref_z1hmin.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542204/abstract_8_q5_opt_n2qiqc.png",
         "question": "5. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The black (filled) triangle and the outlined triangle swap between the top and bottom positions each frame. 2. The pair grows slightly larger each frame. By frame 6 the arrangement has swapped back to match its even-frame state (filled triangle at the bottom, outlined triangle at the top), and the pair is at its largest size in the sequence."
       },
       "el": {
-        "image": "abstract_8_q5_ref.png",
-        "optionsImage": "abstract_8_q5_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542205/abstract_8_q5_ref_z1hmin.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542204/abstract_8_q5_opt_n2qiqc.png",
         "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1845,16 +1845,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q6_ref.png",
-        "optionsImage": "abstract_8_q6_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542208/abstract_8_q7_opt_cc1qx5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542206/abstract_8_q6_opt_el8edo.png",
         "question": "6. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Conditional rule: a dot advances one vertex clockwise around a hexagon each frame, completing a full lap every six frames. Its colour inverts from black to white only at the vertex directly opposite its starting point (the fourth vertex of the cycle); at every other vertex it stays black. By frame 6 the dot has almost completed its lap and is not at that opposite vertex, so its colour should remain black."
       },
       "el": {
-        "image": "abstract_8_q6_ref.png",
-        "optionsImage": "abstract_8_q6_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542208/abstract_8_q7_opt_cc1qx5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542206/abstract_8_q6_opt_el8edo.png",
         "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1863,16 +1863,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q7_ref.png",
-        "optionsImage": "abstract_8_q7_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542210/abstract_8_q7_ref_fvvxec.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542208/abstract_8_q7_opt_cc1qx5.png",
         "question": "7. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The pentagon grows larger by a fixed amount each frame. 2. Its fill cycles black \u2192 white \u2192 grey, repeating every three frames. By frame 6 the pentagon is at its largest size in the sequence, and its fill, on the third step of its second colour cycle, is grey."
       },
       "el": {
-        "image": "abstract_8_q7_ref.png",
-        "optionsImage": "abstract_8_q7_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542210/abstract_8_q7_ref_fvvxec.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542208/abstract_8_q7_opt_cc1qx5.pngg",
         "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1881,16 +1881,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q8_ref.png",
-        "optionsImage": "abstract_8_q8_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542212/abstract_8_q8_ref_bdu7mu.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542211/abstract_8_q8_opt_ct7yep.png",
         "question": "8. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Conditional rule: the bar's height increases by a fixed amount each frame. Its colour is grey as long as its height stays at or below the frame's midline; once the height exceeds the midline, the colour switches to black and remains black afterwards. By frame 6 the bar's height is well above the midline, so \u2014 following the conditional rule \u2014 it should be black."
       },
       "el": {
-        "image": "abstract_8_q8_ref.png",
-        "optionsImage": "abstract_8_q8_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542212/abstract_8_q8_ref_bdu7mu.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542211/abstract_8_q8_opt_ct7yep.png",
         "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1899,16 +1899,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q9_ref.png",
-        "optionsImage": "abstract_8_q9_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542214/abstract_8_q9_ref_rcdkab.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542213/abstract_8_q9_opt_vykaap.png",
         "question": "9. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. The arrow's length shrinks by a fixed amount each frame. 2. Its direction rotates 30° anticlockwise each frame. By frame 6 the arrow has shrunk to its shortest length in the sequence and rotated to 150° from its starting direction."
       },
       "el": {
-        "image": "abstract_8_q9_ref.png",
-        "optionsImage": "abstract_8_q9_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542214/abstract_8_q9_ref_rcdkab.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542213/abstract_8_q9_opt_vykaap.png",
         "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
@@ -1917,16 +1917,16 @@
     },
     {
       "en": {
-        "image": "abstract_8_q10_ref.png",
-        "optionsImage": "abstract_8_q10_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542224/abstract_8_q10_ref_qhclej.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542223/abstract_8_q10_opt_k3gdxi.png",
         "question": "10. Which figure logically completes the series?",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
         "explanation": "Two rules apply: 1. A grey square marker always stays fixed at the centre of the 3\u00d73 grid. 2. A second, black square marker orbits clockwise around the eight outer cells of the grid, one cell per frame, completing a full lap every eight frames. By frame 6 the black marker has advanced to the bottom-middle cell, while the grey marker remains at the centre as always."
       },
       "el": {
-        "image": "abstract_8_q10_ref.png",
-        "optionsImage": "abstract_8_q10_opt.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542224/abstract_8_q10_ref_qhclej.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1784542223/abstract_8_q10_opt_k3gdxi.png",
         "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": ["A", "B", "C", "D", "E"],
         "answer": 2,
