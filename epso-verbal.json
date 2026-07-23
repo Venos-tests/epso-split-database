@@ -404,7 +404,7 @@
         "explanation": "The passage notes that some analysts \"caution\" against risks, contradicting the idea of unanimous endorsement."
       },
       "el": {
-        "passage": "16. Σε πρόσφατη ομιλία του, ένα μέλος του Εκτελεστικού Συμβουλίου της Ευρωπαϊκής Κεντρικής Τράπεζας υπογράμμισε την αυξανόμενη σημασία των ψηφιακών νομισμάτων για το μέλλον των ευρωπαϊκών οικονομικών. Αναγνωρίζοντας τους κινδύνους κυβερνοασφάλειας και τις ανησυχίες για την ιδιωτικότητα, ο ομιλητής υποστήριξε ότι ένα ψηφιακό ευρώ θα μπορούσε να βελτιώσει την αποτελεσματικότητα των πληρωμών. Ορισμένοι αναλυτές, ωστόσο, προειδοποιούν ότι μια κακή εφαρμογή θα μπορούσε να αποσταθεροποιήσει τα παραδοσιακά τραπεζικά συστήματα. Καμία επίσημη ημερομηνία κυκλοφορίας δεν έχει ακόμη επιβεβαιωθεί.",
+        "passage": "16. Σε πρόσφατη ομιλία του, ένα μέλος του Εκτελεστικού Συμβουλίου της Ευρωπαϊκής Κεντρικής Τράπεζας υπογράμμισε την αυξανόμενη σημασία των ψηφιακών νομισμάτων για το μέλλον των ευρωπαϊκών οικονομικών. Αναγνωρίζοντας τους κινδύνους κυβερνοασφάλειας και τις ανησυχίες για την ιδιωτικότητα, ο ομιλητής υποστήριξε ότι ένα ψηφιακό ευρώ θα μπορούσε να βελτιώσει την αποτελεσματικότητα των πληρωμών. Ορισμένοι αναλυτές, ωστόσο, προειδοποιούν ότι μια κακή εφαρμογή θα μπορούσε να αποσταθεροποιήσει τα παραδοσιακά τραπεζικά συστήματα. Καμία επίσημη ημερομηνία κυκλοφορίας του ψηφιακού ευρώ δεν έχει ακόμη επιβεβαιωθεί.",
         "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται ΛΙΓΟΤΕΡΟ από το κείμενο;",
         "options": [
           "Οι αναλυτές έχουν εγκρίνει ομόφωνα τη θέση της ΕΚΤ για τα ψηφιακά νομίσματα",
@@ -421,10 +421,10 @@
         "passage": "17. In an increasingly globalised marketplace, consumers seek ways to verify the authenticity of the products they buy. A geographical indication (GI) identifies goods as originating from a place where a specific quality or reputation is essentially linked to that geographic origin. Agricultural products can receive EU-wide GI protection, but non-agricultural goods, such as glassware, do not yet enjoy equivalent protection at EU level.",
         "question": "Which of the following statements is correct?",
         "options": [
-          "Leather goods and furniture currently enjoy GI protection at EU level",
+          "Agricultural products, leather goods and furniture currently enjoy GI protection at EU level",
           "Global consumers are largely indifferent to the geographic origin of products",
           "In certain regions, goods have developed distinctive characteristics tied to their geographic origin",
-          "Protected products can be replicated with equal quality anywhere outside the region"
+          "Protected products canNot be replicated with equal quality anywhere outside the region"
         ],
         "answer": 2,
         "explanation": "The existence of GIs presupposes that certain goods possess distinctive, region-linked characteristics."
@@ -433,10 +433,10 @@
         "passage": "17. Σε μια όλο και πιο παγκοσμιοποιημένη αγορά, οι καταναλωτές αναζητούν τρόπους να επαληθεύσουν την αυθεντικότητα των προϊόντων που αγοράζουν. Μια γεωγραφική ένδειξη (ΓΕ) προσδιορίζει αγαθά ως προερχόμενα από έναν τόπο όπου μια συγκεκριμένη ποιότητα ή φήμη συνδέεται ουσιωδώς με αυτή τη γεωγραφική προέλευση. Τα γεωργικά προϊόντα μπορούν να λάβουν προστασία ΓΕ σε επίπεδο ΕΕ, αλλά τα μη γεωργικά αγαθά, όπως τα γυάλινα είδη, δεν απολαμβάνουν ακόμη αντίστοιχη προστασία σε επίπεδο ΕΕ.",
         "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
         "options": [
-          "Τα δερμάτινα είδη και τα έπιπλα απολαμβάνουν σήμερα προστασία ΓΕ σε επίπεδο ΕΕ",
+          "Τα γεωργικά προιόντα, τα δερμάτινα είδη και τα έπιπλα απολαμβάνουν σήμερα προστασία ΓΕ σε επίπεδο ΕΕ",
           "Οι παγκόσμιοι καταναλωτές αδιαφορούν σε μεγάλο βαθμό για τη γεωγραφική προέλευση των προϊόντων",
-          "Σε ορισμένες περιοχές, τα αγαθά έχουν αναπτύξει διακριτικά χαρακτηριστικά συνδεδεμένα με τη γεωγραφική τους προέλευση",
-          "Τα προστατευόμενα προϊόντα μπορούν να αναπαραχθούν με ίδια ποιότητα οπουδήποτε εκτός της περιοχής"
+          "Σε ορισμένες περιοχές, συγκεκριμένα αγαθά έχουν αναπτύξει διακριτικά χαρακτηριστικά συνδεδεμένα με τη γεωγραφική τους προέλευση",
+          "Τα προστατευόμενα προϊόντα δεν μπορούν να αναπαραχθούν με την ίδια ποιότητα οπουδήποτε εκτός της περιοχής"
         ],
         "answer": 2,
         "explanation": "Η ύπαρξη ΓΕ προϋποθέτει ότι ορισμένα αγαθά έχουν διακριτικά χαρακτηριστικά συνδεδεμένα με την περιοχή τους."
