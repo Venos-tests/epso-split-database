@@ -704,33 +704,33 @@
         "explanation": "Η επιλογή Β είναι σωστή διότι το κείμενο αναφέρει ρητά ότι η αλλαγή αυτή «αποσύνδεσε οριστικά την πολιτική νομιμότητα από τη θεολογική ορθοδοξία, καθιερώνοντας την κρατική κυριαρχία και τη μη επέμβαση». Η επιλογή Α είναι λανθασμένη (οι συγκρούσεις δεν εξαφανίστηκαν μαγικά ούτε επιβλήθηκε κοσμικό κράτος). Η επιλογή Γ είναι αναχρονιστική. Η επιλογή Δ έρχεται σε ευθεία αντίθεση με το κείμενο που αναφέρει την αποδόμηση των εξουσιών της Αυτοκρατορίας."
       }
     },
-    {
-      "en": {
-        "passage": "8. The circular economy seeks to minimise waste through product redesign, recycling, and material reuse. Within the EU, this shift is regarded as essential to reaching climate neutrality by 2050.",
-        "question": "According to the passage, what is the ultimate goal linked to the circular economy in the EU?",
-        "options": [
-          "Increasing textile exports",
-          "Reducing industrial production costs",
-          "Achieving climate neutrality by 2050",
-          "Eliminating plastic use in construction"
-        ],
-        "answer": 2,
-        "explanation": "The passage explicitly links the circular economy to the 2050 climate neutrality target."
-      },
-      "el": {
-        "passage": "8. Η κυκλική οικονομία επιδιώκει την ελαχιστοποίηση των αποβλήτων μέσω επανασχεδιασμού προϊόντων, ανακύκλωσης και επαναχρησιμοποίησης υλικών. Εντός της ΕΕ, αυτή η μετάβαση θεωρείται απαραίτητη για την επίτευξη της κλιματικής ουδετερότητας έως το 2050.",
-        "question": "Σύμφωνα με το κείμενο, ποιος είναι ο απώτερος στόχος που συνδέεται με την κυκλική οικονομία στην ΕΕ;",
-        "options": [
-          "Η αύξηση των εξαγωγών κλωστοϋφαντουργικών προϊόντων",
-          "Η μείωση του κόστους βιομηχανικής παραγωγής",
-          "Η επίτευξη κλιματικής ουδετερότητας έως το 2050",
-          "Η κατάργηση της χρήσης πλαστικού στις κατασκευές"
-        ],
-        "answer": 2,
-        "explanation": "Το κείμενο συνδέει άμεσα την κυκλική οικονομία με τον στόχο κλιματικής ουδετερότητας έως το 2050."
-      }
-    },
-    {
+{
+  "en": {
+    "passage": "8. The circular economy seeks to minimise waste through product redesign, recycling and material reuse, decoupling economic growth from resource consumption rather than simply reducing consumption itself. Within the EU, this transition is considered necessary, though not sufficient on its own, for achieving climate neutrality by 2050, since emissions from resource extraction and processing account for a significant share of the bloc's total footprint. The Commission has been explicit that circularity measures complement, rather than replace, direct decarbonisation of energy and transport.",
+    "question": "According to the passage, what can be validly concluded about the relationship between the circular economy and the EU's 2050 climate neutrality target?",
+    "options": [
+      "Achieving a circular economy would, by itself, guarantee climate neutrality by 2050",
+      "The circular economy contributes to the target but is not alone sufficient to achieve it",
+      "Climate neutrality by 2050 depends primarily on reducing overall consumption levels",
+      "Decarbonising energy and transport is no longer considered a separate policy priority"
+    ],
+    "answer": 1,
+    "explanation": "The passage explicitly states circularity is \"necessary, though not sufficient on its own\" and that it complements rather than replaces direct decarbonisation — ruling out option A (overstates sufficiency) and option D (contradicted directly). Option C misreads decoupling growth from consumption as consumption reduction itself, which the passage explicitly distinguishes."
+  },
+  "el": {
+    "passage": "8. Η κυκλική οικονομία επιδιώκει την ελαχιστοποίηση των αποβλήτων μέσω επανασχεδιασμού προϊόντων, ανακύκλωσης και επαναχρησιμοποίησης υλικών, αποσυνδέοντας την οικονομική ανάπτυξη από την κατανάλωση πόρων αντί απλώς να μειώνει την ίδια την κατανάλωση. Εντός της ΕΕ, αυτή η μετάβαση θεωρείται αναγκαία, όχι όμως αφ' εαυτής επαρκής, για την επίτευξη κλιματικής ουδετερότητας έως το 2050, καθώς οι εκπομπές από την εξόρυξη και επεξεργασία πόρων αντιπροσωπεύουν σημαντικό μέρος του συνολικού αποτυπώματος της Ένωσης. Η Επιτροπή έχει διευκρινίσει ρητά ότι τα μέτρα κυκλικότητας συμπληρώνουν, και δεν αντικαθιστούν, την άμεση απανθρακοποίηση της ενέργειας και των μεταφορών.",
+    "question": "Σύμφωνα με το κείμενο, τι μπορεί να συναχθεί έγκυρα σχετικά με τη σχέση κυκλικής οικονομίας και του στόχου κλιματικής ουδετερότητας της ΕΕ έως το 2050;",
+    "options": [
+      "Η επίτευξη κυκλικής οικονομίας θα εγγυάτο, από μόνη της, την κλιματική ουδετερότητα έως το 2050",
+      "Η κυκλική οικονομία συμβάλλει στον στόχο, αλλά δεν αρκεί από μόνη της για την επίτευξή του",
+      "Η κλιματική ουδετερότητα έως το 2050 εξαρτάται κυρίως από τη μείωση της συνολικής κατανάλωσης",
+      "Η απανθρακοποίηση της ενέργειας και των μεταφορών δεν θεωρείται πλέον ξεχωριστή πολιτική προτεραιότητα"
+    ],
+    "answer": 1,
+    "explanation": "Το κείμενο αναφέρει ρητά ότι η κυκλικότητα είναι «αναγκαία, όχι όμως αφ' εαυτής επαρκής» και ότι συμπληρώνει και δεν αντικαθιστά την άμεση απανθρακοποίηση — γεγονός που αποκλείει την επιλογή Α (υπερβάλλει στην επάρκεια) και τη Δ (έρχεται σε άμεση αντίθεση με το κείμενο). Η Γ παρερμηνεύει την αποσύνδεση ανάπτυξης-κατανάλωσης ως μείωση της ίδιας της κατανάλωσης, κάτι που το κείμενο ρητά διακρίνει."
+  }
+},
+  {
       "en": {
         "passage": "9. The European Central Bank's decision to adjust interest rates is primarily intended to curb inflation and stabilise the eurozone economy. The policy assumes that retail banks will pass these rate changes on to consumers, thereby influencing spending and saving patterns across the continent.",
         "question": "What underlying assumption does the passage attribute to the interest rate policy's effectiveness?",
@@ -894,50 +894,50 @@
           "Administrative costs are expected to rise sharply under the new proposal",
           "The package leaves corporate reporting requirements completely unchanged",
           "Critics believe the narrower scope could weaken the impact of sustainability initiatives",
-          "The Omnibus Simplification Package has already been fully implemented across the EU"
+          "The Omnibus Simplification Package will not be equally implemented across the EU"
         ],
         "answer": 2,
         "explanation": "The passage notes critics' concern that narrowing the scope of the rules \"risks undermining\" EU sustainability goals."
       },
       "el": {
-        "passage": "15. Την άνοιξη του 2025, η Ευρωπαϊκή Επιτροπή παρουσίασε το Πακέτο Απλούστευσης Omnibus, με στόχο τον εξορθολογισμό των υποχρεώσεων βιωσιμότητας και εταιρικής αναφοράς, εξαιρώντας φερόμενα περίπου το 80% των εταιρειών που καλύπτονταν προηγουμένως από ορισμένες υποχρεώσεις αναφοράς. Ενώ η Επιτροπή υποστηρίζει ότι αυτό θα τονώσει τις επενδύσεις, οι επικριτές υποστηρίζουν ότι ο περιορισμός του πεδίου εφαρμογής των κανόνων κινδυνεύει να υπονομεύσει τους στόχους βιωσιμότητας της ΕΕ.",
+        "passage": "15. Την άνοιξη του 2025, η Ευρωπαϊκή Επιτροπή παρουσίασε το Πακέτο Απλούστευσης Omnibus, με στόχο τον εξορθολογισμό των υποχρεώσεων βιωσιμότητας και δημοσίευσης εταιρικών εκθέσεων, εξαιρώντας περίπου το 80% των εταιρειών που καλύπτονταν προηγουμένως από ορισμένες υποχρεώσεις δημοσίευσης. Ενώ η Επιτροπή υποστηρίζει ότι η επιλογή αυτή θα τονώσει τις επενδύσεις, οι επικριτές υποστηρίζουν ότι ο περιορισμός του πεδίου εφαρμογής των κανόνων κινδυνεύει να υπονομεύσει τους στόχους βιωσιμότητας της ΕΕ.",
         "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
         "options": [
           "Το διοικητικό κόστος αναμένεται να αυξηθεί απότομα βάσει της νέας πρότασης",
-          "Το πακέτο αφήνει τις απαιτήσεις εταιρικής αναφοράς εντελώς αμετάβλητες",
+          "Το πακέτο αφήνει τις απαιτήσεις περιεχομένου των εταιρικών εκθέσεων εντελώς αμετάβλητες",
           "Οι επικριτές πιστεύουν ότι το στενότερο πεδίο εφαρμογής θα μπορούσε να αποδυναμώσει τον αντίκτυπο των πρωτοβουλιών βιωσιμότητας",
-          "Το Πακέτο Απλούστευσης Omnibus έχει ήδη εφαρμοστεί πλήρως σε όλη την ΕΕ"
+          "Το Πακέτο Απλούστευσης Omnibus δεν θα εφαρμοστεί ισομερώς σε όλη την ΕΕ"
         ],
         "answer": 2,
         "explanation": "Το κείμενο αναφέρει την ανησυχία των επικριτών ότι ο περιορισμός του πεδίου εφαρμογής «κινδυνεύει να υπονομεύσει» τους στόχους βιωσιμότητας."
       }
     },
-    {
-      "en": {
-        "passage": "16. Artificial intelligence is expected to reshape the EU labour market by automating routine tasks. The EU advocates a human-centric approach to AI, seeking to raise productivity while safeguarding the rights of workers.",
-        "question": "What is a core principle underlying the EU's approach to artificial intelligence in the workplace, according to the passage?",
-        "options": [
-          "Outsourcing AI development entirely to third countries",
-          "Full replacement of human labour within two decades",
-          "A human-centric approach that protects workers' rights",
-          "Prioritising economic efficiency over ethical considerations"
-        ],
-        "answer": 2,
-        "explanation": "The passage explicitly states the EU advocates a \"human-centric approach\" to protect workers' rights."
-      },
-      "el": {
-        "passage": "16. Η τεχνητή νοημοσύνη αναμένεται να αναδιαμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας. Η ΕΕ υποστηρίζει μια ανθρωποκεντρική προσέγγιση στην AI, επιδιώκοντας την αύξηση της παραγωγικότητας διαφυλάσσοντας παράλληλα τα δικαιώματα των εργαζομένων.",
-        "question": "Ποια είναι μια βασική αρχή της προσέγγισης της ΕΕ για την τεχνητή νοημοσύνη στον εργασιακό χώρο, σύμφωνα με το κείμενο;",
-        "options": [
-          "Η πλήρης ανάθεση της ανάπτυξης AI σε τρίτες χώρες",
-          "Η πλήρης αντικατάσταση της ανθρώπινης εργασίας εντός δύο δεκαετιών",
-          "Μια ανθρωποκεντρική προσέγγιση που προστατεύει τα δικαιώματα των εργαζομένων",
-          "Η προτεραιότητα στην οικονομική αποτελεσματικότητα έναντι ηθικών παραμέτρων"
-        ],
-        "answer": 2,
-        "explanation": "Το κείμενο αναφέρει ρητά ότι η ΕΕ υποστηρίζει μια «ανθρωποκεντρική προσέγγιση» για την προστασία των δικαιωμάτων των εργαζομένων."
-      }
-    },
+   {
+  "en": {
+    "passage": "16. The EU's Artificial Intelligence Act classifies AI systems into risk categories rather than regulating the technology as a whole. Systems posing an unacceptable risk are prohibited outright, while high-risk systems—such as those used in recruitment or credit scoring—may be placed on the market only if they meet strict requirements on data quality, transparency and human oversight. Systems presenting limited risk are subject only to lighter transparency obligations, and minimal-risk systems, which make up the majority of AI applications currently in use, remain largely unregulated. The Act does not evaluate risk according to the sophistication of the underlying algorithm, but according to the use to which the system is put.",
+    "question": "According to the passage, which of the following can be validly inferred?",
+    "options": [
+      "A highly sophisticated AI algorithm is automatically classified as high-risk under the Act",
+      "The same underlying AI technology could fall into different risk categories depending on its application",
+      "Minimal-risk AI systems are exempt from the Act because they are technologically simple",
+      "Human oversight requirements apply equally across all four risk categories"
+    ],
+    "answer": 1,
+    "explanation": "The passage states classification depends on the use of the system, not the sophistication of the algorithm — so identical technology deployed differently could sit in different risk tiers. Option A reverses this stated logic; option C wrongly attributes minimal-risk status to technical simplicity rather than use-case; option D contradicts the passage, which ties strict oversight specifically to high-risk systems."
+  },
+  "el": {
+    "passage": "16. Ο Κανονισμός της ΕΕ για την Τεχνητή Νοημοσύνη κατατάσσει τα συστήματα ΤΝ σε κατηγορίες κινδύνου αντί να ρυθμίζει την τεχνολογία συνολικά. Τα συστήματα που παρουσιάζουν απαράδεκτο κίνδυνο απαγορεύονται πλήρως, ενώ τα συστήματα υψηλού κινδύνου —όπως αυτά που χρησιμοποιούνται σε προσλήψεις ή πιστοληπτική αξιολόγηση— επιτρέπεται να διατίθενται στην αγορά μόνο εφόσον πληρούν αυστηρές απαιτήσεις ποιότητας δεδομένων, διαφάνειας και ανθρώπινης εποπτείας. Τα συστήματα περιορισμένου κινδύνου υπόκεινται μόνο σε ελαφρύτερες υποχρεώσεις διαφάνειας, ενώ τα συστήματα ελάχιστου κινδύνου, που αποτελούν την πλειονότητα των εφαρμογών ΤΝ σήμερα, παραμένουν σε μεγάλο βαθμό αρρύθμιστα. Ο Κανονισμός δεν αξιολογεί τον κίνδυνο με βάση την πολυπλοκότητα του υποκείμενου αλγορίθμου, αλλά με βάση τη χρήση για την οποία προορίζεται το σύστημα.",
+    "question": "Σύμφωνα με το κείμενο, ποιο από τα παρακάτω συνάγεται έγκυρα;",
+    "options": [
+      "Ένας εξαιρετικά εξελιγμένος αλγόριθμος ΤΝ κατατάσσεται αυτόματα ως υψηλού κινδύνου βάσει του Κανονισμού",
+      "Η ίδια υποκείμενη τεχνολογία ΤΝ θα μπορούσε να ενταχθεί σε διαφορετικές κατηγορίες κινδύνου ανάλογα με τη χρήση της",
+      "Τα συστήματα ελάχιστου κινδύνου εξαιρούνται από τον Κανονισμό επειδή είναι τεχνολογικά απλά",
+      "Οι απαιτήσεις ανθρώπινης εποπτείας ισχύουν εξίσου και στις τέσσερις κατηγορίες κινδύνου"
+    ],
+    "answer": 1,
+    "explanation": "Το κείμενο αναφέρει ότι η κατάταξη εξαρτάται από τη χρήση του συστήματος και όχι από την πολυπλοκότητα του αλγορίθμου — άρα η ίδια τεχνολογία, χρησιμοποιούμενη διαφορετικά, θα μπορούσε να ενταχθεί σε διαφορετικές κατηγορίες. Η επιλογή Α αντιστρέφει αυτή τη λογική· η Γ αποδίδει λανθασμένα το καθεστώς ελάχιστου κινδύνου στην τεχνική απλότητα αντί στη χρήση· η Δ έρχεται σε αντίθεση με το κείμενο, που συνδέει την αυστηρή εποπτεία ειδικά με τα συστήματα υψηλού κινδύνου."
+  }
+},
     {
       "en": {
         "passage": "17. The use of biomass, biogas, and agricultural waste in power generation is projected to expand. The largest growth in electricity output, however, will most likely come from wind power through increasingly efficient turbine technology. As renewable transport fuels also expand, the transport sector will gain new means of cutting its CO2 emissions.",
@@ -969,9 +969,9 @@
         "passage": "18. Since its enforcement in 2018, the GDPR has triggered a marked increase in privacy-related enforcement across the EU. By 2024, more than 2,600 fines had been issued, totalling over €5.3 billion. Major technology firms have faced some of the largest penalties, often linked to inadequate user consent, data mismanagement, or opaque profiling. Authorities in Ireland and Luxembourg have been particularly active in enforcement.",
         "question": "Which of the following is a common reason for GDPR fines imposed on major technology firms, according to the passage?",
         "options": [
-          "Excessive taxation of user data",
+          "Excessive exploitation of user data",
           "Publishing fully encrypted datasets",
-          "Refusal to adopt blockchain technology",
+          "Refusal to adopt blockchain technology for security reasons",
           "Inadequate mechanisms for obtaining user consent"
         ],
         "answer": 3,
@@ -981,10 +981,10 @@
         "passage": "18. Από την εφαρμογή του το 2018, ο GDPR έχει προκαλέσει σημαντική αύξηση στην επιβολή σχετικά με την ιδιωτικότητα σε όλη την ΕΕ. Έως το 2024, είχαν επιβληθεί περισσότερα από 2.600 πρόστιμα, συνολικού ύψους άνω των 5,3 δισεκατομμυρίων ευρώ. Μεγάλες εταιρείες τεχνολογίας αντιμετώπισαν μερικές από τις μεγαλύτερες ποινές, συχνά λόγω ανεπαρκούς συναίνεσης χρηστών, κακής διαχείρισης δεδομένων ή αδιαφανούς κατάρτισης προφίλ. Οι αρχές στην Ιρλανδία και το Λουξεμβούργο υπήρξαν ιδιαίτερα ενεργές στην επιβολή.",
         "question": "Ποιος είναι ένας συνηθισμένος λόγος για τα πρόστιμα GDPR που επιβάλλονται σε μεγάλες εταιρείες τεχνολογίας, σύμφωνα με το κείμενο;",
         "options": [
-          "Η υπερβολική φορολόγηση δεδομένων χρηστών",
+          "Η υπερβολική εκμετάλλευση των δεδομένων χρηστών",
           "Η δημοσίευση πλήρως κρυπτογραφημένων συνόλων δεδομένων",
-          "Η άρνηση υιοθέτησης τεχνολογίας blockchain",
-          "Οι ανεπαρκείς μηχανισμοί λήψης συναίνεσης χρηστών"
+          "Η άρνηση υιοθέτησης τεχνολογίας blockchain για λόγους ασφαλείας",
+          "Οι ανεπαρκείς μηχανισμοί λήψης της συναίνεσης των χρηστών"
         ],
         "answer": 3,
         "explanation": "Το κείμενο αναφέρει την «ανεπαρκή συναίνεση χρηστών» ως συχνό λόγο πίσω από τις μεγαλύτερες ποινές."
@@ -1005,7 +1005,7 @@
       },
       "el": {
         "passage": "19. Η πολιτική «ευελιξίας με ασφάλεια» (flexicurity) συνδυάζει ευέλικτους κανόνες πρόσληψης και απόλυσης για τους εργοδότες με γενναιόδωρα επιδόματα για τους ανέργους. Σκοπός της είναι να διαμορφώσει ένα ευρύτερο περιβάλλον όπου η επαγγελματική κινητικότητα, ιδίως η ανοδική κινητικότητα προς καλύτερα αμειβόμενες θέσεις, γίνεται φυσιολογικό μέρος μιας τυπικής σταδιοδρομίας.",
-        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή με βάση το κείμενο;",
         "options": [
           "Οι συχνές μετακινήσεις μεταξύ βραχυπρόθεσμων θέσεων είναι πιθανό να βλάψουν την επαγγελματική εξέλιξη ενός ατόμου",
           "Η αβεβαιότητα που δημιουργείται από τις συχνές αλλαγές εργασίας μπορεί να αντισταθμιστεί από την εμπιστοσύνη σε επαρκή κοινωνική πρόνοια",
@@ -1016,32 +1016,32 @@
         "explanation": "Το κείμενο πλαισιώνει την ευελιξία με ασφάλεια ως αναγκαία απάντηση των εργοδοτών σε μια ανταγωνιστική, παγκοσμιοποιημένη αγορά εργασίας."
       }
     },
-    {
-      "en": {
-        "passage": "20. A recent report by the European Environment Agency highlights the uneven pace of green technology adoption among EU member states. While northern and western countries have rapidly integrated renewable energy sources, several southern coastal and landlocked eastern states continue to lag due to infrastructural and economic constraints.",
-        "question": "Which of the following statements is best supported by the passage?",
-        "options": [
-          "The EEA recommends penalties for countries that fail to adopt green technology",
-          "Northern and western EU countries have completed a full transition to electric transport",
-          "Economic constraints are among the reasons for slower green technology adoption in parts of the EU",
-          "The EEA has proposed new funding mechanisms specifically for southern and eastern states"
-        ],
-        "answer": 2,
-        "explanation": "The passage attributes the slower pace in some states to \"infrastructural and economic constraints.\""
-      },
-      "el": {
-        "passage": "20. Πρόσφατη έκθεση του Ευρωπαϊκού Οργανισμού Περιβάλλοντος αναδεικνύει τον άνισο ρυθμό υιοθέτησης πράσινης τεχνολογίας μεταξύ των κρατών μελών της ΕΕ. Ενώ οι βόρειες και δυτικές χώρες έχουν ενσωματώσει ταχέως ανανεώσιμες πηγές ενέργειας, αρκετά νότια παράκτια και ανατολικά ηπειρωτικά κράτη συνεχίζουν να υστερούν λόγω υποδομικών και οικονομικών περιορισμών.",
-        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
-        "options": [
-          "Ο ΕΟΠ συνιστά κυρώσεις για τις χώρες που δεν υιοθετούν πράσινη τεχνολογία",
-          "Οι βόρειες και δυτικές χώρες της ΕΕ έχουν ολοκληρώσει πλήρη μετάβαση στις ηλεκτρικές μεταφορές",
-          "Οι οικονομικοί περιορισμοί είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση πράσινης τεχνολογίας σε ορισμένα μέρη της ΕΕ",
-          "Ο ΕΟΠ έχει προτείνει νέους μηχανισμούς χρηματοδότησης ειδικά για νότια και ανατολικά κράτη"
-        ],
-        "answer": 2,
-        "explanation": "Το κείμενο αποδίδει τον πιο αργό ρυθμό σε ορισμένα κράτη σε «υποδομικούς και οικονομικούς περιορισμούς»."
-      }
-    }
+  {
+  "en": {
+    "passage": "20. A recent report by the European Environment Agency highlights the uneven pace of green technology adoption among EU member states. While northern and western countries have rapidly integrated renewable energy sources, several southern coastal and landlocked eastern states continue to lag, a gap the report attributes not to differing political will but to structural factors: weaker grid infrastructure limits how much intermittent renewable capacity can be absorbed, and lower fiscal headroom constrains public co-financing of large-scale projects. The report cautions against reading adoption rates as a proxy for member states' climate ambition.",
+    "question": "Which of the following statements is best supported by the passage?",
+    "options": [
+      "The EEA report focuses primarily on comparing renewable energy adoption to electric transport uptake",
+      "Grid infrastructure limitations affect fiscal co-financing capacity for renewable projects",
+      "Northern and western EU countries face no infrastructural constraints on renewable integration",
+      "The report identifies structural rather than political factors as the main driver of uneven adoption rates"
+    ],
+    "answer": 3,
+    "explanation": "The passage explicitly attributes the gap to structural factors (grid capacity, fiscal headroom) rather than differing political will, and separately warns against equating adoption rates with climate ambition — directly supporting option D. Option A introduces a comparison never made in the passage. Option B wrongly merges two distinct structural factors the passage keeps separate. Option C overreaches: the passage notes northern/western countries integrated renewables rapidly, but never claims they face zero infrastructural constraints."
+  },
+  "el": {
+    "passage": "20. Πρόσφατη έκθεση του Ευρωπαϊκού Οργανισμού Περιβάλλοντος αναδεικνύει τον άνισο ρυθμό υιοθέτησης πράσινης τεχνολογίας μεταξύ των κρατών μελών της ΕΕ. Ενώ οι βόρειες και δυτικές χώρες έχουν ενσωματώσει ταχέως ανανεώσιμες πηγές ενέργειας, αρκετά νότια παράκτια και ανατολικά ηπειρωτικά κράτη συνεχίζουν να υστερούν — ένα χάσμα που η έκθεση αποδίδει όχι σε διαφορετική πολιτική βούληση αλλά σε διαρθρωτικούς παράγοντες: ασθενέστερες υποδομές δικτύου περιορίζουν το πόσο διακοπτόμενη ανανεώσιμη ισχύ μπορεί να απορροφηθεί, ενώ το χαμηλότερο δημοσιονομικό περιθώριο περιορίζει τη δημόσια συγχρηματοδότηση μεγάλων έργων. Η έκθεση προειδοποιεί να μην ερμηνεύονται οι ρυθμοί υιοθέτησης ως δείκτης κλιματικής φιλοδοξίας των κρατών μελών.",
+    "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+    "options": [
+      "Η έκθεση του ΕΟΠ επικεντρώνεται κυρίως στη σύγκριση της υιοθέτησης ανανεώσιμων πηγών με την υιοθέτηση ηλεκτρικών μεταφορών",
+      "Οι περιορισμοί υποδομών δικτύου επηρεάζουν την ικανότητα δημοσιονομικής συγχρηματοδότησης έργων ανανεώσιμων πηγών",
+      "Οι βόρειες και δυτικές χώρες της ΕΕ δεν αντιμετωπίζουν καμία υποδομική δυσκολία στην ενσωμάτωση ανανεώσιμων πηγών",
+      "Η έκθεση προσδιορίζει διαρθρωτικούς και όχι πολιτικούς παράγοντες ως τον κύριο λόγο της άνισης υιοθέτησης"
+    ],
+    "answer": 3,
+    "explanation": "Το κείμενο αποδίδει ρητά το χάσμα σε διαρθρωτικούς παράγοντες (δυναμικότητα δικτύου, δημοσιονομικό περιθώριο) και όχι σε διαφορετική πολιτική βούληση, ενώ ξεχωριστά προειδοποιεί να μην ταυτίζονται οι ρυθμοί υιοθέτησης με την κλιματική φιλοδοξία — υποστηρίζοντας άμεσα την επιλογή Δ. Η Α εισάγει μια σύγκριση που δεν γίνεται ποτέ στο κείμενο. Η Β συγχωνεύει λανθασμένα δύο διαρθρωτικούς παράγοντες που το κείμενο διακρίνει. Η Γ υπερβάλλει: το κείμενο σημειώνει ότι οι βόρειες/δυτικές χώρες ενσωμάτωσαν ταχέως ανανεώσιμες πηγές, αλλά ποτέ δεν ισχυρίζεται ότι δεν αντιμετωπίζουν καθόλου υποδομικούς περιορισμούς."
+  }
+}
   ],
   "verbal_3": [
     {
