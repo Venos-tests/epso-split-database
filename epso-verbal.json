@@ -1052,7 +1052,7 @@
           "The legal enforcement mechanisms of EU environmental treaties.",
           "The scope, evolution, and implementation challenges of the European Green Deal.",
           "The central role of agriculture in European renewable energy markets.",
-          "The consequences of climate change in northern EU member states."
+          "The transborder consequences of climate change in EU member states."
         ],
         "answer": 1,
         "explanation": "The passage covers what the Green Deal is, how it has evolved, and the challenges threatening its implementation. Option A is wrong because legal enforcement mechanisms are not discussed. Option C distorts the text: agriculture is mentioned only as a reacting sector. Option D is too narrow and not the passage's focus."
@@ -1064,7 +1064,7 @@
           "Οι μηχανισμοί νομικής επιβολής των περιβαλλοντικών συνθηκών της ΕΕ.",
           "Το πεδίο εφαρμογής, η εξέλιξη και οι προκλήσεις εφαρμογής της Ευρωπαϊκής Πράσινης Συμφωνίας.",
           "Ο κεντρικός ρόλος της γεωργίας στις ευρωπαϊκές αγορές ανανεώσιμης ενέργειας.",
-          "Οι συνέπειες της κλιματικής αλλαγής στα βόρεια κράτη μέλη της ΕΕ."
+          "Οι διασυνοραικές συνέπειες της κλιματικής αλλαγής στα κράτη μέλη της ΕΕ."
         ],
         "answer": 1,
         "explanation": "Το κείμενο καλύπτει το τι είναι η Πράσινη Συμφωνία, πώς εξελίχθηκε και ποιες προκλήσεις απειλούν την εφαρμογή της. Η Α είναι εσφαλμένη διότι δεν συζητούνται μηχανισμοί νομικής επιβολής. Η Γ παραμορφώνει το κείμενο. Η Δ είναι υπερβολικά στενή."
@@ -1072,24 +1072,24 @@
     },
     {
       "en": {
-        "passage": "2. E-learning systems have recently been adopted by many multinational companies. In most cases, these systems serve as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to grow, while budgets for individual or group training are frequently cut. Under such conditions, e-learning offers a practical and relatively inexpensive solution. By delivering interactive content through internet-based platforms accessible from a personal computer, and by allowing learners to progress at their own pace, e-learning can in some cases outperform traditional training methods. Programme content varies considerably, but such systems are commonly used to introduce new technologies, strengthen management capabilities, and improve supply chain management skills.",
+        "passage": "2. E-learning systems have recently been adopted by many multinational companies. In most cases, these systems serve as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to grow, while training budgets are frequently cut. Under such conditions, e-learning offers a practical and relatively inexpensive solution. By delivering interactive content through internet-based platforms accessible from a p/c, and by allowing learners to progress at their own pace, e-learning can in some cases outperform traditional training methods, especially when used to introduce new technologies, strengthen management capabilities, and improve supply chain management skills.",
         "question": "Which of the following is best supported by the passage?",
         "options": [
           "E-learning programmes have completely replaced traditional leadership development in multinational companies.",
           "Companies increasingly turn to e-learning partly because it is a cheaper training option.",
-          "E-learning is always superior to traditional forms of corporate training.",
+          "E-learning is generally superior to traditional forms of corporate training.",
           "Most e-learning programmes focus exclusively on supply chain management."
         ],
         "answer": 1,
         "explanation": "The passage links budget cuts with the adoption of cost-effective e-learning alternatives. Option A is wrong because the text uses 'alternative', not 'replacement'. Option C is wrong because the passage says 'in some cases'. Option D is wrong because supply chain management is only one of several areas mentioned."
       },
       "el": {
-        "passage": "2. Τα συστήματα ηλεκτρονικής μάθησης έχουν υιοθετηθεί πρόσφατα από πολλές πολυεθνικές εταιρείες. Στις περισσότερες περιπτώσεις, χρησιμεύουν ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων συνεχίζει να αυξάνεται, ενώ οι προϋπολογισμοί για κατάρτιση περικόπτονται συχνά. Υπό αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού περιεχομένου σε διαδικτυακές πλατφόρμες και με δυνατότητα αυτορρύθμιστης μάθησης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να ξεπερνά τις παραδοσιακές μεθόδους κατάρτισης. Το περιεχόμενο ποικίλλει σημαντικά, αλλά τέτοια συστήματα χρησιμοποιούνται συχνά για εισαγωγή σε νέες τεχνολογίες, ενίσχυση διοικητικών ικανοτήτων και βελτίωση δεξιοτήτων διαχείρισης εφοδιαστικής αλυσίδας.",
+        "passage": "2. Τα συστήματα ηλεκτρονικής μάθησης έχουν υιοθετηθεί πρόσφατα από πολλές πολυεθνικές εταιρείες. Στις περισσότερες περιπτώσεις, χρησιμεύουν ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων συνεχίζει να αυξάνεται, ενώ οι προϋπολογισμοί για κατάρτιση περικόπτονται συχνά. Υπό αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού περιεχομένου σε διαδικτυακές πλατφόρμες και με δυνατότητα αυτορρυθμιζόμενης μάθησης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να ξεπερνά τις παραδοσιακές μεθόδους κατάρτισης, ιδίως σε θέματα εισαγωγής σε νέες τεχνολογίες, ενίσχυσης διοικητικών ικανοτήτων και βελτίωσης δεξιοτήτων διαχείρισης εφοδιαστικής αλυσίδας.",
         "question": "Ποιο από τα παρακάτω υποστηρίζεται καλύτερα από το κείμενο;",
         "options": [
-          "Τα προγράμματα ηλεκτρονικής μάθησης έχουν αντικαταστήσει πλήρως την παραδοσιακή ανάπτυξη ηγεσίας στις πολυεθνικές εταιρείες.",
+          "Τα προγράμματα ηλεκτρονικής μάθησης έχουν αντικαταστήσει πλέον την παραδοσιακή ανάπτυξη ηγεσίας στις πολυεθνικές εταιρείες.",
           "Οι εταιρείες στρέφονται ολοένα και περισσότερο στην ηλεκτρονική μάθηση εν μέρει επειδή είναι φθηνότερη επιλογή κατάρτισης.",
-          "Η ηλεκτρονική μάθηση είναι πάντοτε ανώτερη από τις παραδοσιακές μορφές εταιρικής κατάρτισης.",
+          "Η ηλεκτρονική μάθηση είναι σε γενικές γραμμές ανώτερη από τις παραδοσιακές μορφές εταιρικής κατάρτισης.",
           "Τα περισσότερα προγράμματα ηλεκτρονικής μάθησης εστιάζουν αποκλειστικά στη διαχείριση εφοδιαστικής αλυσίδας."
         ],
         "answer": 1,
@@ -1137,7 +1137,7 @@
       },
       "el": {
         "passage": "4. Εδώ και χρόνια, η Ευρωπαϊκή Ένωση προωθεί την απρόσκοπτη χρήση κινητών τηλεφώνων στα κράτη μέλη της, επιδιώκοντας να διασφαλίσει ότι οι πολίτες μπορούν να χρησιμοποιούν τα τηλέφωνά τους στο εξωτερικό χωρίς υπέρμετρες χρεώσεις περιαγωγής. Πρόσφατος κανονισμός μείωσε απότομα το κόστος περιαγωγής, επιτρέποντας ουσιαστικά στους χρήστες να πραγματοποιούν κλήσεις, να στέλνουν μηνύματα και να χρησιμοποιούν δεδομένα με εγχώριες χρεώσεις εντός της ΕΕ. Αν και οι πάροχοι δικτύου εξέφρασαν αρχικά ανησυχία για απώλεια εσόδων, πολλοί έχουν έκτοτε προσαρμόσει τα επιχειρηματικά τους μοντέλα. Οι αλλαγές αυτές ενθάρρυναν συχνότερα ταξίδια και ενίσχυσαν τους οικονομικούς και κοινωνικούς δεσμούς μεταξύ κρατών μελών. Ωστόσο, ορισμένες προκλήσεις παραμένουν, μεταξύ των οποίων οι διαφορές στην υποδομή δικτύου και την ποιότητα κάλυψης.",
-        "question": "Ποια από τις ακόλουθες είναι πλέον ακριβής σύμφωνα με το κείμενο;",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής σύμφωνα με το κείμενο;",
         "options": [
           "Οι χρεώσεις περιαγωγής καταργήθηκαν παγκοσμίως χάρη στον κανονισμό της ΕΕ.",
           "Το κόστος περιαγωγής αυξήθηκε λόγω των ανησυχιών των παρόχων για κερδοφορία.",
@@ -1155,7 +1155,7 @@
         "options": [
           "EU legislation guarantees complete safety for all wildlife in Europe.",
           "Illegal hunting and habitat fragmentation have been eliminated thanks to EU directives.",
-          "Protecting wildlife in the EU requires cooperation between member states.",
+          "Protecting wildlife in the EU requires collaboration between member states.",
           "Only a small number of species benefit from EU wildlife protection measures."
         ],
         "answer": 2,
@@ -1165,10 +1165,10 @@
         "passage": "5. Η Ευρωπαϊκή Ένωση έχει υιοθετήσει σειρά μέτρων για την προστασία της άγριας πανίδας, συμπεριλαμβανομένης της Οδηγίας για τους Οικοτόπους και του δικτύου Natura 2000. Αυτά τα πλαίσια αποσκοπούν στη διατήρηση ειδών και οικοτόπων που απειλούνται ή μειώνονται. Τα κράτη μέλη οφείλουν να ορίζουν προστατευόμενες περιοχές και να εφαρμόζουν σχέδια διαχείρισης, ώστε η ανθρώπινη δραστηριότητα να μη θέτει σε κίνδυνο ευάλωτους πληθυσμούς. Παρά τις προσπάθειες αυτές, προκλήσεις όπως ο κατακερματισμός οικοτόπων, η παράνομη θήρα και η κλιματική αλλαγή εξακολουθούν να απειλούν τη βιοποικιλότητα της Ευρώπης. Η συνεργασία μεταξύ χωρών θεωρείται απαραίτητη για την επίτευξη μακροπρόθεσμων στόχων διατήρησης.",
         "question": "Ποια δήλωση μπορεί να συναχθεί ορθά από το κείμενο;",
         "options": [
-          "Η νομοθεσία της ΕΕ εγγυάται πλήρη ασφάλεια για όλη την άγρια ζωή στην Ευρώπη.",
+          "Η νομοθεσία της ΕΕ εγγυάται ασφάλεια για όλη την άγρια ζωή στην Ευρώπη.",
           "Η παράνομη θήρα και ο κατακερματισμός οικοτόπων έχουν εξαλειφθεί χάρη στις οδηγίες της ΕΕ.",
-          "Η προστασία της άγριας ζωής στην ΕΕ απαιτεί συνεργασία μεταξύ κρατών μελών.",
-          "Μόνο μικρός αριθμός ειδών επωφελείται από τα μέτρα προστασίας άγριας ζωής της ΕΕ."
+          "Η προστασία της άγριας ζωής στην ΕΕ απαιτεί συμπράξεις μεταξύ κρατών μελών.",
+          "Μόνο ένας περιορισμένος αριθμός ειδών επωφελείται από τα μέτρα προστασίας άγριας ζωής της ΕΕ."
         ],
         "answer": 2,
         "explanation": "Το κείμενο αναφέρει ρητά ότι η συνεργασία μεταξύ κρατών είναι απαραίτητη. Η Α είναι εσφαλμένη διότι οι προκλήσεις εξακολουθούν να υφίστανται. Η Β είναι εσφαλμένη διότι η παράνομη θήρα περιγράφεται ως συνεχιζόμενη απειλή. Η Δ είναι εσφαλμένη διότι τα πλαίσια αφορούν ευρύ φάσμα ειδών."
@@ -1179,9 +1179,9 @@
         "passage": "6. Philosophy, though frequently dismissed as abstract speculation, remains central to human inquiry. From the ethics of biotechnology to debates on consciousness, philosophy frames the very questions that science attempts to answer. While empirical research can reveal how the world operates, it cannot determine why particular values should guide human choices. Without philosophical reflection, technological progress risks becoming directionless or even harmful, since innovation lacking ethical grounding may damage rather than benefit society.",
         "question": "What does the passage suggest?",
         "options": [
-          "Technological progress always benefits society regardless of its ethical foundation.",
-          "Science is fully equipped to resolve both empirical and moral questions.",
-          "Abstract philosophical reflection has no real relevance to practical human affairs.",
+          "Technological progress always benefits society more than the ethical foundation of human inquiries.",
+          "Science is now fully equipped to resolve both empirical and moral questions.",
+          "Abstract philosophical reflection has limited relevance to practical human affairs.",
           "Philosophy supplies an ethical framework necessary to guide scientific and technological progress."
         ],
         "answer": 3,
@@ -1191,9 +1191,9 @@
         "passage": "6. Η φιλοσοφία, αν και συχνά απορρίπτεται ως αφηρημένη σκέψη, παραμένει κεντρική για την ανθρώπινη διερεύνηση. Από την ηθική της βιοτεχνολογίας έως τις συζητήσεις για τη συνείδηση, η φιλοσοφία ορίζει τα ίδια τα ερωτήματα που επιχειρεί να απαντήσει η επιστήμη. Ενώ η εμπειρική έρευνα μπορεί να αποκαλύψει πώς λειτουργεί ο κόσμος, δεν μπορεί να καθορίσει γιατί ορισμένες αξίες πρέπει να καθοδηγούν τις ανθρώπινες επιλογές. Χωρίς φιλοσοφικό αναστοχασμό, η τεχνολογική πρόοδος κινδυνεύει να γίνει αδιέξοδη ή και επιβλαβής, καθώς η καινοτομία χωρίς ηθική θεμελίωση μπορεί να βλάψει την κοινωνία αντί να την ωφελήσει.",
         "question": "Τι υποδηλώνει το κείμενο;",
         "options": [
-          "Η τεχνολογική πρόοδος ωφελεί πάντοτε την κοινωνία ανεξαρτήτως ηθικής θεμελίωσης.",
-          "Η επιστήμη είναι πλήρως εξοπλισμένη να επιλύει τόσο εμπειρικά όσο και ηθικά ζητήματα.",
-          "Ο αφηρημένος φιλοσοφικός αναστοχασμός δεν έχει πραγματική σχέση με τις πρακτικές ανθρώπινες υποθέσεις.",
+          "Η τεχνολογική πρόοδος ωφελεί πάντοτε την κοινωνία περισσότερο απ' ότι η ηθική θεμελίωση των ανθρώπινων επιλογών.",
+          "Η επιστήμη είναι πλέον επαρκώς εξοπλισμένη να επιλύει τόσο εμπειρικά όσο και ηθικά ζητήματα.",
+          "Ο αφηρημένος φιλοσοφικός αναστοχασμός  έχει περιορισμένή σχέση με τις πρακτικές ανθρώπινες υποθέσεις.",
           "Η φιλοσοφία παρέχει το ηθικό πλαίσιο που είναι απαραίτητο για την καθοδήγηση της επιστημονικής και τεχνολογικής προόδου."
         ],
         "answer": 3,
@@ -1208,19 +1208,19 @@
           "Chess is primarily a game of luck rather than skill.",
           "Playing chess may provide cognitive benefits beyond its entertainment value.",
           "Memory is not an important skill for playing chess well.",
-          "Digital games have entirely replaced chess among younger players."
+          "Digital games tend to replace chess among younger players."
         ],
         "answer": 1,
         "explanation": "The passage explicitly states that chess can strengthen problem-solving abilities and delay cognitive decline, indicating benefits beyond entertainment. Option A contradicts the passage, which states chance plays virtually no role. Option C contradicts the passage, which lists memory as a key skill. Option D is false because chess continues to attract players globally."
       },
       "el": {
-        "passage": "7. Το σκάκι είναι παιχνίδι στρατηγικής που παίζεται εδώ και αιώνες, απαιτώντας από τους παίκτες να προβλέπουν τις κινήσεις του αντιπάλου και να σχεδιάζουν αρκετά βήματα μπροστά. Ενώ η τύχη δεν παίζει σχεδόν κανένα ρόλο, γνωστικές δεξιότητες όπως η μνήμη, η αναγνώριση προτύπων και η κριτική σκέψη είναι απαραίτητες. Πρόσφατη έρευνα υποδηλώνει ότι η τακτική εξάσκηση στο σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και ενδεχομένως να καθυστερήσει τη γνωστική έκπτωση σε ηλικιωμένους. Παρά την άνοδο της ψηφιακής ψυχαγωγίας, το σκάκι εξακολουθεί να προσελκύει παγκόσμια κοινότητα παικτών όλων των ηλικιών.",
+        "passage": "7. Το σκάκι είναι παιχνίδι στρατηγικής που παίζεται εδώ και αιώνες, απαιτώντας από τους παίκτες να προβλέπουν τις κινήσεις του αντιπάλου και να σχεδιάζουν αρκετά βήματα μπροστά. Ενώ η τύχη δεν παίζει σχεδόν κανένα ρόλο, γνωστικές δεξιότητες όπως η μνήμη, η αναγνώριση προτύπων και η κριτική σκέψη είναι απαραίτητες. Πρόσφατη έρευνα υποδηλώνει ότι η τακτική εξάσκηση στο σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και ενδεχομένως να καθυστερήσει τη γνωστική έκπτωση σε ηλικιωμένους. Παρά την άνοδο της ψηφιακής ψυχαγωγίας, το σκάκι εξακολουθεί να προσελκύει μία παγκόσμια κοινότητα παικτών όλων των ηλικιών.",
         "question": "Τι μπορεί να συναχθεί από το κείμενο;",
         "options": [
           "Το σκάκι είναι κυρίως παιχνίδι τύχης παρά δεξιότητας.",
           "Η εξάσκηση στο σκάκι ενδέχεται να προσφέρει γνωστικά οφέλη πέραν της ψυχαγωγικής του αξίας.",
           "Η μνήμη δεν αποτελεί σημαντική δεξιότητα για την καλή απόδοση στο σκάκι.",
-          "Τα ψηφιακά παιχνίδια έχουν αντικαταστήσει πλήρως το σκάκι στους νεότερους παίκτες."
+          "Τα ψηφιακά παιχνίδια τείνουν να αντικαταστήσουν πλήρως το σκάκι μεταξύ των νεότερων παικτών."
         ],
         "answer": 1,
         "explanation": "Το κείμενο αναφέρει ρητά ότι το σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και να καθυστερήσει τη γνωστική έκπτωση. Η Α αντιφάσκει με το κείμενο. Η Γ αντιφάσκει με το κείμενο, που αναφέρει τη μνήμη ως βασική δεξιότητα. Η Δ είναι εσφαλμένη διότι το σκάκι εξακολουθεί να προσελκύει παίκτες παγκοσμίως."
@@ -1231,9 +1231,9 @@
         "passage": "8. Nuclear power remains an important part of the European Union's energy mix, supplying low-carbon electricity in several member states. Advocates contend that nuclear energy strengthens energy security and helps cut greenhouse gas emissions, while opponents point to concerns over radioactive waste, plant safety, and high costs. EU countries follow diverging paths: some plan to phase out nuclear power entirely, while others intend to maintain or expand their nuclear capacity. Coordinated EU-wide strategies remain difficult given these national differences, despite shared climate and energy goals.",
         "question": "Which conclusion is most accurate according to the passage?",
         "options": [
-          "Every EU member state plans to expand nuclear energy capacity.",
+          "Most EU member state plan to expand nuclear energy capacity.",
           "Nuclear power contributes nothing to reducing greenhouse gas emissions.",
-          "Safety concerns and radioactive waste play no part in EU nuclear policy debates.",
+          "Safety concerns and radioactive waste play no part in EU nuclear energy policy debates.",
           "Diverging national policies on nuclear energy make EU-wide coordination difficult."
         ],
         "answer": 3,
@@ -1243,9 +1243,9 @@
         "passage": "8. Η πυρηνική ενέργεια παραμένει σημαντικό στοιχείο του ενεργειακού μείγματος της Ευρωπαϊκής Ένωσης, παρέχοντας ηλεκτρισμό χαμηλού άνθρακα σε αρκετά κράτη μέλη. Οι υποστηρικτές υποστηρίζουν ότι η πυρηνική ενέργεια ενισχύει την ενεργειακή ασφάλεια και βοηθά στη μείωση εκπομπών αερίων θερμοκηπίου, ενώ οι αντίπαλοι επισημαίνουν ανησυχίες για ραδιενεργά απόβλητα, ασφάλεια εγκαταστάσεων και υψηλό κόστος. Οι χώρες της ΕΕ ακολουθούν αποκλίνουσες πορείες: ορισμένες σχεδιάζουν να εγκαταλείψουν πλήρως την πυρηνική ενέργεια, ενώ άλλες σκοπεύουν να διατηρήσουν ή να επεκτείνουν την πυρηνική τους δυναμικότητα. Οι συντονισμένες στρατηγικές σε επίπεδο ΕΕ παραμένουν δύσκολες λόγω αυτών των εθνικών διαφορών.",
         "question": "Ποιο συμπέρασμα είναι πλέον ακριβές σύμφωνα με το κείμενο;",
         "options": [
-          "Κάθε κράτος μέλος της ΕΕ σχεδιάζει να επεκτείνει την πυρηνική του ικανότητα.",
-          "Η πυρηνική ενέργεια δεν συμβάλλει καθόλου στη μείωση εκπομπών αερίων θερμοκηπίου.",
-          "Οι ανησυχίες ασφάλειας και τα ραδιενεργά απόβλητα δεν παίζουν κανένα ρόλο στις συζητήσεις πολιτικής.",
+          "Τα περισσότερα κράτη μέλη της ΕΕ σχεδιάζουν να επεκτείνουν την πυρηνική τους ικανότητα.",
+          "Η πυρηνική ενέργεια δεν συμβάλλει στη μείωση εκπομπών αερίων θερμοκηπίου.",
+          "Οι ανησυχίες ασφάλειας και τα ραδιενεργά απόβλητα δεν παίζουν κανένα ρόλο στις συζητήσεις ενεργειακής πολιτικής.",
           "Οι αποκλίνουσες εθνικές πολιτικές για την πυρηνική ενέργεια δυσχεραίνουν τον συντονισμό σε επίπεδο ΕΕ."
         ],
         "answer": 3,
