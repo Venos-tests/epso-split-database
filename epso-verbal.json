@@ -582,7 +582,7 @@
           "Focusing solely on the 30% increase while disregarding the 70% who did not participate",
           "Overestimating senior citizens' capacity to learn new digital skills",
           "Assuming that an approach successful in one context will succeed elsewhere without accounting for differing conditions",
-          "Ignoring the fact that e-government services are becoming increasingly complex"
+          "Ignoring the dynamic nature of the e-government services whiach are becoming increasingly complex"
         ],
         "answer": 2,
         "explanation": "The policymakers assume identical outcomes without considering the infrastructural differences between the two member states."
@@ -594,10 +594,10 @@
           "Η εστίαση μόνο στην αύξηση 30% αγνοώντας το 70% που δεν συμμετείχε",
           "Η υπερεκτίμηση της ικανότητας των ηλικιωμένων να μάθουν νέες ψηφιακές δεξιότητες",
           "Η υπόθεση ότι μια προσέγγιση επιτυχής σε ένα πλαίσιο θα πετύχει και αλλού χωρίς να ληφθούν υπόψη διαφορετικές συνθήκες",
-          "Η αγνόηση του γεγονότος ότι οι υπηρεσίες ηλεκτρονικής διακυβέρνησης γίνονται ολοένα πιο περίπλοκες"
+          "Η αγνόηση της δυναμικής φύσης των υπηρεσιών ηλεκτρονικής διακυβέρνησης οι οποίες γίνονται ολοένα πιο περίπλοκες"
         ],
         "answer": 2,
-        "explanation": "Οι υπεύθυνοι υποθέτουν πανομοιότυπα αποτελέσματα χωρίς να υπολογίζουν τις υποδομικές διαφορές μεταξύ των δύο κρατών μελών."
+        "explanation": "Οι υπεύθυνοι υποθέτουν πανομοιότυπα αποτελέσματα χωρίς να υπολογίζουν τις διαφορές στις υπάρχουσες υποδομές μεταξύ των δύο κρατών μελών."
       }
     },
     {
@@ -632,76 +632,76 @@
         "question": "Which sector is considered most vulnerable to AI-driven job automation, according to the passage?",
         "options": [
           "Healthcare",
-          "Retail",
+          "Building sector",
           "Creative arts",
           "Renewable energy engineering"
         ],
         "answer": 1,
-        "explanation": "The passage explicitly lists retail (with construction and logistics) as facing high automation risk."
+        "explanation": "The passage explicitly lists construction (with retail and logistics) as facing high automation risk."
       },
       "el": {
-        "passage": "5. Η τεχνητή νοημοσύνη αναμένεται να μεταμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας. Οι εκτιμήσεις δείχνουν ότι το 22–30% των σημερινών θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στις κατασκευές, την εφοδιαστική και το λιανικό εμπόριο. Η ΕΕ προωθεί μια ανθρωποκεντρική προσέγγιση στην AI, με στόχο την αύξηση της παραγωγικότητας διαφυλάσσοντας παράλληλα τα δικαιώματα των εργαζομένων.",
+        "passage": "5. Η τεχνητή νοημοσύνη αναμένεται να μεταμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας. Οι εκτιμήσεις δείχνουν ότι το 22–30% των σημερινών θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στις κατασκευές, τα Logistics και το λιανικό εμπόριο. Η ΕΕ προωθεί μια ανθρωποκεντρική προσέγγιση στην AI, με στόχο την αύξηση της παραγωγικότητας διαφυλάσσοντας παράλληλα τα δικαιώματα των εργαζομένων.",
         "question": "Ποιος τομέας θεωρείται ο πλέον ευάλωτος στην αυτοματοποίηση θέσεων εργασίας λόγω AI, σύμφωνα με το κείμενο;",
         "options": [
           "Υγειονομική περίθαλψη",
-          "Λιανικό εμπόριο",
+          "Eφοδιαστική αλυσιδα",
           "Δημιουργικές τέχνες",
           "Μηχανική ανανεώσιμων πηγών ενέργειας"
         ],
         "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ρητά το λιανικό εμπόριο (μαζί με τις κατασκευές και την εφοδιαστική) ως τομέα υψηλού κινδύνου."
+        "explanation": "Το κείμενο αναφέρει ρητά την εφοδιαστική (logistics), μαζί με τις κατασκευές και το λιανικό εμπόριο, ως τομέα υψηλού κινδύνου."
       }
     },
     {
       "en": {
-        "passage": "6. The Digital Services Act and the Digital Markets Act are designed to guarantee fair competition and accountability online within the EU. At the same time, the EU promotes technological sovereignty, seeking to lower its reliance on non-European technology conglomerates.",
-        "question": "Which EU legal framework is aimed at regulating online platforms and ensuring fair digital markets, according to the passage?",
+        "passage": "6. The rapid rise of high-risk artificial intelligence systems in the EU Single Market has triggered intensive regulatory scrutiny. While the new AI Act establishes strict transparency mandates and risk protocols, small and medium-sized enterprises (SMEs) worry about compliance costs. Proponents argue that rigorous oversight safeguards fundamental rights and consumer safety without stifling core innovation. Conversely, critics contend that rigid enforcement and vague definitions of 'systemic risk' may disadvantage European startups compared to global rivals in less restrictive regions. Ultimately, the regulatory framework's success depends on harmonised implementation across member states—a process historically complicated by divergent national enforcement priorities and resource disparities",
+        "question": "Based strictly on the passage, which of the following statements can be validly deduced?",
         "options": [
-          "The Digital Competence Framework",
-          "The General Data Protection Regulation",
-          "The Digital Services Act and the Digital Markets Act",
-          "The European Green Deal"
+          "European startups are guaranteed to lose their global market share because of the ambiguous definition of systemic risk.",
+          "The harmonised implementation of the regulatory framework is vulnerable to obstacles arising from historical differences in national enforcement priorities and resource allocation",
+          "SMEs are completely exempt from compliance burdens under the new legislation to protect them from foreign competition.",
+          "Proponents of the AI Act believe that fundamental rights and consumer safety can only be fully safeguarded if baseline innovation is temporarily halted."
         ],
-        "answer": 2,
-        "explanation": "The passage explicitly links the DSA and DMA to fair competition and accountability online."
+        "answer": 1,
+        "explanation": "Option B is correct because it is a direct logical paraphrase of the final sentence of the passage regarding the challenges of harmonised implementation. Option A is incorrect because the passage states startups 'may' be disadvantaged, not that they are 'guaranteed'. Option C contradicts the text, as SMEs worry about costs, implying they are subject to them. Option D contradicts the text, which states oversight occurs 'without stifling core innovation'."
       },
       "el": {
-        "passage": "6. Η Πράξη για τις Ψηφιακές Υπηρεσίες και η Πράξη για τις Ψηφιακές Αγορές έχουν σχεδιαστεί ώστε να διασφαλίζουν θεμιτό ανταγωνισμό και λογοδοσία στο διαδίκτυο εντός της ΕΕ. Ταυτόχρονα, η ΕΕ προωθεί την τεχνολογική κυριαρχία, επιδιώκοντας να μειώσει την εξάρτησή της από μη ευρωπαϊκούς τεχνολογικούς ομίλους.",
-        "question": "Ποιο νομοθετικό πλαίσιο της ΕΕ στοχεύει στη ρύθμιση των διαδικτυακών πλατφορμών και τη διασφάλιση δίκαιων ψηφιακών αγορών, σύμφωνα με το κείμενο;",
+        "passage": "6. Η ταχεία άνοδος συστημάτων τεχνητής νοημοσύνης υψηλού κινδύνου στην ενιαία αγορά της ΕΕ έχει προκαλέσει αυστηρό ρυθμιστικό έλεγχο. Ενώ ο νέος νόμος για την τεχνητή νοημοσύνη θέτει αυστηρά πρωτόκολλα διαφάνειας και κινδύνου, οι ΜΜΕ ανησυχούν για τα κόστη συμμόρφωσης. Οι υποστηρικτές υποστηρίζουν ότι η εποπτεία διαφυλάσσει τα δικαιώματα και την ασφάλεια χωρίς να καταπνίγει την καινοτομία. Αντίθετα, οι επικριτές θεωρούν ότι οι άκαμπτοι μηχανισμοί και η ασάφεια του «συστημικού κινδύνου» ενδέχεται να βλάψουν τις ευρωπαϊκές startups έναντι ξένων ανταγωνιστών. Τελικά, η επιτυχία του πλαισίου εξαρτάται από την εναρμονισμένη εφαρμογή στα κράτη μέλη — μια διαδικασία που ιστορικά περιπλέκεται από αποκλίνουσες εθνικές προτεραιότητες και ανισότητες πόρων",
+        "question": "Με βάση το κείμενο, ποιος από τους παρακάτω ισχυρισμούς μπορεί να συναχθεί έγκυρα;",
         "options": [
-          "Το Πλαίσιο Ψηφιακών Ικανοτήτων",
-          "Ο Γενικός Κανονισμός για την Προστασία Δεδομένων",
-          "Η Πράξη για τις Ψηφιακές Υπηρεσίες και η Πράξη για τις Ψηφιακές Αγορές",
-          "Η Ευρωπαϊκή Πράσινη Συμφωνία"
+          "Οι ευρωπαϊκές startups είναι δεδομένο ότι θα χάσουν το παγκόσμιο μερίδιο αγοράς τους λόγω του ασαφούς ορισμού του συστημικού κινδύνου.",
+          "Η εναρμονισμένη εφαρμογή του ρυθμιστικού πλαισίου είναι ευάλωτη σε εμπόδια που πηγάζουν από ιστορικές διαφορές στις εθνικές προτεραιότητες επιβολής και στη διάθεση πόρων.",
+          "Οι ΜΜΕ εξαιρούνται πλήρως από τα βάρη συμμόρφωσης βάσει της νέας νομοθεσίας για να προστατευθούν από τον ξένο ανταγωνισμό.",
+          "Οι υποστηρικτές του νόμου για την τεχνητή νοημοσύνη πιστεύουν ότι τα θεμελιώδη δικαιώματα διασφαλίζονται πλήρως μόνο εάν η βασική καινοτομία σταματήσει προσωρινά."
         ],
-        "answer": 2,
-        "explanation": "Το κείμενο συνδέει ρητά τις DSA και DMA με τον θεμιτό ανταγωνισμό και τη λογοδοσία στο διαδίκτυο."
+        "answer": 1,
+        "explanation": "Η επιλογή Β είναι σωστή επειδή αποτελεί ακριβή λογική απόδοση της τελευταίας πρότασης. Η επιλογή Α είναι λανθασμένη γιατί το κείμενο αναφέρει ότι οι startups «ενδέχεται» να βρεθούν σε μειονεκτική θέση, όχι ότι είναι «εγγυημένο». Η επιλογή Γ είναι αντίθετη με το κείμενο (οι ΜΜΕ ανησυχούν για τα κόστη). Η επιλογή Δ έρχεται σε ρήξη με το κείμενο, το οποίο δηλώνει ότι η εποπτεία γίνεται «χωρίς να καταπνίγεται η καινοτομία."
       }
     },
     {
       "en": {
-        "passage": "7. The European Wars of Religion (16th–17th centuries) reflected a volatile blend of theological conflict and political opportunism. The eventual Peace of Westphalia in 1648 cemented the principle of state sovereignty and curtailed papal influence over temporal affairs.",
-        "question": "Which lasting principle did the Peace of Westphalia help to institutionalise?",
+        "passage": "7. The 1648 Peace of Westphalia fundamentally restructured the European political landscape, marking the historical transition from medieval universalism to the modern system of sovereign nation-states. By formally concluding the devastating Wars of Religion, the treaties of Münster and Osnabrück effectively dismantled the overlapping authorities of the Holy Roman Empire and the Papacy over secular affairs. The institutionalisation of the principle granting sovereign rulers the exclusive authority to determine their territory's official religion concurrently introduced nascent protections for religious minorities. This paradigm shift permanently divorced political legitimacy from theological orthodoxy, establishing state sovereignty and non-interference as the twin pillars of international public law. Consequently, Westphalia laid the indispensable structural groundwork for contemporary European diplomacy, wherein sovereign states eventually paved the path toward modern multi-level integration.",
+        "question": "According to the passage, what was the primary systemic consequence of the Peace of Westphalia regarding political authority?",
         "options": [
-          "The subordination of state policy to church authority",
-          "The legal recognition of state sovereignty over religious affairs",
-          "The concept of supranational religious governance",
-          "The divine right of kings as a safeguard against religious extremism"
+          "The complete eradication of religious conflicts across Europe through the immediate enforcement of universal secularism.",
+          "The permanent separation of political legitimacy from theological orthodoxy, anchoring state sovereignty and non-interference as foundational legal norms.",
+          "The establishment of a supranational European federation designed to supersede national monarchies and papal authority",
+          "The total subordination of regional princes to the centralized legislative authority of the Holy Roman Emperor."
         ],
         "answer": 1,
-        "explanation": "The passage states the Peace \"cemented the principle of state sovereignty and curtailed papal influence.\""
+        "explanation": "Option B is correct because the passage explicitly states that the shift permanently divorced political legitimacy from theological orthodoxy, establishing state sovereignty and non-interference as the twin pillars of international public law.' Option A is incorrect as religious conflicts did not instantly vanish and universal secularism was not enforced. Option C is anachronistic (no federation was created). D contradicts the text, which states the treaties dismantled the overlapping authorities of the Empire."
       },
       "el": {
-        "passage": "7. Οι Ευρωπαϊκοί Θρησκευτικοί Πόλεμοι (16ος–17ος αιώνας) αντανακλούσαν ένα ασταθές μείγμα θεολογικής σύγκρουσης και πολιτικού καιροσκοπισμού. Η τελική Ειρήνη της Βεστφαλίας το 1648 εδραίωσε την αρχή της κρατικής κυριαρχίας και περιόρισε την παπική επιρροή στις κοσμικές υποθέσεις.",
-        "question": "Ποια διαρκή αρχή βοήθησε να θεσμοθετηθεί η Ειρήνη της Βεστφαλίας;",
+        "passage": "7. Η Ειρήνη της Βεστφαλίας το 1648 αναδιάρθρωσε θεμελιωδώς το ευρωπαϊκό πολιτικό τοπίο, σηματοδοτώντας την ιστορική μετάβαση από τον μεσαιωνικό οικουμενισμό στο σύγχρονο σύστημα κυρίαρχων εθνικών κρατών. Ολοκληρώνοντας τυπικά τους καταστροφικούς Θρησκευτικούς Πολέμους, οι συνθήκες του Μύνστερ και του Οσναμπρύκ αποδόμησαν αποτελεσματικά τις επικαλυπτόμενες εξουσίες της Αγίας Ρωμαϊκής Αυτοκρατορίας και του Παπείου επί των κοσμικών υποθέσεων. Η θεσμοθέτηση της αρχής που παρείχε στους ηγεμόνες την αποκλειστική εξουσία καθορισμού της επίσημης θρησκείας εισήγαγε παράλληλα προστασία για τις θρησκευτικές μειονότητες. Αυτή η αλλαγή υποδείγματος αποσύνδεσε οριστικά την πολιτική νομιμότητα από τη θεολογική ορθοδοξία, καθιερώνοντας την κρατική κυριαρχία και τη μη επέμβαση ως τους δίδυμους πυλώνες του διεθνούς δικαίου. Συνεπώς, η Βεστφαλία έθεσε τα θεμέλια της σύγχρονης ευρωπαϊκής διπλωματίας, όπου τα κυρίαρχα κράτη άνοιξαν τελικά τον δρόμο προς τη σύγχρονη πολυεπίπεδη ολοκλήρωση.",
+        "question": "Σύμφωνα με το κείμενο, ποια ήταν η κύρια συστημική συνέπεια της Ειρήνης της Βεστφαλίας σε σχέση με την πολιτική εξουσία;;",
         "options": [
-          "Η υποταγή της κρατικής πολιτικής στην εκκλησιαστική εξουσία",
-          "Η νομική αναγνώριση της κρατικής κυριαρχίας επί των θρησκευτικών υποθέσεων",
-          "Η έννοια της υπερεθνικής θρησκευτικής διακυβέρνησης",
-          "Το θείο δικαίωμα των βασιλέων ως προστασία έναντι του θρησκευτικού εξτρεμισμού"
+          "Η πλήρης εξάλειψη των θρησκευτικών συγκρούσεων στην Ευρώπη μέσω της άμεσης επιβολής καθολικού κοσμικού κράτους.",
+          "Η οριστική αποσύνδεση της πολιτικής νομιμότητας από τη θεολογική ορθοδοξία, εδραιώνοντας την κρατική κυριαρχία και τη μη επέμβαση ως θεμελιώδεις νομικούς κανόνες.ν",
+          "Η ίδρυση μιας υπερεθνικής ευρωπαϊκής ομοσπονδίας που προοριζόταν να αντικαταστήσει τις εθνικές μοναρχίες και την παπική εξουσία.",
+          "Η πλήρης υποταγή των περιφερειακών ηγεμόνων στην κεντρική νομοθετική εξουσία του Αγίου Ρωμαίου Αυτοκράτορα."
         ],
         "answer": 1,
-        "explanation": "Το κείμενο αναφέρει ότι η Ειρήνη «εδραίωσε την αρχή της κρατικής κυριαρχίας και περιόρισε την παπική επιρροή»."
+        "explanation": "Η επιλογή Β είναι σωστή διότι το κείμενο αναφέρει ρητά ότι η αλλαγή αυτή «αποσύνδεσε οριστικά την πολιτική νομιμότητα από τη θεολογική ορθοδοξία, καθιερώνοντας την κρατική κυριαρχία και τη μη επέμβαση». Η επιλογή Α είναι λανθασμένη (οι συγκρούσεις δεν εξαφανίστηκαν μαγικά ούτε επιβλήθηκε κοσμικό κράτος). Η επιλογή Γ είναι αναχρονιστική. Η επιλογή Δ έρχεται σε ευθεία αντίθεση με το κείμενο που αναφέρει την αποδόμηση των εξουσιών της Αυτοκρατορίας."
       }
     },
     {
