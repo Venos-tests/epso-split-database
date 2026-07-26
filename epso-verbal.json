@@ -1572,20 +1572,20 @@
         "question": "Which of the following statements is correct?",
         "options": [
           "Farmers in every European country are required to protect the natural environment under the CAP.",
-          "The main driver of the CAP has always been improving the efficiency of food production.",
-          "The CAP is an effective mechanism for sharing knowledge and best practice across the EU.",
+          "The main driver of the CAP has always been improving the efficiency of food production and sustaining the agro-environment.",
+          "The CAP is an effective mechanism for sharing agricultural knowledge and best practice across the EU.",
           "The operations and approach of the CAP have evolved to view farming and its impact more holistically."
         ],
         "answer": 3,
         "explanation": "The passage explains that the CAP has changed from a policy associated with overproduction to a more balanced approach emphasising food safety, animal welfare, and rural community needs — a holistic evolution. Options A, B, and C are not supported by the text."
       },
       "el": {
-        "passage": "1. Η ΕΕ διοχετεύει σημαντικό μέρος της χρηματοδότησης για περιβαλλοντική προστασία στους αγρότες, τόσο επειδή η Κοινή Αγροτική Πολιτική (ΚΑΠ) είναι από τις παλαιότερες και πιο ολοκληρωμένες πολιτικές της ΕΕ όσο και επειδή οι αγρότες είναι απαραίτητοι για την παραγωγή τροφίμων και τη διατήρηση αγροτικών τοπίων. Η ΚΑΠ, ωστόσο, έχει αλλάξει σημαντικά από την παλαιότερη φήμη της ως μέσο ενθάρρυνσης υπερπαραγωγής. Οι τρέχουσες μεταρρυθμίσεις προωθούν πιο ισορροπημένη προσέγγιση με έμφαση στην ποιότητα και ασφάλεια τροφίμων, την καλή διαβίωση των ζώων και τις ανάγκες των αγροτικών κοινοτήτων.",
+        "passage": "1. Η ΕΕ διοχετεύει σημαντικό μέρος της χρηματοδότησης για περιβαλλοντική προστασία στους αγρότες, τόσο επειδή η Κοινή Αγροτική Πολιτική (ΚΑΠ) είναι από τις παλαιότερες και πιο ολοκληρωμένες πολιτικές της ΕΕ όσο και επειδή οι αγρότες είναι απαραίτητοι για την παραγωγή τροφίμων και τη διατήρηση αγροτικών περιοχών. Η ΚΑΠ, ωστόσο, έχει αλλάξει σημαντικά από την παλαιότερη φήμη της ως μέσο ενθάρρυνσης αυξημένης παραγωγής. Οι τρέχουσες μεταρρυθμίσεις προωθούν πιο ισορροπημένη προσέγγιση με έμφαση στην ποιότητα και ασφάλεια τροφίμων, την καλή διαβίωση των ζώων και τις ανάγκες των αγροτικών κοινοτήτων.",
         "question": "Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
           "Οι αγρότες σε κάθε ευρωπαϊκή χώρα υποχρεούνται να προστατεύουν το φυσικό περιβάλλον βάσει της ΚΑΠ.",
-          "Ο κύριος μοχλός της ΚΑΠ ήταν πάντα η βελτίωση της αποδοτικότητας παραγωγής τροφίμων.",
-          "Η ΚΑΠ είναι αποτελεσματικός μηχανισμός ανταλλαγής γνώσεων σε όλη την ΕΕ.",
+          "Ο κύριος μοχλός της ΚΑΠ ήταν πάντα η βελτίωση της αποδοτικότητας παραγωγής τροφίμων και διαφύλαξης του περιβάλλοντος.",
+          "Η ΚΑΠ είναι αποτελεσματικός μηχανισμός ανταλλαγής αγροτικών γνώσεων και βέλτιστων πρακτικών σε όλη την ΕΕ.",
           "Οι λειτουργίες και η προσέγγιση της ΚΑΠ έχουν εξελιχθεί ώστε να αντιμετωπίζουν τη γεωργία πιο ολιστικά."
         ],
         "answer": 3,
@@ -1597,22 +1597,22 @@
         "passage": "2. Mario Draghi has repeatedly urged the European Union to rethink its regulatory culture. He argues that although rules are meant to protect citizens and ensure fair competition, they often become fixed too quickly, especially in fast-moving fields such as artificial intelligence, biotechnology, and digital finance. Over time, what once offered clarity can turn into a barrier to innovation. Draghi warns that the EU risks falling behind the United States and China, where looser frameworks allow faster technological adoption. For Europe, he suggests, the challenge is to stay protective without becoming paralysing.",
         "question": "According to the passage, Draghi believes that:",
         "options": [
-          "The EU already outpaces the US and China in technological adoption.",
+          "The EU currently outpaces the US and China in technological adoption.",
           "Regulations can lose relevance over time and hinder technological innovation.",
-          "Looser regulatory frameworks in the US and China damage innovation.",
+          "Looser regulatory frameworks in the US and China damage European innovation.",
           "Strict regulation is essential for Europe to catch up with the US and China."
         ],
         "answer": 1,
         "explanation": "The passage states regulations 'become fixed too quickly' and can turn into 'a barrier to innovation'. Option A is directly contradicted. Option C contradicts the passage, which presents looser frameworks as enabling faster adoption. Option D is the opposite of his view."
       },
       "el": {
-        "passage": "2. Ο Μάριο Ντράγκι έχει επανειλημμένα καλέσει την Ευρωπαϊκή Ένωση να επανεξετάσει τη ρυθμιστική της κουλτούρα. Υποστηρίζει ότι, αν και οι κανόνες αποσκοπούν στην προστασία των πολιτών και τον θεμιτό ανταγωνισμό, συχνά παγιώνονται πολύ γρήγορα, ιδίως σε ταχέως εξελισσόμενους τομείς όπως η τεχνητή νοημοσύνη, η βιοτεχνολογία και η ψηφιακή χρηματοδότηση. Με τον καιρό, αυτό που κάποτε παρείχε σαφήνεια μπορεί να γίνει εμπόδιο στην καινοτομία. Ο Ντράγκι προειδοποιεί ότι η ΕΕ κινδυνεύει να μείνει πίσω από τις ΗΠΑ και την Κίνα, όπου πιο χαλαρά πλαίσια επιτρέπουν ταχύτερη τεχνολογική υιοθέτηση.",
+        "passage": "2. Ο Μάριο Ντράγκι έχει επανειλημμένα καλέσει την Ευρωπαϊκή Ένωση να επανεξετάσει τη ρυθμιστική της κουλτούρα. Υποστηρίζει ότι, αν και οι κανόνες αποσκοπούν στην προστασία των πολιτών και τον θεμιτό ανταγωνισμό, συχνά παγιώνονται πολύ γρήγορα, ιδίως σε ταχέως εξελισσόμενους τομείς όπως η τεχνητή νοημοσύνη, η βιοτεχνολογία και η ψηφιακή χρηματοδότηση. Με τον καιρό, αυτό που κάποτε παρείχε σαφήνεια μπορεί να γίνει εμπόδιο στην καινοτομία. Ο Ντράγκι προειδοποιεί ότι η ΕΕ κινδυνεύει να μείνει πίσω από τις ΗΠΑ και την Κίνα, όπου πιο χαλαρά ρυθμιστικά πλαίσια επιτρέπουν ταχύτερη υιοθέτηση νέων τεχνολογιών. Κατ' αυτόν, το στοίχημα για την ΕΕ είναι να παραμείνει προστατευτική χωρίς όμως να παραλύσει.",
         "question": "Σύμφωνα με το κείμενο, ο Ντράγκι πιστεύει ότι:",
         "options": [
-          "Η ΕΕ ήδη υπερτερεί των ΗΠΑ και της Κίνας στην τεχνολογική υιοθέτηση.",
+          "Η ΕΕ αυτή τη στιγμή υπερτερεί των ΗΠΑ και της Κίνας στην τεχνολογική υιοθέτηση.",
           "Οι κανονισμοί μπορεί να χάσουν τη συνάφειά τους με τον καιρό και να εμποδίσουν την τεχνολογική καινοτομία.",
-          "Τα πιο χαλαρά ρυθμιστικά πλαίσια στις ΗΠΑ και την Κίνα βλάπτουν την καινοτομία.",
-          "Η αυστηρή ρύθμιση είναι απαραίτητη ώστε η Ευρώπη να φτάσει τις ΗΠΑ και την Κίνα."
+          "Τα πιο χαλαρά ρυθμιστικά πλαίσια στις ΗΠΑ και την Κίνα βλάπτουν την Ευρωπαική καινοτομία.",
+          "Η αυστηρή ρύθμιση σε τομείς αιχμής είναι απαραίτητη ώστε η Ευρώπη να φτάσει τις ΗΠΑ και την Κίνα."
         ],
         "answer": 1,
         "explanation": "Το κείμενο δηλώνει ότι οι κανονισμοί «παγιώνονται πολύ γρήγορα» και μπορούν να γίνουν «εμπόδιο στην καινοτομία». Η Α αντικρούεται ρητά. Η Γ αντιφάσκει με το κείμενο. Η Δ αντιτίθεται στην άποψή του."
@@ -1638,7 +1638,7 @@
           "Η ενέργεια βιομάζας προέρχεται αποκλειστικά από ξυλεία και ενεργειακές καλλιέργειες.",
           "Η βιομάζα είναι σήμερα η κορυφαία πηγή ανανεώσιμης ενέργειας παγκοσμίως.",
           "Η βιομάζα αντιπροσωπεύει περισσότερο από το μισό της παγκόσμιας κατανάλωσης ενέργειας.",
-          "Η χρήση βιομάζας αναμένεται να μειωθεί καθώς βελτιώνεται η ηλιακή τεχνολογία."
+          "Η χρήση βιομάζας αναμένεται να μειωθεί καθώς θα βελτιώνεται η ηλιακή τεχνολογία."
         ],
         "answer": 2,
         "explanation": "Η μελέτη δηλώνει ότι το 55% της παγκόσμιας ενέργειας προέρχεται από βιομάζα. Η Β είναι λάθος καθώς η βιομάζα είναι η 2η μεγαλύτερη πηγή. Η Δ έρχεται σε αντίθεση με την πρόβλεψη διπλασιασμού. Η Α είναι λάθος γιατί η βιομάζα περιλαμβάνει και γεωργία."
@@ -1649,10 +1649,10 @@
         "passage": "4. There are 42,000 road deaths per year in Europe, a figure governments across Europe are working hard to reduce. At the same time, 58,000 deaths are attributed to air pollution. In both cases, children, particularly those in urban areas, are most vulnerable. Many European cities are already working to promote alternative transport: providing efficient public transport, offering incentives for environmentally friendly cars, and returning city centres to pedestrians. Mobility Week is an event where cities present new initiatives and observe what others are doing. It focuses on the benefits of sustainable transport and policies that improve air quality, reduce noise, and enhance quality of life.",
         "question": "Based on the text, what can be inferred about the strategic role of Mobility Week in European urban policy?",
         "options": [
-          "Its main purpose is to provide direct financial incentives for buying environmentally friendly vehicles.",
+          "Its main purpose is to provide direct financial incentives for buying environmentally friendly and safer vehicles.",
           "It functions as a platform for knowledge exchange and the promotion of holistic urban sustainability measures.",
-          "It serves as a regulatory body imposing fines on cities with high pollution levels.",
-          "It is designed exclusively to benefit children by eliminating road traffic for that week."
+          "It serves as a regulatory body imposing fines on cities with high pollution levels or cities not promoting alternative transport.",
+          "It is designed exclusively to benefit vulnerable children by eliminating road traffic for that week."
         ],
         "answer": 1,
         "explanation": "The text describes Mobility Week as an event where cities 'present new initiatives and observe what others are doing' and highlights its focus on sustainable transport and air quality. Option A misrepresents the text. Option C is not supported. Option D introduces a limitation not found in the text."
@@ -1661,10 +1661,10 @@
         "passage": "4. Υπάρχουν 42.000 θάνατοι σε τροχαία ατυχήματα ετησίως στην Ευρώπη, αριθμός που οι κυβερνήσεις προσπαθούν να μειώσουν. Ταυτόχρονα, 58.000 θάνατοι αποδίδονται στην ατμοσφαιρική ρύπανση. Και στις δύο περιπτώσεις, τα παιδιά σε αστικές περιοχές είναι τα πιο ευάλωτα. Πολλές ευρωπαϊκές πόλεις προωθούν ήδη εναλλακτικά μέσα μεταφοράς: παρέχουν αποδοτικές δημόσιες συγκοινωνίες, προσφέρουν κίνητρα για φιλικά αυτοκίνητα και επιστρέφουν τα κέντρα στους πεζούς. Η Εβδομάδα Κινητικότητας είναι μια εκδήλωση όπου οι πόλεις παρουσιάζουν νέες πρωτοβουλίες και παρατηρούν τι κάνουν άλλες. Εστιάζει στα οφέλη των βιώσιμων μεταφορών και πολιτικών που βελτιώνουν την ποιότητα αέρα, μειώνουν τον θόρυβο και ενισχύουν την ποιότητα ζωής.",
         "question": "Βάσει του κειμένου, τι μπορεί να συναχθεί για τον στρατηγικό ρόλο της Εβδομάδας Κινητικότητας;",
         "options": [
-          "Κύριος σκοπός της είναι η παροχή άμεσων οικονομικών κινήτρων για αγορά φιλικών οχημάτων.",
+          "Κύριος σκοπός της είναι η παροχή άμεσων οικονομικών κινήτρων για αγορά φιλικών και ασφαλών οχημάτων.",
           "Λειτουργεί ως πλατφόρμα ανταλλαγής γνώσεων και προώθησης ολιστικών μέτρων αστικής βιωσιμότητας.",
-          "Λειτουργεί ως ρυθμιστικός φορέας επιβολής προστίμων σε πόλεις με υψηλή ρύπανση.",
-          "Έχει σχεδιαστεί αποκλειστικά προς όφελος παιδιών, εξαλείφοντας την κυκλοφορία εκείνη την εβδομάδα."
+          "Λειτουργεί ως ρυθμιστικός φορέας επιβολής προστίμων σε πόλεις με υψηλή ρύπανση και μη χρήση εναλλακτικών μέσων μεταφοράς.",
+          "Έχει σχεδιαστεί αποκλειστικά προς όφελος ευάλωτων παιδιών, μειώνοντας την οδική κυκλοφορία εκείνη την εβδομάδα."
         ],
         "answer": 1,
         "explanation": "Το κείμενο περιγράφει την Εβδομάδα Κινητικότητας ως εκδήλωση όπου οι πόλεις «παρουσιάζουν νέες πρωτοβουλίες και παρατηρούν τι κάνουν άλλες». Η Α παρερμηνεύει το κείμενο. Η Γ δεν υποστηρίζεται. Η Δ εισάγει περιορισμό που δεν υπάρχει στο κείμενο."
@@ -1675,10 +1675,10 @@
         "passage": "5. The EU faces a critical productivity challenge requiring extensive reforms and around €750 billion in annual investment across green, digital, research, and defence sectors — exceeding the entire Next Generation EU recovery fund. Beyond financing, successful implementation depends on strengthening administrative capacities, often hindered by skill shortages and bureaucratic hurdles. The EU budget, though limited to roughly 1% of GDP, remains a key investment source, notably through cohesion policy and the Recovery and Resilience Facility. However, managing overlapping investment instruments with differing rules has complicated governance, highlighting the need for strategic innovation and capacity building.",
         "question": "Which of the following best explains why strengthening administrative capacities matters alongside financial investment?",
         "options": [
-          "Administrative capacity eliminates the need for private investment.",
+          "Administrative capacity reduces the need for private investment.",
           "Abundant funding automatically guarantees successful project outcomes.",
           "Bureaucratic inefficiencies and skill shortages can delay or derail the implementation of reforms and investments.",
-          "Administrative capacity allows the EU to bypass national governments."
+          "Administrative capacity and strategic innovation allow the EU to bypass national governments."
         ],
         "answer": 2,
         "explanation": "The passage directly mentions that successful implementation hinges on administrative capacities, often hampered by skill shortages and bureaucratic hurdles, implying that without them reforms risk being delayed or failing. Options A, B, and D are not supported by the text."
@@ -1687,10 +1687,10 @@
         "passage": "5. Η ΕΕ αντιμετωπίζει κρίσιμη πρόκληση παραγωγικότητας που απαιτεί περίπου 750 δισεκατομμύρια ευρώ ετήσιων επενδύσεων σε πράσινους, ψηφιακούς, ερευνητικούς και αμυντικούς τομείς — ποσό που υπερβαίνει το σύνολο του NGEU. Πέραν της χρηματοδότησης, η επιτυχής εφαρμογή εξαρτάται από την ενίσχυση των διοικητικών ικανοτήτων, που συχνά δυσχεραίνονται από ελλείψεις δεξιοτήτων και γραφειοκρατικά εμπόδια. Ο προϋπολογισμός της ΕΕ, αν και περιορισμένος στο περίπου 1% του ΑΕΠ, παραμένει βασική πηγή επενδύσεων, κυρίως μέσω της πολιτικής συνοχής και του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας.",
         "question": "Ποιο από τα παρακάτω εξηγεί καλύτερα γιατί η ενίσχυση των διοικητικών ικανοτήτων είναι σημαντική παράλληλα με τις επενδύσεις;",
         "options": [
-          "Η διοικητική ικανότητα εξαλείφει την ανάγκη για ιδιωτικές επενδύσεις.",
+          "Η διοικητική ικανότητα μειώνει την ανάγκη για ιδιωτικές επενδύσεις.",
           "Η άφθονη χρηματοδότηση εγγυάται αυτόματα επιτυχείς εκβάσεις έργων.",
           "Οι γραφειοκρατικές αναποτελεσματικότητες και οι ελλείψεις δεξιοτήτων μπορούν να καθυστερήσουν ή να ανατρέψουν την εφαρμογή μεταρρυθμίσεων και επενδύσεων.",
-          "Η διοικητική ικανότητα επιτρέπει στην ΕΕ να παρακάμπτει τις εθνικές κυβερνήσεις."
+          "Η διοικητική ικανότητα, αποκατάσταση δεξιοτήτων και αντιμετώπιση γραφειοκρατικών εμποδίων επιτρέπει στην ΕΕ να παρακάμπτει τις εθνικές κυβερνήσεις."ελλείψεις δεξιοτήτων και γραφειοκρατικά εμπόδια
         ],
         "answer": 2,
         "explanation": "Το κείμενο αναφέρει ρητά ότι η επιτυχής εφαρμογή εξαρτάται από την ενίσχυση των διοικητικών ικανοτήτων. Οι επιλογές Α, Β και Δ δεν υποστηρίζονται από το κείμενο."
