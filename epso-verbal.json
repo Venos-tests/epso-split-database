@@ -1441,8 +1441,8 @@
         "options": [
           "The EU's aerospace programme focuses primarily on military applications.",
           "Collaboration among member states is central to Europe's competitiveness in aerospace technology.",
-          "The EU has abandoned efforts to reduce aviation's environmental impact.",
-          "Global competition has rendered EU aerospace initiatives unnecessary."
+          "Via initiatives such as Clean Sky and SESAR, the EU has completed successfully efforts to reduce aviation's environmental impact.",
+          "Global competition has undermined the importance of the EU aerospace initiatives."
         ],
         "answer": 1,
         "explanation": "The passage emphasises collaboration among member states as the mechanism for maintaining EU aerospace leadership. Option A is wrong because no military applications are mentioned. Option C is false because environmental goals are stated explicitly. Option D contradicts the passage, which presents competition as a reason to invest."
@@ -1453,8 +1453,8 @@
         "options": [
           "Το αεροδιαστημικό πρόγραμμα της ΕΕ επικεντρώνεται κυρίως σε στρατιωτικές εφαρμογές.",
           "Η συνεργασία μεταξύ κρατών μελών είναι κεντρική για την ανταγωνιστικότητα της Ευρώπης στην αεροδιαστημική τεχνολογία.",
-          "Η ΕΕ έχει εγκαταλείψει τις προσπάθειες μείωσης των περιβαλλοντικών επιπτώσεων της αεροπορίας.",
-          "Ο παγκόσμιος ανταγωνισμός έχει καταστήσει περιττές τις αεροδιαστημικές πρωτοβουλίες της ΕΕ."
+          "Μέσω πρωτοβουλιών όπως τα Clean Sky και SESAR, η ΕΕ έχει επιτύχει τις προσπάθειες μείωσης των περιβαλλοντικών επιπτώσεων της αεροπορίας.",
+          "Ο παγκόσμιος ανταγωνισμός έχει υπονομεύσει τη σημαντικότητα των αεροδιαστημικών πρωτοβουλιών της ΕΕ."
         ],
         "answer": 1,
         "explanation": "Το κείμενο τονίζει τη συνεργασία μεταξύ κρατών μελών ως τον μηχανισμό για τη διατήρηση της ηγεσίας. Η Α είναι εσφαλμένη διότι δεν αναφέρονται στρατιωτικές εφαρμογές. Η Γ είναι εσφαλμένη διότι οι περιβαλλοντικοί στόχοι αναφέρονται ρητά. Η Δ αντιφάσκει με το κείμενο."
@@ -1465,7 +1465,7 @@
         "passage": "17. Within the European Union, every officially recognised regional or minority language — of which there are over 60 across the bloc — is protected under the Charter for Regional or Minority Languages. However, not all protected languages hold the status of working languages within EU institutions. Certain working languages, such as Spanish or Italian, are also dominant national languages and are therefore not classified as minority tongues. Notably, no unrecognised language receives protection, although a few protected languages are spoken by relatively small communities. Furthermore, some minority cultures receive EU funding for preservation, but no culture receives such funding unless it is affiliated with a protected language community.",
         "question": "Based on the passage, which of the following statements must be true?",
         "options": [
-          "All unrecognised languages in the EU are spoken by large populations.",
+          "All recognised languages in the EU are spoken by large populations.",
           "Some working languages of the EU are neither protected nor classified as minority languages.",
           "No cultural group is eligible for EU funding unless its language is officially protected.",
           "All protected languages in the EU also hold the status of working languages of EU institutions."
@@ -1474,13 +1474,13 @@
         "explanation": "The passage states explicitly that no culture receives funding unless affiliated with a protected language community, directly supporting the correct option. Option D is wrong because not all protected languages are working languages. Option B is tempting but unsupported. Option A is unsupported by the text."
       },
       "el": {
-        "passage": "17. Εντός της Ευρωπαϊκής Ένωσης, κάθε επίσημα αναγνωρισμένη περιφερειακή ή μειονοτική γλώσσα — και υπάρχουν πάνω από 60 σε ολόκληρη την Ένωση — προστατεύεται βάσει του Χάρτη Περιφερειακών ή Μειονοτικών Γλωσσών. Ωστόσο, δεν αποκτούν όλες καθεστώς εργαζόμενης γλώσσας στα θεσμικά όργανα της ΕΕ. Ορισμένες εργαζόμενες γλώσσες, όπως η ισπανική ή η ιταλική, είναι επίσης κυρίαρχες εθνικές γλώσσες και επομένως δεν κατατάσσονται ως μειονοτικές. Αξιοσημείωτα, καμία μη αναγνωρισμένη γλώσσα δεν προστατεύεται, αν και ορισμένες προστατευόμενες ομιλούνται από σχετικά μικρές κοινότητες. Επιπλέον, ορισμένοι πολιτισμοί λαμβάνουν χρηματοδότηση από την ΕΕ για διατήρηση, αλλά κανένας πολιτισμός δεν λαμβάνει τέτοια χρηματοδότηση αν δεν συνδέεται με προστατευόμενη γλωσσική κοινότητα.",
+        "passage": "17. Εντός της Ευρωπαϊκής Ένωσης, κάθε επίσημα αναγνωρισμένη περιφερειακή ή μειονοτική γλώσσα — και υπάρχουν πάνω από 60 σε ολόκληρη την Ένωση — προστατεύεται βάσει του Χάρτη Περιφερειακών ή Μειονοτικών Γλωσσών. Ωστόσο, δεν αποκτούν όλες καθεστώς γλώσσας εργασίας στα θεσμικά όργανα της ΕΕ. Ορισμένες γλώσσες εργασίας, όπως η ισπανική ή η ιταλική, είναι επίσης κυρίαρχες εθνικές γλώσσες και επομένως δεν κατατάσσονται ως μειονοτικές. Αξιοσημείωτα, καμία μη αναγνωρισμένη γλώσσα δεν προστατεύεται, αν και ορισμένες προστατευόμενες ομιλούνται από σχετικά μικρές κοινότητες. Επιπλέον, ορισμένοι πολιτισμοί λαμβάνουν χρηματοδότηση από την ΕΕ για διατήρηση, αλλά κανένας πολιτισμός δεν λαμβάνει τέτοια χρηματοδότηση αν δεν συνδέεται με προστατευόμενη γλωσσική κοινότητα.",
         "question": "Βάσει του κειμένου, ποια από τις ακόλουθες δηλώσεις πρέπει να είναι αληθής;",
         "options": [
-          "Όλες οι μη αναγνωρισμένες γλώσσες στην ΕΕ ομιλούνται από μεγάλους πληθυσμούς.",
-          "Ορισμένες εργαζόμενες γλώσσες της ΕΕ δεν είναι ούτε προστατευόμενες ούτε κατηγοριοποιούνται ως μειονοτικές.",
+          "Όλες οι αναγνωρισμένες γλώσσες στην ΕΕ ομιλούνται από μεγάλους πληθυσμούς.",
+          "Ορισμένες γλώσσες εργασίας της ΕΕ δεν είναι προστατευόμενες και δεν κατηγοριοποιούνται ως μειονοτικές.",
           "Καμία πολιτισμική ομάδα δεν δικαιούται χρηματοδότηση από την ΕΕ εκτός εάν η γλώσσα της είναι επίσημα προστατευόμενη.",
-          "Όλες οι προστατευόμενες γλώσσες στην ΕΕ κατέχουν επίσης καθεστώς εργαζόμενης γλώσσας των θεσμικών οργάνων."
+          "Όλες οι προστατευόμενες γλώσσες στην ΕΕ κατέχουν επίσης καθεστώς γλώσσας εργασίας των θεσμικών οργάνων."
         ],
         "answer": 2,
         "explanation": "Το κείμενο δηλώνει ρητά ότι κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με προστατευόμενη γλωσσική κοινότητα. Η Δ είναι εσφαλμένη. Η Β είναι παραπλανητική αλλά δεν τεκμηριώνεται. Η Α δεν υποστηρίζεται από το κείμενο."
@@ -1518,7 +1518,7 @@
         "question": "Which of the following can most reasonably be inferred from the passage?",
         "options": [
           "Firms that adopt e-learning typically abandon all forms of traditional training.",
-          "E-learning's effectiveness depends mainly on the learner's access to a personal computer.",
+          "E-learning's effectiveness depends mainly on the learners' access to advanced personal computers.",
           "E-learning programmes are designed chiefly to replace leadership development programmes.",
           "Budget pressures have prompted firms to explore more economical alternatives to traditional training."
         ],
@@ -1526,11 +1526,11 @@
         "explanation": "The passage links reduced budgets with the adoption of cost-effective e-learning alternatives. Option A is an overgeneralisation: the passage uses 'alternative', not 'replacement'. Option B is unsupported. Option C is wrong because e-learning is described as an alternative, not a designed replacement."
       },
       "el": {
-        "passage": "19. Τα συστήματα ηλεκτρονικής μάθησης υιοθετούνται πρόσφατα από πολλές πολυεθνικές εταιρείες. Στις περισσότερες περιπτώσεις, χρησιμεύουν ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγεσίας. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων συνεχίζει να αυξάνεται, ενώ οι προϋπολογισμοί κατάρτισης περικόπτονται συχνά. Υπό αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική, σχετικά χαμηλού κόστους λύση. Μέσω διαδραστικού περιεχομένου και αυτορρύθμιστης μάθησης, μπορεί σε ορισμένες περιπτώσεις να ξεπερνά την παραδοσιακή κατάρτιση.",
+        "passage": "19. Τα συστήματα ηλεκτρονικής μάθησης υιοθετούνται πρόσφατα από πολλές πολυεθνικές εταιρείες. Στις περισσότερες περιπτώσεις, χρησιμεύουν ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγεσίας. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων συνεχίζει να αυξάνεται, ενώ οι προϋπολογισμοί κατάρτισης περικόπτονται συχνά. Υπό αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική, σχετικά χαμηλού κόστους λύση. Μέσω διαδραστικού περιεχομένου και αυτορρύθμισης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να ξεπερνά την παραδοσιακή κατάρτιση.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί με τον πλέον εύλογο τρόπο από το κείμενο;",
         "options": [
-          "Οι εταιρείες που υιοθετούν ηλεκτρονική μάθηση συνήθως εγκαταλείπουν κάθε παραδοσιακή κατάρτιση.",
-          "Η αποτελεσματικότητα της ηλεκτρονικής μάθησης εξαρτάται κυρίως από την πρόσβαση σε προσωπικό υπολογιστή.",
+          "Οι εταιρείες που υιοθετούν ηλεκτρονική μάθηση τείνουν να εγκαταλείπουν κάθε παραδοσιακή κατάρτιση.",
+          "Η αποτελεσματικότητα της ηλεκτρονικής μάθησης εξαρτάται κυρίως από την πρόσβαση σε εξελιγμένους υπολογιστές.",
           "Τα προγράμματα ηλεκτρονικής μάθησης σχεδιάζονται κυρίως για να αντικαταστήσουν τα προγράμματα ανάπτυξης ηγεσίας.",
           "Οι πιέσεις προϋπολογισμού ώθησαν τις εταιρείες να αναζητήσουν πιο οικονομικές εναλλακτικές στην παραδοσιακή κατάρτιση."
         ],
@@ -1544,7 +1544,7 @@
         "question": "Why is the court victory described as a Pyrrhic win?",
         "options": [
           "The ruling caused immediate, equal financial harm to every manufacturer involved.",
-          "The court fully overturned the labelling requirement, forcing all manufacturers to remove labels.",
+          "The court fully overturned the labelling requirement, forcing all manufacturers to remove GM-related labels.",
           "Although manufacturers prevailed legally, the delay gave competitors an advantage in marketing non-GM products.",
           "Winning the case prevented competitors from advertising non-GM products on their packaging."
         ],
@@ -1552,13 +1552,13 @@
         "explanation": "A Pyrrhic victory is a win that comes at a damaging cost. The legal win delayed the labelling law, allowing competitors to market 'non-GM' products first. Option B is wrong because the court did not fully overturn labelling. Option D is wrong because competitors did gain the ability to advertise. Option A is wrong because the harm was strategic, not immediate financial."
       },
       "el": {
-        "passage": "20. Η Ευρωπαϊκή Ένωση απαιτεί από τα γενετικά τροποποιημένα (ΓΤ) τρόφιμα σαφή επισήμανση, επιτρέποντας στους καταναλωτές ενημερωμένες επιλογές. Ορισμένοι κατασκευαστές αμφισβήτησαν δικαστικά αυτή την απαίτηση και κέρδισαν ορισμένες υποθέσεις, υποστηρίζοντας ότι ο κανονισμός επέβαλε άδικο κόστος. Ωστόσο, οι νίκες αυτές θεωρούνται Πύρρειες: αν και οι κατασκευαστές επικράτησαν βραχυπρόθεσμα, οι αποφάσεις καθυστέρησαν την εφαρμογή της νομοθεσίας επισήμανσης. Αυτό επέτρεψε σε ανταγωνιστές χωρίς ΓΤ συστατικά να διαφημίσουν ρητά «μη-ΓΤ» προϊόντα, αποκτώντας ανταγωνιστικό πλεονέκτημα.",
+        "passage": "20. Η Ευρωπαϊκή Ένωση απαιτεί από τα γενετικά τροποποιημένα (ΓΤ) τρόφιμα σαφή επισήμανση, επιτρέποντας στους καταναλωτές ενημερωμένες επιλογές. Ορισμένοι κατασκευαστές αμφισβήτησαν δικαστικά αυτή την απαίτηση και κέρδισαν ορισμένες υποθέσεις, υποστηρίζοντας ότι ο κανονισμός επέβαλε άδικο κόστος. Ωστόσο, οι νίκες αυτές θεωρούνται Πύρρειες: αν και οι κατασκευαστές επικράτησαν βραχυπρόθεσμα, οι αποφάσεις καθυστέρησαν την εφαρμογή της νομοθεσίας επισήμανσης. Αυτό επέτρεψε σε ανταγωνιστές χωρίς ΓΤ συστατικά να διαφημίσουν ρητά τα δικά τους προϊόντα ως «μη-ΓΤ», αποκτώντας ανταγωνιστικό πλεονέκτημα.",
         "question": "Γιατί η δικαστική νίκη χαρακτηρίζεται ως Πύρρεια;",
         "options": [
-          "Η απόφαση προκάλεσε άμεση, ισόποση οικονομική ζημία σε κάθε εμπλεκόμενο κατασκευαστή.",
-          "Το δικαστήριο ακύρωσε πλήρως την απαίτηση επισήμανσης, αναγκάζοντας όλους να αφαιρέσουν ετικέτες.",
+          "Η απόφαση προκάλεσε άμεση και αναλογική οικονομική ζημία σε κάθε εμπλεκόμενο κατασκευαστή.",
+          "Το δικαστήριο ακύρωσε πλήρως την απαίτηση επισήμανσης, αναγκάζοντας όλους να τους κατασκευαστές να αφαιρέσουν τισ σχετικές ετικέτες.",
           "Αν και οι κατασκευαστές επικράτησαν νομικά, η καθυστέρηση έδωσε στους ανταγωνιστές πλεονέκτημα στο μάρκετινγκ μη-ΓΤ προϊόντων.",
-          "Η νίκη στη δίκη εμπόδισε τους ανταγωνιστές να διαφημίσουν μη-ΓΤ προϊόντα."
+          "Η νίκη στη δίκη εμπόδισε τους ανταγωνιστές να διαφημίσουν τα δικά τους μη-ΓΤ προϊόντα."
         ],
         "answer": 2,
         "explanation": "Μια Πύρρεια νίκη είναι επιτυχία με βαρύ κόστος. Η νομική νίκη καθυστέρησε την επισήμανση, επιτρέποντας στους ανταγωνιστές να κυκλοφορήσουν πρώτοι «μη-ΓΤ» προϊόντα. Η Β είναι εσφαλμένη διότι το δικαστήριο δεν ακύρωσε πλήρως την επισήμανση. Η Δ είναι εσφαλμένη διότι οι ανταγωνιστές όντως κέρδισαν το δικαίωμα διαφήμισης. Η Α είναι εσφαλμένη διότι η ζημία ήταν στρατηγική."
