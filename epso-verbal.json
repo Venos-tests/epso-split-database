@@ -1698,7 +1698,7 @@
     },
     {
       "en": {
-        "passage": "6. Western Poison Oak is no more closely related to oak trees than Poison Ivy is to ivy. In fact, both Poison Ivy and Western Poison Oak belong to the Sumac family of shrubs and trees, of which the cashew tree is another member. Both plants contain a resinous sap that causes an irritating, itchy rash — often with blistering — when it contacts human skin. Although the shrubs do not naturally secrete this resin (it appears on bark and leaves only if the plant has been damaged), some people are so sensitive that just a molecule or two of the toxin can trigger a reaction.",
+        "passage": "6. Western Poison Oak is no more closely related to oak trees than Poison Ivy is to ivy. In fact, both Poison Ivy and Western Poison Oak belong to the Sumac family of shrubs and trees, of which the cashew tree is another member. Both plants contain a resinous sap that causes an irritating, itchy rash — often with blistering — when it contacts human skin. Although the shrubs do not naturally secrete this resin (it appears on bark and leaves only if the plant has been damaged), some people are so sensitive that just a molecule or two of the toxin can trigger an anaphylactic reaction.",
         "question": "Which of the following statements is correct?",
         "options": [
           "Merely touching an undamaged cashew tree causes irritation in humans.",
@@ -1710,10 +1710,10 @@
         "explanation": "The text states that both Poison Oak and the cashew tree belong to the Sumac family, while Poison Oak is not related to oak trees, making the cashew tree the closer relative. Option B generalises beyond the text. Option D is unsupported. Option A is contradicted, since resin appears only when the plant is damaged."
       },
       "el": {
-        "passage": "6. Η Δυτική Δηλητηριώδης Βελανιδιά δεν συγγενεύει με τις βελανιδιές περισσότερο απ' ό,τι ο Δηλητηριώδης Κισσός με τον κισσό. Στην πραγματικότητα, και τα δύο ανήκουν στην οικογένεια Sumac, της οποίας μέλος είναι και το δέντρο κάσιους. Και τα δύο φυτά περιέχουν ρητινώδη χυμό που προκαλεί ερεθιστική φαγούρα — συχνά με φουσκάλες — όταν έρθει σε επαφή με το δέρμα. Αν και οι θάμνοι δεν εκκρίνουν φυσικά αυτή τη ρητίνη (εμφανίζεται μόνο αν το φυτό έχει υποστεί ζημιά), ορισμένοι άνθρωποι είναι τόσο ευαίσθητοι που ένα ή δύο μόρια της τοξίνης αρκούν.",
+        "passage": "6. Η Δυτική Δηλητηριώδης Βελανιδιά δεν συγγενεύει με τις βελανιδιές περισσότερο απ' ό,τι ο Δηλητηριώδης Κισσός με τον κισσό. Στην πραγματικότητα, και τα δύο ανήκουν στην οικογένεια Sumac, της οποίας μέλος είναι και το δέντρο κάσιους. Και τα δύο φυτά περιέχουν ρητινώδη χυμό που προκαλεί ερεθιστική φαγούρα — συχνά με φουσκάλες — όταν έρθει σε επαφή με το δέρμα. Αν και οι θάμνοι δεν εκκρίνουν φυσικά αυτή τη ρητίνη (εμφανίζεται μόνο αν το φυτό έχει υποστεί ζημιά), ορισμένοι άνθρωποι είναι τόσο ευαίσθητοι που ένα ή δύο μόρια της τοξίνης αρκούν για μια αναφυλακτική αντίδραση.",
         "question": "Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "Η απλή επαφή με αδαμάγωτο δέντρο κάσιους προκαλεί ερεθισμό στους ανθρώπους.",
+          "Η απλή επαφή με το δέντρο κάσιους προκαλεί ερεθισμό στους ανθρώπους.",
           "Τα περισσότερα μέλη της οικογένειας Sumac παράγουν τοξικό χυμό.",
           "Το δέντρο κάσιους συγγενεύει πιο στενά με τη Δυτική Δηλητηριώδη Βελανιδιά απ' ό,τι μια βελανιδιά.",
           "Η Δυτική Δηλητηριώδης Βελανιδιά προκαλεί πιο σοβαρό ερεθισμό από τον Δηλητηριώδη Κισσό."
@@ -1724,25 +1724,25 @@
     },
     {
       "en": {
-        "passage": "7. The number of accidents occurring during the working day will never be reduced to zero, no matter how hard regulatory bodies try. This is because all activity inevitably carries some degree of risk and chance. It is nevertheless possible to reduce the number of workplace accidents, and one way of doing this is to impose punitive fines on organisations where such accidents occur. Although this will produce cases of unfairness for some organisations, the overall effect for employees, in terms of a safer workplace, will surely be positive.",
+        "passage": "7. The number of accidents occurring during the working day will never be reduced to zero, no matter how hard regulatory bodies try. This is because all activity inevitably carries some degree of risk and chance. It is nevertheless possible to reduce the number of workplace accidents, and one way of doing this is to impose punitive fines on organisations where such accidents occur often. Although this will produce cases of unfairness for some organisations, the overall effect for employees, in terms of a safer workplace, will surely be positive.",
         "question": "Which of the following can validly be inferred from the passage?",
         "options": [
           "Injustice toward organisations is a necessary requirement for workplace safety.",
           "Achieving an accident-free work environment is an unattainable goal.",
-          "Regulatory bodies have failed in their attempt to manage workplace safety.",
-          "Punitive fines are the most effective method for eliminating workplace accidents entirely."
+          "Regulatory bodies have eventually failed in their attempt to manage workplace safety.",
+          "Punitive fines has proven the most effective method for eliminating workplace accidents entirely."
         ],
         "answer": 1,
         "explanation": "The text explicitly states that accidents 'will never be reduced to zero', supporting the inference that an accident-free environment is unattainable. Option D overstates — fines are one way, not the most effective. Option C is an overreach. Option A misrepresents the passage, which says injustice may result, not that it is required."
       },
       "el": {
-        "passage": "7. Ο αριθμός των ατυχημάτων κατά την εργάσιμη ημέρα δεν θα μηδενιστεί ποτέ, όσο κι αν προσπαθούν οι ρυθμιστικοί φορείς. Αυτό οφείλεται στο ότι κάθε δραστηριότητα εμπεριέχει αναπόφευκτα κάποιον βαθμό κινδύνου και τύχης. Παρ' όλα αυτά, είναι δυνατό να μειωθούν τα εργατικά ατυχήματα, και ένας τρόπος είναι η επιβολή ποινικών προστίμων σε οργανισμούς όπου συμβαίνουν τέτοια ατυχήματα. Αν και αυτό θα οδηγήσει σε αδικία για ορισμένους οργανισμούς, η συνολική επίδραση για τους εργαζομένους θα είναι σίγουρα θετική.",
+        "passage": "7. Ο αριθμός των ατυχημάτων κατά την εργάσιμη ημέρα δεν θα μηδενιστεί ποτέ, όσο κι αν προσπαθούν οι ρυθμιστικοί φορείς. Αυτό οφείλεται στο ότι κάθε δραστηριότητα εμπεριέχει αναπόφευκτα κάποιον βαθμό κινδύνου και τύχης. Παρ' όλα αυτά, είναι δυνατό να μειωθούν τα εργατικά ατυχήματα, και ένας τρόπος είναι η επιβολή ποινικών προστίμων σε οργανισμούς όπου συμβαίνουν συχνά τέτοια ατυχήματα. Αν και αυτό θα οδηγήσει σε αδικία για ορισμένους οργανισμούς, η συνολική επίδραση για τους εργαζομένους θα είναι σίγουρα θετική.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί εγκύρως από το κείμενο;",
         "options": [
-          "Η αδικία απέναντι σε οργανισμούς είναι αναγκαία προϋπόθεση για την ασφάλεια στην εργασία.",
-          "Η επίτευξη εργασιακού περιβάλλοντος χωρίς ατυχήματα είναι ανέφικτος στόχος.",
-          "Οι ρυθμιστικοί φορείς έχουν αποτύχει στη διαχείριση της ασφάλειας.",
-          "Τα ποινικά πρόστιμα είναι η πιο αποτελεσματική μέθοδος πλήρους εξάλειψης ατυχημάτων."
+          "Η αδικία απέναντι σε ορισμένους οργανισμούς αποτελεί αναγκαία προϋπόθεση για την ασφάλεια στην εργασία.",
+          "Η επίτευξη εργασιακού περιβάλλοντος χωρίς ατυχήματα είναι ουσιαστικά ανέφικτος στόχος.",
+          "Οι ρυθμιστικοί φορείς έχουν τελικά αποτύχει στη διαχείριση της ασφάλειας.",
+          "Τα ποινικά πρόστιμα φαίνεται να είναι η πιο αποτελεσματική μέθοδος πλήρους εξάλειψης ατυχημάτων."
         ],
         "answer": 1,
         "explanation": "Το κείμενο δηλώνει ρητά ότι τα ατυχήματα «δεν θα μηδενιστούν ποτέ». Η Δ υπερβάλλει. Η Γ είναι υπερβολικό συμπέρασμα. Η Α παρερμηνεύει το κείμενο."
@@ -1750,25 +1750,25 @@
     },
     {
       "en": {
-        "passage": "8. A political agreement on a new Regulation will considerably improve the rules governing animal transport in Europe. The Regulation increases accountability by clearly identifying who is responsible for what and when, which will greatly help ensure the rules are properly enforced throughout an animal's journey. It provides for new, more effective enforcement tools from 2007 onward, such as checks via satellite navigation systems. It also introduces much stricter rules for journeys longer than eight hours, notably by substantially upgrading vehicle standards. The Regulation recognises that stress suffered by animals is mostly caused by loading and unloading, and therefore introduces rules addressing conditions before and after transport, for instance at slaughterhouses or ports.",
+        "passage": "8. A political agreement on a new Regulation will considerably improve the rules governing animal transport in Europe. The Regulation increases accountability by clearly identifying who is responsible for what and when, which will greatly help ensure the rules are properly enforced throughout an animal's journey. It provides for new, more effective enforcement tools, such as checks via satellite navigation systems. It also introduces much stricter rules for journeys longer than eight hours, notably by substantially upgrading vehicle standards. The Regulation recognises that stress suffered by animals is mostly caused by loading and unloading, and therefore introduces rules addressing conditions before and after transport, for instance at slaughterhouses or ports.",
         "question": "Which conclusion can validly be drawn about the new Regulation's approach to animal welfare?",
         "options": [
           "The Regulation's main focus is reducing all journeys to under eight hours to minimise stress.",
           "Improved animal welfare is pursued through a combination of technological monitoring, structural requirements, and procedural oversight.",
-          "Satellite navigation checks are designed to replace physical checks at slaughterhouses and ports.",
+          "Satellite navigation checks are designed to replace on the long run physical checks at slaughterhouses and ports.",
           "By identifying responsible parties, the Regulation places the entire legal burden of animal stress on vehicle operators alone."
         ],
         "answer": 1,
         "explanation": "The text outlines a multi-faceted approach: technological (satellite checks), structural (upgraded vehicle standards), and procedural (loading/unloading rules). Option A misrepresents the text. Option C is unsupported. Option D overstates the scope of accountability provisions."
       },
       "el": {
-        "passage": "8. Μια πολιτική συμφωνία για νέο Κανονισμό θα βελτιώσει σημαντικά τους κανόνες μεταφοράς ζώων στην Ευρώπη. Ο Κανονισμός ενισχύει τη λογοδοσία προσδιορίζοντας σαφώς ποιος είναι υπεύθυνος, γεγονός που θα βοηθήσει στη σωστή εφαρμογή των κανόνων. Προβλέπει από το 2007 νέα εργαλεία επιβολής, όπως ελέγχους μέσω δορυφορικής πλοήγησης. Εισάγει επίσης αυστηρότερους κανόνες για διαδρομές άνω των οκτώ ωρών, αναβαθμίζοντας τα πρότυπα οχημάτων. Ο Κανονισμός αναγνωρίζει ότι το άγχος των ζώων οφείλεται κυρίως στη φόρτωση και εκφόρτωση, εισάγοντας κανόνες για πριν και μετά τη μεταφορά.",
+        "passage": "8. Μια πολιτική συμφωνία για νέο Κανονισμό θα βελτιώσει σημαντικά τους κανόνες μεταφοράς ζώων στην Ευρώπη. Ο Κανονισμός ενισχύει τη λογοδοσία προσδιορίζοντας σαφώς ποιος είναι υπεύθυνος, γεγονός που θα βοηθήσει στη σωστή εφαρμογή των κανόνων. Προβλέπει νέα εργαλεία επιβολής, όπως ελέγχους μέσω δορυφορικής πλοήγησης. Εισάγει επίσης αυστηρότερους κανόνες για διαδρομές άνω των οκτώ ωρών, αναβαθμίζοντας τα πρότυπα οχημάτων. Ο Κανονισμός αναγνωρίζει ότι το άγχος των ζώων οφείλεται κυρίως στη φόρτωση και εκφόρτωση, εισάγοντας κανόνες για πριν και μετά τη μεταφορά.",
         "question": "Ποιο συμπέρασμα μπορεί να συναχθεί εγκύρως για την προσέγγιση του νέου Κανονισμού στην καλή μεταχείριση ζώων;",
         "options": [
           "Ο Κανονισμός επικεντρώνεται κυρίως στη μείωση όλων των διαδρομών κάτω από οκτώ ώρες.",
-          "Η βελτιωμένη καλή μεταχείριση επιδιώκεται μέσω συνδυασμού τεχνολογικής παρακολούθησης, δομικών απαιτήσεων και διαδικαστικής εποπτείας.",
-          "Οι δορυφορικοί έλεγχοι έχουν σχεδιαστεί για να αντικαταστήσουν τους φυσικούς ελέγχους σε σφαγεία και λιμάνια.",
-          "Με τον προσδιορισμό υπευθύνων, ο Κανονισμός μεταθέτει αποκλειστικά στους οδηγούς το βάρος του άγχους των ζώων."
+          "Η βελτιωμένη καλή μεταχείριση των ζώων επιδιώκεται μέσω συνδυασμού τεχνολογικής παρακολούθησης, δομικών απαιτήσεων και διαδικαστικής εποπτείας.",
+          "Οι δορυφορικοί έλεγχοι έχουν σχεδιαστεί για να αντικαταστήσουν μακροπρόθεσμα τους φυσικούς ελέγχους σε σφαγεία και λιμάνια.",
+          "Με τον προσδιορισμό υπευθύνων, ο Κανονισμός μεταθέτει αποκλειστικά στους οδηγούς και υπευθύνους φόρτωσης το βάρος του άγχους των ζώων."
         ],
         "answer": 1,
         "explanation": "Το κείμενο περιγράφει πολύπλευρη προσέγγιση: τεχνολογική, δομική και διαδικαστική. Η Α παρερμηνεύει το κείμενο. Η Γ δεν υποστηρίζεται. Η Δ υπερβάλλει."
@@ -1807,8 +1807,8 @@
         "options": [
           "Concrete became the most widely used human-made material for the first time.",
           "Bridges can now feature longer spans and buildings can be built taller.",
-          "Construction projects became more expensive for developing economies.",
-          "Developing countries stopped using traditional construction materials altogether."
+          "Construction projects became less expensive for developing economies.",
+          "Developing countries stopped using traditional construction cement pastes altogether."
         ],
         "answer": 1,
         "explanation": "The passage notes that major improvements in chemistry led to 'new possibilities, such as longer bridge spans and taller buildings'. Option A is not directly linked to 20th-century chemistry. Options C and D are directly contradicted by the passage."
@@ -1819,8 +1819,8 @@
         "options": [
           "Το σκυρόδεμα έγινε για πρώτη φορά το πλέον διαδεδομένο υλικό.",
           "Οι γέφυρες μπορούν πλέον να έχουν μεγαλύτερα ανοίγματα και τα κτήρια να είναι ψηλότερα.",
-          "Τα κατασκευαστικά έργα έγιναν πιο δαπανηρά για τις αναπτυσσόμενες οικονομίες.",
-          "Οι αναπτυσσόμενες χώρες σταμάτησαν εντελώς να χρησιμοποιούν παραδοσιακά υλικά."
+          "Τα κατασκευαστικά έργα έγιναν λιγότερο δαπανηρά για τις αναπτυσσόμενες οικονομίες.",
+          "Οι αναπτυσσόμενες χώρες σταμάτησαν εντελώς να χρησιμοποιούν παραδοσιακά υλικά τσιμεντόπαστας."
         ],
         "answer": 1,
         "explanation": "Το κείμενο αναφέρει ότι οι βελτιώσεις στη χημεία οδήγησαν σε «νέες δυνατότητες, όπως μεγαλύτερα ανοίγματα γεφυρών και ψηλότερα κτήρια». Οι Γ και Δ αντικρούονται από το κείμενο."
