@@ -48,13 +48,18 @@
         .review-table .badge-wrong   { color: #721c24; font-weight: bold; }
         .exp-cell { font-size: 0.88em; color: #444; line-height: 1.5; }
         .perf-empty { text-align: center; color: #888; padding: 60px 20px; font-style: italic; }
+        .mode-pill { display: inline-block; padding: 2px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; }
+        .mode-pill.practice { background: #e6f0ff; color: var(--eu-blue); }
+        .mode-pill.exam { background: #fff8e0; color: #8a6d00; }
+        .sparkline { display: flex; align-items: flex-end; gap: 2px; height: 30px; }
+        .sparkline .bar { width: 6px; border-radius: 1px 1px 0 0; }
 
         /* ── Admin ── */
         #admin-link { text-align: center; font-size: 0.7em; color: #b8c2d4; margin-top: 25px; cursor: pointer; user-select: none; }
         #admin-link:hover { color: var(--eu-blue); }
         .admin-section { margin-bottom: 40px; }
         .admin-section h3 { color: var(--eu-blue); border-left: 4px solid var(--eu-gold); padding-left: 12px; }
-        .admin-form-row { display: flex; gap: 10px; margin-top: 15px; flex-wrap: wrap; }
+        .admin-form-row { display: flex; gap: 10px; margin-top: 15px; flex-wrap: wrap; align-items: center; }
         .admin-form-row input, .admin-form-row select { padding: 10px; border: 1px solid #d1d9e6; border-radius: 6px; font-size: 0.9em; }
         .difficulty-hard { color: #721c24; font-weight: bold; }
         .difficulty-mid { color: #8a6d00; font-weight: bold; }
@@ -118,6 +123,7 @@
     <div id="result-view" class="view">
         <h2 id="txt-result-title" style="border:none; text-align:center;">Results</h2>
         <div id="final-score" style="font-size:5em; color:var(--eu-blue); font-weight:bold; margin:20px 0; text-align:center;"></div>
+        <div id="save-status" style="text-align:center; font-size:0.85em; color:#888; min-height:1.2em; margin-bottom:10px;"></div>
         <div style="text-align:center; margin-bottom:30px;">
             <button onclick="backToMenu()" class="btn btn-primary" id="btn-res-back">Home</button>
         </div>
@@ -176,12 +182,6 @@
     var SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjcmxwa2toeWpyaHl2dG12aWJiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQwMDc1NjEsImV4cCI6MjA5OTU4MzU2MX0.EQEkt2pbE6BoEQ5CD8hUV0GuPWrS4O8C37lxcMutQQ4";
     var supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
-    // The admin passcode itself now lives ONLY in the database
-    // (hashed, in admin_secrets). This variable just remembers
-    // what you typed for this browser session, so the admin
-    // panel's buttons can pass it along with each action — the
-    // database re-checks it every single time, so there's no
-    // separate "gate" that could be bypassed.
     var adminPasscode = null;
     // ============================================================
 
@@ -198,9 +198,10 @@
     var userUnlocked = false;
     var userCode = null;
 
-    // A random ID remembered in this browser only, used to tell
-    // "the same device logging in again" apart from "a different
-    // device trying to use the same code."
+    var USER_CODE_KEY = 'epso_user_code';
+    var PENDING_ATTEMPTS_KEY = 'epso_pending_attempts';
+    var TARGET_PCT_KEY = 'epso_target_pct';
+
     function getDeviceId() {
         var id = localStorage.getItem('epso_device_id');
         if (!id) {
@@ -230,13 +231,13 @@
     async function loadDatabase() {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-var files = [
-    "epso-verbal.json",
-    "epso-numerical.json",
-    "epso-abstract.json",
-    "epso-eu-knowledge.json",
-    "epso-digital-skills.json"
-];
+            var files = [
+                "epso-verbal.json",
+                "epso-numerical.json",
+                "epso-abstract.json",
+                "epso-eu-knowledge.json",
+                "epso-digital-skills.json"
+            ];
             var results = await Promise.all(files.map(f => fetch(f).then(r => r.json())));
             results.forEach(function(data) {
                 Object.assign(DATABASE, data);
@@ -252,9 +253,6 @@ var files = [
         }
     }
 
-    // ── Login: now calls the verify_access_code() function instead
-    // of querying the table directly. The function only ever
-    // returns true or false — it never exposes the row itself.
     async function unlock() {
         var input = document.getElementById('pass-input').value.trim();
         var statusEl = document.getElementById('login-status');
@@ -270,10 +268,11 @@ var files = [
             if (res.error) throw res.error;
             if (res.data === 'ok') {
                 userCode = input;
-                localStorage.setItem('epso_user_code', userCode);
+                localStorage.setItem(USER_CODE_KEY, userCode);
                 statusEl.innerText = '';
                 if (dbLoaded) { enterPortal(); }
                 else { userUnlocked = true; statusEl.innerText = 'Please wait...'; }
+                flushPendingAttempts();
             } else if (res.data === 'bound_elsewhere') {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'This code is already in use on another device / Ο κωδικός χρησιμοποιείται ήδη σε άλλη συσκευή';
@@ -289,11 +288,12 @@ var files = [
     }
 
     function tryAutoLogin() {
-        var saved = localStorage.getItem('epso_user_code');
+        var saved = localStorage.getItem(USER_CODE_KEY);
         if (saved && /^[0-9]{5}$/.test(saved)) {
             userCode = saved;
             userUnlocked = true;
             if (dbLoaded) enterPortal();
+            flushPendingAttempts();
         }
     }
 
@@ -481,38 +481,148 @@ var files = [
         return 'Other';
     }
 
-    // ── Recording results: now goes through record_attempt(),
-    // which checks the code is valid before writing anything.
+    // ─────────────────────────────────────────────────────────────
+    // RELIABLE SAVING
+    // Every attempt now goes through a local "pending" queue in
+    // localStorage. If userCode is missing, or the RPC call fails
+    // or errors, the attempt is queued and logged loudly instead
+    // of being silently dropped (the old bug that lost verbal_3 /
+    // verbal_4: `if (!userCode) return;` with no logging and no
+    // retry). Queued attempts are automatically retried the next
+    // time the app loads or you log in.
+    // ─────────────────────────────────────────────────────────────
+
+    function readPendingQueue() {
+        try { return JSON.parse(localStorage.getItem(PENDING_ATTEMPTS_KEY) || '[]'); }
+        catch (e) { return []; }
+    }
+
+    function writePendingQueue(list) {
+        localStorage.setItem(PENDING_ATTEMPTS_KEY, JSON.stringify(list));
+    }
+
+    function queuePendingAttempt(entry) {
+        var pending = readPendingQueue();
+        entry.queued_at = new Date().toISOString();
+        pending.push(entry);
+        writePendingQueue(pending);
+        console.warn('EPSO: attempt queued locally for later retry ->', entry);
+        updateSaveStatus();
+    }
+
+    async function flushPendingAttempts() {
+        var pending = readPendingQueue();
+        if (!pending.length) return;
+        var code = userCode || localStorage.getItem(USER_CODE_KEY);
+        if (!code) return;
+
+        var stillPending = [];
+        for (var i = 0; i < pending.length; i++) {
+            var p = pending[i];
+            var okAttempt = true, okResponses = true;
+            try {
+                var res1 = await supabaseClient.rpc('record_attempt', {
+                    p_code: code, p_test_key: p.testKey, p_category: getCategory(p.testKey),
+                    p_score: p.score, p_total: p.total, p_mode: p.mode
+                });
+                if (res1.error) okAttempt = false;
+            } catch (e) { okAttempt = false; }
+
+            if (p.rows) {
+                try {
+                    var res2 = await supabaseClient.rpc('record_responses', {
+                        p_code: code, p_test_key: p.testKey, p_rows: p.rows
+                    });
+                    if (res2.error) okResponses = false;
+                } catch (e) { okResponses = false; }
+            }
+
+            if (!okAttempt || !okResponses) stillPending.push(p);
+        }
+        writePendingQueue(stillPending);
+        if (stillPending.length !== pending.length) {
+            console.log('EPSO: flushed ' + (pending.length - stillPending.length) + ' previously-queued attempt(s).');
+        }
+        updateSaveStatus();
+    }
+
+    function updateSaveStatus() {
+        var el = document.getElementById('save-status');
+        if (!el) return;
+        var pendingCount = readPendingQueue().length;
+        if (pendingCount > 0) {
+            el.style.color = '#b8860b';
+            el.innerText = (currentLang === 'el'
+                ? '⚠️ ' + pendingCount + ' προσπάθεια(ες) εκκρεμούν για αποθήκευση — θα ξαναδοκιμαστούν αυτόματα.'
+                : '⚠️ ' + pendingCount + ' attempt(s) pending save — will retry automatically.');
+        } else {
+            el.innerText = '';
+        }
+    }
+
     async function saveAttempt(testKey, score, total, mode) {
-        if (!userCode) return;
+        if (!userCode) userCode = localStorage.getItem(USER_CODE_KEY);
+        if (!userCode) {
+            console.error('saveAttempt: no userCode available — attempt for', testKey, 'queued instead of saved.');
+            queuePendingAttempt({ testKey: testKey, score: score, total: total, mode: mode });
+            return false;
+        }
         try {
             var res = await supabaseClient.rpc('record_attempt', {
                 p_code: userCode, p_test_key: testKey, p_category: getCategory(testKey),
                 p_score: score, p_total: total, p_mode: mode
             });
-            if (res.error) console.error('Could not save attempt:', res.error);
-        } catch (e) { console.error('Could not save attempt:', e); }
+            if (res.error) {
+                console.error('Could not save attempt:', res.error);
+                queuePendingAttempt({ testKey: testKey, score: score, total: total, mode: mode });
+                return false;
+            }
+            return true;
+        } catch (e) {
+            console.error('Could not save attempt:', e);
+            queuePendingAttempt({ testKey: testKey, score: score, total: total, mode: mode });
+            return false;
+        }
     }
 
-    // ── Per-question responses: sent as one batch to record_responses().
-    async function saveResponses(testKey, questions, answers) {
-        if (!userCode) return;
+    async function saveResponses(testKey, questions, answers, attemptSavedOk) {
+        if (!userCode) userCode = localStorage.getItem(USER_CODE_KEY);
+        var rows = questions.map(function(qObj, i) {
+            var correctIdx = qObj[currentLang].answer;
+            var chosenIdx = answers[i] !== undefined ? answers[i] : null;
+            return {
+                question_index: i,
+                chosen_idx: chosenIdx,
+                correct_idx: correctIdx,
+                is_correct: chosenIdx === correctIdx
+            };
+        });
+        if (!userCode) {
+            console.error('saveResponses: no userCode available — responses for', testKey, 'queued instead of saved.');
+            if (!attemptSavedOk) {
+                var pending = readPendingQueue();
+                var last = pending[pending.length - 1];
+                if (last && last.testKey === testKey && !last.rows) last.rows = rows;
+                writePendingQueue(pending);
+            }
+            return;
+        }
         try {
-            var rows = questions.map(function(qObj, i) {
-                var correctIdx = qObj[currentLang].answer;
-                var chosenIdx = answers[i] !== undefined ? answers[i] : null;
-                return {
-                    question_index: i,
-                    chosen_idx: chosenIdx,
-                    correct_idx: correctIdx,
-                    is_correct: chosenIdx === correctIdx
-                };
-            });
             var res = await supabaseClient.rpc('record_responses', {
                 p_code: userCode, p_test_key: testKey, p_rows: rows
             });
-            if (res.error) console.error('Could not save responses:', res.error);
-        } catch (e) { console.error('Could not save responses:', e); }
+            if (res.error) {
+                console.error('Could not save responses:', res.error);
+                if (!attemptSavedOk) {
+                    var pending2 = readPendingQueue();
+                    var last2 = pending2[pending2.length - 1];
+                    if (last2 && last2.testKey === testKey && !last2.rows) last2.rows = rows;
+                    writePendingQueue(pending2);
+                }
+            }
+        } catch (e) {
+            console.error('Could not save responses:', e);
+        }
     }
 
     function finishExam() {
@@ -529,8 +639,11 @@ var files = [
         document.getElementById('result-view').style.display = 'block';
         document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
 
-        saveAttempt(selectedTestKey, score, activeQuestions.length, currentMode);
-        saveResponses(selectedTestKey, activeQuestions, userAnswers);
+        var savedTestKey = selectedTestKey, savedMode = currentMode, savedQuestions = activeQuestions, savedAnswers = userAnswers;
+        saveAttempt(savedTestKey, score, savedQuestions.length, savedMode).then(function(ok) {
+            saveResponses(savedTestKey, savedQuestions, savedAnswers, ok);
+            updateSaveStatus();
+        });
 
         var isEl = currentLang === 'el';
         var reviewHTML = '<table class="review-table"><thead><tr>'
@@ -566,11 +679,27 @@ var files = [
 
     // ─────────────────────────────────────────────────────────────
     // PERFORMANCE DASHBOARD (per user)
-    // ── Now goes through get_my_attempts(), which filters by
-    // your code inside the database — you can only ever see your
-    // own history, never anyone else's.
+    // Split by Practice vs Exam mode (separate rows), shows a
+    // diachronic sparkline per category+mode, and a configurable
+    // target % with a colour-coded deviation indicator.
     // ─────────────────────────────────────────────────────────────
     var lastPerfRows = null;
+
+    function getTargetPct() {
+        var v = parseInt(localStorage.getItem(TARGET_PCT_KEY), 10);
+        return (v && v > 0 && v <= 100) ? v : 70;
+    }
+
+    function updateTargetPct() {
+        var input = document.getElementById('target-pct-input');
+        var v = parseInt(input.value, 10);
+        if (!v || v < 1 || v > 100) {
+            alert(currentLang === 'el' ? 'Δώστε τιμή από 1 έως 100.' : 'Enter a value between 1 and 100.');
+            return;
+        }
+        localStorage.setItem(TARGET_PCT_KEY, v);
+        renderPerformance(lastPerfRows || []);
+    }
 
     async function showPerformance() {
         hideAllViews();
@@ -599,33 +728,68 @@ var files = [
             return;
         }
 
-        var byCategory = {};
+        var target = getTargetPct();
+
+        var groups = {};
         rows.forEach(function(r) {
-            if (!byCategory[r.category]) byCategory[r.category] = [];
-            byCategory[r.category].push(r);
+            var key = r.category + '||' + r.mode;
+            if (!groups[key]) groups[key] = { category: r.category, mode: r.mode, list: [] };
+            groups[key].list.push(r);
+        });
+        Object.keys(groups).forEach(function(k) {
+            groups[k].list.sort(function(a, b) { return new Date(a.created_at) - new Date(b.created_at); });
         });
 
-        var html = '<table class="review-table"><thead><tr>'
+        var modeLabel = function(m) {
+            if (m === 'practice') return 'Practice';
+            if (m === 'exam') return 'Exam';
+            return m || '—';
+        };
+
+        var targetControlHTML = '<div style="display:flex; align-items:center; gap:10px; margin-bottom:20px; justify-content:flex-end;">'
+            + '<label style="font-size:0.85em; color:#555;">' + (isEl ? 'Στόχος %' : 'Target %') + '</label>'
+            + '<input type="number" id="target-pct-input" min="1" max="100" value="' + target + '" style="width:70px; padding:6px; border:1px solid #d1d9e6; border-radius:4px;">'
+            + '<button class="btn btn-primary btn-small" onclick="updateTargetPct()">' + (isEl ? 'Αποθήκευση' : 'Save') + '</button>'
+            + '</div>';
+
+        var html = targetControlHTML + '<table class="review-table"><thead><tr>'
             + '<th>' + (isEl ? 'Κατηγορία' : 'Category') + '</th>'
+            + '<th>Mode</th>'
             + '<th>' + (isEl ? 'Προσπάθειες' : 'Attempts') + '</th>'
             + '<th>' + (isEl ? 'Μ.Ο. %' : 'Avg %') + '</th>'
             + '<th>' + (isEl ? 'Καλύτερη %' : 'Best %') + '</th>'
+            + '<th>' + (isEl ? 'vs Στόχο' : 'vs Target') + '</th>'
+            + '<th>' + (isEl ? 'Ιστορικό' : 'History') + '</th>'
             + '<th>' + (isEl ? 'Τελευταία Προσπάθεια' : 'Last Attempt') + '</th>'
             + '</tr></thead><tbody>';
 
-        Object.keys(byCategory).sort().forEach(function(cat) {
-            var list = byCategory[cat];
-            var pct = list.map(function(r) { return (r.score / r.total) * 100; });
+        Object.keys(groups).sort().forEach(function(key) {
+            var g = groups[key];
+            var pct = g.list.map(function(r) { return (r.score / r.total) * 100; });
             var avg = pct.reduce(function(a, b) { return a + b; }, 0) / pct.length;
             var best = Math.max.apply(null, pct);
-            var last = list[list.length - 1];
+            var last = g.list[g.list.length - 1];
             var lastDate = new Date(last.created_at).toLocaleDateString();
+            var deviation = avg - target;
+            var devClass = deviation >= 0 ? 'badge-correct' : 'badge-wrong';
+            var devText = (deviation >= 0 ? '+' : '') + deviation.toFixed(0) + '%';
+            var pillClass = last.mode === 'exam' ? 'exam' : 'practice';
+
+            var sparkline = '<div class="sparkline">' + pct.map(function(p) {
+                var h = Math.max(4, Math.round((p / 100) * 28));
+                var color = p >= target ? '#28a745' : '#dc3545';
+                return '<div class="bar" title="' + p.toFixed(0) + '%" style="height:' + h + 'px; background:' + color + ';"></div>';
+            }).join('') + '</div>';
+
             html += '<tr>'
-                + '<td><strong>' + cat + '</strong></td>'
-                + '<td>' + list.length + '</td>'
+                + '<td><strong>' + g.category + '</strong></td>'
+                + '<td><span class="mode-pill ' + pillClass + '">' + modeLabel(g.mode) + '</span></td>'
+                + '<td>' + g.list.length + '</td>'
                 + '<td>' + avg.toFixed(0) + '%</td>'
                 + '<td>' + best.toFixed(0) + '%</td>'
-                + '<td>' + lastDate + ' (' + last.score + '/' + last.total + ', ' + last.mode + ')</td>'
+                + '<td class="' + devClass + '">' + devText + '</td>'
+                + '<td>' + sparkline + '</td>'
+                + '<td>' + lastDate + ' (' + last.score + '/' + last.total + ')</td>'
                 + '</tr>';
         });
 
@@ -633,13 +797,6 @@ var files = [
         container.innerHTML = html;
     }
 
-    // ─────────────────────────────────────────────────────────────
-    // ADMIN DASHBOARD
-    // ── The passcode is now checked by the database itself (via
-    // verify_admin / the admin_* functions), not just by this
-    // prompt. We still ask for it here so you don't have to retype
-    // it for every single admin action in the same visit.
-    // ─────────────────────────────────────────────────────────────
     async function openAdminPrompt() {
         var pass = prompt('Admin passcode:');
         if (pass === null) return;
@@ -800,7 +957,7 @@ var files = [
                 var pct = (correctCount / list.length) * 100;
                 var qText = questions[idx] ? questions[idx][currentLang].question : '(question text unavailable)';
                 return { idx: parseInt(idx, 10), attempts: list.length, pct: pct, text: qText };
-            }).sort(function(a, b) { return a.pct - b.pct; }); // hardest first
+            }).sort(function(a, b) { return a.pct - b.pct; });
 
             if (stats.length === 0) {
                 container.innerHTML = '<p class="perf-empty">No attempts recorded yet for this test.</p>';
@@ -827,9 +984,6 @@ var files = [
         }
     }
 
-    // ─────────────────────────────────────────────────────────────
-    // CSV EXPORT
-    // ─────────────────────────────────────────────────────────────
     function toCSV(rows) {
         if (!rows || rows.length === 0) return '';
         var headers = Object.keys(rows[0]);
@@ -863,9 +1017,6 @@ var files = [
         }
     }
 
-    // admin_list_responses is scoped to one test at a time, so we
-    // loop over every real (non-empty) test key and combine the
-    // results into a single CSV.
     async function exportResponsesCSV() {
         try {
             var allKeys = Object.keys(DATABASE).filter(function(k) {
@@ -887,9 +1038,6 @@ var files = [
         }
     }
 
-    // ─────────────────────────────────────────────────────────────
-    // NAVIGATION HELPERS
-    // ─────────────────────────────────────────────────────────────
     function hideAllViews() {
         document.getElementById('menu-view').style.display = 'none';
         document.getElementById('quiz-view').style.display = 'none';
