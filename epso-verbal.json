@@ -1858,7 +1858,7 @@
         "question": "Which of the following statements is correct?",
         "options": [
           "Incandescent bulbs are the least efficient light source in terms of energy conversion percentage.",
-          "Since its development, the incandescent bulb has not been modified in any way.",
+          "Since its development, the incandescent bulb has not been mterially modified in any way.",
           "Incandescent bulbs would not last long if the filament were exposed to air.",
           "For the last 100 years, incandescent bulbs have produced about half the light used in homes worldwide."
         ],
@@ -1870,7 +1870,7 @@
         "question": "Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
           "Οι λαμπτήρες πυράκτωσης είναι η λιγότερο αποδοτική πηγή φωτός ως προς το ποσοστό μετατροπής ενέργειας.",
-          "Από την ανάπτυξή του, ο λαμπτήρας πυράκτωσης δεν έχει τροποποιηθεί καθόλου.",
+          "Από την ανάπτυξή του, ο λαμπτήρας πυράκτωσης ουσιαστικά δεν έχει τροποποιηθεί καθόλου.",
           "Οι λαμπτήρες πυράκτωσης δεν θα διαρκούσαν πολύ αν το νήμα εκτίθετο στον αέρα.",
           "Τα τελευταία 100 χρόνια, οι λαμπτήρες πυράκτωσης παράγουν περίπου τον μισό φωτισμό παγκοσμίως."
         ],
@@ -1883,25 +1883,25 @@
         "passage": "13. For centuries, large numbers of Europeans emigrated to regions such as the Americas, Australasia, and parts of Africa in search of better living conditions or to escape political and religious persecution. In recent decades, however, the situation has reversed, with the European Union becoming a significant destination for immigrants owing to its economic prosperity and political stability. After the Second World War, many western European countries encouraged immigration from nearby regions and former colonies to meet growing labour demands during rapid economic expansion. These immigrant populations played a substantial role in building modern European prosperity. At the same time, European integration also encouraged mobility within the EU itself, as citizens gained the right to live and work freely across member states.",
         "question": "Which of the following statements is correct?",
         "options": [
-          "Post-war western European countries restricted immigration as rising growth reduced labour needs.",
-          "Immigration to the EU began only after the EU's creation and was mainly driven by internal political instability.",
           "Both immigration from outside Europe and free movement within the EU contributed to the development of today's European Union.",
+          "Immigration to the EU began only after the EU's creation and was mainly driven by internal political instability among the member States.",
+          "Post-war western European countries restricted immigration as rising growth reduced their labour needs.",
           "Europeans historically emigrated mainly because the Americas experienced labour shortages after WWII."
         ],
-        "answer": 2,
-        "explanation": "The passage explains that immigrants from outside Europe helped build prosperity after WWII, while internal free movement also increased mobility and integration. Both factors are explicitly credited. Option A is the opposite of what the passage states. Option B is contradicted. Option D misrepresents historical motivations."
+        "answer": 0,
+        "explanation": "The passage explains that immigrants from outside Europe helped build prosperity after WWII, while internal free movement also increased mobility and integration. Both factors are explicitly credited. Option C is the opposite of what the passage states. Option B is contradicted. Option D misrepresents historical motivations."
       },
       "el": {
         "passage": "13. Για αιώνες, πολλοί Ευρωπαίοι μετανάστευαν προς Αμερική, Αυστραλασία και τμήματα της Αφρικής αναζητώντας καλύτερες συνθήκες ή διαφεύγοντας διώξεις. Τις τελευταίες δεκαετίες, η κατάσταση αντιστράφηκε, με την ΕΕ να γίνεται σημαντικός προορισμός μεταναστών λόγω ευημερίας και σταθερότητας. Μετά τον Β΄ Παγκόσμιο Πόλεμο, πολλές δυτικοευρωπαϊκές χώρες ενθάρρυναν μετανάστευση από γειτονικές περιοχές και πρώην αποικίες. Αυτοί οι πληθυσμοί συνέβαλαν σημαντικά στην ανάπτυξη της ευρωπαϊκής ευημερίας. Παράλληλα, η ευρωπαϊκή ολοκλήρωση ενθάρρυνε την κινητικότητα εντός της ΕΕ.",
         "question": "Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "Οι δυτικοευρωπαϊκές χώρες μετά τον πόλεμο περιόρισαν τη μετανάστευση καθώς η ανάπτυξη μείωσε τις ανάγκες εργατικού δυναμικού.",
-          "Η μετανάστευση στην ΕΕ ξεκίνησε μόνο μετά τη δημιουργία της και οφειλόταν σε εσωτερική αστάθεια.",
-          "Τόσο η μετανάστευση από εκτός Ευρώπης όσο και η ελεύθερη κυκλοφορία εντός ΕΕ συνέβαλαν στην ανάπτυξη της σημερινής Ένωσης.",
+          "Τόσο η μετανάστευση από άτομα εκτός Ευρώπης όσο και η ελεύθερη κυκλοφορία εντός ΕΕ συνέβαλαν στην ανάπτυξη της σημερινής Ένωσης.",
+          "Η μετανάστευση στην ΕΕ ξεκίνησε μόνο μετά τη δημιουργία της Ενωσης και οφειλόταν σε εσωτερική αστάθεια των κρατών μελών της.",
+          "Οι δυτικοευρωπαϊκές χώρες μετά τον πόλεμο περιόρισαν τη μετανάστευση καθώς η ανάπτυξη μείωσε τις ανάγκες τους για εργατικό δυναμικό.",
           "Οι Ευρωπαίοι μετανάστευαν κυρίως επειδή η Αμερική είχε ελλείψεις εργατικού δυναμικού μετά τον Β΄ ΠΠ."
         ],
-        "answer": 2,
-        "explanation": "Το κείμενο εξηγεί ότι οι μετανάστες από εκτός Ευρώπης βοήθησαν στην ανάπτυξη μετά τον πόλεμο, ενώ η ελεύθερη κυκλοφορία εντός ΕΕ αύξησε την κινητικότητα. Η Α είναι το αντίθετο. Η Β αντικρούεται. Η Δ παρερμηνεύει τα ιστορικά κίνητρα."
+        "answer": 0,
+        "explanation": "Το κείμενο εξηγεί ότι οι μετανάστες από εκτός Ευρώπης βοήθησαν στην ανάπτυξη μετά τον πόλεμο, ενώ η ελεύθερη κυκλοφορία εντός ΕΕ αύξησε την κινητικότητα. Η C είναι το αντίθετο. Η Β αντικρούεται. Η Δ παρερμηνεύει τα ιστορικά κίνητρα."
       }
     },
     {
@@ -1909,9 +1909,9 @@
         "passage": "14. Leprosy is a chronic infectious disease affecting the nervous system, particularly the nerves of the hands, feet, and face. It is characterised by skin lesions combined with loss of sensation in the hands and arms, or legs and feet. Leprosy is difficult to diagnose accurately, since early-stage symptoms are often minor. Once diagnosed, however, it is curable with drugs. There are two forms: 'tuberculoid' and 'lepromatous'. Both produce skin lesions, but the lepromatous form is more severe, causing disfiguring lumps across the body.",
         "question": "Which of the following statements is correct?",
         "options": [
-          "The lepromatous form of leprosy is the easier of the two to diagnose.",
+          "The lepromatous form of leprosy is the easier of the two to diagnose but harder to cure.",
           "The tuberculoid form of leprosy is the less severe form.",
-          "The effects of leprosy are worse for the hands and arms than for the legs and feet.",
+          "The effects of leprosy are worse for the face than for the legs and feet.",
           "Although leprosy is curable with drugs, the damage already done is irreversible."
         ],
         "answer": 1,
@@ -1921,10 +1921,10 @@
         "passage": "14. Η λέπρα είναι χρόνια μολυσματική νόσος που προσβάλλει το νευρικό σύστημα, ιδίως τα νεύρα χεριών, ποδιών και προσώπου. Χαρακτηρίζεται από δερματικές βλάβες σε συνδυασμό με απώλεια αίσθησης. Είναι δύσκολο να διαγνωστεί με ακρίβεια, καθώς τα πρώιμα συμπτώματα είναι συχνά ήπια. Μόλις διαγνωστεί, όμως, θεραπεύεται με φάρμακα. Υπάρχουν δύο μορφές: η «φυματοειδής» και η «λεπρωματώδης». Και οι δύο προκαλούν βλάβες, αλλά η λεπρωματώδης είναι πιο σοβαρή.",
         "question": "Ποια από τις παρακάτω δηλώσεις είναι σωστή;",
         "options": [
-          "Η λεπρωματώδης μορφή είναι η ευκολότερη να διαγνωστεί.",
+          "Η λεπρωματώδης μορφή είναι η ευκολότερη να διαγνωστεί αλλά δυσκολότερο να θεραπευτεί.",
           "Η φυματοειδής μορφή είναι η λιγότερο σοβαρή.",
-          "Οι επιπτώσεις είναι χειρότερες για τα χέρια απ' ό,τι για τα πόδια.",
-          "Αν και θεραπεύεται με φάρμακα, οι βλάβες που έχουν ήδη προκληθεί είναι μη αναστρέψιμες."
+          "Οι επιπτώσεις είναι χειρότερες για το πρόσωπό απ' ό,τι για τα τα χέρια και πόδια.",
+          "Αν και θεραπεύεται με φάρμακα, οι βλάβες που έχουν ήδη προκληθεί από τη λέπρα είναι μη αναστρέψιμες."
         ],
         "answer": 1,
         "explanation": "Το κείμενο αναφέρει ότι και οι δύο μορφές προκαλούν βλάβες αλλά η λεπρωματώδης είναι πιο σοβαρή, άρα η φυματοειδής είναι η λιγότερο σοβαρή. Η Δ προσθέτει πληροφορίες που δεν υπάρχουν. Η Γ δεν υποστηρίζεται. Η Α δεν υποστηρίζεται."
@@ -1937,7 +1937,7 @@
         "options": [
           "Legal restrictions on satellite communications.",
           "Competition between analogue and digital broadcasters.",
-          "High infrastructure costs combined with low demand density.",
+          "Low demand combined with the high costs for capital investemnts.",
           "Lack of citizen interest in using digital services."
         ],
         "answer": 2,
@@ -1949,7 +1949,7 @@
         "options": [
           "Νομικοί περιορισμοί στις δορυφορικές επικοινωνίες.",
           "Ανταγωνισμός μεταξύ αναλογικών και ψηφιακών εκπομπών.",
-          "Υψηλό κόστος υποδομών σε συνδυασμό με χαμηλή πυκνότητα ζήτησης.",
+          "Μειωμένη ζήτηση σε συνδυασμό με αυξημένες επενδύσεις για το κόστος υποδομών.",
           "Έλλειψη ενδιαφέροντος πολιτών για ψηφιακές υπηρεσίες."
         ],
         "answer": 2,
