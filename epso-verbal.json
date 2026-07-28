@@ -2096,7 +2096,7 @@
           "Western European nations would not have funded highly risky transatlantic expeditions if Silk Road land routes had remained easily accessible.",
           "Ottoman merchants had no interest in purchasing spices or luxury goods manufactured in Western Europe.",
           "Western European kingdoms possessed the naval technology to cross the Atlantic Ocean prior to 1453.",
-          "Byzantine scholars fleeing Constantinople did not bring any classical scientific texts to Italian universities."
+          "Byzantine scholars fleeing Constantinople did not bring any classical scientific texts or other information to Italian universities."
         ],
         "answer": 0,
         "explanation": "A: For the Silk Road blockage to be the direct catalyst, we must assume kingdoms wouldn't have funded expensive, risky ocean voyages if land routes had stayed easily accessible. B: Trade of European goods to the East is irrelevant; the issue was Western Europe accessing Asian spices. C: Whether they had the technology before 1453 doesn't prove the blocked land route was the reason they finally used it. D: Byzantine scholars fleeing is a historical detail unrelated to the link between trade blockages and the motivation for ocean expeditions."
@@ -2107,8 +2107,8 @@
         "options": [
           "Τα δυτικοευρωπαϊκά βασίλεια δεν θα είχαν χρηματοδοτήσει εξαιρετικά ριψοκίνδυνες υπερατλαντικές αποστολές αν οι χερσαίες οδοί του Δρόμου του Μεταξιού είχαν παραμείνει εύκολα προσβάσιμες.",
           "Οι οθωμανοί έμποροι δεν είχαν κανένα ενδιαφέρον για την αγορά μπαχαρικών ή πολυτελών αγαθών κατασκευασμένων στη Δυτική Ευρώπη.",
-          "Τα δυτικοευρωπαϊκά βασίλεια διέθεταν τη ναυτική τεχνολογία για να διασχίσουν τον Ατλαντικό Ωκεανό πριν από το 1453.",
-          "Οι βυζαντινοί λόγιοι που διέφυγαν από την Κωνσταντινούπολη δεν μετέφεραν κανένα κλασικό επιστημονικό κείμενο στα ιταλικά πανεπιστήμια."
+          "Τα δυτικοευρωπαϊκά βασίλεια διέθεταν τη ναυτική τεχνολογία για να διασχίσουν τον Ατλαντικό Ωκεανό και πριν από το 1453.",
+          "Οι βυζαντινοί λόγιοι που διέφυγαν από την Κωνσταντινούπολη δεν μετέφεραν πληροφορίες ή κλασικά επιστημονικά κείμενα στα ιταλικά πανεπιστήμια."
         ],
         "answer": 0,
         "explanation": "A: Για να αποτελέσει το κλείσιμο του Δρόμου του Μεταξιού τον άμεσο καταλύτη, πρέπει να υποθέσουμε ότι τα βασίλεια δεν θα χρηματοδοτούσαν ακριβά και επικίνδυνα θαλάσσια ταξίδια αν οι χερσαίες οδοί παρέμεναν εύκολα προσβάσιμες. B: Το εμπόριο ευρωπαϊκών αγαθών προς την Ανατολή είναι άσχετο· το ζήτημα ήταν η πρόσβαση της Δυτικής Ευρώπης στα ασιατικά μπαχαρικά. C: Το αν διέθεταν την τεχνολογία πριν το 1453 δεν αποδεικνύει ότι η αποκλεισμένη χερσαία οδός ήταν ο λόγος που τελικά τη χρησιμοποίησαν. D: Η φυγή των βυζαντινών λογίων είναι μια ιστορική λεπτομέρεια άσχετη με τη σύνδεση ανάμεσα στους εμπορικούς αποκλεισμούς και το κίνητρο για τις θαλάσσιες αποστολές."
@@ -2119,9 +2119,9 @@
         "passage": "2. The European Union's Deforestation Regulation (EUDR) bans the import of commodities like soy, beef, palm oil, and timber unless companies prove they did not originate from recently deforested land. Importers must provide precise geographic coordinates of the farms where the goods were produced to ensure full traceability. While environmentalists celebrate this regulation, smallholder farmers in developing nations argue they lack the digital infrastructure and mapping technology to comply. Critics warn that multinational corporations will simply stop sourcing from smallholders altogether, shifting their supply chains to large, wealthy industrial conglomerates. This shift would devastate local economies and drive impoverished farmers into illegal, unregulated logging to survive.",
         "question": "On which of the following assumptions does the EUDR's effectiveness as a global conservation tool heavily rely?",
         "options": [
-          "Consumers in European markets will stop buying soy, beef, and palm oil completely.",
+          "Consumers in European markets might consider stop buying soy, beef, and palm oil completely.",
           "Multinational corporations will voluntarily pay higher prices to smallholders who lack digital mapping tools.",
-          "Smallholder farmers will transition to industrial manufacturing if they are barred from exporting to the EU.",
+          "Smallholder farmers will transition to mass industrial manufacturing if they are barred from exporting to the EU.",
           "Impoverished farmers barred from EU supply chains will not find alternative, unregulated markets for their deforested products."
         ],
         "answer": 3,
@@ -2131,13 +2131,13 @@
         "passage": "2. Ο Κανονισμός της ΕΕ για την Αποψίλωση των Δασών (EUDR) απαγορεύει την εισαγωγή προϊόντων όπως σόγια, βοδινό κρέας, φοινικέλαιο και ξυλεία, εκτός εάν οι εταιρείες αποδείξουν ότι δεν προέρχονται από πρόσφατα αποψιλωμένη γη. Οι εισαγωγείς πρέπει να παρέχουν ακριβείς γεωγραφικές συντεταγμένες των αγροκτημάτων όπου παρήχθησαν τα προϊόντα, ώστε να διασφαλίζεται πλήρης ιχνηλασιμότητα. Ενώ οι περιβαλλοντολόγοι επικροτούν τον κανονισμό, μικροκαλλιεργητές σε αναπτυσσόμενες χώρες υποστηρίζουν ότι δεν διαθέτουν την ψηφιακή υποδομή και την τεχνολογία χαρτογράφησης για να συμμορφωθούν. Επικριτές προειδοποιούν ότι οι πολυεθνικές εταιρείες θα σταματήσουν απλώς να προμηθεύονται από μικροκαλλιεργητές, μετατοπίζοντας τις αλυσίδες εφοδιασμού τους σε μεγάλους, εύπορους βιομηχανικούς ομίλους. Αυτή η μετατόπιση θα κατέστρεφε τις τοπικές οικονομίες και θα οδηγούσε φτωχούς καλλιεργητές σε παράνομη, ανεξέλεγκτη υλοτομία για επιβίωση.",
         "question": "Σε ποια από τις παρακάτω παραδοχές στηρίζεται σε μεγάλο βαθμό η αποτελεσματικότητα του EUDR ως εργαλείου παγκόσμιας διατήρησης;",
         "options": [
-          "Οι καταναλωτές στις ευρωπαϊκές αγορές θα σταματήσουν εντελώς να αγοράζουν σόγια, βοδινό κρέας και φοινικέλαιο.",
+          "Οι καταναλωτές στις ευρωπαϊκές αγορές θα μπορούσαν να σταματήσουν εντελώς να αγοράζουν σόγια, βοδινό κρέας και φοινικέλαιο.",
           "Οι πολυεθνικές εταιρείες θα πληρώνουν οικειοθελώς υψηλότερες τιμές σε μικροκαλλιεργητές που δεν διαθέτουν ψηφιακά εργαλεία χαρτογράφησης.",
-          "Οι μικροκαλλιεργητές θα στραφούν στη βιομηχανική μεταποίηση εάν αποκλειστούν από τις εξαγωγές προς την ΕΕ.",
+          "Οι μικροκαλλιεργητές θα στραφούν στη μαζική βιομηχανική μεταποίηση εάν αποκλειστούν από τις εξαγωγές προς την ΕΕ.",
           "Οι φτωχοί καλλιεργητές που αποκλείονται από τις αλυσίδες εφοδιασμού της ΕΕ δεν θα βρουν εναλλακτικές, ανεξέλεγκτες αγορές για τα αποψιλωμένα προϊόντα τους."
         ],
         "answer": 3,
-        "explanation": "A: Ο στόχος του EUDR είναι να «καθαρίσει» την αλυσίδα εφοδιασμού, όχι να σταματήσουν οι καταναλωτές να αγοράζουν εντελώς αυτά τα προϊόντα. B: Το επιχείρημα δεν προϋποθέτει ότι οι εταιρείες θα πληρώσουν περισσότερο σε μη χαρτογραφημένους μικροκαλλιεργητές· αντίθετα, τονίζει ότι πιθανότατα θα τους αποκόψουν. C: Η μετάβαση των καλλιεργητών στη βιομηχανική μεταποίηση δεν είναι απαραίτητη για να λειτουργήσει ο EUDR ως εργαλείο διατήρησης. D: Αν οι αποκλεισμένοι καλλιεργητές μπορούν εύκολα να πουλήσουν τα αποψιλωμένα προϊόντα τους αλλού ή να στραφούν σε παράνομη υλοτομία, η παγκόσμια αποψίλωση δεν θα μειωθεί — ο κανονισμός προϋποθέτει ότι δεν μπορούν απλώς να τα διοχετεύσουν αλλού."
+        "explanation": "A: Ο στόχος του EUDR είναι να «καθαρίσει» την αλυσίδα εφοδιασμού, όχι να σταματήσουν οι καταναλωτές να αγοράζουν εντελώς αυτά τα προϊόντα. B: Το επιχείρημα δεν προϋποθέτει ότι οι εταιρείες θα πληρώσουν περισσότερο σε μη χαρτογραφημένους μικροκαλλιεργητές· αντίθετα, τονίζει ότι πιθανότατα θα τους αποκόψουν. C: Η μαζική μεταστροφή των καλλιεργητών στη βιομηχανική μεταποίηση δεν είναι απαραίτητη για να λειτουργήσει ο EUDR ως εργαλείο διατήρησης. D: Αν οι αποκλεισμένοι καλλιεργητές μπορούν εύκολα να πουλήσουν τα αποψιλωμένα προϊόντα τους αλλού ή να στραφούν σε παράνομη υλοτομία, η παγκόσμια αποψίλωση δεν θα μειωθεί — ο κανονισμός προϋποθέτει ότι δεν μπορούν απλώς να τα διοχετεύσουν αλλού."
       }
     },
     {
@@ -2148,7 +2148,7 @@
           "The European Union's AI Act will completely eliminate the competitive edge of non-European tech firms.",
           "Narrow AI systems are subject to much stricter disclosure rules under the AI Act than GPAI models.",
           "Complying with GPAI transparency rules requires developers to share information they might prefer to keep confidential.",
-          "American and Chinese tech companies are legally bound to respect EU copyright laws when training GPAI models."
+          "American and Chinese tech companies Exporting to the EU are legally bound to respect EU copyright laws when training GPAI models."
         ],
         "answer": 2,
         "explanation": "A: Startups argue the rules hurt European firms, not that they eliminate the edge of non-European firms. B: GPAI models face unique, stricter rules precisely because their risks are harder to predict, not narrow AI systems. C: Since startups say strict disclosure rules put them at a severe disadvantage versus rivals with relaxed IP regimes, complying likely forces them to reveal information they'd prefer to keep confidential. D: American and Chinese competitors operate under relaxed intellectual property regimes, meaning they don't face equivalent constraints."
@@ -2160,7 +2160,7 @@
           "Ο Κανονισμός της ΕΕ για την ΤΝ θα εξαλείψει πλήρως το ανταγωνιστικό πλεονέκτημα των μη ευρωπαϊκών τεχνολογικών εταιρειών.",
           "Τα εξειδικευμένα συστήματα ΤΝ υπόκεινται σε πολύ αυστηρότερους κανόνες γνωστοποίησης βάσει του Κανονισμού για την ΤΝ σε σχέση με τα μοντέλα GPAI.",
           "Η συμμόρφωση με τους κανόνες διαφάνειας για τα GPAI απαιτεί από τους προγραμματιστές να μοιράζονται πληροφορίες που ενδεχομένως θα προτιμούσαν να κρατήσουν εμπιστευτικές.",
-          "Οι αμερικανικές και κινεζικές τεχνολογικές εταιρείες δεσμεύονται νομικά να σέβονται το ενωσιακό δίκαιο περί πνευματικής ιδιοκτησίας κατά την εκπαίδευση μοντέλων GPAI."
+          "Οι αμερικανικές και κινεζικές τεχνολογικές εταιρείες, εφόσον εξάγουν στην ΕΕ, δεσμεύονται νομικά να σέβονται το ενωσιακό δίκαιο περί πνευματικής ιδιοκτησίας κατά την εκπαίδευση μοντέλων GPAI."
         ],
         "answer": 2,
         "explanation": "A: Οι νεοφυείς επιχειρήσεις υποστηρίζουν ότι οι κανόνες βλάπτουν τις ευρωπαϊκές εταιρείες, όχι ότι εξαλείφουν το πλεονέκτημα των μη ευρωπαϊκών εταιρειών. B: Τα μοντέλα GPAI υπόκεινται σε μοναδικούς, αυστηρότερους κανόνες ακριβώς επειδή οι κίνδυνοί τους είναι δυσκολότερο να προβλεφθούν, όχι τα εξειδικευμένα συστήματα. C: Εφόσον οι νεοφυείς επιχειρήσεις λένε ότι οι αυστηροί κανόνες γνωστοποίησης τις θέτουν σε σοβαρό μειονέκτημα έναντι ανταγωνιστών με χαλαρότερα καθεστώτα πνευματικής ιδιοκτησίας, η συμμόρφωση πιθανότατα τις αναγκάζει να αποκαλύψουν πληροφορίες που θα προτιμούσαν να κρατήσουν εμπιστευτικές. D: Οι αμερικανικοί και κινεζικοί ανταγωνιστές λειτουργούν υπό χαλαρά καθεστώτα πνευματικής ιδιοκτησίας, που σημαίνει ότι δεν αντιμετωπίζουν αντίστοιχους περιορισμούς."
@@ -2171,9 +2171,9 @@
         "passage": "4. Asteroid mining has transitioned from science fiction to a highly funded target for private space exploration firms. Near-Earth asteroids are rich in precious metals, such as platinum and gold, alongside industrial resources like iron and nickel. However, the economic viability of space mining faces a unique paradox: bringing massive quantities of rare metals back to Earth could flood global commodity markets. Under standard laws of supply and demand, a sudden, massive influx of platinum would cause its market price to plummet, potentially making the extremely expensive space missions unprofitable. Therefore, early mining ventures are likely to focus on harvesting water ice for space-based rocket fuel rather than exporting metals to Earth.",
         "question": "Which of the following can be inferred from the passage?",
         "options": [
-          "Iron and nickel are far more valuable on Earth than precious metals like platinum and gold.",
-          "The market value of precious metals on Earth is heavily dependent on their scarcity.",
-          "Harvesting water ice in space is an inexpensive process that requires minimal initial funding.",
+          "Iron and nickel are far more useful and valuable on Earth than precious metals like platinum and gold.",
+          "There is an inverse relationship between the market value of precious metals on Earth and their scarcity.",
+          "Harvesting water ice in space is less expensive a process than harvesting precious metals and it requires minimal initial funding.",
           "Private space firms plan to sell platinum on Earth at highly inflated prices to maximize space mining profits."
         ],
         "answer": 1,
@@ -2183,9 +2183,9 @@
         "passage": "4. Η εξόρυξη αστεροειδών έχει μεταβεί από επιστημονική φαντασία σε στόχο με σημαντική χρηματοδότηση για ιδιωτικές εταιρείες διαστημικής εξερεύνησης. Οι πλησιέστεροι στη Γη αστεροειδείς είναι πλούσιοι σε πολύτιμα μέταλλα, όπως ο λευκόχρυσος και ο χρυσός, καθώς και σε βιομηχανικούς πόρους όπως ο σίδηρος και το νικέλιο. Ωστόσο, η οικονομική βιωσιμότητα της διαστημικής εξόρυξης αντιμετωπίζει ένα μοναδικό παράδοξο: η μεταφορά τεράστιων ποσοτήτων σπάνιων μετάλλων στη Γη θα μπορούσε να πλημμυρίσει τις παγκόσμιες αγορές εμπορευμάτων. Σύμφωνα με τους βασικούς νόμους προσφοράς και ζήτησης, μια ξαφνική, μαζική εισροή λευκόχρυσου θα προκαλούσε κατακόρυφη πτώση της τιμής του στην αγορά, καθιστώντας ενδεχομένως ασύμφορες τις εξαιρετικά δαπανηρές διαστημικές αποστολές. Ως εκ τούτου, οι πρώτες επιχειρήσεις εξόρυξης είναι πιθανό να επικεντρωθούν στη συλλογή πάγου νερού για διαστημικά καύσιμα πυραύλων και όχι στην εξαγωγή μετάλλων προς τη Γη.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί από το κείμενο;",
         "options": [
-          "Ο σίδηρος και το νικέλιο είναι πολύ πιο πολύτιμα στη Γη από πολύτιμα μέταλλα όπως ο λευκόχρυσος και ο χρυσός.",
-          "Η αξία των πολύτιμων μετάλλων στη Γη εξαρτάται σε μεγάλο βαθμό από τη σπανιότητά τους.",
-          "Η συλλογή πάγου νερού στο διάστημα είναι μια φθηνή διαδικασία που απαιτεί ελάχιστη αρχική χρηματοδότηση.",
+          "Ο σίδηρος και το νικέλιο είναι πολύ χρηστικά πιο πολύτιμα στη Γη από ότι πολύτιμα μέταλλα όπως ο λευκόχρυσος και ο χρυσός.",
+          "Υπάρχει μία αντίστροφη σχέση μεταξύ της αξίας των πολύτιμων μετάλλων στη Γη και της σπανιότητάς τους.",
+          "Η συλλογή πάγου νερού στο διάστημα είναι μια φθηνότερη διαδικασία από τη συλλογή πολύτιμων μετάλλων, η οποία απαιτεί ελάχιστη αρχική χρηματοδότηση.",
           "Οι ιδιωτικές διαστημικές εταιρείες σχεδιάζουν να πουλήσουν λευκόχρυσο στη Γη σε ιδιαίτερα υπερτιμημένες τιμές για να μεγιστοποιήσουν τα κέρδη τους."
         ],
         "answer": 1,
@@ -2197,10 +2197,10 @@
         "passage": "5. The corporate shift from one-time product sales to recurring \"software-as-a-service\" (SaaS) subscription models has drastically increased recurring revenues for tech businesses. However, this shift has also triggered \"subscription fatigue\" among consumers, who are increasingly overwhelmed by the sheer number of monthly micro-transactions. To combat this churn, companies are turning to \"bundling\"—grouping multiple niche software tools or streaming services into a single monthly payment. While bundling increases customer retention, it also reduces the average revenue per user for individual developers. Consequently, small software creators must decide whether to remain independent and risk high churn rates, or join massive platform bundles where their profit margins are heavily squeezed.",
         "question": "Which of the following is true according to the passage?",
         "options": [
-          "SaaS models have resulted in lower overall recurring revenues for technology companies.",
+          "SaaS models have resulted in lower overall recurring profits for technology companies.",
           "Joining a software bundle typically leads to a reduction in profit margins for independent developers.",
           "Small software creators are legally prohibited from offering independent, stand-alone subscription models.",
-          "Subscription fatigue refers to the physical exhaustion consumers feel when installing new software."
+          "Subscription fatigue refers to the physical exhaustion consumers feel when expected to aquire and instal new software."
         ],
         "answer": 1,
         "explanation": "A: SaaS has drastically increased recurring revenues, the opposite of what this option claims. B: Joining massive platform bundles results in developers' profit margins being heavily squeezed. C: Small creators have a choice to remain independent, meaning it is not legally prohibited. D: Subscription fatigue is consumers being overwhelmed by the sheer number of monthly micro-transactions, not physical installation exhaustion."
@@ -2209,9 +2209,9 @@
         "passage": "5. Η μετάβαση των επιχειρήσεων από τις εφάπαξ πωλήσεις προϊόντων σε επαναλαμβανόμενα μοντέλα συνδρομής «λογισμικού ως υπηρεσίας» (SaaS) έχει αυξήσει δραστικά τα επαναλαμβανόμενα έσοδα των τεχνολογικών επιχειρήσεων. Ωστόσο, αυτή η μετάβαση έχει επίσης προκαλέσει «κόπωση συνδρομών» μεταξύ των καταναλωτών, οι οποίοι νιώθουν όλο και περισσότερο κατακλυσμένοι από τον τεράστιο αριθμό μηνιαίων μικροσυναλλαγών. Για να αντιμετωπίσουν αυτή τη διαρροή πελατών, οι εταιρείες στρέφονται στη «δεσμοποίηση» — δηλαδή στη συγκέντρωση πολλαπλών εξειδικευμένων εργαλείων λογισμικού ή υπηρεσιών ροής σε μία ενιαία μηνιαία πληρωμή. Ενώ η δεσμοποίηση αυξάνει τη διατήρηση πελατών, μειώνει επίσης τα μέσα έσοδα ανά χρήστη για τους μεμονωμένους προγραμματιστές. Κατά συνέπεια, οι μικροί δημιουργοί λογισμικού πρέπει να αποφασίσουν αν θα παραμείνουν ανεξάρτητοι, ρισκάροντας υψηλά ποσοστά διαρροής πελατών, ή αν θα ενταχθούν σε τεράστια πακέτα πλατφορμών όπου τα περιθώρια κέρδους τους περιορίζονται σημαντικά.",
         "question": "Ποιο από τα παρακάτω είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
-          "Τα μοντέλα SaaS έχουν οδηγήσει σε χαμηλότερα συνολικά επαναλαμβανόμενα έσοδα για τις τεχνολογικές εταιρείες.",
+          "Τα μοντέλα SaaS έχουν οδηγήσει σε χαμηλότερα συνολικά επαναλαμβανόμενα κέρδη για τις τεχνολογικές εταιρείες.",
           "Η ένταξη σε ένα πακέτο λογισμικού συνήθως οδηγεί σε μείωση των περιθωρίων κέρδους για τους ανεξάρτητους προγραμματιστές.",
-          "Η κόπωση συνδρομών αναφέρεται στη σωματική εξάντληση που νιώθουν οι καταναλωτές κατά την εγκατάσταση νέου λογισμικού.",
+          "Η κόπωση συνδρομών αναφέρεται στη εξάντληση που νιώθουν οι καταναλωτές από την υποχρέωση να εγκατάστήσουν και να εξοικειωθούν με τα νέα λογισμικά.",
           "Οι μικροί δημιουργοί λογισμικού απαγορεύεται νομικά να προσφέρουν ανεξάρτητα, αυτόνομα μοντέλα συνδρομής."
         ],
         "answer": 1,
