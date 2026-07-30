@@ -3264,10 +3264,10 @@
     },
     {
       "en": {
-        "passage": "6. The fall of Constantinople to the Ottoman Turks in 1453 marked the definitive end of the Byzantine Empire, which had endured for over a thousand years since the founding of Constantinople in 330 CE. The city's capture was facilitated by the Ottoman use of massive cannons, including the famous Basilica designed by Orban, a Hungarian engineer. Thousands of Byzantine scholars fled to Italy, carrying precious Greek manuscripts. This influx of classical knowledge is widely credited with stimulating the Italian Renaissance, as humanist scholars gained access to texts of Plato, Aristotle, and other ancient authors previously lost to Western Europe.",
+        "passage": "6. The fall of Constantinople to the Ottoman Turks in 1453 marked the definitive end of the Byzantine Empire, which had endured for centuries since the founding of Constantinople in 330 CE. The city's capture was facilitated by the Ottoman use of massive cannons, including the famous Basilica designed by Orban, a Hungarian engineer. Thousands of Byzantine scholars fled to Italy, carrying precious Greek manuscripts. This influx of classical knowledge is widely credited with stimulating the Italian Renaissance, as humanist scholars gained access to texts of Plato, Aristotle, and other ancient authors previously lost to Western Europe.",
         "question": "Which of the following can be inferred from the passage?",
         "options": [
-          "The fall of Constantinople had no cultural impact on Western Europe.",
+          "The fall of Constantinople had limited cultural impact on Western Europe.",
           "The Basilica cannon was designed by an Ottoman engineer.",
           "The Byzantine Empire lasted for more than a millennium.",
           "Greek philosophical texts were entirely unknown in Italy before 1453."
@@ -3276,11 +3276,11 @@
         "explanation": "A: This is contradicted by the Renaissance stimulation. B: This is incorrect — Orban was Hungarian, not Ottoman. C: The passage states the empire had endured for over a thousand years since the founding of Constantinople in 330 CE — a millennium. D: This is too absolute — the passage says texts were previously lost, not entirely unknown."
       },
       "el": {
-        "passage": "6. Η άλωση της Κωνσταντινούπολης από τους Οθωμανούς Τούρκους το 1453 σηματοδότησε το οριστικό τέλος της Βυζαντινής Αυτοκρατορίας, η οποία είχε διαρκέσει για πάνω από μια χιλιετία από την ίδρυση της Κωνσταντινούπολης το 330 μ.Χ. Η κατάληψη της πόλης διευκολύνθηκε από τη χρήση από τους Οθωμανούς τεράστιων κανονιών, συμπεριλαμβανομένης της περίφημης Βασιλικής, σχεδιασμένης από τον Orban, έναν ούγγρο μηχανικό. Χιλιάδες βυζαντινοί λόγιοι διέφυγαν στην Ιταλία, μεταφέροντας πολύτιμα ελληνικά χειρόγραφα. Αυτή η εισροή κλασικής γνώσης πιστώνεται ευρέως ότι τόνωσε την ιταλική Αναγέννηση, καθώς οι ουμανιστές λόγιοι απέκτησαν πρόσβαση σε κείμενα του Πλάτωνα, του Αριστοτέλη και άλλων αρχαίων συγγραφέων που είχαν προηγουμένως χαθεί για τη Δυτική Ευρώπη.",
+        "passage": "6. Η άλωση της Κωνσταντινούπολης από τους Οθωμανούς Τούρκους το 1453 σηματοδότησε το οριστικό τέλος της Βυζαντινής Αυτοκρατορίας, αιώνες μετά από την ίδρυση της Κωνσταντινούπολης το 330 μ.Χ. Η κατάληψη της πόλης διευκολύνθηκε από τη χρήση τεράστιων κανονιών από τους Οθωμανούς, συμπεριλαμβανομένης της περίφημης Βασιλικής, σχεδιασμένης από τον Orban, έναν ούγγρο μηχανικό. Χιλιάδες βυζαντινοί λόγιοι διέφυγαν στην Ιταλία, μεταφέροντας πολύτιμα ελληνικά χειρόγραφα. Αυτή η εισροή κλασικής γνώσης θεωρείται ευρέως ότι τόνωσε την ιταλική Αναγέννηση, καθώς οι ουμανιστές λόγιοι απέκτησαν πρόσβαση σε κείμενα του Πλάτωνα, του Αριστοτέλη και άλλων αρχαίων συγγραφέων που είχαν προηγουμένως χαθεί για τη Δυτική Ευρώπη.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί από το κείμενο;",
         "options": [
           "Ελληνικά φιλοσοφικά κείμενα ήταν εντελώς άγνωστα στην Ιταλία πριν από το 1453.",
-          "Η άλωση της Κωνσταντινούπολης δεν είχε καμία πολιτισμική επίδραση στη Δυτική Ευρώπη.",
+          "Η άλωση της Κωνσταντινούπολης είχε περιορισμένη πολιτισμική επίδραση στη Δυτική Ευρώπη.",
           "Η Βυζαντινή Αυτοκρατορία διήρκεσε πάνω από μια χιλιετία.",
           "Το κανόνι Βασιλική σχεδιάστηκε από έναν οθωμανό μηχανικό."
         ],
@@ -3296,7 +3296,7 @@
           "The stress test assessed both credit losses and liquidity risks across all participating institutions.",
           "Banks with concentrated exposure to carbon-intensive industries in Southern and Eastern Europe were identified as particularly vulnerable.",
           "The ECB climate stress test found that a \"hot house world\" scenario would produce the highest credit losses for banks.",
-          "Only 50 significant institutions participated in the ECB's climate risk stress test."
+          "Randomly selected institutions participated in the ECB's climate risk stress test."
         ],
         "answer": 1,
         "explanation": "A: This is false because the passage explicitly states the test did not assess liquidity risks. B: This is directly stated in the passage: banks with concentrated exposure to carbon-intensive industries in Southern and Eastern Europe were particularly vulnerable. C: This is incorrect because the disorderly transition, not the \"hot house world,\" posed the greatest threat. D: This contradicts the passage, which mentions 95 institutions, not 50."
@@ -3305,7 +3305,7 @@
         "passage": "7. Τον Μάρτιο του 2025, η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) δημοσίευσε την πρώτη της άσκηση προσομοίωσης ακραίων καταστάσεων για τον κλιματικό κίνδυνο στον τραπεζικό τομέα της ευρωζώνης. Η άσκηση εξέτασε πώς 95 σημαντικά ιδρύματα θα άντεχαν σε τρία σενάρια: μια ομαλή μετάβαση σε μηδενικές εκπομπές έως το 2050, μια αναταρακτική μετάβαση με καθυστερημένη πολιτική δράση, και έναν «κόσμο θερμοκηπίου» όπου δεν εφαρμόζονται πρόσθετες κλιματικές πολιτικές. Τα αποτελέσματα έδειξαν ότι, ενώ οι πιστωτικές ζημίες θα αυξηθούν σε όλα τα σενάρια, η αναταρακτική μετάβαση παρουσίαζε τη μεγαλύτερη απειλή για τη φερεγγυότητα των τραπεζών, με προβλεπόμενες ζημίες κατά 40% υψηλότερες από ό,τι στο ομαλό σενάριο. Η ΕΚΤ σημείωσε ότι τράπεζες με συγκεντρωμένη έκθεση σε βιομηχανίες έντασης άνθρακα στη Νότια και Ανατολική Ευρώπη ήταν ιδιαίτερα ευάλωτες. Ωστόσο, η άσκηση προσομοίωσης δεν αξιολόγησε τους κινδύνους ρευστότητας ή τον αντίκτυπο κλιματικών δικαστικών διαφορών στους ισολογισμούς των τραπεζών.",
         "question": "Ποιο από τα παρακάτω είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
-          "Μόνο 50 σημαντικά ιδρύματα συμμετείχαν στην άσκηση προσομοίωσης κλιματικού κινδύνου της ΕΚΤ.",
+          "Τυχαία επιλεγμένα ιδρύματα συμμετείχαν στην άσκηση προσομοίωσης κλιματικού κινδύνου της ΕΚΤ.",
           "Τράπεζες με συγκεντρωμένη έκθεση σε βιομηχανίες έντασης άνθρακα στη Νότια και Ανατολική Ευρώπη προσδιορίστηκαν ως ιδιαίτερα ευάλωτες.",
           "Η άσκηση προσομοίωσης της ΕΚΤ διαπίστωσε ότι ένα σενάριο «κόσμου θερμοκηπίου» θα προκαλούσε τις μεγαλύτερες πιστωτικές ζημίες για τις τράπεζες.",
           "Η άσκηση προσομοίωσης αξιολόγησε τόσο τις πιστωτικές ζημίες όσο και τους κινδύνους ρευστότητας σε όλα τα συμμετέχοντα ιδρύματα."
@@ -3320,7 +3320,7 @@
         "question": "Which of the following is true according to the passage?",
         "options": [
           "Member States are no longer required to align their operational programmes with the European Semester recommendations.",
-          "Cohesion policy investments during 2014-2020 completely eliminated regional economic disparities across the EU.",
+          "Cohesion policy investments during 2014-2020 eliminated regional economic disparities across the EU.",
           "The 2021-2027 cohesion policy framework eliminates all performance indicators for funded projects.",
           "The Just Transition Mechanism has a budget of €17.5 billion to support regions affected by the transition away from fossil fuels."
         ],
@@ -3331,8 +3331,8 @@
         "passage": "8. Η πολιτική συνοχής της Ευρωπαϊκής Ένωσης, χρηματοδοτούμενη μέσω των Ευρωπαϊκών Διαρθρωτικών και Επενδυτικών Ταμείων, έχει υποστεί σημαντική μεταρρύθμιση για την προγραμματική περίοδο 2021-2027. Το νέο πλαίσιο εισάγει ισχυρότερους δεσμούς μεταξύ των κατανομών χρηματοδότησης και των ειδικών ανά χώρα συστάσεων του Ευρωπαϊκού Εξαμήνου, απαιτώντας από τα κράτη μέλη να ευθυγραμμίσουν τα επιχειρησιακά τους προγράμματα με τις προσδιορισμένες μακροοικονομικές και διαρθρωτικές προτεραιότητες μεταρρύθμισης. Επιπλέον, ο Μηχανισμός Δίκαιης Μετάβασης, με αποκλειστικό προϋπολογισμό 17,5 δισεκατομμυρίων ευρώ, στηρίζει τις περιοχές που πλήττονται περισσότερο από τη στροφή μακριά από τα ορυκτά καύσιμα. Προκαταρκτικές αξιολογήσεις της περιόδου 2014-2020 δείχνουν ότι οι επενδύσεις πολιτικής συνοχής συνέβαλαν σε αύξηση 2,3% του ΑΕΠ στις λιγότερο ανεπτυγμένες περιοχές, αν και ο αντίκτυπος στη μείωση των περιφερειακών ανισοτήτων παρέμεινε μέτριος. Η Επιτροπή έχει τονίσει ότι το νέο πλαίσιο επιδόσεων θα περιλαμβάνει σαφέστερα ορόσημα και δείκτες για τη μέτρηση απτών αποτελεσμάτων.",
         "question": "Ποιο από τα παρακάτω είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
-          "Το πλαίσιο πολιτικής συνοχής 2021-2027 καταργεί όλους τους δείκτες επιδόσεων για τα χρηματοδοτούμενα έργα.",
-          "Οι επενδύσεις πολιτικής συνοχής κατά την περίοδο 2014-2020 εξάλειψαν πλήρως τις περιφερειακές οικονομικές ανισότητες σε όλη την ΕΕ.",
+          "Το πλαίσιο πολιτικής συνοχής 2021-2027 καταργεί την χρήση δεικτών επιδόσεων για τα χρηματοδοτούμενα έργα.",
+          "Οι επενδύσεις πολιτικής συνοχής κατά την περίοδο 2014-2020 εξάλειψαν τις περιφερειακές οικονομικές ανισότητες σε όλη την ΕΕ.",
           "Τα κράτη μέλη δεν υποχρεούνται πλέον να ευθυγραμμίζουν τα επιχειρησιακά τους προγράμματα με τις συστάσεις του Ευρωπαϊκού Εξαμήνου.",
           "Ο Μηχανισμός Δίκαιης Μετάβασης διαθέτει προϋπολογισμό 17,5 δισεκατομμυρίων ευρώ για τη στήριξη περιοχών που επηρεάζονται από τη μετάβαση μακριά από τα ορυκτά καύσιμα."
         ],
@@ -3346,7 +3346,7 @@
         "question": "Which of the following is true according to the passage?",
         "options": [
           "The plague strengthened the feudal system by creating labour surpluses.",
-          "The Black Death killed exactly 45% of Europe's population.",
+          "The Black Death killed 45% of Europe's population.",
           "All historians agree the plague had no long-term economic consequences.",
           "Genomic analysis has confirmed Yersinia pestis as the bacterium responsible for the Black Death."
         ],
@@ -3354,12 +3354,12 @@
         "explanation": "A: This is the opposite of what the passage states — labour shortages weakened feudalism. B: This is wrong — the passage gives a range (30–60%), not an exact figure. C: This is contradicted by historians arguing the plague accelerated shifts toward wage labour. D: This is directly stated: recent genomic analysis has identified Yersinia pestis as the causative bacterium."
       },
       "el": {
-        "passage": "9. Ο Μαύρος Θάνατος, ο οποίος σάρωσε την Ευρώπη μεταξύ 1347 και 1351, σκότωσε εκτιμώμενο 30–60% του πληθυσμού της ηπείρου. Πρόσφατη γονιδιωματική ανάλυση σκελετών από το νεκροταφείο πανούκλας East Smithfield του Λονδίνου έχει προσδιορίσει τον βάκιλο Yersinia pestis ως το αίτιο βακτήριο, επιβεβαιώνοντας τις μεσαιωνικές μαρτυρίες. Η πανδημία μετέβαλε θεμελιωδώς τις ευρωπαϊκές αγορές εργασίας: με σοβαρές ελλείψεις εργατικού δυναμικού, οι επιζώντες εργαζόμενοι απαίτησαν υψηλότερους μισθούς, αποδυναμώνοντας το φεουδαρχικό σύστημα. Ορισμένοι ιστορικοί υποστηρίζουν ότι η πανούκλα επιτάχυνε τη μετάβαση από τη δουλοπαροικία στην έμμισθη εργασία, θέτοντας τα θεμέλια για την τελική άνοδο του καπιταλισμού στη Δυτική Ευρώπη.",
+        "passage": "9. Ο Μαύρος Θάνατος, ο οποίος σάρωσε την Ευρώπη μεταξύ 1347 και 1351, σκότωσε ένα εκτιμώμενο 30–60% του πληθυσμού της ηπείρου. Πρόσφατη γονιδιωματική ανάλυση σκελετών από το νεκροταφείο πανούκλας East Smithfield του Λονδίνου έχει προσδιορίσει τον βάκιλο Yersinia pestis ως το βακτήριο - αίτιο, επιβεβαιώνοντας τις μεσαιωνικές μαρτυρίες. Η πανδημία μετέβαλε θεμελιωδώς τις ευρωπαϊκές αγορές εργασίας: με σοβαρές ελλείψεις εργατικού δυναμικού, οι επιζώντες εργαζόμενοι απαίτησαν υψηλότερους μισθούς, αποδυναμώνοντας το φεουδαρχικό σύστημα. Ορισμένοι ιστορικοί υποστηρίζουν ότι η πανούκλα επιτάχυνε τη μετάβαση από τη δουλοπαροικία στην έμμισθη εργασία, θέτοντας τα θεμέλια για την τελική άνοδο του καπιταλισμού στη Δυτική Ευρώπη.",
         "question": "Ποιο από τα παρακάτω είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
           "Όλοι οι ιστορικοί συμφωνούν ότι η πανούκλα δεν είχε μακροπρόθεσμες οικονομικές συνέπειες.",
-          "Η πανούκλα ενίσχυσε το φεουδαρχικό σύστημα δημιουργώντας πλεονάσματα εργατικού δυναμικού.",
-          "Ο Μαύρος Θάνατος σκότωσε ακριβώς το 45% του πληθυσμού της Ευρώπης.",
+          "Η πανούκλα αποδυνάμωσε το φεουδαρχικό σύστημα δημιουργώντας πλεονάσματα εργατικού δυναμικού.",
+          "Ο Μαύρος Θάνατος σκότωσε το 45% του πληθυσμού της Ευρώπης.",
           "Η γονιδιωματική ανάλυση έχει επιβεβαιώσει τον Yersinia pestis ως το βακτήριο υπεύθυνο για τον Μαύρο Θάνατο."
         ],
         "answer": 3,
@@ -3374,7 +3374,7 @@
           "Projects with fewer participating Member States tend to face fewer delays than larger multinational initiatives.",
           "The skills gap in dual-use technologies has been entirely resolved since the report's publication.",
           "A centralised EU defence procurement office will be established by 2026.",
-          "The European Defence Fund has been completely ineffective in promoting collaborative defence research."
+          "The European Defence Fund has proven ineffective in promoting collaborative defence research."
         ],
         "answer": 0,
         "explanation": "A: The passage states that projects involving more than four Member States were three times more likely to experience delays than bilateral initiatives, from which we can infer that projects with fewer participants tend to face fewer delays. B: This is unsupported; the passage presents the skills gap as a current problem with no mention of resolution. C: This cannot be inferred because the passage says such changes would require Treaty revision, with no indication this will happen by 2026. D: This is too extreme — the passage notes a disbursement shortfall, not complete ineffectiveness."
@@ -3386,7 +3386,7 @@
           "Έργα με λιγότερα συμμετέχοντα κράτη μέλη τείνουν να αντιμετωπίζουν λιγότερες καθυστερήσεις σε σχέση με μεγαλύτερες πολυεθνικές πρωτοβουλίες.",
           "Το χάσμα δεξιοτήτων σε τεχνολογίες διπλής χρήσης έχει επιλυθεί πλήρως από τη δημοσίευση της έκθεσης.",
           "Ένα κεντρικό γραφείο προμηθειών άμυνας της ΕΕ θα δημιουργηθεί έως το 2026.",
-          "Το Ευρωπαϊκό Ταμείο Άμυνας ήταν εντελώς αναποτελεσματικό στην προώθηση συνεργατικής αμυντικής έρευνας."
+          "Το Ευρωπαϊκό Ταμείο Άμυνας αποδείχθηκε αναποτελεσματικό στην προώθηση συνεργατικής αμυντικής έρευνας."
         ],
         "answer": 0,
         "explanation": "A: Το κείμενο αναφέρει ότι έργα με περισσότερα από τέσσερα κράτη μέλη ήταν τρεις φορές πιο πιθανό να παρουσιάσουν καθυστερήσεις σε σχέση με διμερείς πρωτοβουλίες, από όπου μπορούμε να συναγάγουμε ότι τα έργα με λιγότερους συμμετέχοντες τείνουν να έχουν λιγότερες καθυστερήσεις. B: Αυτό δεν υποστηρίζεται· το κείμενο παρουσιάζει το χάσμα δεξιοτήτων ως τρέχον πρόβλημα χωρίς αναφορά σε επίλυση. C: Αυτό δεν μπορεί να συναχθεί επειδή το κείμενο λέει ότι τέτοιες αλλαγές «θα απαιτούσαν αναθεώρηση της Συνθήκης», χωρίς ένδειξη ότι αυτό θα συμβεί έως το 2026. D: Αυτό είναι υπερβολικά ακραίο — το κείμενο σημειώνει έλλειμμα εκταμίευσης, όχι πλήρη αναποτελεσματικότητα."
