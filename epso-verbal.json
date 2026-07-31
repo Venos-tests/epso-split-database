@@ -3527,7 +3527,7 @@
         "passage": "16. The European Union's strategic autonomy agenda has gained renewed momentum following geopolitical disruptions to critical supply chains. In 2024, the Commission proposed the Critical Raw Materials Act, which aims to ensure that by 2030, at least 10% of the EU's annual consumption of strategic raw materials is extracted within the Union, 40% is processed domestically, and no more than 65% of any single strategic raw material comes from a single third country. The Act identifies 34 materials as critical, including lithium, cobalt, and rare earth elements essential for battery production and renewable energy technologies. Environmental groups have criticised the proposal for potentially lowering environmental standards for mining projects within the EU, while industry representatives argue that the 2030 targets are unrealistic given current permitting timelines.",
         "question": "Which of the following is NOT true according to the passage?",
         "options": [
-          "The Commission's proposal has received unanimous support from both environmental groups and industry representatives.",
+          "The Commission's proposal has received wide support from both environmental groups and industry representatives.",
           "Lithium and cobalt are among the 34 materials identified as critical under the proposed Act.",
           "The Act aims for 40% of strategic raw materials to be processed within the EU by 2030.",
           "The Critical Raw Materials Act sets a target that no more than 65% of any single strategic raw material should come from one third country."
@@ -3539,7 +3539,7 @@
         "passage": "16. Η ατζέντα στρατηγικής αυτονομίας της Ευρωπαϊκής Ένωσης έχει αποκτήσει νέα ώθηση μετά τις γεωπολιτικές διαταραχές στις κρίσιμες αλυσίδες εφοδιασμού. Το 2024, η Επιτροπή πρότεινε τον Νόμο για τις Κρίσιμες Πρώτες Ύλες, ο οποίος στοχεύει να διασφαλίσει ότι έως το 2030, τουλάχιστον το 10% της ετήσιας κατανάλωσης στρατηγικών πρώτων υλών της ΕΕ εξορύσσεται εντός της Ένωσης, το 40% υφίσταται επεξεργασία εγχωρίως, και όχι περισσότερο από το 65% οποιασδήποτε μεμονωμένης στρατηγικής πρώτης ύλης προέρχεται από μία μόνο τρίτη χώρα. Ο Νόμος προσδιορίζει 34 υλικά ως κρίσιμα, συμπεριλαμβανομένου του λιθίου, του κοβαλτίου και σπάνιων γαιωδών στοιχείων απαραίτητων για την παραγωγή μπαταριών και τεχνολογιών ανανεώσιμης ενέργειας. Περιβαλλοντικές οργανώσεις έχουν επικρίνει την πρόταση επειδή ενδέχεται να χαμηλώσει τα περιβαλλοντικά πρότυπα για έργα εξόρυξης εντός της ΕΕ, ενώ εκπρόσωποι της βιομηχανίας υποστηρίζουν ότι οι στόχοι για το 2030 είναι μη ρεαλιστικοί δεδομένων των τρεχόντων χρονοδιαγραμμάτων αδειοδότησης.",
         "question": "Ποιο από τα παρακάτω ΔΕΝ είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
-          "Η πρόταση της Επιτροπής έχει λάβει ομόφωνη υποστήριξη τόσο από περιβαλλοντικές οργανώσεις όσο και από εκπροσώπους της βιομηχανίας.",
+          "Η πρόταση της Επιτροπής έχει λάβει ευρεία υποστήριξη τόσο από περιβαλλοντικές οργανώσεις όσο και από εκπροσώπους της βιομηχανίας.",
           "Ο Νόμος στοχεύει στο 40% των στρατηγικών πρώτων υλών να υφίσταται επεξεργασία εντός της ΕΕ έως το 2030.",
           "Ο Νόμος για τις Κρίσιμες Πρώτες Ύλες θέτει στόχο ότι όχι περισσότερο από το 65% οποιασδήποτε μεμονωμένης στρατηγικής πρώτης ύλης θα πρέπει να προέρχεται από μία τρίτη χώρα.",
           "Το λίθιο και το κοβάλτιο περιλαμβάνονται μεταξύ των 34 υλικών που προσδιορίζονται ως κρίσιμα βάσει του προτεινόμενου Νόμου."
@@ -3553,22 +3553,22 @@
         "passage": "17. In February 2022, Russia launched a full-scale invasion of Ukraine, marking the largest military conflict in Europe since World War II. Western nations responded with unprecedented economic sanctions, including freezing approximately €300 billion of Russian central bank assets held in European institutions. By mid-2025, the EU had approved using the profits from these frozen assets—estimated at €3 billion annually—to fund Ukrainian military procurement and reconstruction. Moscow has consistently denounced these measures as illegal expropriation, while legal scholars remain divided on whether the asset freezes comply with international law governing sovereign immunity.",
         "question": "Which of the following can be inferred from the passage?",
         "options": [
-          "The EU has transferred ownership of all frozen Russian assets to Ukraine.",
+          "The EU has transferred ownership of all frozen Russian assets to Ukraine to fund Ukrainian military procurement and reconstruction.",
           "There is scholarly disagreement about the legality of freezing Russian central bank assets.",
-          "All Western nations refused to impose any sanctions on Russia.",
+          "Not all Western countries agreed equally to impose sanctions on Russia.",
           "The invasion of Ukraine was limited to the Donbas region in eastern Ukraine."
         ],
         "answer": 1,
-        "explanation": "A: This is incorrect — only profits, not the assets themselves, are being used. B: The passage states legal scholars remain divided on whether the asset freezes comply with international law, from which we can infer scholarly disagreement. C: This is directly contradicted by the sanctions described. D: This is contradicted by \"full-scale invasion.\""
+        "explanation": "A: This is incorrect — only profits, not the assets themselves, are being used. B: The passage states legal scholars remain divided on whether the asset freezes comply with international law, from which we can infer scholarly disagreement. C: There is no direct information in the paasage about the sanctions imposed by EU countries. D: This is contradicted by \"full-scale invasion.\""
       },
       "el": {
         "passage": "17. Τον Φεβρουάριο του 2022, η Ρωσία ξεκίνησε πλήρη εισβολή στην Ουκρανία, σηματοδοτώντας τη μεγαλύτερη στρατιωτική σύγκρουση στην Ευρώπη από τον Β΄ Παγκόσμιο Πόλεμο. Οι δυτικές χώρες απάντησαν με πρωτοφανείς οικονομικές κυρώσεις, συμπεριλαμβανομένης της δέσμευσης περίπου 300 δισεκατομμυρίων ευρώ ρωσικών περιουσιακών στοιχείων της κεντρικής τράπεζας που κατέχονται σε ευρωπαϊκά ιδρύματα. Έως τα μέσα του 2025, η ΕΕ είχε εγκρίνει τη χρήση των κερδών από αυτά τα δεσμευμένα περιουσιακά στοιχεία —εκτιμώμενα σε 3 δισεκατομμύρια ευρώ ετησίως— για τη χρηματοδότηση της ουκρανικής στρατιωτικής προμήθειας και ανοικοδόμησης. Η Μόσχα έχει καταγγείλει σταθερά αυτά τα μέτρα ως παράνομη απαλλοτρίωση, ενώ οι νομικοί μελετητές παραμένουν διχασμένοι σχετικά με το αν οι δεσμεύσεις περιουσιακών στοιχείων συμμορφώνονται με το διεθνές δίκαιο που διέπει την κρατική ασυλία.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί από το κείμενο;",
         "options": [
-          "Όλες οι δυτικές χώρες αρνήθηκαν να επιβάλουν οποιεσδήποτε κυρώσεις στη Ρωσία.",
+          "Όλες οι δυτικές χώρες δεν συμφώνησαν εξίσου να επιβάλουν κυρώσεις στη Ρωσία.",
           "Υπάρχει επιστημονική διαφωνία σχετικά με τη νομιμότητα της δέσμευσης ρωσικών περιουσιακών στοιχείων της κεντρικής τράπεζας.",
           "Η εισβολή στην Ουκρανία περιορίστηκε στην περιοχή του Ντονμπάς στην ανατολική Ουκρανία.",
-          "Η ΕΕ έχει μεταβιβάσει την κυριότητα όλων των δεσμευμένων ρωσικών περιουσιακών στοιχείων στην Ουκρανία."
+          "Η ΕΕ έχει μεταβιβάσει την κυριότητα των δεσμευμένων ρωσικών περιουσιακών στοιχείων στην Ουκρανία για τη χρηματοδότηση της ουκρανικής στρατιωτικής προμήθειας και ανοικοδόμησης."
         ],
         "answer": 1,
         "explanation": "A: Αυτό αναιρείται άμεσα από τις περιγραφόμενες κυρώσεις. B: Το κείμενο αναφέρει ότι οι νομικοί μελετητές παραμένουν διχασμένοι σχετικά με το αν οι δεσμεύσεις συμμορφώνονται με το διεθνές δίκαιο, από όπου μπορούμε να συναγάγουμε επιστημονική διαφωνία. C: Αυτό αναιρείται από την «πλήρη εισβολή». D: Αυτό είναι λάθος — μόνο τα κέρδη, όχι τα ίδια τα περιουσιακά στοιχεία, χρησιμοποιούνται."
@@ -3591,7 +3591,7 @@
         "passage": "18. Ο Εκατονταετής Πόλεμος μεταξύ Αγγλίας και Γαλλίας (1337–1453) δεν ήταν μια συνεχής σύγκρουση αλλά μια σειρά εκστρατειών που διακόπτονταν από ανακωχές. Οι άγγλοι τοξότες με μεγάλα τόξα αποδείχθηκαν καθοριστικοί σε μάχες όπως το Crécy (1346) και το Azincourt (1415), επιτρέποντας σε μικρότερες αγγλικές δυνάμεις να νικήσουν μεγαλύτερους γαλλικούς στρατούς. Ωστόσο, έως το τέλος του πολέμου, η υπεροχή του γαλλικού πυροβολικού και η ηγεσία της Ζαν ντ' Αρκ στην Ορλεάνη (1429) είχαν ανατρέψει την πορεία των γεγονότων. Η σύγκρουση τελικά ενίσχυσε τη γαλλική βασιλική εξουσία, ενώ άφησε την Αγγλία οικονομικά εξαντλημένη και με μόνο το λιμάνι του Calais ως ηπειρωτική κτήση.",
         "question": "Ποιο από τα παρακάτω ΔΕΝ είναι αληθές σύμφωνα με το κείμενο;",
         "options": [
-          "Η Αγγλία διατήρησε εκτεταμένες εδαφικές κτήσεις στη Γαλλία μετά το τέλος του πολέμου.",
+          "Η Αγγλία διατήρησε εκτεταμένες εδαφικές κτήσεις στη Γαλλία και μετά το τέλος του πολέμου.",
           "Ο Εκατονταετής Πόλεμος διήρκεσε από το 1337 έως το 1453.",
           "Οι άγγλοι τοξότες με μεγάλα τόξα ήταν καθοριστικοί στις νίκες στο Crécy και το Azincourt.",
           "Η ηγεσία της Ζαν ντ' Αρκ συνέβαλε στις γαλλικές στρατιωτικές επιτυχίες."
@@ -3605,9 +3605,9 @@
         "passage": "19. In response to the growing antimicrobial resistance crisis, the European Commission launched the EU Pharmaceutical Strategy in 2020, which was subsequently reinforced by the Health Emergency Preparedness and Response Authority (HERA) established in 2021. The strategy aims to ensure the availability of affordable medicines while fostering innovation in areas of unmet medical need. A 2024 evaluation by the European Medicines Agency found that while the number of new antibiotics approved in the EU had increased by 15% since 2020, the majority offered only marginal improvements over existing treatments. The evaluation further noted that the pipeline for novel antimicrobial classes remained \"alarmingly dry,\" with only two truly innovative compounds in Phase III clinical trials across the entire European Economic Area.",
         "question": "Which of the following can be inferred from the passage?",
         "options": [
-          "There are currently more than ten innovative antimicrobial compounds in Phase III trials in the EEA.",
+          "There is currently a significant number of innovative antimicrobial compounds in Phase III trials in the EEA.",
           "The increase in approved antibiotics since 2020 consists mainly of drugs with limited therapeutic advancement.",
-          "The EU Pharmaceutical Strategy has fully resolved the antimicrobial resistance crisis.",
+          "The EU Pharmaceutical Strategy will fully resolve the antimicrobial resistance crisis.",
           "HERA was established before the EU Pharmaceutical Strategy was launched."
         ],
         "answer": 1,
@@ -3617,7 +3617,7 @@
         "passage": "19. Ως απάντηση στην αυξανόμενη κρίση αντιμικροβιακής αντοχής, η Ευρωπαϊκή Επιτροπή δρομολόγησε τη Φαρμακευτική Στρατηγική της ΕΕ το 2020, η οποία στη συνέχεια ενισχύθηκε από την Αρχή Ετοιμότητας και Αντιμετώπισης Καταστάσεων Έκτακτης Υγειονομικής Ανάγκης (HERA) που ιδρύθηκε το 2021. Η στρατηγική στοχεύει να διασφαλίσει τη διαθεσιμότητα οικονομικά προσιτών φαρμάκων ενώ ενθαρρύνει την καινοτομία σε τομείς ανικανοποίητων ιατρικών αναγκών. Μια αξιολόγηση του 2024 από τον Ευρωπαϊκό Οργανισμό Φαρμάκων διαπίστωσε ότι, ενώ ο αριθμός των νέων αντιβιοτικών που εγκρίθηκαν στην ΕΕ είχε αυξηθεί κατά 15% από το 2020, η πλειονότητα προσέφερε μόνο οριακές βελτιώσεις σε σχέση με τις υπάρχουσες θεραπείες. Η αξιολόγηση σημείωσε περαιτέρω ότι η δεξαμενή νέων αντιμικροβιακών κατηγοριών παρέμενε «ανησυχητικά στεγνή», με μόνο δύο πραγματικά καινοτόμες ενώσεις σε κλινικές δοκιμές Φάσης ΙΙΙ σε ολόκληρο τον Ευρωπαϊκό Οικονομικό Χώρο.",
         "question": "Ποιο από τα παρακάτω μπορεί να συναχθεί από το κείμενο;",
         "options": [
-          "Υπάρχουν επί του παρόντος περισσότερες από δέκα καινοτόμες αντιμικροβιακές ενώσεις σε δοκιμές Φάσης ΙΙΙ στον ΕΟΧ.",
+          "Υπάρχουν επί του παρόντος αρκετές καινοτόμες αντιμικροβιακές ενώσεις σε δοκιμές Φάσης ΙΙΙ στον ΕΟΧ.",
           "Η αύξηση των εγκεκριμένων αντιβιοτικών από το 2020 αποτελείται κυρίως από φάρμακα με περιορισμένη θεραπευτική πρόοδο.",
           "Η Φαρμακευτική Στρατηγική της ΕΕ έχει επιλύσει πλήρως την κρίση αντιμικροβιακής αντοχής.",
           "Η HERA ιδρύθηκε πριν από τη δρομολόγηση της Φαρμακευτικής Στρατηγικής της ΕΕ."
