@@ -58,7 +58,7 @@
         "question": "3. What is the primary goal of the European High-Performance Computing Joint Undertaking (EuroHPC JU)?",
         "options": [
           "To regulate social media algorithms",
-          "To develop quantum computers for military use only",
+          "To develop quantum computers mostly for military use",
           "To build world-class supercomputing infrastructure in Europe",
           "To restrict the use of non-European cloud services"
         ],
@@ -70,7 +70,7 @@
         "question": "3. Ποιος είναι ο πρωταρχικός στόχος της Κοινής Επιχείρησης για την Ευρωπαϊκή Υπολογιστική Υψηλών Επιδόσεων (EuroHPC JU);",
         "options": [
           "Η ρύθμιση των αλγορίθμων των μέσων κοινωνικής δικτύωσης",
-          "Η ανάπτυξη κβαντικών υπολογιστών μόνο για στρατιωτική χρήση",
+          "Η ανάπτυξη κβαντικών υπολογιστών κυρίως για στρατιωτική χρήση",
           "Η δημιουργία υποδομής υπερυπολογιστών παγκόσμιας κλάσης στην Ευρώπη",
           "Ο περιορισμός της χρήσης μη ευρωπαϊκών υπηρεσιών cloud"
         ],
@@ -137,8 +137,8 @@
         "options": [
           "All intermediary services, including hosting and online platforms",
           "Only social media platforms",
-          "Only government websites",
-          "Only e-commerce websites selling physical goods"
+          "Only government websites and digital certificate issuance services",
+          "Only e-commerce websites selling physical goods and located in non-EU countries"
         ],
         "answer": 0,
         "explanation": "The DSA covers a wide range of intermediary services to ensure online safety and accountability."
@@ -149,8 +149,8 @@
         "options": [
           "Σε όλες τις ενδιάμεσες υπηρεσίες, συμπεριλαμβανομένων των υπηρεσιών φιλοξενίας και πλατφορμών",
           "Μόνο σε πλατφόρμες κοινωνικής δικτύωσης",
-          "Μόνο σε κυβερνητικούς ιστότοπους",
-          "Μόνο σε ιστότοπους ηλεκτρονικού εμπορίου"
+          "Μόνο σε κυβερνητικούς ιστότοπους και υπηρεσιες έκδοσης ψηφιακών βεβαιώσεων",
+          "Μόνο σε ιστότοπους ηλεκτρονικού εμπορίου που εδράζονται σε χώρες εκτός ΕΕ"
         ],
         "answer": 0,
         "explanation": "Η DSA καλύπτει ένα ευρύ φάσμα ενδιάμεσων υπηρεσιών για τη διασφάλιση της ασφάλειας στο διαδίκτυο."
@@ -216,7 +216,7 @@
           "To provide transparency on how recommender systems work",
           "To keep algorithms secret from non-EU competitors",
           "To ban all non-algorithmic recommendations",
-          "To require human review of every single algorithmic decision"
+          "To require human review and control of every single algorithmic decision"
         ],
         "answer": 0,
         "explanation": "Platforms must explain their recommendation parameters and provide options not based on profiling."
@@ -226,9 +226,9 @@
         "question": "9. Ποιος είναι ο κύριος σκοπός της 'Αλγοριθμικής Διαφάνειας' βάσει της DSA για τις μεγάλες πλατφόρμες;",
         "options": [
           "Η παροχή διαφάνειας στον τρόπο λειτουργίας των συστημάτων συστάσεων",
-          "Η διατήρηση των αλγορίθμων μυστικών από ανταγωνιστές",
+          "Η διασφάλιση του απόρρητου των αλγορίθμων από ανταγωνιστές",
           "Η απαγόρευση όλων των μη αλγοριθμικών συστάσεων",
-          "Η απαίτηση ανθρώπινης αναθεώρησης για κάθε αλγοριθμική απόφαση"
+          "Η απαίτηση ανθρώπινης αναθεώρησης και ελέγχου για κάθε αλγοριθμική απόφαση"
         ],
         "answer": 0,
         "explanation": "Οι πλατφόρμες οφείλουν να εξηγούν τις παραμέτρους συστάσεων και να προσφέρουν επιλογές χωρίς προφίλ."
@@ -239,7 +239,7 @@
         "passage": "",
         "question": "10. Which EU initiative aims to develop common European data spaces in sectors like health and mobility?",
         "options": [
-          "Digital Markets Act",
+          "Mobility in the Digital Markets Act",
           "General Data Protection Regulation",
           "European Data Strategy and Data Governance Act",
           "Cybersecurity Act"
@@ -251,7 +251,7 @@
         "passage": "",
         "question": "10. Ποια πρωτοβουλία της ΕΕ στοχεύει στην ανάπτυξη κοινών ευρωπαϊκών χώρων δεδομένων σε τομείς όπως η υγεία και η κινητικότητα;",
         "options": [
-          "Πράξη για τις Ψηφιακές Αγορές",
+          "Πράξη για την κινητικότητα στις Ψηφιακές Αγορές",
           "Γενικός Κανονισμός Προστασίας Δεδομένων",
           "Ευρωπαϊκή Στρατηγική Δεδομένων & Πράξη για τη Διακυβέρνηση Δεδομένων",
           "Πράξη για την Κυβερνοασφάλεια"
@@ -267,8 +267,8 @@
         "options": [
           "Include a clear privacy notice, limit personal data, and use approved servers",
           "Allow anonymous responses only without providing processing information",
-          "Disable all consent checkboxes to make the form faster",
-          "Collect as many personal data fields as possible for segmentation"
+          "Disable all consent checkboxes to make the form shorter and complete the consultation faster",
+          "Collect as many personal data fields as possible for segmentation and analysis"
         ],
         "answer": 0,
         "explanation": "This aligns with GDPR principles of data minimisation, purpose limitation, and transparency."
@@ -278,9 +278,9 @@
         "question": "11. Προετοιμάζετε μια έρευνα δημόσιας διαβούλευσης. Τι πρέπει να δώσετε προτεραιότητα για τη συμμόρφωση;",
         "options": [
           "Σαφής δήλωση ιδιωτικότητας, ελαχιστοποίηση δεδομένων και χρήση εγκεκριμένων διακομιστών",
-          "Ανώνυμες απαντήσεις χωρίς πληροφορίες επεξεργασίας",
-          "Απενεργοποίηση πλαισίων συγκατάθεσης για ταχύτητα",
-          "Συλλογή όσο το δυνατόν περισσότερων δεδομένων για τμηματοποίηση"
+          "Συλλογή ανώνυμων απαντήσεων χωρίς παροχή πληροφοριών επεξεργασίας",
+          "Απενεργοποίηση πλαισίων συγκατάθεσης για επίτευξη ταχύτητας στην ολοκλήρωση της διαβούλευσης",
+          "Συλλογή όσο το δυνατόν περισσότερων δεδομένων για τμηματοποίηση και ανάλυση"
         ],
         "answer": 0,
         "explanation": "Αυτό ευθυγραμμίζεται με τις αρχές του GDPR για ελαχιστοποίηση των δεδομένων και διαφάνεια."
@@ -291,10 +291,10 @@
         "passage": "",
         "question": "12. What is a key requirement under the Cyber Resilience Act (CRA) for products with digital elements?",
         "options": [
-          "All software must be open source",
+          "All software used must be open source",
           "No security updates are required after sale",
           "Manufacturers must report actively exploited vulnerabilities within 24 hours",
-          "Products can be sold without any security testing"
+          "Products can be sold without any standardised security testing"
         ],
         "answer": 2,
         "explanation": "The CRA mandates timely reporting of exploited vulnerabilities to ensure a rapid response across the EU."
@@ -303,10 +303,10 @@
         "passage": "",
         "question": "12. Ποια είναι μια βασική απαίτηση της Πράξης για την Κυβερνοανθεκτικότητα (CRA) για προϊόντα με ψηφιακά στοιχεία;",
         "options": [
-          "Όλο το λογισμικό πρέπει να είναι ανοιχτού κώδικα",
+          "Όλο το χρησιμοποιούμενο λογισμικό πρέπει να είναι ανοιχτού κώδικα",
           "Δεν απαιτούνται ενημερώσεις ασφαλείας μετά την πώληση",
           "Οι κατασκευαστές πρέπει να αναφέρουν ενεργές ευπάθειες εντός 24 ωρών",
-          "Τα προϊόντα μπορούν να πωλούνται χωρίς δοκιμές ασφαλείας"
+          "Τα προϊόντα μπορούν να πωλούνται χωρίς να υποκεινται σε τυποποιημένες δοκιμές ασφαλείας"
         ],
         "answer": 2,
         "explanation": "Η CRA επιβάλλει την έγκαιρη αναφορά ευπαθειών για τη διασφάλιση ταχείας απόκρισης σε όλη την ΕΕ."
@@ -332,7 +332,7 @@
           "Αποκλεισμός του λογαριασμού του μέλους από τον διαχειριστή",
           "Επαναφορά της τελευταίας έκδοσης από το ιστορικό και ενημέρωση της ομάδας",
           "Δημιουργία νέου ιδιωτικού φακέλου με περιορισμένα δικαιώματα",
-          "Αποστολή προειδοποιητικού email στην ομάδα"
+          "Αποστολή ενημερωτικού email στην ομάδα"
         ],
         "answer": 1,
         "explanation": "Το ιστορικό εκδόσεων είναι βασική ψηφιακή δεξιότητα για την αποτελεσματική επίλυση τέτοιων προβλημάτων."
@@ -343,10 +343,10 @@
         "passage": "",
         "question": "14. What is the primary benefit of using collaborative project management tools?",
         "options": [
-          "They escalate complexity",
-          "They eliminate the need for planning",
+          "They allow wider collaboration but also escalate complexity",
+          "They eliminate the need for detailed planning",
           "They are appropriate for large teams only",
-          "They facilitate communication and organization"
+          "They facilitate communication and organization Of th eproject"
         ],
         "answer": 3,
         "explanation": "These tools streamline workflows and enhance transparency within teams."
@@ -355,10 +355,10 @@
         "passage": "",
         "question": "14. Ποιο είναι το κύριο όφελος από τη χρήση εργαλείων συνεργατικής διαχείρισης έργων;",
         "options": [
-          "Αυξάνουν την πολυπλοκότητα",
-          "Εξαλείφουν την ανάγκη για προγραμματισμό",
+          "Επιτρέπουν τη συνεργασία πολλών φορεων αλλά αυξάνουν την πολυπλοκότητα",
+          "Εξαλείφουν την ανάγκη για λεπτομερή προγραμματισμό",
           "Είναι κατάλληλα μόνο για μεγάλες ομάδες",
-          "Διευκολύνουν την επικοινωνία και την οργάνωση"
+          "Διευκολύνουν την επικοινωνία και την οργάνωση διαχείρισης του έργου"
         ],
         "answer": 3,
         "explanation": "Αυτά τα εργαλεία απλοποιούν τις ροές εργασίας και ενισχύουν τη διαφάνεια στις ομάδες."
@@ -369,7 +369,7 @@
         "passage": "",
         "question": "15. A colleague suggests sharing a confidential briefing link publicly to speed up feedback. What is the best response?",
         "options": [
-          "Agree, but remove the link after 24 hours",
+          "Agree, but use an automated link removal software after 24 hours",
           "Download the document and share it via personal email",
           "Refuse and grant access only to specific, named partners",
           "Accept, but suggest avoiding sensitive details"
@@ -381,7 +381,7 @@
         "passage": "",
         "question": "15. Ένας συνάδελφος προτείνει τη δημόσια κοινοποίηση συνδέσμου εμπιστευτικής ενημέρωσης για ταχύτερο feedback. Ποια είναι η καλύτερη απάντηση;",
         "options": [
-          "Συμφωνία, αλλά αφαίρεση του συνδέσμου μετά από 24 ώρες",
+          "Συμφωνία, αλλά με χρήση λογισμικού αυτόματης αφαίρεσης του συνδέσμου μετά από 24 ώρες",
           "Λήψη του εγγράφου και κοινοποίηση μέσω προσωπικού email",
           "Άρνηση και παροχή πρόσβασης μόνο σε συγκεκριμένους συνεργάτες",
           "Αποδοχή, με την παράκληση να αποφευχθούν ευαίσθητες λεπτομέρειες"
@@ -397,8 +397,8 @@
         "options": [
           "Conduct a compliance and data transfer assessment",
           "Continue use without review",
-          "Ban it immediately without alternative",
-          "Migrate all data to personal drives"
+          "Ban it immediately even before securing alternative solution",
+          "Immediately migrate all data to personal drives"
         ],
         "answer": 0,
         "explanation": "Competent digital users must evaluate cross-border data transfer compliance (e.g., following Schrems II rulings)."
@@ -409,8 +409,8 @@
         "options": [
           "Διενέργεια αξιολόγησης συμμόρφωσης και μεταφοράς δεδομένων",
           "Συνέχιση της χρήσης χωρίς έλεγχο",
-          "Άμεση απαγόρευση χωρίς εναλλακτική",
-          "Μεταφορά όλων των δεδομένων σε προσωπικούς δίσκους"
+          "Άμεση απαγόρευση ακόμη και χωρίς διασφάλιση εναλλακτικής λύσης",
+          "Αμεση μεταφορά όλων των δεδομένων σε προσωπικούς δίσκους"
         ],
         "answer": 0,
         "explanation": "Οι ψηφιακά ικανοί χρήστες οφείλουν να αξιολογούν τη συμμόρφωση στις διασυνοριακές μεταφορές δεδομένων."
