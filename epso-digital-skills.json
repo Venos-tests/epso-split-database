@@ -1607,12 +1607,12 @@
     },
     "el": {
       "passage": "",
-      "question": "2. Σε μια υβριδική συνάντηση, οι απομακρυσμένοι συμμετέχοντες αγνοούνται από όσους βρίσκονται στο δωμάτιο. Ως επικεφαλής της συνάντησης, τι κάνετε;",
+      "question": "2. Σε μια υβριδική συνάντηση, οι απομακρυσμένοι συμμετέχοντες αγνοούνται από όσους βρίσκονται στο δωμάτιο. Ως επικεφαλής της συνάντησης, τι πρέπει να κάνετε;",
       "options": [
         "Να διακόψετε τη συνάντηση και να ζητήσετε από όλους να έρθουν στο γραφείο.",
-        "Να συνεχίσετε κανονικά και να στείλετε την εγγραφή στο απομακρυσμένο προσωπικό αργότερα.",
-        "Να ζητάτε ενεργά πρώτα τη γνώμη των απομακρυσμένων συμμετεχόντων και να διασφαλίζετε ισότιμη ψηφιακή συμμετοχή.",
-        "Να πείτε στους απομακρυσμένους συμμετέχοντες να μιλούν πιο δυνατά αν έχουν κάτι να πουν."
+        "Να συνεχίσετε κανονικά και να στείλετε την εγγραφή της συνάντησης στο απομακρυσμένο προσωπικό αργότερα.",
+        "Να ζητάτε ενεργά πρώτα τη γνώμη των απομακρυσμένων συμμετεχόντων προκειμένου να διασφαλίζετε ισότιμη ψηφιακή συμμετοχή.",
+        "Να ζητήσετε από τους απομακρυσμένους συμμετέχοντες να μιλούν πιο δυνατά όταν έχουν κάτι να πουν."
       ],
       "answer": 2,
       "explanation": "Η υβριδική ηγεσία απαιτεί σκόπιμη ένταξη για την αντιμετώπιση της 'προκατάληψης παρουσίας'. Η ψηφιακά προσανατολισμένη προσέγγιση διασφαλίζει ίση φωνή για τους απομακρυσμένους συμμετέχοντες. Πηγή: Ψηφιακές Δεξιότητες Ηγεσίας / DigComp 2.2."
@@ -1625,7 +1625,7 @@
       "options": [
         "Yes, it can normalize deceptive technology and poses a security and ethics risk in a professional context.",
         "No, it is just a joke and shows they are tech-savvy.",
-        "Only if the voice filter belongs to a famous person.",
+        "Only if the voice filter belongs to a famous person Or a EU executive.",
         "No, as long as the call was not recorded."
       ],
       "answer": 0,
@@ -1637,8 +1637,8 @@
       "options": [
         "Ναι, μπορεί να εξομαλύνει την παραπλανητική τεχνολογία και αποτελεί κίνδυνο ασφάλειας και ηθικής σε επαγγελματικό πλαίσιο.",
         "Όχι, είναι απλώς πλάκα και δείχνει ότι είναι τεχνολογικά καταρτισμένος.",
-        "Μόνο αν το φίλτρο φωνής ανήκει σε διάσημο πρόσωπο.",
-        "Όχι, εφόσον η κλήση δεν ηχογραφήθηκε."
+        "Μόνο αν το φίλτρο φωνής ανήκει σε διάσημο πρόσωπο ή στέλεχος της διεύθυνσης.",
+        "Όχι, εφόσον η κλήση δεν καταγράφεται ή ηχογραφείται."
       ],
       "answer": 0,
       "explanation": "Η εξομάλυνση των deepfakes — ακόμα και σε ανεπίσημα πλαίσια — διαβρώνει την θεσμική εμπιστοσύνη και απευαισθητοποιεί το προσωπικό σε παραπλανητικές τεχνικές που χρησιμοποιούνται όλο και περισσότερο σε επιθέσεις κοινωνικής μηχανικής. Πηγή: Νόμος ΤΝ της ΕΕ / Κατευθυντήριες Γραμμές Ψηφιακής Ηθικής."
@@ -1651,7 +1651,7 @@
       "options": [
         "There are no challenges; integration is always straightforward.",
         "Modern systems cannot connect to older systems under any circumstances.",
-        "Data integration only requires copying files between folders.",
+        "Data integration only requires copying compatible files between folders.",
         "Legacy systems typically use incompatible data formats, schemas, and communication protocols."
       ],
       "answer": 3,
@@ -1661,9 +1661,9 @@
       "passage": "",
       "question": "4. Ποια είναι μια βασική πρόκληση στην ενσωμάτωση δεδομένων από πολλαπλά παλαιά συστήματα σε μεγάλους οργανισμούς;",
       "options": [
-        "Δεν υπάρχουν προκλήσεις· η ενσωμάτωση είναι πάντα απλή.",
+        "Δεν υπάρχουν προκλήσεις· η ενσωμάτωση είναι πλέον τεχνολογικά απλή.",
         "Τα σύγχρονα συστήματα δεν μπορούν να συνδεθούν με παλαιότερα συστήματα σε καμία περίπτωση.",
-        "Η ενσωμάτωση δεδομένων απαιτεί μόνο αντιγραφή αρχείων μεταξύ φακέλων.",
+        "Η ενσωμάτωση δεδομένων απαιτεί ουσιαστικά μόνο αντιγραφή συμβατών αρχείων μεταξύ φακέλων.",
         "Τα παλαιά συστήματα χρησιμοποιούν συνήθως μη συμβατές μορφές δεδομένων, σχήματα και πρωτόκολλα επικοινωνίας."
       ],
       "answer": 3,
@@ -1675,10 +1675,10 @@
       "passage": "",
       "question": "5. You need to analyze a large dataset of 50,000 rows. Which digital tool is most efficient for summarizing key trends quickly?",
       "options": [
-        "Manual tallying on paper.",
-        "Copy-pasting into a Word document.",
+        "Transpose data on paper for manual tallying .",
+        "Copy-pasting into a Word document that allows the use of a word counter.",
         "Pivot Tables in a spreadsheet or BI tool.",
-        "Creating a separate file for every 10 rows."
+        "Creating a separate file for every 100 rows."
       ],
       "answer": 2,
       "explanation": "Pivot Tables allow rapid aggregation, grouping, and cross-tabulation of large datasets without any programming. Business Intelligence (BI) tools extend this with interactive dashboards. Manual methods or fragmented files are error-prone and impractical at this scale. Source: Data Literacy / Spreadsheet Skills (DigComp 2.2)."
@@ -1687,10 +1687,10 @@
       "passage": "",
       "question": "5. Χρειάζεστε να αναλύσετε ένα μεγάλο σύνολο δεδομένων 50.000 γραμμών. Ποιο ψηφιακό εργαλείο είναι πιο αποδοτικό για γρήγορη σύνοψη βασικών τάσεων;",
       "options": [
-        "Χειροκίνητη καταμέτρηση σε χαρτί.",
-        "Αντιγραφή-επικόλληση σε έγγραφο Word.",
+        "Μεταφορά σε σε χαρτί και χειροκίνητη καταμέτρηση .",
+        "Αντιγραφή-επικόλληση σε έγγραφο Word που επιτρέπει τη χρήση μετρητή λέξεων.",
         "Συγκεντρωτικοί Πίνακες σε υπολογιστικό φύλλο ή εργαλείο BI.",
-        "Δημιουργία ξεχωριστού αρχείου για κάθε 10 γραμμές."
+        "Δημιουργία ξεχωριστού αρχείου για κάθε 100 γραμμές."
       ],
       "answer": 2,
       "explanation": "Οι Συγκεντρωτικοί Πίνακες επιτρέπουν γρήγορη ομαδοποίηση και διασταύρωση μεγάλων συνόλων δεδομένων χωρίς προγραμματισμό. Τα εργαλεία BI επεκτείνουν αυτή τη δυνατότητα με διαδραστικούς πίνακες ελέγχου. Πηγή: Ψηφιακός Γραμματισμός Δεδομένων / DigComp 2.2."
@@ -1701,7 +1701,7 @@
       "passage": "",
       "question": "6. The EU Data Act (2023) primarily aims to:",
       "options": [
-        "Prohibit the use of any cookies on websites.",
+        "Prohibit the use of any cookies on websites of public interest.",
         "Fairly distribute the value of data generated by IoT (Internet of Things) devices.",
         "Create a central EU database for all medical records.",
         "Ban the sale of data to marketing companies."
@@ -1713,7 +1713,7 @@
       "passage": "",
       "question": "6. Ο Νόμος της ΕΕ για τα Δεδομένα (2023) αποσκοπεί κυρίως σε:",
       "options": [
-        "Απαγόρευση της χρήσης cookies σε ιστότοπους.",
+        "Απαγόρευση της χρήσης cookies σε ιστότοπους δημοσίου ενδιαφέροντος.",
         "Δίκαιη κατανομή της αξίας των δεδομένων που παράγονται από συσκευές IoT (Διαδίκτυο των Πραγμάτων).",
         "Δημιουργία κεντρικής βάσης δεδομένων ΕΕ για όλα τα ιατρικά αρχεία.",
         "Απαγόρευση πώλησης δεδομένων σε εταιρείες μάρκετινγκ."
@@ -1728,7 +1728,7 @@
       "question": "7. Which statement best reflects the principles of open data governance in line with EU transparency initiatives?",
       "options": [
         "All institutional data must be kept secret from the public.",
-        "Open data increases costs and provides no organizational benefits.",
+        "Open data increases costs without providing respective organizational benefits.",
         "Open data initiatives eliminate the need for data security measures.",
         "Making non-sensitive data publicly accessible promotes transparency and enables reuse."
       ],
@@ -1740,7 +1740,7 @@
       "question": "7. Ποια δήλωση αντικατοπτρίζει καλύτερα τις αρχές της διακυβέρνησης ανοιχτών δεδομένων σύμφωνα με τις πρωτοβουλίες διαφάνειας της ΕΕ;",
       "options": [
         "Όλα τα θεσμικά δεδομένα πρέπει να παραμένουν μυστικά από το κοινό.",
-        "Τα ανοιχτά δεδομένα αυξάνουν το κόστος και δεν προσφέρουν οργανωτικά οφέλη.",
+        "Τα ανοιχτά δεδομένα αυξάνουν το κόστος χωρίς να προσφέρουν ανάλογα οργανωτικά οφέλη.",
         "Οι πρωτοβουλίες ανοιχτών δεδομένων εξαλείφουν την ανάγκη για μέτρα ασφάλειας δεδομένων.",
         "Η δημόσια πρόσβαση σε μη ευαίσθητα δεδομένα προωθεί τη διαφάνεια και επιτρέπει την επαναχρησιμοποίησή τους."
       ],
@@ -1753,7 +1753,7 @@
       "passage": "",
       "question": "8. An EU official searches for a new regulation using two different search engines and notices very different results. What is the most likely reason?",
       "options": [
-        "One of the search engines is experiencing a technical problem.",
+        "One of the search engines is experiencing technical limitations compared to the other.",
         "The regulation was published only on a limited number of websites.",
         "The official entered the search terms incorrectly.",
         "The search engines use different algorithms and personalization methods."
@@ -1765,7 +1765,7 @@
       "passage": "",
       "question": "8. Ένας αξιωματούχος της ΕΕ αναζητά έναν νέο κανονισμό χρησιμοποιώντας δύο διαφορετικές μηχανές αναζήτησης και παρατηρεί πολύ διαφορετικά αποτελέσματα. Ποια είναι η πιο πιθανή αιτία;",
       "options": [
-        "Μία από τις μηχανές αναζήτησης αντιμετωπίζει τεχνικό πρόβλημα.",
+        "Μία από τις μηχανές αναζήτησης έχει περιορισμένες τεχνικές δυνατότητες σε σχέση με την άλλη.",
         "Ο κανονισμός δημοσιεύτηκε μόνο σε περιορισμένο αριθμό ιστότοπων.",
         "Ο αξιωματούχος εισήγαγε λανθασμένα τους όρους αναζήτησης.",
         "Οι μηχανές αναζήτησης χρησιμοποιούν διαφορετικούς αλγόριθμους και μεθόδους εξατομίκευσης."
@@ -1782,7 +1782,7 @@
         "Store all documents indefinitely without organization.",
         "Prevent any employee access to historical documents.",
         "Systematically control the creation, maintenance, use, and disposition of records.",
-        "Replace digital systems with paper-based filing."
+        "Gradually replace digital systems with paper-based filing."
       ],
       "answer": 2,
       "explanation": "Records management ensures systematic control of records from creation through to disposal, guaranteeing regulatory compliance, institutional memory, and auditability. Indefinite, unorganized storage or blanket access restrictions both undermine good governance. Source: ISO 15489 / EU Records Management Rules."
@@ -1791,10 +1791,10 @@
       "passage": "",
       "question": "9. Σύμφωνα με τα θεσμικά πρότυπα της ΕΕ, ποιος είναι ο σκοπός της διαχείρισης αρχείων στη διακυβέρνηση δεδομένων;",
       "options": [
-        "Αποθήκευση όλων των εγγράφων επ' αόριστον χωρίς οργάνωση.",
-        "Πρόληψη πρόσβασης οποιουδήποτε υπαλλήλου σε ιστορικά έγγραφα.",
+        "Αποθήκευση όλων των εγγράφων επ' αόριστον χωρίς ενιαία οργάνωση.",
+        "Αποτροπή πρόσβασης υπαλλήλων σε ιστορικά έγγραφα.",
         "Συστηματικός έλεγχος της δημιουργίας, συντήρησης, χρήσης και διάθεσης των αρχείων.",
-        "Αντικατάσταση ψηφιακών συστημάτων με έντυπη αρχειοθέτηση."
+        "Βαθμιαία αντικατάσταση ψηφιακών συστημάτων με έντυπη αρχειοθέτηση."
       ],
       "answer": 2,
       "explanation": "Η διαχείριση αρχείων διασφαλίζει συστηματικό έλεγχο από τη δημιουργία έως την απόρριψη, εγγυώμενη τη συμμόρφωση, τη θεσμική μνήμη και τη δυνατότητα ελέγχου. Πηγή: ISO 15489 / Κανόνες Διαχείρισης Αρχείων ΕΕ."
@@ -1829,7 +1829,7 @@
   {
     "en": {
       "passage": "",
-      "question": "11. You open a shared document and notice a colleague is currently editing a paragraph you also need to update. What is the most appropriate first step?",
+      "question": "11. You open a shared document and notice that a colleague is currently editing a paragraph you also need to update. What is the most appropriate first step?",
       "options": [
         "Add a comment or use suggestion/track-changes mode for the paragraph.",
         "Wait for the colleague to finish and close the document before editing.",
@@ -1841,11 +1841,11 @@
     },
     "el": {
       "passage": "",
-      "question": "11. Ανοίγετε ένα κοινόχρηστο έγγραφο και παρατηρείτε ότι ένας συνάδελφος επεξεργάζεται μια παράγραφο που χρειάζεστε και εσείς να ενημερώσετε. Ποιο είναι το πιο κατάλληλο πρώτο βήμα;",
+      "question": "11. Ανοίγετε ένα κοινόχρηστο έγγραφο και παρατηρείτε ότι εκείνη την ώρα ένας συνάδελφος επεξεργάζεται μια παράγραφο που χρειάζεστε και εσείς να ενημερώσετε. Ποιο είναι το πιο κατάλληλο πρώτο βήμα;",
       "options": [
         "Να προσθέσετε σχόλιο ή να χρησιμοποιήσετε τη λειτουργία πρότασης/παρακολούθησης αλλαγών για την παράγραφο.",
         "Να περιμένετε τον συνάδελφο να τελειώσει και να κλείσει το έγγραφο πριν επεξεργαστείτε.",
-        "Να επεξεργαστείτε την παράγραφο ταυτόχρονα χωρίς συντονισμό.",
+        "Να επεξεργαστείτε την παράγραφο ταυτόχρονα ανεξάρτητα και χωρίς συντονισμό.",
         "Να δημιουργήσετε προσωπικό αντίγραφο του εγγράφου και να κάνετε εκεί τις αλλαγές σας."
       ],
       "answer": 0,
@@ -1859,7 +1859,7 @@
       "options": [
         "Submit it as it is.",
         "Verify factual accuracy and check for bias or hallucinations.",
-        "Remove all references to AI usage.",
+        "Remove all references indicating AI usage.",
         "Assume AI content is neutral and requires no verification."
       ],
       "answer": 1,
@@ -1867,11 +1867,11 @@
     },
     "el": {
       "passage": "",
-      "question": "12. Χρησιμοποιείτε γεννητική ΤΝ για να συντάξετε μια σύνοψη πολιτικής. Πριν την υποβολή, ποιο είναι το πιο υπεύθυνο βήμα;",
+      "question": "12. Χρησιμοποιείτε Παραγωγική ΤΝ για να συντάξετε μια σύνοψη πολιτικής. Πριν την υποβολή, ποιο είναι το πιο υπεύθυνο βήμα;",
       "options": [
-        "Να την υποβάλετε ως έχει.",
+        "Να την υποβάλετε όπως διαμορφώθηκε από τη ΤΝ.",
         "Να επαληθεύσετε την πραγματική ακρίβεια και να ελέγξετε για προκατάληψη ή παραισθήσεις.",
-        "Να αφαιρέσετε όλες τις αναφορές στη χρήση ΤΝ.",
+        "Να αφαιρέσετε όλες τις αναφορές που υποδεικνύουν χρήση ΤΝ.",
         "Να υποθέσετε ότι το περιεχόμενο ΤΝ είναι ουδέτερο και δεν χρειάζεται επαλήθευση."
       ],
       "answer": 1,
@@ -1883,8 +1883,8 @@
       "passage": "",
       "question": "13. While working from home, your file-sharing application stops uploading changes despite a working internet connection. What should you check first?",
       "options": [
-        "Examine and if needed replace your computer's hard drive.",
-        "Restart your television or other connected devices to check internet health.",
+        "Examine and if needed replace your computer's Modem ορ Ethernet.",
+        "Restar another computer or your television or other connected devices to check internet health.",
         "Contact your mobile phone provider immediately.",
         "Verify whether the application requires an update or if your storage limit has been reached."
       ],
@@ -1895,8 +1895,8 @@
       "passage": "",
       "question": "13. Ενώ εργάζεστε από το σπίτι, η εφαρμογή κοινής χρήσης αρχείων σταματά να ανεβάζει αλλαγές παρόλο που η σύνδεσή σας στο διαδίκτυο λειτουργεί. Τι πρέπει να ελέγξετε πρώτα;",
       "options": [
-        "Να εξετάσετε και αν χρειαστεί να αντικαταστήσετε τον σκληρό δίσκο του υπολογιστή σας.",
-        "Να επανεκκινήσετε την τηλεόρασή σας ή άλλες συνδεδεμένες συσκευές για να ελέγξετε την υγεία του διαδικτύου.",
+        "Να εξετάσετε και αν χρειαστεί να αντικαταστήσετε το Modem ή το Ethernet του υπολογιστή σας.",
+        "Να επανεκκινήσετε έναν άλλο υπολογιστή ή την τηλεόρασή σας ή άλλες συνδεδεμένες συσκευές για να ελέγξετε την υγεία του διαδικτύου.",
         "Να επικοινωνήσετε αμέσως με τον πάροχο κινητής τηλεφωνίας σας.",
         "Να επαληθεύσετε αν η εφαρμογή χρειάζεται ενημέρωση ή αν έχει συμπληρωθεί το όριο αποθηκευτικού χώρου."
       ],
@@ -1910,7 +1910,7 @@
       "question": "14. You find statistical data on a blog citing 'recent EU labour statistics' but without source links. What is your first action?",
       "options": [
         "Use the data but mention the blog as a source.",
-        "Compare the numbers with social media commentary.",
+        "Compare the numbers with credible social media commentary.",
         "Search for the dataset on the official EU portal and verify its methodology.",
         "Use the figures since they align with your understanding and expectations."
       ],
@@ -1922,9 +1922,9 @@
       "question": "14. Βρίσκετε στατιστικά δεδομένα σε blog που αναφέρει 'πρόσφατες στατιστικές εργασίας ΕΕ' χωρίς συνδέσμους πηγών. Ποια είναι η πρώτη σας ενέργεια;",
       "options": [
         "Να χρησιμοποιήσετε τα δεδομένα αλλά να αναφέρετε το blog ως πηγή.",
-        "Να συγκρίνετε τους αριθμούς με σχόλια στα μέσα κοινωνικής δικτύωσης.",
+        "Να συγκρίνετε τους αριθμούς με σχόλια σε αξιόπιστα μέσα κοινωνικής δικτύωσης.",
         "Να αναζητήσετε το σύνολο δεδομένων στην επίσημη πύλη ΕΕ και να επαληθεύσετε τη μεθοδολογία του.",
-        "Να χρησιμοποιήσετε τα στοιχεία επειδή συμφωνούν με την κατανόηση και τις προσδοκίες σας."
+        "Να χρησιμοποιήσετε τα στοιχεία εφόσον συμφωνούν με την κατανόηση και τις προσδοκίες σας."
       ],
       "answer": 2,
       "explanation": "Οι αναφορές χωρίς συνδέσμους αποτελούν προειδοποιητικό σήμα για αναξιόπιστα δεδομένα. Ο υπεύθυνος ψηφιακός γραμματισμός απαιτεί επαλήθευση προέλευσης και μεθοδολογίας στην πρωτογενή πηγή — εν προκειμένω Eurostat ή επίσημες πύλες ΕΕ. Πηγή: DigComp 2.2."
@@ -1936,9 +1936,9 @@
       "question": "15. You learn that your new team uses a China-based tool storing data outside the EU with low transparency. What is your decision?",
       "options": [
         "Conduct a compliance and data transfer assessment.",
-        "Continue using it without reviewing.",
+        "Continue using it without reviewing as it has proved trustworthy.",
         "Ban it immediately.",
-        "Migrate all data to personal drives."
+        "Migrate all data to personal drives for re-examination."
       ],
       "answer": 0,
       "explanation": "Evaluating tool compliance regarding cross-border data transfers is part of digital competence and data protection responsibility. Under GDPR, transferring personal data outside the EU requires adequate safeguards. A structured assessment — rather than outright banning or ignoring — is the proportionate, legally sound response. Source: GDPR (Articles 44-49) / DigComp 2.2 — Digital security and privacy."
@@ -1948,9 +1948,9 @@
       "question": "15. Μαθαίνετε ότι η νέα σας ομάδα χρησιμοποιεί ένα εργαλείο με έδρα την Κίνα που αποθηκεύει δεδομένα εκτός ΕΕ με χαμηλή διαφάνεια. Ποια είναι η απόφασή σας;",
       "options": [
         "Να διενεργήσετε αξιολόγηση συμμόρφωσης και μεταφοράς δεδομένων.",
-        "Να συνεχίσετε να το χρησιμοποιείτε χωρίς αξιολόγηση.",
+        "Εφόσον λειτουργεία ποδοτικά να συνεχίσετε να το χρησιμοποιείτε χωρίς αξιολόγηση.",
         "Να το απαγορεύσετε αμέσως.",
-        "Να μεταφέρετε όλα τα δεδομένα σε προσωπικές μονάδες αποθήκευσης."
+        "Να μεταφέρετε όλα τα δεδομένα σε προσωπικές μονάδες αποθήκευσης για επανέλεγχο."
       ],
       "answer": 0,
       "explanation": "Η αξιολόγηση συμμόρφωσης εργαλείων όσον αφορά διασυνοριακές μεταφορές δεδομένων αποτελεί μέρος της ψηφιακής επάρκειας και της ευθύνης προστασίας δεδομένων. Βάσει ΓΚΠΔ, η μεταφορά προσωπικών δεδομένων εκτός ΕΕ απαιτεί επαρκείς εγγυήσεις. Πηγή: ΓΚΠΔ (Άρθρα 44-49) / DigComp 2.2."
@@ -1961,8 +1961,8 @@
       "passage": "",
       "question": "16. A software update causes issues for your department users. What is your initial response?",
       "options": [
-        "Ignore the complaints.",
-        "Roll back immediately without investigation.",
+        "Ignore the complaints and require that they familiarize temselves with the new version.",
+        "Roll back immediately without investigation to avoid wasting precious time.",
         "Gather feedback from the users experiencing issues.",
         "Blame the developers and demand immediate replacement of the software."
       ],
@@ -1973,8 +1973,8 @@
       "passage": "",
       "question": "16. Μια ενημέρωση λογισμικού προκαλεί προβλήματα στους χρήστες του τμήματός σας. Ποια είναι η αρχική σας αντίδραση;",
       "options": [
-        "Να αγνοήσετε τα παράπονα.",
-        "Να κάνετε αμέσως επαναφορά χωρίς διερεύνηση.",
+        "Να αγνοήσετε τα παράπονα και να ζητήσετε να επιμείνουν στην εξοικείωση τους με τη νέα έκδοση.",
+        "Να κάνετε αμέσως επαναφορά χωρίς διερεύνηση για να αποφύγετε απώλεια χρόνου εργασίας.",
         "Να συλλέξετε σχόλια από τους χρήστες που αντιμετωπίζουν προβλήματα.",
         "Να κατηγορήσετε τους προγραμματιστές και να ζητήσετε άμεση αντικατάσταση του λογισμικού."
       ],
@@ -2013,7 +2013,7 @@
       "passage": "",
       "question": "18. What are the typical stages of a data lifecycle in organizational information management?",
       "options": [
-        "All of the above.",
+        "All of the following.",
         "Collection, Processing, Analysis, Archival, Deletion.",
         "Creation, Storage, Use, Sharing, Destruction.",
         "Reception, Integration, Retention, Auditing, Expunging."
@@ -2025,7 +2025,7 @@
       "passage": "",
       "question": "18. Ποια είναι τα τυπικά στάδια του κύκλου ζωής δεδομένων στη διαχείριση οργανωτικών πληροφοριών;",
       "options": [
-        "Όλα τα παραπάνω.",
+        "Όλα τα παρακάτω.",
         "Συλλογή, Επεξεργασία, Ανάλυση, Αρχειοθέτηση, Διαγραφή.",
         "Δημιουργία, Αποθήκευση, Χρήση, Κοινοποίηση, Καταστροφή.",
         "Λήψη, Ενσωμάτωση, Διατήρηση, Έλεγχος, Εξάλειψη."
@@ -2068,7 +2068,7 @@
         "The physical weight of a communication device such as a smartphone or laptop.",
         "The trail of data you leave behind when using the internet, including websites visited and social media posts.",
         "A biometric security feature used to unlock PCs and tablets.",
-        "The amount of electricity that a data centre consumes on an annual basis."
+        "The amount of electricity that a digital data centre consumes on an annual basis."
       ],
       "answer": 1,
       "explanation": "A digital footprint is the cumulative record of data traces left by a person's online activity — browsing history, search queries, social media interactions, purchases, and more. It can be active (data you intentionally share) or passive (data collected without direct input). Digital footprints are persistent, searchable, and have implications for privacy and reputation. Source: DigComp 2.2 / ENISA Awareness Resources."
@@ -2080,7 +2080,7 @@
         "Το φυσικό βάρος μιας συσκευής επικοινωνίας όπως smartphone ή laptop.",
         "Το ίχνος δεδομένων που αφήνετε όταν χρησιμοποιείτε το διαδίκτυο, συμπεριλαμβανομένων ιστότοπων που επισκεφθήκατε και αναρτήσεων στα μέσα κοινωνικής δικτύωσης.",
         "Ένα βιομετρικό χαρακτηριστικό ασφαλείας που χρησιμοποιείται για ξεκλείδωμα υπολογιστών και tablet.",
-        "Η ποσότητα ηλεκτρικής ενέργειας που καταναλώνει ένα κέντρο δεδομένων ετησίως."
+        "Η ποσότητα ηλεκτρικής ενέργειας που καταναλώνει ένα κέντρο ψηφιακών δεδομένων ετησίως."
       ],
       "answer": 1,
       "explanation": "Το ψηφιακό αποτύπωμα είναι το αθροιστικό αρχείο ιχνών δεδομένων από την online δραστηριότητα ενός ατόμου — ιστορικό περιήγησης, αναζητήσεις, αλληλεπιδράσεις μέσων κοινωνικής δικτύωσης, αγορές. Μπορεί να είναι ενεργητικό (δεδομένα που μοιράζεστε εκούσια) ή παθητικό (δεδομένα που συλλέγονται χωρίς άμεση εισροή). Πηγή: DigComp 2.2 / ENISA."
