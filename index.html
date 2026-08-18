@@ -122,6 +122,7 @@
 
     <div id="result-view" class="view">
         <h2 id="txt-result-title" style="border:none; text-align:center;">Results</h2>
+        <div id="result-subtitle" style="text-align:center; color:#666; font-size:1.1em; margin-top:-10px; margin-bottom:5px;"></div>
         <div id="final-score" style="font-size:5em; color:var(--eu-blue); font-weight:bold; margin:20px 0; text-align:center;"></div>
         <div id="save-status" style="text-align:center; font-size:0.85em; color:#888; min-height:1.2em; margin-bottom:10px;"></div>
         <div style="text-align:center; margin-bottom:30px;">
@@ -638,6 +639,12 @@
         hideAllViews();
         document.getElementById('result-view').style.display = 'block';
         document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
+        var catNamesEl = { verbal: 'Λεκτική Συλλογιστική', num: 'Αριθμητική Συλλογιστική', abstract: 'Αφηρημένη Συλλογιστική', eu: 'Γνώσεις ΕΕ', ds: 'Ψηφιακές Δεξιότητες' };
+        var catNamesEn = { verbal: 'Verbal Reasoning', num: 'Numerical Reasoning', abstract: 'Abstract Reasoning', eu: 'EU Knowledge', ds: 'Digital Skills' };
+        var prefix = selectedTestKey.split('_')[0];
+        var num = selectedTestKey.split('_')[1];
+        var catName = (currentLang === 'el' ? catNamesEl[prefix] : catNamesEn[prefix]) || getCategory(selectedTestKey);
+        document.getElementById('result-subtitle').innerText = catName + ' — ' + (currentLang === 'el' ? 'Τεστ' : 'Test') + ' #' + num;
 
         var savedTestKey = selectedTestKey, savedMode = currentMode, savedQuestions = activeQuestions, savedAnswers = userAnswers;
         saveAttempt(savedTestKey, score, savedQuestions.length, savedMode).then(function(ok) {
