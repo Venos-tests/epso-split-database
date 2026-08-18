@@ -2094,7 +2094,7 @@
         "question": "What is the most appropriate first step before using this data in a report?",
         "options": [
           "Recalculate totals using the raw data and flag the discrepancy to your colleague for clarification.",
-          "Use the summary sheet as-is since the colleague compiled it.",
+          "Use the summary sheet as-is since the colleague who compiled it bears responsibility.",
           "Ignore the discrepancy since it is a minor accounting classification issue.",
           "Delete the spreadsheet and request entirely new data from all three agencies."
         ],
@@ -2102,12 +2102,12 @@
         "explanation": "DigComp 2.2 — Evaluating data: Cross-checking source data against summaries and flagging inconsistencies before use is a core information literacy skill."
       },
       "el": {
-        "passage": "1. Ένας συνάδελφος σας στέλνει ένα υπολογιστικό φύλλο Excel με δεδομένα εξόδων ανά τρίμηνο για τρεις υπηρεσίες της ΕΕ. Το φύλλο σύνοψης δείχνει ότι η Υπηρεσία C ξόδεψε 12 εκατομμύρια € περισσότερα από την Υπηρεσία A. Ωστόσο, όταν ανοίξετε την καρτέλα των αρχικών δεδομένων, παρατηρείτε ότι τα στοιχεία της Υπηρεσίας A δεν περιλαμβάνουν ένα συμβόλαιο προμήθειας 15 εκατομμυρίων € που έχει καταχωρηθεί ως 'κεφαλαιοκαταβολική δαπάνη'.",
+        "passage": "1. Ένας συνάδελφος σας στέλνει ένα υπολογιστικό φύλλο Excel με δεδομένα εξόδων ανά τρίμηνο για τρεις υπηρεσίες της ΕΕ. Το φύλλο σύνοψης δείχνει ότι η Υπηρεσία C ξόδεψε 12 εκατομμύρια € περισσότερα από την Υπηρεσία A. Ωστόσο, όταν ανοίξετε την καρτέλα των αρχικών δεδομένων, παρατηρείτε ότι τα στοιχεία της Υπηρεσίας A δεν περιλαμβάνουν ένα συμβόλαιο προμήθειας 15 εκατομμυρίων € που έχει καταχωρηθεί ως 'κεφαλαιουχική δαπάνη'.",
         "question": "Ποια είναι η πιο κατάλληλη πρώτη ενέργεια πριν χρησιμοποιήσετε αυτά τα δεδομένα σε μια έκθεση;",
         "options": [
           "Ανακαταμετρήστε τα σύνολα χρησιμοποιώντας τα αρχικά δεδομένα και σημειώστε τη διαφορά στον συνάδελφό σας για διευκρίνιση.",
-          "Χρησιμοποιήστε το φύλλο σύνοψης όπως είναι, αφού ο συνάδελφος το συνέταξε.",
-          "Αγνοήστε τη διαφορά, αφού πρόκειται για μια μικρή λογιστική ταξινόμηση.",
+          "Χρησιμοποιήστε το φύλλο σύνοψης όπως είναι, αφού άλλος συνάδελφος το συνέταξε.",
+          "Αγνοήστε τη διαφορά, αφού πρόκειται για μια μικρή λογιστική διαφορά στη ταξινόμηση.",
           "Διαγράψτε το υπολογιστικό φύλλο και ζητήστε εντελώς νέα δεδομένα από τις τρεις υπηρεσίες."
         ],
         "answer": 0,
@@ -2131,7 +2131,7 @@
         "passage": "2. Η μονάδα σας πρέπει να προετοιμάσει ένα έγγραφο ενημερωτικού χαρακτήρα για τις τάσεις ποιότητας αέρα στα κράτη μέλη της ΕΕ. Διαθέτετε πρόσβαση στην πύλη ανοικτών δεδομένων του Ευρωπαϊκού Περιβαλλοντικού Γραφείου, σε ένα σύνολο δεδομένων του Παγκόσμιου Οργανισμού Υγείας και σε μια πρόσφατη αξιολογημένη ακαδημαϊκή μελέτη.",
         "question": "Ποια στρατηγική πηγών εξασφαλίζει καλύτερα ότι το έγγραφο βασίζεται σε αξιόπιστες αποδείξεις;",
         "options": [
-          "Χρησιμοποιήστε μόνο την ακαδημαϊκή μελέτη, αφού έχει αξιολογηθεί από συναδέλφους και είναι η πιο πρόσφατη.",
+          "Χρησιμοποιήστε μόνο την ακαδημαϊκή μελέτη, αφού έχει αξιολογηθεί από ομότιμους συναδέλφους και είναι η πιο πρόσφατη.",
           "Συνδυάστε τα ανοικτά δεδομένα του ΕΠΓ, το σύνολο δεδομένων του ΠΟΥ και την ακαδημαϊκή μελέτη για μια βάση αποδείξεων από πολλαπλές πηγές.",
           "Χρησιμοποιήστε μόνο το σύνολο δεδομένων του ΠΟΥ, αφού παρέχει παγκόσμια συγκρισιμότητα.",
           "Βασιστείτε σε ειδησεογραφικά άρθρα, αφού είναι πιο προσβάσιμα σε μη ειδικούς αναγνώστες."
@@ -2145,8 +2145,8 @@
         "passage": "3. You are responsible for maintaining a shared folder containing over 500 policy documents. A new colleague needs to locate all documents related to 'digital identity' published after 2021.",
         "question": "Which approach is most efficient and reliable?",
         "options": [
-          "Ask the colleague to open each folder and read filenames one by one.",
-          "Create a new folder containing only documents you personally remember being relevant.",
+          "Ask the colleague to open each folder and check filenames one by one.",
+          "Create a new folder containing only pertinent documents you personally remember being relevant.",
           "Use the search function with the keyword 'digital identity' and apply a date filter for documents created after 2021.",
           "Rename all relevant files with a prefix so they appear first in alphabetical order."
         ],
@@ -2154,11 +2154,11 @@
         "explanation": "DigComp 2.2 — Browsing, searching and filtering: Efficient search with combined keyword and date filters is the standard method for navigating large document repositories."
       },
       "el": {
-        "passage": "3. Είστε υπεύθυνος για τη διαχείριση ενός κοινού φακέλου που περιέχει πάνω από 500 πολιτικά έγγραφα. Ένας νέος συνάδελφος πρέπει να εντοπίσει όλα τα έγγραφα που αφορούν τη 'ψηφιακή ταυτότητα' και δημοσιεύθηκαν μετά το 2021.",
+        "passage": "3. Είστε υπεύθυνος για τη διαχείριση ενός κοινού φακέλου που περιέχει πάνω από 500 έγγραφα πολιτικής. Ένας νέος συνάδελφος πρέπει να εντοπίσει ανάμεσα τους όλα τα έγγραφα που αφορούν τη 'ψηφιακή ταυτότητα' και δημοσιεύθηκαν μετά το 2021.",
         "question": "Ποια προσέγγιση είναι πιο αποτελεσματική και αξιόπιστη;",
         "options": [
-          "Ζητήστε από τον συνάδελφο να ανοίξει κάθε φάκελο και να διαβάσει τα ονόματα αρχείων ένα-ένα.",
-          "Δημιουργήστε έναν νέο φάκελο που περιέχει μόνο έγγραφα που θυμάστε εσείς προσωπικά.",
+          "Ζητήστε από τον συνάδελφο να ανοίξει κάθε φάκελο και να ελέγξει τα ονόματα των αρχείων ένα-ένα.",
+          "Δημιουργήστε έναν νέο φάκελο που περιέχει μόνο σχετικά έγγραφα που θυμάστε εσείς προσωπικά.",
           "Χρησιμοποιήστε τη λειτουργία αναζήτησης με τη λέξη-κλειδί 'ψηφιακή ταυτότητα' και εφαρμόστε φίλτρο ημερομηνίας για έγγραφα μετά το 2021.",
           "Μετονομάστε όλα τα σχετικά αρχεία με ένα πρόθεμα ώστε να εμφανίζονται πρώτα σε αλφαβητική σειρά."
         ],
@@ -2180,12 +2180,12 @@
         "explanation": "DigComp 2.2 — Managing data: Bar and pie charts are the most intuitive formats for proportional distributions when addressing non-technical audiences."
       },
       "el": {
-        "passage": "4. Πρέπει να παρουσιάσετε την κατανομή προσωπικού σε πέντε βαθμούς μισθολογίκους σε υψηλότερους αξιωματούχους. Τα δεδομένα δείχνουν: A* (2%), A (8%), B (25%), C (40%), D (25%).",
+        "passage": "4. Πρέπει να παρουσιάσετε την κατανομή προσωπικού σε πέντε μισθολογίκους βαθμούς στο ανώτερο management. Τα δεδομένα δείχνουν: A* (2%), A (8%), B (25%), C (40%), D (25%).",
         "question": "Ποια απεικόνιση θα μεταδώσει πιο σαφώς αυτή την κατανομή σε ένα μη τεχνικό κοινό;",
         "options": [
           "Ένα διάγραμμα διασποράς με τον μισθό στον άξονα x και τον αριθμό προσωπικού στον άξονα y.",
           "Ένα σύννεφο λέξεων με ετικέτες βαθμών ανάλογα με το ποσοστό.",
-          "Ένα χρωματικό χάρτημα με διαβάθμιση από πράσινο σε κόκκινο.",
+          "Ένας χρωματικός 'θερμικός χάρτης' με διαβάθμιση από πράσινο σε κόκκινο.",
           "Ένα ραβδωτό ή κυκλικό διάγραμμα που δείχνει την αναλογική κατανομή στους πέντες βαθμούς."
         ],
         "answer": 3,
@@ -2199,20 +2199,20 @@
         "options": [
           "Send the agenda and supporting documents in advance, enable live captioning, and establish clear turn-taking rules.",
           "Limit the meeting to only native English speakers to avoid misunderstandings.",
-          "Record the meeting secretly to share with absent colleagues later.",
-          "Use a single shared email thread and attach all documents."
+          "Record discreetly the meeting to share with absent colleagues later.",
+          "Use a single shared email δημιουργία υποτίτλων and attach all documents."
         ],
         "answer": 0,
         "explanation": "DigComp 2.2 — Interacting and sharing through digital technologies: Preparing materials in advance, using accessibility tools like live captioning, and setting communication protocols are best practices for inclusive digital communication."
       },
       "el": {
-        "passage": "5. Διοργανώνετε μια διατμηματική εικονική συνάντηση με 15 συμμετέχοντες από 6 θεσμούς της ΕΕ. Αρκετοί συμμετέχοντες δεν είναι θρησκευτικοί ομιλητές αγγλικών, και η ημερήσια διάταξη περιλαμβάνει μια ευαίσθητη συζήτηση προϋπολογισμού.",
+        "passage": "5. Διοργανώνετε μια διατμηματική εικονική συνάντηση με 15 συμμετέχοντες από 6 θεσμικούς φορείς της ΕΕ. Αρκετοί συμμετέχοντες δεν έχουν τα αγγλικά ως μητρική γλώσσα, και η ημερήσια διάταξη περιλαμβάνει μια ευαίσθητη συζήτηση για τον προϋπολογισμό.",
         "question": "Ποιος συνδυασμός μέτρων εξασφαλίζει καλύτερα την παραγωγική και περιεκτική επικοινωνία;",
         "options": [
-          "Αποστείλτε την ημερήσια διάταξη και τα υποστηρικτικά έγγραφα εκ των προτέρων, ενεργοποιήστε ζωντανή λήψη λόγου και θέσπιστε σαφείς κανόνες εναλλαγής ομιλίας.",
+          "Αποστείλτε την ημερήσια διάταξη και τα υποστηρικτικά έγγραφα εκ των προτέρων, ενεργοποιήστε ζωντανή δημιουργία υποτίτλων και θέσπιστε σαφείς κανόνες εναλλαγής ομιλίας.",
           "Περιορίστε τη συμμετοχή σε ομιλητές αγγλικών για να αποφύγετε παρεξηγήσεις.",
-          "Καταγράψτε τη συνάντηση κρυφά για να τη μοιραστείτε με απόντες συναδέλφους αργότερα.",
-          "Χρησιμοποιήστε έναν ενιαίο email κατάστημα και επισυνάψτε όλα τα έγγραφα."
+          "Καταγράψτε διακριτικά τη συνάντηση για να τη μοιραστείτε με απόντες συναδέλφους αργότερα.",
+          "Χρησιμοποιήστε μία ενιαία ροή μηνυμάτων  email και επισυνάψτε όλα τα έγγραφα."
         ],
         "answer": 0,
         "explanation": "DigComp 2.2 — Επικοινωνία και συνεργασία: Η προετοιμασία υλικού εκ των προτέρων, η χρήση εργαλείων προσβασιμότητας και ο καθορισμός πρωτοκόλλων επικοινωνίας είναι βέλτιστες πρακτικές."
@@ -2223,7 +2223,7 @@
         "passage": "6. During a Teams meeting, a colleague accidentally shares their screen displaying personal emails before switching to the intended presentation.",
         "question": "What is the most appropriate immediate response?",
         "options": [
-          "Screenshot the emails and share them in the team chat as a joke.",
+          "Screenshot the emails and share them in the team chat as a paradigm to avoid.",
           "Politely ignore the incident, avoid drawing attention to it, and let the colleague continue.",
           "Interrupt immediately and ask them to close their personal email in front of everyone.",
           "Report the incident to the Data Protection Officer as a formal breach."
@@ -2235,7 +2235,7 @@
         "passage": "6. Κατά τη διάρκεια μιας συνάντησης στο Teams, ένας συνάδελφος κάνει κατά λάθος share την οθόνη του εμφανίζοντας προσωπικά email, πριν εναλλαχθεί στην προοριζόμενη παρουσίαση.",
         "question": "Ποια είναι η πιο κατάλληλη άμεση αντίδραση;",
         "options": [
-          "Κάντε στιγμιότυπο οθόνης των email και μοιραστείτε το στο chat της ομάδας ως αστείο.",
+          "Κάντε στιγμιότυπο οθόνης των email και μοιραστείτε το στο chat της ομάδας ως παραδειγματισμό.",
           "Αγνοήστε ευγενικά το περιστατικό, αποφεύγοντας να προσελκύσετε προσοχή, και αφήστε τον συνάδελφο να συνεχίσει.",
           "Διακόψτε αμέσως και ζητήστε του να κλείσει τα προσωπικά του email μπροστά σε όλους.",
           "Αναφέρετε το περιστατικό στον Υπεύθυνο Προστασίας Δεδομένων ως επίσημη παραβίαση."
@@ -2249,7 +2249,7 @@
         "passage": "7. Your team is co-editing a 40-page strategic document using an online collaborative platform. You notice that a senior colleague has overwritten a section you spent two hours drafting, without leaving any comment or track changes.",
         "question": "What is the most professional way to handle this?",
         "options": [
-          "Quietly restore your version and delete theirs without telling anyone.",
+          "Quietly restore your version and delete the one of your colleague without telling anyone.",
           "Report the colleague to management for data tampering.",
           "Use the platform's version history to recover your text, then message the colleague to discuss a shared editing approach.",
           "Stop collaborating and complete the document independently."
@@ -2258,10 +2258,10 @@
         "explanation": "DigComp 2.2 — Collaborating through digital technologies: Using built-in version control tools and communicating constructively are essential collaborative competences in shared digital workspaces."
       },
       "el": {
-        "passage": "7. Η ομάδα σας επεξεργάζεται από κοινού ένα 40σέλιδο στρατηγικό έγγραφο μέσω μιας συνεργατικής διαδικτυακής πλατφόρμας. Παρατηρείτε ότι ένας ανώτερος συνάδελφος έχει αντικαταστήσει ένα τμήμα που είχατε διαμορφώσει σε δύο ώρες, χωρίς να αφήσει σχόλιο ή ίχνη αλλαγών.",
+        "passage": "7. Η ομάδα σας επεξεργάζεται από κοινού ένα 40σέλιδο στρατηγικό έγγραφο μέσω μιας συνεργατικής διαδικτυακής πλατφόρμας. Παρατηρείτε ότι ένας ανώτερος συνάδελφος έχει αντικαταστήσει ένα τμήμα που είχατε αναλώσει σε δύο ώρες για να διαμορφώσετε, χωρίς να αφήσει σχόλιο ή ίχνη αλλαγών.",
         "question": "Ποιος είναι ο πιο επαγγελματικός τρόπος αντιμετώπισης;",
         "options": [
-          "Επαναφέρετε ήσυχα την έκδοσή σας και διαγράψτε τη δική τους χωρίς να πείτε σε κανέναν.",
+          "Επαναφέρετε ήσυχα την έκδοσή σας και διαγράψτε τη δική του χωρίς να πείτε σε κανέναν.",
           "Αναφέρετε τον συνάδελφο στη διοίκηση για παραποίηση δεδομένων.",
           "Χρησιμοποιήστε το ιστορικό εκδόσεων της πλατφόρμας για να ανακτήσετε το κείμενό σας, στη συνέχεια στείλτε μήνυμα στον συνάδελφο για κοινή προσέγγιση.",
           "Σταματήστε τη συνεργασία και ολοκληρώστε το έγγραφο μόνοι σας."
@@ -2276,7 +2276,7 @@
         "question": "Which digital strategy would be most effective for reaching this audience?",
         "options": [
           "Publish a 200-page PDF on the institution's intranet.",
-          "Organise a closed-door conference and livestream it on an internal channel.",
+          "Organise a closed-door conference and livestream it on a Youtube channel.",
           "Send formal press releases exclusively to national news agencies.",
           "Create short, multilingual social media content with clear infographics and a dedicated landing page."
         ],
@@ -2284,12 +2284,12 @@
         "explanation": "DigComp 2.2 — Engaging in citizenship through digital technologies: Short-form visual content in multiple languages with clear calls to action maximises reach among the target demographic."
       },
       "el": {
-        "passage": "8. Ο θεσμός σας θέλει να αυξήσει τη δημόσια συμμετοχή σε μια νέα πολιτική πρωτοβουλία της ΕΕ που απευθύνεται σε πολίτες ηλικίας 25-45 ετών σε όλα τα 27 κράτη μέλη.",
+        "passage": "8. Ο φορέας όπου εργάζεστε θέλει να αυξήσει τη δημόσια συμμετοχή σε μια νέα πολιτική πρωτοβουλία της ΕΕ που απευθύνεται σε πολίτες ηλικίας 25-45 ετών σε όλα τα 27 κράτη μέλη.",
         "question": "Ποια ψηφιακή στρατηγική θα ήταν πιο αποτελεσματική για την πρόσβαση σε αυτό το κοινό;",
         "options": [
           "Δημοσιεύστε ένα PDF 200 σελίδων στον εσωτερικό ιστότοπο του θεσμού.",
-          "Διοργανώστε μια κλειστή συνάντηση και μεταδόστε τη ζωντανά σε εσωτερικό κανάλι.",
-          "Αποστείλτε επίσημα δελτία τύπου αποκλειστικά σε εθνικά πρακτορεία ειδήσεων.",
+          "Διοργανώστε μια κλειστή συνάντηση και μεταδόστε τη ζωντανά σε κανάλι στο Youtube.",
+          "Αποστείλτε επίσημα δελτία τύπου αποκλειστικά σε όλα τα σημαντικά εθνικά πρακτορεία ειδήσεων.",
           "Δημιουργήστε σύντομο πολύγλωσσο περιεχόμενο για κοινωνικά δίκτυα με σαφή γραφικά και αφιερωμένη σελίδα."
         ],
         "answer": 3,
@@ -2314,9 +2314,9 @@
         "question": "Τι πρέπει να επαληθεύσετε πριν χρησιμοποιήσετε το γραφικό;",
         "options": [
           "Τους συγκεκριμένους όρους της άδειας CC (αναγνώριση, μη εμπορική χρήση, χωρίς παράγωγα) και να συμμορφωθείτε αντίστοιχα.",
-          "Τίποτα, αφού τα υλικά της ΕΕ είναι πάντα στον δημόσιο χώρο.",
-          "Αν το γραφικό έχει λάβει πάνω από 1.000 λήψεις.",
-          "Αν ο αρχικός δημιουργός είναι ακόμα υπάλληλος του θεσμού της ΕΕ."
+          "Τίποτα, αφού τα υλικά της ΕΕ είναι πάντα διαθέσιμα στον δημόσιο χώρο.",
+          "Κατά πόσον το συγκεκριμένο γραφικό έχει λάβει πάνω από 1.000 λήψεις.",
+          "Αν ο αρχικός δημιουργός του γραφικού παραμένει υπάλληλος του συγκεκριμένου θεσμού της ΕΕ."
         ],
         "answer": 0,
         "explanation": "DigComp 2.2 — Δικαιώματα πνευματικής ιδιοκτησίας και άδειες: Η κατανόηση και τήρηση συγκεκριμένων όρων Creative Commons είναι θεμελιώδης δεξιότητα δημιουργίας ψηφιακού περιεχομένου."
@@ -2329,19 +2329,19 @@
         "options": [
           "Use bright, animated backgrounds to make the page visually engaging.",
           "Add alternative text (alt text) to all images and ensure form fields have proper labels.",
-          "Use only uppercase text to improve readability.",
+          "Use only uppercase large size fonts in the text to improve readability.",
           "Remove all images so the page loads faster."
         ],
         "answer": 1,
         "explanation": "DigComp 2.2 — Developing digital content: Alternative text for images and properly labelled form fields are core WCAG requirements for screen reader compatibility."
       },
       "el": {
-        "passage": "10. Ετοιμάζετε μια σελίδα ανακοίνωσης για ένα νέο πρόγραμμα της ΕΕ. Η σελίδα περιέχει κείμενο, εικόνες, ένα PDF για λήψη και ένα φόρμα εγγραφής. Πρέπει να είναι προσβάσιμη σε όλους τους χρήστες, συμπεριλαμβανομένων εκείνων που χρησιμοποιούν αναγνώστη οθόνης.",
+        "passage": "10. Ετοιμάζετε μια σελίδα ανακοίνωσης για ένα νέο πρόγραμμα της ΕΕ. Η σελίδα περιέχει κείμενο, εικόνες, ένα PDF για λήψη και μία φόρμα εγγραφής. Πρέπει να είναι προσβάσιμη σε όλους τους χρήστες, συμπεριλαμβανομένων εκείνων που χρησιμοποιούν αναγνώστη οθόνης.",
         "question": "Ποιο μέτρο είναι πιο κρίσιμο για την προσβασιμότητα;",
         "options": [
           "Χρησιμοποιήστε φωτεινά, κινούμενα υπόβαθρα για οπτική έλξη.",
           "Προσθέστε εναλλακτικό κείμενο (alt text) σε όλες τις εικόνες και βεβαιωθείτε ότι τα πεδία φόρμας έχουν σωστές ετικέτες.",
-          "Χρησιμοποιήστε αποκλειστικά κεφαλαία γράμματα για βελτίωση αναγνωσιμότητας.",
+          "Χρησιμοποιήστε αποκλειστικά κεφαλαία γράμματα μεγάλου μεγέθους για βελτίωση αναγνωσιμότητας.",
           "Αφαιρέστε όλες τις εικόνες ώστε η σελίδα να φορτώνει πιο γρήγορα."
         ],
         "answer": 1,
@@ -2379,7 +2379,7 @@
         "passage": "12. Your team manually copies data from incoming email requests into a tracking spreadsheet every day. This process takes approximately 90 minutes daily and is prone to human error.",
         "question": "Which is the most practical digital improvement?",
         "options": [
-          "Hire a temporary contract worker to continue the manual process.",
+          "Hire a temporary contract worker to continue the manual process and free experienced employees for more important tasks.",
           "Stop tracking requests entirely to save time.",
           "Print all emails and file them in a physical cabinet for later manual entry.",
           "Use a mail merge tool or basic automation to extract key fields from emails into the spreadsheet automatically."
@@ -2391,7 +2391,7 @@
         "passage": "12. Η ομάδα σας αντιγράφει χειροκίνητα δεδομένα από εισερχόμενα email αιτήματα σε ένα φύλλο ελέγχου κάθε μέρα. Αυτή η διαδικασία απαιτεί περίπου 90 λεπτά ημερησίως και είναι ευάλωτη σε ανθρώπινο σφάλμα.",
         "question": "Ποια είναι η πιο πρακτική ψηφιακή βελτίωση;",
         "options": [
-          "Προσλάβετε έναν προσωρινό υπάλληλο για να συνεχίσει τη χειροκίνητη διαδικασία.",
+          "Προσλάβετε έναν προσωρινό υπάλληλο για να συνεχίσει τη χειροκίνητη διαδικασία και να απελευθερώσει τα στελέχη για σημαντικότερες εργασίες.",
           "Σταματήστε εντελώς την καταγραφή των αιτημάτων για εξοικονόμηση χρόνου.",
           "Εκτυπώστε όλα τα email και αρχειοθετήστε τα σε φυσικό αρχειοθήκη για μελλοντική χειροκίνητη εισαγωγή.",
           "Χρησιμοποιήστε εργαλείο mail merge ή αυτοματοποίηση για την αυτόματη εξαγωγή βασικών πεδίων από email στο φύλλο ελέγχου."
@@ -2445,7 +2445,7 @@
         "options": [
           "Χρησιμοποιήστε το δημόσιο Wi-Fi κανονικά, αφού τα δίκτυα αεροδρομίων είναι γενικά ασφαλή.",
           "Συνδεθείτε μέσω του VPN του θεσμού σας πριν αποκτήσετε πρόσβαση σε οποιοδήποτε έγγραφο online.",
-          "Μοιραστείτε τα διαπιστευτήριά σας με έναν αξιόπιστο συνάδελφο για να αποκτήσει πρόσβαση εκ μέρους σας.",
+          "Μοιραστείτε τα διαπιστευτήριά σας με έναν αξιόπιστο συνάδελφο για να αποκτήσει πρόσβαση εκ μέρους σας και να σας στείλει τα έγγραφα με email.",
           "Δημοσιεύστε στιγμιότυπα οθόνης των εγγράφων σε εφαρμογή μηνυμάτων για γρήγорη αναφορά."
         ],
         "answer": 1,
@@ -2457,7 +2457,7 @@
         "passage": "15. After completing a project, your colleague suggests sharing the final report with a friend who works at a non-EU consultancy, arguing that the report contains no classified information.",
         "question": "What is the most appropriate response?",
         "options": [
-          "Share only the executive summary, which is publicly available.",
+          "Share only the executive summary, which will soon be publicly available.",
           "Agree, since the report is unclassified and the consultancy is a trusted partner.",
           "Decline and explain that institutional documents are subject to internal data handling policies and cannot be shared externally without proper authorisation.",
           "Ask the friend to sign a non-disclosure agreement and then share the document."
@@ -2469,7 +2469,7 @@
         "passage": "15. Μετά την ολοκλήρωση ενός έργου, ένας συνάδελφος προτείνει να μοιραστείτε την τελική έκθεση με έναν φίλο που εργάζεται σε μη-Ευρωπαϊκό γραφείο συμβούλων, υποστηρίζοντας ότι η έκθεση δεν περιέχει εμπιστευτικές πληροφορίες.",
         "question": "Ποια είναι η πιο κατάλληλη απάντηση;",
         "options": [
-          "Μοιραστείτε μόνο τη σύνοψη, η οποία είναι δημόσια διαθέσιμη.",
+          "Μοιραστείτε μόνο τη σύνοψη, η οποία θα είναι δημόσια διαθέσιμη.",
           "Συμφωνήστε, αφού η έκθεση δεν είναι εμπιστευτική και το γραφείο είναι αξιόπιστος συνεργάτης.",
           "Αρνηθείτε και εξηγήστε ότι τα θεσμικά έγγραφα υπόκεινται σε εσωτερικές πολιτικές διαχείρισης πληροφοριών και δεν μπορούν να κοινοποιηθούν εξωτερικά χωρίς την κατάλληλη εξουσιοδότηση.",
           "Ζητήστε από τον φίλο να υπογράψει σύμφωνο εμπιστευτικότητας και στη συνέχεια μοιραστείτε το έγγραφο."
@@ -2483,9 +2483,9 @@
         "passage": "16. You spend most of your working day in front of two monitors, frequently switching between video calls, document editing, and spreadsheet analysis. Over the past month, you have experienced persistent headaches and eye strain.",
         "question": "Which combination of measures best addresses this issue?",
         "options": [
-          "Increase monitor brightness to maximum to see more clearly.",
+          "Increase monitor brightness to maximum and use the night filter to see more clearly.",
           "Switch to working exclusively on a smartphone to reduce screen size.",
-          "Take a full week off work to rest your eyes completely.",
+          "Take a full week sick leave from work to rest your eyes completely.",
           "Follow the 20-20-20 rule (every 20 minutes, look at something 20 feet/6 metres away for 20 seconds), adjust screen brightness, and ensure proper room lighting."
         ],
         "answer": 3,
@@ -2495,9 +2495,9 @@
         "passage": "16. Περνάτε το μεγαλύτερο μέρος της εργάσιμης ημέρας σας μπροστά σε δύο οθόνες, εναλλάσσοντας συχνά μεταξύ βιντεοκλήσεων, επεξεργασίας εγγράφων και ανάλυσης υπολογιστικών φύλλων. Τον τελευταίο μήνα έχετε αντιμετωπίσει μόνιμους πονοκεφάλους και κούραση των ματιών.",
         "question": "Ποιος συνδυασμός μέτρων αντιμετωπίζει καλύτερα αυτό το πρόβλημα;",
         "options": [
-          "Αυξήστε τη φωτεινότητα των οθονών στο μέγιστο για καλύτερη ορατότητα.",
-          "Μεταβείτε στην εργασία αποκλειστικά από smartphone για μείωση του μεγέθους οθόνης.",
-          "Πάρτε έναν ολόκληρο εβδομάδα άδεια για πλήρη ξεκούραση των ματιών.",
+          "Αυξήστε τη φωτεινότητα των οθονών στο μέγιστο και χρησιμοποιείστε το φίλτρο νύχτας για καλύτερη ορατότητα.",
+          "Μεταφέρετε την εργασία σας αποκλειστικά σε smartphone για μείωση του μεγέθους οθόνης.",
+          "Πάρτε μία εβδομάδα αναρρωτική άδεια για πλήρη ξεκούραση των ματιών.",
           "Ακολουθήστε τον κανόνα 20-20-20 (κάθε 20 λεπτά, κοιτάξτε κάτι σε απόσταση 6 μέτρων για 20 δευτερόλεπτα), ρυθμίστε τη φωτεινότητα της οθόνης και βεβαιωθείτε ότι υπάρχει κατάλληλος φωτισμός στο δωμάτιο."
         ],
         "answer": 3,
@@ -2522,9 +2522,9 @@
         "question": "Ποια είναι η πιο αποτελεσματική άμεση αντίδραση;",
         "options": [
           "Χρησιμοποιήστε την αποθηκευμένη στο cloud έκδοση του αρχείου, ή παρουσιάστε χρησιμοποιώντας τα σημειώματά σας και κάνοντας screen-share το έγγραφο απευθείας.",
-          "Ακυρώστε την εκδήλωση και προγραμματίστε την επόμενη εβδομάδα.",
-          "Ζητήστε συγγνώμη και ζητήστε σε κάθε συμμετέχοντα να περιμένει ενώ κάνετε επανεκκίνηση του υπολογιστή.",
-          "Αρχίστε να μιλάτε από μνήμη χωρίς κανένα οπτικό υποστήριγμα."
+          "Ακυρώστε την εκδήλωση και επαναπρογραμματίστε την για την επόμενη εβδομάδα.",
+          "Ζητήστε συγγνώμη από τους συμμετέχοντες και προτείνετε να περιμένουν ενώ εσείς κάνετε επανεκκίνηση του υπολογιστή.",
+          "Εφόσον θυμάστε ικανοποιητικά το περιεχόμενο της παρουσίασης, αρχίστε να μιλάτε από μνήμης χωρίς κανένα οπτικό υποστήριγμα."
         ],
         "answer": 0,
         "explanation": "DigComp 2.2 — Επίλυση τεχνικών προβλημάτων: Η ύπαρξη εφεδρικής πρόσβασης σε αρχεία μέσω cloud και η ικανότητα προσαρμογής υπό πίεση είναι κρίσιμη δεξιότητα ψηφικής ανθεκτικότητας."
@@ -2535,9 +2535,9 @@
         "passage": "18. Your team receives over 50 repetitive email requests per week asking for the same standard information: office opening hours, procurement procedures, and travel rules.",
         "question": "Which digital solution would most effectively reduce this workload?",
         "options": [
-          "Block all incoming emails from external addresses.",
+          "Block all incoming emails from external addresses that include relevant words.",
           "Create a public-facing FAQ page or a chatbot on the intranet that provides instant answers to recurring questions.",
-          "Hire an additional staff member to answer emails.",
+          "Hire an additional staff member to answer such emails.",
           "Set up an auto-reply that says 'We will respond within 30 days'."
         ],
         "answer": 1,
@@ -2547,10 +2547,10 @@
         "passage": "18. Η ομάδα σας λαμβάνει πάνω από 50 επαναλαμβανόμενα email ανά εβδομάδα με τις ίδιες τυπικές ερωτήσεις: ώρες λειτουργίας γραφείου, διαδικασίες προμήθειας και κανόνες ταξιδιών.",
         "question": "Ποια ψηφική λύση θα μείωσε πιο αποτελεσματικά αυτό το φορτίο εργασίας;",
         "options": [
-          "Μπλοκάρετε όλα τα εισερχόμενα email από εξωτερικές διευθύνσεις.",
+          "Μπλοκάρετε όλα τα εισερχόμενα email που περιέχουν σχετικές λέξεις από εξωτερικές διευθύνσεις.",
           "Δημιουργήστε μια δημόσια σελίδα FAQ ή ένα chatbot στον εσωτερικό ιστότοπο που παρέχει άμεσες απαντήσεις σε επαναλαμβανόμενες ερωτήσεις.",
-          "Προσλάβετε έναν επιπλέον υπάλληλο για την απάντηση σε email.",
-          "Ρυθμίστε μια αυτόματη απάντηση που λέει 'Θα απαντήσουμε εντός 30 ημερών'."
+          "Προσλάβετε έναν επιπλέον υπάλληλο για την απάντηση σε τέτοια email.",
+          "Ρυθμίστε μια αυτόματη απάντηση που λέει 'Θα σας απαντήσουμε εντός 30 ημερών'."
         ],
         "answer": 1,
         "explanation": "DigComp 2.2 — Αναγνώριση αναγκών και τεχνολογικών απαντήσεων: Ένα self-service FAQ ή chatbot αντιμετωπίζει επαναλαμβανόμενες ερωτήσεις σε κλίμακα, ελευθερώνοντας χρόνο για πιο σημαντικές εργασίες."
@@ -2564,19 +2564,19 @@
           "Mandate immediate use of the new system and disable the old one overnight.",
           "Assign a junior staff member to manage all file storage on behalf of the senior colleagues permanently.",
           "Provide targeted, hands-on training sessions tailored to their daily tasks while allowing a brief parallel-use transition period.",
-          "Abandon the new system and revert to the legacy platform."
+          "Abandon the new system and revert to the legacy platform familiar to everyone."
         ],
         "answer": 2,
         "explanation": "DigComp 2.2 — Identifying digital competence gaps: Tailored training aligned with actual daily workflows and a managed transition period ensures sustainable adoption without alienating staff."
       },
       "el": {
-        "passage": "19. Ο θεσμός σας μεταβαίνει από ένα παλαιό σύστημα διαχείρισης εγγράφων σε μια νέα cloud-βασισμένη πλατφόρμα. Το μισό τμήμα έχει προσαρμοστεί καλά, αλλά πέντε ανώτεροι συνάδελφοι αντιμετωπίζουν δυσκολίες στη βασική πλοήγηση και επανέρχονται συχνά στην αποθήκευση αρχείων στην τοπική επιφάνεια εργασίας.",
+        "passage": "19. Ο φορέας όπου εργάζεστε μεταβαίνει από ένα παλαιό σύστημα διαχείρισης εγγράφων σε μια νέα πλατφόρμα βασισμένη στο cloud. Το μισό τμήμα έχει προσαρμοστεί καλά, αλλά πέντε ανώτεροι συνάδελφοι αντιμετωπίζουν δυσκολίες στη βασική πλοήγηση και επανέρχονται συχνά στην αποθήκευση αρχείων στην τοπική επιφάνεια εργασίας.",
         "question": "Ποια προσέγγιση ισορροπεί καλύτερα τον ψηφιακό μετασχηματισμό με την υποστήριξη προσωπικού;",
         "options": [
           "Επιβάλλετε άμεση χρήση του νέου συστήματος και απενεργοποιήστε το παλιό απροειδοποίητα.",
           "Αναθέστε έναν νεότερο υπάλληλο να διαχειρίζεται μόνιμα όλη την αποθήκευση αρχείων εκ μέρους των ανωτέρων συναδέλφων.",
           "Παρέχετε στοχευμένα, πρακτικά σεμινάρια εκμάθησης προσαρμοσμένα στις καθημερινές τους εργασίες, επιτρέποντας παράλληλη χρήση κατά τη μετάβαση.",
-          "Εγκαταλείψτε το νέο σύστημα και επιστρέψτε στο παλαιό."
+          "Εγκαταλείψτε το νέο σύστημα και επιστρέψτε στο παλαιό με το οποίο όλοι είναι εξοικειωμένοι."
         ],
         "answer": 2,
         "explanation": "DigComp 2.2 — Αναγνώριση ψηφικών κενών επιμόρφωσης: Η στοχευμένη εκπαίδευση σε σχέση με τις καθημερινές εργασίες και μια διαχειριζόμενη μετάβαση εξασφαλίζουν βιώσιμη υιοθέτηση."
@@ -2599,7 +2599,7 @@
         "passage": "20. Ελέγχετε την εργασία ενός συναδέλφου και ανακαλύπτετε ότι αντιγράφει χειροκίνητα δεδομένα από ένα σαρωμένο PDF 10 σελίδων με στατιστικά σε ένα έγγραφο Word.",
         "question": "Ποια ψηφική δεξιότητα θα βελτίωνε πιο πολύ αυτή τη διαδικασία;",
         "options": [
-          "Χρησιμοποιήστε έναν επισημαντή για να σημειώσετε τα πιο σημαντικά δεδομένα στο εκτυπωμένο PDF.",
+          "Χρησιμοποιήστε έναν επισημαντή -highlighter- για να σημειώσετε τα πιο σημαντικά δεδομένα στο εκτυπωμένο PDF.",
           "Τραβήξτε φωτογραφία κάθε σελίδας και στείλτε τη στον συνάδελφο.",
           "Πληκτρολογήστε πιο γρήγορα χρησιμοποιώντας συντομεύσεις πληκτρολογίου.",
           "Χρησιμοποιήστε λογισμικό οπτικής αναγνώρισης χαρακτήρων (OCR) για να εξάγετε το κείμενο από το σαρωμένο PDF και στη συνέχεια να το επικολλήσετε και να το μορφοποιήσετε."
