@@ -2618,7 +2618,7 @@
           "The two articles, because they confirm each other.",
           "The Eurostat dataset, because it provides official data and explains the methodology.",
           "The highest percentage, because it highlights the trend more clearly.",
-          "Any source, as long as the number is recent."
+          "To the source offering the most recent data."
         ],
         "answer": 1,
         "explanation": "Official data with transparent methodology is generally more reliable than secondary sources repeating the same figure."
@@ -2630,7 +2630,7 @@
           "Στα δύο άρθρα, επειδή επιβεβαιώνουν το ένα το άλλο.",
           "Στο σύνολο δεδομένων της Eurostat, επειδή παρέχει επίσημα δεδομένα και εξηγεί τη μεθοδολογία.",
           "Στο υψηλότερο ποσοστό, επειδή αναδεικνύει πιο καθαρά την τάση.",
-          "Σε οποιαδήποτε πηγή, αρκεί ο αριθμός να είναι πρόσφατος."
+          "Σε οποιαδήποτε πηγή τα δεδομένα της οποίας είναι τα πλέον πρόσφατα."
         ],
         "answer": 1,
         "explanation": "Τα επίσημα δεδομένα με διαφανή μεθοδολογία είναι συνήθως πιο αξιόπιστα από δευτερογενείς πηγές που επαναλαμβάνουν το ίδιο ποσοστό."
@@ -2641,8 +2641,8 @@
         "passage": "2. Your team stores reports in a shared drive, but file names are inconsistent: some use dates, others abbreviations, and others generic titles like 'final version'. A new colleague cannot quickly identify the latest approved document.",
         "question": "What is the best way to improve findability?",
         "options": [
-          "Ask everyone to remember where the important files are stored.",
-          "Delete older versions so only one file remains in each folder.",
+          "Ask everyone to remember using any method they deem appropriate where the important files are stored.",
+          "Delete older versions so that only one file remains in each folder.",
           "Adopt a shared naming convention including topic, date, and version number.",
           "Move all files to one large folder to reduce navigation time."
         ],
@@ -2653,10 +2653,10 @@
         "passage": "2. Η ομάδα σας αποθηκεύει εκθέσεις σε κοινόχρηστο δίσκο, αλλά τα ονόματα αρχείων είναι ασυνεπή: άλλα χρησιμοποιούν ημερομηνίες, άλλα συντομογραφίες, και άλλα γενικούς τίτλους όπως 'τελική έκδοση'. Ένας νέος συνάδελφος δεν μπορεί να εντοπίσει γρήγορα το πιο πρόσφατο εγκεκριμένο έγγραφο.",
         "question": "Ποιος είναι ο καλύτερος τρόπος για να βελτιωθεί η δυνατότητα εντοπισμού;",
         "options": [
-          "Να ζητήσετε από όλους να θυμούνται πού βρίσκονται τα σημαντικά αρχεία.",
-          "Να διαγράψετε τις παλαιότερες εκδόσεις ώστε να απομένει μόνο ένα αρχείο σε κάθε φάκελο.",
+          "Να ζητήσετε από όλους να θυμούνται με τον δικό του τρόπο έκαστος πού βρίσκονται τα σημαντικά αρχεία.",
+          "Να διαγράψετε τις παλαιότερες εκδόσεις ώστε να απομένει πάντα μόνο ένα αρχείο σε κάθε φάκελο.",
           "Να υιοθετήσετε κοινή σύμβαση ονοματοδοσίας που να περιλαμβάνει θέμα, ημερομηνία και αριθμό έκδοσης.",
-          "Να μεταφέρετε όλα τα αρχεία σε έναν μεγάλο φάκελο για μείωση του χρόνου πλοήγησης."
+          "Να μεταφέρετε όλα τα αρχεία σε έναν ενιαίο μεγάλο φάκελο για μείωση του χρόνου πλοήγησης."
         ],
         "answer": 2,
         "explanation": "Οι συνεπείς συμβάσεις ονοματοδοσίας βελτιώνουν την ανάκτηση, τον έλεγχο εκδόσεων και τη συνεργασία."
@@ -2664,24 +2664,24 @@
     },
     {
       "en": {
-        "passage": "3. You are preparing a short briefing and find a chart on social media claiming to show EU migration trends. The chart has no source, no date, and no axis labels, but it looks visually convincing.",
+        "passage": "3. You are preparing a short briefing and find a chart on social media claiming to show EU migration trends. The chart has no source, no date, and no axis labels, but it looks visually convincing and impressive.",
         "question": "What is the most appropriate reaction?",
         "options": [
-          "Use it if it supports the key message of the briefing.",
+          "Use it as long as it supports the key message of the briefing.",
           "Redraw it in your institution's template so it looks more official.",
-          "Ignore the missing details because the trend seems plausible.",
+          "Ignore the missing details since the trend it illustrates seems plausible.",
           "Do not use it unless you can trace it back to a credible original source."
         ],
         "answer": 3,
         "explanation": "A chart without source, date, or labels cannot be properly verified and should not be used in official work."
       },
       "el": {
-        "passage": "3. Ετοιμάζετε ένα σύντομο ενημερωτικό σημείωμα και βρίσκετε στα κοινωνικά δίκτυα ένα διάγραμμα που υποτίθεται ότι δείχνει τις τάσεις μετανάστευσης στην ΕΕ. Το διάγραμμα δεν έχει πηγή, ημερομηνία ούτε ετικέτες αξόνων, αλλά φαίνεται οπτικά πειστικό.",
+        "passage": "3. Ετοιμάζετε ένα σύντομο ενημερωτικό σημείωμα και βρίσκετε στα κοινωνικά δίκτυα ένα διάγραμμα που υποτίθεται ότι δείχνει τις τάσεις μετανάστευσης στην ΕΕ. Το διάγραμμα δεν έχει πηγή, ημερομηνία ούτε ετικέτες αξόνων, αλλά φαίνεται οπτικά πειστικό και εντυπωσιακό.",
         "question": "Ποια είναι η καταλληλότερη αντίδραση;",
         "options": [
-          "Να το χρησιμοποιήσετε αν υποστηρίζει το βασικό μήνυμα του σημειώματος.",
+          "Να το χρησιμοποιήσετε εφόσον υποστηρίζει το βασικό μήνυμα του σημειώματος.",
           "Να το ανασχεδιάσετε στο πρότυπο του θεσμού σας ώστε να φαίνεται πιο επίσημο.",
-          "Να αγνοήσετε τις ελλείψεις, επειδή η τάση φαίνεται πιθανή.",
+          "Να αγνοήσετε τις ελλείψεις, καθώς η τάση που υποδεικνύει φαίνεται πιθανή.",
           "Να μην το χρησιμοποιήσετε εκτός αν μπορείτε να εντοπίσετε την αρχική αξιόπιστη πηγή του."
         ],
         "answer": 3,
@@ -2696,19 +2696,19 @@
           "Sort the data by date and create a simple line chart to visualise the trend.",
           "Print the full dataset and inspect it manually on paper.",
           "Delete rows with missing values before checking what they contain.",
-          "Convert all figures into percentages immediately."
+          "Convert all figures into percentages immediately and use them to produce a pie-chart."
         ],
         "answer": 0,
         "explanation": "A simple visualisation after sorting the data is an efficient first step for identifying broad trends."
       },
       "el": {
-        "passage": "4. Ένας συνάδελφος μοιράζεται μαζί σας ένα μεγάλο σύνολο δεδομένων και σας ζητά να εντοπίσετε αν ο αριθμός των αιτήσεων επιχορήγησης έχει γενικά αυξηθεί τα τελευταία πέντε έτη, χωρίς σύνθετη στατιστική ανάλυση.",
+        "passage": "4. Ένας συνάδελφος μοιράζεται μαζί σας ένα μεγάλο σύνολο δεδομένων και σας ζητά να εντοπίσετε αν ο αριθμός των αιτήσεων επιχορήγησης έχει γενικά αυξηθεί τα τελευταία πέντε έτη, χωρίς να χρησιμοποιήσετε σύνθετη στατιστική ανάλυση.",
         "question": "Ποιο πρώτο βήμα είναι το καταλληλότερο;",
         "options": [
           "Να ταξινομήσετε τα δεδομένα κατά ημερομηνία και να δημιουργήσετε ένα απλό γραμμικό διάγραμμα για οπτικοποίηση της τάσης.",
-          "Να εκτυπώσετε ολόκληρο το σύνολο δεδομένων και να το ελέγξετε χειροκίνητα σε χαρτί.",
+          "Να εκτυπώσετε ολόκληρο το σύνολο δεδομένων προκειμένου να το ελέγξετε οπτικά σε χαρτί.",
           "Να διαγράψετε τις γραμμές με ελλιπείς τιμές πριν εξετάσετε τι περιέχουν.",
-          "Να μετατρέψετε αμέσως όλα τα στοιχεία σε ποσοστά."
+          "Να μετατρέψετε αμέσως όλα τα στοιχεία σε ποσοστά και να τα εμφανίσετε με τη μορφή πιτογράμματος."
         ],
         "answer": 0,
         "explanation": "Μια απλή οπτικοποίηση μετά την ταξινόμηση των δεδομένων είναι αποτελεσματικό πρώτο βήμα για τον εντοπισμό γενικών τάσεων."
@@ -2731,9 +2731,9 @@
         "passage": "5. Η μονάδα σας συντάσσει από κοινού ένα ενημερωτικό σημείωμα. Ένας συνάδελφος συνεχίζει να στέλνει ενημερωμένα προσχέδια μέσω email, ενώ ένας άλλος επεξεργάζεται μια cloud-based έκδοση online. Τα μέλη της ομάδας δεν είναι πλέον βέβαια ποια έκδοση είναι η τρέχουσα.",
         "question": "Ποια λύση είναι η πιο αποτελεσματική;",
         "options": [
-          "Να συνεχίσετε και με τους δύο τρόπους ώστε όλοι να εργάζονται όπως προτιμούν.",
+          "Να συνεχίσετε και με τους δύο τρόπους παράλληλα ώστε όλοι να εργάζονται όπως προτιμούν.",
           "Να επιλέξετε έναν κοινό συνεργατικό χώρο ως τη μοναδική έγκυρη έκδοση και να σταματήσετε την παράλληλη επεξεργασία αλλού.",
-          "Να ζητήσετε από τον πιο ανώτερο συνάδελφο να αποφασίσει ποια έκδοση φαίνεται πιο πλήρης.",
+          "Να ζητήσετε από τον ιεραρχικά ανώτερο συνάδελφο να αποφασίσει ποια έκδοση φαίνεται πιο πλήρης.",
           "Να συγχωνεύσετε χειροκίνητα όλα τα προσχέδια στο τέλος της διαδικασίας."
         ],
         "answer": 1,
@@ -2754,10 +2754,10 @@
         "explanation": "Documents should be reviewed before sharing to ensure that hidden comments, tracked changes, or metadata are not disclosed inappropriately."
       },
       "el": {
-        "passage": "6. Πρέπει να στείλετε έγγραφα συνάντησης σε μια μικτή ομάδα εσωτερικού προσωπικού και εξωτερικών συμμετεχόντων. Ορισμένα συνημμένα περιέχουν εσωτερικά σχόλια που δεν πρέπει να είναι ορατά εκτός του θεσμού σας.",
+        "passage": "6. Πρέπει να στείλετε τα πρακτικά μίας συνάντησης σε μια μικτή ομάδα εσωτερικού προσωπικού και εξωτερικών συμμετεχόντων. Ορισμένα συνημμένα περιέχουν εσωτερικά σχόλια που δεν πρέπει να είναι ορατά εκτός του θεσμού σας.",
         "question": "Τι πρέπει να κάνετε πριν αποστείλετε τα έγγραφα;",
         "options": [
-          "Να στείλετε τα ίδια αρχεία σε όλους για αποφυγή σύγχυσης.",
+          "Να στείλετε τα ίδια αρχεία σε όλους τους ενδιαφερόμενους για αποφυγή σύγχυσης.",
           "Να ανεβάσετε τα αρχεία στα κοινωνικά δίκτυα ώστε να έχουν όλοι πρόσβαση.",
           "Να ελέγξετε προσεκτικά τα αρχεία, να αφαιρέσετε εσωτερικά σχόλια ή μεταδεδομένα όπου χρειάζεται και να μοιραστείτε την κατάλληλη έκδοση με κάθε ομάδα.",
           "Να μετατρέψετε όλα τα έγγραφα σε εικόνες ώστε τα σχόλια να διαβάζονται δυσκολότερα."
@@ -2774,7 +2774,7 @@
           "Privately or publicly remind participants of the speaking rules and moderate turn-taking more actively.",
           "Mute all participants except the speaker for the rest of the session.",
           "End the workshop early to avoid conflict.",
-          "Ignore the issue because active participation is positive."
+          "Ignore the issue because active participation is positive and motivating for all participants."
         ],
         "answer": 0,
         "explanation": "Moderation and clear communication rules help keep digital meetings inclusive and balanced."
@@ -2786,7 +2786,7 @@
           "Να υπενθυμίσετε ιδιωτικά ή δημόσια τους κανόνες ομιλίας και να συντονίσετε πιο ενεργά τη σειρά παρεμβάσεων.",
           "Να θέσετε όλους τους συμμετέχοντες σε σίγαση εκτός από τον ομιλητή για το υπόλοιπο της συνεδρίας.",
           "Να τερματίσετε νωρίτερα το εργαστήριο για αποφυγή σύγκρουσης.",
-          "Να αγνοήσετε το ζήτημα επειδή η ενεργή συμμετοχή είναι θετική."
+          "Να αγνοήσετε το ζήτημα επειδή η ενεργή συμμετοχή είναι θετική και παρακινητική για τους λοιπούς συμμετέχοντες."
         ],
         "answer": 0,
         "explanation": "Ο συντονισμός και οι σαφείς κανόνες επικοινωνίας βοηθούν ώστε οι ψηφιακές συναντήσεις να παραμένουν ισόρροπες και συμπεριληπτικές."
@@ -2799,20 +2799,20 @@
         "options": [
           "A structured online form or survey with a mix of closed and open questions.",
           "A paper questionnaire distributed by post.",
-          "A request for comments only by telephone.",
+          "A request for comments only by telephone or Viber.",
           "A long email asking staff to reply in free text."
         ],
         "answer": 0,
         "explanation": "Structured online forms simplify collection, comparison, and analysis of feedback."
       },
       "el": {
-        "passage": "8. Μια διεύθυνση θέλει να συλλέξει ανατροφοδότηση από το προσωπικό σχετικά με μια νέα εσωτερική διαδικασία. Σχεδιάζει να στείλει ένα μακροσκελές email και να ζητήσει από τους υπαλλήλους να απαντήσουν ατομικά με σχόλια.",
+        "passage": "8. Ενα τμήμα θέλει να συλλέξει ανατροφοδότηση από το προσωπικό σχετικά με μια νέα εσωτερική διαδικασία. Σχεδιάζει να στείλει ένα μακροσκελές email και να ζητήσει από τους υπαλλήλους να απαντήσουν ατομικά με σχόλια.",
         "question": "Ποια ψηφιακή μέθοδος είναι πιθανό να είναι πιο αποδοτική και ευκολότερη στην ανάλυση;",
         "options": [
           "Μια δομημένη online φόρμα ή έρευνα με συνδυασμό κλειστών και ανοικτών ερωτήσεων.",
           "Ένα έντυπο ερωτηματολόγιο που διανέμεται ταχυδρομικά.",
-          "Ένα αίτημα για σχόλια μόνο τηλεφωνικά.",
-          "Ένα μακρύ email που ζητά ελεύθερο κείμενο ως απάντηση."
+          "Ένα αίτημα για κατάθεση σχολίων μόνο τηλεφωνικά ή μέσω Viber.",
+          "Ένα εκτεταμένο email που ζητά ελεύθερο κείμενο ως απάντηση."
         ],
         "answer": 0,
         "explanation": "Οι δομημένες online φόρμες απλοποιούν τη συλλογή, τη σύγκριση και την ανάλυση της ανατροφοδότησης."
@@ -2825,8 +2825,8 @@
         "options": [
           "Upload the print PDF only, because the original layout should be preserved.",
           "Break the content into shorter sections, use headings and bullet points, and simplify or reformat the table for screen reading.",
-          "Convert the whole factsheet into one large image.",
-          "Remove all structure so the page looks less formal."
+          "Convert the whole factsheet into one large infographic-type image.",
+          "Remove all structure so the page looks less formal and more legible."
         ],
         "answer": 1,
         "explanation": "Content for the web should be scannable, structured, and readable on screen rather than copied unchanged from print."
@@ -2835,10 +2835,10 @@
         "passage": "9. Προσαρμόζετε ένα ενημερωτικό δελτίο πολιτικής για δημοσίευση στο διαδίκτυο. Η έντυπη έκδοση περιέχει πυκνές παραγράφους, υποσημειώσεις και έναν σύνθετο πίνακα δύο σελίδων.",
         "question": "Ποια είναι η καταλληλότερη προσαρμογή ψηφιακού περιεχομένου;",
         "options": [
-          "Να ανεβάσετε μόνο το έντυπο PDF, επειδή πρέπει να διατηρηθεί η αρχική διάταξη.",
-          "Να χωρίσετε το περιεχόμενο σε συντομότερες ενότητες, να χρησιμοποιήσετε επικεφαλίδες και κουκκίδες, και να απλοποιήσετε ή αναμορφώσετε τον πίνακα για ανάγνωση στην οθόνη.",
-          "Να μετατρέψετε ολόκληρο το δελτίο σε μία μεγάλη εικόνα.",
-          "Να αφαιρέσετε κάθε δομή ώστε η σελίδα να φαίνεται λιγότερο επίσημη."
+          "Να ανεβάσετε μόνο το έντυπο PDF, επειδή το βασικό ζητούμενο είναι να διατηρηθεί η αρχική διάταξη.",
+          "Να χωρίσετε το περιεχόμενο σε συντομότερες ενότητες, να χρησιμοποιήσετε επικεφαλίδες και κουκκίδες, και να απλοποιήσετε τον πίνακα για ανάγνωση στην οθόνη.",
+          "Να μετατρέψετε ολόκληρο το δελτίο σε μία μεγάλη εικόνα τύπου infographic.",
+          "Να αφαιρέσετε κάθε δομή ώστε η σελίδα να φαίνεται λιγότερο επίσημη και περισσότερο ευανάγνωστη."
         ],
         "answer": 1,
         "explanation": "Το περιεχόμενο για το διαδίκτυο πρέπει να είναι ευανάγνωστο στην οθόνη, δομημένο και εύκολο στη σάρωση, όχι απλώς αντιγραφή της έντυπης μορφής."
@@ -2850,9 +2850,9 @@
         "question": "Which revision would most improve the slide?",
         "options": [
           "Add more colours so each point stands out separately.",
-          "Keep the content unchanged because the information is complete.",
+          "Keep the content unchanged as long as the information is right and complete.",
           "Use a simpler layout with fewer colours, consistent fonts, and concise text highlighting the key message.",
-          "Replace all text with decorative icons only."
+          "Replace all text with attractive icons only."
         ],
         "answer": 2,
         "explanation": "Clear, consistent, and focused slide design improves readability and audience understanding."
@@ -2861,10 +2861,10 @@
         "passage": "10. Ετοιμάζετε διαφάνειες για δημόσια παρουσίαση. Μία διαφάνεια περιέχει έξι χρώματα, τρεις διαφορετικές γραμματοσειρές και μεγάλα τμήματα κειμένου αντιγραμμένα από έκθεση.",
         "question": "Ποια αναθεώρηση θα βελτίωνε περισσότερο τη διαφάνεια;",
         "options": [
-          "Να προσθέσετε περισσότερα χρώματα ώστε κάθε σημείο να ξεχωρίζει χωριστά.",
-          "Να διατηρήσετε το περιεχόμενο ως έχει, επειδή οι πληροφορίες είναι πλήρεις.",
+          "Να προσθέσετε περισσότερα χρώματα, διακριτά για κάθε τμήμα του κειμένου.",
+          "Να διατηρήσετε το περιεχόμενο ως έχει, εφόσον οι πληροφορίες που μεταφέρει είναι ορθές και πλήρεις.",
           "Να χρησιμοποιήσετε απλούστερη διάταξη με λιγότερα χρώματα, συνεπείς γραμματοσειρές και σύντομο κείμενο που αναδεικνύει το βασικό μήνυμα.",
-          "Να αντικαταστήσετε όλο το κείμενο μόνο με διακοσμητικά εικονίδια."
+          "Να αντικαταστήσετε όλο το κείμενο μόνο με εύληπτα εικονίδια που τραβούν τη προσοχή."
         ],
         "answer": 2,
         "explanation": "Η σαφής, συνεπής και στοχευμένη σχεδίαση διαφανειών βελτιώνει την αναγνωσιμότητα και την κατανόηση από το κοινό."
@@ -2875,9 +2875,9 @@
         "passage": "11. You want to reuse a photo from an external website in a brochure. The page does not mention copyright, licensing terms, or reuse permissions.",
         "question": "What is the safest course of action?",
         "options": [
-          "Use the photo if it has already been widely shared online.",
-          "Assume it is free to use for non-commercial public sector work.",
-          "Edit the photo slightly so it counts as new content.",
+          "Use the photo since it has already been widely shared online.",
+          "Assume it is free to use for non-commercial public sector work as long as it doesn't expicitly state a copyright.",
+          "Edit the photo slightly so that it counts as new content.",
           "Do not use it unless you obtain permission or verify a licence that allows reuse."
         ],
         "answer": 3,
@@ -2887,8 +2887,8 @@
         "passage": "11. Θέλετε να επαναχρησιμοποιήσετε μια φωτογραφία από εξωτερικό ιστότοπο σε φυλλάδιο. Η σελίδα δεν αναφέρει πνευματικά δικαιώματα, όρους άδειας ή δικαιώματα επαναχρησιμοποίησης.",
         "question": "Ποια είναι η ασφαλέστερη επιλογή;",
         "options": [
-          "Να χρησιμοποιήσετε τη φωτογραφία αν έχει ήδη διαδοθεί ευρέως στο διαδίκτυο.",
-          "Να θεωρήσετε ότι είναι ελεύθερη για χρήση σε μη εμπορική εργασία του δημόσιου τομέα.",
+          "Να χρησιμοποιήσετε τη φωτογραφία εφόσον κυκλοφορεί ήδη ευρέως στο διαδίκτυο.",
+          "Εφόδσον δεν αναφέρεται σε σχετικά δικαιώματα, να θεωρήσετε ότι είναι ελεύθερη για χρήση σε μη εμπορική εργασία του δημόσιου τομέα.",
           "Να επεξεργαστείτε ελαφρώς τη φωτογραφία ώστε να θεωρείται νέο περιεχόμενο.",
           "Να μην τη χρησιμοποιήσετε εκτός αν λάβετε άδεια ή επαληθεύσετε άδεια που επιτρέπει την επαναχρησιμοποίηση."
         ],
@@ -2902,9 +2902,9 @@
         "question": "What improvement would address this best?",
         "options": [
           "Create accessible PDFs with proper heading structure, bookmarks, and selectable text.",
-          "Increase the font size only.",
+          "Increase the font size nd the numebr of paragraphs only.",
           "Scan printed pages back into PDF format to standardise the appearance.",
-          "Lock the PDF so users cannot copy text from it."
+          "Lock the PDF so users cannot copy text, data or images from it."
         ],
         "answer": 0,
         "explanation": "Accessible PDFs need structure and searchable text to support usability and navigation."
@@ -2914,9 +2914,9 @@
         "question": "Ποια βελτίωση θα αντιμετώπιζε καλύτερα αυτό το πρόβλημα;",
         "options": [
           "Να δημιουργείτε προσβάσιμα PDF με σωστή δομή επικεφαλίδων, σελιδοδείκτες και επιλέξιμο κείμενο.",
-          "Να αυξήσετε μόνο το μέγεθος γραμματοσειράς.",
-          "Να σαρώσετε ξανά τις εκτυπωμένες σελίδες σε μορφή PDF για ομοιόμορφη εμφάνιση.",
-          "Να κλειδώσετε το PDF ώστε οι χρήστες να μην μπορούν να αντιγράψουν κείμενο."
+          "Να αυξήσετε το μέγεθος γραμματοσειράς και τον αριθμό των παραγράφων.",
+          "Να εκτυπώσετε και να σαρώσετε ξανά τις εκτυπωμένες σελίδες σε μορφή PDF για ομοιόμορφη εμφάνιση.",
+          "Να κλειδώσετε το PDF ώστε οι χρήστες να μην μπορούν να αντιγράψουν κείμενο ή να αποσπάσουν άλλα στοιχεία."
         ],
         "answer": 0,
         "explanation": "Τα προσβάσιμα PDF χρειάζονται δομή και αναζητήσιμο κείμενο ώστε να υποστηρίζουν τη χρηστικότητα και την πλοήγηση."
@@ -2930,7 +2930,7 @@
           "Provide the requested information because the contact seems professional.",
           "Share only your work email and send the ID later if needed.",
           "Verify the person's identity through official channels before sharing any personal or professional data.",
-          "Post the message in a group chat and ask colleagues to guess whether it is real."
+          "Post the message in a group chat and ask colleagues to evaluate whether it is real."
         ],
         "answer": 2,
         "explanation": "Requests for personal or professional data should be verified through trusted channels before any information is shared."
@@ -2939,10 +2939,10 @@
         "passage": "13. Λαμβάνετε μήνυμα μέσω επαγγελματικής πλατφόρμας δικτύωσης από άτομο που ισχυρίζεται ότι είναι υπεύθυνος προσλήψεων και ζητά το επαγγελματικό σας email, τον αριθμό τηλεφώνου σας και αντίγραφο της υπηρεσιακής σας ταυτότητας.",
         "question": "Ποια απάντηση είναι η καταλληλότερη;",
         "options": [
-          "Να παράσχετε τα ζητούμενα στοιχεία επειδή η επαφή φαίνεται επαγγελματική.",
+          "Να παράσχετε τα ζητούμενα στοιχεία καθώς η επαφή φαίνεται επαγγελματική.",
           "Να μοιραστείτε μόνο το επαγγελματικό email και να στείλετε την ταυτότητα αργότερα αν χρειαστεί.",
           "Να επαληθεύσετε την ταυτότητα του ατόμου μέσω επίσημων καναλιών πριν μοιραστείτε προσωπικά ή επαγγελματικά δεδομένα.",
-          "Να δημοσιεύσετε το μήνυμα σε ομαδική συνομιλία και να ζητήσετε από συναδέλφους να μαντέψουν αν είναι αληθινό."
+          "Να δημοσιεύσετε το μήνυμα σε ομαδική συνομιλία και να ζητήσετε από συναδέλφους να εκτιμήσουν αν είναι αληθινό."
         ],
         "answer": 2,
         "explanation": "Αιτήματα για προσωπικά ή επαγγελματικά δεδομένα πρέπει να επαληθεύονται μέσω αξιόπιστων καναλιών πριν κοινοποιηθεί οποιαδήποτε πληροφορία."
@@ -2953,8 +2953,8 @@
         "passage": "14. You are leaving your desk for a short meeting in another office. Confidential documents are open on your screen and several visitors are walking through the corridor.",
         "question": "What should you do?",
         "options": [
-          "Leave the screen open if you will return within five minutes.",
-          "Minimise the windows so the content is less visible.",
+          "Leave the screen open since you intend to return within few minutes.",
+          "Use the screensaver or minimise the windows so that the content is less visible.",
           "Ask a nearby colleague to watch your screen.",
           "Lock your computer before leaving your desk."
         ],
@@ -2966,7 +2966,7 @@
         "question": "Τι πρέπει να κάνετε;",
         "options": [
           "Να αφήσετε την οθόνη ανοιχτή αν θα επιστρέψετε μέσα σε πέντε λεπτά.",
-          "Να ελαχιστοποιήσετε τα παράθυρα ώστε το περιεχόμενο να φαίνεται λιγότερο.",
+          "Να χρησιμοποιήσετε τη προστασία οθόνης ή να ελαχιστοποιήσετε τα παράθυρα ώστε το περιεχόμενο να φαίνεται λιγότερο.",
           "Να ζητήσετε από κοντινό συνάδελφο να προσέχει την οθόνη σας.",
           "Να κλειδώσετε τον υπολογιστή σας πριν φύγετε από το γραφείο."
         ],
@@ -2979,10 +2979,10 @@
         "passage": "15. A colleague wants to install a free file-conversion tool from an unknown website because the official software does not support a specific format.",
         "question": "What is the best response?",
         "options": [
-          "Advise using the tool immediately if it solves the problem quickly.",
+          "Advise using the tool immediately if it solves the problem quickly and effectively.",
           "Suggest checking first with IT or approved software repositories before installing unverified software.",
-          "Install it on a shared office computer so others can benefit too.",
-          "Bypass security warnings if the website looks modern."
+          "Install it on a shared office computer so that the risk is minimized and others can benefit too.",
+          "Bypass security warnings since the website looks modern and the software has been amply downloaded."
         ],
         "answer": 1,
         "explanation": "Unknown software may create security risks, so installation should follow approved channels or IT guidance."
@@ -2991,10 +2991,10 @@
         "passage": "15. Ένας συνάδελφος θέλει να εγκαταστήσει ένα δωρεάν εργαλείο μετατροπής αρχείων από άγνωστο ιστότοπο, επειδή το επίσημο λογισμικό δεν υποστηρίζει μια συγκεκριμένη μορφή.",
         "question": "Ποια είναι η καλύτερη αντίδραση;",
         "options": [
-          "Να προτείνετε τη χρήση του εργαλείου αμέσως αν λύνει γρήγορα το πρόβλημα.",
-          "Να προτείνετε πρώτα έλεγχο με το IT ή με εγκεκριμένα αποθετήρια λογισμικού πριν εγκατασταθεί μη επαληθευμένο λογισμικό.",
-          "Να το εγκαταστήσετε σε κοινόχρηστο υπολογιστή γραφείου ώστε να ωφεληθούν και άλλοι.",
-          "Να παρακάμψετε τις προειδοποιήσεις ασφαλείας αν ο ιστότοπος φαίνεται σύγχρονος."
+          "Να προτείνετε τη χρήση του εργαλείου καθώς φαίνεται να λύνει γρήγορα και αποτελεσματικά το πρόβλημα.",
+          "Να προτείνετε πρώτα έλεγχο από το IT ή με χρήση εγκεκριμένων αποθετήριων λογισμικού πριν εγκατασταθεί μη επαληθευμένο λογισμικό.",
+          "Να το εγκαταστήσετε σε κοινόχρηστο υπολογιστή γραφείου ώστε να μειωθεί ο κίνδυνος κα να ωφεληθούν και άλλοι.",
+          "Να παρακάμψετε τις προειδοποιήσεις ασφαλείας εφόσον ο ιστότοπος φαίνεται σύγχρονος και το λογισμικό έχει 'κατέβει' χιλιάδες φορές."
         ],
         "answer": 1,
         "explanation": "Άγνωστο λογισμικό μπορεί να δημιουργήσει κινδύνους ασφάλειας, άρα η εγκατάσταση πρέπει να γίνεται μέσω εγκεκριμένων καναλιών ή με καθοδήγηση IT."
@@ -3005,10 +3005,10 @@
         "passage": "16. You spend long hours working from a laptop at home while sitting at the kitchen table. Recently you have developed neck and shoulder discomfort.",
         "question": "Which change would most likely improve the situation?",
         "options": [
-          "Use the laptop in bed to reduce table strain.",
-          "Work longer without breaks so you finish earlier.",
+          "Use the laptop in the living room and the bed as well to reduce table strain.",
+          "Work more efficiently and without breaks so you finish earlier.",
           "Set up a more ergonomic workstation, for example by raising the screen and using an external keyboard if possible.",
-          "Lower the screen brightness to solve the posture issue."
+          "Lower the screen brightness and increase font size to solve the posture issue."
         ],
         "answer": 2,
         "explanation": "An ergonomic workstation setup helps reduce physical strain during prolonged digital work."
@@ -3017,10 +3017,10 @@
         "passage": "16. Περνάτε πολλές ώρες δουλεύοντας από laptop στο σπίτι, καθισμένος στο τραπέζι της κουζίνας. Πρόσφατα εμφανίσατε ενόχληση στον αυχένα και στους ώμους.",
         "question": "Ποια αλλαγή είναι πιθανότερο να βελτιώσει την κατάσταση;",
         "options": [
-          "Να χρησιμοποιείτε το laptop στο κρεβάτι για να μειωθεί η καταπόνηση του τραπεζιού.",
-          "Να εργάζεστε περισσότερη ώρα χωρίς διαλείμματα ώστε να τελειώνετε νωρίτερα.",
-          "Να οργανώσετε πιο εργονομικό σταθμό εργασίας, π.χ. υψώνοντας την οθόνη και χρησιμοποιώντας εξωτερικό πληκτρολόγιο αν είναι δυνατόν.",
-          "Να μειώσετε τη φωτεινότητα της οθόνης για να λυθεί το πρόβλημα στάσης."
+          "Να χρησιμοποιείτε το laptop και στο σαλόνι ή το κρεβάτι για να μειωθεί η καταπόνηση του τραπεζιού.",
+          "Να εργάζεστε περισσότερη ώρα εστιασμένα και χωρίς διαλείμματα προκειμένου να τελειώνετε νωρίτερα.",
+          "Να οργανώσετε πιο εργονομικό σταθμό εργασίας, π.χ. υψώνοντας την οθόνη και χρησιμοποιώντας εξωτερικό πληκτρολόγιο.",
+          "Να μειώσετε τη φωτεινότητα της οθόνης και να αυξήσετε το μέγεθος των γραμματοσειρών για να λυθεί το πρόβλημα στάσης."
         ],
         "answer": 2,
         "explanation": "Η εργονομική οργάνωση του σταθμού εργασίας βοηθά στη μείωση της σωματικής καταπόνησης κατά την παρατεταμένη ψηφιακή εργασία."
@@ -3031,10 +3031,10 @@
         "passage": "17. A colleague says they are 'bad with digital tools' and avoids using the shared task-management platform, which causes delays in team coordination.",
         "question": "What is the most constructive response?",
         "options": [
-          "Take over all their digital tasks permanently.",
+          "Take over, or assign to another colleague, all their digital tasks permanently.",
           "Suggest short targeted training or peer support focused on the specific platform tasks they need most often.",
           "Exclude them from collaborative projects.",
-          "Tell them digital tools are unavoidable and they should simply adapt."
+          "Tell them digital tools are unavoidable and they must find a way to simply adapt."
         ],
         "answer": 1,
         "explanation": "Targeted support around real tasks is more effective than general criticism or permanent workaround arrangements."
@@ -3043,10 +3043,10 @@
         "passage": "17. Ένας συνάδελφος λέει ότι 'δεν τα πάει καλά με τα ψηφιακά εργαλεία' και αποφεύγει να χρησιμοποιεί την κοινή πλατφόρμα διαχείρισης εργασιών, προκαλώντας καθυστερήσεις στον συντονισμό της ομάδας.",
         "question": "Ποια είναι η πιο εποικοδομητική αντίδραση;",
         "options": [
-          "Να αναλάβετε μόνιμα όλες τις ψηφιακές του εργασίες.",
-          "Να προτείνετε σύντομη στοχευμένη εκπαίδευση ή υποστήριξη από συνάδελφο, εστιασμένη στις συγκεκριμένες λειτουργίες της πλατφόρμας που χρειάζεται συχνότερα.",
+          "Να αναλάβετε, ή να αναθέσετε σε άλλον συνάδελφο, μόνιμα όλες τις ψηφιακές του εργασίες.",
+          "Να προτείνετε σύντομη στοχευμένη εκπαίδευση από συνάδελφο, εστιασμένη στις συγκεκριμένες λειτουργίες της πλατφόρμας που χρειάζεται συχνότερα.",
           "Να τον αποκλείσετε από συνεργατικά έργα.",
-          "Να του πείτε ότι τα ψηφιακά εργαλεία είναι αναπόφευκτα και πρέπει απλώς να προσαρμοστεί."
+          "Να του πείτε ότι τα ψηφιακά εργαλεία είναι αναπόφευκτα και πρέπει να βρει τον τρόπο να προσαρμοστεί."
         ],
         "answer": 1,
         "explanation": "Η στοχευμένη υποστήριξη πάνω σε πραγματικές εργασίες είναι αποτελεσματικότερη από τη γενική κριτική ή τις μόνιμες παρακάμψεις."
@@ -3059,8 +3059,8 @@
         "options": [
           "Prepare approved reusable response templates for the most common questions.",
           "Type each reply from scratch to keep it personal.",
-          "Reply with only a link to the homepage, regardless of the question.",
-          "Delay replies until several similar messages accumulate."
+          "Reply with only a general information providing link to the homepage, regardless of the question.",
+          "Delay replies until several similar messages accumulate and then write a collective reply."
         ],
         "answer": 0,
         "explanation": "Reusable templates increase efficiency and consistency while still allowing adaptation if needed."
@@ -3071,8 +3071,8 @@
         "options": [
           "Να ετοιμάσετε εγκεκριμένα επαναχρησιμοποιήσιμα πρότυπα απαντήσεων για τις συχνότερες ερωτήσεις.",
           "Να γράφετε κάθε απάντηση από την αρχή για να είναι προσωπική.",
-          "Να απαντάτε μόνο με έναν σύνδεσμο προς την αρχική σελίδα, ανεξαρτήτως ερώτησης.",
-          "Να καθυστερείτε τις απαντήσεις μέχρι να συσσωρευτούν αρκετά παρόμοια μηνύματα."
+          "Να απαντάτε παραπέμποντας σε έναν σύνδεσμο γενικών πληροφοριών προς την αρχική σελίδα, ανεξαρτήτως ερώτησης.",
+          "Να καθυστερείτε τις απαντήσεις μέχρι να συσσωρευτούν αρκετά παρόμοια μηνύματα προκειμένου να τα απαντήσετε συγκεντρωτικά."
         ],
         "answer": 0,
         "explanation": "Τα επαναχρησιμοποιήσιμα πρότυπα αυξάνουν την αποδοτικότητα και τη συνέπεια, επιτρέποντας ταυτόχρονα προσαρμογές αν χρειάζεται."
@@ -3085,7 +3085,7 @@
         "options": [
           "Always choose the most advanced tool because it is more future-proof.",
           "Choose the tool that best matches the team's actual needs and capacity to use it consistently.",
-          "Pick the tool preferred by the youngest colleague.",
+          "Pick the tool preferred -and suitable to be used- by the majority of your colleagues.",
           "Use both tools in parallel to keep options open."
         ],
         "answer": 1,
@@ -3095,9 +3095,9 @@
         "passage": "19. Η ομάδα σας πρέπει να επιλέξει μεταξύ δύο ψηφιακών εργαλείων για τη διαχείριση προθεσμιών έργων. Το ένα έχει πολλές προηγμένες λειτουργίες αλλά είναι σύνθετο· το άλλο είναι απλούστερο και καλύπτει τις βασικές ανάγκες της ομάδας.",
         "question": "Ποια είναι η καλύτερη επιλογή στις περισσότερες διοικητικές περιστάσεις;",
         "options": [
-          "Να επιλέγετε πάντα το πιο προηγμένο εργαλείο, επειδή είναι πιο 'μελλοντοστραφές'.",
+          "Να επιλέγετε πάντα το πιο προηγμένο εργαλείο, επειδή είναι αυτό που θα κυριαρχήσει μελλοντικά.",
           "Να επιλέξετε το εργαλείο που ανταποκρίνεται καλύτερα στις πραγματικές ανάγκες της ομάδας και στην ικανότητά της να το χρησιμοποιεί με συνέπεια.",
-          "Να επιλέξετε το εργαλείο που προτιμά ο νεότερος συνάδελφος.",
+          "Να επιλέξετε το εργαλείο που προτιμά -και μπορεί να χρησιμοποιήσει- η πλειονότητα των συνάδελφων σας.",
           "Να χρησιμοποιείτε και τα δύο εργαλεία παράλληλα για να έχετε περισσότερες επιλογές."
         ],
         "answer": 1,
@@ -3112,7 +3112,7 @@
           "Restart the computer immediately without checking anything else.",
           "Submit the form repeatedly until it works.",
           "Look for hidden validation messages, check the required format of the fields, and review any sections marked with an asterisk.",
-          "Abandon the form and send a paper letter instead."
+          "Print the form and send it with a cover letter instead."
         ],
         "answer": 2,
         "explanation": "Systematic checking of required fields and formatting is a practical first step in solving common digital form errors."
@@ -3121,10 +3121,10 @@
         "passage": "20. Κατά τη συμπλήρωση μιας online φόρμας, λαμβάνετε επανειλημμένα μήνυμα σφάλματος ότι ένα υποχρεωτικό πεδίο είναι ελλιπές, παρότι όλα τα ορατά πεδία φαίνονται συμπληρωμένα.",
         "question": "Ποιο είναι το πιο λογικό επόμενο βήμα;",
         "options": [
-          "Να κάνετε αμέσως επανεκκίνηση του υπολογιστή χωρίς να ελέγξετε κάτι άλλο.",
-          "Να υποβάλετε τη φόρμα επανειλημμένα μέχρι να λειτουργήσει.",
+          "Να κάνετε αμέσως επανεκκίνηση του υπολογιστή ¨η έξοδο και επιστροφή στη φόρμα χωρίς να ελέγξετε κάτι άλλο.",
+          "Να υποβάλετε τη φόρμα επανειλημμένα μέχρι να γίνει αποδεκτή.",
           "Να αναζητήσετε κρυφά μηνύματα επικύρωσης, να ελέγξετε την απαιτούμενη μορφή των πεδίων και να επανεξετάσετε τις ενότητες με αστερίσκο.",
-          "Να εγκαταλείψετε τη φόρμα και να στείλετε έντυπη επιστολή."
+          "Να εκτυπώσετε τη φόρμα και να την στείλετε συνοδευτικά με μία έντυπη επιστολή."
         ],
         "answer": 2,
         "explanation": "Ο συστηματικός έλεγχος υποχρεωτικών πεδίων και μορφοποίησης είναι πρακτικό πρώτο βήμα για την επίλυση συνηθισμένων σφαλμάτων σε online φόρμες."
