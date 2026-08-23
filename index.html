@@ -98,6 +98,7 @@
             <div class="header-buttons">
                 <button class="btn btn-primary" onclick="showPerformance()" id="btn-performance">📊 My Performance</button>
                 <button class="btn btn-gold" onclick="toggleLanguage()">🇬🇷 EL / 🇬🇧 EN</button>
+                <button class="btn" style="background:#dc3545;color:white;" onclick="finishAndExit()" id="btn-exit">🚪 Finish &amp; Exit</button>
             </div>
         </div>
         <div id="all-packs"></div>
@@ -304,6 +305,35 @@
         renderMenu();
     }
 
+    // ─────────────────────────────────────────────────────────────
+    // FINISH & EXIT
+    // Explicit logout path so users don't just press the browser X
+    // and get locked out next time ("code already in use"). Calls
+    // release_device to clear bound_device_id server-side, then
+    // clears the locally-saved code so the login screen reappears.
+    // ─────────────────────────────────────────────────────────────
+    async function finishAndExit() {
+        var confirmMsg = currentLang === 'el'
+            ? 'Έξοδος από την πύλη; Θα χρειαστεί να ξαναδώσετε τον κωδικό σας την επόμενη φορά.'
+            : 'Exit the portal? You will need to re-enter your code next time.';
+        if (!confirm(confirmMsg)) return;
+
+        var code = userCode || localStorage.getItem(USER_CODE_KEY);
+        try {
+            if (code) {
+                var res = await supabaseClient.rpc('release_device', { p_code: code });
+                if (res.error) console.error('release_device failed:', res.error);
+            }
+        } catch (e) {
+            console.error('release_device error:', e);
+        }
+
+        localStorage.removeItem(USER_CODE_KEY);
+        userCode = null;
+        userUnlocked = false;
+        location.reload();
+    }
+
     function updateUIStrings() {
         document.getElementById('txt-main-title').innerText   = currentLang === 'el' ? 'Πύλη Προετοιμασίας EPSO' : 'EPSO Prep Portal';
         document.getElementById('txt-mode-title').innerText   = currentLang === 'el' ? 'Επιλογή Λειτουργίας' : 'Select Mode';
@@ -319,6 +349,7 @@
         document.getElementById('btn-performance').innerText  = currentLang === 'el' ? '📊 Οι Επιδόσεις μου' : '📊 My Performance';
         document.getElementById('txt-perf-title').innerText   = currentLang === 'el' ? 'Οι Επιδόσεις μου' : 'My Performance';
         document.getElementById('btn-perf-back').innerText    = currentLang === 'el' ? 'Πίσω' : 'Back';
+        document.getElementById('btn-exit').innerText         = currentLang === 'el' ? '🚪 Έξοδος' : '🚪 Finish & Exit';
     }
 
     function toggleLanguage() {
