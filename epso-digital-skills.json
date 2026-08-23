@@ -3134,25 +3134,25 @@
   "ds_7": [
     {
       "en": {
-        "passage": "1. You receive an email that looks like it's from a well-known courier company, saying a parcel could not be delivered and asking you to click a link and enter your card details to pay a small redelivery fee. You were not expecting a parcel.",
+        "passage": "1. You receive an email that looks like it's from a well-known courier company, saying a parcel could not be delivered and asking you to click a link and enter your card details to pay a small redelivery fee. Actually, you were expecting a job-related parcel.",
         "question": "What is the most sensible first reaction?",
         "options": [
           "Pay the small fee since it is unlikely to cause any harm.",
           "Click the link but avoid entering your real card number.",
           "Do not click the link; check directly with the courier company through its official website or app if in doubt.",
-          "Forward the email to as many colleagues as possible so they can decide."
+          "Forward the email to your supervisor and ask her to decide."
         ],
         "answer": 2,
         "explanation": "Unexpected delivery-fee emails are a very common phishing tactic. The safe approach is to avoid the link entirely and check directly through an official, independently-typed website or app rather than any link in the message."
       },
       "el": {
-        "passage": "1. Λαμβάνετε ένα email που φαίνεται να προέρχεται από γνωστή εταιρεία ταχυμεταφορών, το οποίο αναφέρει ότι ένα δέμα δεν μπόρεσε να παραδοθεί και σας ζητά να κάνετε κλικ σε έναν σύνδεσμο και να καταχωρίσετε τα στοιχεία της κάρτας σας για να πληρώσετε ένα μικρό τέλος επαναπαράδοσης. Δεν περιμένατε κάποιο δέμα.",
+        "passage": "1. Λαμβάνετε ένα email που φαίνεται να προέρχεται από γνωστή εταιρεία ταχυμεταφορών, το οποίο αναφέρει ότι ένα δέμα δεν μπόρεσε να παραδοθεί και σας ζητά να κάνετε κλικ σε έναν σύνδεσμο και να καταχωρίσετε τα στοιχεία της κάρτας σας για να πληρώσετε ένα μικρό τέλος επαναπαράδοσης. Η αλήθεια είναι ότι περιμένατε κάποιο υπηρεσιακό δέμα.",
         "question": "Ποια είναι η πιο λογική πρώτη αντίδραση;",
         "options": [
           "Να πληρώσετε το μικρό τέλος, αφού είναι απίθανο να προκαλέσει βλάβη.",
           "Να κάνετε κλικ στον σύνδεσμο αλλά να αποφύγετε να καταχωρίσετε τον πραγματικό αριθμό κάρτας σας.",
-          "Να μην κάνετε κλικ στον σύνδεσμο· να επικοινωνήσετε απευθείας με την εταιρεία μέσω του επίσημου ιστότοπου ή της εφαρμογής της αν έχετε αμφιβολία.",
-          "Να προωθήσετε το email σε όσο το δυνατόν περισσότερους συναδέλφους για να αποφασίσουν."
+          "Να μην κάνετε κλικ στον σύνδεσμο αλλά να επικοινωνήσετε απευθείας με την εταιρεία μέσω του επίσημου ιστότοπου της αν έχετε αμφιβολία.",
+          "Να προωθήσετε το email στην προισταμένη σας για να αποφασίσει."
         ],
         "answer": 2,
         "explanation": "Τα μη αναμενόμενα email για τέλη παράδοσης είναι πολύ συνηθισμένη τακτική phishing. Η ασφαλής προσέγγιση είναι να αποφύγετε εντελώς τον σύνδεσμο και να ελέγξετε απευθείας μέσω επίσημου ιστότοπου ή εφαρμογής που πληκτρολογείτε εσείς οι ίδιοι."
@@ -3201,10 +3201,10 @@
         "passage": "3. Πρέπει να στείλετε την ίδια ανακοίνωση σε 80 εξωτερικές επαφές που δεν γνωρίζονται μεταξύ τους. Ορισμένες από αυτές είναι αρκετά προστατευτικές με την ιδιωτικότητά τους.",
         "question": "Πώς πρέπει να απευθύνετε το email σε αυτούς τους παραλήπτες;",
         "options": [
-          "Να βάλετε όλες τις 80 διευθύνσεις στο πεδίο 'Προς' ώστε όλοι να βλέπουν ποιοι άλλοι το έλαβαν.",
+          "Να βάλετε όλες τις 80 διευθύνσεις στο πεδίο 'Προς' ώστε για λόγους διαφάνειας όλοι να βλέπουν ποιοι άλλοι το έλαβαν.",
           "Να βάλετε όλες τις 80 διευθύνσεις στο πεδίο 'Κοιν.' για διαφάνεια.",
-          "Να βάλετε όλες τις 80 διευθύνσεις στο πεδίο 'Κρυφή κοινοποίηση' ώστε οι διευθύνσεις των παραληπτών να μην είναι ορατές μεταξύ τους.",
-          "Να στείλετε 80 ξεχωριστά email ένα-ένα, αντιγράφοντας και επικολλώντας το ίδιο κείμενο κάθε φορά."
+          "Να βάλετε όλες τις 80 διευθύνσεις στο πεδίο 'Κρυφή κοινοποίηση' ώστε οι διευθύνσεις των παραληπτών να μην είναι ορατές σε όλους.",
+          "Να στείλετε 80 ξεχωριστά email, αντιγράφοντας και επικολλώντας το ίδιο κείμενο κάθε φορά."
         ],
         "answer": 2,
         "explanation": "Η χρήση της «Κρυφής κοινοποίησης» (Bcc) για μαζικές αποστολές σε άσχετους μεταξύ τους εξωτερικούς παραλήπτες προστατεύει τις διευθύνσεις email και την ιδιωτικότητά τους, αφού κανένας παραλήπτης δεν βλέπει ολόκληρη τη λίστα."
@@ -3215,7 +3215,7 @@
         "passage": "4. You want to share a 300MB folder of photos from a staff event with the whole office. Email attachments in your system are limited to 25MB per message.",
         "question": "What is the most practical way to share it?",
         "options": [
-          "Split the folder into dozens of small emails until it all fits.",
+          "Split the folder into as many small emails and needed until all photos fit.",
           "Upload the folder to an approved shared drive or cloud storage and send colleagues the link.",
           "Ask each colleague to visit your desk individually to copy the files from a USB stick.",
           "Reduce all photos to the lowest possible quality so they fit in one email."
@@ -3227,9 +3227,9 @@
         "passage": "4. Θέλετε να μοιραστείτε έναν φάκελο 300MB με φωτογραφίες από μια εκδήλωση προσωπικού με όλο το γραφείο. Τα συνημμένα email στο σύστημά σας περιορίζονται σε 25MB ανά μήνυμα.",
         "question": "Ποιος είναι ο πιο πρακτικός τρόπος κοινοποίησης;",
         "options": [
-          "Να χωρίσετε τον φάκελο σε δεκάδες μικρά email μέχρι να χωρέσουν όλα.",
-          "Να ανεβάσετε τον φάκελο σε εγκεκριμένο κοινόχρηστο δίσκο ή cloud και να στείλετε στους συναδέλφους τον σύνδεσμο.",
-          "Να ζητήσετε από κάθε συνάδελφο να περάσει ατομικά από το γραφείο σας για να αντιγράψει τα αρχεία από USB.",
+          "Να χωρίσετε τον φάκελο σε πολλά μικρά email μέχρι να χωρέσουν όλες οι φωτογραφίες.",
+          "Να ανεβάσετε τον φάκελο σε εγκεκριμένο κοινόχρηστο δίσκο ή στο cloud και να στείλετε στους συναδέλφους τον σύνδεσμο.",
+          "Να ζητήσετε από κάθε συνάδελφο να περάσει ατομικά από το γραφείο σας για να αντιγράψει τα αρχεία στο ατομικό του USB.",
           "Να μειώσετε την ποιότητα όλων των φωτογραφιών στο ελάχιστο ώστε να χωρέσουν σε ένα email."
         ],
         "answer": 1,
@@ -3241,21 +3241,21 @@
         "passage": "5. You have been checking work email and messages continuously since 7am, including during lunch. By mid-afternoon, you notice you are making more small mistakes than usual.",
         "question": "Which habit would most help address this?",
         "options": [
-          "Add even more browser tabs and notifications to stay fully informed.",
+          "Add even more browser tabs and notifications to stay fully and promptly informed.",
           "Set specific times to check messages and take short screen-free breaks in between.",
-          "Switch to checking messages only on your phone instead of your computer.",
+          "Switch to checking messages on your phone instead of only on your computer.",
           "Keep working through lunch every day to finish tasks faster."
         ],
         "answer": 1,
         "explanation": "Constant checking of messages fragments attention and increases fatigue. Setting defined times to check communications and taking regular short breaks away from screens supports focus, wellbeing, and fewer errors."
       },
       "el": {
-        "passage": "5. Ελέγχετε συνεχώς το email και τα μηνύματα εργασίας από τις 7 π.μ., ακόμη και κατά τη διάρκεια του μεσημεριανού. Μέχρι το απόγευμα, παρατηρείτε ότι κάνετε περισσότερα μικρά λάθη από το συνηθισμένο.",
+        "passage": "5. Ελέγχετε συνεχώς το email και τα μηνύματα εργασίας από τις 7 π.μ., ακόμη και κατά τη διάρκεια του μεσημεριανού. Από νωρίς το απόγευμα, παρατηρείτε ότι κάνετε περισσότερα μικρά λάθη από το συνηθισμένο.",
         "question": "Ποια συνήθεια θα βοηθούσε περισσότερο σε αυτή την περίπτωση;",
         "options": [
-          "Να προσθέσετε ακόμη περισσότερες καρτέλες browser και ειδοποιήσεις για να είστε πλήρως ενημερωμένοι.",
-          "Να ορίσετε συγκεκριμένες ώρες για έλεγχο μηνυμάτων και να κάνετε σύντομα διαλείμματα μακριά από οθόνες ενδιάμεσα.",
-          "Να αλλάξετε σε έλεγχο μηνυμάτων μόνο από το κινητό αντί για τον υπολογιστή.",
+          "Να προσθέσετε περισσότερες καρτέλες browser και ειδοποιήσεις για να είστε πλήρως και έγκαιρα ενημερωμένοι.",
+          "Να ορίσετε συγκεκριμένες ώρες για έλεγχο μηνυμάτων και ενδιάμεσα να κάνετε σύντομα διαλείμματα μακριά από οθόνες.",
+          "Να κάνετε έλεγχο μηνυμάτων και από το κινητό σας αντί μόνο από τον υπολογιστή.",
           "Να συνεχίζετε να εργάζεστε και κατά τη διάρκεια του μεσημεριανού κάθε μέρα για να τελειώνετε πιο γρήγορα."
         ],
         "answer": 1,
@@ -3267,10 +3267,10 @@
         "passage": "6. A colleague forwards you a message claiming a well-known EU benefit scheme is being cancelled 'starting tomorrow', urging you to act immediately and to warn everyone. The message has no link to an official source.",
         "question": "What should you do before reacting or sharing it further?",
         "options": [
-          "Forward it immediately to the whole team since it says to act fast.",
+          "Forward it immediately to the whole team since it requires that you act fast.",
           "Check the claim against the relevant official website or your institution's communication channels before sharing anything.",
-          "Assume it is true because it came from a colleague you trust.",
-          "Delete the message and say nothing, even if it turns out to be true."
+          "Assume it is true because it came from a colleague you know and trust.",
+          "Since you are not sure, delete the message and say nothing, even if later it turns out to be true."
         ],
         "answer": 1,
         "explanation": "Urgency and pressure to 'act now and warn everyone' are classic signs of misinformation. Verifying claims against an official source before sharing prevents spreading inaccurate information, even when it comes from a trusted colleague."
@@ -3279,10 +3279,10 @@
         "passage": "6. Ένας συνάδελφος σας προωθεί ένα μήνυμα που ισχυρίζεται ότι ένα γνωστό πρόγραμμα παροχών της ΕΕ καταργείται «από αύριο», παροτρύνοντάς σας να ενεργήσετε αμέσως και να προειδοποιήσετε όλους. Το μήνυμα δεν έχει σύνδεσμο σε επίσημη πηγή.",
         "question": "Τι πρέπει να κάνετε πριν αντιδράσετε ή το κοινοποιήσετε περαιτέρω;",
         "options": [
-          "Να το προωθήσετε αμέσως σε όλη την ομάδα αφού λέει να ενεργήσετε γρήγορα.",
-          "Να ελέγξετε τον ισχυρισμό στον σχετικό επίσημο ιστότοπο ή στα επίσημα κανάλια επικοινωνίας του θεσμού σας πριν κοινοποιήσετε οτιδήποτε.",
-          "Να υποθέσετε ότι είναι αληθές επειδή προήλθε από συνάδελφο που εμπιστεύεστε.",
-          "Να διαγράψετε το μήνυμα και να μην πείτε τίποτα, ακόμη κι αν αποδειχθεί αληθές."
+          "Να το προωθήσετε αμέσως σε όλη την ομάδα εφόσον πρέπει να ενεργήσετε γρήγορα.",
+          "Να ελέγξετε τον ισχυρισμό στον σχετικό επίσημο ιστότοπο ή κανάλια επικοινωνίας του θεσμού σας πριν κοινοποιήσετε οτιδήποτε.",
+          "Να υποθέσετε ότι είναι αληθές επειδή προήλθε από συνάδελφο που γνωρίζετε και εμπιστεύεστε.",
+          "Εφόσον δεν είστε σίγουροι, να διαγράψετε το μήνυμα και να μην πείτε τίποτα, ακόμη κι αν αποδειχθεί αργότερα το μήνυμα αποδειχθεί αληθές."
         ],
         "answer": 1,
         "explanation": "Η επείγουσα πίεση να «ενεργήσετε τώρα και να προειδοποιήσετε όλους» είναι κλασικό σημάδι παραπληροφόρησης. Η επαλήθευση ισχυρισμών σε επίσημη πηγή πριν την κοινοποίηση αποτρέπει τη διάδοση ανακριβών πληροφοριών."
@@ -3294,9 +3294,9 @@
         "question": "Which change would most improve accessibility for readers?",
         "options": [
           "Use clear headings, break text into shorter paragraphs, and increase contrast between text and background.",
-          "Keep the text as is but add a decorative background image.",
-          "Convert the whole page into a single large image of the text.",
-          "Reduce the font size further so more text fits on the screen."
+          "Keep the text as is but increase font size and add a decorative background image.",
+          "Convert the whole page into a single large igh resolution JPG image of the text.",
+          "Add headings but reduce the font size further so that more text fits on the screen."
         ],
         "answer": 0,
         "explanation": "Clear headings, shorter paragraphs, and good contrast between text and background are simple, well-established accessibility improvements that help all readers, and are essential for people with visual impairments."
@@ -3306,9 +3306,9 @@
         "question": "Ποια αλλαγή θα βελτίωνε περισσότερο την προσβασιμότητα για τους αναγνώστες;",
         "options": [
           "Χρήση σαφών επικεφαλίδων, διάσπαση του κειμένου σε συντομότερες παραγράφους και αύξηση της αντίθεσης μεταξύ κειμένου και φόντου.",
-          "Διατήρηση του κειμένου ως έχει αλλά προσθήκη διακοσμητικής εικόνας φόντου.",
-          "Μετατροπή ολόκληρης της σελίδας σε μία μεγάλη εικόνα του κειμένου.",
-          "Περαιτέρω μείωση του μεγέθους γραμματοσειράς ώστε να χωράει περισσότερο κείμενο στην οθόνη."
+          "Διατήρηση του κειμένου ως έχει αλλά αύξηση μεγέθους γραμματοσειράς και προσθήκη διακοσμητικής εικόνας φόντου.",
+          "Μετατροπή ολόκληρης της σελίδας του κειμένου σε μία μεγάλη εικόνα JPG υψηλής ανάλυσης.",
+          "Προσθήκε επικεφαλίδων με περαιτέρω μείωση του μεγέθους γραμματοσειράς ώστε να χωράει περισσότερο κείμενο στην οθόνη."
         ],
         "answer": 0,
         "explanation": "Οι σαφείς επικεφαλίδες, οι συντομότερες παράγραφοι και η καλή αντίθεση μεταξύ κειμένου και φόντου είναι απλές, καθιερωμένες βελτιώσεις προσβασιμότητας που βοηθούν όλους τους αναγνώστες, ιδιαίτερα άτομα με προβλήματα όρασης."
@@ -3333,7 +3333,7 @@
         "options": [
           "Να αφήσετε το μικρόφωνο ανοιχτό ώστε οι άλλοι να νιώθουν μέρος της ατμόσφαιρας του γραφείου.",
           "Να θέσετε το μικρόφωνο σε σίγαση μέχρι να χρειαστεί να μιλήσετε.",
-          "Να κλείσετε την κάμερά σας αντί να σιγήσετε το μικρόφωνο.",
+          "Να κλείσετε την κάμερά σας στην οποία είναι ενσωματωμένο το μικρόφωνο.",
           "Να ζητήσετε από όλους τους άλλους στην κλήση να μείνουν σιωπηλοί αντ' αυτού."
         ],
         "answer": 1,
@@ -3348,7 +3348,7 @@
           "Keep adding more 'final' versions since it shows the work is thorough.",
           "Delete all older versions immediately so only the newest one remains, without checking anyone's ongoing edits.",
           "Agree on a simple naming and version-numbering convention (e.g. date and version number) and use the folder's version history for older drafts.",
-          "Print out every version and store the paper copies in a filing cabinet instead."
+          "Print out every version and store the paper copies Of the older versiosn in a filing cabinet instead."
         ],
         "answer": 2,
         "explanation": "A shared naming and versioning convention (with dates or version numbers), combined with using built-in version history rather than duplicate 'final' files, keeps documents organised and makes it clear which is the current version."
@@ -3360,7 +3360,7 @@
           "Να συνεχίσετε να προσθέτετε ακόμη περισσότερες εκδόσεις 'final', αφού δείχνει ενδελεχή εργασία.",
           "Να διαγράψετε αμέσως όλες τις παλαιότερες εκδόσεις ώστε να μείνει μόνο η πιο πρόσφατη, χωρίς έλεγχο για τυχόν εν εξελίξει επεξεργασία.",
           "Να συμφωνήσετε σε απλή σύμβαση ονοματοδοσίας και αρίθμησης εκδόσεων (π.χ. ημερομηνία και αριθμός έκδοσης) και να χρησιμοποιείτε το ιστορικό εκδόσεων του φακέλου για παλαιότερα προσχέδια.",
-          "Να εκτυπώσετε κάθε έκδοση και να αποθηκεύσετε τα έντυπα αντίγραφα σε ντουλάπι αρχειοθέτησης αντ' αυτού."
+          "Να εκτυπώσετε κάθε έκδοση και να αποθηκεύσετε τα έντυπα αντίγραφα των παλαιότερων εκδόσεων σε ντουλάπι αρχειοθέτησης."
         ],
         "answer": 2,
         "explanation": "Μια κοινή σύμβαση ονοματοδοσίας και αρίθμησης εκδόσεων, σε συνδυασμό με τη χρήση του ενσωματωμένου ιστορικού εκδόσεων αντί για διπλά αρχεία «final», διατηρεί τα έγγραφα οργανωμένα και ξεκαθαρίζει ποια είναι η τρέχουσα έκδοση."
@@ -3371,10 +3371,10 @@
         "passage": "10. You are choosing a password for a new work account. Your current habit is to reuse the same simple word with a number at the end for every account you have.",
         "question": "Which change would most improve your account security?",
         "options": [
-          "Keep the same password everywhere but add an extra number at the end.",
+          "Keep the same password everywhere but add an extra number or symbol at the end.",
           "Use a longer, unique password for each account, ideally with the help of an approved password manager.",
-          "Write the password on a sticky note on your monitor so you don't forget it.",
-          "Share the password with a colleague in case you forget it."
+          "Write the password on a sticky note behind your monitor so that you don't forget it.",
+          "Share the password with a colleague you often collaborate with in case you forget it."
         ],
         "answer": 1,
         "explanation": "Reusing the same simple password across accounts means that if one account is compromised, all others are at risk too. Using long, unique passwords for each account — supported by an approved password manager — is a basic but effective security habit."
@@ -3383,10 +3383,10 @@
         "passage": "10. Επιλέγετε κωδικό πρόσβασης για έναν νέο εργασιακό λογαριασμό. Η τρέχουσα συνήθειά σας είναι να επαναχρησιμοποιείτε την ίδια απλή λέξη με έναν αριθμό στο τέλος για κάθε λογαριασμό που έχετε.",
         "question": "Ποια αλλαγή θα βελτίωνε περισσότερο την ασφάλεια των λογαριασμών σας;",
         "options": [
-          "Να διατηρήσετε τον ίδιο κωδικό παντού αλλά να προσθέσετε έναν επιπλέον αριθμό στο τέλος.",
+          "Να διατηρήσετε τον ίδιο κωδικό παντού αλλά να προσθέσετε έναν επιπλέον αριθμό ή σύμβολο στο τέλος.",
           "Να χρησιμοποιείτε μεγαλύτερο, μοναδικό κωδικό για κάθε λογαριασμό, ιδανικά με τη βοήθεια εγκεκριμένου διαχειριστή κωδικών.",
-          "Να γράψετε τον κωδικό σε ένα αυτοκόλλητο χαρτάκι στην οθόνη σας για να μην τον ξεχάσετε.",
-          "Να μοιραστείτε τον κωδικό με έναν συνάδελφο σε περίπτωση που τον ξεχάσετε."
+          "Να γράψετε τον κωδικό σε ένα αυτοκόλλητο χαρτάκι και να τον κολλήσετε στο συρτάρι σας για να μην τον ξεχάσετε.",
+          "Να μοιραστείτε τον κωδικό με έναν συνάδελφο με τον οποίο συνεργάζεστε σε περίπτωση που τον ξεχάσετε."
         ],
         "answer": 1,
         "explanation": "Η επαναχρησιμοποίηση του ίδιου απλού κωδικού σε πολλούς λογαριασμούς σημαίνει ότι αν ένας λογαριασμός παραβιαστεί, κινδυνεύουν και όλοι οι υπόλοιποι. Η χρήση μεγάλων, μοναδικών κωδικών για κάθε λογαριασμό είναι βασική αλλά αποτελεσματική συνήθεια ασφάλειας."
@@ -3400,7 +3400,7 @@
           "Keep emailing everyone individually until a time is agreed.",
           "Use the calendar tool's shared/free-busy view or scheduling assistant to spot a common free slot.",
           "Pick a time yourself without checking anyone's calendar and hope it works.",
-          "Cancel the meeting since scheduling is too difficult."
+          "Threaten that you will cancel the meeting since scheduling is too difficult."
         ],
         "answer": 1,
         "explanation": "Shared calendar or scheduling-assistant features let you see when colleagues are free without needing lengthy back-and-forth emails, making it much faster to find a time that works for everyone."
@@ -3410,9 +3410,9 @@
         "question": "Ποια προσέγγιση θα επιτάχυνε πιθανότερα τη διαδικασία;",
         "options": [
           "Να συνεχίσετε να στέλνετε email ξεχωριστά σε όλους μέχρι να συμφωνηθεί μια ώρα.",
-          "Να χρησιμοποιήσετε την κοινή προβολή διαθεσιμότητας ή τον βοηθό προγραμματισμού του ημερολογίου για να εντοπίσετε κοινό ελεύθερο χρόνο.",
+          "Να χρησιμοποιήσετε εργαλείο προβολής διαθεσιμότητας ή τον βοηθό προγραμματισμού του ημερολογίου για να εντοπίσετε κοινό ελεύθερο χρόνο.",
           "Να επιλέξετε εσείς μια ώρα χωρίς να ελέγξετε το ημερολόγιο κανενός και να ελπίζετε ότι θα λειτουργήσει.",
-          "Να ακυρώσετε τη συνάντηση αφού ο προγραμματισμός είναι πολύ δύσκολος."
+          "Να απειλήσετε ότι θα ακυρώσετε τη συνάντηση αφού ο προγραμματισμός είναι πολύ δύσκολος."
         ],
         "answer": 1,
         "explanation": "Οι λειτουργίες κοινής προβολής ημερολογίου ή βοηθού προγραμματισμού σας επιτρέπουν να δείτε πότε είναι ελεύθεροι οι συνάδελφοι χωρίς χρονοβόρα ανταλλαγή email, καθιστώντας πολύ πιο γρήγορη την εύρεση κατάλληλης ώρας."
@@ -3424,9 +3424,9 @@
         "question": "What is the safest approach in this situation?",
         "options": [
           "Connect through your institution's approved VPN before accessing sensitive information.",
-          "Use the public Wi-Fi as normal since it is convenient.",
+          "Use the public Wi-Fi as normal since it is convenient and used by all other passengers.",
           "Ask a fellow passenger if their personal hotspot is safer to use instead.",
-          "Turn off your device's firewall so the page loads faster."
+          "Use you mobile as hotspote and turn off your device's firewall so the page loads faster."
         ],
         "answer": 0,
         "explanation": "Connecting through an approved VPN protects data when using an untrusted public network such as free train or airport Wi-Fi, which is a simple and standard precaution for accessing sensitive information while travelling."
@@ -3438,7 +3438,7 @@
           "Να συνδεθείτε μέσω του εγκεκριμένου VPN του θεσμού σας πριν αποκτήσετε πρόσβαση σε ευαίσθητες πληροφορίες.",
           "Να χρησιμοποιήσετε το δημόσιο Wi-Fi κανονικά, αφού είναι βολικό.",
           "Να ζητήσετε από άλλον επιβάτη αν το προσωπικό του hotspot είναι ασφαλέστερο.",
-          "Να απενεργοποιήσετε το firewall της συσκευής σας για να φορτώνει πιο γρήγορα η σελίδα."
+          "Να χρησιμοποιήσετε το κινητό σας ως hotspot αφού πρώτα απενεργοποιήσετε το firewall της συσκευής σας για να φορτώνει πιο γρήγορα η σελίδα."
         ],
         "answer": 0,
         "explanation": "Η σύνδεση μέσω εγκεκριμένου VPN προστατεύει τα δεδομένα κατά τη χρήση αναξιόπιστου δημόσιου δικτύου, όπως το δωρεάν Wi-Fi σε τρένο ή αεροδρόμιο, μια απλή και τυπική προφύλαξη κατά τα ταξίδια."
@@ -3449,10 +3449,10 @@
         "passage": "13. Your unit publishes a monthly newsletter. Someone suggests simply adding every visitor's email from a recent public event to the mailing list, without asking them first.",
         "question": "What is the correct approach regarding these contacts?",
         "options": [
-          "Add them all, since attending the event shows they are interested.",
+          "Add them all, since the individuals attending the event expressed a strong interest in its content.",
           "Only add people whose consent to receive the newsletter was clearly obtained (e.g. through an opt-in sign-up).",
-          "Add them, but remove anyone who complains afterwards.",
-          "Add only the people whose names you personally recognise."
+          "Add all visitors, but remove anyone who complains afterwards.",
+          "Add only the people who played an active role in the meeting."
         ],
         "answer": 1,
         "explanation": "Adding people to a mailing list requires their clear consent (for example, an opt-in sign-up), not simply having their email address from another context. Attendance at an event does not by itself imply consent to receive a newsletter."
@@ -3461,10 +3461,10 @@
         "passage": "13. Η μονάδα σας δημοσιεύει μηνιαίο ενημερωτικό δελτίο. Κάποιος προτείνει απλώς να προστεθούν όλα τα email των επισκεπτών μιας πρόσφατης δημόσιας εκδήλωσης στη λίστα αποστολής, χωρίς να ρωτηθούν πρώτα.",
         "question": "Ποια είναι η σωστή προσέγγιση σχετικά με αυτές τις επαφές;",
         "options": [
-          "Να προστεθούν όλοι, αφού η συμμετοχή στην εκδήλωση δείχνει ενδιαφέρον.",
+          "Να προστεθούν όλοι, αφού η συμμετοχή στην εκδήλωση έθελξε σημαντικό ενδιαφέρον και συγκέντρωσε θετικά σχόλια.",
           "Να προστεθούν μόνο όσοι έχουν δώσει σαφή συγκατάθεση να λαμβάνουν το δελτίο (π.χ. μέσω εγγραφής με ρητή συναίνεση).",
-          "Να προστεθούν όλοι, αλλά να αφαιρεθεί όποιος διαμαρτυρηθεί στη συνέχεια.",
-          "Να προστεθούν μόνο όσοι αναγνωρίζετε προσωπικά τα ονόματά τους."
+          "Να προστεθούν όλοι οι επισκέπτες, αλλά να αφαιρεθεί όποιος διαμαρτυρηθεί στη συνέχεια.",
+          "Να προστεθούν μόνο οι συμμετέχοντες που είχαν έναν ενεργό ρόλο στην υλοποίηση της εκδήλωσης."
         ],
         "answer": 1,
         "explanation": "Η προσθήκη ατόμων σε λίστα αποστολής απαιτεί τη σαφή συγκατάθεσή τους (π.χ. εγγραφή με ρητή συναίνεση), όχι απλώς το ότι διαθέτετε το email τους από άλλη αφορμή. Η συμμετοχή σε εκδήλωση δεν συνεπάγεται από μόνη της συγκατάθεση."
@@ -3487,13 +3487,13 @@
         "passage": "14. Χρησιμοποιείτε τον προσωπικό σας λογαριασμό κοινωνικής δικτύωσης και αναφέρετε τη θέση εργασίας και τον εργοδότη σας στο προφίλ σας. Σκέφτεστε να δημοσιεύσετε προσωπική άποψη για ένα αμφιλεγόμενο τρέχον ζήτημα πολιτικής.",
         "question": "Ποια είναι η πιο λογική προσέγγιση;",
         "options": [
-          "Να δημοσιεύσετε ό,τι θέλετε, αφού είναι προσωπικός λογαριασμός και προσωπική άποψη.",
-          "Να αφαιρέσετε μόνιμα τη θέση εργασίας σας από το προφίλ για να μην χρειαστεί ποτέ να το σκεφτείτε.",
+          "Να δημοσιεύσετε ό,τι θέλετε, αφού είναι προσωπικός λογαριασμός και προσωπική σας άποψη στα κοινωνικά δίκτυα.",
+          "Να αφαιρέσετε μόνιμα τη θέση εργασίας σας από το προφίλ για να μην χρειαστεί ποτέ να κάνετε σχετικές σκέψεις.",
           "Να έχετε υπόψη ότι η δημοσίευση μπορεί να συνδεθεί με τον εργοδότη σας, και να ασκείτε διακριτικότητα, ιδίως σε ευαίσθητα θέματα σχετικά με την εργασία σας.",
-          "Να δημοσιεύετε μόνο απόψεις που επικρίνουν έντονα το ίδιο το θεσμικό όργανό σας για να αποδείξετε ανεξαρτησία."
+          "Να δημοσιεύετε μόνο απόψεις που επικρίνουν έντονα το ίδιο το θεσμικό όργανό σας για να αποδείξετε την ανεξαρτησία σας."
         ],
         "answer": 2,
-        "explanation": "Όταν η επαγγελματική σας συνεργασία είναι ορατή σε προσωπικό λογαριασμό, οι δημοσιεύσεις μπορεί να εκληφθούν ως αντανάκλαση του εργοδότη σας. Οι υπάλληλοι πρέπει να ασκούν εύλογη διακριτικότητα και κρίση, ιδίως σε ευαίσθητα θέματα."
+        "explanation": "Όταν η επαγγελματική σας συνεργασία είναι ορατή σε προσωπικό λογαριασμό, οι δημοσιεύσεις μπορεί να εκληφθούν ως αντανάκλαση των απόψεων του φορέα ή του εργοδότη σας. Οι υπάλληλοι πρέπει να ασκούν εύλογη διακριτικότητα και κρίση, ιδίως σε ευαίσθητα θέματα."
       }
     },
     {
@@ -3501,9 +3501,9 @@
         "passage": "15. A colleague wants to know whether an email really came from the official HR department or is a scam. It has the correct logo, but a slightly odd sender address.",
         "question": "Which is the most reliable way to check?",
         "options": [
-          "Trust it because the logo and formatting look official.",
+          "Trust it as soon as the logo and formatting look official.",
           "Check the exact sender email address carefully and, if in doubt, contact HR directly through a known, separate channel (e.g. phone or intranet).",
-          "Reply to the email itself asking if it is genuine.",
+          "Reply to the email itself asking for more information to check whether it is genuine.",
           "Click any link in the email to see where it leads."
         ],
         "answer": 1,
@@ -3513,9 +3513,9 @@
         "passage": "15. Ένας συνάδελφος θέλει να μάθει αν ένα email προήλθε πράγματι από το επίσημο τμήμα Ανθρώπινου Δυναμικού ή είναι απάτη. Έχει το σωστό λογότυπο, αλλά η διεύθυνση αποστολέα φαίνεται λίγο περίεργη.",
         "question": "Ποιος είναι ο πιο αξιόπιστος τρόπος ελέγχου;",
         "options": [
-          "Να το εμπιστευτεί επειδή το λογότυπο και η μορφοποίηση φαίνονται επίσημα.",
-          "Να ελέγξει προσεκτικά την ακριβή διεύθυνση αποστολέα και, σε περίπτωση αμφιβολίας, να επικοινωνήσει απευθείας με το ΑΔ μέσω γνωστού, ξεχωριστού καναλιού (π.χ. τηλέφωνο ή intranet).",
-          "Να απαντήσει στο ίδιο το email ρωτώντας αν είναι γνήσιο.",
+          "Να το εμπιστευτεί εφόσον το λογότυπο και η μορφοποίηση φαίνονται επίσημα.",
+          "Να ελέγξει προσεκτικά την ακριβή διεύθυνση αποστολέα και, σε περίπτωση αμφιβολίας, να επικοινωνήσει απευθείας με την ΔΑΔ μέσω ξεχωριστού καναλιού (π.χ. τηλέφωνο ή intranet).",
+          "Να απαντήσει στο ίδιο το email ρωτώντας πρόσθετες πληροφορίες για να ελέγξει αν είναι γνήσιο.",
           "Να κάνει κλικ σε οποιονδήποτε σύνδεσμο του email για να δει πού οδηγεί."
         ],
         "answer": 1,
@@ -3529,7 +3529,7 @@
         "options": [
           "Include them, since more data collected is always better for future use.",
           "Only collect the personal data that is actually necessary for the purpose of the survey.",
-          "Make them compulsory fields so no one skips them.",
+          "Make them compulsory fields so that no survey participant skips them.",
           "Collect them but promise to delete them 'eventually' without a defined plan."
         ],
         "answer": 1,
@@ -3539,10 +3539,10 @@
         "passage": "16. Σχεδιάζετε μια σύντομη εσωτερική έρευνα χρησιμοποιώντας εργαλείο online φόρμας. Ένας συνάδελφος προτείνει να προστεθούν προαιρετικά πεδία που ζητούν τη διεύθυνση κατοικίας και τον αριθμό ταυτότητας κάθε ερωτηθέντος, «μήπως χρειαστεί αργότερα».",
         "question": "Ποια είναι η καλύτερη πρακτική σχετικά με αυτά τα πεδία;",
         "options": [
-          "Να συμπεριληφθούν, αφού η συλλογή περισσότερων δεδομένων είναι πάντα καλύτερη για μελλοντική χρήση.",
+          "Να συμπεριληφθούν, αφού η έγκαιρη συλλογή περισσότερων δεδομένων είναι πάντα καλύτερη για πιθανή μελλοντική χρήση.",
           "Να συλλέγονται μόνο τα προσωπικά δεδομένα που είναι πράγματι απαραίτητα για τον σκοπό της έρευνας.",
           "Να γίνουν υποχρεωτικά πεδία ώστε κανείς να μην τα παραλείπει.",
-          "Να συλλέγονται αλλά με την υπόσχεση να διαγραφούν «κάποια στιγμή» χωρίς καθορισμένο σχέδιο."
+          "Να συλλέγονται αλλά με την υπόσχεση να διαγραφούν «σε ανύποπτο χρόνο» χωρίς καθορισμένο σχέδιο."
         ],
         "answer": 1,
         "explanation": "Η συλλογή μόνο των προσωπικών δεδομένων που είναι πράγματι απαραίτητα για τον δηλωμένο σκοπό («ελαχιστοποίηση δεδομένων») είναι βασική καλή πρακτική: διευθύνσεις κατοικίας και αριθμοί ταυτότητας δεν χρειάζονται σε μια τυπική εσωτερική έρευνα."
@@ -3553,7 +3553,7 @@
         "passage": "17. You want to reuse a nice photograph you found through an online image search in an internal presentation that will later be shared with the public.",
         "question": "What should you check before using it?",
         "options": [
-          "Nothing, since it appeared in a search engine's results.",
+          "Nothing, since it is posted on the interent and appeared in a search engine's results.",
           "Whether the image is free to use for this purpose, e.g. through its licence terms, and give credit to the source if required.",
           "Only whether the image looks professional enough.",
           "Whether the image has a watermark, and if so, simply crop it out."
@@ -3565,9 +3565,9 @@
         "passage": "17. Θέλετε να επαναχρησιμοποιήσετε μια ωραία φωτογραφία που βρήκατε μέσω διαδικτυακής αναζήτησης εικόνων σε εσωτερική παρουσίαση που θα κοινοποιηθεί αργότερα και δημόσια.",
         "question": "Τι πρέπει να ελέγξετε πριν τη χρησιμοποιήσετε;",
         "options": [
-          "Τίποτα, αφού εμφανίστηκε στα αποτελέσματα μιας μηχανής αναζήτησης.",
+          "Τίποτα, αφού κυκλοφορεί στο διαδίκτυο και εμφανίστηκε στα αποτελέσματα μιας μηχανής αναζήτησης.",
           "Αν η εικόνα είναι ελεύθερη προς χρήση για αυτόν τον σκοπό, π.χ. μέσω των όρων άδειας χρήσης της, και να αναφέρετε την πηγή αν απαιτείται.",
-          "Μόνο αν η εικόνα φαίνεται αρκετά επαγγελματική.",
+          "Μόνο αν η εικόνα φαίνεται αρκετά επαγγελματική για χρήση σε εσωτερική παρουσίαση της ΕΕ.",
           "Αν η εικόνα έχει υδατογράφημα, και αν ναι, απλώς να το αφαιρέσετε με περικοπή."
         ],
         "answer": 1,
@@ -3579,9 +3579,9 @@
         "passage": "18. Your team keeps important project files only on individual laptops, with no shared backup. One laptop is recently damaged, and a week of work is lost with it.",
         "question": "What change would best prevent this from happening again?",
         "options": [
-          "Ask everyone to work more carefully so laptops are not damaged.",
+          "Ask everyone to work more carefully and refrain from using laptops in personal tasks so that they are not damaged.",
           "Regularly save and back up important files to an approved shared drive or cloud storage, not only on individual devices.",
-          "Print out a paper copy of every file as the only backup method.",
+          "Print out a paper copy of every file as the only secure backup method.",
           "Accept that losing some work occasionally is unavoidable."
         ],
         "answer": 1,
@@ -3591,9 +3591,9 @@
         "passage": "18. Η ομάδα σας διατηρεί σημαντικά αρχεία έργου μόνο σε ατομικά laptop, χωρίς κοινόχρηστο αντίγραφο ασφαλείας. Ένα laptop υπέστη πρόσφατα ζημιά και μαζί του χάθηκε μια εβδομάδα εργασίας.",
         "question": "Ποια αλλαγή θα απέτρεπε καλύτερα την επανάληψη αυτού του προβλήματος;",
         "options": [
-          "Να ζητήσετε από όλους να προσέχουν περισσότερο ώστε να μην καταστρέφονται τα laptop.",
+          "Να ζητήσετε από όλους να προσέχουν περισσότερο ώστε να μην καταστρέφονται τα laptop και να μην τα χρησιμοποιούν σε προσωπικές εργασίες.",
           "Τακτική αποθήκευση και δημιουργία αντιγράφων ασφαλείας σημαντικών αρχείων σε εγκεκριμένο κοινόχρηστο δίσκο ή cloud, όχι μόνο στις ατομικές συσκευές.",
-          "Εκτύπωση έντυπου αντιγράφου κάθε αρχείου ως μοναδική μέθοδο αντιγράφου ασφαλείας.",
+          "Εκτύπωση έντυπου αντιγράφου κάθε αρχείου ως μοναδική ασφαλή μέθοδο αντιγράφου ασφαλείας.",
           "Αποδοχή ότι η απώλεια κάποιας εργασίας περιστασιακά είναι αναπόφευκτη."
         ],
         "answer": 1,
@@ -3643,7 +3643,7 @@
         "passage": "20. Αναζητάτε σε εσωτερικό αρχείο εγγράφων εκθέσεις για «προγράμματα κατάρτισης» που δημοσιεύθηκαν συγκεκριμένα το έτος 2023, ανάμεσα σε εκατοντάδες έγγραφα πολλών ετών.",
         "question": "Ποιος είναι ο πιο αποδοτικός τρόπος να βρείτε ακριβώς αυτό που χρειάζεστε;",
         "options": [
-          "Να περιηγηθείτε χειροκίνητα σε κάθε φάκελο ελέγχοντας την ημερομηνία κάθε εγγράφου.",
+          "Να περιηγηθείτε χειροκίνητα σε κάθε φάκελο ελέγχοντας την ημερομηνία τελευταίας μεταβολής κάθε εγγράφου.",
           "Να χρησιμοποιήσετε το πλαίσιο αναζήτησης με τις σχετικές λέξεις-κλειδιά και να εφαρμόσετε διαθέσιμο φίλτρο ημερομηνίας για το 2023.",
           "Να ζητήσετε από συνάδελφο να θυμηθεί ποιες εκθέσεις δημοσιεύθηκαν εκείνη τη χρονιά.",
           "Να ανοίξετε κάθε αρχείο ένα-ένα μέχρι να βρείτε τα σωστά."
@@ -3662,19 +3662,19 @@
           "It makes logging in faster overall.",
           "It adds an extra layer of protection, so a stolen password alone is not enough to access your account.",
           "It allows IT to track your exact physical location at all times.",
-          "It removes the need to ever change your password again."
+          "It removes the need to change regularly your password."
         ],
         "answer": 1,
         "explanation": "This is multi-factor authentication: requiring a second, separate proof of identity (such as a one-time code) means that even if someone learns your password, they still cannot access your account without that second factor."
       },
       "el": {
-        "passage": "1. Ο θεσμός σας εισάγει σύστημα όπου, αφού πληκτρολογήσετε τον κωδικό πρόσβασής σας, πρέπει επίσης να εισαγάγετε έναν κωδικό μιας χρήσης που στέλνεται στο τηλέφωνό σας πριν συνδεθείτε.",
+        "passage": "1. Η Υπηρεσία σας εισάγει σύστημα όπου, αφού πληκτρολογήσετε τον κωδικό πρόσβασής σας, πρέπει επίσης να εισαγάγετε έναν κωδικό μιας χρήσης που στέλνεται στο τηλέφωνό σας πριν συνδεθείτε.",
         "question": "Ποιο είναι το κύριο όφελος αυτού του επιπλέον βήματος;",
         "options": [
-          "Κάνει τη σύνδεση συνολικά πιο γρήγορη.",
+          "Βελτιώνει την ταχύτητα της σύνδεσης κάνοντας την πιο γρήγορη.",
           "Προσθέτει ένα επιπλέον επίπεδο προστασίας, ώστε ένας κλεμμένος κωδικός μόνο δεν αρκεί για πρόσβαση στον λογαριασμό σας.",
-          "Επιτρέπει στο IT να παρακολουθεί την ακριβή φυσική σας θέση ανά πάσα στιγμή.",
-          "Καταργεί την ανάγκη να αλλάξετε ξανά ποτέ τον κωδικό σας."
+          "Επιτρέπει στο τμήμα IT να παρακολουθεί την ακριβή φυσική σας θέση ανά πάσα στιγμή.",
+          "Καταργεί την ανάγκη να αλλάζετε τακτικά τον κωδικό σας."
         ],
         "answer": 1,
         "explanation": "Πρόκειται για αυθεντικοποίηση πολλαπλών παραγόντων: η απαίτηση δεύτερης, ξεχωριστής απόδειξης ταυτότητας σημαίνει ότι ακόμη κι αν κάποιος μάθει τον κωδικό σας, δεν μπορεί να αποκτήσει πρόσβαση χωρίς τον δεύτερο παράγοντα."
@@ -3686,23 +3686,23 @@
         "question": "What is the most useful first step to try to recover it?",
         "options": [
           "Retype the paragraph from memory as best you can.",
-          "Use the document's version history feature to find and restore the earlier version containing your text.",
+          "Assume it is lost forever and start the document over from scratch.",
           "Ask everyone to stop editing the document permanently.",
-          "Assume it is lost forever and start the document over from scratch."
+          "Use the document's version history feature to find and restore the earlier version containing your text."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Most cloud document tools keep a version history that lets you view and restore earlier versions. This is usually the quickest and most reliable way to recover text that appears to have been overwritten."
       },
       "el": {
-        "passage": "2. Ενώ επεξεργάζεστε από κοινού ένα κοινόχρηστο έγγραφο cloud, παρατηρείτε ότι μια παράγραφος που γράψατε χθες έχει εξαφανιστεί, προφανώς αντικατεστημένη από επεξεργασία κάποιου άλλου.",
+        "passage": "2. Ενώ επεξεργάζεστε από κοινού ένα κοινόχρηστο έγγραφο cloud, παρατηρείτε ότι μια παράγραφος που γράψατε χθες έχει εξαφανιστεί, προφανώς αντικατεστημένη από επεξεργασία κάποιου συναδέλφου σας.",
         "question": "Ποιο είναι το πιο χρήσιμο πρώτο βήμα για να προσπαθήσετε να την ανακτήσετε;",
         "options": [
           "Να ξαναγράψετε την παράγραφο από μνήμης όσο καλύτερα μπορείτε.",
-          "Να χρησιμοποιήσετε τη λειτουργία ιστορικού εκδόσεων του εγγράφου για να βρείτε και να επαναφέρετε την προηγούμενη έκδοση με το κείμενό σας.",
+          "Να υποθέσετε ότι χάθηκε για πάντα και να ξεκινήσετε το έγγραφο από την αρχή.",
           "Να ζητήσετε από όλους να σταματήσουν μόνιμα να επεξεργάζονται το έγγραφο.",
-          "Να υποθέσετε ότι χάθηκε για πάντα και να ξεκινήσετε το έγγραφο από την αρχή."
+          "Να χρησιμοποιήσετε τη λειτουργία ιστορικού εκδόσεων του εγγράφου για να βρείτε και να επαναφέρετε την προηγούμενη έκδοση με το κείμενό σας."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Τα περισσότερα εργαλεία εγγράφων cloud διατηρούν ιστορικό εκδόσεων που σας επιτρέπει να δείτε και να επαναφέρετε παλαιότερες εκδόσεις. Αυτός είναι συνήθως ο ταχύτερος και πιο αξιόπιστος τρόπος ανάκτησης κειμένου που φαίνεται να έχει αντικατασταθεί."
       }
     },
@@ -3711,10 +3711,10 @@
         "passage": "3. You are going on annual leave for two weeks and want colleagues and external contacts to know you will not be checking email during this time.",
         "question": "What should you set up before leaving?",
         "options": [
-          "Nothing; people should simply wait until you are back.",
+          "I am not expected to inform anyone about my leave; people should simply wait until you are back.",
           "An automatic out-of-office reply stating your return date and who to contact in the meantime.",
           "Forward all your email automatically to your personal account so you can check it on holiday.",
-          "Delete all incoming emails automatically while you are away."
+          "Delete all incoming emails automatically for as long as you are away."
         ],
         "answer": 1,
         "explanation": "An out-of-office auto-reply, stating your return date and an alternative contact if urgent, is standard professional practice and manages expectations for anyone trying to reach you while you are away."
@@ -3723,10 +3723,10 @@
         "passage": "3. Φεύγετε για ετήσια άδεια δύο εβδομάδων και θέλετε οι συνάδελφοι και οι εξωτερικές επαφές να γνωρίζουν ότι δεν θα ελέγχετε το email αυτή την περίοδο.",
         "question": "Τι πρέπει να ρυθμίσετε πριν φύγετε;",
         "options": [
-          "Τίποτα· οι άλλοι απλώς πρέπει να περιμένουν να επιστρέψετε.",
-          "Μια αυτόματη απάντηση απουσίας που να αναφέρει την ημερομηνία επιστροφής σας και ποιον να επικοινωνήσουν στο μεταξύ.",
+          "Τίποτα. Δεν υποχρεούμε να ενημερώσω κανέναν για την άδεια μου. Οι ενδιαφερόμενοι απλώς πρέπει να περιμένουν να επιστρέψω.",
+          "Μια αυτόματη απάντηση απουσίας που να αναφέρει την ημερομηνία επιστροφής σας και με ποιον να επικοινωνήσουν στο μεταξύ.",
           "Αυτόματη προώθηση όλων των email σας στον προσωπικό σας λογαριασμό ώστε να τα ελέγχετε στις διακοπές.",
-          "Αυτόματη διαγραφή όλων των εισερχόμενων email όσο λείπετε."
+          "Αυτόματη διαγραφή όλων των εισερχόμενων email για όσο λείπετε."
         ],
         "answer": 1,
         "explanation": "Η αυτόματη απάντηση απουσίας, που αναφέρει την ημερομηνία επιστροφής σας και εναλλακτική επαφή για επείγοντα ζητήματα, είναι τυπική επαγγελματική πρακτική και ενημερώνει σωστά όποιον προσπαθεί να επικοινωνήσει μαζί σας."
@@ -3738,11 +3738,11 @@
         "question": "Which file format is best suited for this final version?",
         "options": [
           "An editable Word document, so they can make any changes needed.",
-          "A PDF, which preserves the exact layout and is not easily editable.",
           "A plain text (.txt) file, to keep the file size small.",
+          "A PDF, which preserves the exact layout and is not easily editable.",
           "A voice recording describing the form's content."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "PDF is the standard format for final documents where preserving exact layout and formatting matters and unwanted editing should be discouraged, since it displays consistently across devices and software."
       },
       "el": {
@@ -3750,11 +3750,11 @@
         "question": "Ποια μορφή αρχείου είναι καταλληλότερη για αυτή την τελική έκδοση;",
         "options": [
           "Ένα επεξεργάσιμο έγγραφο Word, ώστε να μπορούν να κάνουν τις όποιες αλλαγές χρειάζονται.",
-          "Ένα PDF, το οποίο διατηρεί την ακριβή διάταξη και δεν επεξεργάζεται εύκολα.",
           "Ένα αρχείο απλού κειμένου (.txt), για να διατηρηθεί μικρό το μέγεθος αρχείου.",
+          "Ένα PDF, το οποίο διατηρεί την ακριβή διάταξη και δεν επεξεργάζεται εύκολα.",
           "Μια ηχητική εγγραφή που περιγράφει το περιεχόμενο της φόρμας."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Το PDF είναι η τυπική μορφή για τελικά έγγραφα όπου η διατήρηση της ακριβούς διάταξης και μορφοποίησης έχει σημασία και πρέπει να αποθαρρύνεται η ανεπιθύμητη επεξεργασία, αφού εμφανίζεται με συνέπεια σε διαφορετικές συσκευές και λογισμικό."
       }
     },
@@ -3768,19 +3768,19 @@
           "Delete the account entirely, since any personal information online is automatically unsafe.",
           "Only worry about this if you start receiving suspicious messages."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Being aware of and periodically reviewing what information is publicly visible about you online (your 'digital footprint') and adjusting privacy settings accordingly is a basic and sensible digital self-protection habit."
       },
       "el": {
         "passage": "5. Ενημερώνετε τις ρυθμίσεις απορρήτου σας σε επαγγελματική πλατφόρμα δικτύωσης και παρατηρείτε ότι το πλήρες επαγγελματικό σας ιστορικό, το τηλέφωνο και η πόλη κατοικίας σας είναι ορατά σε οποιονδήποτε στο διαδίκτυο, όχι μόνο στις επαφές σας.",
         "question": "Ποιο είναι ένα λογικό βήμα που πρέπει να κάνετε;",
         "options": [
-          "Να αφήσετε τα πάντα ορατά, αφού η μεγαλύτερη διαφάνεια είναι πάντα καλύτερη επαγγελματικά.",
           "Να επανεξετάσετε και να προσαρμόσετε τις ρυθμίσεις ορατότητας ώστε μόνο οι πληροφορίες με τις οποίες αισθάνεστε άνετα να είναι δημόσια ορατές σε όλους.",
+          "Να αφήσετε τα πάντα ορατά, αφού η μεγαλύτερη διαφάνεια είναι πάντα καλύτερη επαγγελματικά.",
           "Να διαγράψετε εντελώς τον λογαριασμό, αφού οποιαδήποτε προσωπική πληροφορία online είναι αυτόματα μη ασφαλής.",
           "Να ανησυχήσετε για αυτό μόνο αν αρχίσετε να λαμβάνετε ύποπτα μηνύματα."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Το να γνωρίζετε και να επανεξετάζετε περιοδικά ποιες πληροφορίες είναι δημόσια ορατές για εσάς online («ψηφιακό αποτύπωμα») και να προσαρμόζετε ανάλογα τις ρυθμίσεις απορρήτου είναι βασική και λογική συνήθεια ψηφιακής αυτοπροστασίας."
       }
     },
@@ -3792,7 +3792,7 @@
           "Immediately call IT support and wait on hold before trying anything yourself.",
           "Leave and rejoin the call, or close and reopen the video-call application.",
           "Restart your entire computer's operating system reinstallation.",
-          "Assume the meeting is cancelled and simply stop attending."
+          "Assume the meeting is cancelled by its administrator and simply stop attending."
         ],
         "answer": 1,
         "explanation": "For common glitches like a frozen call, simply leaving and rejoining the meeting, or restarting the application, resolves the issue in most cases and is much quicker than more drastic steps like a full system reinstall."
@@ -3804,7 +3804,7 @@
           "Να καλέσετε αμέσως το IT support και να περιμένετε στη γραμμή πριν δοκιμάσετε οτιδήποτε μόνοι σας.",
           "Να αποχωρήσετε και να επανασυνδεθείτε στην κλήση, ή να κλείσετε και να ανοίξετε ξανά την εφαρμογή τηλεδιάσκεψης.",
           "Να κάνετε πλήρη επανεγκατάσταση του λειτουργικού συστήματος του υπολογιστή σας.",
-          "Να υποθέσετε ότι η συνάντηση ακυρώθηκε και απλώς να σταματήσετε να συμμετέχετε."
+          "Να υποθέσετε ότι η συνάντηση ακυρώθηκε από τον διαχειριστή της και απλώς να σταματήσετε να συμμετέχετε."
         ],
         "answer": 1,
         "explanation": "Για συνηθισμένα προβλήματα όπως το πάγωμα μιας κλήσης, η απλή αποχώρηση και επανασύνδεση στη συνάντηση, ή η επανεκκίνηση της εφαρμογής, λύνει το πρόβλημα στις περισσότερες περιπτώσεις και είναι πολύ πιο γρήγορη από πιο δραστικά βήματα."
@@ -3817,7 +3817,7 @@
         "options": [
           "Continue converting the time manually and hope no one makes a mistake.",
           "Create the meeting invite in the shared calendar tool, which will automatically display the correct local time to each participant.",
-          "Only schedule meetings when everyone happens to be in the same country.",
+          "Only schedule meetings with participants residing in the same country.",
           "Ask each participant to set their own clocks to the organiser's time zone permanently."
         ],
         "answer": 1,
@@ -3829,7 +3829,7 @@
         "options": [
           "Να συνεχίσετε τη χειροκίνητη μετατροπή ώρας και να ελπίζετε ότι κανείς δεν θα κάνει λάθος.",
           "Να δημιουργήσετε την πρόσκληση συνάντησης στο κοινό εργαλείο ημερολογίου, το οποίο θα εμφανίζει αυτόματα τη σωστή τοπική ώρα σε κάθε συμμετέχοντα.",
-          "Να προγραμματίζετε συναντήσεις μόνο όταν όλοι τυχαίνει να βρίσκονται στην ίδια χώρα.",
+          "Να προγραμματίζετε συναντήσεις μόνο όταν οι συμμετέχοντες βρίσκονται στην ίδια χώρα.",
           "Να ζητήσετε από κάθε συμμετέχοντα να ρυθμίσει μόνιμα το ρολόι του στη ζώνη ώρας του διοργανωτή."
         ],
         "answer": 1,
@@ -3855,7 +3855,7 @@
         "options": [
           "Να περιμένετε μία-δύο ημέρες μήπως εμφανιστεί πριν το πείτε σε κανέναν.",
           "Να το αναφέρετε αμέσως στην ασφάλεια ΤΠ ώστε να κλειδώσουν ή να διαγράψουν απομακρυσμένα τη συσκευή.",
-          "Να αγοράσετε εσείς αντικαταστάτη τηλέφωνο και να συνεχίσετε κανονικά χωρίς αναφορά.",
+          "Να αγοράσετε εσείς τηλέφωνο αντικατάστασης και να συνεχίσετε κανονικά χωρίς αναφορά.",
           "Να το αναφέρετε μόνο αν είστε βέβαιοι ότι κλάπηκε και δεν χάθηκε απλώς."
         ],
         "answer": 1,
