@@ -4174,5 +4174,527 @@
         "explanation": "Το κείμενο αναφέρει ότι οι πλουσιότερες χώρες τείνουν να επικεντρώνονται αντ' αυτού στη διατήρηση τοπικών ειδών, λόγω έλλειψης παγκόσμιας επίγνωσης. Ωστόσο, δεν παρέχει καμία απολύτως πληροφορία σχετικά με το οικονομικό κόστος ή τη βιωσιμότητα διεθνών προγραμμάτων. Επομένως, η υπόθεση ότι αυτό οφείλεται στο ότι είναι υπερβολικά δαπανηρά για να εφαρμοστούν δεν μπορεί να συναχθεί, γεγονός που στηρίζει την επιλογή Δ. Η Α μπορεί να συναχθεί, καθώς το κείμενο αναφέρει ρητά ότι αυτά τα είδη κινδυνεύουν λόγω της ανθρώπινης δραστηριότητας. Η Β μπορεί να συναχθεί, καθώς το κείμενο επισημαίνει ότι τα ιδιαίτερα εξειδικευμένα είδη αντιμετωπίζουν ιδιαίτερο κίνδυνο λόγω αδυναμίας προσαρμογής σε περιβαλλοντικές αλλαγές. Η Γ μπορεί να συναχθεί, καθώς το κείμενο συνδέει την εστίαση των εύπορων χωρών σε τοπικά είδη με τη μικρή επίγνωση των κινδύνων που αντιμετωπίζουν τα είδη πτηνών σε όλο τον κόσμο."
       }
     }
+  ],
+  "verbal_9": [
+    {
+      "en": {
+        "passage": "1. The European Commission's scrutiny of national tax rulings has intensified since the landmark Apple case, in which Ireland was found to have granted illegal state aid through selective tax advantages. While member states retain broad competence over direct taxation under EU law, the Commission maintains that tax rulings which materially deviate from objective criteria and confer selective benefit on specific undertakings inherently distort competition within the internal market. Critics counter that this encroaches upon core fiscal sovereignty; yet the Court of Justice has consistently upheld the Commission's prerogative to assess whether such measures constitute state aid under Article 107 TFEU, provided the resulting advantage is both specific and economically measurable.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Ireland voluntarily amended its tax legislation following the Apple ruling",
+          "The Commission may challenge tax rulings that selectively favour particular companies",
+          "Member states are prohibited from setting their own corporate tax rates",
+          "The Court of Justice ruled that all tax rulings constitute illegal state aid"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that the Commission maintains that tax rulings 'which materially deviate from objective criteria and confer selective benefit on specific undertakings' distort competition, and the Court has upheld the Commission's prerogative to assess such measures."
+      },
+      "el": {
+        "passage": "1. Η εντατικοποιημένη εξέταση των εθνικών φορολογικών αποφάσεων από την Ευρωπαϊκή Επιτροπή έχει κλιμακωθεί από την ορόσημη υπόθεση Apple, στην οποία διαπιστώθηκε ότι η Ιρλανδία είχε χορηγήσει παράνομη κρατική ενίσχυση μέσω επιλεκτικών φορολογικών πλεονεκτημάτων. Ενώ τα κράτη μέλη διατηρούν ευρεία αρμοδιότητα επί της άμεσης φορολογίας βάσει του ενωσιακού δικαίου, η Επιτροπή υποστηρίζει ότι οι φορολογικές αποφάσεις οι οποίες αποκλίνουν σημαντικά από αντικειμενικά κριτήρια και παρέχουν επιλεκτικό όφελος σε συγκεκριμένες επιχειρήσεις διαστρεβλώνουν εκ φύσεως τον ανταγωνισμό στην εσωτερική αγορά. Οι επικριτές αντεπιχειρούν ότι τούτο συνιστά επέμβαση στην ουσιαστική φορολογική κυριαρχία· ωστόσο, το Δικαστήριο της Ευρωπαϊκής Ένωσης έχει επανειλημμένως επικυρώσει το προνόμιο της Επιτροπής να αξιολογεί κατά πόσον τέτοια μέτρα συνιστούν κρατική ενίσχυση βάσει του άρθρου 107 ΣΛΕΕ, υπό την προϋπόθεση ότι το επακόλουθο όφελος είναι και επιλεκτικό και οικονομικά μετρήσιμο.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η Ιρλανδία τροποποίησε εθελοντικά τη φορολογική της νομοθεσία μετά την απόφαση Apple",
+          "Η Επιτροπή δύναται να αμφισβητήσει φορολογικές αποφάσεις που ευνοούν επιλεκτικά συγκεκριμένες εταιρείες",
+          "Τα κράτη μέλη απαγορεύεται να καθορίζουν τους δικούς τους συντελεστές φορολογίας εταιρειών",
+          "Το Δικαστήριο έκρινε ότι όλες οι φορολογικές αποφάσεις συνιστούν παράνομη κρατική ενίσχυση"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι η Επιτροπή υποστηρίζει ότι οι φορολογικές αποφάσεις «οι οποίες αποκλίνουν σημαντικά από αντικειμενικά κριτήρια και παρέχουν επιλεκτικό όφελος σε συγκεκριμένες επιχειρήσεις» διαστρεβλώνουν τον ανταγωνισμό, και το Δικαστήριο έχει επικυρώσει το προνόμιο της Επιτροπής να αξιολογεί τέτοια μέτρα."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The Copenhagen interpretation of quantum mechanics, formulated primarily by Bohr and Heisenberg in the 1920s, posits that quantum systems do not possess definite properties prior to measurement; rather, the act of observation collapses the wave function into a single determinate state. This instrumentalist stance, which treats the wave function merely as a predictive calculational tool rather than a descriptor of physical reality, has faced persistent challenges from realist frameworks. Notably, Bell's theorem mathematically demonstrated that no local hidden-variable theory can reproduce all predictions of quantum mechanics, thereby constraining—but not definitively eliminating—alternative interpretive possibilities that seek to preserve objective reality at the quantum level.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Bell's theorem conclusively disproved all realist interpretations of quantum mechanics",
+          "The Copenhagen interpretation considers observation necessary to establish a quantum system's state",
+          "Hidden-variable theories can reproduce quantum predictions if they abandon locality",
+          "Bohr and Heisenberg believed the wave function describes an objectively real physical entity"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that quantum systems 'do not possess definite properties prior to measurement; rather, the act of observation collapses the wave function into a single determinate state,' implying that observation is necessary to establish the system's state."
+      },
+      "el": {
+        "passage": "2. Η ερμηνεία της Κοπεγχάγης της κβαντικής μηχανικής, διατυπωμένη κυρίως από τον Μπορ και τον Χάιζενμπεργκ τη δεκαετία του 1920, υποθέτει ότι τα κβαντικά συστήματα δεν κατέχουν ορισμένες ιδιότητες πριν από τη μέτρηση· αντιθέτως, η πράξη της παρατήρησης καταρρέει την κυματοσυνάρτηση σε μια μοναδική καθορισμένη κατάσταση. Αυτή η εργαλειακή στάση, η οποία αντιμετωπίζει την κυματοσυνάρτηση απλώς ως ένα προγνωστικό υπολογιστικό εργαλείο και όχι ως περιγραφέα της φυσικής πραγματικότητας, έχει αντιμετωπίσει επίμονες προκλήσεις από ρεαλιστικά πλαίσια. Σημειωτέον, το θεώρημα του Μπελ απέδειξε μαθηματικά ότι καμία τοπική θεωρία κρυφών μεταβλητών δεν μπορεί να αναπαράγει όλες τις προβλέψεις της κβαντικής μηχανικής, περιορίζοντας—χωρίς όμως να εξαλείφει οριστικά—εναλλακτικές ερμηνευτικές δυνατότητες που επιδιώκουν να διατηρήσουν την αντικειμενική πραγματικότητα στο κβαντικό επίπεδο.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Το θεώρημα του Μπελ απέδειξε οριστικά όλες τις ρεαλιστικές ερμηνείες της κβαντικής μηχανικής",
+          "Η ερμηνεία της Κοπεγχάγης θεωρεί την παρατήρηση αναγκαία για την καθιέρωση της κατάστασης ενός κβαντικού συστήματος",
+          "Οι θεωρίες κρυφών μεταβλητών δύνανται να αναπαράγουν κβαντικές προβλέψεις εάν εγκαταλείψουν την τοπικότητα",
+          "Οι Μπορ και Χάιζενμπεργκ πίστευαν ότι η κυματοσυνάρτηση περιγράφει μια αντικειμενικά πραγματική οντότητα"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι τα κβαντικά συστήματα «δεν κατέχουν ορισμένες ιδιότητες πριν από τη μέτρηση· αντιθέτως, η πράξη της παρατήρησης καταρρέει την κυματοσυνάρτηση σε μια μοναδική καθορισμένη κατάσταση», υποδηλώνοντας ότι η παρατήρηση είναι αναγκαία."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The European Green Deal's carbon border adjustment mechanism (CBAM) aims to prevent carbon leakage by imposing tariffs on imports from jurisdictions with less stringent emissions regulations. Initially covering cement, iron, steel, aluminium, fertilisers, electricity, and hydrogen, CBAM will require importers to purchase certificates corresponding to the embedded carbon content and the prevailing EU carbon price. While the Commission has justified the mechanism as an indispensable climate necessity, several major trading partners have denounced it as a unilateral trade measure disguised in environmental rhetoric. The Commission insists CBAM complies with WTO rules, provided certificates are priced equivalently to those under the EU Emissions Trading System and no discrimination occurs between domestic and foreign producers.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "CBAM applies uniformly to all imported goods regardless of their carbon intensity",
+          "The Commission acknowledges that CBAM may violate WTO rules in certain circumstances",
+          "Importers must acquire certificates reflecting both carbon content and the EU carbon price",
+          "Trading partners universally support CBAM as an effective climate instrument"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that CBAM will require importers to purchase certificates 'corresponding to the embedded carbon content and the prevailing EU carbon price.'"
+      },
+      "el": {
+        "passage": "3. Ο μηχανισμός προσαρμογής συνόρων άνθρακα (CBAM) του Ευρωπαϊκού Πράσινου Συμφώνου στοχεύει στην αποτροπή της διαρροής άνθρακα μέσω της επιβολής δασμών σε εισαγωγές από δικαιοδοσίες με λιγότερο αυστηρούς κανονισμούς εκπομπών. Καλύπτοντας αρχικά τσιμέντο, σίδηρο, χάλυβα, αλουμίνιο, λιπάσματα, ηλεκτρισμό και υδρογόνο, ο CBAM θα απαιτεί από τους εισαγωγείς να αγοράζουν πιστοποιητικά αντιστοιχούντα στο ενσωματωμένο περιεχόμενο άνθρακα και στο επικρατούν ευρωπαϊκό τιμή άνθρακα. Ενώ η Επιτροπή έχει δικαιολογήσει τον μηχανισμό ως αναντικατάστατο κλιματικό αναγκαίο, αρκετοί μείζονες εμπορικοί εταίροι τον έχουν καταγγείλει ως μονομερές εμπορικό μέτρο μεταμφιεσμένο σε περιβαλλοντική ρητορική. Η Επιτροπή επιμένει ότι ο CBAM συμμορφώνεται με τους κανόνες του ΠΟΕ, υπό την προϋπόθεση ότι τα πιστοποιητικά τιμολογούνται ισοδύναμα με εκείνα του Συστήματος Εμπορίας Δικαιωμάτων Εκπομπών της ΕΕ και δεν υπάρχει διάκριση μεταξύ εγχώριων και ξένων παραγωγών.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο CBAM εφαρμόζεται ομοιόμορφα σε όλα τα εισαγόμενα αγαθά ανεξαρτήτως της έντασης άνθρακά τους",
+          "Η Επιτροπή αναγνωρίζει ότι ο CBAM ενδέχεται να παραβιάζει τους κανόνες του ΠΟΕ υπό ορισμένες προϋποθέσεις",
+          "Οι εισαγωγείς πρέπει να αποκτήσουν πιστοποιητικά που αντανακλούν τόσο το περιεχόμενο άνθρακα όσο και την τιμή άνθρακα της ΕΕ",
+          "Οι εμπορικοί εταίροι υποστηρίζουν καθολικά τον CBAM ως αποτελεσματικό κλιματικό μέσο"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι ο CBAM θα απαιτεί από τους εισαγωγείς να αγοράζουν πιστοποιητικά «αντιστοιχούντα στο ενσωματωμένο περιεχόμενο άνθρακα και στο επικρατούν ευρωπαϊκό τιμή άνθρακα»."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The patronage system of the Italian Renaissance, while ostensibly serving religious devotion, functioned as a sophisticated mechanism of political legitimation and social competition. Lorenzo de' Medici's patronage of Botticelli and Michelangelo was not merely aesthetic philanthropy; it projected Florentine republican identity while simultaneously masking the Medici family's de facto oligarchic control. Similarly, papal commissions for the Sistine Chapel served Julius II's ambition to restore Rome's political primacy, not merely its spiritual authority. Art historians have increasingly recognised that Renaissance masterpieces must be understood as embedded within networks of power, where aesthetic value and political utility were inextricably intertwined rather than sequentially ordered.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Lorenzo de' Medici supported artists solely out of personal religious devotion",
+          "The Sistine Chapel was commissioned primarily to enhance Rome's political standing",
+          "Renaissance art historians now view aesthetic and political motives as inseparable",
+          "The Medici family exercised no political influence in Florence during the Renaissance"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that 'aesthetic value and political utility were inextricably intertwined rather than sequentially ordered,' and that art historians have increasingly recognised this interconnection."
+      },
+      "el": {
+        "passage": "4. Το σύστημα προστασίας της ιταλικής Αναγέννησης, ενώ επιφανειακά υπηρετούσε θρησκευτική ευσέβεια, λειτουργούσε ως εξελιγμένος μηχανισμός πολιτικής νομιμοποίησης και κοινωνικού ανταγωνισμού. Η προστασία του Λορέντσο των Μεδίκων προς τον Μποτιτσέλι και τον Μιχαήλ Άγγελο δεν ήταν απλώς αισθητική φιλανθρωπία· προέβαλλε τη φλωρεντινή δημοκρατική ταυτότητα ενώ ταυτόχρονα συγκάλυπτε τον de facto ολιγαρχικό έλεγχο της οικογένειας Μεδίκων. Παρομοίως, οι παπικές αναθέσεις για την Καπέλα Σιξτίνα εξυπηρετούσαν τη φιλοδοξία του Ιουλίου Β΄ να αποκαταστήσει την πολιτική πρωτοκαθεδρία της Ρώμης, όχι απλώς την πνευματική της εξουσία. Οι ιστορικοί της τέχνης αναγνωρίζουν ολοένα και περισσότερο ότι τα αριστουργήματα της Αναγέννησης πρέπει να γίνουν κατανοητά ως ενσωματωμένα σε δίκτυα εξουσίας, όπου η αισθητική αξία και η πολιτική χρησιμότητα ήταν αναπόσπαστα συνυφασμένες και όχι διαδοχικά διατεταγμένες.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο Λορέντσο των Μεδίκων υποστήριξε καλλιτέχνες αποκλειστικά από προσωπική θρησκευτική ευσέβεια",
+          "Η Καπέλα Σιξτίνα ανατέθηκε κυρίως για την ενίσχυση της πολιτικής θέσης της Ρώμης",
+          "Οι ιστορικοί της τέχνης της Αναγέννησης θεωρούν πλέον αισθητικά και πολιτικά κίνητρα αδιαχώριστα",
+          "Η οικογένεια Μεδίκων δεν ασκούσε καμία πολιτική επιρροή στη Φλωρεντία κατά την Αναγέννηση"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι «η αισθητική αξία και η πολιτική χρησιμότητα ήταν αναπόσπαστα συνυφασμένες και όχι διαδοχικά διατεταγμένες», και ότι οι ιστορικοί της τέχνης το αναγνωρίζουν ολοένα και περισσότερο."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The EU Artificial Intelligence Act establishes a risk-based regulatory framework that categorises AI systems according to their potential societal harm. High-risk applications, including those deployed in recruitment, credit scoring, and law enforcement, must satisfy stringent conformity assessments and post-market monitoring obligations before deployment. Foundation models with systemic impact face additional obligations regarding training data transparency, copyright compliance, and systemic risk mitigation. Critics argue that the Act's broad definition of 'high-risk' captures innovative applications that pose minimal actual danger, potentially stifling European technological competitiveness. Conversely, civil society organisations contend that enforcement gaps and lengthy transition periods may render the framework ineffective against rapidly evolving generative AI capabilities.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "All AI systems used in recruitment are classified as high-risk under the AI Act",
+          "Civil society believes the AI Act's transition periods may limit its effectiveness",
+          "Foundation models are exempt from copyright compliance requirements",
+          "The AI Act prohibits the deployment of any AI system in law enforcement"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that civil society organisations contend that 'enforcement gaps and lengthy transition periods may render the framework ineffective.'"
+      },
+      "el": {
+        "passage": "5. Ο νόμος της ΕΕ για την Τεχνητή Νοημοσύνη θεσπίζει έναν κανονιστικό πλαίσιο βασισμένο στον κίνδυνο, το οποίο κατηγοριοποιεί τα συστήματα ΤΝ σύμφωνα με την πιθανή κοινωνική τους βλάβη. Οι εφαρμογές υψηλού κινδύνου, συμπεριλαμβανομένων των εφαρμογών που χρησιμοποιούνται σε προσλήψεις, αξιολόγηση πιστοληπτικής ικανότητας και επιβολή του νόμου, πρέπει να πληρούν αυστηρές αξιολογήσεις συμμόρφωσης και υποχρεώσεις μεταπωλητικής παρακολούθησης πριν από την ανάπτυξή τους. Τα θεμελιώδη μοντέλα με συστημικό αντίκτυπο αντιμετωπίζουν πρόσθετες υποχρεώσεις όσον αφορά τη διαφάνεια δεδομένων εκπαίδευσης, τη συμμόρφωση με πνευματικά δικαιώματα και την άμβλυνση συστημικού κινδύνου. Οι επικριτές υποστηρίζουν ότι η ευρεία οριοθέτηση «υψηλού κινδύνου» του νόμου συλλαμβάνει καινοτόμες εφαρμογές που εγκυμονούν ελάχιστον πραγματικό κίνδυνο, ενδεχομένως πνίγοντας την ευρωπαϊκή τεχνολογική ανταγωνιστικότητα. Αντιθέτως, οι οργανώσεις της κοινωνίας πολιτών υποστηρίζουν ότι τα κενά επιβολής και οι μακροί μεταβατικοί χρόνοι ενδέχεται να καταστήσουν το πλαίσιο αναποτελεσματικό έναντι ταχέως εξελισσόμενων δυνατοτήτων γενετικής ΤΝ.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Όλα τα συστήματα ΤΝ που χρησιμοποιούνται σε προσλήψεις κατατάσσονται ως υψηλού κινδύνου",
+          "Οι οργανώσεις της κοινωνίας πολιτών πιστεύουν ότι οι μεταβατικοί χρόνοι ενδέχεται να περιορίσουν την αποτελεσματικότητα του νόμου",
+          "Τα θεμελιώδη μοντέλα απαλλάσσονται από τις υποχρεώσεις συμμόρφωσης με πνευματικά δικαιώματα",
+          "Ο νόμος απαγορεύει την ανάπτυξη οποιουδήποτε συστήματος ΤΝ στην επιβολή του νόμου"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι οργανώσεις της κοινωνίας πολιτών υποστηρίζουν ότι «τα κενά επιβολής και οι μακροί μεταβατικοί χρόνοι ενδέχεται να καταστήσουν το πλαίσιο αναποτελεσματικό»."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The CRISPR-Cas9 gene-editing technology has revolutionised molecular biology by enabling precise, targeted modifications to DNA sequences at comparatively low cost and with unprecedented efficiency. While therapeutic applications for monogenic disorders such as sickle-cell disease have shown remarkable clinical efficacy in recent trials, germline editing—heritable genetic modifications passed to subsequent generations—remains profoundly controversial within the scientific community. The 2018 case of He Jiankui, who edited human embryos resulting in live births, prompted widespread scientific condemnation and accelerated regulatory prohibitions across multiple jurisdictions. Nevertheless, some bioethicists argue that an absolute ban on germline editing is ethically untenable, as it may eventually preclude the prevention of severe heritable conditions when no therapeutic alternatives exist.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "He Jiankui's research was widely praised by the scientific community",
+          "CRISPR-Cas9 has been universally adopted as the standard treatment for all monogenic disorders",
+          "Germline editing is currently permitted in most jurisdictions following the 2018 case",
+          "Some bioethicists maintain that a complete prohibition on germline editing could be ethically problematic"
+        ],
+        "answer": 3,
+        "explanation": "The passage states that 'some bioethicists argue that an absolute ban on germline editing is ethically untenable, as it may eventually preclude the prevention of severe heritable conditions when no therapeutic alternatives exist.'"
+      },
+      "el": {
+        "passage": "6. Η τεχνολογία γονιδιακής επεξεργασίας CRISPR-Cas9 έχει επαναστατήσει στη μοριακή βιολογία επιτρέποντας ακριβείς, στοχευμένες τροποποιήσεις σε αλληλουχίες DNA με συγκριτικά χαμηλό κόστος και πρωτοφανή αποτελεσματικότητα. Ενώ οι θεραπευτικές εφαρμογές για μονογονιδιακές διαταραχές όπως η δρεπανοκυτταρική αναιμία έχουν επιδείξει αξιοσημείωτη κλινική αποτελεσματικότητα σε πρόσφατες δοκιμές, η επεξεργασία της γραμμής των γενεών—κληρονομήσιμες γονιδιακές τροποποιήσεις που μεταβιβάζονται στις επόμενες γενιές—παραμένει βαθύτατα αμφιλεγόμενη στην επιστημονική κοινότητα. Η περίπτωση του 2018 του Χε Τζιανκούι, ο οποίος επεξεργάστηκε ανθρώπινα έμβρυα με αποτέλεσμα ζωντανές γεννήσεις, προκάλεσε εκτεταμένη επιστημονική καταδίκη και επιτάχυνε κανονιστικές απαγορεύσεις σε πολλαπλές δικαιοδοσίες. Ωστόσο, ορισμένοι βιοηθικολόγοι υποστηρίζουν ότι μια απόλυτη απαγόρευση της επεξεργασίας της γραμμής των γενεών είναι ηθικά αβάσιμη, καθώς ενδέχεται τελικά να αποκλείσει την πρόληψη σοβαρών κληρονομήσιμων παθήσεων όταν δεν υπάρχουν θεραπευτικές εναλλακτικές.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η έρευνα του Χε Τζιανκούι επαινέθηκε ευρέως από την επιστημονική κοινότητα",
+          "Η CRISPR-Cas9 έχει υιοθετηθεί καθολικά ως η τυπική θεραπεία για όλες τις μονογονιδιακές διαταραχές",
+          "Η επεξεργασία της γραμμής των γενεών επιτρέπεται επί του παρόντος στις περισσότερες δικαιοδοσίες μετά την περίπτωση του 2018",
+          "Ορισμένοι βιοηθικολόγοι θεωρούν ότι μια πλήρης απαγόρευση της επεξεργασίας της γραμμής των γενεών ενδέχεται να έχει ηθικά μειονεκτήματα"
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι «ορισμένοι βιοηθικολόγοι υποστηρίζουν ότι μια απόλυτη απαγόρευση... είναι ηθικά αβάσιμη, καθώς ενδέχεται τελικά να αποκλείσει την πρόληψη σοβαρών κληρονομήσιμων παθήσεων»."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The European Union's enlargement policy has undergone a paradigmatic shift since the 2020s, with the Commission increasingly conditioning accession progress upon rigorous rule-of-law benchmarks rather than merely technical harmonisation with the acquis communautaire. The revised methodology for accession negotiations introduces interim reversibility: progress on specific chapters can be suspended if candidate countries backslide on judicial independence, anti-corruption measures, or fundamental rights protections. While this conditionality aims to prevent the democratic erosion witnessed in certain member states, Western Balkan candidates have criticised the framework as asymmetrical, noting that existing members are not subject to equivalent enforcement mechanisms despite Article 7 TEU procedures remaining largely dormant in practice.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The revised methodology allows for the suspension of accession chapters if rule-of-law standards deteriorate",
+          "Article 7 TEU has been frequently applied against existing member states with rule-of-law deficiencies",
+          "The acquis communautaire no longer plays any role in the accession process",
+          "All Western Balkan candidates have rejected the revised enlargement methodology outright"
+        ],
+        "answer": 0,
+        "explanation": "The passage states that 'progress on specific chapters can be suspended if candidate countries backslide on judicial independence, anti-corruption measures, or fundamental rights protections.'"
+      },
+      "el": {
+        "passage": "7. Η πολιτική διεύρυνσης της Ευρωπαϊκής Ένωσης έχει υποστεί παραδειγματική μετατόπιση από τη δεκαετία του 2020, με την Επιτροπή να καθιστά ολοένα και περισσότερο την πρόοδο της ένταξης συνάρτηση αυστηρών δεικτών κράτους δικαίου και όχι απλώς τεχνικής εναρμόνισης με το κοινοτικό κεκτημένο. Η αναθεωρημένη μεθοδολογία για τις διαπραγματεύσεις ένταξης εισάγει ενδιάμεση αναστρεψιμότητα: η πρόοδος σε συγκεκριμένα κεφάλαια δύναται να ανασταλεί εάν οι υποψήφιες χώρες υποχωρήσουν όσον αφορά την ανεξαρτησία της δικαιοσύνης, τα μέτρα κατά της διαφθοράς ή τις προστασίες θεμελιωδών δικαιωμάτων. Ενώ αυτή η συνθήκη στοχεύει στην αποτροπή της δημοκρατικής διάβρωσης που παρατηρήθηκε σε ορισμένα κράτη μέλη, οι υποψήφιες χώρες των Δυτικών Βαλκανίων έχουν επικρίνει το πλαίσιο ως ασύμμετρο, επισημαίνοντας ότι τα υφιστάμενα μέλη δεν υπόκεινται σε ισοδύναμους μηχανισμούς επιβολής παρά το γεγονός ότι οι διαδικασίες του άρθρου 7 ΣΕΕ παραμένουν σε μεγάλο βαθμό αδρανείς στην πράξη.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η αναθεωρημένη μεθοδολογία επιτρέπει την αναστολή κεφαλαίων ένταξης εάν τα πρότυπα κράτους δικαίου υποχωρήσουν",
+          "Το άρθρο 7 ΣΕΕ έχει εφαρμοστεί συχνά κατά κρατών μελών με ελλείψεις κράτους δικαίου",
+          "Το κοινοτικό κεκτημένο δεν παίζει πλέον κανέναν ρόλο στη διαδικασία ένταξης",
+          "Όλες οι υποψήφιες χώρες των Δυτικών Βαλκανίων έχουν απορρίψει κατηγορηματικά την αναθεωρημένη μεθοδολογία"
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο αναφέρει ότι «η πρόοδος σε συγκεκριμένα κεφάλαια δύναται να ανασταλεί εάν οι υποψήφιες χώρες υποχωρήσουν όσον αφορά την ανεξαρτησία της δικαιοσύνης, τα μέτρα κατά της διαφθοράς ή τις προστασίες θεμελιωδών δικαιωμάτων»."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The doctrine of containment, articulated by George Kennan in his 1946 Long Telegram and subsequently operationalised through the Truman Doctrine and Marshall Plan, presumed that Soviet expansionism was driven by ideological imperatives rather than traditional security concerns. Kennan argued that patient, long-term political and economic pressure at critical peripheral points would eventually force the Soviet system to moderate its ambitions or collapse internally. However, subsequent historians have noted that the militarised implementation of containment—particularly through NATO expansion and proxy conflicts—frequently contradicted Kennan's original vision of non-military pressure. The Cuban Missile Crisis, in this interpretive framework, represented not containment's vindication but its most perilous deviation into direct superpower confrontation.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Kennan believed military force was the primary instrument for containing Soviet expansion",
+          "The Marshall Plan was designed exclusively to rebuild European military infrastructure",
+          "Some historians view the Cuban Missile Crisis as inconsistent with Kennan's original containment strategy",
+          "The Soviet Union's expansion was motivated primarily by traditional territorial security concerns"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that 'The Cuban Missile Crisis, in this interpretive framework, represented not containment's vindication but its most perilous deviation,' and that historians noted the militarised implementation 'frequently contradicted Kennan's original vision.'"
+      },
+      "el": {
+        "passage": "8. Η δοκτρίνη της περιχαράκωσης, διατυπωμένη από τον Τζορτζ Κέναν στο μακρύ τηλεγράφημα του 1946 και στη συνέχεια επιχειρησιακά υλοποιημένη μέσω της Δοκτρίνης Τρούμαν και του Σχεδίου Μάρσαλ, προϋπέθετε ότι ο σοβιετικός επεκτατισμός οδηγούνταν από ιδεολογικές επιταγές και όχι από παραδοσιακές ανησυχίες ασφαλείας. Ο Κέναν υποστήριξε ότι η υπομονετική, μακροπρόθεσμη πολιτική και οικονομική πίεση σε κρίσιμα περιφερειακά σημεία θα ανάγκαζε τελικά το σοβιετικό σύστημα να μετριάσει τις φιλοδοξίες του ή να καταρρεύσει εσωτερικά. Ωστόσο, μεταγενέστεροι ιστορικοί έχουν επισημάνει ότι η στρατιωτικοποιημένη εφαρμογή της περιχαράκωσης—ιδίως μέσω της επέκτασης του ΝΑΤΟ και των πολέμων δια αντιπροσώπων—συχνά αντιφάσκονταν με την αρχική όραση του Κέναν για μη στρατιωτική πίεση. Η κρίση των πυραύλων της Κούβας, σε αυτό το ερμηνευτικό πλαίσιο, αναπαριστάταν όχι ως δικαίωση της περιχαράκωσης αλλά ως η πλέον επικίνδυνη απόκλισή της σε άμεση αντιπαράθεση υπερδυνάμεων.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο Κέναν πίστευε ότι η στρατιωτική βία ήταν το κύριο μέσο για την περιχαράκωση του σοβιετικού επεκτατισμού",
+          "Το Σχέδιο Μάρσαλ σχεδιάστηκε αποκλειστικά για την ανοικοδόμηση της ευρωπαϊκής στρατιωτικής υποδομής",
+          "Ορισμένοι ιστορικοί θεωρούν την κρίση των πυραύλων της Κούβας ασυμβίβαστη με την αρχική στρατηγική περιχαράκωσης του Κέναν",
+          "Η σοβιετική επέκταση παρακινείτο κυρίως από παραδοσιακές εδαφικές ανησυχίες ασφαλείας"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι «η κρίση των πυραύλων της Κούβας... αναπαριστάταν όχι ως δικαίωση της περιχαράκωσης αλλά ως η πλέον επικίνδυνη απόκλισή της», και ότι οι ιστορικοί σημείωσαν ότι η στρατιωτικοποιημένη εφαρμογή «συχνά αντιφάσκονταν με την αρχική όραση του Κέναν»."
+       }
+    },
+    {
+      "en": {
+        "passage": "9. The Digital Services Act imposes graduated accountability obligations on online platforms, with very large platforms facing the most stringent transparency and risk-management requirements. While the Act preserves the country-of-origin principle for intermediary liability, it mandates algorithmic accountability, requiring platforms to disclose recommendation parameters and mitigate systemic risks to fundamental rights. Critics argue that compliance costs may disproportionately disadvantage smaller competitors, yet the Commission maintains that proportionality safeguards prevent regulatory capture by dominant incumbents while preserving innovation incentives across the single market.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The Act abolishes the country-of-origin principle for all digital services",
+          "Very large platforms must disclose how their recommendation algorithms function",
+          "Smaller platforms are explicitly exempt from all transparency obligations",
+          "The Commission believes compliance costs will eliminate all market competition"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that the Act mandates 'algorithmic accountability, requiring platforms to disclose recommendation parameters,' which applies particularly to very large platforms."
+      },
+      "el": {
+        "passage": "9. Ο Νόμος για τις Ψηφιακές Υπηρεσίες επιβάλλει διαβαθμισμένες υποχρεώσεις λογοδοσίας σε διαδικτυακές πλατφόρμες, με τις πολύ μεγάλες πλατφόρμες να αντιμετωπίζουν τις πλέον αυστερές απαιτήσεις διαφάνειας και διαχείρισης κινδύνων. Ενώ ο νόμος διατηρεί την αρχή της χώρας προέλευσης για την ευθύνη διαμεσολαβητών, επιτάσσει αλγοριθμική λογοδοσία, απαιτώντας από τις πλατφόρμες να γνωστοποιούν παραμέτρους σύστασης και να αμβλύνουν συστημικούς κινδύνους για θεμελιώδη δικαιώματα. Οι επικριτές υποστηρίζουν ότι το κόστος συμμόρφωσης ενδέχεται να δυσμενεί δυσανάλογα μικρότερους ανταγωνιστές, ωστόσο η Επιτροπή διατηρεί ότι οι εγγυήσεις αναλογικότητας αποτρέπουν τη ρυθμιστική σύλληψη από κυρίαρχους υφιστάμενους ενώ διατηρούν τα κίνητρα καινοτομίας στην ενιαία αγορά.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο νόμος καταργεί την αρχή της χώρας προέλευσης για όλες τις ψηφιακές υπηρεσίες",
+          "Οι πολύ μεγάλες πλατφόρμες πρέπει να γνωστοποιούν πώς λειτουργούν οι αλγόριθμοί τους σύστασης",
+          "Οι μικρότερες πλατφόρμες απαλλάσσονται ρητά από όλες τις υποχρεώσεις διαφάνειας",
+          "Η Επιτροπή πιστεύει ότι το κόστος συμμόρφωσης θα εξαλείψει όλον τον ανταγωνισμό στην αγορά"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι ο νόμος επιτάσσει 'αλγοριθμική λογοδοσία, απαιτώντας από τις πλατφόρμες να γνωστοποιούν παραμέτρους σύστασης,' κάτι που ισχύει ιδίως για τις πολύ μεγάλες πλατφόρμες."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. Dark matter, inferred from galactic rotation curves and gravitational lensing, constitutes approximately twenty-seven percent of the universe's total mass-energy content, yet it interacts neither electromagnetically nor through the strong nuclear force. Its gravitational effects are indispensable for structure formation, as baryonic matter alone cannot account for the observed large-scale distribution of galaxies. While particle candidates such as weakly interacting massive particles remain theoretically compelling, direct detection experiments have yielded null results, prompting some theorists to explore modified gravity frameworks as alternative explanations for observed gravitational anomalies without invoking new particles.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Dark matter has been directly detected through electromagnetic radiation",
+          "Baryonic matter is insufficient to explain the observed large-scale structure of the universe",
+          "Modified gravity theories have conclusively replaced the dark matter hypothesis",
+          "Weakly interacting massive particles have been experimentally confirmed as dark matter"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that 'baryonic matter alone cannot account for the observed large-scale distribution of galaxies,' implying it is insufficient to explain the structure."
+      },
+      "el": {
+        "passage": "10. Η σκοτεινή ύλη, που συνάγεται από τις καμπύλες περιστροφής γαλαξιών και τους βαρυτικούς φακούς, συνιστά περίπου το εικοσιεπτά τοις εκατό του συνολικού περιεχομένου μάζας-ενέργειας του σύμπαντος, ενώ δεν αλληλεπιδρά ούτε ηλεκτρομαγνητικά ούτε μέσω της ισχυρής πυρηνικής δύναμης. Οι βαρυτικές της επιδράσεις είναι αναντικατάστατες για το σχηματισμό δομών, καθώς η βαρυονική ύλη αφ' εαυτής δεν δύναται να εξηγήσει την παρατηρούμενη κατανομή μεγάλης κλίμακας των γαλαξιών. Ενώ υποψήφια σωματίδια όπως τα ασθενώς αλληλεπιδρώντα μαζικά σωματίδια παραμένουν θεωρητικά πειστικά, πειράματα άμεσης ανίχνευσης έχουν αποφέρει μηδενικά αποτελέσματα, παροτρύνοντας ορισμένους θεωρητικούς να διερευνήσουν πλαίσια τροποποιημένης βαρύτητας ως εναλλακτικές εξηγήσεις παρατηρούμενων βαρυτικών ανωμαλιών χωρίς επίκληση νέων σωματιδίων.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η σκοτεινή ύλη έχει ανιχνευθεί άμεσα μέσω ηλεκτρομαγνητικής ακτινοβολίας",
+          "Η βαρυονική ύλη είναι ανεπαρκής για την εξήγηση της παρατηρούμενης δομής μεγάλης κλίμακας του σύμπαντος",
+          "Οι θεωρίες τροποποιημένης βαρύτητας έχουν αντικαταστήσει οριστικά την υπόθεση της σκοτεινής ύλης",
+          "Τα ασθενώς αλληλεπιδρώντα μαζικά σωματίδια έχουν επιβεβαιωθεί πειραματικά ως σκοτεινή ύλη"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι 'η βαρυονική ύλη αφ' εαυτής δεν δύναται να εξηγήσει την παρατηρούμενη κατανομή μεγάλης κλίμακας των γαλαξιών,' υποδηλώνοντας ότι είναι ανεπαρκής."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. The reformed EU fiscal framework replaces rigid debt and deficit thresholds with country-specific medium-term structural adjustment paths calibrated through common expenditure benchmarks. Member states with debt exceeding ninety percent of GDP must reduce it by one percentage point annually, while those between sixty and ninety percent face gentler reduction. The Commission retains enforcement discretion through the excessive deficit procedure, yet the new framework requires member states to design their own fiscal-structural plans subject to peer review and Commission endorsement, balancing automaticity with political flexibility.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Member states with debt below sixty percent of GDP face no fiscal constraints whatsoever",
+          "Countries must now devise their own fiscal plans, which require Commission approval",
+          "The excessive deficit procedure has been completely abolished under the reformed framework",
+          "All member states must reduce debt by exactly one percentage point per year"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that the new framework requires 'member states to design their own fiscal-structural plans subject to peer review and Commission endorsement.'"
+      },
+      "el": {
+        "passage": "11. Το αναμορφωμένο δημοσιονομικό πλαίσιο της ΕΕ αντικαθιστά άκαμπτα όρια χρέους και ελλείμματος με ειδικές ανά χώρα διαδρομές μεσοπρόθεσμης διαρθρωτικής προσαρμογής βαθμονομημένες μέσω κοινών δεικτών δαπανών. Τα κράτη μέλη με χρέος υπερβαίνον το ενενήντα τοις εκατό του ΑΕΠ πρέπει να το μειώνουν κατά μία μονάδα ετησίως, ενώ εκείνα μεταξύ εξήντα και ενενήντα αντιμετωπίζουν βραδύτερο ρυθμό. Η Επιτροπή διατηρεί διακριτική ευχέρεια επιβολής μέσω της διαδικασίας υπερβολικού ελλείμματος, ωστόσο το νέο πλαίσιο απαιτεί από τα κράτη μέλη να σχεδιάζουν τα δικά τους δημοσιονομικά-διαρθρωτικά σχέδια υπόκεινται σε ομότιμη αξιολόγηση και επικύρωση της Επιτροπής, εξισορροπώντας αυτοματικότητα με πολιτική ευελιξία.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Τα κράτη μέλη με χρέος κάτω του εξήντα τοις εκατό του ΑΕΠ δεν αντιμετωπίζουν κανέναν δημοσιονομικό περιορισμό",
+          "Οι χώρες πρέπει πλέον να σχεδιάζουν τα δικά τους δημοσιονομικά σχέδια, τα οποία απαιτούν έγκριση της Επιτροπής",
+          "Η διαδικασία υπερβολικού ελλείμματος έχει καταργηθεί πλήρως υπό το αναμορφωμένο πλαίσιο",
+          "Όλα τα κράτη μέλη πρέπει να μειώνουν το χρέος τους κατά ακριβώς μία μονάδα ετησίως"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι το νέο πλαίσιο απαιτεί 'τα κράτη μέλη να σχεδιάζουν τα δικά τους δημοσιονομικά-διαρθρωτικά σχέδια υπόκεινται σε ομότιμη αξιολόγηση και επικύρωση της Επιτροπής.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "12. Impressionist painters, influenced by advances in optical science, abandoned blended studio brushwork for juxtaposed pure colours that mix optically at a distance. Monet's cathedral series demonstrates that perceived colour depends on atmospheric conditions and the observer's position rather than intrinsic pigmentation. This chromatic relativism rejected the academic doctrine of local colour, which held that objects possess fixed essential hues independent of illumination. Art historians have consequently reinterpreted Impressionism not merely as stylistic revolution but as an epistemological shift in how visual truth itself was conceptualised.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Monet believed that objects have fixed, unchanging colours regardless of lighting",
+          "Impressionism represented a fundamental change in how visual truth was understood",
+          "The academic doctrine of local colour endorsed the use of juxtaposed pure colours",
+          "Impressionist painters exclusively worked indoors to control atmospheric conditions"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that art historians have reinterpreted Impressionism 'not merely as stylistic revolution but as an epistemological shift in how visual truth itself was conceptualised.'"
+      },
+      "el": {
+        "passage": "12. Οι ιμπρεσιονιστές ζωγράφοι, επηρεασμένοι από προόδους στην οπτική επιστήμη, εγκατέλειψαν την αναμεμειγμένη στούντιο στιλπνότητα υπέρ παρατεθειμένων καθαρών χρωμάτων που αναμειγνύονται οπτικά από απόσταση. Οι σειρές του Μονέ για καθεδρικούς ναούς αποδεικνύουν ότι το αντιλαμβανόμενο χρώμα εξαρτάται από ατμοσφαιρικές συνθήκες και θέση παρατηρητή και όχι από εγγενή χρωματοποίηση. Αυτός ο χρωματικός σχετικισμός απέρριψε την ακαδημαϊκή δοκτρίνη του τοπικού χρώματος, η οποία υποστήριζε ότι τα αντικείμενα κατέχουν σταθερές ουσιώδεις αποχρώσεις ανεξαρτήτως φωτισμού. Οι ιστορικοί της τέχνης έχουν συνεπώς επαναδιατυπώσει τον Ιμπρεσιονισμό όχι απλώς ως στυλιστική επανάσταση αλλά ως επιστημολογική μετατόπιση στον τρόπο που η οπτική αλήθεια εννοούνταν.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο Μονέ πίστευε ότι τα αντικείμενα έχουν σταθερά, αναλλοίωτα χρώματα ανεξαρτήτως φωτισμού",
+          "Ο Ιμπρεσιονισμός αντιπροσώπευε μια θεμελιώδη αλλαγή στον τρόπο που γινόταν κατανοητή η οπτική αλήθεια",
+          "Η ακαδημαϊκή δοκτρίνη του τοπικού χρώματος υποστήριζε τη χρήση παρατεθειμένων καθαρών χρωμάτων",
+          "Οι ιμπρεσιονιστές ζωγράφοι εργάζονταν αποκλειστικά σε εσωτερικούς χώρους για έλεγχο ατμοσφαιρικών συνθηκών"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι ιστορικοί της τέχνης επαναδιατύπωσαν τον Ιμπρεσιονισμό 'όχι απλώς ως στυλιστική επανάσταση αλλά ως επιστημολογική μετατόπιση στον τρόπο που η οπτική αλήθεια εννοούνταν.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "13. REPowerEU aims to eliminate EU dependence on Russian fossil fuels by 2027 through accelerated renewables deployment, hydrogen infrastructure, and diversified LNG routes. The plan reallocates cohesion funds and temporarily accelerates permitting for strategic renewable projects. While member states committed to collectively reducing gas demand by fifteen percent, implementation remains uneven, with some expanding coal capacity as a bridging measure. The Commission acknowledges that short-term fossil-fuel reliance is unavoidable but insists every interim measure must include a credible phase-out trajectory aligned with climate neutrality by 2050.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "REPowerEU prohibits any fossil-fuel use after 2027",
+          "The Commission accepts temporary fossil-fuel reliance provided it includes a credible exit plan",
+          "All member states have uniformly reduced gas demand by fifteen percent",
+          "Coal expansion is categorically banned under the REPowerEU framework"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that 'the Commission acknowledges that short-term fossil-fuel reliance is unavoidable but insists that every interim measure must be accompanied by a credible phase-out trajectory.'"
+      },
+      "el": {
+        "passage": "13. Το REPowerEU στοχεύει στην εξάλειψη της εξάρτησης της ΕΕ από ρωσικά ορυκτά καύσιμα έως το 2027 μέσω επιταχυμένης ανάπτυξης ανανεώσιμων, υποδομών υδρογόνου και διαφοροποιημένων διαδρομών LNG. Το σχέδιο αναδιανέμει κονδύλια συνοχής και επιταχύνει προσωρινά την αδειοδότηση στρατηγικών έργων ανανεώσιμων. Ενώ τα κράτη μέλη δεσμεύθηκαν για συλλογική μείωση ζήτησης αερίου κατά δεκαπέντε τοις εκατό, η εφαρμογή παραμένει ανισομερής, με ορισμένες χώρες να επεκτείνουν τη λιγνιτική τους ισχύ ως μεταβατικό μέτρο. Η Επιτροπή αναγνωρίζει ότι η βραχυπρόθεσμη εξάρτηση από ορυκτά είναι αναπόφευκτη αλλά επιμένει ότι κάθε ενδιάμεσο μέτρο πρέπει να περιλαμβάνει αξιόπιστη τροχιά απαξίωσης ευθυγραμμισμένη με κλιματική ουδετερότητα έως το 2050.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Το REPowerEU απαγορεύει οιαδήποτε χρήση ορυκτών καυσίμων μετά το 2027",
+          "Η Επιτροπή αποδέχεται τη βραχυπρόθεσμη εξάρτηση από ορυκτά καύσιμα υπό την προϋπόθεση ότι περιλαμβάνει αξιόπιστο σχέδιο αποχώρησης",
+          "Όλα τα κράτη μέλη έχουν ομοιόμορφα μειώσει τη ζήτηση αερίου κατά δεκαπέντε τοις εκατό",
+          "Η επέκταση του άνθρακα απαγορεύεται κατηγορηματικά υπό το πλαίσιο REPowerEU"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι 'η Επιτροπή αναγνωρίζει ότι η βραχυπρόθεσμη εξάρτηση από ορυκτά είναι αναπόφευκτη αλλά επιμένει ότι κάθε ενδιάμεσο μέτρο πρέπει να περιλαμβάνει αξιόπιστη τροχιά απαξίωσης.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "14. Justinian's codification of Roman law in the Corpus Juris Civilis was not merely archival compilation but active legislation systematically reconciling contradictory imperial constitutions and inserting new provisions. The Digest, its most influential component, extracted authoritative juristic opinions from classical jurists, preserving legal reasoning that might otherwise have been lost to the Western Empire's collapse. Legal historians argue this codification enabled the revival of Roman legal science in medieval Bologna, yet caution that Justinian's own additions sometimes distorted the classical principles he purported to preserve.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The Corpus Juris Civilis was solely a passive collection of existing Roman laws",
+          "Justinian's own additions occasionally altered the classical legal principles he claimed to maintain",
+          "The Digest was composed exclusively of new legislation drafted by Justinian himself",
+          "Roman legal science would have survived the Western Empire's collapse without Justinian's intervention"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that 'Justinian's own legislative additions sometimes distorted the original classical principles he purported to preserve.'"
+      },
+      "el": {
+        "passage": "14. Η κωδικοποίηση του ρωμαϊκού δικαίου από τον Ιουστινιανό στο Corpus Juris Civilis δεν ήταν απλώς αρχειακή συλλογή αλλά ενεργή νομοθεσία που συστηματικά συνεφιλόκρινε αντιφατικές αυτοκρατορικές διατάξεις και εισήγαγε νέες διατάξεις. Η Διδασκαλία, το πλέον επιδραστικό συστατικό, εξήγαγε αυθεντικές νομικές γνώμες από κλασικούς νομικούς, διατηρώντας νομικό συλλογισμό που διαφορετικά θα είχε χαθεί με την κατάρρευση της Δυτικής Αυτοκρατορίας. Οι ιστορικοί του δικαίου υποστηρίζουν ότι αυτή η κωδικοποίηση επέτρεψε την αναβίωση της ρωμαϊκής νομικής επιστήμης στο μεσαιωνικό Μπολόνια, ωστόσο προειδοποιούν ότι οι ίδιες προσθήκες του Ιουστινιανού διαστρέβλωναν ενίοτε τις κλασικές αρχές που υποτίθετο ότι διαφύλασσε.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Το Corpus Juris Civilis ήταν αποκλειστικά μια παθητική συλλογή υπαρχόντων ρωμαϊκών νόμων",
+          "Οι ίδιες προσθήκες του Ιουστινιανού τροποποίησαν ενίοτε τις κλασικές νομικές αρχές που υποστήριζε ότι διατηρεί",
+          "Η Διδασκαλία συνετέθη αποκλειστικά από νέα νομοθεσία που συνέταξε ο ίδιος ο Ιουστινιανός",
+          "Η ρωμαϊκή νομική επιστήμη θα είχε επιβιώσει της κατάρρευσης της Δυτικής Αυτοκρατορίας χωρίς την παρέμβαση του Ιουστινιανού"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι 'οι ίδιες νομοθετικές προσθήκες του Ιουστινιανού διαστρέβλωναν ενίοτε τις αρχικές κλασικές αρχές που υποτίθετο ότι διαφύλασσε.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The New Pact on Migration and Asylum introduces mandatory solidarity mechanisms obliging member states to relocate asylum seekers, provide operational support, or contribute financially when frontline states face disproportionate pressure. While preserving the Dublin principle that the first country of entry bears primary responsibility, it establishes pre-entry screening to distinguish viable protection claims from irregular migration. Several member states have challenged mandatory relocation before the Court of Justice, arguing sovereignty infringement. The Commission defends the pact as proportionate, noting that financial contributions offer a genuine alternative to physical relocation.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The pact abolishes the Dublin principle entirely",
+          "Member states may fulfil solidarity obligations through financial contributions instead of relocation",
+          "All asylum seekers arriving in frontline states are automatically classified as irregular migrants",
+          "The Court of Justice has ruled that mandatory relocation violates national sovereignty"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that 'financial contributions offer a genuine alternative to physical relocation,' and the pact obliges member states to either relocate, provide support, or contribute financially."
+      },
+      "el": {
+        "passage": "15. Το Νέο Σύμφωνο για τη Μετανάστευση και το Άσυλο εισάγει υποχρεωτικούς μηχανισμούς αλληλεγγύης υποχρεώνοντας τα κράτη μέλη να μετεγκαθιστούν αιτούντες άσυλο, να παρέχουν επιχειρησιακή υποστήριξη ή να συνεισφέρουν οικονομικά όταν τα μεθοριακά κράτη αντιμετωπίζουν δυσανάλογες πιέσεις. Ενώ διατηρεί την αρχή του Δουβλίνου ότι η πρώτη χώρα εισόδου φέρει πρωτογενή ευθύνη, θεσπίζει προεντόπιο έλεγχο για διάκριση βιώσιμων αξιώσεων προστασίας από παράτυπη μετανάστευση. Αρκετά κράτη μέλη έχουν προσβάλει την υποχρεωτική μετεγκατάσταση ενώπιον του Δικαστηρίου, υποστηρίζοντας παραβίαση κυριαρχίας. Η Επιτροπή υπερασπίζεται το σύμφωνο ως αναλογικό, επισημαίνοντας ότι οι οικονομικές συνεισφορές προσφέρουν γνήσια εναλλακτική στη φυσική μετεγκατάσταση.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Το σύμφωνο καταργεί εξ ολοκλήρου την αρχή του Δουβλίνου",
+          "Τα κράτη μέλη δύνανται να εκπληρώνουν υποχρεώσεις αλληλεγγύης μέσω οικονομικών συνεισφορών αντί μετεγκατάστασης",
+          "Όλοι οι αιτούντες άσυλο που φθάνουν σε μεθοριακά κράτη ταξινομούνται αυτομάτως ως παράτυποι μετανάστες",
+          "Το Δικαστήριο έκρινε ότι η υποχρεωτική μετεγκατάσταση παραβιάζει την εθνική κυριαρχία"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι 'οι οικονομικές συνεισφορές προσφέρουν γνήσια εναλλακτική στη φυσική μετεγκατάσταση,' και το σύμφωνο υποχρεώνει τα κράτη μέλη είτε να μετεγκαθιστούν, είτε να παρέχουν υποστήριξη, είτε να συνεισφέρουν οικονομικά."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. Fleming's discovery of penicillin in 1928 inaugurated the antibiotic era, yet his observation that sub-lethal exposure could select for resistant strains was largely ignored until post-war antibiotic proliferation. The biochemical mechanism of resistance, involving horizontal gene transfer and spontaneous mutation, ensures resistance emerges inevitably under sustained selective pressure. Public health authorities now recognise that antibiotic stewardship—restricting usage to medically necessary cases—is the only sustainable strategy to preserve efficacy. Nevertheless, agricultural sectors in many jurisdictions continue employing antibiotics as growth promoters, accelerating resistance that compromises therapeutic outcomes across human and veterinary medicine.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Fleming's warning about bacterial resistance was immediately adopted by the medical community",
+          "Antibiotic resistance can emerge whenever antibiotics are used, even at sub-lethal concentrations",
+          "Antibiotic stewardship has eliminated resistance reservoirs in agricultural settings",
+          "Horizontal gene transfer is the sole mechanism through which bacteria develop antibiotic resistance"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that Fleming observed 'sub-lethal exposure could select for resistant bacterial strains' and that 'resistance emerges inevitably under sustained selective pressure.'"
+      },
+      "el": {
+        "passage": "16. Η ανακάλυψη της πενικιλλίνης από τον Φλέμινγκ το 1928 εγκαινίασε την εποχή των αντιβιοτικών, ωστόσο η παρατήρησή του ότι η υπο-θανατηφόρα έκθεση επιλέγει ανθεκτικά στελέχη αγνοήθηκε σε μεγάλο βαθμό έως τη μεταπολεμική εξάπλωση αντιβιοτικών. Ο βιοχημικός μηχανισμός ανθεκτικότητας, που περιλαμβάνει οριζόντια μεταφορά γονιδίων και αυτόματη μετάλλαξη, διασφαλίζει ότι η ανθεκτικότητα αναδύεται αναπόφευκτα υπό διαρκή επιλεκτική πίεση. Οι υγειονομικές αρχές αναγνωρίζουν πλέον ότι η συνετή χρήση—περιορισμός σε ιατρικά αναγκαίες περιπτώσεις—είναι η μόνη βιώσιμη στρατηγική διατήρησης αποτελεσματικότητας. Ωστόσο, γεωργικοί τομείς σε πολλές δικαιοδοσίες συνεχίζουν να χρησιμοποιούν αντιβιοτικά ως προωθητικά ανάπτυξης, επιταχύνοντας ανθεκτικότητα που υπονομεύει θεραπευτικά αποτελέσματα σε ανθρώπινη και κτηνιατρική ιατρική.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η προειδοποίηση του Φλέμινγκ για τη βακτηριακή ανθεκτικότητα υιοθετήθηκε αμέσως από την ιατρική κοινότητα",
+          "Η ανθεκτικότητα στα αντιβιοτικά δύναται να αυξηθεί όποτε χρησιμοποιούνται αντιβιοτικά, ακόμη και σε υπο-θανατηφόρες συγκεντρώσεις",
+          "Η συνετή χρήση αντιβιοτικών έχει εξαλείψει τις δεξαμενές ανθεκτικότητας σε γεωργικούς τομείς",
+          "Η οριζόντια μεταφορά γονιδίων είναι ο μοναδικός μηχανισμός μέσω του οποίου τα βακτήρια αναπτύσσουν ανθεκτικότητα"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι ο Φλέμινγκ παρατήρησε ότι 'η υπο-θανατηφόρα έκθεση θα μπορούσε να επιλέγει ανθεκτικά βακτηριακά στελέχη' και ότι 'η ανθεκτικότητα αναδύεται αναπόφευκτα υπό διαρκή επιλεκτική πίεση.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Digital Markets Act designates certain platforms as 'gatekeepers' based on quantitative thresholds including turnover and user numbers, subjecting them to ex-ante obligations rather than ex-post competition enforcement. These obligations include interoperability, data portability, and prohibitions on self-preferencing in ranking algorithms. The Commission may impose structural remedies for systematic non-compliance, though critics argue rigid thresholds capture innovative entrants while allowing dominant firms to engineer just below-threshold positions. The Court of Justice has yet to rule on whether the DMA's sector-specific approach conflicts with general competition law under Article 102 TFEU.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The DMA applies ex-post enforcement to all online platforms regardless of size",
+          "Gatekeepers are identified solely through qualitative assessments of market power",
+          "The Commission may impose structural remedies for systematic non-compliance with DMA obligations",
+          "The Court of Justice has definitively ruled that the DMA conflicts with Article 102 TFEU"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that 'The Commission may impose structural remedies for systematic non-compliance,' which directly supports this inference."
+      },
+      "el": {
+        "passage": "17. Ο Νόμος για τις Ψηφιακές Αγορές ορίζει ορισμένες πλατφόρμες ως «θυρωρούς» βάσει ποσοτικών ορίων συμπεριλαμβανομένων του κύκλου εργασιών και του αριθμού χρηστών, υποβάλλοντάς τους σε υποχρεώσεις ex-ante αντί για ex-post επιβολή ανταγωνισμού. Αυτές οι υποχρεώσεις περιλαμβάνουν διαλειτουργικότητα, φορητότητα δεδομένων και απαγορεύσεις αυτοπροτίμησης σε αλγόριθμους κατάταξης. Η Επιτροπή δύναται να επιβάλλει διαρθρωτικές διορθωτικές κυρώσεις για συστηματική μη συμμόρφωση, αν και οι επικριτές υποστηρίζουν ότι τα άκαμπτα όρια συλλαμβάνουν καινοτόμους νεοεισερχόμενους ενώ επιτρέπουν σε κυρίαρχες εταιρείες να σχεδιάζουν θέσεις ακριβώς κάτω από τα όρια. Το Δικαστήριο δεν έχει ακόμη κρίνει κατά πόσον η τομεακή προσέγγιση του ΝΨΑ συγκρούεται με τις γενικές αρχές δικαίου ανταγωνισμού που καθιερώθηκαν βάσει του άρθρου 102 ΣΛΕΕ.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο ΝΨΑ εφαρμόζει ex-post επιβολή σε όλες τις διαδικτυακές πλατφόρμες ανεξαρτήτως μεγέθους",
+          "Οι θυρωροί προσδιορίζονται αποκλειστικά μέσω ποιοτικών αξιολογήσεων αγοραίας δύναμης",
+          "Η Επιτροπή δύναται να επιβάλλει διαρθρωτικές κυρώσεις για συστηματική μη συμμόρφωση με υποχρεώσεις του ΝΨΑ",
+          "Το Δικαστήριο έχει αποφανθεί οριστικά ότι ο ΝΨΑ συγκρούεται με το άρθρο 102 ΣΛΕΕ"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι 'Η Επιτροπή δύναται να επιβάλλει διαρθρωτικές διορθωτικές κυρώσεις για συστηματική μη συμμόρφωση,' κάτι που υποστηρίζει άμεσα αυτή τη συναγωγή."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. C4 photosynthesis represents a biochemical adaptation that concentrates CO2 around RuBisCO, minimising photorespiration and enhancing water-use efficiency in hot, arid environments. Plants such as maize and sugarcane employ this carbon-concentrating mechanism, achieving higher productivity per unit water than C3 counterparts like wheat. Evolutionary biologists have demonstrated that C4 photosynthesis arose independently at least sixty-two times across diverse angiosperm lineages, suggesting strong convergent selection pressure. Nevertheless, engineering C4 traits into C3 crops remains technically formidable, as it requires not merely metabolic modifications but coordinated anatomical restructuring of leaf vascular bundle-sheath cells.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "C4 plants achieve lower productivity per unit water than C3 plants",
+          "C4 photosynthesis evolved only once in a single angiosperm lineage",
+          "Engineering C4 traits into C3 crops requires both metabolic and anatomical changes",
+          "Photorespiration is enhanced in C4 plants compared to C3 plants"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that engineering C4 traits into C3 crops 'requires not merely metabolic modifications but coordinated anatomical restructuring of leaf vascular bundle-sheath cells.'"
+      },
+      "el": {
+        "passage": "18. Η φωτοσύνθεση C4 αντιπροσωπεύει μια βιοχημική προσαρμογή που συγκεντρώνει CO2 γύρω από το RuBisCO, ελαχιστοποιώντας τη φωτοαναπνοή και ενισχύοντας την αποτελεσματικότητα χρήσης νερού σε θερμά, άνυδρα περιβάλλοντα. Φυτά όπως το καλαμπόκι και το ζαχαροκάλαμο χρησιμοποιούν αυτόν τον μηχανισμό συγκέντρωσης άνθρακα, επιτυγχάνοντας υψηλότερη παραγωγικότητα ανά μονάδα νερού από αντίστοιχα C3 όπως το σιτάρι. Εξελικτικοί βιολόγοι έχουν αποδείξει ότι η φωτοσύνθεση C4 αναδύθηκε ανεξαρτήτως τουλάχιστον εξήντα δύο φορές σε ποικίλες γραμμές αγγειόσπερμων, υποδεικνύοντας ισχυρή συγκλίνουσα επιλεκτική πίεση. Ωστόσο, η μηχανική χαρακτηριστικών C4 σε καλλιέργειες C3 παραμένει τεχνικά δυσχερής, καθώς απαιτεί όχι απλώς μεταβολικές τροποποιήσεις αλλά συντονισμένη ανατομική αναδιάρθρωση των αγγειακών κυττάρων-θήκης δεσμίδων φύλλων.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Τα φυτά C4 επιτυγχάνουν χαμηλότερη παραγωγικότητα ανά μονάδα νερού από φυτά C3",
+          "Η φωτοσύνθεση C4 εξελίχθηκε μόνο μία φορά σε μία μοναδική γραμμή αγγειόσπερμων",
+          "Η μηχανική χαρακτηριστικών C4 σε καλλιέργειες C3 απαιτεί τόσο μεταβολικές όσο και ανατομικές αλλαγές",
+          "Η φωτοαναπνοή ενισχύεται στα φυτά C4 σε σύγκριση με τα φυτά C3"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι η μηχανική χαρακτηριστικών C4 σε καλλιέργειες C3 'απαιτεί όχι απλώς μεταβολικές τροποποιήσεις αλλά συντονισμένη ανατομική αναδιάρθρωση των αγγειακών κυττάρων-θήκης δεσμίδων φύλλων.'"
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The European Central Bank's transmission protection instrument allows it to purchase securities from jurisdictions experiencing unwarranted divergence in sovereign bond spreads, provided spreads do not reflect country-specific fundamentals. Activated during the 2022 fragmentation episode, this tool prevents monetary policy tightening from affecting member states asymmetrically, safeguarding the singleness of monetary policy. Critics contend that selective intervention constitutes implicit fiscal transfer, reducing borrowing costs for peripheral economies. The ECB counters that the instrument is conditional upon compliance with EU fiscal rules, with purchases sterilised to avoid inflationary money creation.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "The ECB may purchase securities regardless of whether spreads reflect country-specific fundamentals",
+          "The transmission protection instrument was activated during the 2022 fragmentation episode",
+          "The ECB admits that the instrument creates inflationary money",
+          "Critics argue the tool increases borrowing costs for peripheral economies"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that the tool was 'Activated during the 2022 fragmentation episode,' which directly supports this inference."
+      },
+      "el": {
+        "passage": "19. Το εργαλείο προστασίας μετάδοσης της Ευρωπαϊκής Κεντρικής Τράπεζας της επιτρέπει να αγοράζει τίτλους από δικαιοδοσίες που αντιμετωπίζουν αδικαιολόγητη απόκλιση στα spreads κρατικών ομολόγων, υπό την προϋπόθεση ότι τα spreads δεν αντανακλούν ειδικά εθνικά θεμελιώδη στοιχεία. Ενεργοποιημένο κατά τη διάρκεια του επεισοδίου κατακερματισμού του 2022, αυτό το εργαλείο αποτρέπει τη σύσφιξη της νομισματικής πολιτικής από το να επηρεάζει ασύμμετρα τα κράτη μέλη, διασφαλίζοντας την ενότητα της νομισματικής πολιτικής. Οι επικριτές υποστηρίζουν ότι η επιλεκτική παρέμβαση συνιστά έμμεση δημοσιονομική μεταφορά, μειώνοντας το κόστος δανεισμού για περιφερειακές οικονομίες. Η ΕΚΤ αντεπιχειρεί ότι το εργαλείο είναι υπό όρους συμμόρφωσης με τους κανόνες δημοσιονομικής πειθαρχίας της ΕΕ, με αποστειρωμένες αγορές για αποφυγή πληθωριστικής νομισματικής δημιουργίας.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Η ΕΚΤ δύναται να αγοράζει τίτλους ανεξαρτήτως του κατά πόσον τα spreads αντανακλούν ειδικά εθνικά θεμελιώδη στοιχεία",
+          "Το εργαλείο προστασίας μετάδοσης ενεργοποιήθηκε κατά τη διάρκεια του επεισοδίου κατακερματισμού του 2022",
+          "Η ΕΚΤ παραδέχεται ότι το εργαλείο δημιουργεί πληθωριστικό χρήμα",
+          "Οι επικριτές υποστηρίζουν ότι το εργαλείο αυξάνει το κόστος δανεισμού για περιφερειακές οικονομίες"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι το εργαλείο ήταν 'Ενεργοποιημένο κατά τη διάρκεια του επεισοδίου κατακερματισμού του 2022,' κάτι που υποστηρίζει άμεσα αυτή τη συναγωγή."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. Thomas Kuhn's concept of paradigm shifts challenged the view that scientific progress is cumulative and linear, arguing that normal science operates within dominant paradigms until anomalies accumulate sufficiently to precipitate revolutionary reconceptualisation. The Copernican revolution exemplifies this: Ptolemaic astronomy, despite predictive accuracy through epicycles, became unwieldy as observational precision improved, yielding to a heliocentric framework. Kuhn maintained that such revolutions are not merely additive improvements but incommensurable world-view changes, wherein the criteria for what constitutes a legitimate scientific problem are fundamentally redefined.",
+        "question": "Which of the following can best be inferred from the passage?",
+        "options": [
+          "Kuhn believed scientific progress is fundamentally cumulative and linear",
+          "Ptolemaic astronomy was abandoned because it lacked any predictive accuracy",
+          "Kuhn viewed scientific revolutions as involving fundamental redefinition of what counts as a legitimate scientific problem",
+          "The Copernican revolution was merely an additive improvement to Ptolemaic astronomy"
+        ],
+        "answer": 2,
+        "explanation": "The passage states that Kuhn maintained such revolutions involve 'incommensurable world-view changes, wherein the criteria for what constitutes a legitimate scientific problem are fundamentally redefined.'"
+      },
+      "el": {
+        "passage": "20. Η έννοια των μετατοπίσεων παραδείγματος του Τόμας Κουν αμφισβήτησε την άποψη ότι η επιστημονική πρόοδος είναι σωρευτική και γραμμική, υποστηρίζοντας ότι η κανονική επιστήμη λειτουργεί εντός κυρίαρχων παραδειγμάτων έως ότου οι ανωμαλίες συσσωρευτούν επαρκώς για να προκαλέσουν επαναστατική αναδιατύπωση. Η κοπερνίκεια επανάσταση το επιδεικνύει: η πτολεμαϊκή αστρονομία, παρά την προγνωστική της ακρίβεια μέσω επικύκλων, κατέστη δυσχερής καθώς βελτιώθηκε η παρατηρησιακή ακρίβεια, παραχωρώντας σε ηλιοκεντρικό πλαίσιο. Ο Κουν υποστήριξε ότι τέτοιες επαναστάσεις δεν είναι απλώς προσθετικές βελτιώσεις αλλά ασύμβατες αλλαγές κοσμοαντίληψης, όπου τα κριτήρια για το τι συνιστά νόμιμο επιστημονικό πρόβλημα αναδιατυπώνονται θεμελιωδώς.",
+        "question": "Τι μπορεί να συναχθεί καλύτερα από το κείμενο;",
+        "options": [
+          "Ο Κουν πίστευε ότι η επιστημονική πρόοδος είναι θεμελιωδώς σωρευτική και γραμμική",
+          "Η πτολεμαϊκή αστρονομία εγκαταλείφθηκε επειδή στερούνταν οιασδήποτε προγνωστικής ακρίβειας",
+          "Ο Κουν θεωρούσε τις επιστημονικές επαναστάσεις ως εμπλοκή θεμελιώδους αναδιατύπωσης του τι αποτελεί νόμιμο επιστημονικό πρόβλημα",
+          "Η κοπερνίκεια επανάσταση ήταν απλώς μια προσθετική βελτίωση της πτολεμαϊκής αστρονομίας"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι ο Κουν υποστήριξε ότι τέτοιες επαναστάσεις συνιστούν 'ασύμβατες αλλαγές κοσμοαντίληψης, όπου τα κριτήρια για το τι συνιστά νόμιμο επιστημονικό πρόβλημα αναδιατυπώνονται θεμελιωδώς.'"
+      }
+    }
   ]
 }
