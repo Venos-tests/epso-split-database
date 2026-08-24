@@ -2174,5 +2174,289 @@
         "explanation": "Σύνθετη ανάπτυξη: Μελλοντική αξία = Αρχική × (1 + ρυθμός)^έτη = 50 × (1,08)^3 = 50 × 1,259712 ≈ 62,99 εκατ. €, που στρογγυλοποιείται σε 63 εκατ. €. Η επιλογή Β (62) είναι η παγίδα — προκύπτει από εφαρμογή απλού (μη ανατοκιζόμενου) επιτοκίου: 50 × (1 + 0,08×3) = 50 × 1,24 = 62 εκατ. €, που υποτιμά την πραγματική αύξηση επειδή αγνοεί ότι κάθε έτος ανατοκίζεται πάνω στα προηγούμενα κέρδη."
       }
     }
+  ],
+  {
+  "num_9": [
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>CBAM Compliance Data — Steel Sector Imports</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Quantity (tonnes)</th><th>Sector Intensity (tCO₂e/tonne)</th><th>EU Benchmark (tCO₂e/tonne)</th><th>Free Allocation Factor</th><th>Risk-Exposure Discount</th><th>Prepaid Credit (tCO₂e)</th></tr></thead><tbody><tr><td><strong>2027</strong></td><td>850</td><td>2.90</td><td>1.15</td><td>0.960</td><td>0.15</td><td>9.2</td></tr><tr><td><strong>2028</strong></td><td>980</td><td>3.05</td><td>1.05</td><td>0.930</td><td>0.10</td><td>12.6</td></tr><tr><td><strong>2029</strong></td><td>1,100</td><td>3.25</td><td>0.95</td><td>0.880</td><td>0.05</td><td>16.8</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: The weighted average CBAM certificate price for the period is fixed at <strong>€82.40</strong>. Round the net number of certificates to the nearest whole certificate before pricing.</em></p>",
+        "question": "1. A steel importer is calculating its 2028 CBAM liability. Net billable certificates = [(Sector Intensity − Benchmark) × Quantity × (1 − Free Allocation Factor)] × (1 − Risk-Exposure Discount) − Prepaid Credit. What is the total amount payable for 2028?",
+        "options": [
+          "€9,146.40",
+          "€10,267.04",
+          "€9,136.51",
+          "€10,174.75",
+          "€9,240.34"
+        ],
+        "answer": 0,
+        "explanation": "Step 1 — isolate 2028: Quantity=980, Intensity=3.05, Benchmark=1.05, Free Allocation=0.930, Risk Discount=0.10, Credit=12.6. Step 2 — gross excess: (3.05-1.05)×980=1,960 tCO₂e. Step 3 — after free allocation: 1,960×(1-0.930)=137.2 tCO₂e. Step 4 — after risk-exposure discount: 137.2×(1-0.10)=123.48 tCO₂e. Step 5 — deduct credit: 123.48-12.6=110.88, rounds to 111 certificates. Step 6 — cost: 111×€82.40=€9,146.40. Distractors: forgetting the risk-exposure discount gives €10,267.04; skipping the rounding step gives €9,136.51; forgetting the prepaid credit gives €10,174.75; subtracting the credit before applying the risk discount (wrong order) gives €9,240.34."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δεδομένα Συμμόρφωσης CBAM — Εισαγωγές Χαλυβουργικού Τομέα</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Ποσότητα (τόνοι)</th><th>Ένταση Τομέα (tCO₂e/τόνο)</th><th>Βάση ΕΕ (tCO₂e/τόνο)</th><th>Συντελεστής Δωρεάν Δέσμευσης</th><th>Έκπτωση Έκθεσης Κινδύνου</th><th>Προπληρωμένη Πίστωση (tCO₂e)</th></tr></thead><tbody><tr><td><strong>2027</strong></td><td>850</td><td>2,90</td><td>1,15</td><td>0,960</td><td>0,15</td><td>9,2</td></tr><tr><td><strong>2028</strong></td><td>980</td><td>3,05</td><td>1,05</td><td>0,930</td><td>0,10</td><td>12,6</td></tr><tr><td><strong>2029</strong></td><td>1.100</td><td>3,25</td><td>0,95</td><td>0,880</td><td>0,05</td><td>16,8</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Η σταθμισμένη μέση τιμή πιστοποιητικού CBAM είναι σταθερή στα <strong>€82,40</strong>. Στρογγυλοποιήστε τον καθαρό αριθμό πιστοποιητικών στον πλησιέστερο ακέραιο πριν την τιμολόγηση.</em></p>",
+        "question": "1. Ένας εισαγωγέας χάλυβα υπολογίζει την υποχρέωσή του CBAM για το 2028. Καθαρά χρεώσιμα πιστοποιητικά = [(Ένταση Τομέα − Βάση) × Ποσότητα × (1 − Συντελεστής Δωρεάν Δέσμευσης)] × (1 − Έκπτωση Κινδύνου) − Πίστωση. Ποιο είναι το συνολικό πληρωτέο ποσό για το 2028;",
+        "options": [
+          "€9.146,40",
+          "€10.267,04",
+          "€9.136,51",
+          "€10.174,75",
+          "€9.240,34"
+        ],
+        "answer": 0,
+        "explanation": "Βήμα 1 — 2028: Ποσότητα=980, Ένταση=3,05, Βάση=1,05, Δωρεάν Δέσμευση=0,930, Έκπτωση Κινδύνου=0,10, Πίστωση=12,6. Βήμα 2 — ακαθάριστη πλεονάζουσα εκπομπή: (3,05-1,05)×980=1.960 tCO₂e. Βήμα 3 — μετά τη δωρεάν δέσμευση: 1.960×(1-0,930)=137,2. Βήμα 4 — μετά την έκπτωση κινδύνου: 137,2×(1-0,10)=123,48. Βήμα 5 — αφαίρεση πίστωσης: 123,48-12,6=110,88, στρογγυλοποιείται σε 111. Βήμα 6 — κόστος: 111×€82,40=€9.146,40. Παγίδες: παράλειψη έκπτωσης κινδύνου δίνει €10.267,04· παράλειψη στρογγυλοποίησης δίνει €9.136,51· παράλειψη πίστωσης δίνει €10.174,75· αφαίρεση πίστωσης πριν την έκπτωση κινδύνου (λάθος σειρά) δίνει €9.240,34."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Monthly Overtime Record — Contract Agents, Directorate B</caption><thead><tr style='background:#e8f0fe;'><th>Grade</th><th>Base Hourly Rate</th><th>Weekday Overtime Hours</th><th>Weekend Hours</th></tr></thead><tbody><tr><td><strong>AD5</strong></td><td>€28.40</td><td>6</td><td>2</td></tr><tr><td><strong>AD7</strong></td><td>€34.90</td><td>9</td><td>4</td></tr><tr><td><strong>AST3</strong></td><td>€22.10</td><td>11</td><td>3</td></tr><tr><td><strong>AST5</strong></td><td>€25.75</td><td>7</td><td>5</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Weekday overtime is paid at ×1.25 and weekend hours at ×1.75 of the base hourly rate. A 6% solidarity levy applies to the total overtime pay whenever it exceeds €300 for the month.</em></p>",
+        "question": "2. What is grade AST3's net overtime pay for the month, after any applicable solidarity levy?",
+        "options": [
+          "€477.80",
+          "€394.71",
+          "€412.94",
+          "€419.90",
+          "€401.67"
+        ],
+        "answer": 1,
+        "explanation": "AST3: rate=€22.10, weekday OT=11h, weekend=3h. Weekday pay: 22.10×11×1.25=€303.88. Weekend pay: 22.10×3×1.75=€116.03. Gross: €419.90, which exceeds €300, so the 6% levy applies to the whole amount: €419.90×0.94=€394.71. Distractors: forgetting the levy entirely gives €419.90; applying the levy only to the weekday portion gives €401.67; applying it only to the weekend portion gives €412.94; and swapping the ×1.25/×1.75 multipliers between weekday and weekend hours gives €477.80."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Μηνιαία Καταγραφή Υπερωριών — Συμβασιούχοι, Διεύθυνση Β</caption><thead><tr style='background:#e8f0fe;'><th>Βαθμός</th><th>Βασική Ωριαία Αμοιβή</th><th>Ώρες Υπερωρίας Καθημερινής</th><th>Ώρες Σαββατοκύριακου</th></tr></thead><tbody><tr><td><strong>AD5</strong></td><td>€28,40</td><td>6</td><td>2</td></tr><tr><td><strong>AD7</strong></td><td>€34,90</td><td>9</td><td>4</td></tr><tr><td><strong>AST3</strong></td><td>€22,10</td><td>11</td><td>3</td></tr><tr><td><strong>AST5</strong></td><td>€25,75</td><td>7</td><td>5</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Η υπερωρία καθημερινής αμείβεται ×1,25 και οι ώρες σαββατοκύριακου ×1,75 της βασικής ωριαίας αμοιβής. Εισφορά αλληλεγγύης 6% εφαρμόζεται στο σύνολο της αμοιβής υπερωριών όταν υπερβαίνει τα €300 τον μήνα.</em></p>",
+        "question": "2. Ποια είναι η καθαρή αμοιβή υπερωριών του βαθμού AST3 για τον μήνα, μετά την τυχόν εισφορά αλληλεγγύης;",
+        "options": [
+          "€477,80",
+          "€394,71",
+          "€412,94",
+          "€419,90",
+          "€401,67"
+        ],
+        "answer": 1,
+        "explanation": "AST3: αμοιβή=€22,10, υπερωρία καθημερινής=11ω, σαββατοκύριακο=3ω. Καθημερινή: 22,10×11×1,25=€303,88. Σαββατοκύριακο: 22,10×3×1,75=€116,03. Μικτό: €419,90, υπερβαίνει τα €300, άρα η εισφορά 6% εφαρμόζεται στο σύνολο: €419,90×0,94=€394,71. Παγίδες: παράλειψη εισφοράς δίνει €419,90· εισφορά μόνο στην καθημερινή δίνει €401,67· εισφορά μόνο στο σαββατοκύριακο δίνει €412,94· αντιστροφή των συντελεστών ×1,25/×1,75 δίνει €477,80."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Candidate Test Results — Competition COM/AD/07/26</caption><thead><tr style='background:#e8f0fe;'><th>Test</th><th>Score</th><th>Weight in Composite Score</th></tr></thead><tbody><tr><td>Verbal Reasoning</td><td>72 / 100</td><td>20%</td></tr><tr><td>Numerical Reasoning</td><td>65 / 100</td><td>25%</td></tr><tr><td>Abstract Reasoning</td><td>80 / 100</td><td>15%</td></tr><tr><td>Situational Judgement</td><td>11.6 / 20</td><td>40%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: All scores must be expressed on a common 0–100 scale before the weights are applied.</em></p>",
+        "question": "3. What composite score (out of 100, to two decimal places) did the candidate achieve?",
+        "options": [
+          "68.75",
+          "47.29",
+          "65.85",
+          "66.90",
+          "65.00"
+        ],
+        "answer": 2,
+        "explanation": "Step 1 — convert the Situational Judgement score to a /100 scale: 11.6/20×100 = 58. Step 2 — apply the weights: (72×0.20)+(65×0.25)+(80×0.15)+(58×0.40) = 14.40+16.25+12.00+23.20 = 65.85. Distractors: forgetting to rescale the SJT score before weighting gives 47.29; using an equal 25% weight for every test instead of the stated weights gives 68.75; swapping the Numerical and SJT weights gives 66.90; and rounding each weighted term to a whole number before summing gives 65.00."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αποτελέσματα Υποψηφίου — Διαγωνισμός COM/AD/07/26</caption><thead><tr style='background:#e8f0fe;'><th>Δοκιμασία</th><th>Βαθμολογία</th><th>Βάρος στη Σύνθετη Βαθμολογία</th></tr></thead><tbody><tr><td>Λεκτική Ικανότητα</td><td>72 / 100</td><td>20%</td></tr><tr><td>Αριθμητική Ικανότητα</td><td>65 / 100</td><td>25%</td></tr><tr><td>Αφαιρετική Ικανότητα</td><td>80 / 100</td><td>15%</td></tr><tr><td>Κριτική Κατάστασης</td><td>11,6 / 20</td><td>40%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Όλες οι βαθμολογίες πρέπει να εκφράζονται σε κοινή κλίμακα 0–100 πριν εφαρμοστούν τα βάρη.</em></p>",
+        "question": "3. Ποια σύνθετη βαθμολογία (από το 100, με δύο δεκαδικά) πέτυχε ο υποψήφιος;",
+        "options": [
+          "68,75",
+          "47,29",
+          "65,85",
+          "66,90",
+          "65,00"
+        ],
+        "answer": 2,
+        "explanation": "Βήμα 1 — μετατροπή της Κριτικής Κατάστασης σε κλίμακα /100: 11,6/20×100=58, Βήμα 2 — εφαρμογή βαρών: (72×0,20)+(65×0,25)+(80×0,15)+(58×0,40)=14,40+16,25+12,00+23,20=65,85, Παγίδες: παράλειψη μετατροπής της Κριτικής Κατάστασης δίνει 47,29· ίσο βάρος 25% σε όλες τις δοκιμασίες δίνει 68,75· αντιστροφή των βαρών Αριθμητικής και Κριτικής Κατάστασης δίνει 66,90· στρογγυλοποίηση κάθε σταθμισμένου όρου πριν την άθροιση δίνει 65,00."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Development Grant — Disbursement Parameters</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>Project Budget (national currency)</th><th>Exchange Rate (to EUR)</th><th>EU Co-financing Rate</th><th>Management Fee</th></tr></thead><tbody><tr><td><strong>Romania</strong></td><td>RON 2,450,000</td><td>4.9760</td><td>85%</td><td>3.5%</td></tr><tr><td><strong>Poland</strong></td><td>PLN 6,180,000</td><td>4.3120</td><td>80%</td><td>4.0%</td></tr><tr><td><strong>Hungary</strong></td><td>HUF 980,000,000</td><td>395.40</td><td>75%</td><td>4.5%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Net disbursement = (Project Budget ÷ Exchange Rate) × Co-financing Rate × (1 − Management Fee).</em></p>",
+        "question": "4. What is the net EU disbursement (in EUR) for the Polish project?",
+        "options": [
+          "€275,176.25",
+          "€1,100,705.01",
+          "€1,103,776.74",
+          "€1,146,567.72",
+          "€1,375,881.26"
+        ],
+        "answer": 1,
+        "explanation": "Step 1 — convert to EUR: 6,180,000 ÷ 4.3120 = €1,433,209.65. Step 2 — apply co-financing: ×0.80 = €1,146,567.72. Step 3 — deduct the management fee: ×(1−0.040) = €1,100,705.01. Distractors: using the national co-financing share (1−0.80) instead of the EU rate gives €275,176.25; rounding the exchange rate to 4.30 before converting gives €1,103,776.74; forgetting the management fee entirely gives €1,146,567.72; and forgetting to apply the co-financing rate gives €1,375,881.26."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Επιχορήγηση Περιφερειακής Ανάπτυξης — Παράμετροι Εκταμίευσης</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>Προϋπολογισμός Έργου (εθνικό νόμισμα)</th><th>Συναλλαγματική Ισοτιμία (προς EUR)</th><th>Συντελεστής Συγχρηματοδότησης ΕΕ</th><th>Τέλος Διαχείρισης</th></tr></thead><tbody><tr><td><strong>Ρουμανία</strong></td><td>RON 2.450.000</td><td>4,9760</td><td>85%</td><td>3,5%</td></tr><tr><td><strong>Πολωνία</strong></td><td>PLN 6.180.000</td><td>4,3120</td><td>80%</td><td>4,0%</td></tr><tr><td><strong>Ουγγαρία</strong></td><td>HUF 980.000.000</td><td>395,40</td><td>75%</td><td>4,5%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Καθαρή εκταμίευση = (Προϋπολογισμός Έργου ÷ Συναλλαγματική Ισοτιμία) × Συντελεστής Συγχρηματοδότησης × (1 − Τέλος Διαχείρισης).</em></p>",
+        "question": "4. Ποια είναι η καθαρή εκταμίευση της ΕΕ (σε EUR) για το πολωνικό έργο;",
+        "options": [
+          "€275.176,25",
+          "€1.100.705,01",
+          "€1.103.776,74",
+          "€1.146.567,72",
+          "€1.375.881,26"
+        ],
+        "answer": 1,
+        "explanation": "Βήμα 1 — μετατροπή σε EUR: 6.180.000 ÷ 4,3120 = €1.433.209,65. Βήμα 2 — συγχρηματοδότηση: ×0,80 = €1.146.567,72. Βήμα 3 — αφαίρεση τέλους διαχείρισης: ×(1−0,040) = €1.100.705,01. Παγίδες: χρήση του εθνικού μεριδίου (1−0,80) αντί του συντελεστή ΕΕ δίνει €275.176,25· στρογγυλοποίηση της ισοτιμίας σε 4,30 δίνει €1.103.776,74· παράλειψη του τέλους διαχείρισης δίνει €1.146.567,72· παράλειψη του συντελεστή συγχρηματοδότησης δίνει €1.375.881,26."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Population Projection — Base Year Population: 1,842,000</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Natural Growth Rate</th><th>Net Migration (persons)</th></tr></thead><tbody><tr><td><strong>Year 1</strong></td><td>1.8%</td><td>+12,400</td></tr><tr><td><strong>Year 2</strong></td><td>1.2%</td><td>−6,800</td></tr><tr><td><strong>Year 3</strong></td><td>2.1%</td><td>+9,600</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Each year, natural growth is applied first to that year's opening population, and net migration is then added as an absolute number.</em></p>",
+        "question": "5. What is the region's population at the end of Year 3?",
+        "options": [
+          "1,937,548",
+          "1,953,327",
+          "1,959,921",
+          "1,951,142",
+          "1,952,978"
+        ],
+        "answer": 4,
+        "explanation": "Year 1: 1,842,000×1.018+12,400=1,887,076. Year 2: 1,887,076×1.012+(−6,800)=1,903,353. Year 3: 1,903,353×1.021+9,600=1,952,978. Distractors: applying migration before that year's growth each year gives 1,953,327; compounding a single average growth rate over 3 years while ignoring migration entirely gives 1,937,548; treating the negative Year 2 migration as zero gives 1,959,921; and summing all three growth rates and all three migration totals into one simple (non-compounded) calculation gives 1,951,142."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πληθυσμιακή Προβολή Περιφέρειας — Πληθυσμός Βάσης: 1.842.000</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Φυσικός Ρυθμός Αύξησης</th><th>Καθαρή Μετανάστευση (άτομα)</th></tr></thead><tbody><tr><td><strong>Έτος 1</strong></td><td>1,8%</td><td>+12.400</td></tr><tr><td><strong>Έτος 2</strong></td><td>1,2%</td><td>−6.800</td></tr><tr><td><strong>Έτος 3</strong></td><td>2,1%</td><td>+9.600</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Κάθε έτος, η φυσική αύξηση εφαρμόζεται πρώτα στον αρχικό πληθυσμό του έτους, και στη συνέχεια προστίθεται η καθαρή μετανάστευση ως απόλυτος αριθμός.</em></p>",
+        "question": "5. Ποιος είναι ο πληθυσμός της περιφέρειας στο τέλος του Έτους 3;",
+        "options": [
+          "1.937.548",
+          "1.953.327",
+          "1.959.921",
+          "1.951.142",
+          "1.952.978"
+        ],
+        "answer": 4,
+        "explanation": "Έτος 1: 1.842.000×1,018+12.400=1.887.076. Έτος 2: 1.887.076×1,012+(−6.800)=1.903.353. Έτος 3: 1.903.353×1,021+9.600=1.952.978. Παγίδες: εφαρμογή μετανάστευσης πριν την αύξηση κάθε έτος δίνει 1.953.327· σύνθεση ενός μέσου ρυθμού αύξησης επί 3 έτη αγνοώντας τη μετανάστευση δίνει 1.937.548· αντιμετώπιση της αρνητικής μετανάστευσης του Έτους 2 ως μηδέν δίνει 1.959.921· άθροιση όλων των ρυθμών και όλης της μετανάστευσης σε έναν απλό μη-σύνθετο υπολογισμό δίνει 1.951.142."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Tender Evaluation — Framework Contract 2026/EU-IT-04</caption><thead><tr style='background:#e8f0fe;'><th>Bidder</th><th>Financial Bid</th><th>Quality Points (out of 100)</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>€184,000</td><td>78</td></tr><tr><td><strong>B</strong></td><td>€176,500</td><td>64</td></tr><tr><td><strong>C</strong></td><td>€201,300</td><td>91</td></tr><tr><td><strong>D</strong></td><td>€192,800</td><td>83</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Price Score = (Lowest Bid ÷ Bidder's Bid) × 40 × 100 ÷ 100. Quality Score = (Quality Points ÷ 100) × 60. Final Score = Price Score + Quality Score.</em></p>",
+        "question": "6. What is Bidder D's final weighted score?",
+        "options": [
+          "86.42",
+          "141.35",
+          "88.13",
+          "86.80",
+          "93.49"
+        ],
+        "answer": 0,
+        "explanation": "Lowest bid = €176,500 (Bidder B). Price Score for D: (176,500÷192,800)×40 = 36.62. Quality Score for D: (83÷100)×60 = 49.80. Final Score: 86.42. Distractors: rounding the price score to a whole number before adding gives 86.80; swapping the 40/60 weights between price and quality gives 88.13; inverting the price ratio (Bidder's Bid ÷ Lowest Bid) gives 93.49; and forgetting to apply the 40% price weight at all gives 141.35."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αξιολόγηση Προσφορών — Συμφωνία-Πλαίσιο 2026/EU-IT-04</caption><thead><tr style='background:#e8f0fe;'><th>Προσφέρων</th><th>Οικονομική Προσφορά</th><th>Μόρια Ποιότητας (από 100)</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>€184.000</td><td>78</td></tr><tr><td><strong>B</strong></td><td>€176.500</td><td>64</td></tr><tr><td><strong>C</strong></td><td>€201.300</td><td>91</td></tr><tr><td><strong>D</strong></td><td>€192.800</td><td>83</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Βαθμολογία Τιμής = (Χαμηλότερη Προσφορά ÷ Προσφορά Προσφέροντος) × 40. Βαθμολογία Ποιότητας = (Μόρια Ποιότητας ÷ 100) × 60. Τελική Βαθμολογία = Βαθμολογία Τιμής + Βαθμολογία Ποιότητας.</em></p>",
+        "question": "6. Ποια είναι η τελική σταθμισμένη βαθμολογία του Προσφέροντος D;",
+        "options": [
+          "86,42",
+          "141,35",
+          "88,13",
+          "86,80",
+          "93,49"
+        ],
+        "answer": 0,
+        "explanation": "Χαμηλότερη προσφορά = €176,500 (Β), Βαθμολογία Τιμής για D: (176,500÷192,800)×40=36,62, Βαθμολογία Ποιότητας: (83÷100)×60=49,80, Τελική: 86,42, Παγίδες: στρογγυλοποίηση της βαθμολογίας τιμής πριν την πρόσθεση δίνει 86,80· αντιστροφή βαρών 40/60 δίνει 88,13· αντιστροφή του λόγου τιμής δίνει 93,49· παράλειψη του βάρους 40% της τιμής δίνει 141,35."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Programme Budget — Nominal Value and Consumer Price Index (Base Year 2020 = 100)</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Nominal Budget (EUR)</th><th>CPI</th></tr></thead><tbody><tr><td><strong>2021</strong></td><td>4,250,000</td><td>104.8</td></tr><tr><td><strong>2022</strong></td><td>4,610,000</td><td>112.3</td></tr><tr><td><strong>2023</strong></td><td>4,980,000</td><td>119.6</td></tr><tr><td><strong>2024</strong></td><td>5,340,000</td><td>124.9</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Real Budget (2020 prices) = Nominal Budget × (Base-Year CPI ÷ Current-Year CPI).</em></p>",
+        "question": "7. What is the 2023 budget expressed in 2020 real prices?",
+        "options": [
+          "€4,003,920.00",
+          "€5,956,080.00",
+          "€4,434,550.31",
+          "€4,163,879.60",
+          "€4,980,000.00"
+        ],
+        "answer": 3,
+        "explanation": "Real value = 4,980,000×(100÷119.6) = €4,163,880. Distractors: leaving the budget in nominal terms without deflating gives €4,980,000; inverting the CPI ratio (Current ÷ Base instead of Base ÷ Current) gives €5,956,080; using 2022's CPI instead of 2023's gives €4,434,550; and misreading the CPI as a straight percentage discount off the nominal figure — i.e. subtracting (CPI−100)% — gives €4,003,920."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Προϋπολογισμός Προγράμματος — Ονομαστική Αξία και Δείκτης Τιμών Καταναλωτή (Έτος Βάσης 2020=100)</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Ονομαστικός Προϋπολογισμός (EUR)</th><th>ΔΤΚ</th></tr></thead><tbody><tr><td><strong>2021</strong></td><td>4.250.000</td><td>104,8</td></tr><tr><td><strong>2022</strong></td><td>4.610.000</td><td>112,3</td></tr><tr><td><strong>2023</strong></td><td>4.980.000</td><td>119,6</td></tr><tr><td><strong>2024</strong></td><td>5.340.000</td><td>124,9</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Πραγματικός Προϋπολογισμός (τιμές 2020) = Ονομαστικός Προϋπολογισμός × (ΔΤΚ Έτους Βάσης ÷ ΔΤΚ Τρέχοντος Έτους).</em></p>",
+        "question": "7. Ποιος είναι ο προϋπολογισμός του 2023 σε πραγματικές τιμές 2020;",
+        "options": [
+          "4.003.920",
+          "€5.956.080,00",
+          "€4.434.550,31",
+          "€4.163.879,60",
+          "€4.980.000,00"
+        ],
+        "answer": 3,
+        "explanation": "Πραγματική αξία = 4.980.000×(100÷119,6)=€4.163.879,60. Παγίδες: διατήρηση ονομαστικής αξίας χωρίς αποπληθωρισμό δίνει €4.980.000,00· αντιστροφή του λόγου ΔΤΚ δίνει €5.956.080,00· χρήση του ΔΤΚ του 2022 αντί του 2023 δίνει €4.434.550,31· εσφαλμένη ερμηνεία του ΔΤΚ ως απευθείας ποσοστιαία έκπτωση (αφαίρεση (ΔΤΚ−100)%) δίνει €4.003.920,00."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Cohesion Fund Project — Payment Schedule Parameters</caption><thead><tr style='background:#e8f0fe;'><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Total Eligible Costs</td><td>€5,200,000</td></tr><tr><td>EU Co-financing Rate</td><td>65%</td></tr><tr><td>Tranche 1 (at signature)</td><td>40% of EU contribution</td></tr><tr><td>Tranche 2 (at midterm review)</td><td>35% of EU contribution</td></tr><tr><td>Tranche 3 (at closure)</td><td>remaining balance</td></tr><tr><td>Performance Retention (Tranche 2 only)</td><td>8%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Total EU contribution = Eligible Costs × Co-financing Rate. The 8% retention is deducted from Tranche 2 only, and is released later if performance targets are met.</em></p>",
+        "question": "8. What net amount is paid at the midterm review (Tranche 2)?",
+        "options": [
+          "€1,001,291.20",
+          "€1,674,400.00",
+          "€1,088,360.00",
+          "€1,183,000.00",
+          "€1,243,840.00"
+        ],
+        "answer": 2,
+        "explanation": "Total EU contribution: 5,200,000×0.65=€3,380,000. Tranche 2 gross: ×0.35=€1,183,000. After the 8% retention: ×0.92=€1,088,360.00. Distractors: forgetting the retention entirely gives €1,183,000.00; using Tranche 1's 40% instead of Tranche 2's 35% gives €1,243,840.00; applying the 35% and retention directly to the eligible costs instead of the EU contribution (forgetting the co-financing rate) gives €1,674,400.00; and applying the 8% retention twice gives €1,001,291.20."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Έργο Ταμείου Συνοχής — Παράμετροι Χρονοδιαγράμματος Πληρωμών</caption><thead><tr style='background:#e8f0fe;'><th>Παράμετρος</th><th>Τιμή</th></tr></thead><tbody><tr><td>Συνολικές Επιλέξιμες Δαπάνες</td><td>€5.200.000</td></tr><tr><td>Συντελεστής Συγχρηματοδότησης ΕΕ</td><td>65%</td></tr><tr><td>Δόση 1 (υπογραφή)</td><td>40% της συνεισφοράς ΕΕ</td></tr><tr><td>Δόση 2 (ενδιάμεση επανεξέταση)</td><td>35% της συνεισφοράς ΕΕ</td></tr><tr><td>Δόση 3 (κλείσιμο)</td><td>υπόλοιπο</td></tr><tr><td>Παρακράτηση Επίδοσης (μόνο Δόση 2)</td><td>8%</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Συνολική συνεισφορά ΕΕ = Επιλέξιμες Δαπάνες × Συντελεστής Συγχρηματοδότησης. Η παρακράτηση 8% αφαιρείται μόνο από τη Δόση 2 και αποδεσμεύεται αργότερα εφόσον επιτευχθούν οι στόχοι επίδοσης.</em></p>",
+        "question": "8. Ποιο καθαρό ποσό καταβάλλεται κατά την ενδιάμεση επανεξέταση (Δόση 2);",
+        "options": [
+          "€1.001.291,20",
+          "€1.674.400,00",
+          "€1.088.360,00",
+          "€1.183.000,00",
+          "€1.243.840,00"
+        ],
+        "answer": 2,
+        "explanation": "Συνολική συνεισφορά ΕΕ: 5.200.000×0,65=€3.380.000. Δόση 2 μικτή: ×0,35=€1.183.000. Μετά την παρακράτηση 8%: ×0,92=€1.088.360,00. Παγίδες: παράλειψη παρακράτησης δίνει €1.183.000,00· χρήση του 40% της Δόσης 1 αντί του 35% δίνει €1.243.840,00· εφαρμογή στις επιλέξιμες δαπάνες χωρίς τον συντελεστή συγχρηματοδότησης δίνει €1.674.400,00· διπλή εφαρμογή της παρακράτησης δίνει €1.001.291,20."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Customs Declaration — Preferential Origin Assessment</caption><thead><tr style='background:#e8f0fe;'><th>Category</th><th>Customs Value</th><th>Standard Duty Rate</th><th>FTA Reduction</th><th>Origin Rules Compliant?</th></tr></thead><tbody><tr><td>Textiles</td><td>€145,000</td><td>12%</td><td>8%</td><td>Yes</td></tr><tr><td>Electronics</td><td>€268,000</td><td>6%</td><td>6%</td><td>No</td></tr><tr><td>Machinery</td><td>€412,000</td><td>3%</td><td>3%</td><td>Yes</td></tr><tr><td>Footwear</td><td>€98,000</td><td>17%</td><td>9%</td><td>Yes</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: The FTA reduction applies only to categories marked as compliant with the rules of origin. Non-compliant categories are charged the standard rate in full, regardless of the listed FTA reduction.</em></p>",
+        "question": "9. What is the total customs duty payable across all four categories?",
+        "options": [
+          "€13,640.00",
+          "€62,500.00",
+          "€46,420.00",
+          "€29,720.00",
+          "€95,280.00"
+        ],
+        "answer": 3,
+        "explanation": "Textiles (compliant): 145,000×(0.12−0.08)=€5,800. Electronics (NOT compliant, so standard rate applies in full): 268,000×0.06=€16,080. Machinery (compliant): 412,000×(0.03−0.03)=€0. Footwear (compliant): 98,000×(0.17−0.09)=€7,840. Total: €29,720.00. Distractors: applying the FTA reduction to every category including the non-compliant Electronics row gives €13,640.00; ignoring the FTA agreement entirely and charging standard rates everywhere gives €62,500.00; applying the logic backwards (reducing the non-compliant category and charging the compliant ones in full) gives €46,420.00; and adding the FTA reduction to the standard rate instead of subtracting it gives €95,280.00."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Τελωνειακή Διασάφηση — Αξιολόγηση Προτιμησιακής Καταγωγής</caption><thead><tr style='background:#e8f0fe;'><th>Κατηγορία</th><th>Δασμολογητέα Αξία</th><th>Κανονικός Δασμός</th><th>Μείωση ΣΕΣ</th><th>Συμμόρφωση Κανόνων Καταγωγής;</th></tr></thead><tbody><tr><td>Κλωστοϋφαντουργικά</td><td>€145.000</td><td>12%</td><td>8%</td><td>Ναι</td></tr><tr><td>Ηλεκτρονικά</td><td>€268.000</td><td>6%</td><td>6%</td><td>Όχι</td></tr><tr><td>Μηχανήματα</td><td>€412.000</td><td>3%</td><td>3%</td><td>Ναι</td></tr><tr><td>Υποδήματα</td><td>€98.000</td><td>17%</td><td>9%</td><td>Ναι</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Η μείωση ΣΕΣ (Συμφωνία Ελεύθερου Εμπορίου) εφαρμόζεται μόνο σε κατηγορίες που πληρούν τους κανόνες καταγωγής. Οι μη συμμορφούμενες κατηγορίες χρεώνονται με τον πλήρη κανονικό δασμό, ανεξαρτήτως της αναγραφόμενης μείωσης.</em></p>",
+        "question": "9. Ποιος είναι ο συνολικός πληρωτέος δασμός για τις τέσσερις κατηγορίες;",
+        "options": [
+          "€13.640,00",
+          "€62.500,00",
+          "€46.420,00",
+          "€29.720,00",
+          "€95.280,00"
+        ],
+        "answer": 3,
+        "explanation": "Κλωστοϋφαντουργικά (συμμορφ.): 145.000×(0,12−0,08)=€5.800. Ηλεκτρονικά (ΜΗ συμμορφ., πλήρης κανονικός δασμός): 268.000×0,06=€16.080. Μηχανήματα (συμμορφ.): 412.000×(0,03−0,03)=€0. Υποδήματα (συμμορφ.): 98.000×(0,17−0,09)=€7.840. Σύνολο: €29.720,00. Παγίδες: εφαρμογή της μείωσης ΣΕΣ και στα Ηλεκτρονικά (μη συμμορφούμενα) δίνει €13.640,00· πλήρης αγνόηση της ΣΕΣ δίνει €62.500,00· αντίστροφη εφαρμογή (μείωση στα μη συμμορφούμενα, πλήρης δασμός στα συμμορφούμενα) δίνει €46.420,00· πρόσθεση αντί αφαίρεσης της μείωσης ΣΕΣ δίνει €95.280,00."
+      }
+    },
+    {
+      "en": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Multiannual Financial Framework — 2024 Ceiling Assessment (EUR million)</caption><thead><tr style='background:#e8f0fe;'><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Annual Ceiling (2020 prices)</td><td>1,074,300</td></tr><tr><td>Fixed Annual Deflator</td><td>2.0%</td></tr><tr><td>Years Since 2020</td><td>4 (i.e. 2024)</td></tr><tr><td>Actual Commitments (2024, current prices)</td><td>1,205,600</td></tr><tr><td>Flexibility Instrument Cap</td><td>28,400</td></tr></tbody></table><p style='font-size:0.9em;'><em>Note: Ceiling (current prices) = Ceiling (2020 prices) × (1 + Deflator)^n. Any overshoot beyond the current-price ceiling is first covered by the Flexibility Instrument, up to its cap; only the remainder requires special budgetary approval.</em></p>",
+        "question": "10. How much of the 2024 overshoot requires special budgetary approval, after the Flexibility Instrument has been applied?",
+        "options": [
+          "€37,144.25 million",
+          "€102,900.00 million",
+          "€42,743.13 million",
+          "€71,143.13 million",
+          "€14,343.13 million"
+        ],
+        "answer": 4,
+        "explanation": "Ceiling in 2024 prices: 1,074,300×(1.02)^4 = €1,162,856.87 million. Overshoot: 1,205,600 − 1,162,856.87 = €42,743.13 million. After the Flexibility Instrument absorbs up to €28,400 million: 42,743.13 − 28,400 = €14,343.13 million. Distractors: forgetting to inflate the 2020 ceiling at all (comparing actual commitments directly to 1,074,300) gives €102,900.00 million; forgetting to apply the Flexibility Instrument gives €42,743.13 million; subtracting the Flexibility cap from the ceiling before comparing, instead of from the overshoot, gives €71,143.13 million; and compounding the deflator for only 3 years instead of 4 gives €37,144.25 million."
+      },
+      "el": {
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πολυετές Δημοσιονομικό Πλαίσιο — Αξιολόγηση Ανωτάτου Ορίου 2024 (εκατ. EUR)</caption><thead><tr style='background:#e8f0fe;'><th>Παράμετρος</th><th>Τιμή</th></tr></thead><tbody><tr><td>Ετήσιο Ανώτατο Όριο (τιμές 2020)</td><td>1.074.300</td></tr><tr><td>Σταθερός Ετήσιος Αποπληθωριστής</td><td>2,0%</td></tr><tr><td>Έτη από το 2020</td><td>4 (δηλ. 2024)</td></tr><tr><td>Πραγματικές Δεσμεύσεις (2024, τρέχουσες τιμές)</td><td>1.205.600</td></tr><tr><td>Ανώτατο Όριο Μέσου Ευελιξίας</td><td>28.400</td></tr></tbody></table><p style='font-size:0.9em;'><em>Σημείωση: Ανώτατο όριο (τρέχουσες τιμές) = Ανώτατο όριο (τιμές 2020) × (1 + Αποπληθωριστής)^n. Τυχόν υπέρβαση πέραν του ανώτατου ορίου σε τρέχουσες τιμές καλύπτεται πρώτα από το Μέσο Ευελιξίας, έως το ανώτατο όριό του· μόνο το υπόλοιπο απαιτεί ειδική δημοσιονομική έγκριση.</em></p>",
+        "question": "10. Πόσο από την υπέρβαση του 2024 απαιτεί ειδική δημοσιονομική έγκριση, μετά την εφαρμογή του Μέσου Ευελιξίας;",
+        "options": [
+          "€37.144,25 εκατ.",
+          "€102.900,00 εκατ.",
+          "€42.743,13 εκατ.",
+          "€71.143,13 εκατ.",
+          "€14.343,13 εκατ."
+        ],
+        "answer": 4,
+        "explanation": "Ανώτατο όριο σε τιμές 2024: 1.074.300×(1,02)^4=1.162.856,87 εκατ. Υπέρβαση: 1.205.600−1.162.856,87=42.743,13 εκατ. Μετά την απορρόφηση έως €28.400 εκατ. από το Μέσο Ευελιξίας: 42.743,13−28.400=14.343,13 εκατ. Παγίδες: παράλειψη αναπροσαρμογής του ορίου του 2020 δίνει 102.900,00 εκατ.· παράλειψη του Μέσου Ευελιξίας δίνει 42.743,13 εκατ.· αφαίρεση του ανωτάτου ορίου ευελιξίας από το όριο αντί από την υπέρβαση δίνει 71.143,13 εκατ.· σύνθεση του αποπληθωριστή για 3 έτη αντί για 4 δίνει 37.144,25 εκατ."
+      }
+    }
   ]
+}
 }  
