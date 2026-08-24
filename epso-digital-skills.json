@@ -3810,29 +3810,29 @@
         "explanation": "Για συνηθισμένα προβλήματα όπως το πάγωμα μιας κλήσης, η απλή αποχώρηση και επανασύνδεση στη συνάντηση, ή η επανεκκίνηση της εφαρμογής, λύνει το πρόβλημα στις περισσότερες περιπτώσεις και είναι πολύ πιο γρήγορη από πιο δραστικά βήματα."
       }
     },
-    {
+   {
       "en": {
         "passage": "7. Colleagues in three different time zones need to attend a recurring weekly meeting. Everyone currently converts the time manually, and mix-ups about the correct local time happen often.",
         "question": "Which digital solution would reduce this confusion?",
         "options": [
-          "Continue converting the time manually and hope no one makes a mistake.",
+          "Ask everyone to manually recalculate the meeting time each week and cross-check it against a shared reference chart.",
+          "Restrict future meetings to colleagues based in the organiser's time zone only, to avoid conversions altogether.",
           "Create the meeting invite in the shared calendar tool, which will automatically display the correct local time to each participant.",
-          "Only schedule meetings with participants residing in the same country.",
-          "Ask each participant to set their own clocks to the organiser's time zone permanently."
+          "Ask each participant to adjust their calendar display to the organiser's local time zone for the duration of the project."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Calendar tools typically convert meeting times automatically to each participant's own local time zone once the invite is created, removing the need for manual conversion and reducing scheduling errors."
       },
       "el": {
         "passage": "7. Συνάδελφοι σε τρεις διαφορετικές ζώνες ώρας πρέπει να παρακολουθούν μια επαναλαμβανόμενη εβδομαδιαία συνάντηση. Όλοι μετατρέπουν αυτή τη στιγμή την ώρα χειροκίνητα, και συχνά προκύπτουν συγχύσεις για τη σωστή τοπική ώρα.",
         "question": "Ποια ψηφιακή λύση θα μείωνε αυτή τη σύγχυση;",
         "options": [
-          "Να συνεχίσετε τη χειροκίνητη μετατροπή ώρας και να ελπίζετε ότι κανείς δεν θα κάνει λάθος.",
+          "Να ζητήσετε από όλους να υπολογίζουν την ώρα χειροκίνητα κάθε εβδομάδα και να τη διασταυρώνουν με έναν κοινό πίνακα αναφοράς.",
+          "Να περιορίσετε τις μελλοντικές συναντήσεις σε συναδέλφους που βρίσκονται στη ζώνη ώρας του διοργανωτή, για να αποφευχθούν οι μετατροπές.",
           "Να δημιουργήσετε την πρόσκληση συνάντησης στο κοινό εργαλείο ημερολογίου, το οποίο θα εμφανίζει αυτόματα τη σωστή τοπική ώρα σε κάθε συμμετέχοντα.",
-          "Να προγραμματίζετε συναντήσεις μόνο όταν οι συμμετέχοντες βρίσκονται στην ίδια χώρα.",
-          "Να ζητήσετε από κάθε συμμετέχοντα να ρυθμίσει μόνιμα το ρολόι του στη ζώνη ώρας του διοργανωτή."
+          "Να ζητήσετε από κάθε συμμετέχοντα να προσαρμόζει την προβολή του ημερολογίου του στην τοπική ώρα του διοργανωτή για τη διάρκεια του έργου."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Τα εργαλεία ημερολογίου συνήθως μετατρέπουν αυτόματα τις ώρες συναντήσεων στην τοπική ζώνη ώρας κάθε συμμετέχοντα μόλις δημιουργηθεί η πρόσκληση, εξαλείφοντας την ανάγκη χειροκίνητης μετατροπής."
       }
     },
@@ -3841,24 +3841,24 @@
         "passage": "8. Your work phone, which is not password-protected, goes missing after a business trip. You realise this only the next morning.",
         "question": "What should you do as soon as you realise it is missing?",
         "options": [
-          "Wait a day or two in case it turns up before telling anyone.",
           "Report it immediately to IT security so they can lock or remotely wipe the device.",
-          "Buy a replacement phone yourself and continue as normal without reporting it.",
-          "Only report it if you are certain it was stolen rather than simply lost."
+          "Wait until the end of the business trip to report it, in case it was simply left in the hotel and turns up.",
+          "Report it to your line manager only, since IT security is usually informed automatically through routine device audits.",
+          "Confirm first whether it was lost or stolen, since the two situations follow different reporting procedures."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "A missing work device should be reported immediately, regardless of whether it was lost or stolen, so IT security can act quickly (e.g. remote lock or wipe) to protect any institutional data on it. Delay increases the risk of unauthorised access."
       },
       "el": {
         "passage": "8. Το εργασιακό σας τηλέφωνο, το οποίο δεν είναι προστατευμένο με κωδικό, εξαφανίζεται μετά από ένα επαγγελματικό ταξίδι. Το αντιλαμβάνεστε μόλις το επόμενο πρωί.",
         "question": "Τι πρέπει να κάνετε μόλις αντιληφθείτε ότι λείπει;",
         "options": [
-          "Να περιμένετε μία-δύο ημέρες μήπως εμφανιστεί πριν το πείτε σε κανέναν.",
           "Να το αναφέρετε αμέσως στην ασφάλεια ΤΠ ώστε να κλειδώσουν ή να διαγράψουν απομακρυσμένα τη συσκευή.",
-          "Να αγοράσετε εσείς τηλέφωνο αντικατάστασης και να συνεχίσετε κανονικά χωρίς αναφορά.",
-          "Να το αναφέρετε μόνο αν είστε βέβαιοι ότι κλάπηκε και δεν χάθηκε απλώς."
+          "Να περιμένετε μέχρι το τέλος του ταξιδιού για να το αναφέρετε, μήπως απλώς το ξεχάσατε στο ξενοδοχείο.",
+          "Να το αναφέρετε μόνο στον προϊστάμενό σας, αφού η ασφάλεια ΤΠ ενημερώνεται συνήθως αυτόματα μέσω τακτικών ελέγχων συσκευών.",
+          "Να επιβεβαιώσετε πρώτα αν χάθηκε ή κλάπηκε, αφού οι δύο περιπτώσεις ακολουθούν διαφορετικές διαδικασίες αναφοράς."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Μια συσκευή εργασίας που λείπει πρέπει να αναφέρεται αμέσως, ανεξαρτήτως αν χάθηκε ή κλάπηκε, ώστε η ασφάλεια ΤΠ να ενεργήσει γρήγορα (π.χ. απομακρυσμένο κλείδωμα ή διαγραφή) για την προστασία τυχόν θεσμικών δεδομένων. Η καθυστέρηση αυξάνει τον κίνδυνο μη εξουσιοδοτημένης πρόσβασης."
       }
     },
@@ -3867,24 +3867,24 @@
         "passage": "9. When you visit most websites for the first time, a banner appears asking whether you accept 'cookies' for that site, with options to accept all, reject non-essential ones, or customise your choice.",
         "question": "What are these cookie consent banners generally intended to do?",
         "options": [
-          "Advertise unrelated products to you regardless of your choice.",
-          "Let you choose whether the website can store certain information about your visit and preferences, for purposes such as tracking or personalisation.",
-          "Confirm that your device has enough storage space to open the website.",
-          "Verify that you are old enough to access the internet at all."
+          "Automatically personalise the ads and content you see, regardless of the choice you make.",
+          "Check that your browser and device meet the website's technical storage requirements.",
+          "Confirm your acceptance of the website's general terms of service before granting access.",
+          "Let you choose whether the website can store certain information about your visit and preferences, for purposes such as tracking or personalisation."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Cookie consent banners are a data-protection requirement allowing you to choose whether a website may store certain information about your visit (such as for tracking, analytics, or personalisation), rather than doing so automatically without your input."
       },
       "el": {
         "passage": "9. Όταν επισκέπτεστε τους περισσότερους ιστότοπους για πρώτη φορά, εμφανίζεται μια μπάρα που ρωτά αν αποδέχεστε τα 'cookies' για τον συγκεκριμένο ιστότοπο, με επιλογές αποδοχής όλων, απόρριψης μη απαραίτητων ή προσαρμογής της επιλογής σας.",
         "question": "Τι σκοπό εξυπηρετούν γενικά αυτές οι μπάρες συγκατάθεσης για cookies;",
         "options": [
-          "Να σας διαφημίζουν άσχετα προϊόντα ανεξαρτήτως της επιλογής σας.",
-          "Να σας επιτρέπουν να επιλέξετε αν ο ιστότοπος μπορεί να αποθηκεύσει ορισμένες πληροφορίες σχετικά με την επίσκεψη και τις προτιμήσεις σας, για σκοπούς όπως η παρακολούθηση ή η εξατομίκευση.",
-          "Να επιβεβαιώνουν ότι η συσκευή σας διαθέτει αρκετό αποθηκευτικό χώρο για να ανοίξει ο ιστότοπος.",
-          "Να επαληθεύουν ότι έχετε την απαιτούμενη ηλικία για πρόσβαση στο διαδίκτυο γενικά."
+          "Να εξατομικεύουν αυτόματα τις διαφημίσεις και το περιεχόμενο που βλέπετε, ανεξαρτήτως της επιλογής σας.",
+          "Να ελέγχουν ότι το πρόγραμμα περιήγησης και η συσκευή σας πληρούν τις τεχνικές απαιτήσεις αποθήκευσης του ιστότοπου.",
+          "Να επιβεβαιώνουν την αποδοχή σας στους γενικούς όρους χρήσης του ιστότοπου πριν σας επιτραπεί η πρόσβαση.",
+          "Να σας επιτρέπουν να επιλέξετε αν ο ιστότοπος μπορεί να αποθηκεύσει ορισμένες πληροφορίες σχετικά με την επίσκεψη και τις προτιμήσεις σας, για σκοπούς όπως η παρακολούθηση ή η εξατομίκευση."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Οι μπάρες συγκατάθεσης για cookies αποτελούν απαίτηση προστασίας δεδομένων που σας επιτρέπει να επιλέξετε αν ένας ιστότοπος μπορεί να αποθηκεύσει ορισμένες πληροφορίες σχετικά με την επίσκεψή σας (π.χ. για παρακολούθηση ή εξατομίκευση), αντί να το κάνει αυτόματα χωρίς τη συγκατάθεσή σας."
       }
     },
@@ -3893,24 +3893,24 @@
         "passage": "10. You are preparing a slide showing the budget breakdown across four departments as simple percentages of the total. Management wants to grasp the relative shares at a glance during a short presentation.",
         "question": "Which type of chart is most suitable for this purpose?",
         "options": [
+          "A detailed table listing every individual transaction, for full traceability after the meeting.",
           "A pie chart or simple bar chart clearly showing the proportional share of each department.",
-          "A long table listing every individual transaction for all four departments.",
-          "A single paragraph of text describing the numbers without any visual.",
-          "A 3D animated chart with spinning effects to make it more engaging."
+          "A short written summary describing which department received the largest share.",
+          "A bar chart rendered in 3D with shading, to make the proportions stand out visually."
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "For showing a small number of categories as proportions of a whole at a glance, a pie chart or simple bar chart is generally clearer and faster to interpret than dense tables, plain text, or overly decorative visuals."
       },
       "el": {
         "passage": "10. Ετοιμάζετε μια διαφάνεια που δείχνει την κατανομή του προϋπολογισμού σε τέσσερα τμήματα ως απλά ποσοστά του συνόλου. Η διοίκηση θέλει να κατανοήσει τα σχετικά μερίδια με μια ματιά κατά τη διάρκεια σύντομης παρουσίασης.",
         "question": "Ποιος τύπος διαγράμματος είναι καταλληλότερος για αυτόν τον σκοπό;",
         "options": [
+          "Ένας αναλυτικός πίνακας με κάθε μεμονωμένη συναλλαγή, για πλήρη ιχνηλασιμότητα μετά τη συνάντηση.",
           "Ένα κυκλικό ή απλό ραβδωτό διάγραμμα που δείχνει καθαρά την αναλογική συμμετοχή κάθε τμήματος.",
-          "Ένας μακρύς πίνακας που καταγράφει κάθε μεμονωμένη συναλλαγή και για τα τέσσερα τμήματα.",
-          "Μία μόνο παράγραφος κειμένου που περιγράφει τους αριθμούς χωρίς κανένα οπτικό στοιχείο.",
-          "Ένα τρισδιάστατο κινούμενο διάγραμμα με περιστρεφόμενα εφέ για να είναι πιο ελκυστικό."
+          "Μια σύντομη γραπτή περίληψη που περιγράφει ποιο τμήμα έλαβε το μεγαλύτερο μερίδιο.",
+          "Ένα ραβδωτό διάγραμμα σε τρισδιάστατη απόδοση με σκίαση, ώστε οι αναλογίες να ξεχωρίζουν οπτικά."
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Για την απεικόνιση μικρού αριθμού κατηγοριών ως αναλογιών ενός συνόλου με μια ματιά, ένα κυκλικό ή απλό ραβδωτό διάγραμμα είναι γενικά πιο σαφές και γρήγορο στην ερμηνεία από πυκνούς πίνακες, απλό κείμενο ή υπερβολικά διακοσμητικά γραφικά."
       }
     },
@@ -3919,24 +3919,24 @@
         "passage": "11. You want to check whether a claim you read online ('a new EU rule bans a common household product starting next month') is accurate before mentioning it to colleagues.",
         "question": "What is the best way to verify this?",
         "options": [
-          "Trust it if several social media posts repeat the same claim.",
+          "Treat it as credible if it appears on several independent-looking social media accounts.",
+          "Assume it is exaggerated, since EU rules rarely come into force with only a month's notice.",
           "Check the claim against an official EU source, such as the relevant institution's website or press releases.",
-          "Assume it is false simply because it sounds surprising.",
-          "Wait for a colleague to mention it too before deciding."
+          "Ask a colleague who follows EU affairs whether they've heard the same claim."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Repetition across social media does not confirm accuracy, since the same unverified claim can easily be shared many times. Checking directly against an official, authoritative source is the reliable way to verify such a claim."
       },
       "el": {
         "passage": "11. Θέλετε να ελέγξετε αν ένας ισχυρισμός που διαβάσατε online («ένας νέος κανόνας της ΕΕ απαγορεύει ένα κοινό οικιακό προϊόν από τον επόμενο μήνα») είναι ακριβής πριν τον αναφέρετε σε συναδέλφους.",
         "question": "Ποιος είναι ο καλύτερος τρόπος επαλήθευσης;",
         "options": [
-          "Να τον εμπιστευτείτε αν αρκετές αναρτήσεις στα κοινωνικά δίκτυα επαναλαμβάνουν τον ίδιο ισχυρισμό.",
+          "Να τον θεωρήσετε αξιόπιστο αν εμφανίζεται σε αρκετούς φαινομενικά ανεξάρτητους λογαριασμούς κοινωνικών δικτύων.",
+          "Να υποθέσετε ότι είναι υπερβολικός, αφού οι κανόνες της ΕΕ σπάνια τίθενται σε ισχύ με προειδοποίηση μόλις ενός μήνα.",
           "Να ελέγξετε τον ισχυρισμό σε επίσημη πηγή της ΕΕ, όπως τον ιστότοπο ή τα δελτία τύπου του σχετικού θεσμικού οργάνου.",
-          "Να υποθέσετε ότι είναι ψευδής απλώς επειδή ακούγεται εκπληκτικός.",
-          "Να περιμένετε να τον αναφέρει και κάποιος συνάδελφος πριν αποφασίσετε."
+          "Να ρωτήσετε έναν συνάδελφο που παρακολουθεί στενά τα ευρωπαϊκά θέματα αν έχει ακούσει τον ίδιο ισχυρισμό."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Η επανάληψη στα κοινωνικά δίκτυα δεν επιβεβαιώνει την ακρίβεια, αφού ο ίδιος ανεπιβεβαίωτος ισχυρισμός μπορεί εύκολα να κοινοποιηθεί πολλές φορές. Ο άμεσος έλεγχος σε επίσημη, αξιόπιστη πηγή είναι ο αξιόπιστος τρόπος επαλήθευσης."
       }
     },
@@ -3945,24 +3945,24 @@
         "passage": "12. You want to store a copy of an important signed contract so it cannot be lost even if your computer is damaged, and so a colleague can access it if you are absent.",
         "question": "Which is the best storage approach?",
         "options": [
-          "Save it only on your personal desktop folder, since that is the fastest place to find it.",
           "Save it to an approved shared drive or cloud storage accessible to relevant colleagues, in addition to any local copy.",
-          "Email it to your personal, non-work email account as the only backup.",
-          "Keep the only copy on a USB stick in your desk drawer."
+          "Save it to your personal desktop folder and let colleagues know where to find it.",
+          "Email it to your personal email account as an easy-to-reach backup copy.",
+          "Keep the backup on an encrypted USB stick stored in your desk drawer."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Saving important documents to an approved shared drive or cloud location, rather than only a personal desktop or a single USB stick, protects against loss and ensures continuity if you are unavailable and a colleague needs access."
       },
       "el": {
         "passage": "12. Θέλετε να αποθηκεύσετε αντίγραφο ενός σημαντικού υπογεγραμμένου συμβολαίου ώστε να μη χαθεί ακόμη κι αν ο υπολογιστής σας υποστεί βλάβη, και ώστε ένας συνάδελφος να μπορεί να το βρει αν απουσιάζετε.",
         "question": "Ποια είναι η καλύτερη προσέγγιση αποθήκευσης;",
         "options": [
-          "Να το αποθηκεύσετε μόνο στον προσωπικό σας φάκελο επιφάνειας εργασίας, αφού είναι το πιο γρήγορο σημείο εύρεσης.",
           "Να το αποθηκεύσετε σε εγκεκριμένο κοινόχρηστο δίσκο ή cloud προσβάσιμο στους σχετικούς συναδέλφους, επιπλέον οποιουδήποτε τοπικού αντιγράφου.",
-          "Να το στείλετε στον προσωπικό, μη-εργασιακό σας λογαριασμό email ως μόνο αντίγραφο ασφαλείας.",
-          "Να διατηρήσετε το μοναδικό αντίγραφο σε USB stick στο συρτάρι του γραφείου σας."
+          "Να το αποθηκεύσετε στον προσωπικό σας φάκελο επιφάνειας εργασίας και να ενημερώσετε τους συναδέλφους πού να το βρουν.",
+          "Να το στείλετε με email στον προσωπικό σας λογαριασμό ως εύκολα προσβάσιμο αντίγραφο ασφαλείας.",
+          "Να κρατήσετε το αντίγραφο ασφαλείας σε κρυπτογραφημένο USB stick στο συρτάρι του γραφείου σας."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Η αποθήκευση σημαντικών εγγράφων σε εγκεκριμένο κοινόχρηστο δίσκο ή cloud, αντί μόνο σε προσωπική επιφάνεια εργασίας ή σε ένα μόνο USB stick, προστατεύει από απώλεια και διασφαλίζει συνέχεια αν απουσιάζετε και χρειαστεί πρόσβαση συνάδελφος."
       }
     },
@@ -3971,24 +3971,24 @@
         "passage": "13. A visually impaired colleague uses screen-reading software and tells you that a slide deck you shared is hard to follow because the images have no descriptions and the reading order jumps around confusingly.",
         "question": "What would best address this feedback?",
         "options": [
-          "Suggest the colleague simply ask someone to read the slides aloud each time.",
-          "Add brief alternative text descriptions to the images and check that the content follows a logical, consistent reading order.",
-          "Remove all images from the presentation so there is nothing to describe.",
-          "Convert the whole presentation into a single scanned image file."
+          "Suggest the colleague ask a team member to talk them through the slides each time it's shared.",
+          "Remove the images and replace them with short captions describing what they showed.",
+          "Convert the presentation to PDF format, which is generally easier for screen readers.",
+          "Add brief alternative text descriptions to the images and check that the content follows a logical, consistent reading order."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Adding alternative text to images and ensuring a logical reading order are basic, standard accessibility practices that make digital content usable with screen-reading software."
       },
       "el": {
         "passage": "13. Ένας συνάδελφος με προβλήματα όρασης χρησιμοποιεί λογισμικό ανάγνωσης οθόνης και σας λέει ότι μια παρουσίαση που μοιραστήκατε είναι δύσκολο να την παρακολουθήσει επειδή οι εικόνες δεν έχουν περιγραφές και η σειρά ανάγνωσης πηδάει συγκεχυμένα.",
         "question": "Τι θα αντιμετώπιζε καλύτερα αυτή την ανατροφοδότηση;",
         "options": [
-          "Να προτείνετε στον συνάδελφο απλώς να ζητάει από κάποιον να διαβάζει τις διαφάνειες φωναχτά κάθε φορά.",
-          "Να προσθέσετε σύντομες εναλλακτικές περιγραφές κειμένου στις εικόνες και να ελέγξετε ότι το περιεχόμενο ακολουθεί λογική, συνεπή σειρά ανάγνωσης.",
-          "Να αφαιρέσετε όλες τις εικόνες από την παρουσίαση ώστε να μην υπάρχει τίποτα προς περιγραφή.",
-          "Να μετατρέψετε ολόκληρη την παρουσίαση σε ένα ενιαίο σαρωμένο αρχείο εικόνας."
+          "Να προτείνετε στον συνάδελφο να ζητά από κάποιο μέλος της ομάδας να του εξηγεί τις διαφάνειες κάθε φορά που τις μοιράζεστε.",
+          "Να αφαιρέσετε τις εικόνες και να τις αντικαταστήσετε με σύντομες λεζάντες που περιγράφουν το περιεχόμενό τους.",
+          "Να μετατρέψετε την παρουσίαση σε PDF, το οποίο είναι γενικά ευκολότερο για τα προγράμματα ανάγνωσης οθόνης.",
+          "Να προσθέσετε σύντομες εναλλακτικές περιγραφές κειμένου στις εικόνες και να ελέγξετε ότι το περιεχόμενο ακολουθεί λογική, συνεπή σειρά ανάγνωσης."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Η προσθήκη εναλλακτικού κειμένου στις εικόνες και η διασφάλιση λογικής σειράς ανάγνωσης είναι βασικές, καθιερωμένες πρακτικές προσβασιμότητας που καθιστούν το ψηφιακό περιεχόμενο χρηστικό με λογισμικό ανάγνωσης οθόνης."
       }
     },
@@ -3997,10 +3997,10 @@
         "passage": "14. You are writing a quick internal chat message to a colleague. You notice you have typed the whole message in capital letters by mistake.",
         "question": "Why is it worth fixing this before sending?",
         "options": [
-          "It makes no real difference in written communication.",
+          "It makes little real difference in casual messages between colleagues who know each other well.",
           "Writing in all capitals is generally understood as shouting and can come across as rude or aggressive.",
-          "Capital letters transmit more slowly over the network.",
-          "It will automatically be flagged as spam by the chat system."
+          "All-capitals text is simply harder to read quickly, which could slow down your colleague's response.",
+          "Some chat systems may flag long all-capitals messages as automated or spam."
         ],
         "answer": 1,
         "explanation": "In written digital communication, typing in all capitals is widely understood as the equivalent of shouting and can be perceived as rude, so it is good netiquette to avoid it in normal messages."
@@ -4009,10 +4009,10 @@
         "passage": "14. Γράφετε ένα γρήγορο εσωτερικό μήνυμα σε συνάδελφο. Παρατηρείτε ότι έχετε πληκτρολογήσει ολόκληρο το μήνυμα με κεφαλαία γράμματα κατά λάθος.",
         "question": "Γιατί αξίζει να το διορθώσετε πριν το στείλετε;",
         "options": [
-          "Δεν έχει καμία πραγματική διαφορά στη γραπτή επικοινωνία.",
+          "Δεν έχει ιδιαίτερη σημασία σε ανεπίσημα μηνύματα μεταξύ συναδέλφων που γνωρίζονται καλά.",
           "Η γραφή με όλα κεφαλαία γενικά εκλαμβάνεται ως φωνή/κραυγή και μπορεί να ακουστεί αγενής ή επιθετική.",
-          "Τα κεφαλαία γράμματα μεταδίδονται πιο αργά μέσω του δικτύου.",
-          "Θα σημανθεί αυτόματα ως ανεπιθύμητο (spam) από το σύστημα συνομιλίας."
+          "Το κείμενο με όλα κεφαλαία είναι απλώς πιο δύσκολο να διαβαστεί γρήγορα, κάτι που μπορεί να καθυστερήσει την απάντηση του συναδέλφου.",
+          "Ορισμένα συστήματα συνομιλίας μπορεί να επισημάνουν μεγάλα μηνύματα με κεφαλαία ως αυτοματοποιημένα ή spam."
         ],
         "answer": 1,
         "explanation": "Στη γραπτή ψηφιακή επικοινωνία, η γραφή με όλα κεφαλαία γενικά εκλαμβάνεται ως ισοδύναμο κραυγής και μπορεί να θεωρηθεί αγενής, γι' αυτό αποτελεί καλή πρακτική δικτυακής ευγένειας να αποφεύγεται σε κανονικά μηνύματα."
@@ -4023,24 +4023,24 @@
         "passage": "15. You are organising a one-hour virtual workshop with 20 participants and want the discussion to stay focused and finish on time.",
         "question": "Which preparation step would help most?",
         "options": [
+          "Keep the agenda loose so the discussion can develop naturally once the workshop starts.",
+          "Invite a few extra colleagues with relevant expertise to enrich the discussion.",
           "Send a clear agenda with topics and rough timings in advance, and share it again at the start of the meeting.",
-          "Start the meeting with no agenda so the discussion can flow naturally.",
-          "Invite as many additional people as possible to broaden the discussion.",
-          "Plan to run over time if needed, since useful discussions cannot be limited."
+          "Plan for the possibility of running slightly over time if a topic needs more depth."
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Sharing a clear agenda with topics and approximate timings in advance, and reminding participants of it at the start, helps keep a virtual meeting focused and more likely to finish within the planned time."
       },
       "el": {
         "passage": "15. Διοργανώνετε ένα ωριαίο εικονικό εργαστήριο με 20 συμμετέχοντες και θέλετε η συζήτηση να παραμείνει εστιασμένη και να τελειώσει έγκαιρα.",
         "question": "Ποιο βήμα προετοιμασίας θα βοηθούσε περισσότερο;",
         "options": [
+          "Να κρατήσετε την ημερήσια διάταξη χαλαρή ώστε η συζήτηση να εξελιχθεί φυσικά μόλις ξεκινήσει το εργαστήριο.",
+          "Να προσκαλέσετε μερικούς επιπλέον συναδέλφους με σχετική εξειδίκευση για να εμπλουτίσουν τη συζήτηση.",
           "Να στείλετε σαφή ημερήσια διάταξη με θέματα και κατά προσέγγιση χρόνους εκ των προτέρων, και να την ξαναμοιραστείτε στην αρχή της συνάντησης.",
-          "Να ξεκινήσετε τη συνάντηση χωρίς ημερήσια διάταξη ώστε η συζήτηση να ρέει φυσικά.",
-          "Να προσκαλέσετε όσο το δυνατόν περισσότερα επιπλέον άτομα για να διευρύνετε τη συζήτηση.",
-          "Να σχεδιάσετε να ξεπεράσετε τον χρόνο αν χρειαστεί, αφού οι χρήσιμες συζητήσεις δεν μπορούν να περιοριστούν."
+          "Να προβλέψετε λίγο επιπλέον χρόνο στο τέλος σε περίπτωση που ένα θέμα χρειαστεί μεγαλύτερη εμβάθυνση."
         ],
-        "answer": 0,
+        "answer": 2,
         "explanation": "Η κοινοποίηση σαφούς ημερήσιας διάταξης με θέματα και κατά προσέγγιση χρόνους εκ των προτέρων, και η υπενθύμισή της στην αρχή, βοηθά η εικονική συνάντηση να παραμείνει εστιασμένη και να ολοκληρωθεί εγκαίρως."
       }
     },
@@ -4049,24 +4049,24 @@
         "passage": "16. You want to work on a confidential draft policy document over the weekend and are considering copying it onto your personal laptop, which is not managed or protected by your institution's IT security.",
         "question": "What is the most appropriate approach?",
         "options": [
-          "Copy it onto your personal laptop as planned, since you will delete it afterwards.",
-          "Check your institution's policy first; generally, avoid moving confidential work documents onto personal, unmanaged devices unless explicitly authorised.",
-          "Email it to a personal cloud account for easier access from any device.",
-          "Post a summary of it on a personal blog so you can review it more easily over the weekend."
+          "Copy it to your personal laptop temporarily and delete it once the weekend work is done.",
+          "Upload it to a personal cloud account protected with a strong, unique password.",
+          "Save a summary of the key points to a personal notes app for easier review.",
+          "Check your institution's policy first; generally, avoid moving confidential work documents onto personal, unmanaged devices unless explicitly authorised."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Confidential institutional documents generally should not be moved to personal, unmanaged devices, which typically lack the security controls of work equipment, unless this has been explicitly authorised under your institution's policy."
       },
       "el": {
         "passage": "16. Θέλετε να δουλέψετε σε ένα εμπιστευτικό προσχέδιο πολιτικής το σαββατοκύριακο και σκέφτεστε να το αντιγράψετε στον προσωπικό σας φορητό υπολογιστή, ο οποίος δεν διαχειρίζεται ούτε προστατεύεται από την ασφάλεια ΤΠ του θεσμού σας.",
         "question": "Ποια είναι η πιο κατάλληλη προσέγγιση;",
         "options": [
-          "Να το αντιγράψετε στον προσωπικό σας υπολογιστή όπως σχεδιάζατε, αφού θα το διαγράψετε μετά.",
-          "Να ελέγξετε πρώτα την πολιτική του θεσμού σας· γενικά, να αποφύγετε τη μεταφορά εμπιστευτικών εγγράφων εργασίας σε προσωπικές, μη διαχειριζόμενες συσκευές εκτός αν έχει ρητά εγκριθεί.",
-          "Να το στείλετε με email σε προσωπικό λογαριασμό cloud για ευκολότερη πρόσβαση από οποιαδήποτε συσκευή.",
-          "Να δημοσιεύσετε περίληψή του σε προσωπικό blog ώστε να το επανεξετάσετε πιο εύκολα το σαββατοκύριακο."
+          "Να το αντιγράψετε προσωρινά στον προσωπικό σας υπολογιστή και να το διαγράψετε μόλις ολοκληρωθεί η εργασία του σαββατοκύριακου.",
+          "Να το ανεβάσετε σε προσωπικό λογαριασμό cloud προστατευμένο με ισχυρό, μοναδικό κωδικό πρόσβασης.",
+          "Να αποθηκεύσετε μια περίληψη των βασικών σημείων σε προσωπική εφαρμογή σημειώσεων για ευκολότερη ανασκόπηση.",
+          "Να ελέγξετε πρώτα την πολιτική του θεσμού σας· γενικά, να αποφύγετε τη μεταφορά εμπιστευτικών εγγράφων εργασίας σε προσωπικές, μη διαχειριζόμενες συσκευές εκτός αν έχει ρητά εγκριθεί."
         ],
-        "answer": 1,
+        "answer": 3,
         "explanation": "Τα εμπιστευτικά θεσμικά έγγραφα γενικά δεν πρέπει να μεταφέρονται σε προσωπικές, μη διαχειριζόμενες συσκευές, οι οποίες συνήθως δεν διαθέτουν τους ελέγχους ασφαλείας του εξοπλισμού εργασίας, εκτός αν αυτό έχει ρητά εγκριθεί από την πολιτική του θεσμού σας."
       }
     },
@@ -4075,24 +4075,24 @@
         "passage": "17. You hover your mouse over a link in an email before clicking, and notice the web address shown at the bottom of your screen does not match the company name mentioned in the email text.",
         "question": "What does this mismatch most likely suggest?",
         "options": [
-          "It is a normal technical quirk and the link is safe to click.",
           "The link may be misleading or malicious, so you should not click it and should verify through another channel instead.",
-          "Your internet browser needs to be updated.",
-          "The email was simply sent from a slower server."
+          "It's likely just a shortened or redirect link used by the company's marketing platform.",
+          "Your browser may be showing an outdated or cached preview of the link.",
+          "The email was probably sent through a regional server, which can affect how links are displayed."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "A mismatch between the displayed link text and the actual web address it points to is a common warning sign of a misleading or malicious link, and is a good reason to avoid clicking and verify the message through another channel."
       },
       "el": {
         "passage": "17. Περνάτε το ποντίκι σας πάνω από έναν σύνδεσμο σε email πριν κάνετε κλικ, και παρατηρείτε ότι η διεύθυνση ιστού που εμφανίζεται στο κάτω μέρος της οθόνης σας δεν ταιριάζει με το όνομα της εταιρείας που αναφέρεται στο κείμενο του email.",
         "question": "Τι υποδηλώνει πιθανότατα αυτή η ασυμφωνία;",
         "options": [
-          "Πρόκειται για συνηθισμένη τεχνική ιδιαιτερότητα και ο σύνδεσμος είναι ασφαλής για κλικ.",
           "Ο σύνδεσμος μπορεί να είναι παραπλανητικός ή κακόβουλος, οπότε δεν πρέπει να κάνετε κλικ και πρέπει να επαληθεύσετε μέσω άλλου καναλιού.",
-          "Το πρόγραμμα περιήγησής σας χρειάζεται ενημέρωση.",
-          "Το email απλώς στάλθηκε από πιο αργό διακομιστή."
+          "Πρόκειται πιθανότατα για συντομευμένο σύνδεσμο ανακατεύθυνσης που χρησιμοποιεί η πλατφόρμα μάρκετινγκ της εταιρείας.",
+          "Το πρόγραμμα περιήγησής σας μπορεί να εμφανίζει μια παλιά ή αποθηκευμένη προεπισκόπηση του συνδέσμου.",
+          "Το email πιθανότατα στάλθηκε μέσω περιφερειακού διακομιστή, κάτι που μπορεί να επηρεάσει την εμφάνιση των συνδέσμων."
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "Η ασυμφωνία μεταξύ του εμφανιζόμενου κειμένου συνδέσμου και της πραγματικής διεύθυνσης στην οποία οδηγεί είναι συνηθισμένο προειδοποιητικό σημάδι παραπλανητικού ή κακόβουλου συνδέσμου, και καλός λόγος να αποφύγετε το κλικ και να επαληθεύσετε μέσω άλλου καναλιού."
       }
     },
@@ -4101,24 +4101,24 @@
         "passage": "18. You want to make sure you don't forget several upcoming administrative deadlines spread across the next two months, without relying purely on memory.",
         "question": "Which simple digital habit would help most?",
         "options": [
+          "Keep a mental note of the dates and review them occasionally to stay on track.",
           "Set calendar reminders with enough advance notice for each deadline.",
-          "Try to memorise all the dates without writing them down anywhere.",
-          "Ask a colleague to remember the dates on your behalf instead.",
-          "Wait until each deadline is very close before thinking about it."
+          "Ask a colleague to send you a reminder closer to each deadline.",
+          "Write the dates on a note near your desk and check it every so often."
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Setting calendar reminders with appropriate advance notice is a simple, reliable digital habit for managing multiple deadlines, rather than relying on memory or leaving preparation until the last moment."
       },
       "el": {
         "passage": "18. Θέλετε να βεβαιωθείτε ότι δεν θα ξεχάσετε αρκετές επερχόμενες διοικητικές προθεσμίες που εκτείνονται στους επόμενους δύο μήνες, χωρίς να βασίζεστε αποκλειστικά στη μνήμη σας.",
         "question": "Ποια απλή ψηφιακή συνήθεια θα βοηθούσε περισσότερο;",
         "options": [
+          "Να κρατάτε νοερή σημείωση των ημερομηνιών και να τις επανεξετάζετε περιστασιακά.",
           "Να ορίσετε υπενθυμίσεις ημερολογίου με αρκετή προειδοποίηση για κάθε προθεσμία.",
-          "Να προσπαθήσετε να απομνημονεύσετε όλες τις ημερομηνίες χωρίς να τις γράψετε πουθενά.",
-          "Να ζητήσετε από συνάδελφο να θυμάται τις ημερομηνίες για λογαριασμό σας.",
-          "Να περιμένετε μέχρι κάθε προθεσμία να πλησιάσει πολύ πριν τη σκεφτείτε."
+          "Να ζητήσετε από συνάδελφο να σας στείλει υπενθύμιση όταν πλησιάζει κάθε προθεσμία.",
+          "Να γράψετε τις ημερομηνίες σε ένα σημείωμα κοντά στο γραφείο σας και να το ελέγχετε κατά διαστήματα."
         ],
-        "answer": 0,
+        "answer": 1,
         "explanation": "Ο ορισμός υπενθυμίσεων ημερολογίου με κατάλληλη προειδοποίηση είναι απλή, αξιόπιστη ψηφιακή συνήθεια για τη διαχείριση πολλαπλών προθεσμιών, αντί να βασίζεστε στη μνήμη ή να αφήνετε την προετοιμασία για την τελευταία στιγμή."
       }
     },
@@ -4127,24 +4127,24 @@
         "passage": "19. A new colleague joins your team and mentions they are 'not very good with computers'. They are struggling with the basic shared task list your team uses daily, which is slowing down handovers between team members.",
         "question": "What is the most constructive way to help them?",
         "options": [
-          "Tell them digital tools are unavoidable and they should simply figure it out on their own.",
+          "Point them to the general user guide and let them work through it at their own pace.",
+          "Handle their entries on the shared list yourself until they feel more confident.",
           "Offer a short, focused walkthrough of exactly the features they need for their daily tasks, and check in again after a few days.",
-          "Take over their part of the shared task list permanently so they don't need to use it.",
-          "Avoid mentioning it and hope they improve on their own over time."
+          "Give them some time to settle in before offering any specific help."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "A short, targeted walkthrough focused on the specific features a colleague actually needs, followed by a brief check-in, is generally more effective and supportive than ignoring the issue or permanently working around it for them."
       },
       "el": {
         "passage": "19. Ένας νέος συνάδελφος εντάσσεται στην ομάδα σας και αναφέρει ότι «δεν είναι πολύ καλός με τους υπολογιστές». Δυσκολεύεται με τη βασική κοινόχρηστη λίστα εργασιών που χρησιμοποιεί καθημερινά η ομάδα σας, κάτι που επιβραδύνει τις παραδόσεις μεταξύ μελών.",
         "question": "Ποιος είναι ο πιο εποικοδομητικός τρόπος να τον βοηθήσετε;",
         "options": [
-          "Να του πείτε ότι τα ψηφιακά εργαλεία είναι αναπόφευκτα και πρέπει απλώς να τα καταλάβει μόνος του.",
+          "Να τον παραπέμψετε στον γενικό οδηγό χρήσης και να τον αφήσετε να τον μελετήσει με τον δικό του ρυθμό.",
+          "Να αναλάβετε εσείς προσωρινά τις καταχωρήσεις του στην κοινόχρηστη λίστα μέχρι να νιώσει πιο σίγουρος.",
           "Να του προσφέρετε σύντομη, στοχευμένη επίδειξη ακριβώς των λειτουργιών που χρειάζεται για τις καθημερινές του εργασίες, και να επανέλθετε μετά από λίγες μέρες.",
-          "Να αναλάβετε μόνιμα το κομμάτι του στην κοινόχρηστη λίστα εργασιών ώστε να μη χρειάζεται να τη χρησιμοποιεί.",
-          "Να αποφύγετε να το αναφέρετε και να ελπίζετε ότι θα βελτιωθεί μόνος του με τον καιρό."
+          "Να του δώσετε λίγο χρόνο να προσαρμοστεί πριν του προσφέρετε συγκεκριμένη βοήθεια."
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Μια σύντομη, στοχευμένη επίδειξη εστιασμένη στις λειτουργίες που πράγματι χρειάζεται ένας συνάδελφος, ακολουθούμενη από σύντομη επανεξέταση, είναι γενικά πιο αποτελεσματική και υποστηρικτική από την αγνόηση του ζητήματος."
       }
     },
@@ -4153,24 +4153,24 @@
         "passage": "20. You are filling in a mandatory online expense-claim form and repeatedly get an error saying a required field is missing, even though every visible box appears to be filled in.",
         "question": "What is a sensible next step before giving up or restarting your computer?",
         "options": [
-          "Check for a collapsed or hidden section of the form, and confirm each field matches the expected format (e.g. date format, only numbers where required).",
-          "Assume the online system is permanently broken and submit the claim on paper instead without further checks.",
-          "Keep clicking submit repeatedly without changing anything.",
-          "Restart your computer immediately as the very first step."
+          "Save your progress and try again later, in case the system is temporarily overloaded.",
+          "Clear the form and re-enter all the information from scratch.",
+          "Restart your computer first, in case a cached browser file is causing the error.",
+          "Check for a collapsed or hidden section of the form, and confirm each field matches the expected format (e.g. date format, only numbers where required)."
         ],
-        "answer": 0,
+        "answer": 3,
         "explanation": "Many form errors happen because a hidden or collapsed section still contains an incomplete field, or because a field's format (such as a date) doesn't match what's expected. Checking these carefully is usually quicker and more effective than restarting the computer or resubmitting blindly."
       },
       "el": {
         "passage": "20. Συμπληρώνετε μια υποχρεωτική online φόρμα αιτήματος εξόδων και λαμβάνετε επανειλημμένα σφάλμα ότι λείπει υποχρεωτικό πεδίο, παρότι κάθε ορατό πλαίσιο φαίνεται συμπληρωμένο.",
         "question": "Ποιο είναι ένα λογικό επόμενο βήμα πριν τα παρατήσετε ή κάνετε επανεκκίνηση του υπολογιστή σας;",
         "options": [
-          "Να ελέγξετε για τυχόν συμπτυγμένη ή κρυφή ενότητα της φόρμας, και να επιβεβαιώσετε ότι κάθε πεδίο ταιριάζει με την αναμενόμενη μορφή (π.χ. μορφή ημερομηνίας, μόνο αριθμοί όπου απαιτείται).",
-          "Να υποθέσετε ότι το online σύστημα είναι μόνιμα χαλασμένο και να υποβάλετε το αίτημα σε χαρτί χωρίς περαιτέρω έλεγχο.",
-          "Να συνεχίσετε να πατάτε υποβολή επανειλημμένα χωρίς να αλλάξετε τίποτα.",
-          "Να κάνετε επανεκκίνηση του υπολογιστή σας αμέσως ως πρώτο βήμα."
+          "Να αποθηκεύσετε την πρόοδό σας και να δοκιμάσετε ξανά αργότερα, μήπως το σύστημα είναι προσωρινά υπερφορτωμένο.",
+          "Να καθαρίσετε τη φόρμα και να εισαγάγετε ξανά όλα τα στοιχεία από την αρχή.",
+          "Να κάνετε πρώτα επανεκκίνηση του υπολογιστή σας, μήπως το πρόβλημα οφείλεται σε αποθηκευμένα δεδομένα του προγράμματος περιήγησης.",
+          "Να ελέγξετε για τυχόν συμπτυγμένη ή κρυφή ενότητα της φόρμας, και να επιβεβαιώσετε ότι κάθε πεδίο ταιριάζει με την αναμενόμενη μορφή (π.χ. μορφή ημερομηνίας, μόνο αριθμοί όπου απαιτείται)."
         ],
-        "answer": 0,
+        "answer": 3,
         "explanation": "Πολλά σφάλματα φορμών συμβαίνουν επειδή μια κρυφή ή συμπτυγμένη ενότητα εξακολουθεί να περιέχει ελλιπές πεδίο, ή επειδή η μορφή ενός πεδίου (π.χ. ημερομηνία) δεν ταιριάζει με την αναμενόμενη. Ο προσεκτικός έλεγχος αυτών είναι συνήθως πιο γρήγορος και αποτελεσματικός από την επανεκκίνηση ή την τυφλή επανυποβολή."
       }
     }
