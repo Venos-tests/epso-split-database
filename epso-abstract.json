@@ -2115,6 +2115,307 @@
         "explanation": "Τέσσερις ανεξάρτητοι κανόνες λειτουργούν ταυτόχρονα: το σχήμα εναλλάσσεται κύκλος→τετράγωνο→τρίγωνο (περίοδος 3)· το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ (περίοδος 4)· η περιστροφή αυξάνεται κατά 30° σε κάθε πλαίσιο· και η γέμιση εναλλάσσεται συμπαγής στα μονά πλαίσια, περιγράμματος στα ζυγά. Η σωστή επιλογή είναι η E. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
       }
     }
+  ],
+"abstract_10": [
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672856/abstract_10_q1_ref_lomsfh.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672856/abstract_10_q1_opt_phxdoj.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Three rules apply: (1) The arrow rotates 90° clockwise each step. (2) The number of dots follows the sequence: 1, 2, 3, 4, 5. (3) If the arrow points vertically (up/down), it is black; if horizontally (left/right), it is white. The 6th frame must match option E."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672856/abstract_10_q1_ref_lomsfh.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672856/abstract_10_q1_opt_phxdoj.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το βέλος περιστρέφεται 90° δεξιόστροφα κάθε βήμα. (2) Ο αριθμός κουκκίδων ακολουθεί τη σειρά: 1, 2, 3, 4, 5. (3) Αν το βέλος δείχνει κάθετα (πάνω/κάτω) είναι μαύρο· αν οριζόντια (αριστερά/δεξιά) είναι λευκό. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή E."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672857/abstract_10_q2_ref_ejpqih.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672857/abstract_10_q2_opt_hbmorg.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Three rules apply: (1) The hexagon rotates 72° clockwise each step. (2) The small circle orbits the center by 60° clockwise. (3) When the circle is in the top half of the frame, it is black; when in the bottom half, it is white. The 6th frame must match option E."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672857/abstract_10_q2_ref_ejpqih.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672857/abstract_10_q2_opt_hbmorg.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 72° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 60° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή E."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672859/abstract_10_q3_ref_kzevow.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672858/abstract_10_q3_opt_hkvr2n.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Three rules apply: (1) The square increases in size uniformly each step. (2) The circle walks between the center and a diagonal corner, returning to center every other step. (3) When the circle is at the center, it is plain white; when at a corner, it has diagonal stripes. The 6th frame must match option E."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672859/abstract_10_q3_ref_kzevow.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672858/abstract_10_q3_opt_hkvr2n.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 4,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το τετράγωνο αυξάνεται ομοιόμορφα σε μέγεθος κάθε βήμα. (2) Ο κύκλος μετακινείται μεταξύ του κέντρου και μιας διαγώνιας γωνίας, επιστρέφοντας στο κέντρο κάθε δύο βήματα. (3) Όταν ο κύκλος είναι στο κέντρο είναι απλός λευκός· όταν στη γωνία έχει διαγώνιες ρίγες. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή E."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672861/abstract_10_q4_ref_wziwko.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672860/abstract_10_q4_opt_sgsmcn.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 0,
+        "explanation": "Three rules apply: (1) The square increases in size uniformly each step. (2) The circle walks between the center and a diagonal corner, returning to center every other step. (3) When the circle is at the center, it is plain white; when at a corner, it has diagonal stripes. The 6th frame must match option A."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672861/abstract_10_q4_ref_wziwko.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672860/abstract_10_q4_opt_sgsmcn.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 0,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το τετράγωνο αυξάνεται ομοιόμορφα σε μέγεθος κάθε βήμα. (2) Ο κύκλος μετακινείται μεταξύ του κέντρου και μιας διαγώνιας γωνίας, επιστρέφοντας στο κέντρο κάθε δύο βήματα. (3) Όταν ο κύκλος είναι στο κέντρο είναι απλός λευκός· όταν στη γωνία έχει διαγώνιες ρίγες. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή A."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672862/abstract_10_q5_ref_wq0nti.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672861/abstract_10_q5_opt_hhfwnw.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Three rules apply: (1) The arrow rotates 90° clockwise each step. (2) The number of dots follows the sequence: 1, 2, 3, 4, 5. (3) If the arrow points vertically (up/down), it is black; if horizontally (left/right), it is white. The 6th frame must match option D."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672862/abstract_10_q5_ref_wq0nti.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672861/abstract_10_q5_opt_hhfwnw.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το βέλος περιστρέφεται 90° δεξιόστροφα κάθε βήμα. (2) Ο αριθμός κουκκίδων ακολουθεί τη σειρά: 1, 2, 3, 4, 5. (3) Αν το βέλος δείχνει κάθετα (πάνω/κάτω) είναι μαύρο· αν οριζόντια (αριστερά/δεξιά) είναι λευκό. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή D."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672864/abstract_10_q6_ref_fpg3mf.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672863/abstract_10_q6_opt_zpxe8x.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Three rules apply: (1) The hexagon rotates 72° clockwise each step. (2) The small circle orbits the center by 45° clockwise. (3) When the circle is in the top half of the frame, it is black; when in the bottom half, it is white. The 6th frame must match option D."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672864/abstract_10_q6_ref_fpg3mf.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672863/abstract_10_q6_opt_zpxe8x.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 72° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 45° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή D."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672866/abstract_10_q7_ref_e7cru5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672864/abstract_10_q7_opt_obp7pk.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Three rules apply: (1) The hexagon rotates 45° clockwise each step. (2) The small circle orbits the center by 45° clockwise. (3) When the circle is in the top half of the frame, it is black; when in the bottom half, it is white. The 6th frame must match option C."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672866/abstract_10_q7_ref_e7cru5.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672864/abstract_10_q7_opt_obp7pk.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 2,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 45° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 45° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή C."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672867/abstract_10_q8_ref_q6610m.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672866/abstract_10_q8_opt_r1nqmj.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 0,
+        "explanation": "Three rules apply: (1) The hexagon rotates 72° clockwise each step. (2) The small circle orbits the center by 60° clockwise. (3) When the circle is in the top half of the frame, it is black; when in the bottom half, it is white. The 6th frame must match option A."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672867/abstract_10_q8_ref_q6610m.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672866/abstract_10_q8_opt_r1nqmj.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 0,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 72° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 60° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή A."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672868/abstract_10_q9_ref_c4fnrf.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672868/abstract_10_q9_opt_cagpty.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Three rules apply: (1) The arrow rotates 90° clockwise each step. (2) The number of dots follows the sequence: 2, 3, 4, 5, 1. (3) If the arrow points vertically (up/down), it is black; if horizontally (left/right), it is white. The 6th frame must match option D."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672868/abstract_10_q9_ref_c4fnrf.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672868/abstract_10_q9_opt_cagpty.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το βέλος περιστρέφεται 90° δεξιόστροφα κάθε βήμα. (2) Ο αριθμός κουκκίδων ακολουθεί τη σειρά: 2, 3, 4, 5, 1. (3) Αν το βέλος δείχνει κάθετα (πάνω/κάτω) είναι μαύρο· αν οριζόντια (αριστερά/δεξιά) είναι λευκό. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή D."
+      }
+    },
+    {
+      "en": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672870/abstract_10_q10_ref_ilnulc.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672869/abstract_10_q10_opt_t3j5qn.png",
+        "question": "Which figure logically completes the series?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Three rules apply: (1) The hexagon rotates 45° clockwise each step. (2) The small circle orbits the center by 45° clockwise. (3) When the circle is in the top half of the frame, it is black; when in the bottom half, it is white. The 6th frame must match option D."
+      },
+      "el": {
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672870/abstract_10_q10_ref_ilnulc.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787672869/abstract_10_q10_opt_t3j5qn.png",
+        "question": "Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": 3,
+        "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 45° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 45° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή D."
+      }
+    }
   ]
 }
-
