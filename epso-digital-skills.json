@@ -4174,5 +4174,970 @@
         "explanation": "Πολλά σφάλματα φορμών συμβαίνουν επειδή μια κρυφή ή συμπτυγμένη ενότητα εξακολουθεί να περιέχει ελλιπές πεδίο, ή επειδή η μορφή ενός πεδίου (π.χ. ημερομηνία) δεν ταιριάζει με την αναμενόμενη. Ο προσεκτικός έλεγχος αυτών είναι συνήθως πιο γρήγορος και αποτελεσματικός από την επανεκκίνηση ή την τυφλή επανυποβολή."
       }
     }
+  ],
+"ds_9": [
+    {
+      "en": {
+        "question": "1. A policy officer must verify a statistical claim circulating on social media regarding EU migration flows. According to DigComp 2.2 competence 1.3 (Managing information), which approach best demonstrates advanced information literacy?",
+        "options": [
+          "Accepting the claim if it is shared by accounts with large follower counts",
+          "Cross-referencing the data with Eurostat's official migration database and assessing the original methodology",
+          "Relying solely on media reports that cite the same secondary source",
+          "Disregarding the claim because it originated on social media platforms"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.3 emphasises the ability to organise, store, and retrieve information while critically evaluating its reliability and distinguishing primary from secondary sources."
+      },
+      "el": {
+        "question": "1. Ένας υπάλληλος πολιτικής πρέπει να επαληθεύσει έναν στατιστικό ισχυρισμό που κυκλοφορεί στα μέσα κοινωνικής δικτύωσης σχετικά με τις ροές μετανάστευσης της ΕΕ. Σύμφωνα με την ικανότητα 1.3 του DigComp 2.2 (Διαχείριση πληροφοριών), ποια προσέγγιση επιδεικνύει καλύτερα προχωρημένη πληροφοριακή παιδεία;",
+        "options": [
+          "Αποδοχή του ισχυρισμού εάν διαμοιράζεται από λογαριασμούς με μεγάλο αριθμό ακολούθων",
+          "Διασταύρωση των δεδομένων με την επίσημη βάση δεδομένων μετανάστευσης της Eurostat και αξιολόγηση της αρχικής μεθοδολογίας",
+          "Αποκλειστική βάση σε δημοσιογραφικές αναφορές που επικαλούνται την ίδια δευτερογενή πηγή",
+          "Απόρριψη του ισχυρισμού επειδή προέρχεται από πλατφόρμες κοινωνικής δικτύωσης"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.3 του DigComp 2.2 τονίζει την ικανότητα οργάνωσης, αποθήκευσης και ανάκτησης πληροφοριών με κριτική αξιολόγηση της αξιοπιστίας τους και διάκριση πρωτογενών από δευτερογενείς πηγές."
+      }
+    },
+    {
+      "en": {
+        "question": "2. An EU official manages multiple professional profiles across LinkedIn, X, and an institutional blog. Under DigComp 2.2 competence 2.6 (Managing digital identity), which practice most effectively safeguards their professional reputation?",
+        "options": [
+          "Using identical content across all platforms to ensure consistent visibility",
+          "Tailoring content to each platform's audience while maintaining coherent professional values and privacy boundaries",
+          "Keeping all profiles completely private to prevent any public scrutiny",
+          "Allowing a colleague to manage all profiles without personal oversight"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.6 focuses on creating and managing one or multiple digital identities while protecting personal reputation and being aware of how digital traces are exploited."
+      },
+      "el": {
+        "question": "2. Ένας υπάλληλος της ΕΕ διαχειρίζεται πολλαπλά επαγγελματικά προφίλ σε LinkedIn, X και ένα θεσμικό ιστολόγιο. Σύμφωνα με την ικανότητα 2.6 του DigComp 2.2 (Διαχείριση ψηφιακής ταυτότητας), ποια πρακτική προστατεύει πιο αποτελεσματικά την επαγγελματική του φήμη;",
+        "options": [
+          "Χρήση πανομοιότυπου περιεχομένου σε όλες τις πλατφόρμες για διασφάλιση συνεπούς ορατότητας",
+          "Προσαρμογή περιεχομένου στο κοινό κάθε πλατφόρμας διατηρώντας συνεκτικές επαγγελματικές αξίες και όρια απορρήτου",
+          "Διατήρηση όλων των προφίλ πλήρως ιδιωτικών για αποφυγή δημόσιας εξέτασης",
+          "Επιτρέποντας σε συνάδελφο να διαχειρίζεται όλα τα προφίλ χωρίς προσωπική εποπτεία"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.6 του DigComp 2.2 εστιάζει στη δημιουργία και διαχείριση μίας ή πολλαπλών ψηφιακών ταυτοτήτων διασφαλίζοντας την προσωπική φήμη και την επίγνωση του τρόπου εκμετάλλευσης των ψηφιακών ίχνών."
+      }
+    },
+    {
+      "en": {
+        "question": "3. A team prepares an EU publication incorporating images sourced from the internet. Under DigComp 2.2 competence 3.4 (Programming), which action best reflects understanding of digital rights management within content creation workflows?",
+        "options": [
+          "Using any image found through search engines as long as the source URL is cited",
+          "Verifying Creative Commons licences or seeking explicit permission, then attributing according to licence terms",
+          "Assuming all government-related images are automatically in the public domain",
+          "Removing metadata from images to avoid copyright detection"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.4 (under Area 3: Digital content creation) encompasses understanding copyright, licences, and attribution requirements when reusing or modifying digital content."
+      },
+      "el": {
+        "question": "3. Μια ομάδα προετοιμάζει μια δημοσίευση της ΕΕ ενσωματώνοντας εικόνες από το διαδίκτυο. Σύμφωνα με την ικανότητα 3.4 του DigComp 2.2 (Προγραμματισμός), ποια ενέργεια αντανακλά καλύτερα την κατανόηση της διαχείρισης ψηφιακών δικαιωμάτων σε ροές εργασίας δημιουργίας περιεχομένου;",
+        "options": [
+          "Χρήση οιασδήποτε εικόνας βρεθεί μέσω μηχανών αναζήτησης αρκεί να αναφέρεται το URL πηγής",
+          "Επαλήθευση αδειών Creative Commons ή αναζήτηση ρητής άδειας, με απόδοση πατρότητας σύμφωνα με τους όρους της άδειας",
+          "Υπόθεση ότι όλες οι κυβερνητικές εικόνες είναι αυτομάτως δημόσιου κτήματος",
+          "Αφαίρεση μεταδεδομένων από εικόνες για αποφυγή ανίχνευσης πνευματικών δικαιωμάτων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.4 του DigComp 2.2 (στον Τομέα 3: Ψηφιακή δημιουργία περιεχομένου) περιλαμβάνει την κατανόηση πνευματικών δικαιωμάτων, αδειών και απαιτήσεων απόδοσης κατά την επαναχρησιμοποίηση ή τροποποίηση ψηφιακού περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "question": "4. An EU staff member receives an email purportedly from the IT helpdesk requesting immediate password verification due to a 'security breach.' Under DigComp 2.2 competence 4.1 (Protecting devices), which response demonstrates the highest level of digital safety competence?",
+        "options": [
+          "Clicking the link immediately to prevent account suspension",
+          "Forwarding the email to colleagues to warn them about the potential breach",
+          "Verifying the sender's authenticity through a separate trusted channel before taking any action",
+          "Replying to the email with personal credentials to demonstrate compliance"
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 competence 4.1 requires understanding how to protect devices and digital content from threats, including recognising phishing attempts and verifying communications through trusted channels."
+      },
+      "el": {
+        "question": "4. Ένα μέλος προσωπικού της ΕΕ λαμβάνει email που υποτίθεται ότι προέρχεται από την Υπηρεσία Υποστήριξης Πληροφορικής ζητώντας άμεση επαλήθευση κωδικού πρόσβασης λόγω «παραβίασης ασφαλείας». Σύμφωνα με την ικανότητα 4.1 του DigComp 2.2 (Προστασία συσκευών), ποια απάντηση επιδεικνύει το υψηλότερο επίπεδο ψηφιακής επάρκειας ασφαλείας;",
+        "options": [
+          "Κλικ στον σύνδεσμο αμέσως για αποφυγή αναστολής λογαριασμού",
+          "Προώθηση του email σε συναδέλφους για προειδοποίηση σχετικά με την πιθανή παραβίαση",
+          "Επαλήθευση της γνησιότητας του αποστολέα μέσω ξεχωριστού αξιόπιστου καναλιού πριν από οιαδήποτε ενέργεια",
+          "Απάντηση στο email με προσωπικά διαπιστευτήρια για επίδειξη συμμόρφωσης"
+        ],
+        "answer": 2,
+        "explanation": "Η ικανότητα 4.1 του DigComp 2.2 απαιτεί κατανόηση της προστασίας συσκευών και ψηφιακού περιεχομένου από απειλές, συμπεριλαμβανομένης της αναγνώρισης απόπειρες phishing και της επαλήθευσης επικοινωνιών μέσω αξιόπιστων καναλιών."
+      }
+    },
+    {
+      "en": {
+        "question": "5. A user's institutional VPN connection fails after a system update. Under DigComp 2.2 competence 5.2 (Identifying needs and technological responses), which sequence best demonstrates structured problem-solving?",
+        "options": [
+          "Immediately reinstalling the operating system without investigating the cause",
+          "Checking VPN client compatibility, reviewing update logs, testing alternative protocols, then escalating if unresolved",
+          "Waiting indefinitely for the IT department to notice the issue",
+          "Disabling all security features to force the VPN to connect"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.2 involves identifying technical problems and selecting appropriate digital tools to address them, following a systematic diagnostic process before escalation."
+      },
+      "el": {
+        "question": "5. Η σύνδεση VPN ενός χρήστη σε θεσμικό δίκτυο αποτυγχάνει μετά από ενημέρωση συστήματος. Σύμφωνα με την ικανότητα 5.2 του DigComp 2.2 (Προσδιορισμός αναγκών και τεχνολογικών απαντήσεων), ποια ακολουθία επιδεικνύει καλύτερα δομημένη επίλυση προβλημάτων;",
+        "options": [
+          "Άμεση επανεγκατάσταση του λειτουργικού συστήματος χωρίς διερεύνηση της αιτίας",
+          "Έλεγχος συμβατότητας VPN client, επισκόπηση αρχείων καταγραφής ενημέρωσης, δοκιμή εναλλακτικών πρωτοκόλλων, και κλιμάκωση εάν δεν επιλυθεί",
+          "Αόριστη αναμονή για να αντιληφθεί το τμήμα Πληροφορικής το πρόβλημα",
+          "Απενεργοποίηση όλων των χαρακτηριστικών ασφαλείας για εξαναγκασμό σύνδεσης VPN"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.2 του DigComp 2.2 περιλαμβάνει τον εντοπισμό τεχνικών προβλημάτων και την επιλογή κατάλληλων ψηφιακών εργαλείων για την αντιμετώπισή τους, ακολουθώντας συστηματική διαγνωστική διαδικασία πριν από την κλιμάκωση."
+      }
+    },
+    {
+      "en": {
+        "question": "6. A researcher needs to locate Commission legislative proposals from 2019-2021 specifically concerning digital taxation, excluding press releases. Under DigComp 2.2 competence 1.2 (Evaluating data, information and digital content), which search strategy demonstrates advanced evaluation skills?",
+        "options": [
+          "Typing 'digital taxation EU' into a general search engine and reviewing the first three results",
+          "Using EUR-Lex advanced search with document type filters, date ranges, and subject matter codes while excluding press material categories",
+          "Searching social media hashtags for #digitaltax to identify trending policy discussions",
+          "Downloading all PDFs from the Commission homepage and manually scanning each document"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.2 requires critically evaluating data and information by selecting appropriate search strategies, filtering results, and assessing relevance using advanced search functionalities."
+      },
+      "el": {
+        "question": "6. Ένας ερευνητής πρέπει να εντοπίσει νομοθετικές προτάσεις της Επιτροπής από το 2019-2021 που αφορούν συγκεκριμένα την ψηφιακή φορολογία, εξαιρώντας δελτία τύπου. Σύμφωνα με την ικανότητα 1.2 του DigComp 2.2 (Αξιολόγηση δεδομένων, πληροφοριών και ψηφιακού περιεχομένου), ποια στρατηγική αναζήτησης επιδεικνύει προχωρημένες δεξιότητες αξιολόγησης;",
+        "options": [
+          "Πληκτρολόγηση 'digital taxation EU' σε γενική μηχανή αναζήτησης και επισκόπηση των τριών πρώτων αποτελεσμάτων",
+          "Χρήση προηγμένης αναζήτησης EUR-Lex με φίλτρα τύπου εγγράφου, εύρη ημερομηνιών και κωδικούς θεματικής ύλης εξαιρώντας κατηγορίες υλικού τύπου",
+          "Αναζήτηση hashtags στα μέσα κοινωνικής δικτύωσης για #digitaltax για εντοπισμό τάσεων πολιτικών συζητήσεων",
+          "Λήψη όλων των PDF από την αρχική σελίδα της Επιτροπής και χειροκίνητη σάρωση κάθε εγγράφου"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.2 του DigComp 2.2 απαιτεί κριτική αξιολόγηση δεδομένων και πληροφοριών μέσω επιλογής κατάλληλων στρατηγικών αναζήτησης, φιλτραρίσματος αποτελεσμάτων και αξιολόγησης της συνάφειας με χρήση προηγμένων λειτουργιών αναζήτησης."
+      }
+    },
+    {
+      "en": {
+        "question": "7. A distributed EU project team must co-author a sensitive policy document requiring version control, comment tracking, and granular access permissions. Under DigComp 2.2 competence 2.4 (Collaborating through digital technologies), which tool configuration best meets these requirements?",
+        "options": [
+          "Sharing the document via individual email attachments with sequential numbering",
+          "Using a cloud-based collaborative platform with track-changes, role-based permissions, and automated version history",
+          "Storing the document on a single local drive and allowing team members to edit during scheduled shifts",
+          "Publishing drafts on a public wiki to maximise transparency and external feedback"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.4 emphasises using collaborative tools effectively, including understanding features such as version control, access management, and synchronous or asynchronous collaboration."
+      },
+      "el": {
+        "question": "7. Μια κατανεμημένη ομάδα έργου της ΕΕ πρέπει να συντάξει από κοινού ένα ευαίσθητο έγγραφο πολιτικής απαιτώντας έλεγχο εκδόσεων, παρακολούθηση σχολίων και κοκκώδη δικαιώματα πρόσβασης. Σύμφωνα με την ικανότητα 2.4 του DigComp 2.2 (Συνεργασία μέσω ψηφιακών τεχνολογιών), ποια διαμόρφωση εργαλείου ανταποκρίνεται καλύτερα σε αυτές τις απαιτήσεις;",
+        "options": [
+          "Κοινή χρήση του εγγράφου μέσω μεμονωμένων συνημμένων email με διαδοχική αρίθμηση",
+          "Χρήση συνεργατικής πλατφόρμας cloud με track-changes, δικαιώματα βάσει ρόλων και αυτοματοποιημένο ιστορικό εκδόσεων",
+          "Αποθήκευση του εγγράφου σε μοναδικό τοπικό δίσκο και επεξεργασία από μέλη κατά προγραμματισμένες βάρδιες",
+          "Δημοσίευση προσχεδίων σε δημόσιο wiki για μεγιστοποίηση διαφάνειας και εξωτερικής ανατροφοδότησης"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.4 του DigComp 2.2 τονίζει την αποτελεσματική χρήση συνεργατικών εργαλείων, συμπεριλαμβανομένης της κατανόησης λειτουργιών όπως έλεγχος εκδόσεων, διαχείριση πρόσβασης και σύγχρονης ή ασύγχρονης συνεργασίας."
+      }
+    },
+    {
+      "en": {
+        "question": "8. An EU web publisher must ensure a new report meets WCAG 2.1 Level AA standards. Under DigComp 2.2 competence 3.3 (Creating and editing digital content), which practice is essential for compliance?",
+        "options": [
+          "Using exclusively high-resolution images without alternative text to maintain visual quality",
+          "Providing text alternatives for images, ensuring keyboard navigability, and maintaining sufficient colour contrast ratios",
+          "Designing the report as a scanned PDF image to preserve original formatting",
+          "Requiring users to download proprietary software to access the content"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.3 includes creating digital content while respecting accessibility standards, such as providing alternative text, keyboard navigation, and adequate contrast as required by WCAG guidelines."
+      },
+      "el": {
+        "question": "8. Ένας εκδότης ιστού της ΕΕ πρέπει να διασφαλίσει ότι μια νέα έκθεση πληροί τα πρότυπα WCAG 2.1 Επίπεδο AA. Σύμφωνα με την ικανότητα 3.3 του DigComp 2.2 (Δημιουργία και επεξεργασία ψηφιακού περιεχομένου), ποια πρακτική είναι ουσιώδης για συμμόρφωση;",
+        "options": [
+          "Χρήση αποκλειστικά εικόνων υψηλής ανάλυσης χωρίς εναλλακτικό κείμενο για διατήρηση οπτικής ποιότητας",
+          "Παροχή εναλλακτικών κειμένων για εικόνες, διασφάλιση πλοήγησης μέσω πληκτρολογίου και διατήρηση επαρκών αναλογιών χρωματικής αντίθεσης",
+          "Σχεδιασμός της έκθεσης ως σαρωμένη εικόνα PDF για διατήρηση αρχικής μορφοποίησης",
+          "Απαίτηση από χρήστες λήψης ιδιόκτητου λογισμικού για πρόσβαση στο περιεχόμενο"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.3 του DigComp 2.2 περιλαμβάνει τη δημιουργία ψηφιακού περιεχομένου με σεβασμό στα πρότυπα προσβασιμότητας, όπως παροχή εναλλακτικού κειμένου, πλοήγηση μέσω πληκτρολογίου και επαρκής αντίθεση όπως απαιτείται από τις οδηγίες WCAG."
+      }
+    },
+    {
+      "en": {
+        "question": "9. Under DigComp 2.2 competence 4.2 (Protecting personal data and privacy), which password management practice best aligns with institutional security policies for EU officials?",
+        "options": [
+          "Using the same complex password across all institutional and personal services for consistency",
+          "Employing a certified password manager to generate unique, randomised passphrases for each service with periodic rotation",
+          "Writing passwords in an unencrypted text file stored on the desktop for quick access",
+          "Sharing passwords with trusted colleagues to ensure continuity during absences"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.2 requires understanding how to protect personal data and privacy, including using strong authentication methods, password managers, and maintaining unique credentials across services."
+      },
+      "el": {
+        "question": "9. Σύμφωνα με την ικανότητα 4.2 του DigComp 2.2 (Προστασία προσωπικών δεδομένων και απορρήτου), ποια πρακτική διαχείρισης κωδικών πρόσβασης ευθυγραμμίζεται καλύτερα με θεσμικές πολιτικές ασφαλείας για υπαλλήλους της ΕΕ;",
+        "options": [
+          "Χρήση του ίδιου σύνθετου κωδικού πρόσβασης σε όλες τις θεσμικές και προσωπικές υπηρεσίες για συνέπεια",
+          "Χρήση πιστοποιημένου διαχειριστή κωδικών για παραγωγή μοναδικών, τυχαιοποιημένων συνθηματικών φράσεων για κάθε υπηρεσία με περιοδική ανανέωση",
+          "Καταγραφή κωδικών σε μη κρυπτογραφημένο αρχείο κειμένου αποθηκευμένο στην επιφάνεια εργασίας για γρήγορη πρόσβαση",
+          "Κοινή χρήση κωδικών με αξιόπιστους συναδέλφους για διασφάλιση συνέχειας κατά απουσίες"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.2 του DigComp 2.2 απαιτεί κατανόηση της προστασίας προσωπικών δεδομένων και απορρήτου, συμπεριλαμβανομένης της χρήσης ισχυρών μεθόδων πιστοποίησης, διαχειριστών κωδικών και διατήρησης μοναδικών διαπιστευτηρίων σε υπηρεσίες."
+      }
+    },
+    {
+      "en": {
+        "question": "10. A data officer must automate the extraction of structured data from hundreds of unstructured PDF reports. Under DigComp 2.2 competence 5.1 (Solving technical problems), which approach best demonstrates algorithmic and computational thinking?",
+        "options": [
+          "Manually copying data from each PDF into a spreadsheet over several weeks",
+          "Designing a scripted workflow using regular expressions and parsing libraries to systematically extract and validate data patterns",
+          "Asking an intern to read each report and summarise findings in narrative form",
+          "Printing all reports and using manual highlighting to identify relevant sections"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.1 involves solving technical problems through logical reasoning, including automating repetitive tasks using scripting, algorithms, and computational tools."
+      },
+      "el": {
+        "question": "10. Ένας υπάλληλος δεδομένων πρέπει να αυτοματοποιήσει την εξαγωγή δομημένων δεδομένων από εκατοντάδες μη δομημένες εκθέσεις PDF. Σύμφωνα με την ικανότητα 5.1 του DigComp 2.2 (Επίλυση τεχνικών προβλημάτων), ποια προσέγγιση επιδεικνύει καλύτερα αλγοριθμικό και υπολογιστικό συλλογισμό;",
+        "options": [
+          "Χειροκίνητη αντιγραφή δεδομένων από κάθε PDF σε υπολογιστικό φύλλο επί αρκετές εβδομάδες",
+          "Σχεδιασμός scripted ροής εργασίας με χρήση κανονικών εκφράσεων και βιβλιοθηκών ανάλυσης για συστηματική εξαγωγή και επικύρωση μοτίβων δεδομένων",
+          "Ανάθεση σε ασκούμενο ανάγνωσης κάθε έκθεσης και σύνοψης ευρημάτων σε αφηγηματική μορφή",
+          "Εκτύπωση όλων των εκθέσεων και χρήση χειροκίνητου επισημαντήρα για εντοπισμό σχετικών ενοτήτων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.1 του DigComp 2.2 περιλαμβάνει την επίλυση τεχνικών προβλημάτων μέσω λογικού συλλογισμού, συμπεριλαμβανομένης της αυτοματοποίησης επαναλαμβανόμενων εργασιών με scripting, αλγόριθμους και υπολογιστικά εργαλεία."
+      }
+    },
+    {
+      "en": {
+        "question": "11. A policy analyst encounters a chart claiming that EU renewable energy capacity has declined. Under DigComp 2.2 competence 1.1 (Browsing, searching and filtering data), which critical step should precede any policy recommendation?",
+        "options": [
+          "Immediately circulating the chart to stakeholders as evidence for policy change",
+          "Examining the data source, time period, measurement units, and whether the Y-axis starts at zero",
+          "Assuming the chart is accurate because it appears in a professionally designed report",
+          "Recreating the chart using the same software to verify its aesthetic quality"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.1 requires the ability to access, search for, and filter data while critically assessing the reliability, provenance, and presentation of information before use."
+      },
+      "el": {
+        "question": "11. Ένας αναλυτής πολιτικής συναντά ένα διάγραμμα που ισχυρίζεται ότι η ικανότητα ανανεώσιμης ενέργειας της ΕΕ έχει μειωθεί. Σύμφωνα με την ικανότητα 1.1 του DigComp 2.2 (Περιήγηση, αναζήτηση και φιλτράρισμα δεδομένων), ποιο κρίσιμο βήμα πρέπει να προηγηθεί οιασδήποτε σύστασης πολιτικής;",
+        "options": [
+          "Άμεση διακίνηση του διαγράμματος σε ενδιαφερόμενους φορείς ως απόδειξη αλλαγής πολιτικής",
+          "Εξέταση της πηγής δεδομένων, χρονικής περιόδου, μονάδων μέτρησης και του κατά πόσον ο άξονας Y ξεκινά από το μηδέν",
+          "Υπόθεση ότι το διάγραμμα είναι ακριβές επειδή εμφανίζεται σε επαγγελματικά σχεδιασμένη έκθεση",
+          "Αναδημιουργία του διαγράμματος με το ίδιο λογισμικό για επαλήθευση της αισθητικής του ποιότητας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.1 του DigComp 2.2 απαιτεί την ικανότητα πρόσβασης, αναζήτησης και φιλτραρίσματος δεδομένων με κριτική αξιολόγηση της αξιοπιστίας, προέλευσης και παρουσίασης των πληροφοριών πριν από τη χρήση."
+      }
+    },
+    {
+      "en": {
+        "question": "12. During a high-stakes videoconference with multiple EU institutions, a participant's connection becomes unstable. Under DigComp 2.2 competence 2.1 (Interacting through digital technologies), which response demonstrates appropriate digital communication etiquette?",
+        "options": [
+          "Continuing to speak despite severe audio distortion, assuming others will adapt",
+          "Politely notifying the chair, switching to audio-only or chat backup, and reviewing shared materials asynchronously",
+          "Leaving the meeting abruptly without explanation and rejoining under a different username",
+          "Asking all other participants to reduce their bandwidth to accommodate one connection"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.1 involves interacting appropriately through digital technologies, including managing technical disruptions gracefully, respecting communication protocols, and using alternative channels when necessary."
+      },
+      "el": {
+        "question": "12. Κατά τη διάρκεια τηλεδιάσκεψης υψηλών διακυβευμάτων με πολλαπλά θεσμικά όργανα της ΕΕ, η σύνδεση ενός συμμετέχοντος καθίσταται ασταθής. Σύμφωνα με την ικανότητα 2.1 του DigComp 2.2 (Αλληλεπίδραση μέσω ψηφιακών τεχνολογιών), ποια απάντηση επιδεικνύει κατάλληλη ψηφιακή εθιμοτυπία επικοινωνίας;",
+        "options": [
+          "Συνέχιση ομιλίας παρά σοβαρή παραμόρφωση ήχου, υποθέτοντας ότι οι άλλοι θα προσαρμοστούν",
+          "Ευγενική ειδοποίηση του προέδρου, μετάβαση σε εφεδρικό ήχο ή συνομιλία, και ασύγχρονη επισκόπηση κοινόχρηστων υλικών",
+          "Απότομη αποχώρηση από τη συνεδρίαση χωρίς εξήγηση και επανασύνδεση με διαφορετικό όνομα χρήστη",
+          "Αίτημα σε όλους τους άλλους συμμετέχοντες να μειώσουν το εύρος ζώνης τους για προσαρμογή σε μία σύνδεση"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.1 του DigComp 2.2 περιλαμβάνει την κατάλληλη αλληλεπίδραση μέσω ψηφιακών τεχνολογιών, συμπεριλαμβανομένης της κομψής διαχείρισης τεχνικών διακοπών, του σεβασμού πρωτοκόλλων επικοινωνίας και της χρήσης εναλλακτικών καναλιών όταν απαιτείται."
+      }
+    },
+    {
+      "en": {
+        "question": "13. An EU archivist must preserve a policy document for twenty-five years ensuring format longevity, accessibility, and authenticity. Under DigComp 2.2 competence 3.2 (Sharing through digital technologies), which file strategy best addresses these requirements?",
+        "options": [
+          "Saving the document in the latest proprietary word processor format to ensure feature richness",
+          "Archiving in PDF/A-1a with embedded fonts, metadata, and digital signatures while maintaining an XML source",
+          "Storing only a printed hard copy to guarantee physical permanence",
+          "Compressing the file into a password-protected RAR archive to prevent unauthorised modifications"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.2 includes understanding appropriate formats, metadata, and preservation standards for sharing and storing digital content long-term, including open standards like PDF/A."
+      },
+      "el": {
+        "question": "13. Ένας αρχειονόμος της ΕΕ πρέπει να διατηρήσει ένα έγγραφο πολιτικής για είκοσι πέντε χρόνια διασφαλίζοντας μακροβιότητα μορφής, προσβασιμότητα και γνησιότητα. Σύμφωνα με την ικανότητα 3.2 του DigComp 2.2 (Διαμοιρασμός μέσω ψηφιακών τεχνολογιών), ποια στρατηγική αρχείου ανταποκρίνεται καλύτερα σε αυτές τις απαιτήσεις;",
+        "options": [
+          "Αποθήκευση του εγγράφου στην πιο πρόσφατη ιδιόκτητη μορφή επεξεργαστή κειμένου για πλούτο χαρακτηριστικών",
+          "Αρχειοθέτηση σε PDF/A-1a με ενσωματωμένες γραμματοσειρές, μεταδεδομένα και ψηφιακές υπογραφές διατηρώντας πηγή XML",
+          "Αποθήκευση μόνο εκτυπωμένου έγχαρτου αντιγράφου για εγγύηση φυσικής μονιμότητας",
+          "Συμπίεση του αρχείου σε κρυπτογραφημένο αρχείο RAR για αποτροπή μη εξουσιοδοτημένων τροποποιήσεων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.2 του DigComp 2.2 περιλαμβάνει την κατανόηση κατάλληλων μορφών, μεταδεδομένων και προτύπων διατήρησης για διαμοιρασμό και αποθήκευση ψηφιακού περιεχομένου μακροπρόθεσμα, συμπεριλαμβανομένων ανοιχτών προτύπων όπως το PDF/A."
+      }
+    },
+    {
+      "en": {
+        "question": "14. Under DigComp 2.2 competence 4.3 (Protecting health and well-being), which backup architecture best protects an EU department's critical datasets against ransomware, hardware failure, and human error?",
+        "options": [
+          "A single daily backup to an external hard drive kept permanently connected to the network",
+          "A 3-2-1 strategy with three copies on two different media types, one offsite and offline, with periodic restoration testing",
+          "Relying solely on cloud sync services without local copies or version history",
+          "Emailing important files to personal accounts as an informal backup method"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.3 encompasses protecting digital assets through robust backup strategies, including the 3-2-1 rule, offline storage, and regular restoration verification."
+      },
+      "el": {
+        "question": "14. Σύμφωνα με την ικανότητα 4.3 του DigComp 2.2 (Προστασία υγείας και ευημερίας), ποια αρχιτεκτονική αντιγράφων ασφαλείας προστατεύει καλύτερα τα κρίσιμα σύνολα δεδομένων ενός τμήματος της ΕΕ έναντι ransomware, βλάβης υλικού και ανθρώπινου σφάλματος;",
+        "options": [
+          "Ένα μοναδικό ημερήσιο αντίγραφο σε εξωτερικό σκληρό δίσκο που διατηρείται μόνιμα συνδεδεμένος στο δίκτυο",
+          "Στρατηγική 3-2-1 με τρία αντίγραφα σε δύο διαφορετικούς τύπους μέσων, ένα εκτός τόπου και offline, με περιοδική δοκιμή αποκατάστασης",
+          "Αποκλειστική βάση σε υπηρεσίες συγχρονισμού cloud χωρίς τοπικά αντίγραφα ή ιστορικό εκδόσεων",
+          "Αποστολή σημαντικών αρχείων σε προσωπικούς λογαριασμούς email ωης ανεπίσημη μέθοδος αντιγράφων ασφαλείας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.3 του DigComp 2.2 περιλαμβάνει την προστασία ψηφιακών περιουσιακών στοιχείων μέσω ισχυρών στρατηγικών αντιγράφων ασφαλείας, συμπεριλαμβανομένου του κανόνα 3-2-1, offline αποθήκευσης και τακτικής επαλήθευσης αποκατάστασης."
+      }
+    },
+    {
+      "en": {
+        "question": "15. An EU unit must analyse sentiment trends across twelve languages from social media during a policy consultation. Under DigComp 2.2 competence 5.3 (Creatively using digital technologies), which approach best demonstrates creative and appropriate tool selection?",
+        "options": [
+          "Hiring twelve native speakers to manually read and classify all posts independently",
+          "Deploying a multilingual natural language processing pipeline with validation against human-annotated samples for bias detection",
+          "Using a monolingual English sentiment tool and translating all posts through generic software",
+          "Ignoring social media data and relying exclusively on traditional survey responses"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.3 involves creatively using digital technologies to address complex needs, including selecting advanced analytical tools, validating outputs, and recognising linguistic and cultural biases."
+      },
+      "el": {
+        "question": "15. Μια μονάδα της ΕΕ πρέπει να αναλύσει τάσεις συναισθήματος σε δώδεκα γλώσσες από μέσα κοινωνικής δικτύωσης κατά τη διάρκεια διαβούλευσης πολιτικής. Σύμφωνα με την ικανότητα 5.3 του DigComp 2.2 (Δημιουργική χρήση ψηφιακών τεχνολογιών), ποια προσέγγιση επιδεικνύει καλύτερα δημιουργική και κατάλληλη επιλογή εργαλείου;",
+        "options": [
+          "Πρόσληψη δώδεκα φυσικών ομιλητών για χειροκίνητη ανάγνωση και ταξινόμηση όλων των αναρτήσεων ανεξάρτητα",
+          "Ανάπτυξη πολυγλωσσικής ροής επεξεργασίας φυσικής γλώσσας με επικύρωση έναντι ανθρώπινα σχολιασμένων δειγμάτων για ανίχνευση προκατάληψης",
+          "Χρήση μονογλωσσικού αγγλικού εργαλείου συναισθήματος και μετάφραση όλων των αναρτήσεων μέσω γενικού λογισμικού",
+          "Αγνόηση δεδομένων κοινωνικής δικτύωσης και αποκλειστική βάση σε παραδοσιακές απαντήσεις έρευνας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.3 του DigComp 2.2 περιλαμβάνει τη δημιουργική χρήση ψηφιακών τεχνολογιών για την αντιμετώπιση σύνθετων αναγκών, συμπεριλαμβανομένης της επιλογής προηγμένων αναλυτικών εργαλείων, επικύρωσης αποτελεσμάτων και αναγνώρισης γλωσσικών και πολιτισμικών προκαταλήψεων."
+      }
+    },
+    {
+      "en": {
+        "question": "16. A viral article alleges imminent changes to EU staff regulations based on an 'internal leak.' Under DigComp 2.2 competence 1.4 (Managing data, information and digital content), which action best demonstrates responsible information management?",
+        "options": [
+          "Sharing the article immediately to alert colleagues about potential changes",
+          "Verifying the claim through official staff committee channels, checking publication dates, and assessing the original source's credibility before dissemination",
+          "Ignoring the article completely because all online content is inherently unreliable",
+          "Modifying the article's headline to make it more alarming and increase engagement"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.4 requires managing data and information responsibly, including verifying sources, assessing credibility, and avoiding the spread of unverified or misleading content."
+      },
+      "el": {
+        "question": "16. Ένα άρθρο που έχει γίνει viral ισχυρίζεται επικείμενες αλλαγές στον Κανονισμό Υπαλλήλων της ΕΕ βάσει «εσωτερικής διαρροής». Σύμφωνα με την ικανότητα 1.4 του DigComp 2.2 (Διαχείριση δεδομένων, πληροφοριών και ψηφιακού περιεχομένου), ποια ενέργεια επιδεικνύει καλύτερα υπεύθυνη διαχείριση πληροφοριών;",
+        "options": [
+          "Άμεσος διαμοιρασμός του άρθρου για προειδοποίηση συναδέλφων σχετικά με πιθανές αλλαγές",
+          "Επαλήθευση του ισχυρισμού μέσω επίσημων καναλιών επιτροπής προσωπικού, έλεγχος ημερομηνιών δημοσίευσης και αξιολόγηση αξιοπιστίας της αρχικής πηγής πριν από τη διάδοση",
+          "Πλήρης αγνόηση του άρθρου επειδή όλο το διαδικτυακό περιεχόμενο είναι εκ φύσεως αναξιόπιστο",
+          "Τροποποίηση της επικεφαλίδας του άρθρου για να γίνει πιο ανησυχητική και αύξηση της αφοσίωσης"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.4 του DigComp 2.2 απαιτεί υπεύθυνη διαχείριση δεδομένων και πληροφοριών, συμπεριλαμβανομένης της επαλήθευσης πηγών, αξιολόγησης αξιοπιστίας και αποφυγής διάδοσης μη επαληθευμένου ή παραπλανητικού περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "question": "17. An EU trainee observes discriminatory language in an internal collaboration platform. Under DigComp 2.2 competence 2.5 (Participating in society through digital technologies), which response best demonstrates active digital citizenship?",
+        "options": [
+          "Ignoring the content to avoid personal conflict with colleagues",
+          "Reporting the content through established institutional channels and contributing to constructive community guidelines discussions",
+          "Screenshotting and sharing the content publicly on external social media to shame the author",
+          "Responding with equally inflammatory language to balance the discourse"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.5 involves participating in digital society responsibly, including reporting inappropriate content, respecting community standards, and contributing to positive online environments."
+      },
+      "el": {
+        "question": "17. Ένας ασκούμενος της ΕΕ παρατηρεί διακριτική γλώσσα σε εσωτερική πλατφόρμα συνεργασίας. Σύμφωνα με την ικανότητα 2.5 του DigComp 2.2 (Συμμετοχή στην κοινωνία μέσω ψηφιακών τεχνολογιών), ποια απάντηση επιδεικνύει καλύτερα ενεργό ψηφιακή ιδιότητα του πολίτη;",
+        "options": [
+          "Αγνόηση του περιεχομένου για αποφυγή προσωπικής σύγκρουσης με συναδέλφους",
+          "Αναφορά του περιεχομένου μέσω καθιερωμένων θεσμικών καναλιών και συνεισφορά σε εποικοδομητικές συζητήσεις κατευθυντήριων γραμμών κοινότητας",
+          "Στιγμιότυπο και δημόσιος διαμοιρασμός του περιεχομένου σε εξωτερικά μέσα κοινωνικής δικτύωσης για διαπόμπευση του συγγραφέα",
+          "Απάντηση με εξίσου υποκινητική γλώσσα για εξισορρόπηση του λόγου"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.5 του DigComp 2.2 περιλαμβάνει την υπεύθυνη συμμετοχή στην ψηφιακή κοινωνία, συμπεριλαμβανομένης της αναφοράς ακατάλληλου περιεχομένου, του σεβασμού προτύπων κοινότητας και της συνεισφοράς σε θετικά διαδικτυακά περιβάλλοντα."
+      }
+    },
+    {
+      "en": {
+        "question": "18. A user needs to transform a monthly spreadsheet of expenditure data into an automated dashboard that updates when new rows are added. Under DigComp 2.2 competence 3.1 (Developing digital content), which skill level best describes this task?",
+        "options": [
+          "Basic: manually recreating charts each month from copied data",
+          "Intermediate: using spreadsheet formulas and pivot tables with manual refresh",
+          "Advanced: implementing structured queries, dynamic named ranges, and API connections for automated data ingestion",
+          "Non-digital: outsourcing the task entirely to an external design agency"
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 competence 3.1 at advanced levels involves developing sophisticated digital content through programming, automation, API integration, and dynamic data handling beyond static manual processes."
+      },
+      "el": {
+        "question": "18. Ένας χρήστης πρέπει να μετατρέψει ένα μηνιαίο υπολογιστικό φύλλο δεδομένων δαπανών σε αυτοματοποιημένο πίνακα ελέγχου που ενημερώνεται όταν προστίθενται νέες γραμμές. Σύμφωνα με την ικανότητα 3.1 του DigComp 2.2 (Ανάπτυξη ψηφιακού περιεχομένου), ποιο επίπεδο δεξιοτήτων περιγράφει καλύτερα αυτή την εργασία;",
+        "options": [
+          "Βασικό: χειροκίνητη αναδημιουργία διαγραμμάτων κάθε μήνα από αντιγραμμένα δεδομένα",
+          "Μεσαίο: χρήση τύπων υπολογιστικών φύλλων και πινάκων περιστροφής με χειροκίνητη ανανέωση",
+          "Προχωρημένο: υλοποίηση δομημένων ερωτημάτων, δυναμικών ονομαστικών εύρων και συνδέσεων API για αυτοματοποιημένη εισαγωγή δεδομένων",
+          "Μη ψηφιακό: πλήρης εξωτερική ανάθεση της εργασίας σε εξωτερικό πρακτορείο σχεδιασμού"
+        ],
+        "answer": 2,
+        "explanation": "Η ικανότητα 3.1 του DigComp 2.2 σε προχωρημένα επίπεδα περιλαμβάνει την ανάπτυξη εξελιγμένου ψηφιακού περιεχομένου μέσω προγραμματισμού, αυτοματοποίησης, ενσωμάτωσης API και δυναμικής διαχείρισης δεδομένων πέραν στατικών χειροκίνητων διαδικασιών."
+      }
+    },
+    {
+      "en": {
+        "question": "19. Under DigComp 2.2 competence 4.4 (Protecting the environment), which practice best demonstrates awareness of the environmental impact of digital behaviours?",
+        "options": [
+          "Storing all files indefinitely in cloud services regardless of relevance to ensure nothing is lost",
+          "Regularly auditing digital storage, deleting redundant data, optimising file sizes, and selecting energy-efficient data centres",
+          "Printing all documents for physical backup to reduce server load",
+          "Sending large uncompressed video files via email to multiple recipients for convenience"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.4 involves understanding the environmental impact of digital technologies, including sustainable data management, energy consumption awareness, and responsible digital footprint reduction."
+      },
+      "el": {
+        "question": "19. Σύμφωνα με την ικανότητα 4.4 του DigComp 2.2 (Προστασία του περιβάλλοντος), ποια πρακτική επιδεικνύει καλύτερα επίγνωση του περιβαλλοντικού αντίκτυπου των ψηφιακών συμπεριφορών;",
+        "options": [
+          "Αποθήκευση όλων των αρχείων επ' αόριστον σε υπηρεσίες cloud ανεξαρτήτως συνάφειας για διασφάλιση μη απώλειας",
+          "Τακτικός έλεγχος ψηφιακής αποθήκευσης, διαγραφή πλεοναζόντων δεδομένων, βελτιστοποίηση μεγεθών αρχείων και επιλογή ενεργειακά αποδοτικών κέντρων δεδομένων",
+          "Εκτύπωση όλων των εγγράφων για φυσικό αντίγραφο ασφαλείας για μείωση φόρτου διακομιστών",
+          "Αποστολή μεγάλων μη συμπιεσμένων αρχείων βίντεο μέσω email σε πολλαπλούς παραλήπτες για ευκολία"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.4 του DigComp 2.2 περιλαμβάνει την κατανόηση του περιβαλλοντικού αντίκτυπου των ψηφιακών τεχνολογιών, συμπεριλαμβανομένης της βιώσιμης διαχείρισης δεδομένων, επίγνωσης κατανάλωσης ενέργειας και υπεύθυνης μείωσης του ψηφιακού αποτυπώματος."
+      }
+    },
+    {
+      "en": {
+        "question": "20. A team must match thousands of grant applications to appropriate evaluators based on expertise keywords, conflict-of-interest flags, and workload balance. Under DigComp 2.2 competence 5.4 (Identifying digital competence gaps), which solution best addresses the complexity while respecting data protection?",
+        "options": [
+          "Assigning applications alphabetically to evaluators regardless of expertise",
+          "Implementing a rule-based matching algorithm with anonymised data fields, audit trails, and GDPR-compliant access controls",
+          "Allowing evaluators to self-select applications based on personal interest",
+          "Processing all applications through an unvetted third-party AI service without data processing agreements"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.4 involves identifying gaps and needs for digital competence development, including selecting appropriate technological solutions that balance efficiency, accuracy, and regulatory compliance such as GDPR."
+      },
+      "el": {
+        "question": "20. Μια ομάδα πρέπει να αντιστοιχίσει χιλιάδες αιτήσεις επιχορήγησης σε κατάλληλους αξιολογητές βάσει λέξεων-κλειδιών εξειδίκευσης, δεικτών σύγκρουσης συμφερόντων και ισορροπίας φόρτου εργασίας. Σύμφωνα με την ικανότητα 5.4 του DigComp 2.2 (Προσδιορισμός κενών ψηφιακής επάρκειας), ποια λύση αντιμετωπίζει καλύτερα την πολυπλοκότητα διατηρώντας την προστασία δεδομένων;",
+        "options": [
+          "Ανάθεση αιτήσεων αλφαβητικά σε αξιολογητές ανεξαρτήτως εξειδίκευσης",
+          "Υλοποίηση αλγόριθμου αντιστοίχισης βάσει κανόνων με ανωνυμοποιημένα πεδία δεδομένων, ίχνη ελέγχου και ελέγχους πρόσβασης συμμορφούμενους με GDPR",
+          "Επιτρέποντας σε αξιολογητές να αυτοεπιλέγουν αιτήσεις βάσει προσωπικού ενδιαφέροντος",
+          "Επεξεργασία όλων των αιτήσεων μέσω μη ελεγμένης υπηρεσίας AI τρίτου μέρους χωρίς συμφωνίες επεξεργασίας δεδομένων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.4 του DigComp 2.2 περιλαμβάνει τον εντοπισμό κενών και αναγκών ανάπτυξης ψηφιακής επάρκειας, συμπεριλαμβανομένης της επιλογής κατάλληλων τεχνολογικών λύσεων που εξισορροπούν αποτελεσματικότητα, ακρίβεια και κανονιστική συμμόρφωση όπως το GDPR."
+      }
+    }
+  ],
+"ds_10": [
+    {
+      "en": {
+        "question": "1. A policy officer needs to locate all amendments proposed to the Digital Markets Act between March and June 2023, excluding press statements and opinion pieces. Which workflow demonstrates the most effective information retrieval strategy?",
+        "options": [
+          "Running a general web search for 'DMA amendments 2023' and reviewing the first page of results",
+          "Using EUR-Lex advanced search with document-type filters for legislative amendments, date-range constraints, and exclusion of press material categories",
+          "Searching social media hashtags for #DMA to identify trending policy discussions",
+          "Downloading all PDFs from the Commission's homepage and manually scanning each document"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.1 (Browsing, searching and filtering data) requires selecting appropriate search strategies, applying advanced filters, and distinguishing between primary legislative documents and secondary commentary."
+      },
+      "el": {
+        "question": "1. Ένας υπάλληλος πολιτικής πρέπει να εντοπίσει όλες τις τροπολογίες που προτάθηκαν στον Νόμο για τις Ψηφιακές Αγορές μεταξύ Μαρτίου και Ιουνίου 2023, εξαιρώντας δελτία τύπου και άρθρα γνώμης. Ποια ροή εργασίας επιδεικνύει τη στρατηγική ανάκτησης πληροφοριών;",
+        "options": [
+          "Εκτέλεση γενικής διαδικτυακής αναζήτησης για 'DMA amendments 2023' και επισκόπηση της πρώτης σελίδας αποτελεσμάτων",
+          "Χρήση προηγμένης αναζήτησης EUR-Lex με φίλτρα τύπου εγγράφου για νομοθετικές τροπολογίες, περιορισμούς εύρους ημερομηνιών και εξαίρεση κατηγοριών υλικού τύπου",
+          "Αναζήτηση hashtags στα μέσα κοινωνικής δικτύωσης για #DMA για εντοπισμό τάσεων πολιτικών συζητήσεων",
+          "Λήψη όλων των PDF από την αρχική σελίδα της Επιτροπής και χειροκίνητη σάρωση κάθε εγγράφου"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.1 του DigComp 2.2 (Περιήγηση, αναζήτηση και φιλτράρισμα δεδομένων) απαιτεί επιλογή κατάλληλων στρατηγικών αναζήτησης, εφαρμογή προηγμένων φίλτρων και διάκριση πρωτογενών νομοθετικών εγγράφων από δευτερογενή σχολιασμό."
+      }
+    },
+    {
+      "en": {
+        "question": "2. An EU official maintains professional profiles on LinkedIn, ResearchGate, and an institutional blog. They notice inconsistent messaging is diluting their professional credibility. What is the most effective approach to harmonise their digital presence?",
+        "options": [
+          "Posting identical content across all platforms to ensure uniform visibility",
+          "Adapting content to each platform's audience and norms while maintaining coherent professional values and clear privacy boundaries",
+          "Making all profiles completely private to prevent any public scrutiny",
+          "Delegating all profile management to a communications assistant without personal oversight"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.6 (Managing digital identity) emphasises creating and managing one or multiple digital identities, protecting personal reputation, and being aware of how digital traces are exploited."
+      },
+      "el": {
+        "question": "2. Ένας υπάλληλος της ΕΕ διατηρεί επαγγελματικά προφίλ σε LinkedIn, ResearchGate και ένα θεσμικό ιστολόγιο. Παρατηρεί ότι ασυνεπή μηνύματα αραιώνουν την επαγγελματική του αξιοπιστία. Ποια είναι η πλέον αποτελεσματική προσέγγιση για εναρμόνιση της ψηφιακής του παρουσίας;",
+        "options": [
+          "Δημοσίευση πανομοιότυπου περιεχομένου σε όλες τις πλατφόρμες για διασφάλιση ομοιόμορφης ορατότητας",
+          "Προσαρμογή περιεχομένου στο κοινό και τους κανόνες κάθε πλατφόρμας διατηρώντας συνεκτικές επαγγελματικές αξίες και σαφή όρια απορρήτου",
+          "Καθιστώντας όλα τα προφίλ πλήρως ιδιωτικά για αποφυγή δημόσιας εξέτασης",
+          "Ανάθεση όλης της διαχείρισης προφίλ σε βοηθό επικοινωνίας χωρίς προσωπική εποπτεία"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.6 του DigComp 2.2 (Διαχείριση ψηφιακής ταυτότητας) τονίζει τη δημιουργία και διαχείριση μίας ή πολλαπλών ψηφιακών ταυτοτήτων, την προστασία προσωπικής φήμης και την επίγνωση του τρόπου εκμετάλλευσης ψηφιακών ίχνών."
+      }
+    },
+    {
+      "en": {
+        "question": "3. A communications team is producing an EU report and wishes to include photographs found through an image search engine. Which practice best ensures legal and ethical compliance when reusing third-party visual content?",
+        "options": [
+          "Using any image as long as the source URL is cited in the report's bibliography",
+          "Verifying the licence status of each image, seeking explicit permission when necessary, and attributing according to the specific licence terms",
+          "Assuming all images depicting EU institutions are automatically in the public domain",
+          "Removing metadata from images to simplify the attribution process"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.4 (Programming) encompasses understanding copyright, licences, and attribution requirements when reusing or modifying digital content."
+      },
+      "el": {
+        "question": "3. Μια ομάδα επικοινωνίας παράγει μια έκθεση της ΕΕ και επιθυμεί να συμπεριλάβει φωτογραφίες που βρέθηκαν μέσω μηχανής αναζήτησης εικόνων. Ποια πρακτική διασφαλίζει καλύτερα τη νομική και ηθική συμμόρφωση κατά την επαναχρησιμοποίηση οπτικού περιεχομένου τρίτων;",
+        "options": [
+          "Χρήση οιασδήποτε εικόνας αρκεί να αναφέρεται το URL πηγής στη βιβλιογραφία της έκθεσης",
+          "Επαλήθευση της κατάστασης άδειας κάθε εικόνας, αναζήτηση ρητής άδειας όταν απαιτείται, και απόδοση πατρότητας σύμφωνα με τους ειδικούς όρους της άδειας",
+          "Υπόθεση ότι όλες οι εικόνες που απεικονίζουν θεσμικά όργανα της ΕΕ είναι αυτομάτως δημόσιου κτήματος",
+          "Αφαίρεση μεταδεδομένων από εικόνες για απλοποίηση της διαδικασίας απόδοσης πατρότητας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.4 του DigComp 2.2 (Προγραμματισμός) περιλαμβάνει την κατανόηση πνευματικών δικαιωμάτων, αδειών και απαιτήσεων απόδοσης κατά την επαναχρησιμοποίηση ή τροποποίηση ψηφιακού περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "question": "4. An EU staff member receives an urgent email requesting immediate password verification due to an alleged security breach. The email contains a link to a login page visually identical to the institutional portal. What is the most appropriate immediate response?",
+        "options": [
+          "Clicking the link immediately to prevent account suspension",
+          "Forwarding the email to the entire department to warn colleagues",
+          "Contacting the IT security team through a known, trusted channel to verify the legitimacy of the request before taking any action",
+          "Replying to the email with credentials to demonstrate compliance"
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 competence 4.1 (Protecting devices) requires understanding how to protect devices and digital content from threats, including recognising phishing attempts and verifying communications through trusted channels."
+      },
+      "el": {
+        "question": "4. Ένα μέλος προσωπικού της ΕΕ λαμβάνει επείγον email ζητώντας άμεση επαλήθευση κωδικού πρόσβασης λόγω υποτιθέμενης παραβίασης ασφαλείας. Το email περιέχει σύνδεσμο σε σελίδα σύνδεσης οπτικά πανομοιότυπη με το θεσμικό portal. Ποια είναι η πλέον κατάλληλη άμεση απάντηση;",
+        "options": [
+          "Κλικ στον σύνδεσμο αμέσως για αποφυγή αναστολής λογαριασμού",
+          "Προώθηση του email σε ολόκληρο το τμήμα για προειδοποίηση συναδέλφων",
+          "Επικοινωνία με την ομάδα ασφαλείας Πληροφορικής μέσω γνωστού, αξιόπιστου καναλιού για επαλήθευση της γνησιότητας του αιτήματος πριν από οιαδήποτε ενέργεια",
+          "Απάντηση στο email με διαπιστευτήρια για επίδειξη συμμόρφωσης"
+        ],
+        "answer": 2,
+        "explanation": "Η ικανότητα 4.1 του DigComp 2.2 (Προστασία συσκευών) απαιτεί κατανόηση της προστασίας συσκευών και ψηφιακού περιεχομένου από απειλές, συμπεριλαμβανομένης της αναγνώρισης απόπειρες phishing και της επαλήθευσης επικοινωνιών μέσω αξιόπιστων καναλιών."
+      }
+    },
+    {
+      "en": {
+        "question": "5. A user's institutional VPN connection fails consistently after a recent operating system update, displaying error code 809. Which sequence of actions best demonstrates a structured approach to resolving the technical issue?",
+        "options": [
+          "Immediately reinstalling the entire operating system to eliminate any corruption",
+          "Checking VPN client compatibility with the new OS version, reviewing system update logs for network driver changes, testing alternative VPN protocols, and escalating to IT support if the issue persists",
+          "Waiting for the IT department to proactively detect and resolve the issue without reporting it",
+          "Disabling the system firewall entirely to allow unrestricted VPN traffic"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.2 (Identifying needs and technological responses) involves identifying technical problems and selecting appropriate digital tools to address them, following a systematic diagnostic process before escalation."
+      },
+      "el": {
+        "question": "5. Η σύνδεση VPN ενός χρήστη σε θεσμικό δίκτυο αποτυγχάνει συστηματικά μετά από πρόσφατη ενημέρωση λειτουργικού συστήματος, εμφανίζοντας κωδικό σφάλματος 809. Ποια ακολουθία ενεργειών επιδεικνύει καλύτερα δομημένη προσέγγιση επίλυσης του τεχνικού προβλήματος;",
+        "options": [
+          "Άμεση επανεγκατάσταση ολόκληρου του λειτουργικού συστήματος για εξάλειψη οιασδήποτε διαφθοράς",
+          "Έλεγχος συμβατότητας VPN client με τη νέα έκδοση λειτουργικού, επισκόπηση αρχείων καταγραφής ενημέρωσης για αλλαγές οδηγών δικτύου, δοκιμή εναλλακτικών πρωτοκόλλων VPN και κλιμάκωση σε υποστήριξη Πληροφορικής εάν το πρόβλημα επιμένει",
+          "Αναμονή για την ομάδα Πληροφορικής να ανιχνεύσει και να επιλύσει το πρόβλημα χωρίς αναφορά",
+          "Πλήρης απενεργοποίηση του τείχους προστασίας συστήματος για απρόσκοπτη κυκλοφορία VPN"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.2 του DigComp 2.2 (Προσδιορισμός αναγκών και τεχνολογικών απαντήσεων) περιλαμβάνει τον εντοπισμό τεχνικών προβλημάτων και την επιλογή κατάλληλων ψηφιακών εργαλείων για την αντιμετώπισή τους, ακολουθώντας συστηματική διαγνωστική διαδικασία πριν από την κλιμάκωση."
+      }
+    },
+    {
+      "en": {
+        "question": "6. A policy analyst encounters a widely shared infographic claiming that EU unemployment has risen by forty percent in the past quarter. Before incorporating this into a briefing note, which critical verification step is most essential?",
+        "options": [
+          "Checking whether the infographic uses a professional colour scheme and modern design",
+          "Examining the underlying data source, the exact time period covered, the baseline used for percentage calculation, and whether the Y-axis starts from zero",
+          "Accepting the claim if it has been shared by a verified social media account",
+          "Recreating the same chart using default spreadsheet software to verify its visual appeal"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.2 (Evaluating data, information and digital content) requires critically assessing the reliability, provenance, and presentation of data before use, including checking data sources, methodologies, and visual representation integrity."
+      },
+      "el": {
+        "question": "6. Ένας αναλυτής πολιτικής συναντά ένα ευρέως διαμοιρασμένο infographic που ισχυρίζεται ότι η ανεργία στην ΕΕ αυξήθηκε κατά σαράντα τοις εκατό το τελευταίο τρίμηνο. Πριν την ενσωμάτωση σε σημείωμα ενημέρωσης, ποιο κρίσιμο βήμα επαλήθευσης είναι πλέον ουσιώδες;",
+        "options": [
+          "Έλεγχος αν το infographic χρησιμοποιεί επαγγελματική χρωματική παλέτα και σύγχρονο σχεδιασμό",
+          "Εξέταση της υποκείμενης πηγής δεδομένων, της ακριβούς χρονικής περιόδου, της βάσης υπολογισμού ποσοστών και του κατά πόσον ο άξονας Y ξεκινά από το μηδέν",
+          "Αποδοχή του ισχυρισμού εάν έχει διαμοιραστεί από επαληθευμένο λογαριασμό μέσων κοινωνικής δικτύωσης",
+          "Αναδημιουργία του ίδιου διαγράμματος με προεπιλεγμένο λογισμικό υπολογιστικών φύλλων για επαλήθευση της οπτικής του ελκυστικότητας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.2 του DigComp 2.2 (Αξιολόγηση δεδομένων, πληροφοριών και ψηφιακού περιεχομένου) απαιτεί κριτική αξιολόγηση της αξιοπιστίας, προέλευσης και παρουσίασης δεδομένων πριν από τη χρήση, συμπεριλαμβανομένου του ελέγχου πηγών, μεθοδολογιών και ακεραιότητας οπτικής αναπαράστασης."
+      }
+    },
+    {
+      "en": {
+        "question": "7. A geographically distributed EU working group must co-author a confidential green paper requiring simultaneous editing, granular access controls, and full audit trails of every modification. Which tool configuration best satisfies these operational requirements?",
+        "options": [
+          "Circulating successive drafts via individual email attachments with manual version numbering",
+          "Deploying a cloud-based collaborative platform with real-time editing, role-based permissions, automated version history, and comment threading",
+          "Storing the master document on a single local drive and allowing team members to edit during pre-assigned time slots",
+          "Publishing working drafts on a public-facing wiki to maximise transparency and external stakeholder input"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.4 (Collaborating through digital technologies) emphasises using collaborative tools effectively, including understanding features such as version control, access management, and synchronous or asynchronous collaboration."
+      },
+      "el": {
+        "question": "7. Μια γεωγραφικά κατανεμημένη ομάδα εργασίας της ΕΕ πρέπει να συντάξει από κοινού ένα εμπιστευτικό green paper απαιτώντας ταυτόχρονη επεξεργασία, κοκκώδη έλεγχο πρόσβασης και πλήρη ίχνη ελέγχου κάθε τροποποίησης. Ποια διαμόρφωση εργαλείου ανταποκρίνεται καλύτερα σε αυτές τις επιχειρησιακές απαιτήσεις;",
+        "options": [
+          "Διακίνηση διαδοχικών προσχεδίων μέσω μεμονωμένων συνημμένων email με χειροκίνητη αρίθμηση εκδόσεων",
+          "Ανάπτυξη συνεργατικής πλατφόρμας cloud με επεξεργασία πραγματικού χρόνου, δικαιώματα βάσει ρόλων, αυτοματοποιημένο ιστορικό εκδόσεων και νήματα σχολίων",
+          "Αποθήκευση του κύριου εγγράφου σε μοναδικό τοπικό δίσκο και επεξεργασία από μέλη κατά προκαθορισμένες χρονοθυρίδες",
+          "Δημοσίευση εργασιακών προσχεδίων σε δημόσιο wiki για μεγιστοποίηση διαφάνειας και εξωτερικής εισροής ενδιαφερομένων μερών"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.4 του DigComp 2.2 (Συνεργασία μέσω ψηφιακών τεχνολογιών) τονίζει την αποτελεσματική χρήση συνεργατικών εργαλείων, συμπεριλαμβανομένης της κατανόησης λειτουργιών όπως έλεγχος εκδόσεων, διαχείριση πρόσβασης και σύγχρονης ή ασύγχρονης συνεργασίας."
+      }
+    },
+    {
+      "en": {
+        "question": "8. A web publisher is finalising an EU report for public release and must ensure it meets WCAG 2.1 Level AA accessibility standards. Which set of practices is essential for compliance?",
+        "options": [
+          "Using exclusively high-resolution raster images without alternative text to preserve visual fidelity",
+          "Providing descriptive text alternatives for all images, ensuring full keyboard navigability, maintaining sufficient colour contrast ratios, and structuring content with proper heading hierarchies",
+          "Publishing the report exclusively as a scanned PDF image to maintain original page layout integrity",
+          "Requiring all users to install a specific browser plugin to access enhanced accessibility features"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.3 (Creating and editing digital content) includes creating digital content while respecting accessibility standards, such as providing alternative text, keyboard navigation, adequate contrast, and semantic structure as required by WCAG guidelines."
+      },
+      "el": {
+        "question": "8. Ένας εκδότης ιστού ολοκληρώνει μια έκθεση της ΕΕ για δημόσια κυκλοφορία και πρέπει να διασφαλίσει ότι πληροί τα πρότυπα προσβασιμότητας WCAG 2.1 Επίπεδο AA. Ποιο σύνολο πρακτικών είναι ουσιώδες για συμμόρφωση;",
+        "options": [
+          "Χρήση αποκλειστικά εικόνων raster υψηλής ανάλυσης χωρίς εναλλακτικό κείμενο για διατήρηση οπτικής πιστότητας",
+          "Παροχή περιγραφικών εναλλακτικών κειμένων για όλες τις εικόνες, διασφάλιση πλήρους πλοήγησης μέσω πληκτρολογίου, διατήρηση επαρκών αναλογιών χρωματικής αντίθεσης και δομημένο περιεχόμενο με κατάλληλες ιεραρχίες επικεφαλίδων",
+          "Δημοσίευση της έκθεσης αποκλειστικά ως σαρωμένη εικόνα PDF για διατήρηση ακεραιότητας αρχικής διάταξης σελίδας",
+          "Απαίτηση από όλους τους χρήστες εγκατάστασης συγκεκριμένου προσθέτου προγράμματος περιήγησης για πρόσβαση σε ενισχυμένα χαρακτηριστικά προσβασιμότητας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.3 του DigComp 2.2 (Δημιουργία και επεξεργασία ψηφιακού περιεχομένου) περιλαμβάνει τη δημιουργία ψηφιακού περιεχομένου με σεβασμό στα πρότυπα προσβασιμότητας, όπως παροχή εναλλακτικού κειμένου, πλοήγηση μέσω πληκτρολογίου, επαρκής αντίθεση και σημασιολογική δομή όπως απαιτείται από τις οδηγίες WCAG."
+      }
+    },
+    {
+      "en": {
+        "question": "9. An EU official manages credentials for multiple institutional systems, cloud services, and professional platforms. Which credential management practice best aligns with institutional cybersecurity policies?",
+        "options": [
+          "Using a single memorised complex password across all services to ensure consistency and avoid forgetting",
+          "Employing a certified password manager to generate unique, randomised passphrases for each service, enabling automatic rotation and encrypted storage",
+          "Maintaining an unencrypted text file on the desktop containing all usernames and passwords for quick reference",
+          "Sharing core passwords with a trusted assistant to ensure business continuity during annual leave"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.2 (Protecting personal data and privacy) requires understanding how to protect personal data and privacy, including using strong authentication methods, password managers, and maintaining unique credentials across services."
+      },
+      "el": {
+        "question": "9. Ένας υπάλληλος της ΕΕ διαχειρίζεται διαπιστευτήρια για πολλαπλά θεσμικά συστήματα, υπηρεσίες cloud και επαγγελματικές πλατφόρμες. Ποια πρακτική διαχείρισης διαπιστευτηρίων ευθυγραμμίζεται καλύτερα με θεσμικές πολιτικές κυβερνοασφάλειας;",
+        "options": [
+          "Χρήση ενός μοναδικού απομνημονευμένου σύνθετου κωδικού πρόσβασης σε όλες τις υπηρεσίες για διασφάλιση συνέπειας και αποφυγή λήθης",
+          "Χρήση πιστοποιημένου διαχειριστή κωδικών για παραγωγή μοναδικών, τυχαιοποιημένων συνθηματικών φράσεων για κάθε υπηρεσία, ενεργοποίηση αυτόματης ανανέωσης και κρυπτογραφημένης αποθήκευσης",
+          "Διατήρηση μη κρυπτογραφημένου αρχείου κειμένου στην επιφάνεια εργασίας που περιέχει όλα τα ονόματα χρηστών και κωδικούς πρόσβασης για γρήγορη αναφορά",
+          "Κοινή χρήση βασικών κωδικών με αξιόπιστο βοηθό για διασφάλιση συνέχειας εργασιών κατά την ετήσια άδεια"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.2 του DigComp 2.2 (Προστασία προσωπικών δεδομένων και απορρήτου) απαιτεί κατανόηση της προστασίας προσωπικών δεδομένων και απορρήτου, συμπεριλαμβανομένης της χρήσης ισχυρών μεθόδων πιστοποίησης, διαχειριστών κωδικών και διατήρησης μοναδικών διαπιστευτηρίων σε υπηρεσίες."
+      }
+    },
+    {
+      "en": {
+        "question": "10. A data officer receives hundreds of unstructured PDF reports monthly and must extract specific tabular data fields into a structured database. Which approach best demonstrates computational thinking and efficiency?",
+        "options": [
+          "Manually transcribing data from each PDF into spreadsheet cells over several working days",
+          "Designing an automated scripted workflow using parsing libraries and pattern-matching rules to systematically extract, validate, and load data into the database",
+          "Assigning the task to a temporary staff member to read each report and record findings in narrative prose",
+          "Printing all reports and using coloured highlighters to mark relevant sections for later data entry"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.1 (Solving technical problems) involves solving technical problems through logical reasoning, including automating repetitive tasks using scripting, algorithms, and computational tools."
+      },
+      "el": {
+        "question": "10. Ένας υπάλληλος δεδομένων λαμβάνει εκατοντάδες μη δομημένες εκθέσεις PDF μηνιαίως και πρέπει να εξαγάγει συγκεκριμένα πεδία δεδομένων πινάκων σε δομημένη βάση δεδομένων. Ποια προσέγγιση επιδεικνύει καλύτερα υπολογιστικό συλλογισμό και αποτελεσματικότητα;",
+        "options": [
+          "Χειροκίνητη μεταγραφή δεδομένων από κάθε PDF σε κελιά υπολογιστικού φύλλου επί αρκετές εργάσιμες ημέρες",
+          "Σχεδιασμός αυτοματοποιημένης scripted ροής εργασίας με χρήση βιβλιοθηκών ανάλυσης και κανόνων αντιστοίχισης μοτίβων για συστηματική εξαγωγή, επικύρωση και φόρτωση δεδομένων στη βάση",
+          "Ανάθεση της εργασίας σε προσωρινό προσωπικό για ανάγνωση κάθε έκθεσης και καταγραφή ευρημάτων σε αφηγηματική πεζογραφία",
+          "Εκτύπωση όλων των εκθέσεων και χρήση έγχρωμων επισημαντήρων για σήμανση σχετικών ενοτήτων για μεταγενέστερη καταχώριση δεδομένων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.1 του DigComp 2.2 (Επίλυση τεχνικών προβλημάτων) περιλαμβάνει την επίλυση τεχνικών προβλημάτων μέσω λογικού συλλογισμού, συμπεριλαμβανομένης της αυτοματοποίησης επαναλαμβανόμενων εργασιών με scripting, αλγόριθμους και υπολογιστικά εργαλεία."
+      }
+    },
+    {
+      "en": {
+        "question": "11. A viral article alleges imminent restructuring of EU staff pension schemes based on an anonymous 'internal source.' Before sharing this with colleagues, what is the most responsible course of action?",
+        "options": [
+          "Sharing the article immediately in team channels to ensure everyone is informed of potential changes",
+          "Verifying the claim through official staff representative bodies, checking the article's publication date and author credentials, and tracing the claim to its original source",
+          "Dismissing the article entirely because all online journalism is inherently unreliable",
+          "Rewriting the article with a more sensational headline to increase engagement and awareness"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.4 (Managing data, information and digital content) requires managing data and information responsibly, including verifying sources, assessing credibility, and avoiding the spread of unverified or misleading content."
+      },
+      "el": {
+        "question": "11. Ένα άρθρο που έχει γίνει viral ισχυρίζεται επικείμενη αναδιάρθρωση των συνταξιοδοτικών καθεστώτων προσωπικού της ΕΕ βάσει ανώνυμης «εσωτερικής πηγής». Πριν τον διαμοιρασμό με συναδέλφους, ποια είναι η πλέον υπεύθυνη πορεία ενεργειών;",
+        "options": [
+          "Άμεσος διαμοιρασμός του άρθρου σε ομαδικά κανάλια για διασφάλιση ενημέρωσης όλων για πιθανές αλλαγές",
+          "Επαλήθευση του ισχυρισμού μέσω επίσημων οργάνων εκπροσώπησης προσωπικού, έλεγχος ημερομηνίας δημοσίευσης και διαπιστευτηρίων συγγραφέα, και ανίχνευση του ισχυρισμού στην αρχική του πηγή",
+          "Πλήρης απόρριψη του άρθρου επειδή όλη η διαδικτυακή δημοσιογραφία είναι εκ φύσεως αναξιόπιστη",
+          "Ανασύνταξη του άρθρου με πιο αισθησιακή επικεφαλίδα για αύξηση αφοσίωσης και επίγνωσης"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.4 του DigComp 2.2 (Διαχείριση δεδομένων, πληροφοριών και ψηφιακού περιεχομένου) απαιτεί υπεύθυνη διαχείριση δεδομένων και πληροφοριών, συμπεριλαμβανομένης της επαλήθευσης πηγών, αξιολόγησης αξιοπιστίας και αποφυγής διάδοσης μη επαληθευμένου ή παραπλανητικού περιεχομένου."
+      }
+    },
+    {
+      "en": {
+        "question": "12. During a high-level inter-institutional videoconference, a participant's audio connection becomes severely distorted while they are presenting a critical data point. Which response best upholds professional digital communication standards?",
+        "options": [
+          "Continuing to speak despite the distortion, assuming other participants will mentally filter the interference",
+          "Politely notifying the meeting chair, switching to a text-based backup channel, and offering to share the data through the document repository for asynchronous review",
+          "Abruptly leaving the meeting without explanation and rejoining under an alternative display name",
+          "Requesting that all other participants disable their video feeds to prioritise bandwidth for the one connection"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.1 (Interacting through digital technologies) involves interacting appropriately through digital technologies, including managing technical disruptions gracefully, respecting communication protocols, and using alternative channels when necessary."
+      },
+      "el": {
+        "question": "12. Κατά τη διάρκεια τηλεδιάσκεψης υψηλού επιπέδου μεταξύ θεσμικών οργάνων, η ηχητική σύνδεση ενός συμμετέχοντος καθίσταται σοβαρά παραμορφωμένη ενώ παρουσιάζει κρίσιμο σημείο δεδομένων. Ποια απάντηση διαφυλάσσει καλύτερα επαγγελματικά πρότυπα ψηφιακής επικοινωνίας;",
+        "options": [
+          "Συνέχιση ομιλίας παρά την παραμόρφωση, υποθέτοντας ότι οι άλλοι συμμετέχοντες θα φιλτράρουν νοητικά την παρεμβολή",
+          "Ευγενική ειδοποίηση του προέδρου της συνεδρίασης, μετάβαση σε εφεδρικό κανάλι βάσει κειμένου και προσφορά διαμοιρασμού των δεδομένων μέσω αποθετηρίου εγγράφων για ασύγχρονη επισκόπηση",
+          "Απότομη αποχώρηση από τη συνεδρίαση χωρίς εξήγηση και επανασύνδεση με εναλλακτικό όνομα εμφάνισης",
+          "Αίτημα σε όλους τους άλλους συμμετέχοντες να απενεργοποιήσουν τις ροές βίντεο για προτεραιότητα εύρους ζώνης στη μία σύνδεση"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.1 του DigComp 2.2 (Αλληλεπίδραση μέσω ψηφιακών τεχνολογιών) περιλαμβάνει την κατάλληλη αλληλεπίδραση μέσω ψηφιακών τεχνολογιών, συμπεριλαμβανομένης της κομψής διαχείρισης τεχνικών διακοπών, του σεβασμού πρωτοκόλλων επικοινωνίας και της χρήσης εναλλακτικών καναλιών όταν απαιτείται."
+      }
+    },
+    {
+      "en": {
+        "question": "13. An EU archivist must preserve a legislative document for thirty years, ensuring it remains accessible, authentically verifiable, and independent of any single vendor's software. Which archival strategy best addresses these long-term requirements?",
+        "options": [
+          "Saving the document in the latest version of a proprietary word processor format to retain all formatting features",
+          "Archiving in PDF/A-1a with embedded fonts, comprehensive metadata, digital signatures, and maintaining a parallel XML source in an open standard",
+          "Retaining only a printed hard copy in climate-controlled storage to guarantee physical permanence",
+          "Compressing the file into a password-protected proprietary archive format to prevent unauthorised modifications"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 3.2 (Sharing through digital technologies) includes understanding appropriate formats, metadata, and preservation standards for sharing and storing digital content long-term, including open standards like PDF/A."
+      },
+      "el": {
+        "question": "13. Ένας αρχειονόμος της ΕΕ πρέπει να διατηρήσει νομοθετικό έγγραφο για τριάντα χρόνια, διασφαλίζοντας ότι παραμένει προσβάσιμο, αυθεντικά επαληθεύσιμο και ανεξάρτητο από λογισμικό ενός μοναδικού προμηθευτή. Ποια αρχειακή στρατηγική ανταποκρίνεται καλύτερα σε αυτές τις μακροπρόθεσμες απαιτήσεις;",
+        "options": [
+          "Αποθήκευση του εγγράφου στην πιο πρόσφατη έκδοση ιδιόκτητης μορφής επεξεργαστή κειμένου για διατήρηση όλων των χαρακτηριστικών μορφοποίησης",
+          "Αρχειοθέτηση σε PDF/A-1a με ενσωματωμένες γραμματοσειρές, περιεκτικά μεταδεδομένα, ψηφιακές υπογραφές και διατήρηση παράλληλης πηγής XML σε ανοιχτό πρότυπο",
+          "Διατήρηση μόνο εκτυπωμένου έγχαρτου αντιγράφου σε κλιματοελεγχόμενη αποθήκευση για εγγύηση φυσικής μονιμότητας",
+          "Συμπίεση του αρχείου σε κρυπτογραφημένη ιδιόκτητη μορφή αρχειοθέτησης για αποτροπή μη εξουσιοδοτημένων τροποποιήσεων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 3.2 του DigComp 2.2 (Διαμοιρασμός μέσω ψηφιακών τεχνολογιών) περιλαμβάνει την κατανόηση κατάλληλων μορφών, μεταδεδομένων και προτύπων διατήρησης για διαμοιρασμό και αποθήκευση ψηφιακού περιεχομένου μακροπρόθεσμα, συμπεριλαμβανομένων ανοιχτών προτύπων όπως το PDF/A."
+      }
+    },
+    {
+      "en": {
+        "question": "14. An EU department manages datasets that are critical to ongoing infringement procedures. Which backup architecture provides the strongest protection against ransomware encryption, catastrophic hardware failure, and accidental deletion by authorised users?",
+        "options": [
+          "A single daily backup to an external hard drive that remains permanently connected to the departmental network",
+          "A 3-2-1 strategy maintaining three copies on two different media types, with one copy stored offsite and offline, complemented by periodic restoration testing",
+          "Relying exclusively on a commercial cloud sync service without maintaining any local copies or version history",
+          "Emailing compressed copies of important files to personal webmail accounts as an informal backup routine"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.3 (Protecting health and well-being) encompasses protecting digital assets through robust backup strategies, including the 3-2-1 rule, offline storage, and regular restoration verification."
+      },
+      "el": {
+        "question": "14. Ένα τμήμα της ΕΕ διαχειρίζεται σύνολα δεδομένων κρίσιμα για εκκρεμείς διαδικασίες παραβάσεων. Ποια αρχιτεκτονική αντιγράφων ασφαλείας παρέχει την ισχυρότερη προστασία έναντι κρυπτογράφησης ransomware, καταστροφικής βλάβης υλικού και τυχαίας διαγραφής από εξουσιοδοτημένους χρήστες;",
+        "options": [
+          "Ένα μοναδικό ημερήσιο αντίγραφο σε εξωτερικό σκληρό δίσκο που διατηρείται μόνιμα συνδεδεμένος στο τμηματικό δίκτυο",
+          "Στρατηγική 3-2-1 με διατήρηση τριών αντιγράφων σε δύο διαφορετικούς τύπους μέσων, με ένα αντίγραφο αποθηκευμένο εκτός τόπου και offline, συμπληρωμένη με περιοδική δοκιμή αποκατάστασης",
+          "Αποκλειστική βάση σε εμπορική υπηρεσία συγχρονισμού cloud χωρίς διατήρηση τοπικών αντιγράφων ή ιστορικού εκδόσεων",
+          "Αποστολή συμπιεσμένων αντιγράφων σημαντικών αρχείων σε προσωπικούς λογαριασμούς webmail ως ανεπίσημη ρουτίνα αντιγράφων ασφαλείας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.3 του DigComp 2.2 (Προστασία υγείας και ευημερίας) περιλαμβάνει την προστασία ψηφιακών περιουσιακών στοιχείων μέσω ισχυρών στρατηγικών αντιγράφων ασφαλείας, συμπεριλαμβανομένου του κανόνα 3-2-1, offline αποθήκευσης και τακτικής επαλήθευσης αποκατάστασης."
+      }
+    },
+    {
+      "en": {
+        "question": "15. A policy unit must analyse public sentiment trends across twenty-four official languages during a major Commission consultation. Which technological approach best balances analytical rigour, linguistic coverage, and regulatory compliance?",
+        "options": [
+          "Recruiting twenty-four native speakers to independently read and manually classify all public submissions",
+          "Deploying a multilingual natural language processing pipeline with validation against human-annotated samples, bias detection protocols, and full GDPR-compliant data processing agreements",
+          "Using a monolingual English sentiment analysis tool and machine-translating all submissions through generic consumer software",
+          "Excluding all non-English submissions from the analysis to ensure methodological consistency"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.3 (Creatively using digital technologies) involves creatively using digital technologies to address complex needs, including selecting advanced analytical tools, validating outputs, and recognising linguistic and cultural biases."
+      },
+      "el": {
+        "question": "15. Μια μονάδα πολιτικής πρέπει να αναλύσει τάσεις δημόσιου συναισθήματος σε είκοσι τέσσερις επίσημες γλώσσες κατά τη διάρκεια σημαντικής διαβούλευσης της Επιτροπής. Ποια τεχνολογική προσέγγιση εξισορροπεί καλύτερα αναλυτική αυστηρότητα, γλωσσική κάλυψη και κανονιστική συμμόρφωση;",
+        "options": [
+          "Πρόσληψη είκοσι τεσσάρων φυσικών ομιλητών για ανεξάρτητη ανάγνωση και χειροκίνητη ταξινόμηση όλων των δημόσιων υποβολών",
+          "Ανάπτυξη πολυγλωσσικής ροής επεξεργασίας φυσικής γλώσσας με επικύρωση έναντι ανθρώπινα σχολιασμένων δειγμάτων, πρωτοκόλλων ανίχνευσης προκατάληψης και πλήρεις συμφωνίες επεξεργασίας δεδομένων συμμορφούμενες με GDPR",
+          "Χρήση μονογλωσσικού αγγλικού εργαλείου ανάλυσης συναισθήματος και μηχανική μετάφραση όλων των υποβολών μέσω γενικού καταναλωτικού λογισμικού",
+          "Εξαίρεση όλων των μη αγγλικών υποβολών από την ανάλυση για διασφάλιση μεθοδολογικής συνέπειας"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.3 του DigComp 2.2 (Δημιουργική χρήση ψηφιακών τεχνολογιών) περιλαμβάνει τη δημιουργική χρήση ψηφιακών τεχνολογιών για την αντιμετώπιση σύνθετων αναγκών, συμπεριλαμβανομένης της επιλογής προηγμένων αναλυτικών εργαλείων, επικύρωσης αποτελεσμάτων και αναγνώρισης γλωσσικών και πολιτισμικών προκαταλήψεων."
+      }
+    },
+    {
+      "en": {
+        "question": "16. A journalist claims that EU agricultural subsidies to a specific member state have tripled in the past year. A policy officer needs to verify this claim for a parliamentary question response. Which verification sequence is most methodologically sound?",
+        "options": [
+          "Accepting the journalist's claim if it is published in a newspaper with high circulation figures",
+          "Cross-referencing the claim with the European Commission's Financial Transparency System, the member state's national accounts, and the Common Agricultural Policy expenditure database",
+          "Searching for blog posts that agree with the journalist's narrative to establish consensus",
+          "Rejecting the claim outright because journalists are not authorised to report on EU financial matters"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 1.3 (Managing information) requires the ability to organise, store, and retrieve information while critically evaluating its reliability, distinguishing primary from secondary sources, and triangulating data across authoritative databases."
+      },
+      "el": {
+        "question": "16. Δημοσιογράφος ισχυρίζεται ότι οι γεωργικές επιδοτήσεις της ΕΕ σε συγκεκριμένο κράτος μέλος τριπλασιάστηκαν το τελευταίο έτος. Ένας υπάλληλος πολιτικής πρέπει να επαληθεύσει τον ισχυρισμό για απάντηση σε κοινοβουλευτική ερώτηση. Ποια ακολουθία επαλήθευσης είναι μεθοδολογικά πλέον ορθή;",
+        "options": [
+          "Αποδοχή του ισχυρισμού του δημοσιογράφου εάν δημοσιεύεται σε εφημερίδα με υψηλά νούμερα κυκλοφορίας",
+          "Διασταύρωση του ισχυρισμού με το Σύστημα Διαφάνειας Οικονομικών της Ευρωπαϊκής Επιτροπής, τους εθνικούς λογαριασμούς του κράτους μέλους και τη βάση δεδομένων δαπανών της Κοινής Γεωργικής Πολιτικής",
+          "Αναζήτηση αναρτήσεων ιστολογίων που συμφωνούν με τη διήγηση του δημοσιογράφου για καθιέρωση συναίνεσης",
+          "Απόρριψη του ισχυρισμού εξ ολοκλήρου επειδή οι δημοσιογράφοι δεν είναι εξουσιοδοτημένοι να αναφέρουν θέματα οικονομικών της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 1.3 του DigComp 2.2 (Διαχείριση πληροφοριών) απαιτεί την ικανότητα οργάνωσης, αποθήκευσης και ανάκτησης πληροφοριών με κριτική αξιολόγηση της αξιοπιστίας τους, διάκριση πρωτογενών από δευτερογενείς πηγές και τριangulation δεδομένων σε αυθεντικές βάσεις δεδομένων."
+      }
+    },
+    {
+      "en": {
+        "question": "17. An EU trainee observes discriminatory and harassing language directed at a colleague in an internal collaboration platform. Which course of action best exemplifies responsible participation in a digital professional community?",
+        "options": [
+          "Ignoring the content to avoid becoming personally involved in a workplace dispute",
+          "Documenting the incident, reporting it through established institutional channels, and contributing constructively to discussions on community standards and respectful communication guidelines",
+          "Screenshotting the offensive content and posting it on external social media to publicly shame the perpetrator",
+          "Responding with equally inflammatory language to demonstrate solidarity with the targeted colleague"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 2.5 (Participating in society through digital technologies) involves participating in digital society responsibly, including reporting inappropriate content, respecting community standards, and contributing to positive online environments."
+      },
+      "el": {
+        "question": "17. Ένας ασκούμενος της ΕΕ παρατηρεί διακριτική και παρενοχλητική γλώσσα κατά συναδέλφου σε εσωτερική πλατφόρμα συνεργασίας. Ποια πορεία ενεργειών επιδεικνύει καλύτερα υπεύθυνη συμμετοχή σε ψηφιακή επαγγελματική κοινότητα;",
+        "options": [
+          "Αγνόηση του περιεχομένου για αποφυγή προσωπικής εμπλοκής σε εργασιακή διαφορά",
+          "Τεκμηρίωση του περιστατικού, αναφορά μέσω καθιερωμένων θεσμικών καναλιών και εποικοδομητική συνεισφορά σε συζητήσεις προτύπων κοινότητας και κατευθυντήριων γραμμών σεβαστής επικοινωνίας",
+          "Στιγμιότυπο του προσβλητικού περιεχομένου και δημοσίευση σε εξωτερικά μέσα κοινωνικής δικτύωσης για δημόσια διαπόμπευση του δράστη",
+          "Απάντηση με εξίσου υποκινητική γλώσσα για επίδειξη αλληλεγγύης με τον στοχοποιημένο συνάδελφο"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 2.5 του DigComp 2.2 (Συμμετοχή στην κοινωνία μέσω ψηφιακών τεχνολογιών) περιλαμβάνει την υπεύθυνη συμμετοχή στην ψηφιακή κοινωνία, συμπεριλαμβανομένης της αναφοράς ακατάλληλου περιεχομένου, του σεβασμού προτύπων κοινότητας και της συνεισφοράς σε θετικά διαδικτυακά περιβάλλοντα."
+      }
+    },
+    {
+      "en": {
+        "question": "18. A team manages a monthly spreadsheet tracking inter-institutional travel expenditure that must be transformed into an interactive dashboard updating automatically when new entries are added. Which skill level best describes the optimal solution?",
+        "options": [
+          "Basic: manually recreating charts each month from freshly copied data",
+          "Intermediate: using spreadsheet formulas and pivot tables that require manual refresh each reporting cycle",
+          "Advanced: implementing structured data connections, dynamic named ranges, and API-driven automated ingestion from the source booking system",
+          "Non-digital: contracting an external design agency to produce static infographic reports quarterly"
+        ],
+        "answer": 2,
+        "explanation": "DigComp 2.2 competence 3.1 (Developing digital content) at advanced levels involves developing sophisticated digital content through programming, automation, API integration, and dynamic data handling beyond static manual processes."
+      },
+      "el": {
+        "question": "18. Μια ομάδα διαχειρίζεται μηνιαίο υπολογιστικό φύλλο παρακολούθησης δαπανών διαθεσμικών ταξιδιών που πρέπει να μετατραπεί σε διαδραστικό πίνακα ελέγχου με αυτόματη ενημέρωση όταν προστίθενται νέες καταχωρήσεις. Ποιο επίπεδο δεξιοτήτων περιγράφει καλύτερα τη βέλτιστη λύση;",
+        "options": [
+          "Βασικό: χειροκίνητη αναδημιουργία διαγραμμάτων κάθε μήνα από πρόσφατα αντιγραμμένα δεδομένα",
+          "Μεσαίο: χρήση τύπων υπολογιστικών φύλλων και πινάκων περιστροφής που απαιτούν χειροκίνητη ανανέωση κάθε κύκλο αναφοράς",
+          "Προχωρημένο: υλοποίηση δομημένων συνδέσεων δεδομένων, δυναμικών ονομαστικών εύρων και API-driven αυτοματοποιημένης εισαγωγής από το σύστημα πηγής κρατήσεων",
+          "Μη ψηφιακό: σύναψη σύμβασης με εξωτερικό πρακτορείο σχεδιασμού για παραγωγή στατικών αναφορών infographic τριμηνιαίως"
+        ],
+        "answer": 2,
+        "explanation": "Η ικανότητα 3.1 του DigComp 2.2 (Ανάπτυξη ψηφιακού περιεχομένου) σε προχωρημένα επίπεδα περιλαμβάνει την ανάπτυξη εξελιγμένου ψηφιακού περιεχομένου μέσω προγραμματισμού, αυτοματοποίησης, ενσωμάτωσης API και δυναμικής διαχείρισης δεδομένων πέραν στατικών χειροκίνητων διαδικασιών."
+      }
+    },
+    {
+      "en": {
+        "question": "19. An EU unit is reviewing its digital storage practices to align with the European Green Deal objectives. Which practice most effectively reduces the environmental footprint of its data management operations?",
+        "options": [
+          "Retaining all files indefinitely in cloud services regardless of relevance to ensure comprehensive institutional memory",
+          "Conducting regular audits of digital storage, deleting redundant and obsolete data, optimising file compression, and selecting data centres with verified renewable energy commitments",
+          "Printing all documents for physical backup to reduce server load and electricity consumption",
+          "Sending large uncompressed video files via email to multiple recipients to minimise the number of separate transmissions"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 4.4 (Protecting the environment) involves understanding the environmental impact of digital technologies, including sustainable data management, energy consumption awareness, and responsible digital footprint reduction."
+      },
+      "el": {
+        "question": "19. Μια μονάδα της ΕΕ εξετάζει τις ψηφιακές της πρακτικές αποθήκευσης για ευθυγράμμιση με τους στόχους του Ευρωπαϊκού Πράσινου Συμφώνου. Ποια πρακτική μειώνει πλέον αποτελεσματικά το περιβαλλοντικό αποτύπωμα των λειτουργιών διαχείρισης δεδομένων της;",
+        "options": [
+          "Διατήρηση όλων των αρχείων επ' αόριστον σε υπηρεσίες cloud ανεξαρτήτως συνάφειας για διασφάλιση περιεκτικής θεσμικής μνήμης",
+          "Διεξαγωγή τακτικών ελέγχων ψηφιακής αποθήκευσης, διαγραφή πλεοναζόντων και παρωχημένων δεδομένων, βελτιστοποίηση συμπίεσης αρχείων και επιλογή κέντρων δεδομένων με επαληθευμένες δεσμεύσεις ανανεώσιμης ενέργειας",
+          "Εκτύπωση όλων των εγγράφων για φυσικό αντίγραφο ασφαλείας για μείωση φόρτου διακομιστών και κατανάλωσης ηλεκτρισμού",
+          "Αποστολή μεγάλων μη συμπιεσμένων αρχείων βίντεο μέσω email σε πολλαπλούς παραλήπτες για ελαχιστοποίηση αριθμού ξεχωριστών μεταδόσεων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 4.4 του DigComp 2.2 (Προστασία του περιβάλλοντος) περιλαμβάνει την κατανόηση του περιβαλλοντικού αντίκτυπου των ψηφιακών τεχνολογιών, συμπεριλαμβανομένης της βιώσιμης διαχείρισης δεδομένων, επίγνωσης κατανάλωσης ενέργειας και υπεύθυνης μείωσης του ψηφιακού αποτυπώματος."
+      }
+    },
+    {
+      "en": {
+        "question": "20. A grants office must match thousands of research proposals to suitable expert evaluators based on domain expertise, declared conflicts of interest, and current workload distribution. Which solution best addresses the operational complexity while respecting data protection obligations?",
+        "options": [
+          "Assigning proposals alphabetically to evaluators to ensure a transparent and auditable distribution method",
+          "Implementing a rule-based matching algorithm operating on anonymised data fields, maintaining complete audit trails, and enforcing role-based access controls with full GDPR compliance",
+          "Allowing evaluators to self-select proposals based on personal research interests without oversight",
+          "Processing all applications through an unvetted third-party artificial intelligence platform without establishing data processing agreements"
+        ],
+        "answer": 1,
+        "explanation": "DigComp 2.2 competence 5.4 (Identifying digital competence gaps) involves identifying gaps and needs for digital competence development, including selecting appropriate technological solutions that balance efficiency, accuracy, and regulatory compliance such as GDPR."
+      },
+      "el": {
+        "question": "20. Ένα γραφείο επιχορηγήσεων πρέπει να αντιστοιχίσει χιλιάδες προτάσεις έρευνας σε κατάλληλους εμπειρογνώμονες αξιολογητές βάσει τομεακής εξειδίκευσης, δηλωμένων συγκρούσεων συμφερόντων και τρέχουσας κατανομής φόρτου εργασίας. Ποια λύση αντιμετωπίζει καλύτερα την επιχειρησιακή πολυπλοκότητα διατηρώντας τις υποχρεώσεις προστασίας δεδομένων;",
+        "options": [
+          "Ανάθεση προτάσεων αλφαβητικά σε αξιολογητές για διασφάλιση διαφανούς και ελέγξιμης μεθόδου κατανομής",
+          "Υλοποίηση αλγόριθμου αντιστοίχισης βάσει κανόνων που λειτουργεί σε ανωνυμοποιημένα πεδία δεδομένων, διατηρώντας πλήρη ίχνη ελέγχου και επιβάλλοντας ελέγχους πρόσβασης βάσει ρόλων με πλήρη συμμόρφωση GDPR",
+          "Επιτρέποντας σε αξιολογητές να αυτοεπιλέγουν προτάσεις βάσει προσωπικών ερευνητικών ενδιαφερόντων χωρίς εποπτεία",
+          "Επεξεργασία όλων των αιτήσεων μέσω μη ελεγμένης πλατφόρμας τεχνητής νοημοσύνης τρίτου μέρους χωρίς καθιέρωση συμφωνιών επεξεργασίας δεδομένων"
+        ],
+        "answer": 1,
+        "explanation": "Η ικανότητα 5.4 του DigComp 2.2 (Προσδιορισμός κενών ψηφιακής επάρκειας) περιλαμβάνει τον εντοπισμό κενών και αναγκών ανάπτυξης ψηφιακής επάρκειας, συμπεριλαμβανομένης της επιλογής κατάλληλων τεχνολογικών λύσεων που εξισορροπούν αποτελεσματικότητα, ακρίβεια και κανονιστική συμμόρφωση όπως το GDPR."
+      }
+    }
   ]
 }
+   
