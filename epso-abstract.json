@@ -1933,6 +1933,188 @@
         "explanation": "Ισχύουν δύο κανόνες: 1. Ένας γκρι δείκτης-τετράγωνο παραμένει πάντα σταθερός στο κέντρο του πλέγματος 3\u00d73. 2. Ένας δεύτερος, μαύρος δείκτης-τετράγωνο περιστρέφεται δεξιόστροφα γύρω από τα οκτώ εξωτερικά κελιά του πλέγματος, ένα κελί ανά πλαίσιο, ολοκληρώνοντας πλήρη γύρο κάθε οκτώ πλαίσια. Στο πλαίσιο 6 ο μαύρος δείκτης έχει προχωρήσει στο κάτω-μεσαίο κελί, ενώ ο γκρι δείκτης παραμένει στο κέντρο όπως πάντα."
       }
     }
+  ],
+  "abstract_9": [
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654041/q1_reference_ui4cue.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654040/q1_options_sfhirg.svg",
+        "answer": "A",
+        "difficulty": "medium",
+        "explanation": "The shape cycles circle→square→triangle (period 3) while the colour alternates red→blue (period 2), independently of each other. The correct option is A. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654041/q1_reference_ui4cue.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654040/q1_options_sfhirg.svg",
+        "answer": "A",
+        "difficulty": "medium",
+        "explanation": "Το σχήμα εναλλάσσεται κύκλος→τετράγωνο→τρίγωνο (περίοδος 3) ενώ το χρώμα εναλλάσσεται κόκκινο→μπλε (περίοδος 2), ανεξάρτητα το ένα από το άλλο. Η σωστή επιλογή είναι η A. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654042/q2_reference_uttukt.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654039/q10_reference_r8evgw.svg",
+        "answer": "B",
+        "difficulty": "medium",
+        "explanation": "The pentagon rotates by 30° each frame while the count of pentagons cycles 1→2→3→1→2→3. The correct option is B. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654042/q2_reference_uttukt.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654039/q10_reference_r8evgw.svg",
+        "answer": "B",
+        "difficulty": "medium",
+        "explanation": "Το πεντάγωνο περιστρέφεται κατά 30° σε κάθε πλαίσιο, ενώ ο αριθμός πενταγώνων εναλλάσσεται 1→2→3→1→2→3. Η σωστή επιλογή είναι η B. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654043/q3_reference_jvxmry.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654042/q3_options_x7jdxx.svg",
+        "answer": "C",
+        "difficulty": "hard",
+        "explanation": "The shape depends on position: circle on odd-numbered frames, square on even-numbered frames. Colour cycles red→green→blue, and rotation increases by 20° multiplied by the frame number. The correct option is C. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654043/q3_reference_jvxmry.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654042/q3_options_x7jdxx.svg",
+        "answer": "C",
+        "difficulty": "hard",
+        "explanation": "Το σχήμα εξαρτάται από τη θέση: κύκλος στα μονά πλαίσια, τετράγωνο στα ζυγά πλαίσια. Το χρώμα εναλλάσσεται κόκκινο→πράσινο→μπλε, και η περιστροφή αυξάνεται κατά 20° επί τον αριθμό του πλαισίου. Η σωστή επιλογή είναι η C. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654044/q4_reference_clpsz3.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654043/q4_options_azhw5s.svg",
+        "answer": "D",
+        "difficulty": "hard",
+        "explanation": "Colour cycles blue→red→green (period 3). Fill alternates solid on odd frames and outline on even frames. The count of triangles cycles 1→2→3→4. The correct option is D. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654044/q4_reference_clpsz3.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654043/q4_options_azhw5s.svg",
+        "answer": "D",
+        "difficulty": "hard",
+        "explanation": "Το χρώμα εναλλάσσεται μπλε→κόκκινο→πράσινο (περίοδος 3). Η γέμιση εναλλάσσεται συμπαγής στα μονά πλαίσια και περιγράμματος στα ζυγά. Ο αριθμός τριγώνων εναλλάσσεται 1→2→3→4. Η σωστή επιλογή είναι η D. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q5_reference_zemz1l.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q5_reference_zemz1l.svg",
+        "answer": "E",
+        "difficulty": "medium",
+        "explanation": "The number of circles increases by 1 each frame (1→2→3→4→5) while their individual size shrinks by a fixed amount each frame, and colour alternates purple→orange. The correct option is E. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q5_reference_zemz1l.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q5_reference_zemz1l.svg",
+        "answer": "E",
+        "difficulty": "medium",
+        "explanation": "Ο αριθμός κύκλων αυξάνεται κατά 1 σε κάθε πλαίσιο (1→2→3→4→5) ενώ το μέγεθος του καθενός μειώνεται κατά σταθερή ποσότητα, και το χρώμα εναλλάσσεται μοβ→πορτοκαλί. Η σωστή επιλογή είναι η E. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q6_reference_ysgfpp.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q6_options_o7y4vh.svg",
+        "answer": "A",
+        "difficulty": "hard",
+        "explanation": "The shape alternates pentagon→hexagon (period 2) while colour cycles red→green→blue (period 3), independently. Rotation is conditional on colour: red shapes are rotated 50°; green and blue shapes stay at 0°. The correct option is A. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q6_reference_ysgfpp.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q6_options_o7y4vh.svg",
+        "answer": "A",
+        "difficulty": "hard",
+        "explanation": "Το σχήμα εναλλάσσεται πεντάγωνο→εξάγωνο (περίοδος 2) ενώ το χρώμα εναλλάσσεται κόκκινο→πράσινο→μπλε (περίοδος 3), ανεξάρτητα. Η περιστροφή εξαρτάται από το χρώμα: τα κόκκινα σχήματα περιστρέφονται κατά 50°· τα πράσινα και τα μπλε παραμένουν στις 0°. Η σωστή επιλογή είναι η A. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q7_reference_flwsxu.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q7_options_gqr4em.svg",
+        "answer": "B",
+        "difficulty": "easy",
+        "explanation": "The square simply rotates by a fixed 40° each frame. Shape and colour stay constant throughout. The correct option is B. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q7_reference_flwsxu.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654036/q7_options_gqr4em.svg",
+        "answer": "B",
+        "difficulty": "easy",
+        "explanation": "Το τετράγωνο απλώς περιστρέφεται κατά σταθερές 40° σε κάθε πλαίσιο. Το σχήμα και το χρώμα παραμένουν σταθερά σε όλη τη διάρκεια. Η σωστή επιλογή είναι η B. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q8_reference_gm8mty.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q8_options_cpvv6p.svg",
+        "answer": "C",
+        "difficulty": "medium",
+        "explanation": "Colour cycles red→blue→green (period 3) while the count of triangles cycles 1→2→3→4 (period 4) — the two cycles run independently, so their combination does not repeat within the sequence shown. The correct option is C. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q8_reference_gm8mty.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q8_options_cpvv6p.svg",
+        "answer": "C",
+        "difficulty": "medium",
+        "explanation": "Το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο (περίοδος 3) ενώ ο αριθμός τριγώνων εναλλάσσεται 1→2→3→4 (περίοδος 4) — οι δύο κύκλοι λειτουργούν ανεξάρτητα, οπότε ο συνδυασμός τους δεν επαναλαμβάνεται εντός της ακολουθίας που εμφανίζεται. Η σωστή επιλογή είναι η C. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q9_reference_wok3ph.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q9_options_kd0mvd.svg",
+        "answer": "D",
+        "difficulty": "hard",
+        "explanation": "The shape cycles circle→square→star. Rotation is conditional on which shape appears: the star is always rotated 90°, while circle and square always stay at 0°. Colour alternates black→orange. The correct option is D. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q9_reference_wok3ph.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654037/q9_options_kd0mvd.svg",
+        "answer": "D",
+        "difficulty": "hard",
+        "explanation": "Το σχήμα εναλλάσσεται κύκλος→τετράγωνο→αστέρι. Η περιστροφή εξαρτάται από το σχήμα: το αστέρι περιστρέφεται πάντα κατά 90°, ενώ ο κύκλος και το τετράγωνο παραμένουν πάντα στις 0°. Το χρώμα εναλλάσσεται μαύρο→πορτοκαλί. Η σωστή επιλογή είναι η D. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654039/q10_reference_r8evgw.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654038/q10_options_vym36h.svg",
+        "answer": "E",
+        "difficulty": "hardest",
+        "explanation": "Four independent rules run at once: shape cycles circle→square→triangle (period 3); colour cycles red→blue→green→purple (period 4); rotation increases by 30° each frame; and fill alternates solid on odd frames, outline on even frames. The correct option is E. Each incorrect option breaks exactly one of the rules above while keeping the others consistent, so it can be identified by checking which single dimension (shape, colour, rotation, count, or fill) deviates from the established pattern."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654039/q10_reference_r8evgw.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787654038/q10_options_vym36h.svg",
+        "answer": "E",
+        "difficulty": "hardest",
+        "explanation": "Τέσσερις ανεξάρτητοι κανόνες λειτουργούν ταυτόχρονα: το σχήμα εναλλάσσεται κύκλος→τετράγωνο→τρίγωνο (περίοδος 3)· το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ (περίοδος 4)· η περιστροφή αυξάνεται κατά 30° σε κάθε πλαίσιο· και η γέμιση εναλλάσσεται συμπαγής στα μονά πλαίσια, περιγράμματος στα ζυγά. Η σωστή επιλογή είναι η E. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς, οπότε μπορεί να εντοπιστεί ελέγχοντας ποια μεμονωμένη διάσταση (σχήμα, χρώμα, περιστροφή, αριθμός ή γέμιση) αποκλίνει από το καθιερωμένο μοτίβο."
+      }
+    }
   ]
 }
 
