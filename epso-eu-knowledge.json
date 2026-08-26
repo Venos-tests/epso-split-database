@@ -8240,6 +8240,787 @@
         "explanation": "Η Europol εδρεύει στη Χάγη (Ολλανδία)· η INTERPOL εδρεύει στη Λυών, ο ΟΑΣΕ και ο Οργανισμός Θεμελιωδών Δικαιωμάτων (FRA) στη Βιέννη, και η Frontex στη Βαρσοβία."
       }
     }
+  ],
+  "eu_12": [
+    {
+      "en": {
+        "passage": "1. The European edifice began with a declaration proposing a fundamental change in Franco-German relations.",
+        "question": "What did the Schuman Declaration of 9 May 1950 propose?",
+        "options": [
+          "Placing French and German coal and steel production under a common High Authority",
+          "Creating a Franco-German customs union",
+          "Establishing a European army",
+          "Founding a European political assembly"
+        ],
+        "answer": 0,
+        "explanation": "The Schuman Declaration (9 May 1950) proposed placing Franco-German coal and steel production under a common High Authority — the seed of the ECSC; 9 May is now celebrated as Europe Day."
+      },
+      "el": {
+        "passage": "1. Το ευρωπαϊκό οικοδόμημα ξεκίνησε από μια δήλωση που πρότεινε θεμελιώδη αλλαγή στις γαλλογερμανικές σχέσεις.",
+        "question": "Τι πρότεινε η Δήλωση Σουμάν της 9ης Μαΐου 1950;",
+        "options": [
+          "Την υποβολή της γαλλικής και γερμανικής παραγωγής άνθρακα και χάλυβα υπό κοινή Ανώτατη Αρχή",
+          "Τη σύσταση γαλλογερμανικής τελωνειακής ένωσης",
+          "Τη δημιουργία ευρωπαϊκού στρατού",
+          "Τη σύσταση ευρωπαϊκής πολιτικής συνέλευσης"
+        ],
+        "answer": 0,
+        "explanation": "Η Δήλωση Σουμάν (9 Μαΐου 1950) πρότεινε την υποβολή της γαλλογερμανικής παραγωγής άνθρακα και χάλυβα υπό κοινή Ανώτατη Αρχή — ο σπόρος της ΕΚΑΧ· η 9η Μαΐου γιορτάζεται σήμερα ως Ημέρα της Ευρώπης."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. After the Messina Conference (1955), an intergovernmental committee developed the blueprint for the new Communities.",
+        "question": "Which report, drafted by the committee chaired by the Belgian foreign minister, provided the basis for the Treaties of Rome?",
+        "options": [
+          "The Delors Report (1989)",
+          "The Werner Report (1970)",
+          "The Spaak Report (1956)",
+          "The Tindemans Report (1975)"
+        ],
+        "answer": 2,
+        "explanation": "The Spaak Report (1956), prepared by the intergovernmental committee chaired by Belgian foreign minister Paul-Henri Spaak after Messina, was the blueprint for the two Treaties of Rome (EEC and Euratom, 1957)."
+      },
+      "el": {
+        "passage": "2. Μετά τη Διάσκεψη της Μεσσήνης (1955), μια διακυβερνητική επιτροπή εκπόνησε το σχέδιο για τις νέες Κοινότητες.",
+        "question": "Ποια έκθεση, που εκπονήθηκε από την επιτροπή υπό τον βέλγο υπουργό Εξωτερικών, δημιούργησε τη βάση για τις Συνθήκες της Ρώμης;",
+        "options": [
+          "Η έκθεση Ντελόρ (1989)",
+          "Η έκθεση Βέρνερ (1970)",
+          "Η έκθεση Σπάακ (1956)",
+          "Η έκθεση Τιντεμάνς (1975)"
+        ],
+        "answer": 2,
+        "explanation": "Η έκθεση Σπάακ (1956), που εκπονήθηκε από τη διακυβερνητική επιτροπή υπό τον βέλγο υπουργό Εξωτερικών Πωλ-Ανρί Σπάακ μετά τη Μεσσήνη, αποτέλεσε το σχέδιο για τις δύο Συνθήκες της Ρώμης (ΕΟΚ και ΕΥΡΑΤΩΜ, 1957)."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The first enlargement was delayed for years by political vetoes.",
+        "question": "Whose accession applications did France veto in the 1960s?",
+        "options": [
+          "Ireland's",
+          "Norway's",
+          "Denmark's",
+          "The United Kingdom's"
+        ],
+        "answer": 3,
+        "explanation": "France under de Gaulle vetoed the UK's applications in 1963 and 1967; the UK eventually acceded in 1973 together with Ireland and Denmark."
+      },
+      "el": {
+        "passage": "3. Η πρώτη διεύρυνση καθυστέρησε επί χρόνια λόγω πολιτικών βέτο.",
+        "question": "Τις αιτήσεις προσχώρησης ποιου κράτους άσκησε βέτο η Γαλλία τη δεκαετία του 1960;",
+        "options": [
+          "Της Ιρλανδίας",
+          "Της Νορβηγίας",
+          "Της Δανίας",
+          "Του Ηνωμένου Βασιλείου"
+        ],
+        "answer": 3,
+        "explanation": "Η Γαλλία υπό τον ντε Γκολ άσκησε βέτο το 1963 και το 1967 στις αιτήσεις του Ηνωμένου Βασιλείου, που προσχώρησε τελικά το 1973 μαζί με την Ιρλανδία και τη Δανία."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. Membership gradually extended southwards, but at a cautious pace.",
+        "question": "Which country formed the first Southern (Mediterranean) enlargement of the Communities, in 1981?",
+        "options": [
+          "Spain (1986)",
+          "Greece (1981)",
+          "Austria (1995)",
+          "Portugal (1986)"
+        ],
+        "answer": 1,
+        "explanation": "Greece acceded on 1 January 1981, the first enlargement to a Southern European state; Spain and Portugal followed in 1986, and Austria, Finland and Sweden in 1995."
+      },
+      "el": {
+        "passage": "4. Η ένταξη επεκτάθηκε σταδιακά προς τον νότο, αλλά με επιφυλακτικό ρυθμό.",
+        "question": "Ποιο κράτος υπήρξε η πρώτη νότια (μεσογειακή) διεύρυνση των Κοινοτήτων, το 1981;",
+        "options": [
+          "Η Ισπανία (1986)",
+          "Η Ελλάδα (1981)",
+          "Η Αυστρία (1995)",
+          "Η Πορτογαλία (1986)"
+        ],
+        "answer": 1,
+        "explanation": "Η Ελλάδα προσχώρησε την 1η Ιανουαρίου 1981, ως πρώτη διεύρυνση προς νότιο ευρωπαϊκό κράτος· Ισπανία και Πορτογαλία ακολούθησαν το 1986, ενώ Αυστρία, Φινλανδία και Σουηδία το 1995."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. Joining the Union has not always been an easy yes: in some countries voters said no.",
+        "question": "Which Nordic country, despite completed accession negotiations, rejected membership in referendums in 1972 and 1994?",
+        "options": [
+          "Denmark",
+          "Sweden",
+          "Norway",
+          "Iceland"
+        ],
+        "answer": 2,
+        "explanation": "Norway negotiated accession for the 1973 and 1995 enlargements, but its voters rejected membership in referendums (1972, 1994); Denmark joined in 1973, Sweden in 1995, and Iceland did not apply until 2009."
+      },
+      "el": {
+        "passage": "5. Η ένταξη στην Ένωση δεν ήταν πάντα εύκολο «ναι»: σε ορισμένες χώρες οι ψηφοφόροι είπαν «όχι».",
+        "question": "Ποια βορειοευρωπαϊκή χώρα, παρά τις ολοκληρωμένες διαπραγματεύσεις για την ένταξη, απέρριψε τη συμμετοχή σε δημοψηφίσματα το 1972 και το 1994;",
+        "options": [
+          "Η Δανία",
+          "Η Σουηδία",
+          "Η Νορβηγία",
+          "Η Ισλανδία"
+        ],
+        "answer": 2,
+        "explanation": "Η Νορβηγία διαπραγματεύτηκε την προσχώρηση για τις διευρύνσεις του 1973 και του 1995, αλλά οι ψηφοφόροι της απέρριψαν την ένταξη σε δημοψηφίσματα (1972, 1994)· η Δανία εντάχθηκε το 1973, η Σουηδία το 1995, ενώ η Ισλανδία υπέβαλε αίτηση μόλις το 2009."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The vision of a single European currency preceded the euro by decades.",
+        "question": "Which 1970 report first set out a step-by-step plan for an economic and monetary union by 1980?",
+        "options": [
+          "The Barre Plan",
+          "The Werner Report",
+          "The MacDougall Report",
+          "The Delors Report"
+        ],
+        "answer": 1,
+        "explanation": "The Werner Report (1970) presented the first staged plan for an economic and monetary union by 1980; the Barre Plan (1969) preceded it, the MacDougall Report (1977) examined public finances, and the Delors Report (1989) paved the way to Maastricht."
+      },
+      "el": {
+        "passage": "6. Το όραμα ενός ενιαίου ευρωπαϊκού νομίσματος προηγήθηκε κατά δεκαετίες του ευρώ.",
+        "question": "Ποια έκθεση του 1970 παρουσίασε το πρώτο σταδιακό σχέδιο για οικονομική και νομισματική ένωση έως το 1980;",
+        "options": [
+          "Το σχέδιο Μπαρ",
+          "Η έκθεση Βέρνερ",
+          "Η έκθεση ΜακΝτόγκαλ",
+          "Η έκθεση Ντελόρ"
+        ],
+        "answer": 1,
+        "explanation": "Η έκθεση Βέρνερ (1970) παρουσίασε το πρώτο σταδιακό σχέδιο για ΟΝΕ έως το 1980· το σχέδιο Μπαρ (1969) προηγήθηκε, η έκθεση ΜακΝτόγκαλ (1977) εξέτασε τα δημόσια οικονομικά, ενώ η έκθεση Ντελόρ (1989) άνοιξε τον δρόμο για το Μάαστριχτ."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The mechanism by which Parliament and Council legislate as equals evolved through successive treaties.",
+        "question": "Which treaty first introduced the codecision procedure (today's ordinary legislative procedure)?",
+        "options": [
+          "The Single European Act",
+          "The Maastricht Treaty",
+          "The Treaty of Amsterdam",
+          "The Treaty of Lisbon"
+        ],
+        "answer": 1,
+        "explanation": "The Maastricht Treaty introduced codecision (Article 189b TEC); the Single European Act had created the weaker 'cooperation procedure', Amsterdam extended codecision, and Lisbon renamed it the ordinary legislative procedure."
+      },
+      "el": {
+        "passage": "7. Ο μηχανισμός με τον οποίο Κοινοβούλιο και Συμβούλιο νομοθετούν ως ίσοι εξελίχθηκε μέσα από διαδοχικές συνθήκες.",
+        "question": "Ποια συνθήκη εισήγαγε για πρώτη φορά τη διαδικασία συναπόφασης (σημερινή συνήθης νομοθετική διαδικασία);",
+        "options": [
+          "Η Ενιαία Ευρωπαϊκή Πράξη",
+          "Η Συνθήκη του Μάαστριχτ",
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Λισαβόνας"
+        ],
+        "answer": 1,
+        "explanation": "Η Συνθήκη του Μάαστριχτ εισήγαγε τη συναπόφαση (άρθρο 189β ΤΕΚ)· η Ενιαία Ευρωπαϊκή Πράξη είχε δημιουργήσει την ασθενέστερη «διαδικασία συνεργασίας», το Άμστερνταμ επέκτεινε τη συναπόφαση, και η Λισαβόνα τη μετονόμασε σε συνήθη νομοθετική διαδικασία."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The body giving strategic direction to the Union operates on a treaty-based meeting rhythm.",
+        "question": "How often must the European Council, pursuant to Article 15 TEU, meet?",
+        "options": [
+          "At least once a year",
+          "At least three times a year",
+          "Twice every six months",
+          "Once every two months"
+        ],
+        "answer": 2,
+        "explanation": "Article 15(3) TEU: the European Council shall meet twice every six months, convened by its President; in practice it meets about four times a year, plus special summits."
+      },
+      "el": {
+        "passage": "8. Το όργανο που δίνει στρατηγικές κατευθύνσεις στην Ένωση λειτουργεί βάσει συνθηκολογικού ρυθμού συνόδων.",
+        "question": "Πόσο συχνά πρέπει, σύμφωνα με το άρθρο 15 ΤΕΕ, να συνέρχεται το Ευρωπαϊκό Συμβούλιο;",
+        "options": [
+          "Τουλάχιστον μία φορά τον χρόνο",
+          "Τουλάχιστον τρεις φορές τον χρόνο",
+          "Δύο φορές κάθε εξάμηνο",
+          "Μία φορά κάθε δύο μήνες"
+        ],
+        "answer": 2,
+        "explanation": "Άρθρο 15 παρ. 3 ΤΕΕ: το Ευρωπαϊκό Συμβούλιο συνέρχεται δύο φορές κάθε εξάμηνο, με σύγκληση από τον Πρόεδρό του· στην πράξη συνέρχεται περίπου τέσσερις φορές τον χρόνο, συν έκτακτες κορυφές."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The election of the Commission's president combines national equality in the European Council with accountability to Parliament.",
+        "question": "What majority does the European Parliament need to elect the President of the Commission?",
+        "options": [
+          "A simple majority of the votes cast",
+          "A majority of its component Members",
+          "Two-thirds of the votes cast",
+          "Three-quarters of all its Members"
+        ],
+        "answer": 1,
+        "explanation": "Article 17(7) TEU: the European Council proposes the candidate by qualified majority (taking account of the European elections) and Parliament elects him or her by a majority of its component Members."
+      },
+      "el": {
+        "passage": "9. Η εκλογή του προέδρου της Επιτροπής συνδυάζει την κρατική ισοτιμία στο Ευρωπαϊκό Συμβούλιο με την κοινοβουλευτική λογοδοσία.",
+        "question": "Ποια πλειοψηφία απαιτείται στο Ευρωπαϊκό Κοινοβούλιο για την εκλογή του Προέδρου της Επιτροπής;",
+        "options": [
+          "Απλή πλειοψηφία των ψηφισάντων",
+          "Πλειοψηφία του συνόλου των μελών του",
+          "Δύο τρίτα των ψηφισάντων",
+          "Τα τρία τέταρτα όλων των μελών"
+        ],
+        "answer": 1,
+        "explanation": "Άρθρο 17 παρ. 7 ΤΕΕ: το Ευρωπαϊκό Συμβούλιο προτείνει τον υποψήφιο με ενισχυμένη πλειοψηφία (λαμβάνοντας υπόψη τα αποτελέσματα των ευρωεκλογών) και το Κοινοβούλιο τον εκλέγει με πλειοψηφία του συνόλου των μελών του."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. Before the College of Commissioners takes office, its prospective members undergo a parliamentary vetting procedure.",
+        "question": "What happens in the European Parliament before the vote on the College of Commissioners?",
+        "options": [
+          "It elects each Commissioner individually",
+          "It holds hearings of the commissioner-designates in its specialised committees, before voting on the College as a whole",
+          "It approves the College without scrutiny once the European Council has decided",
+          "It interviews only the elected President of the Commission"
+        ],
+        "answer": 1,
+        "explanation": "Each commissioner-designate is assessed by the parliamentary committee covering the assigned portfolio; committees may block candidates, prompting the President-elect to ask the member state for a replacement, before Parliament votes on the College as a whole."
+      },
+      "el": {
+        "passage": "10. Πριν το Σώμα των Επιτρόπων αναλάβει τα καθήκοντά του, τα πρόσωπα που το απαρτίζουν περνούν από κοινοβουλευτικό έλεγχο.",
+        "question": "Τι συμβαίνει στο Ευρωπαϊκό Κοινοβούλιο πριν από την ψηφοφορία επί του Σώματος των Επιτρόπων;",
+        "options": [
+          "Εκλέγει κάθε Επίτροπο ξεχωριστά",
+          "Διενεργεί ακροάσεις των επιτρόπων-υποψηφίων στις αρμόδιες επιτροπές του, πριν ψηφίσει επί του Σώματος ως συνόλου",
+          "Εγκρίνει το Σώμα χωρίς έλεγχο, αφού αποφασίσει το Ευρωπαϊκό Συμβούλιο",
+          "Ακροάται μόνο τον εκλεγμένο Πρόεδρο της Επιτροπής"
+        ],
+        "answer": 1,
+        "explanation": "Κάθε Επίτροπος-υποψήφιος εξετάζεται από την κοινοβουλευτική επιτροπή που καλύπτει το χαρτοφυλάκιό του· οι επιτροπές μπορούν να μπλοκάρουν υποψηφίους, με αποτέλεσμα ο εκλεγμένος Πρόεδρος να ζητά αντικαταστάτη από το κράτος μέλος, προτού το Κοινοβούλιο ψηφίσει επί του Σώματος ως συνόλου."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. A participation safeguard allows citizens to call on the Commission to legislate.",
+        "question": "What must the Commission do once a European Citizens' Initiative (ECI) gathers at least 1 million signatures from at least seven member states?",
+        "options": [
+          "It must table a legislative proposal responding to the initiative",
+          "The Court of Justice enforces the demands",
+          "The European Parliament votes to make the demands binding",
+          "It must meet the organisers, hold a public hearing and issue a formal reply, without being obliged to legislate"
+        ],
+        "answer": 3,
+        "explanation": "Regulation (EU) 2021/211 (ECI): for admissible initiatives reaching 1 million signatures from at least seven member states, the Commission meets the organisers, organises a public hearing and sets out its conclusions in a formal reply — it is not obliged to propose legislation."
+      },
+      "el": {
+        "passage": "11. Μια δικλείδα συμμετοχής επιτρέπει στους πολίτες να καλέσουν την Επιτροπή σε νομοθετική δράση.",
+        "question": "Τι πρέπει να πράξει η Επιτροπή εφόσον μια Ευρωπαϊκή Πρωτοβουλία Πολιτών (ΕΠΠ) συγκεντρώσει τουλάχιστον 1 εκατομμύριο υπογραφές από τουλάχιστον επτά κράτη μέλη;",
+        "options": [
+          "Οφείλει να καταθέσει νομοθετική πρόταση που να ανταποκρίνεται στην πρωτοβουλία",
+          "Το Δικαστήριο επιβάλλει την ικανοποίηση των αιτημάτων",
+          "Το Ευρωπαϊκό Κοινοβούλιο ψηφίζει τον δεσμευτικό χαρακτήρα των αιτημάτων",
+          "Οφείλει να συναντήσει τους διοργανωτές, να διενεργήσει δημόσια ακρόαση και να εκδώσει επίσημη απάντηση, χωρίς να δεσμεύεται να νομοθετήσει"
+        ],
+        "answer": 3,
+        "explanation": "Κανονισμός (ΕΕ) 2021/211 (ΕΠΠ): για αποδεκτές πρωτοβουλίες που φθάνουν το 1 εκατ. υπογραφές από τουλάχιστον επτά κράτη μέλη, η Επιτροπή συναντά τους διοργανωτές, διοργανώνει δημόσια ακρόαση και εκθέτει τα συμπεράσματά της σε επίσημη απάντηση — δεν υποχρεούται να καταθέσει νομοθετική πρόταση."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. A dedicated institution pursues criminal prosecution of offences against the Union's financial interests.",
+        "question": "What is the European Public Prosecutor's Office (EPPO)?",
+        "options": [
+          "Europol's prosecution arm",
+          "An independent office, created under enhanced cooperation, which prosecutes crimes against the EU's financial interests",
+          "The financial chamber of the Court of Justice",
+          "The EU's liaison office with the OECD"
+        ],
+        "answer": 1,
+        "explanation": "The EPPO (Regulation (EU) 2017/1939), established under enhanced cooperation by more than 20 member states, is an independent office seated in Luxembourg that investigates and prosecutes fraud, VAT fraud and other offences against the EU's financial interests; Europol has no prosecutorial powers."
+      },
+      "el": {
+        "passage": "12. Εξειδικευμένος θεσμός αναλαμβάνει την ποινική δίωξη αδικημάτων σε βάρος των οικονομικών συμφερόντων της Ένωσης.",
+        "question": "Τι είναι η Ευρωπαϊκή Εισαγγελία (EPPO);",
+        "options": [
+          "Η ποινική διωκτική υπηρεσία της Europol",
+          "Ένα ανεξάρτητο γραφείο, που ιδρύθηκε στο πλαίσιο ενισχυμένης συνεργασίας, το οποίο διώκει αδικήματα σε βάρος των οικονομικών συμφερόντων της ΕΕ",
+          "Το χρηματοδοτικό τμήμα του Δικαστηρίου της Ένωσης",
+          "Το γραφείο σύνδεσης της ΕΕ με τον ΟΟΣΑ"
+        ],
+        "answer": 1,
+        "explanation": "Η Ευρωπαϊκή Εισαγγελία (Κανονισμός (ΕΕ) 2017/1939), που ιδρύθηκε με ενισχυμένη συνεργασία από περισσότερα από 20 κράτη μέλη, είναι ανεξάρτητο γραφείο με έδρα το Λουξεμβούργο, το οποίο διερευνά και διώκει απάτες, απάτες ΦΠΑ και άλλα αδικήματα κατά των οικονομικών συμφερόντων της ΕΕ· η Europol δεν έχει διωκτικές αρμοδιότητες."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Two distinct mechanisms protect the Union's financial resources: one administrative, one criminal.",
+        "question": "Which investigations does OLAF (the European Anti-Fraud Office) carry out?",
+        "options": [
+          "Audits of member states' national budgets",
+          "Screening of foreign direct investments for security risks",
+          "Criminal prosecutions of fraudsters before the EU courts",
+          "Administrative investigations, including on-the-spot checks, into fraud affecting the Union budget"
+        ],
+        "answer": 3,
+        "explanation": "OLAF conducts administrative investigations, including on-the-spot checks, into fraud, corruption and misconduct affecting EU funds; criminal prosecution belongs to the EPPO and the national authorities."
+      },
+      "el": {
+        "passage": "13. Δύο διακριτοί μηχανισμοί προστατεύουν τους δημοσιονομικούς πόρους της Ένωσης: ένας διοικητικός και ένας ποινικός.",
+        "question": "Ποιες έρευνες διενεργεί το ΕΥΠΑΦ (OLAF);",
+        "options": [
+          "Τον έλεγχο των εθνικών προϋπολογισμών των κρατών μελών",
+          "Τον έλεγχο άμεσων ξένων επενδύσεων για λόγους ασφαλείας",
+          "Ποινικές διώξεις κατά δραστών απάτης ενώπιον των ευρωπαϊκών δικαστηρίων",
+          "Διοικητικές έρευνες, συμπεριλαμβανομένων επιτόπιων ελέγχων, για απάτη εις βάρος του προϋπολογισμού της Ένωσης"
+        ],
+        "answer": 3,
+        "explanation": "Το ΕΥΠΑΦ (Ευρωπαϊκό Γραφείο Καταπολέμησης της Απάτης) διενεργεί διοικητικές έρευνες, με επιτόπιους ελέγχους, για απάτη, διαφθορά και κακοδιαχείριση εις βάρος των ενωσιακών πόρων· την ποινική δίωξη ασκούν η Ευρωπαϊκή Εισαγγελία και οι εθνικές αρχές."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The euro area's monetary decisions are taken by a body combining the European and the national level.",
+        "question": "Who makes up the ECB's Governing Council?",
+        "options": [
+          "The Eurogroup ministers and the ECB President",
+          "The governors of all 27 EU central banks",
+          "The finance ministers of the euro area",
+          "The Executive Board and the governors of the euro area's national central banks"
+        ],
+        "answer": 3,
+        "explanation": "The ECB's Governing Council comprises the six Executive Board members and the governors of the euro area's national central banks, and takes monetary policy decisions; the Eurogroup is an informal forum of finance ministers."
+      },
+      "el": {
+        "passage": "14. Οι νομισματικές αποφάσεις της ευρωζώνης λαμβάνονται από όργανο που συνδυάζει το ενωσιακό και το εθνικό επίπεδο.",
+        "question": "Ποιοι συνθέτουν το Διοικητικό Συμβούλιο (Governing Council) της ΕΚΤ;",
+        "options": [
+          "Οι υπουργοί του Eurogroup και ο Πρόεδρος της ΕΚΤ",
+          "Οι 27 διοικητές όλων των κεντρικών τραπεζών της ΕΕ",
+          "Οι υπουργοί Οικονομικών της ευρωζώνης",
+          "Η Εκτελεστική Επιτροπή και οι διοικητές των εθνικών κεντρικών τραπεζών της ευρωζώνης"
+        ],
+        "answer": 3,
+        "explanation": "Το Διοικητικό Συμβούλιο της ΕΚΤ αποτελείται από τα έξι μέλη της Εκτελεστικής Επιτροπής και τους διοικητές των εθνικών κεντρικών τραπεζών της ευρωζώνης και λαμβάνει τις αποφάσεις νομισματικής πολιτικής· το Eurogroup είναι ανεπίσημο φόρουμ υπουργών Οικονομικών."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. Behind the 'EU's bank' stands a governing body reflecting its ownership by the member states.",
+        "question": "Who constitute the Board of Governors of the European Investment Bank?",
+        "options": [
+          "The finance ministers of the member states",
+          "The governors of the national central banks",
+          "The Commissioners responsible for economy and energy",
+          "The members of Parliament's Budget Committee"
+        ],
+        "answer": 0,
+        "explanation": "The EIB's Board of Governors (Article 287 TFEU) is generally composed of the member states' finance ministers and sets the bank's credit policy directions; the Management Committee runs day-to-day business."
+      },
+      "el": {
+        "passage": "15. Πίσω από την «τράπεζα της Ένωσης» βρίσκεται διοικητικό όργανο που αντικατοπτρίζει την ιδιοκτησία της από τα κράτη μέλη.",
+        "question": "Ποιοι αποτελούν το Διοικητικό Συμβούλιο (Board of Governors) της Ευρωπαϊκής Τράπεζας Επενδύσεων;",
+        "options": [
+          "Οι υπουργοί Οικονομικών των κρατών μελών",
+          "Οι διοικητές των εθνικών κεντρικών τραπεζών",
+          "Οι Επίτροποι αρμόδιοι για την οικονομία και την ενέργεια",
+          "Τα μέλη της Επιτροπής Προϋπολογισμών του Κοινοβουλίου"
+        ],
+        "answer": 0,
+        "explanation": "Το Διοικητικό Συμβούλιο της ΕΤΕ (άρθρο 287 ΣΛΕΕ) απαρτίζεται συνήθως από τους υπουργούς Οικονομικών των κρατών μελών και ορίζει τις κατευθύνσεις της πιστωτικής πολιτικής· η Διευθυντική Επιτροπή διευθύνει την τράπεζα στην καθημερινή της λειτουργία."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The members of the Union's two advisory bodies are appointed, not elected.",
+        "question": "How are the members of the Committee of the Regions and the EESC appointed?",
+        "options": [
+          "Appointed by the Council of the EU on national nominations, for renewable five-year terms",
+          "Directly elected by citizens every five years",
+          "Nominated by the European Parliament for four-year terms",
+          "Appointed by the Commission on merit"
+        ],
+        "answer": 0,
+        "explanation": "CoR and EESC members are nominated by their governments and appointed by the Council for renewable five-year terms; they are not directly elected."
+      },
+      "el": {
+        "passage": "16. Τα μέλη των δύο συμβουλευτικών οργάνων της Ένωσης διορίζονται, δεν εκλέγονται.",
+        "question": "Πώς διορίζονται τα μέλη της Επιτροπής των Περιφερειών και της ΕΟΚΕ;",
+        "options": [
+          "Διορίζονται από το Συμβούλιο της ΕΕ κατόπιν εθνικών προτάσεων, για ανανεώσιμη πενταετή θητεία",
+          "Εκλέγονται απευθείας από τους πολίτες κάθε πέντε χρόνια",
+          "Ορίζονται από το Ευρωπαϊκό Κοινοβούλιο για τετραετή θητεία",
+          "Διορίζονται από την Επιτροπή βάσει αξιοκρατικών κριτηρίων"
+        ],
+        "answer": 0,
+        "explanation": "Τα μέλη της Επιτροπής των Περιφερειών και της ΕΟΚΕ προτείνουν οι κυβερνήσεις των κρατών μελών και διορίζονται από το Συμβούλιο για ανανεώσιμη πενταετή θητεία· δεν εκλέγονται απευθείας."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Union's rulebook rests on a triad of principles governing when and how it may act.",
+        "question": "Which principle means that the Union acts only within the limits of the competences conferred on it by the Treaties?",
+        "options": [
+          "The principle of sincere cooperation",
+          "The principle of subsidiarity",
+          "The principle of conferral",
+          "The principle of proportionality"
+        ],
+        "answer": 2,
+        "explanation": "Article 5(1)–(2) TEU: the principle of conferral — the Union acts only within the limits of the competences the member states conferred on it; subsidiarity and proportionality govern the exercise of those competences."
+      },
+      "el": {
+        "passage": "17. Το θεσμικό καθεστώς της Ένωσης στηρίζεται σε τριάδα αρχών που καθορίζει πότε και πώς μπορεί να δράσει.",
+        "question": "Ποια αρχή σημαίνει ότι η Ένωση ενεργεί μόνο εντός των ορίων των αρμοδιοτήτων που της αναθέτουν οι Συνθήκες;",
+        "options": [
+          "Η αρχή της ενδελεχούς συνεργασίας",
+          "Η αρχή της επικουρικότητας",
+          "Η αρχή της ανάθεσης αρμοδιοτήτων (conferral)",
+          "Η αρχή της αναλογικότητας"
+        ],
+        "answer": 2,
+        "explanation": "Άρθρο 5 παρ. 1–2 ΤΕΕ: η αρχή της ανάθεσης αρμοδιοτήτων — η Ένωση ενεργεί μόνο εντός των ορίων των αρμοδιοτήτων που της αναθέτουν τα κράτη μέλος μέσω των Συνθηκών· η επικουρικότητα και η αναλογικότητα ρυθμίζουν την άσκησή τους."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. In areas of shared competence, one principle decides whether the Union or the national level should act.",
+        "question": "Under the subsidiarity principle (Article 5(3) TEU), the Union may act only:",
+        "options": [
+          "Where the objectives cannot be sufficiently achieved by the member states, but can be better achieved at Union level (scale and effects)",
+          "Where member states request support",
+          "Where costs are lower at Union level",
+          "Where unanimity can be reached"
+        ],
+        "answer": 0,
+        "explanation": "Article 5(3) TEU: in areas which do not fall within its exclusive competence, the Union acts only if the objectives of the proposed action cannot be sufficiently achieved by the member states but, by reason of scale or effects, can be better achieved at Union level."
+      },
+      "el": {
+        "passage": "18. Στους τομείς της κοινής αρμοδιότητας, μία αρχή αποφασίζει αν πρέπει να δράσει το ενωσιακό ή το εθνικό επίπεδο.",
+        "question": "Σύμφωνα με την αρχή της επικουρικότητας (άρθρο 5 παρ. 3 ΤΕΕ), η Ένωση δρα μόνο:",
+        "options": [
+          "Όταν οι στόχοι δεν επιτυγχάνονται επαρκώς από τα κράτη μέλη, αλλά μπορούν να επιτευχθούν καλύτερα σε επίπεδο Ένωσης (κλίμακα και αποτελέσματα)",
+          "Όταν τα κράτη μέλη ζητούν στήριξη",
+          "Όταν το κόστος είναι χαμηλότερο σε επίπεδο Ένωσης",
+          "Όταν μπορεί να επιτευχθεί ομοφωνία"
+        ],
+        "answer": 0,
+        "explanation": "Άρθρο 5 παρ. 3 ΤΕΕ: σε τομείς που δεν ανήκουν στην αποκλειστική της αρμοδιότητα, η Ένωση δρα μόνο εφόσον οι στόχοι της προτεινόμενης δράσης δεν μπορούν να επιτευχθούν επαρκώς από τα κράτη μέλη, αλλά, λόγω της κλίμακας ή των αποτελεσμάτων, μπορούν να επιτευχθούν καλύτερα σε επίπεδο Ένωσης."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. A 1979 ruling on a fruit liqueur became a cornerstone of the single market.",
+        "question": "Which principle did the Cassis de Dijon judgment (1979) establish?",
+        "options": [
+          "The abolition of all national rules on products",
+          "Circulation of only EU-standardised products",
+          "Neutralisation of regulatory differences through taxation",
+          "Mutual recognition: goods lawfully marketed in one member state must in principle be accepted in the others"
+        ],
+        "answer": 3,
+        "explanation": "In Cassis de Dijon (1979) the Court established mutual recognition: goods lawfully produced and marketed in one member state must in principle be admitted in the others, subject only to mandatory requirements such as public health."
+      },
+      "el": {
+        "passage": "19. Μια απόφαση του 1979 για ένα λικέρ φρούτων έγινε ακρογωνιαίος λίθος της ενιαίας αγοράς.",
+        "question": "Ποια αρχή καθιέρωσε η απόφαση Cassis de Dijon (1979);",
+        "options": [
+          "Την κατάργηση όλων των εθνικών κανόνων για τα προϊόντα",
+          "Την κυκλοφορία μόνο προϊόντων με ενωσιακή τυποποίηση",
+          "Την εξουδετέρωση των ρυθμιστικών διαφορών μέσω φορολόγησης",
+          "Την αμοιβαία αναγνώριση: προϊόντα που κυκλοφορούν νόμιμα σε ένα κράτος μέλος γίνονται κατ' αρχήν δεκτά στα λοιπά"
+        ],
+        "answer": 3,
+        "explanation": "Στην υπόθεση Cassis de Dijon (1979) το Δικαστήριο καθιέρωσε την αμοιβαία αναγνώριση: προϊόντα που παράγονται και κυκλοφορούν νόμιμα σε ένα κράτος μέλος πρέπει κατ' αρχήν να γίνονται δεκτά στα λοιπά, με μόνη εξαίρεση επιτακτικές απαιτήσεις, όπως η δημόσια υγεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. State subsidies to companies are tightly controlled to prevent distortion of competition.",
+        "question": "What is the rule of Article 107 TFEU on state aid?",
+        "options": [
+          "Any aid must be approved by the Council before payment",
+          "State aid is in principle compatible if it targets industry",
+          "Aid that distorts competition by favouring certain undertakings is in principle incompatible with the internal market, unless it falls under exceptions or is approved by the Commission",
+          "Only aid above 1 million euros is controlled"
+        ],
+        "answer": 2,
+        "explanation": "Article 107(1) TFEU: aid granted by member states which distorts or threatens to distort competition by favouring certain undertakings is in principle incompatible with the internal market, unless otherwise provided by the Treaties (e.g. regional or environmental derogations) or approved by the Commission."
+      },
+      "el": {
+        "passage": "20. Οι κρατικές ενισχύσεις προς επιχειρήσεις ελέγχονται αυστηρά, ώστε να μη στρεβλώνεται ο ανταγωνισμός.",
+        "question": "Ποιος είναι ο κανόνας του άρθρου 107 ΣΛΕΕ για τις κρατικές ενισχύσεις;",
+        "options": [
+          "Κάθε ενίσχυση πρέπει να εγκρίνεται από το Συμβούλιο προτού καταβληθεί",
+          "Οι κρατικές ενισχύσεις είναι κατ' αρχήν συμβατές εάν στοχεύουν τη βιομηχανία",
+          "Οι ενισχύσεις που στρεβλώνουν τον ανταγωνισμό, ευνοώντας ορισμένες επιχειρήσεις, είναι κατ' αρχήν ασυμβίβαστες με την εσωτερική αγορά, εκτός αν εμπίπτουν σε εξαιρέσεις ή εγκρίνονται από την Επιτροπή",
+          "Ελέγχονται μόνο οι ενισχύσεις άνω του 1 εκατομμυρίου ευρώ"
+        ],
+        "answer": 2,
+        "explanation": "Άρθρο 107 παρ. 1 ΣΛΕΕ: οι ενισχύσεις που χορηγούν τα κράτη μέλη και στρεβλώνουν ή απειλούν να στρεβλώσουν τον ανταγωνισμό, ευνοώντας ορισμένες επιχειρήσεις, είναι κατ' αρχήν ασυμβίβαστες με την εσωτερική αγορά, εκτός αν προβλέπεται άλλως στις Συνθήκες (π.χ. περιφερειακές ή περιβαλλοντικές εξαιρέσεις) ή τις εγκρίνει η Επιτροπή."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Directives leave member states a certain flexibility as to how to achieve the intended goal.",
+        "question": "What freedom do member states have when transposing a directive into national law?",
+        "options": [
+          "They may change the objective of the directive as long as they meet the deadline",
+          "Their national texts must copy the directive word for word",
+          "They must await the Commission's model law",
+          "They are free to choose the forms and methods for achieving the required result"
+        ],
+        "answer": 3,
+        "explanation": "Article 288 TFEU: a directive binds each member state only as to the result; states are free to choose the forms and methods of transposition — they may not change the objective and must meet the deadline."
+      },
+      "el": {
+        "passage": "21. Οι οδηγίες αφήνουν στα κράτη μέλη ορισμένη ευελιξία ως προς τον τρόπο επίτευξης του επιδιωκόμενου στόχου.",
+        "question": "Ποια ελευθερία έχουν τα κράτη μέλος κατά τη μεταφορά μιας οδηγίας στην εθνική έννομη τάξη;",
+        "options": [
+          "Μπορούν να αλλάξουν τον στόχο της οδηγίας εφόσον τηρήσουν την προθεσμία",
+          "Τα εθνικά τους κείμενα πρέπει να αντιγράφουν την οδηγία κατά λέξη",
+          "Πρέπει να περιμένουν το πρότυπο νόμο της Επιτροπής",
+          "Είναι ελεύθερα να επιλέξουν τις μορφές και τα μέσα για την επίτευξη του απαιτούμενου αποτελέσματος"
+        ],
+        "answer": 3,
+        "explanation": "Άρθρο 288 ΣΛΕΕ: η οδηγία δεσμεύει κάθε κράτος μέλος μόνο ως προς το αποτέλεσμα· τα κράτη είναι ελεύθερα να επιλέξουν τις μορφές και τα μέσα της μεταφοράς — δεν μπορούν να αλλάξουν τον στόχο και οφείλουν να τηρήσουν την προθεσμία."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. EU environmental law ranks the options for managing waste in a fixed order.",
+        "question": "Which option sits at the top of the EU waste hierarchy?",
+        "options": [
+          "Recycling",
+          "Prevention",
+          "Recovery of energy",
+          "Landfilling"
+        ],
+        "answer": 1,
+        "explanation": "The waste hierarchy (Waste Framework Directive 2008/98/EC) ranks the options: prevention first, then preparing for reuse, recycling, other recovery (including energy), with disposal last."
+      },
+      "el": {
+        "passage": "22. Η περιβαλλοντική νομοθεσία της Ένωσης ιεραρχεί με σταθερή σειρά τις επιλογές διαχείρισης των αποβλήτων.",
+        "question": "Ποια επιλογή βρίσκεται στην κορυφή της ενωσιακής ιεράρχησης αποβλήτων;",
+        "options": [
+          "Η ανακύκλωση",
+          "Η πρόληψη",
+          "Η ανάκτηση ενέργειας",
+          "Η υγειονομική ταφή"
+        ],
+        "answer": 1,
+        "explanation": "Η ιεράρχηση αποβλήτων (Οδηγία-Πλαίσιο 2008/98/ΕΚ) ταξινομεί τις επιλογές: πρώτα η πρόληψη, μετά η προετοιμασία για επαναχρησιμοποίηση, η ανακύκλωση, η λοιπή ανάκτηση (συμπεριλαμβανομένης της ενεργειακής), και τελευταία η απόρριψη (ταφή)."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. The economic union's fiscal safety thresholds are expressed as ratios of GDP.",
+        "question": "What are the reference values under the excessive deficit procedure?",
+        "options": [
+          "A deficit of 3% and a public debt of 60% of GDP",
+          "A deficit of 2% and a public debt of 50% of GDP",
+          "A deficit of 3% and a public debt of 100% of GDP",
+          "A deficit of 5% and a public debt of 60% of GDP"
+        ],
+        "answer": 0,
+        "explanation": "The Stability and Growth Pact reference values (Protocol No 12): a government deficit above 3% of GDP and public debt above 60% of GDP (unless sufficiently diminishing) trigger the excessive deficit procedure; the 2024 reform retained the 3% anchor."
+      },
+      "el": {
+        "passage": "23. Τα δημοσιονομικά «κατώφλια ασφαλείας» της νομισματικής ένωσης εκφράζονται ως ποσοστά του ΑΕΠ.",
+        "question": "Ποιες είναι οι τιμές αναφοράς στο πλαίσιο της διαδικασίας υπερβολικού ελλείμματος;",
+        "options": [
+          "Έλλειμμα 3% και δημόσιο χρέος 60% του ΑΕΠ",
+          "Έλλειμμα 2% και δημόσιο χρέος 50% του ΑΕΠ",
+          "Έλλειμμα 3% και δημόσιο χρέος 100% του ΑΕΠ",
+          "Έλλειμμα 5% και δημόσιο χρέος 60% του ΑΕΠ"
+        ],
+        "answer": 0,
+        "explanation": "Τιμές αναφοράς του Συμφώνου Σταθερότητας και Ανάπτυξης (Πρωτόκολλο 12): έλλειμμα άνω του 3% του ΑΕΠ και δημόσιο χρέος άνω του 60% του ΑΕΠ (εκτός αν μειώνεται επαρκώς) ενεργοποιούν τη διαδικασία υπερβολικού ελλείμματος· η μεταρρύθμιση του 2024 διατήρησε τον άξονα του 3%."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. After the 2008 crisis, the supervision of euro-area banks was reorganised into two tiers.",
+        "question": "Which body directly supervises the euro area's significant banks?",
+        "options": [
+          "The European Banking Authority (EBA)",
+          "The Eurogroup",
+          "The ECB, within the Single Supervisory Mechanism (SSM)",
+          "The national finance ministries jointly"
+        ],
+        "answer": 2,
+        "explanation": "Within the Single Supervisory Mechanism (Council Regulation (EU) 1024/2013), the ECB directly supervises significant credit institutions, while national supervisors cover the less significant ones; the EBA sets harmonised rules and the Eurogroup is a political forum."
+      },
+      "el": {
+        "passage": "24. Μετά την κρίση του 2008, η εποπτεία των τραπεζών της ευρωζώνης αναδιοργανώθηκε σε δύο επίπεδα.",
+        "question": "Ποιο όργανο εποπτεύει απευθείας τις σημαντικές τράπεζες της ευρωζώνης;",
+        "options": [
+          "Η Ευρωπαϊκή Αρχή Τραπεζών (EBA)",
+          "Το Eurogroup",
+          "Η ΕΚΤ, στο πλαίσιο του Ενιαίου Εποπτικού Μηχανισμού (ΕΕΜ)",
+          "Οι εθνικές αρχές από κοινού, υπό τους υπουργούς Οικονομικών"
+        ],
+        "answer": 2,
+        "explanation": "Στο πλαίσιο του Ενιαίου Εποπτικού Μηχανισμού (Κανονισμός Συμβουλίου (ΕΕ) 1024/2013), η ΕΚΤ εποπτεύει απευθείας τα σημαντικά πιστωτικά ιδρύματα, ενώ οι εθνικοί εποπτές καλύπτουν τα λιγότερο σημαντικά· η EBA θεσπίζει εναρμονισμένους κανόνες και το Eurogroup αποτελεί πολιτικό φόρουμ."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The Union's medium-term climate objective now has legally binding force.",
+        "question": "Which act makes the EU's objective of climate neutrality by 2050 legally binding?",
+        "options": [
+          "The European Green Deal Communication",
+          "The European Climate Law (Regulation (EU) 2021/1119)",
+          "The Emissions Trading Directive",
+          "The Paris Agreement"
+        ],
+        "answer": 1,
+        "explanation": "The European Climate Law (Regulation (EU) 2021/1119) makes the net-zero objective for 2050 — and the −55% target for 2030 — legally binding; the Green Deal is a political strategy (a Communication), not legislation."
+      },
+      "el": {
+        "passage": "25. Ο μεσοπρόθεσμος κλιματικός στόχος της Ένωσης έχει πλέον νομικά δεσμευτικό χαρακτήρα.",
+        "question": "Ποια πράξη καθιστά νομικά δεσμευτικό τον στόχο της ΕΕ για κλιματική ουδετερότητα έως το 2050;",
+        "options": [
+          "Η ανακοίνωση για την Ευρωπαϊκή Πράσινη Συμφωνία",
+          "Ο Ευρωπαϊκός Κλιματικός Νόμος (Κανονισμός (ΕΕ) 2021/1119)",
+          "Η οδηγία για το σύστημα εμπορίας δικαιωμάτων εκπομπής",
+          "Η Συμφωνία των Παρισίων"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Κλιματικός Νόμος (Κανονισμός (ΕΕ) 2021/1119) καθιστά νομικά δεσμευτικούς τον στόχο καθαρών μηδενικών εκπομπών έως το 2050 και τον στόχο μείωσης κατά 55% έως το 2030· η Πράσινη Συμφωνία είναι πολιτική στρατηγική (ανακοίνωση), όχι νομοθεσία."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. The digital single market has introduced special rules for very large online platforms.",
+        "question": "To whom does the Digital Markets Act (DMA) apply?",
+        "options": [
+          "All online retailers above a turnover threshold",
+          "Internet service providers",
+          "Large online platforms designated as 'gatekeepers' for core platform services",
+          "Public broadcasting media"
+        ],
+        "answer": 2,
+        "explanation": "The DMA (Regulation (EU) 2022/1925) imposes do's and don'ts on 'gatekeepers' — large platforms designated for core platform services such as search engines, social networks and app stores."
+      },
+      "el": {
+        "passage": "26. Η ψηφιακή ενιαία αγορά θέσπισε ειδικούς κανόνες για τις υπερμεγέθεις διαδικτυακές πλατφόρμες.",
+        "question": "Σε ποιους εφαρμόζεται ο Κανονισμός για τις Ψηφιακές Αγορές (DMA);",
+        "options": [
+          "Σε όλους τους διαδικτυακούς λιανοπωλητές άνω ορισμένου κύκλου εργασιών",
+          "Στους παρόχους υπηρεσιών διαδικτύου",
+          "Στις μεγάλες διαδικτυακές πλατφόρμες που χαρακτηρίζονται «θεματοφύλακες» (gatekeepers) για βασικές υπηρεσίες πλατφόρμας",
+          "Στα δημόσια ραδιοτηλεοπτικά μέσα"
+        ],
+        "answer": 2,
+        "explanation": "Ο DMA (Κανονισμός (ΕΕ) 2022/1925) επιβάλλει υποχρεώσεις και απαγορεύσεις στους «θεματοφύλακες» — μεγάλες πλατφόρμες που χαρακτηρίζονται για βασικές υπηρεσίες πλατφόρμας, όπως οι μηχανές αναζήτησης, τα κοινωνικά δίκτυα και τα καταστήματα εφαρμογών."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. The common European asylum system rests on rules determining which state examines each application.",
+        "question": "Under the Dublin III Regulation, which member state is in principle responsible for examining an asylum application?",
+        "options": [
+          "Generally, the first member state the applicant entered or in which the claim was lodged",
+          "The member state the applicant prefers",
+          "All member states jointly and severally",
+          "The member state of the applicant's intended final destination"
+        ],
+        "answer": 0,
+        "explanation": "The Dublin Regulation (EU) No 604/2013 makes the first member state of irregular entry, or the state where the application is lodged, in principle responsible, with exceptions (family unity, minors); the CEAS reform provides for gradual adjustments."
+      },
+      "el": {
+        "passage": "27. Το κοινό ευρωπαϊκό σύστημα ασύλου βασίζεται σε κανόνες που καθορίζουν ποιο κράτος εξετάζει κάθε αίτηση.",
+        "question": "Σύμφωνα με τον Κανονισμό Δουβλίνο III, ποιο κράτος μέλος είναι κατ' αρχήν υπεύθυνο για την εξέταση μιας αίτησης ασύλου;",
+        "options": [
+          "Κατά γενικό κανόνα, το πρώτο κράτος μέλος στο οποίο εισήλθε ο αιτών ή στο οποίο κατατέθηκε η αίτηση",
+          "Το κράτος μέλος που προτιμά ο αιτών",
+          "Όλα τα κράτη μέλος από κοινού και εις ολόκληρον",
+          "Το κράτος μέλος του τελικού επιθυμητού προορισμού του αιτούντος"
+        ],
+        "answer": 0,
+        "explanation": "Ο Κανονισμός Δουβλίνο (ΕΕ) αριθ. 604/2013 καθιστά υπεύθυνο κατ' αρχήν το πρώτο κράτος παράτυπης εισόδου ή εκείνο όπου κατατέθηκε η αίτηση, με εξαιρέσεις (συγκέντρωση οικογένειας, ανήλικοι)· η μεταρρύθμιση του ΚΕΣΑ προβλέπει σταδιακές προσαρμογές."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Two distinct solidarity clauses cover armed aggression on the one hand and terrorism or disasters on the other.",
+        "question": "Which provision obliges aid and assistance 'by all the means in their power' in the event of armed aggression on a member state's territory?",
+        "options": [
+          "Article 222 TFEU (the solidarity clause)",
+          "Article 5 of the Washington Treaty",
+          "Article 42(7) TEU (the mutual defence clause)",
+          "Article 4(2) TEU"
+        ],
+        "answer": 2,
+        "explanation": "Article 42(7) TEU provides for an obligation of aid and assistance by all the means in a state's power in the event of armed aggression — distinct from the (mainly civilian) solidarity clause of Article 222 TFEU on terrorist attacks and disasters, and from NATO's Article 5."
+      },
+      "el": {
+        "passage": "28. Δύο διακριτές ρήτρες αλληλεγγύης καλύπτουν, αφενός, την ένοπλη επίθεση και, αφετέρου, την τρομοκρατία ή τις καταστροφές.",
+        "question": "Ποια διάταξη προβλέπει υποχρέωση βοήθειας και συνδρομής «με όλα τα μέσα που διαθέτουν» σε περίπτωση ένοπλης επίθεσης στο έδαφος κράτους μέλους;",
+        "options": [
+          "Το άρθρο 222 ΣΛΕΕ (ρήτρα αλληλεγγύης)",
+          "Το άρθρο 5 της Συνθήκης της Ουάσινγκτον",
+          "Το άρθρο 42 παρ. 7 ΤΕΕ (ρήτρα αμοιβαίας άμυνας)",
+          "Το άρθρο 4 παρ. 2 ΤΕΕ"
+        ],
+        "answer": 2,
+        "explanation": "Άρθρο 42 παρ. 7 ΤΕΕ: υποχρέωση βοήθειας και συνδρομής με όλα τα μέσα στη διάθεση του κράτους σε περίπτωση ένοπλης επίθεσης — διακριτή από την (κυρίως πολιτική) ρήτρα αλληλεγγύης του άρθρου 222 ΣΛΕΕ για τρομοκρατικές επιθέσεις και καταστροφές, και από το άρθρο 5 της Συνθήκης του Βορείου Ατλαντικού (NATO)."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. The Union's humanitarian assistance is delivered on the basis of established principles and through a dedicated service.",
+        "question": "Which Commission service coordinates the EU's humanitarian aid?",
+        "options": [
+          "The Directorate-General for International Partnerships (INTPA)",
+          "The European External Action Service (EEAS)",
+          "The Directorate-General for Health and Food Safety (SANTE)",
+          "The Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)"
+        ],
+        "answer": 3,
+        "explanation": "DG ECHO manages the EU's humanitarian aid in line with the principles of humanity, neutrality, impartiality and independence; INTPA handles development cooperation and SANTE health and food safety."
+      },
+      "el": {
+        "passage": "29. Η ανθρωπιστική βοήθεια της Ένωσης παρέχεται βάσει καθιερωμένων αρχών και μέσω εξειδικευμένης υπηρεσίας.",
+        "question": "Ποια υπηρεσία της Επιτροπής συντονίζει την ανθρωπιστική βοήθεια της ΕΕ;",
+        "options": [
+          "Η Γενική Διεύθυνση Διεθνών Συνεργασιών (INTPA)",
+          "Η Ευρωπαϊκή Υπηρεσία Εξωτερικής Δράσης (ΕΥΕΔ)",
+          "Η Γενική Διεύθυνση Υγείας και Ασφάλειας των Τροφίμων (SANTE)",
+          "Η Γενική Διεύθυνση Ευρωπαϊκής Πολιτικής Προστασίας και Ανθρωπιστικής Βοήθειας (ECHO)"
+        ],
+        "answer": 3,
+        "explanation": "Η DG ECHO διαχειρίζεται την ανθρωπιστική βοήθεια της ΕΕ σύμφωνα με τις αρχές της ανθρωπιστικότητας, της ουδετερότητας, της αμεροληψίας και της ανεξαρτησίας· η INTPA χειρίζεται τη συνεργασία για την ανάπτυξη και η SANTE την υγεία και την ασφάλεια των τροφίμων."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. The Union has an official motto that links unity with diversity.",
+        "question": "What is the official motto of the European Union?",
+        "options": [
+          "United in diversity",
+          "Ever closer union",
+          "Strength through unity",
+          "One Europe, many voices"
+        ],
+        "answer": 0,
+        "explanation": "The EU's official motto, adopted in 2000, is 'United in diversity' (In varietate concordia); 'ever closer union' is a phrase from the preamble of the Treaty of Rome, not the motto."
+      },
+      "el": {
+        "passage": "30. Η Ένωση διαθέτει επίσημο ρητό που συνδυάζει την ενότητα με τη διαφορετικότητα.",
+        "question": "Ποιο είναι το επίσημο ρητό της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "«Ενωμένοι στη διαφορετικότητα»",
+          "«Όλο και στενότερη ένωση»",
+          "«Δύναμη μέσω της ενότητας»",
+          "«Μία Ευρώπη, πολλές φωνές»"
+        ],
+        "answer": 0,
+        "explanation": "Το επίσημο ρητό της ΕΕ, που υιοθετήθηκε το 2000, είναι «Ενωμένοι στη διαφορετικότητα» (In varietate concordia)· η φράση «όλο και στενότερη ένωση» προέρχεται από το προοίμιο της Συνθήκης της Ρώμης και δεν αποτελεί το ρητό."
+      }
+    }
   ]
 }
-
