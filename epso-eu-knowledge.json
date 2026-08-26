@@ -7458,6 +7458,788 @@
         "explanation": "Στην πράξη το ΠΔΠ καλύπτει επτά χρόνια· εγκρίνεται από το Συμβούλιο ομόφωνα με τη σύμφωνη γνώμη του Κοινοβουλίου (άρθρο 312 ΣΛΕΕ — οι Συνθήκες θέτουν ελάχιστο πέντε ετών), ενώ η απόφαση για τους ίδιους πόρους απαιτεί επιπλέον επικύρωση από όλα τα κράτη μέλη."
       }
     }
+  ],
+  "eu_11": [
+    {
+      "en": {
+        "passage": "1. Early attempts at military integration collapsed, redirecting the European project towards economic cooperation.",
+        "question": "Which failed project, rejected by the French National Assembly in 1954, forced a relaunch of integration on economic foundations, leading to the Treaties of Rome?",
+        "options": [
+          "The European Coal and Steel Community (ECSC)",
+          "The Western European Union (WEU)",
+          "The European Political Community (EPC)",
+          "The European Defence Community (EDC)"
+        ],
+        "answer": 3,
+        "explanation": "The EDC Treaty, signed in 1952, was rejected by the French National Assembly in August 1954; the relaunch launched at Messina (1955) led to the two Treaties of Rome (1957). The WEU emerged in 1954, and the draft EPC statute fell together with the EDC."
+      },
+      "el": {
+        "passage": "1. Οι πρώτες απόπειρες στρατιωτικής ολοκλήρωσης ναυάγησαν, αναπροσανατολίζοντας το ευρωπαϊκό σχέδιο στην οικονομική συνεργασία.",
+        "question": "Ποιο αποτυχημένο σχέδιο, που απορρίφθηκε από τη γαλλική Εθνοσυνέλευση το 1954, ανάγκασε σε επανεκκίνηση της ολοκλήρωσης σε οικονομική βάση, οδηγώντας στις Συνθήκες της Ρώμης;",
+        "options": [
+          "Η Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα (ΕΚΑΧ)",
+          "Η Δυτικοευρωπαϊκή Ένωση (ΔΕΕ)",
+          "Η Ευρωπαϊκή Πολιτική Κοινότητα (ΕΠΚ)",
+          "Η Ευρωπαϊκή Αμυντική Κοινότητα (ΕΑΚ)"
+        ],
+        "answer": 3,
+        "explanation": "Η συνθήκη για την Ευρωπαϊκή Αμυντική Κοινότητα, υπογεγραμμένη το 1952, απορρίφθηκε από τη γαλλική Εθνοσυνέλευση τον Αύγουστο του 1954· η επανεκκίνηση που ξεκίνησε στη Μεσσήνη (1955) οδήγησε στις δύο Συνθήκες της Ρώμης (1957). Η ΔΕΕ προέκυψε το 1954, ενώ το σχέδιο καταστατικού της ΕΠΚ ναυάγησε μαζί με την ΕΑΚ."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The very first Community was conceived with a built-in time limit, unusual for treaty frameworks.",
+        "question": "Which of the founding Communities ceased to exist in 2002, when its 50-year treaty expired?",
+        "options": [
+          "The EEC",
+          "Euratom",
+          "The ECSC",
+          "The WEU"
+        ],
+        "answer": 2,
+        "explanation": "The Treaty of Paris (1951) establishing the ECSC was concluded for 50 years and lapsed on 23 July 2002, its assets passing to the Community; the EEC (later EC) and Euratom continued."
+      },
+      "el": {
+        "passage": "2. Η πρώτη Κοινότητα σχεδιάστηκε με ενσωματωμένο χρονικό όριο, ασυνήθιστο για συνθηκολογικά καθεστώτα.",
+        "question": "Ποια από τις ιδρυτικές Κοινότητες έπαψε να υφίσταται το 2002, όταν έληξε η 50ετής συνθήκη της;",
+        "options": [
+          "Η ΕΟΚ",
+          "Η ΕΥΡΑΤΩΜ",
+          "Η ΕΚΑΧ",
+          "Η ΔΕΕ"
+        ],
+        "answer": 2,
+        "explanation": "Η Συνθήκη των Παρισίων (1951), με την οποία ιδρύθηκε η ΕΚΑΧ, συνήφθη για 50 χρόνια και έληξε στις 23 Ιουλίου 2002, με τα περιουσιακά της στοιχεία να περιέρχονται στην Κοινότητα· η ΕΟΚ (αργότερα ΕΚ) και η ΕΥΡΑΤΩΜ εξακολούθησαν να υφίστανται."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. A bitter political crisis in the mid-1960s paralysed the Community for months before a practice-based settlement emerged.",
+        "question": "What arrangement, born of the 1965–66 'empty chair' crisis, allowed a member state to block Council decisions affecting its 'very important interests'?",
+        "options": [
+          "The Luxembourg compromise",
+          "The Ioannina compromise",
+          "The Amsterdam protocol",
+          "The Nice compromise"
+        ],
+        "answer": 0,
+        "explanation": "France's boycott of the Council (the 'empty chair') ended with the Luxembourg compromise of January 1966: where very important interests were at stake, discussion would continue until unanimous agreement was reached — confirming a de facto veto practice. The Ioannina compromise (1994) softened blocking thresholds under QMV."
+      },
+      "el": {
+        "passage": "3. Μια πικρή πολιτική κρίση στα μέσα της δεκαετίας του 1960 παρέλυσε την Κοινότητα για μήνες, πριν καταλήξει σε πρακτική διευθέτηση.",
+        "question": "Ποια διευθέτηση, γέννημα της κρίσης των «κενών καρεκλών» (1965–66), επέτρεπε σε κράτος μέλος να μπλοκάρει αποφάσεις του Συμβουλίου που θίγουν τα «σημαντικότατα συμφέροντά» του;",
+        "options": [
+          "Ο συμβιβασμός του Λουξεμβούργου",
+          "Ο συμβιβασμός των Ιωαννίνων",
+          "Το πρωτόκολλο του Άμστερνταμ",
+          "Ο συμβιβασμός της Νίκαιας"
+        ],
+        "answer": 0,
+        "explanation": "Το γαλλικό μποϊκοτάζ του Συμβουλίου («κενές καρέκλες») έληξε με τον συμβιβασμό του Λουξεμβούργου (Ιανουάριος 1966): όταν θιγόταν «σημαντικότατα συμφέροντα», οι συζητήσεις συνεχίζονταν μέχρι την επίτευξη ομόφωνης συμφωνίας — πρακτικός ντε φάκτο βέτο. Ο συμβιβασμός των Ιωαννίνων (1994) μετρίασε τα κατώφλια μπλοκαρίσματος υπό ενισχυμένη πλειοψηφία."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. Membership of the Communities has not only grown: one territory actually left after a referendum.",
+        "question": "Which territory withdrew from the EEC in 1985, following a referendum on its relationship with Denmark?",
+        "options": [
+          "The Faroe Islands",
+          "Alsace-Lorraine",
+          "Gibraltar",
+          "Greenland"
+        ],
+        "answer": 3,
+        "explanation": "Greenland, which had joined in 1973 as a Danish county, voted in 1982 to leave and withdrew on 1 February 1985 — the only territorial exit before Brexit. The Faroe Islands never joined, and Gibraltar left together with the UK in 2020."
+      },
+      "el": {
+        "passage": "4. Η συμμετοχή στις Κοινότητες όχι μόνο μεγάλωνε: ένα έδαφος αποχώρησε πράγματι μετά από δημοψήφισμα.",
+        "question": "Ποιο έδαφος αποχώρησε από την ΕΟΚ το 1985, ύστερα από δημοψήφισμα για τις σχέσεις του με τη Δανία;",
+        "options": [
+          "Οι Νήσοι Φερόες",
+          "Η Αλσατία-Λωρραίνη",
+          "Το Γιβραλτάρ",
+          "Η Γροιλανδία"
+        ],
+        "answer": 3,
+        "explanation": "Η Γροιλανδία, που είχε ενταχθεί το 1973 ως δανική επαρχία, ψήφισε το 1982 υπέρ της αποχώρησης και έφυγε την 1η Φεβρουαρίου 1985 — η μοναδική εδαφική αποχώρηση πριν από το Brexit. Οι Φερόες δεν εντάχθηκαν ποτέ, ενώ το Γιβραλτάρ αποχώρησε μαζί με το Ηνωμένο Βασίλειο το 2020."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. Budgetary burden-sharing disputes marked the Community's finances for a decade before a summit formula settled them.",
+        "question": "At which European Council was the lasting correction of the UK's budgetary contributions (the 'rebate') agreed in 1984?",
+        "options": [
+          "Milan",
+          "Hanover",
+          "Fontainebleau",
+          "Rhodes"
+        ],
+        "answer": 2,
+        "explanation": "The Fontainebleau European Council (June 1984) agreed the 'necessary correction' in favour of the UK, based on the principle that budget imbalances arise when a state of below-average prosperity receives little from Union spending. Milan (1985) launched the Single European Act IGC and Hanover (1988) set up the Delors Committee on EMU."
+      },
+      "el": {
+        "passage": "5. Οι διαφωνίες για τη δίκαιη κατανομή του δημοσιονομικού φορτίου σημάδεψαν τα οικονομικά της Κοινότητας για μια δεκαετία, πριν ένας «τύπος» κορυφής τα τακτοποιήσει.",
+        "question": "Σε ποιο Ευρωπαϊκό Συμβούλιο συμφωνήθηκε το 1984 η μόνιμη διόρθωση των δημοσιονομικών εισφορών του Ηνωμένου Βασιλείου (το «rebate»);",
+        "options": [
+          "Μιλάνο",
+          "Αννόβερο",
+          "Φονταινεμπλώ",
+          "Ρόδος"
+        ],
+        "answer": 2,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο του Φονταινεμπλώ (Ιούνιος 1984) συμφώνησε την «αναγκαία διόρθωση» υπέρ του Ηνωμένου Βασιλείου, βάσει της αρχής ότι δημοσιονομικές ανισορροπίες προκύπτουν όταν κράτος με ευημερία κάτω του μέσου όρου λαμβάνει λίγα από τις δαπάνες της Ένωσης. Το Μιλάνο (1985) εκκίνησε τη διακυβερνητική διάσκεψη για την ΕΕΠ και το Αννόβερο (1988) συγκρότησε την επιτροπή Ντελόρ για την ΟΝΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The zone without internal border checks, later extended to most Union states, takes its name from the place where it was born.",
+        "question": "After which place is the Schengen area named?",
+        "options": [
+          "A village in Luxembourg where the 1985 agreement was signed",
+          "An island in the Rhine near Strasbourg",
+          "The seat of the first border-free pilot project in Germany",
+          "A town in the Netherlands that hosted the first implementation summit"
+        ],
+        "answer": 0,
+        "explanation": "The Schengen Agreement was signed on 14 June 1985 aboard a boat off Schengen, a Luxembourg village on the Moselle; the implementing Convention entered into force in 1995."
+      },
+      "el": {
+        "passage": "6. Η ζώνη χωρίς εσωτερικούς συνοριακούς ελέγχους, που επεκτάθηκε αργότερα στα περισσότερα κράτη της Ένωσης, φέρει το όνομα του τόπου όπου γεννήθηκε.",
+        "question": "Από ποιον τόπο πήρε το όνομά του ο χώρος Σένγκεν;",
+        "options": [
+          "Από χωριό του Λουξεμβούργου όπου υπογράφηκε η συμφωνία του 1985",
+          "Από νησί του Ρήνου κοντά στο Στρασβούρο",
+          "Από την έδρα του πρώτου πιλοτικού προγράμματος χωρίς σύνορα στη Γερμανία",
+          "Από πόλη της Ολλανδίας όπου έγινε η πρώτη σύνοδος εφαρμογής"
+        ],
+        "answer": 0,
+        "explanation": "Η Συμφωνία του Σένγκεν υπογράφηκε στις 14 Ιουνίου 1985 σε πλοίο ανοιχτά του Σένγκεν, χωριού του Λουξεμβούργου στον ποταμό Μοζέλα· η Συμβάση Εφαρμογής τέθηκε σε ισχύ το 1995."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The Union's institutional landscape still contains a founding Community with its own treaty, separate from the EU itself.",
+        "question": "Which founding Community remains today a distinct legal entity alongside the European Union?",
+        "options": [
+          "The ECSC",
+          "The EEC",
+          "The WEU",
+          "Euratom"
+        ],
+        "answer": 3,
+        "explanation": "Established by the second Treaty of Rome (1957), Euratom continues as a separate legal person with its own treaty; the EEC became the EC and was absorbed into the EU by Lisbon, and the ECSC expired in 2002 (the WEU, a defence organisation, was dissolved in 2011)."
+      },
+      "el": {
+        "passage": "7. Το θεσμικό τοπίο της Ένωσης εξακολουθεί να περιλαμβάνει μια ιδρυτική Κοινότητα με δική της συνθήκη, ξεχωριστή από την ίδια την Ευρωπαϊκή Ένωση.",
+        "question": "Ποια ιδρυτική Κοινότητα παραμένει σήμερα διακριτό νομικό πρόσωπο παράλληλα με την Ευρωπαϊκή Ένωση;",
+        "options": [
+          "Η ΕΚΑΧ",
+          "Η ΕΟΚ",
+          "Η ΔΕΕ",
+          "Η ΕΥΡΑΤΩΜ"
+        ],
+        "answer": 3,
+        "explanation": "Η ΕΥΡΑΤΩΜ, που ιδρύθηκε με τη δεύτερη Συνθήκη της Ρώμης (1957), συνεχίζει να υφίσταται ως ξεχωριστό νομικό πρόσωπο με δική της συνθήκη· η ΕΟΚ έγινε ΕΚ και απορροφήθηκε στην ΕΕ με τη Λισαβόνα, η ΕΚΑΧ έληξε το 2002, ενώ η ΔΕΕ (οργανισμός άμυνας) διαλύθηκε το 2011."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. Members of the College act independently in their duties, and their compulsory departure follows an exceptional institutional procedure.",
+        "question": "Which institution alone may compulsorily retire a member of the Commission, at the request of the Council or of the Commission?",
+        "options": [
+          "The European Parliament",
+          "The Court of Justice of the EU",
+          "The Council of the EU",
+          "The European Ombudsman"
+        ],
+        "answer": 1,
+        "explanation": "Article 247 TFEU: the Court of Justice may compulsorily retire a Commissioner who no longer fulfils the conditions of office or is guilty of serious misconduct, on an application by the Council or the Commission. Parliament cannot dismiss an individual Commissioner — it can only censure the College as a whole."
+      },
+      "el": {
+        "passage": "8. Τα μέλη του Σώματος ενεργούν ανεξάρτητα στα καθήκοντά τους και η υποχρεωτική αποχώρησή τους ακολουθεί εξαιρετική θεσμική διαδικασία.",
+        "question": "Ποιο όργανο, και μόνο αυτό, μπορεί να θέσει σε υποχρεωτική αφυπηρέτηση μέλος της Επιτροπής, ύστερα από αίτηση του Συμβουλίου ή της Επιτροπής;",
+        "options": [
+          "Το Ευρωπαϊκό Κοινοβούλιο",
+          "Το Δικαστήριο της Ευρωπαϊκής Ένωσης",
+          "Το Συμβούλιο της ΕΕ",
+          "Ο Ευρωπαίος Διαμεσολαβητής"
+        ],
+        "answer": 1,
+        "explanation": "Άρθρο 247 ΣΛΕΕ: το Δικαστήριο μπορεί να θέσει σε υποχρεωτική αφυπηρέτηση Επίτροπο που δεν πληρεί πλέον τις προϋποθέσεις του αξιώματος ή έχει διαπράξει σοβαρό παράπτωμα, ύστερα από αίτηση του Συμβουλίου ή της Επιτροπής. Το Κοινοβούλιο δεν μπορεί να απολύσει μεμονωμένο Επίτροπο — μπορεί μόνο να επιβάλει δυσπιστία στο Σώμα ως σύνολο."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Council of the EU meets in ten configurations, but not all of them are chaired in the same way.",
+        "question": "Which Council configuration is not chaired by the member state holding the rotating six-month presidency?",
+        "options": [
+          "The General Affairs Council",
+          "The Economic and Financial Affairs Council (ECOFIN)",
+          "The Foreign Affairs Council",
+          "The Agriculture and Fisheries Council"
+        ],
+        "answer": 2,
+        "explanation": "The Foreign Affairs Council is chaired by the High Representative (Article 18(3) TEU); all other configurations are chaired by the rotating presidency, with the General Affairs Council ensuring overall coherence."
+      },
+      "el": {
+        "passage": "9. Το Συμβούλιο της ΕΕ συνέρχεται σε δέκα διαμορφώσεις, αλλά δεν προεδρεύονται όλες με τον ίδιο τρόπο.",
+        "question": "Ποια διαμόρφωση του Συμβουλίου δεν προεδρεύεται από το κράτος μέλος που ασκεί την εξαμηνιαία εναλλασσόμενη προεδρία;",
+        "options": [
+          "Το Συμβούλιο Γενικών Υποθέσεων",
+          "Το Συμβούλιο Οικονομικών και Δημοσιονομικών Υποθέσεων (ECOFIN)",
+          "Το Συμβούλιο Εξωτερικών Υποθέσεων",
+          "Το Συμβούλιο Γεωργίας και Αλιείας"
+        ],
+        "answer": 2,
+        "explanation": "Το Συμβούλιο Εξωτερικών Υποθέσεων προεδρεύεται από τον Ύπατο Εκπρόσωπο (άρθρο 18 παρ. 3 ΤΕΕ)· όλες οι λοιπές διαμορφώσεις προεδρεύονται από την εναλλασσόμενη προεδρία, με το Συμβούλιο Γενικών Υποθέσεων να διασφαλίζει τη συνολική συνοχή."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The Council's chairing function passes from member state to member state in an agreed, fixed sequence.",
+        "question": "How long does each member state hold the rotating presidency of the Council of the EU?",
+        "options": [
+          "Six months",
+          "One year",
+          "Eighteen months",
+          "Two and a half years"
+        ],
+        "answer": 0,
+        "explanation": "Each member state presides for six months, and three successive presidencies (18 months) complete a common 'trio' programme (Article 16(9) TEU)."
+      },
+      "el": {
+        "passage": "10. Η λειτουργία της προεδρίας του Συμβουλίου περνά από κράτος μέλος σε κράτος μέλος κατά προσυμφωνημένη, σταθερή σειρά.",
+        "question": "Για πόσο διάστημα κάθε κράτος μέλος ασκεί την εναλλασσόμενη προεδρία του Συμβουλίου της ΕΕ;",
+        "options": [
+          "Έξι μήνες",
+          "Ένας χρόνος",
+          "Δεκαοχτώ μήνες",
+          "Δύο χρόνια και έξι μήνες"
+        ],
+        "answer": 0,
+        "explanation": "Κάθε κράτος μέλος προεδρεύει επί έξι μήνες, ενώ τρεις διαδοχικές προεδρίες (18 μήνες) ολοκληρώνουν κοινό πρόγραμμα «τρίο» (άρθρο 16 παρ. 9 ΤΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Certain sensitive Union policies remain subject to a stricter decision-making rule than the ordinary qualified majority.",
+        "question": "In which of the following areas must the Council of the EU still act by unanimity?",
+        "options": [
+          "Determining the Union's own resources",
+          "Adopting directives on the internal market",
+          "Concluding trade agreements",
+          "Imposing fines under competition policy"
+        ],
+        "answer": 0,
+        "explanation": "Own resources require unanimity in the Council under a special legislative procedure, plus Parliament's consent and ratification by all member states (Article 311 TFEU); internal-market directives and trade agreements are normally adopted by qualified majority, and competition fines are imposed by the Commission."
+      },
+      "el": {
+        "passage": "11. Ορισμένες ευαίσθητες πολιτικές της Ένωσης εξακολουθούν να υπόκεινται σε αυστηρότερο κανόνα λήψης αποφάσεων από τη συνήθη ενισχυμένη πλειοψηφία.",
+        "question": "Σε ποιο από τα ακόλουθα πεδία εξακολουθεί το Συμβούλιο της ΕΕ να αποφαίνεται ομόφωνα;",
+        "options": [
+          "Στον καθορισμό των ιδίων πόρων της Ένωσης",
+          "Στη θέσπιση οδηγιών για την εσωτερική αγορά",
+          "Στην κατάρτιση εμπορικών συμφωνιών",
+          "Στην επιβολή προστίμων στο πλαίσιο της πολιτικής ανταγωνισμού"
+        ],
+        "answer": 0,
+        "explanation": "Οι ίδιοι πόροι απαιτούν ομοφωνία στο Συμβούλιο κατά ειδική νομοθετική διαδικασία, μαζί με τη σύμφωνη γνώμη του Κοινοβουλίου και επικύρωση από όλα τα κράτη μέλη (άρθρο 311 ΣΛΕΕ)· οι οδηγίες για την εσωτερική αγορά και οι εμπορικές συμφωνίες εγκρίνονται κανονικά με ενισχυμένη πλειοψηφία, και τα πρόστιμα ανταγωνισμού επιβάλλονται από την Επιτροπή."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The Treaties permit limited changes to decision-making rules without convening a formal revision conference.",
+        "question": "What does a 'passerelle' (bridge) clause enable?",
+        "options": [
+          "The transfer of a policy area from Union to national competence",
+          "The temporary suspension of Union law in a member state",
+          "A switch from unanimity to qualified majority, or from special to ordinary legislative procedure, without formal treaty revision",
+          "The accession of a new member state by simplified procedure"
+        ],
+        "answer": 2,
+        "explanation": "Passerelle clauses (Articles 48(6)–(7) TEU) allow the European Council, acting unanimously with Parliament's consent, to authorise qualified majority voting or the ordinary legislative procedure where unanimity or a special procedure would apply; national parliaments may oppose."
+      },
+      "el": {
+        "passage": "12. Οι Συνθήκες επιτρέπουν περιορισμένες αλλαγές στους κανόνες λήψης αποφάσεων, χωρίς σύγκληση επίσημης διασκέψεως αναθεώρησης.",
+        "question": "Τι επιτρέπει μια ρήτρα «διέλευσης» (passerelle);",
+        "options": [
+          "Τη μεταφορά τομέα πολιτικής από αρμοδιότητα της Ένωσης στην εθνική αρμοδιότητα",
+          "Την προσωρινή αναστολή της εφαρμογής του ενωσιακού δικαίου σε κράτος μέλος",
+          "Τη μετάβαση από την ομοφωνία στην ενισχυμένη πλειοψηφία ή από ειδική σε συνήθη νομοθετική διαδικασία, χωρίς επίσημη αναθεώρηση των Συνθηκών",
+          "Την προσχώρηση νέου κράτους μέλους με απλοποιημένη διαδικασία"
+        ],
+        "answer": 2,
+        "explanation": "Οι ρήτρες passerelle (άρθρο 48 παρ. 6–7 ΤΕΕ) επιτρέπουν στο Ευρωπαϊκό Συμβούλιο, αποφασίζοντας ομόφωνα με τη σύμφωνη γνώμη του Κοινοβουλίου, να εγκρίνει την ενισχυμένη πλειοψηφία ή τη συνήθη νομοθετική διαδικασία όπου θα ίσχυε ομοφωνία ή ειδική διαδικασία· τα εθνικά κοινοβούλια μπορούν να αντιταχθούν."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The allocation of seats in the European Parliament balances the equality of citizens with the representation of member states.",
+        "question": "What does the principle of 'degressive proportionality' mean for the allocation of European Parliament seats?",
+        "options": [
+          "Larger member states have proportionally more seats per inhabitant than smaller ones",
+          "Larger member states receive more seats in total, but smaller member states have proportionally more seats per inhabitant",
+          "Each member state has exactly the same number of seats",
+          "The number of seats is reduced for states whose turnout falls below a threshold"
+        ],
+        "answer": 1,
+        "explanation": "Article 14(2) TEU: seats are distributed degressively proportional — the more populous a state, the more seats in total, but the fewer seats per inhabitant; each state has at least 6 and at most 96 seats."
+      },
+      "el": {
+        "passage": "13. Η κατανομή των εδρών στο Ευρωπαϊκό Κοινοβούλιο εξισορροπεί την ισότητα των πολιτών με την εκπροσώπηση των κρατών μελών.",
+        "question": "Τι σημαίνει η αρχή της «φθίνουσας αναλογικότητας» για την κατανομή των εδρών του Ευρωπαϊκού Κοινοβουλίου;",
+        "options": [
+          "Τα μεγαλύτερα κράτη μέλη έχουν αναλογικά περισσότερες έδρες ανά κάτοικο από τα μικρότερα",
+          "Τα μεγαλύτερα κράτη μέλη λαμβάνουν συνολικά περισσότερες έδρες, αλλά τα μικρότερα έχουν αναλογικά περισσότερες έδρες ανά κάτοικο",
+          "Κάθε κράτος μέλος έχει ακριβώς τον ίδιο αριθμό εδρών",
+          "Ο αριθμός των εδρών μειώνεται για κράτη στα οποία η συμμετοχή πέφτει κάτω από ορισμένο όριο"
+        ],
+        "answer": 1,
+        "explanation": "Άρθρο 14 παρ. 2 ΤΕΕ: οι έδρες κατανέμονται με φθίνουσα αναλογικότητα — όσο μεγαλύτερος είναι ο πληθυσμός ενός κράτους, τόσο περισσότερες έδρες συνολικά, αλλά τόσο λιγότερες έδρες ανά κάτοικο· κάθε κράτος έχει τουλάχιστον 6 και το πολύ 96 έδρες."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. Citizens and residents have direct channels to bring Union-related grievances before the institutions.",
+        "question": "Which European Parliament committee is responsible for examining petitions from citizens on matters within the Union's fields of activity?",
+        "options": [
+          "The Committee on Constitutional Affairs (AFCO)",
+          "The Committee on Legal Affairs (JURI)",
+          "The Committee on Civil Liberties, Justice and Home Affairs (LIBE)",
+          "The Committee on Petitions (PETI)"
+        ],
+        "answer": 3,
+        "explanation": "Article 227 TFEU: any citizen or resident may address a petition to the European Parliament, examined by its Committee on Petitions (PETI); the Ombudsman handles maladministration separately."
+      },
+      "el": {
+        "passage": "14. Οι πολίτες και οι κάτοικοι διαθέτουν απευθείας κανάλια για να φέρουν ενώπιον των θεσμικών οργάνων παράπονα που σχετίζονται με την Ένωση.",
+        "question": "Ποια επιτροπή του Ευρωπαϊκού Κοινοβουλίου είναι αρμόδια για την εξέταση αναφορών πολιτών σε θέματα εντός των τομέων δραστηριότητας της Ένωσης;",
+        "options": [
+          "Η Επιτροπή Συνταγματικών Υποθέσεων (AFCO)",
+          "Η Επιτροπή Νομικών Υποθέσεων (JURI)",
+          "Η Επιτροπή Ατομικών Ελευθεριών, Δικαιοσύνης και Εσωτερικών Υποθέσεων (LIBE)",
+          "Η Επιτροπή Αναφορών (PETI)"
+        ],
+        "answer": 3,
+        "explanation": "Άρθρο 227 ΣΛΕΕ: κάθε πολίτης ή κάτοικος μπορεί να απευθύνει αναφορά στο Ευρωπαϊκό Κοινοβούλιο, που εξετάζεται από την Επιτροπή Αναφορών (PETI)· ο Διαμεσολαβητής χειρίζεται ξεχωριστά την κακοδιοίκηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The uniform application of Union law across 27 legal orders relies on a dialogue between national courts and the Court of Justice.",
+        "question": "Under which procedure may a national court refer a question on the interpretation of Union law to the Court of Justice?",
+        "options": [
+          "The preliminary ruling procedure",
+          "The action for annulment",
+          "The infringement procedure",
+          "The appeal on points of law"
+        ],
+        "answer": 0,
+        "explanation": "Article 267 TFEU: courts and tribunals of the member states may (and courts of last instance must) refer preliminary questions on interpretation or validity, answered by binding rulings of the Court of Justice."
+      },
+      "el": {
+        "passage": "15. Η ενιαία εφαρμογή του ενωσιακού δικαίου σε 27 έννομες τάξεις βασίζεται σε διάλογο μεταξύ των εθνικών δικαστηρίων και του Δικαστηρίου της Ένωσης.",
+        "question": "Με ποια διαδικασία μπορεί εθνικό δικαστήριο να υποβάλει στο Δικαστήριο ερώτημα για την ερμηνεία του ενωσιακού δικαίου;",
+        "options": [
+          "Με τη διαδικασία των προδικαστικών ερωτημάτων",
+          "Με αίτηση ακύρωσης",
+          "Με τη διαδικασία παραβίασης",
+          "Με έφεση επί νομικών ζητημάτων"
+        ],
+        "answer": 0,
+        "explanation": "Άρθρο 267 ΣΛΕΕ: τα δικαστήρια των κρατών μελών μπορούν (και τα δικαστήρια των τελευταίων βαθμίδων οφείλουν) να παραπέμπουν προδικαστικά ερωτήματα ερμηνείας ή νομιμότητας, που απαντώνται με δεσμευτικές αποφάσεις του Δικαστηρίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The Union has 24 official languages, but its highest court conducts its internal work in one of them.",
+        "question": "Which language serves as the internal working language of the Court of Justice of the EU?",
+        "options": [
+          "English",
+          "French",
+          "German",
+          "The language of the case"
+        ],
+        "answer": 1,
+        "explanation": "Under the Court's Rules of Procedure, French is the working language for internal deliberations, reports and judgments; cases may nevertheless be conducted in any official language chosen by the parties."
+      },
+      "el": {
+        "passage": "16. Η Ένωση διαθέτει 24 επίσημες γλώσσες, αλλά το ανώτατο δικαστήριό της διεξάγει το εσωτερικό της έργο σε μία από αυτές.",
+        "question": "Ποια γλώσσα χρησιμοποιείται ως εσωτερική γλώσσα εργασίας του Δικαστηρίου της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Τα αγγλικά",
+          "Τα γαλλικά",
+          "Τα γερμανικά",
+          "Η γλώσσα της εκάστοτε υπόθεσης"
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με τον Κανονισμό Διαδικασίας του Δικαστηρίου, τα γαλλικά αποτελούν τη γλώσσα εργασίας για τις εσωτερικές διαβουλεύσεις, τις εκθέσεις και τις αποφάσεις· οι υποθέσεις μπορούν όμως να διεξάγονται σε οποιαδήποτε επίσημη γλώσσα επιλέγουν οι διάδικοι."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Court of Justice has clarified against whom an untransposed directive can be relied upon in national proceedings.",
+        "question": "According to settled case law, a directive that has not been transposed in time may NOT be invoked by an individual against:",
+        "options": [
+          "The state or a public authority",
+          "Another private individual",
+          "A public undertaking acting as a state authority",
+          "An administrative body of a member state"
+        ],
+        "answer": 1,
+        "explanation": "Directives have no horizontal direct effect (Marleasing, 1990): their provisions can be relied upon against the state and public bodies, but not to impose obligations on private parties."
+      },
+      "el": {
+        "passage": "17. Το Δικαστήριο έχει διευκρινίσει κατά ποιων μπορεί να επικληθεί ιδιώτης οδηγία που δεν μετεφέρθηκε έγκαιρα στις εθνικές διαδικασίες.",
+        "question": "Σύμφωνα με παγία νομολογία, οδηγία που δεν μετεφέρθηκε έγκαιρα ΔΕΝ μπορεί να επικληθεί από ιδιώτη κατά:",
+        "options": [
+          "Του κράτους ή δημόσιας αρχής",
+          "Άλλου ιδιώτη",
+          "Δημόσιας επιχείρησης που ενεργεί ως κρατική αρχή",
+          "Διοικητικού οργάνου κράτους μέλους"
+        ],
+        "answer": 1,
+        "explanation": "Οι οδηγίες δεν έχουν οριζόντια άμεση ισχύ (Marleasing, 1990): οι διατάξεις τους μπορούν να επικληθούν κατά του κράτους και των δημοσίων οργάνων, αλλά όχι για την επιβολή υποχρεώσεων σε ιδιώτες."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The Charter of Fundamental Rights binds the Union at all times, but binds member states only under certain conditions.",
+        "question": "In which case are member states bound by the Charter of Fundamental Rights?",
+        "options": [
+          "In all their actions, as with their national constitutions",
+          "Only in areas of exclusive Union competence",
+          "Only when a national court refers a question to the CJEU",
+          "Only when they are implementing Union law"
+        ],
+        "answer": 3,
+        "explanation": "Article 51(1) of the Charter: member states are bound only when they are implementing Union law; in purely internal situations the Charter does not apply."
+      },
+      "el": {
+        "passage": "18. Ο Χάρτης των Θεμελιωδών Δικαιωμάτων δεσμεύει διαρκώς την Ένωση, αλλά δεσμεύει τα κράτη μέλη μόνο υπό ορισμένες προϋποθέσεις.",
+        "question": "Σε ποια περίπτωση δεσμεύονται τα κράτη μέλη από τον Χάρτη των Θεμελιωδών Δικαιωμάτων;",
+        "options": [
+          "Σε κάθε τους ενέργεια, όπως και από τα εθνικά τους συντάγματα",
+          "Μόνο σε τομείς αποκλειστικής αρμοδιότητας της Ένωσης",
+          "Μόνο όταν εθνικό δικαστήριο παραπέμπει ερώτημα στο ΔΕΕ",
+          "Μόνο όταν εφαρμόζουν το δίκαιο της Ένωσης"
+        ],
+        "answer": 3,
+        "explanation": "Άρθρο 51 παρ. 1 του Χάρτη: τα κράτη μέλη δεσμεύονται μόνο όταν εφαρμόζουν το ενωσιακό δίκαιο· σε καθαρά εθνικές υποθέσεις ο Χάρτης δεν εφαρμόζεται."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The Union's fundamental-rights system is designed to interact with the wider European human-rights architecture.",
+        "question": "Which international instrument is the Union, under the Treaties, called upon to accede to?",
+        "options": [
+          "The United Nations Covenant on Civil and Political Rights",
+          "The European Convention on Human Rights (ECHR)",
+          "The Geneva Conventions",
+          "The OSCE Helsinki Final Act"
+        ],
+        "answer": 1,
+        "explanation": "Article 6(2) TEU provides that the Union shall accede to the European Convention on Human Rights; accession negotiations are ongoing, with CJEU Opinion 2/13 having set conditions."
+      },
+      "el": {
+        "passage": "19. Το σύστημα προστασίας των θεμελιωδών δικαιωμάτων της Ένωσης σχεδιάστηκε ώστε να συνεργάζεται με την ευρύτερη ευρωπαϊκή αρχιτεκτονική των ανθρωπίνων δικαιωμάτων.",
+        "question": "Σε ποιο διεθνές μέσο καλείται η Ένωση, σύμφωνα με τις Συνθήκες, να προσχωρήσει;",
+        "options": [
+          "Στο Σύμφωνο των Ηνωμένων Εθνών για τα Ατομικά και Πολιτικά Δικαιώματα",
+          "Στην Ευρωπαϊκή Σύμβαση Ανθρωπίνων Δικαιωμάτων (ΕΣΔΑ)",
+          "Στις Συμβάσεις της Γενεύης",
+          "Στην Τελική Πράξη του Ελσίνκι του ΟΑΣΕ"
+        ],
+        "answer": 1,
+        "explanation": "Το άρθρο 6 παρ. 2 ΤΕΕ προβλέπει ότι η Ένωση προσχωρεί στην Ευρωπαϊκή Σύμβαση Ανθρωπίνων Δικαιωμάτων· οι διαπραγματεύσεις προσχώρησης βρίσκονται σε εξέλιξη, με τη Γνώμη 2/13 του ΔΕΕ να έχει θέσει όρους."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The Treaties provide a specific mechanism for addressing a member state's serious and persistent breach of the Union's values.",
+        "question": "What is the ultimate consequence under Article 7 TEU for a member state found, by the European Council acting unanimously, to be in serious and persistent breach of the Union's values?",
+        "options": [
+          "Immediate expulsion from the Union",
+          "Suspension of the state's representation in the Commission only",
+          "Suspension of certain rights deriving from the Treaties, including the state's voting rights in the Council",
+          "Automatic referral to the International Court of Justice"
+        ],
+        "answer": 2,
+        "explanation": "Article 7(2)–(3) TEU: after determination by the European Council by unanimity (with Parliament's consent), the Council may suspend certain rights — including voting in the Council; the Treaties provide no expulsion mechanism."
+      },
+      "el": {
+        "passage": "20. Οι Συνθήκες προβλέπουν ειδικό μηχανισμό για την αντιμετώπιση σοβαρής και διαρκούς παραβίασης των αξιών της Ένωσης από κράτος μέλος.",
+        "question": "Ποια είναι η έσχατη συνέπεια κατά το άρθρο 7 ΤΕΕ για κράτος μέλος που το Ευρωπαϊκό Συμβούλιο διαπιστώνει ομόφωνα ότι παραβαίνει σοβαρά και διαρκώς τις αξίες της Ένωσης;",
+        "options": [
+          "Άμεση αποβολή από την Ένωση",
+          "Αναστολή μόνο της εκπροσώπησης του κράτους στην Επιτροπή",
+          "Αναστολή ορισμένων δικαιωμάτων που απορρέουν από τις Συνθήκες, συμπεριλαμβανομένου του δικαιώματος ψήφου του κράτους στο Συμβούλιο",
+          "Αυτόματη παραπομπή στο Διεθνές Δικαστήριο"
+        ],
+        "answer": 2,
+        "explanation": "Άρθρο 7 παρ. 2–3 ΤΕΕ: μετά τη διαπίστωση από το Ευρωπαϊκό Συμβούλιο ομόφωνα (με τη σύμφωνη γνώμη του Κοινοβουλίου), το Συμβούλιο μπορεί να αναστείλει ορισμένα δικαιώματα — μεταξύ αυτών και την ψήφο στο Συμβούλιο· οι Συνθήκες δεν προβλέπουν μηχανισμό αποβολής."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Union citizenship adds a set of rights that operate across borders, including political participation away from one's home state.",
+        "question": "Which electoral rights do EU citizens enjoy in the member state where they reside, without holding its nationality?",
+        "options": [
+          "Voting and standing as candidates in municipal and European Parliament elections",
+          "Voting in national parliamentary elections",
+          "Standing as candidates in national referendums",
+          "Voting and standing in regional elections only"
+        ],
+        "answer": 0,
+        "explanation": "Article 22 TFEU: every EU citizen residing in another member state may vote and stand as a candidate in municipal elections and in elections to the European Parliament there, under the same conditions as nationals."
+      },
+      "el": {
+        "passage": "21. Η ιθαγένεια της Ένωσης προσθέτει σύνολο δικαιωμάτων που λειτουργούν υπερσυνοριακά, συμπεριλαμβανομένης της πολιτικής συμμετοχής μακριά από το κράτος καταγωγής.",
+        "question": "Ποια εκλογικά δικαιώματα έχουν οι πολίτες της ΕΕ στο κράτος μέλος όπου διαμένουν, χωρίς να έχουν την ιθαγένειά του;",
+        "options": [
+          "Ψήφο και υποψηφιότητα στις δημοτικές εκλογές και στις εκλογές για το Ευρωπαϊκό Κοινοβούλιο",
+          "Ψήφο στις εθνικές βουλευτικές εκλογές",
+          "Υποψηφιότητα στα εθνικά δημοψηφίσματα",
+          "Ψήφο και υποψηφιότητα μόνο στις περιφερειακές εκλογές"
+        ],
+        "answer": 0,
+        "explanation": "Άρθρο 22 ΣΛΕΕ: κάθε πολίτης της Ένωσης που διαμένει σε άλλο κράτος μέλος μπορεί να ψηφίζει και να κατέρχεται υποψήφιος στις δημοτικές εκλογές και στις εκλογές για το Ευρωπαϊκό Κοινοβούλιο εκεί, υπό τους ίδιους όρους με τους ημεδαπούς."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The common agricultural policy is structured around two complementary forms of support.",
+        "question": "What does the second pillar of the common agricultural policy (CAP) primarily finance?",
+        "options": [
+          "Direct payments to farmers",
+          "Market interventions and export refunds",
+          "Rural development programmes",
+          "Import tariffs on agricultural products"
+        ],
+        "answer": 2,
+        "explanation": "CAP pillar I covers direct payments and market measures, fully EU-funded; pillar II funds rural development — environment, the rural economy, LEADER — through co-financed programmes."
+      },
+      "el": {
+        "passage": "22. Η κοινή αγροτική πολιτική δομείται γύρω από δύο συμπληρωματικές μορφές στήριξης.",
+        "question": "Τι χρηματοδοτεί κυρίως ο δεύτερος πυλώνας της κοινής αγροτικής πολιτικής (ΚΑΠ);",
+        "options": [
+          "Άμεσες ενισχύσεις στους αγρότες",
+          "Παρεμβάσεις στην αγορά και επιστροφές εξαγωγών",
+          "Προγράμματα αγροτικής ανάπτυξης",
+          "Δασμοί εισαγωγής αγροτικών προϊόντων"
+        ],
+        "answer": 2,
+        "explanation": "Ο πρώτος πυλώνας της ΚΑΠ καλύπτει τις άμεσες ενισχύσεις και τα μέτρα αγοράς, πλήρως χρηματοδοτούμενα από την ΕΕ· ο δεύτερος πυλώνας χρηματοδοτεί την αγροτική ανάπτυξη — περιβάλλον, αγροτική οικονομία, LEADER — μέσω συγχρηματοδοτούμενων προγραμμάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. Within cohesion policy, one dedicated fund targets the least prosperous member states rather than all regions.",
+        "question": "Which cohesion policy fund supports member states whose gross national income per capita is below 90% of the EU average?",
+        "options": [
+          "The European Regional Development Fund (ERDF)",
+          "The European Social Fund Plus (ESF+)",
+          "The Just Transition Fund",
+          "The Cohesion Fund"
+        ],
+        "answer": 3,
+        "explanation": "The Cohesion Fund (Article 161 TFEU) is reserved for member states with GNI per capita below 90% of the EU average, financing transport and environmental networks; the ERDF and ESF+ operate across all regions."
+      },
+      "el": {
+        "passage": "23. Στην πολιτική συνοχής, ένα ειδικό ταμείο απευθύνεται στα λιγότερο εύπορα κράτη μέλη και όχι σε όλες τις περιφέρειες.",
+        "question": "Ποιο ταμείο της πολιτικής συνοχής στηρίζει τα κράτη μέλη των οποίων το ακαθάριστο εθνικό εισόδημα κατά κεφαλήν είναι κάτω από το 90% του μέσου όρου της ΕΕ;",
+        "options": [
+          "Το Ευρωπαϊκό Ταμείο Περιφερειακής Ανάπτυξης (ΕΤΠΑ)",
+          "Το Ευρωπαϊκό Κοινωνικό Ταμείο+ (ΕΚΤ+)",
+          "Το Ταμείο Δίκαιης Μετάβασης",
+          "Το Ταμείο Συνοχής"
+        ],
+        "answer": 3,
+        "explanation": "Το Ταμείο Συνοχής (άρθρο 161 ΣΛΕΕ) προορίζεται για κράτη μέλη με ΑΕΕ κατά κεφαλήν κάτω από το 90% του μέσου όρου της ΕΕ και χρηματοδοτεί δίκτυα μεταφορών και περιβάλλοντος· το ΕΤΠΑ και το ΕΚΤ+ λειτουργούν σε όλες τις περιφέρειες."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. Before adopting the euro, a member state must go through a period of exchange-rate discipline.",
+        "question": "For how long must a member state participate in the exchange-rate mechanism (ERM II) without severe tensions or devaluation before joining the euro area?",
+        "options": [
+          "At least one year",
+          "At least two years",
+          "At least three years",
+          "At least five years"
+        ],
+        "answer": 1,
+        "explanation": "The Maastricht convergence criteria require at least two years of ERM II participation, with the currency within its fluctuation margins and no devaluation against the euro, alongside thresholds on inflation, deficit, debt and interest rates."
+      },
+      "el": {
+        "passage": "24. Πριν από την ένταξη στο ευρώ, το κράτος μέλος πρέπει να περάσει από περίοδο συναλλαγματικής πειθαρχίας.",
+        "question": "Για πόσο τουλάχιστον διάστημα πρέπει ένα κράτος μέλος να συμμετέχει στον μηχανισμό συναλλαγματικών ισοτιμιών (ΜΣΙ II), χωρίς σοβαρές εντάσεις ή υποτίμηση, πριν προσχωρήσει στη ζώνη του ευρώ;",
+        "options": [
+          "Τουλάχιστον έναν χρόνο",
+          "Τουλάχιστον δύο χρόνια",
+          "Τουλάχιστον τρία χρόνια",
+          "Τουλάχιστον πέντε χρόνια"
+        ],
+        "answer": 1,
+        "explanation": "Τα κριτήρια σύγκλισης του Μάαστριχτ απαιτούν τουλάχιστον δύο έτη συμμετοχής στο ΜΣΙ II, με το νόμισμα εντός των περιθωρίων διακύμανσης και χωρίς υποτίμηση έναντι του ευρώ, μαζί με κατώφλια για τον πληθωρισμό, το έλλειμμα, το χρέος και τα επιτόκια."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. Climate policy has produced one of the Union's flagship market-based regulatory instruments.",
+        "question": "How does the EU Emissions Trading System (ETS) work in principle?",
+        "options": [
+          "It sets a uniform emission tax on all industrial installations",
+          "It bans emissions above a fixed technical threshold",
+          "It subsidises companies that voluntarily reduce their emissions",
+          "It caps total emissions and lets companies trade emission allowances"
+        ],
+        "answer": 3,
+        "explanation": "The ETS (Directive 2003/87/EC) sets a declining cap on emissions from power generation, energy-intensive industry and aviation; allowances are auctioned or allocated and can be traded — a 'cap-and-trade' system."
+      },
+      "el": {
+        "passage": "25. Η κλιματική πολιτική έχει παράγει ένα από τα εμβληματικά ρυθμιστικά μέσα της Ένωσης με βάση την αγορά.",
+        "question": "Πώς λειτουργεί κατ' αρχήν το σύστημα εμπορίας δικαιωμάτων εκπομπής της ΕΕ (ΣΕΔΕ/ETS);",
+        "options": [
+          "Επιβάλλει ενιαίο φόρο εκπομπών σε όλες τις βιομηχανικές εγκαταστάσεις",
+          "Απαγορεύει τις εκπομπές πάνω από σταθερό τεχνικό όριο",
+          "Επιδοτεί τις επιχειρήσεις που μειώνουν εθελοντικά τις εκπομπές τους",
+          "Θέτει ανώτατο όριο στις συνολικές εκπομπές και επιτρέπει στις επιχειρήσεις να εμπορεύονται δικαιώματα εκπομπής"
+        ],
+        "answer": 3,
+        "explanation": "Το ΣΕΔΕ (Οδηγία 2003/87/ΕΚ) θέτει φθίνον ανώτατο όριο εκπομπών για την παραγωγή ηλεκτρικής ενέργειας, την ενεργοβόρα βιομηχανία και την αεροπορία· τα δικαιώματα εκπτώνονται ή κατανέμονται και μπορούν να εμπορεύονται — σύστημα τύπου «cap-and-trade»."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. The Union's nature-protection law is built around a Europe-wide ecological network.",
+        "question": "What is 'Natura 2000'?",
+        "options": [
+          "An EU-wide network of protected natural sites designated under the Birds and Habitats Directives",
+          "A satellite monitoring programme for biodiversity",
+          "A funding platform for zoos and botanical gardens",
+          "An exchange scheme for young conservation volunteers"
+        ],
+        "answer": 0,
+        "explanation": "Natura 2000 is the network of Special Protection Areas (Birds Directive, 1979) and Sites of Community Importance / Special Areas of Conservation (Habitats Directive, 1992) — the centrepiece of EU biodiversity law."
+      },
+      "el": {
+        "passage": "26. Η νομοθεσία της Ένωσης για την προστασία της φύσης δομείται γύρω από ένα πανευρωπαϊκό οικολογικό δίκτυο.",
+        "question": "Τι είναι το «Natura 2000»;",
+        "options": [
+          "Ένα πανευρωπαϊκό δίκτυο προστατευόμενων φυσικών τοποθεσιών, που χαρακτηρίστηκε βάσει των Οδηγιών για τα Πτηνά και για τους Οικοτόπους",
+          "Ένα δορυφορικό πρόγραμμα παρακολούθησης της βιοποικιλότητας",
+          "Μια πλατφόρμα χρηματοδότησης για ζωολογικούς και βοτανικούς κήπους",
+          "Ένα πρόγραμμα ανταλλαγής νέων εθελοντών προστασίας της φύσης"
+        ],
+        "answer": 0,
+        "explanation": "Το Natura 2000 είναι το δίκτυο των Ειδικών Περιοχών Προστασίας (Οδηγία για τα Πτηνά, 1979) και των Τοποθεσιών Κοινοτικού Ενδιαφέροντος / Ειδικών Ζωνών Διατήρησης (Οδηγία για τους Οικοτόπους, 1992) — κεντρικό εργαλείο της ενωσιακής νομοθεσίας για τη βιοποικιλότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. Judicial cooperation in criminal matters relies heavily on a mechanism of mutual trust between member states' authorities.",
+        "question": "On which principle is the European Arrest Warrant (EAW) based?",
+        "options": [
+          "Extradition through diplomatic channels with political discretion",
+          "Mutual recognition of judicial decisions between member states",
+          "Universal jurisdiction of the International Criminal Court",
+          "Harmonisation of all criminal procedures in the Union"
+        ],
+        "answer": 1,
+        "explanation": "The EAW (Framework Decision 2002/584/JHA), in application since 2004, is the first instrument built on mutual recognition: judicial authorities surrender requested persons between member states, subject to limited grounds for refusal."
+      },
+      "el": {
+        "passage": "27. Η δικαστική συνεργασία σε ποινικές υποθέσεις στηρίζεται σε μεγάλο βαθμό σε μηχανισμό αμοιβαίας εμπιστοσύνης μεταξύ των αρχών των κρατών μελών.",
+        "question": "Σε ποια αρχή βασίζεται το Ευρωπαϊκό Ένταλμα Σύλληψης (ΕΕΣ);",
+        "options": [
+          "Στην έκδοση μέσω διπλωματικών καναλιών, με πολιτική διακριτική ευχέρεια",
+          "Στην αμοιβαία αναγνώριση δικαστικών αποφάσεων μεταξύ των κρατών μελών",
+          "Στην καθολική δικαιοδοσία του Διεθνούς Ποινικού Δικαστηρίου",
+          "Στην εναρμόνιση όλων των ποινικών διαδικασιών της Ένωσης"
+        ],
+        "answer": 1,
+        "explanation": "Το ΕΕΣ (Πλαίσιο Απόφαση 2002/584/ΔΕΥ), σε εφαρμογή από το 2004, είναι το πρώτο μέσο που στηρίζεται στην αμοιβαία αναγνώριση: οι δικαστικές αρχές παραδίδουν πρόσωπα μεταξύ των κρατών μελών, βάσει περιορισμένων λόγων άρνησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Research and innovation are supported by the Union's largest dedicated spending programme.",
+        "question": "Which EU programme is dedicated to research and innovation for the 2021–2027 period?",
+        "options": [
+          "Erasmus+",
+          "Creative Europe",
+          "Horizon Europe",
+          "EU4Health"
+        ],
+        "answer": 2,
+        "explanation": "Horizon Europe (Regulation (EU) 2021/695) is the roughly €95 billion framework programme for research and innovation; Erasmus+ covers education and training, Creative Europe the cultural sector, and EU4Health public health."
+      },
+      "el": {
+        "passage": "28. Η έρευνα και η καινοτομία στηρίζονται από το μεγαλύτερο ειδικό πρόγραμμα δαπανών της Ένωσης.",
+        "question": "Ποιο πρόγραμμα της ΕΕ είναι αφιερωμένο στην έρευνα και την καινοτομία για την περίοδο 2021–2027;",
+        "options": [
+          "Erasmus+",
+          "Creative Europe",
+          "Horizon Europe",
+          "EU4Health"
+        ],
+        "answer": 2,
+        "explanation": "Το Horizon Europe (Κανονισμός (ΕΕ) 2021/695) είναι το πρόγραμμα-πλαίσιο περίπου 95 δισεκατομμυρίων ευρώ για την έρευνα και την καινοτομία· το Erasmus+ καλύπτει την εκπαίδευση και την κατάρτιση, το Creative Europe τον πολιτιστικό τομέα και το EU4Health τη δημόσια υγεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. The Treaties divide the Union's powers, reserving certain policy areas entirely to the Union level.",
+        "question": "Which policy area falls within the Union's EXCLUSIVE competence, meaning member states cannot conclude their own agreements?",
+        "options": [
+          "Education and vocational training",
+          "Public health",
+          "Regional development",
+          "The common commercial policy (customs and trade agreements)"
+        ],
+        "answer": 3,
+        "explanation": "Article 3(1)(e) TFEU: the common commercial policy is an exclusive Union competence; education and public health are supporting competences (Article 6), while regional development is shared (Article 4)."
+      },
+      "el": {
+        "passage": "29. Οι Συνθήκες κατανέμουν τις εξουσίες της Ένωσης, κρατώντας ορισμένους τομείς πολιτικής εξ ολοκλήρου στο επίπεδο της Ένωσης.",
+        "question": "Ποιος τομέας πολιτικής εμπίπτει στην ΑΠΟΚΛΕΙΣΤΙΚΗ αρμοδιότητα της Ένωσης, ώστε τα κράτη μέλη να μη μπορούν να συνάψουν δικές τους συμφωνίες;",
+        "options": [
+          "Η εκπαίδευση και η επαγγελματική κατάρτιση",
+          "Η δημόσια υγεία",
+          "Η περιφερειακή ανάπτυξη",
+          "Η κοινή εμπορική πολιτική (τελωνεία και εμπορικές συμφωνίες)"
+        ],
+        "answer": 3,
+        "explanation": "Άρθρο 3 παρ. 1 στοιχ. ε΄ ΣΛΕΕ: η κοινή εμπορική πολιτική αποτελεί αποκλειστική αρμοδιότητα της Ένωσης· η εκπαίδευση και η δημόσια υγεία είναι αρμοδιότητες στήριξης (άρθρο 6), ενώ η περιφερειακή ανάπτυξη είναι κοινή (άρθρο 4)."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. Decentralised agencies are spread across the Union, with their seats fixed by political agreement.",
+        "question": "In which city is the EU Agency for Law Enforcement Cooperation (Europol) headquartered?",
+        "options": [
+          "Vienna",
+          "Lyon",
+          "The Hague",
+          "Warsaw"
+        ],
+        "answer": 2,
+        "explanation": "Europol is seated in The Hague (Netherlands); INTERPOL is headquartered in Lyon, the OSCE and the Fundamental Rights Agency in Vienna, and Frontex in Warsaw."
+      },
+      "el": {
+        "passage": "30. Οι αποκεντρωμένοι οργανισμοί διασπάρονται σε όλη την Ένωση και οι έδρες τους καθορίστηκαν με πολιτική συμφωνία.",
+        "question": "Σε ποια πόλη εδρεύει ο Οργανισμός της Ευρωπαϊκής Ένωσης για τη Συνεργασία Επιβολής του Νόμου (Europol);",
+        "options": [
+          "Στη Βιέννη",
+          "Στη Λυών",
+          "Στη Χάγη",
+          "Στη Βαρσοβία"
+        ],
+        "answer": 2,
+        "explanation": "Η Europol εδρεύει στη Χάγη (Ολλανδία)· η INTERPOL εδρεύει στη Λυών, ο ΟΑΣΕ και ο Οργανισμός Θεμελιωδών Δικαιωμάτων (FRA) στη Βιέννη, και η Frontex στη Βαρσοβία."
+      }
+    }
   ]
 }
 
