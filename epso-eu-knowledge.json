@@ -6254,5 +6254,427 @@
         "explanation": "Η Στρατηγική Πυξίδα, που υιοθετήθηκε τον Μάρτιο του 2022, είναι στρατηγικό έγγραφο που παρέχει κοινή αξιολόγηση της ΕΕ για το περιβάλλον ασφαλείας και γεωπολιτικής, θέτοντας συγκεκριμένους στόχους και χρονοδιαγράμματα σε τέσσερις τομείς — δράση, ασφάλεια, επένδυση και εταιρικές σχέσεις — για την ενίσχυση της πολιτικής ασφάλειας και άμυνας της ΕΕ έως το 2030."
       }
     }
+  ],
+"eu_9": [
+    {
+      "en": {
+        "question": "On what date was the Schuman Declaration delivered, proposing the pooling of coal and steel production?",
+        "options": ["25 March 1957", "9 May 1950", "1 January 1993", "7 February 1992"],
+        "answer": "B",
+        "explanation": "The Schuman Declaration was delivered on 9 May 1950 by French Foreign Minister Robert Schuman, proposing supranational coal and steel cooperation; the date is now celebrated as Europe Day. 25 March 1957 is the signing of the Treaties of Rome, 1 January 1993 is the entry into force of the single market, and 7 February 1992 is the signing of the Maastricht Treaty."
+      },
+      "el": {
+        "question": "Πότε ανακοινώθηκε η Διακήρυξη Σουμάν, που πρότεινε την κοινή διαχείριση της παραγωγής άνθρακα και χάλυβα;",
+        "options": ["25 Μαρτίου 1957", "9 Μαΐου 1950", "1 Ιανουαρίου 1993", "7 Φεβρουαρίου 1992"],
+        "answer": "B",
+        "explanation": "Η Διακήρυξη Σουμάν ανακοινώθηκε στις 9 Μαΐου 1950 από τον Γάλλο ΥΠΕΞ Ρομπέρ Σουμάν, προτείνοντας υπερεθνική συνεργασία στον άνθρακα και τον χάλυβα· η ημερομηνία γιορτάζεται σήμερα ως Ημέρα της Ευρώπης. Η 25η Μαρτίου 1957 αφορά την υπογραφή των Συνθηκών της Ρώμης, η 1η Ιανουαρίου 1993 την έναρξη ισχύος της ενιαίας αγοράς, και η 7η Φεβρουαρίου 1992 την υπογραφή της Συνθήκης του Μάαστριχτ."
+      }
+    },
+    {
+      "en": {
+        "question": "Under the standard qualified majority voting (QMV) rule in the Council of the EU, a decision requires:",
+        "options": ["At least 55% of member states representing at least 65% of the EU population", "At least 50% of member states representing at least 60% of the EU population", "At least 66% of member states representing at least 50% of the EU population", "At least 72% of member states representing at least 65% of the EU population"],
+        "answer": "A",
+        "explanation": "Since November 2014, the standard QMV threshold is 55% of Council members (in practice at least 15 of 27) representing at least 65% of the EU's population. The 72%/65% threshold applies only when the Council acts without a Commission or High Representative proposal."
+      },
+      "el": {
+        "question": "Σύμφωνα με τον κανόνα της ειδικής πλειοψηφίας (QMV) στο Συμβούλιο της ΕΕ, μια απόφαση απαιτεί:",
+        "options": ["Τουλάχιστον 55% των κρατών μελών που αντιπροσωπεύουν τουλάχιστον το 65% του πληθυσμού της ΕΕ", "Τουλάχιστον 50% των κρατών μελών που αντιπροσωπεύουν τουλάχιστον το 60% του πληθυσμού της ΕΕ", "Τουλάχιστον 66% των κρατών μελών που αντιπροσωπεύουν τουλάχιστον το 50% του πληθυσμού της ΕΕ", "Τουλάχιστον 72% των κρατών μελών που αντιπροσωπεύουν τουλάχιστον το 65% του πληθυσμού της ΕΕ"],
+        "answer": "A",
+        "explanation": "Από τον Νοέμβριο του 2014, το τυπικό κατώφλι QMV είναι 55% των μελών του Συμβουλίου (στην πράξη τουλάχιστον 15 από τα 27) που αντιπροσωπεύουν τουλάχιστον το 65% του πληθυσμού της ΕΕ. Το κατώφλι 72%/65% ισχύει μόνο όταν το Συμβούλιο ενεργεί χωρίς πρόταση της Επιτροπής ή του Ύπατου Εκπροσώπου."
+      }
+    },
+    {
+      "en": {
+        "question": "Which two institutions act as co-legislators under the Ordinary Legislative Procedure?",
+        "options": ["The European Council and the European Parliament", "The European Commission and the Council of the EU", "The European Parliament and the Council of the EU", "The Council of the EU and the Court of Justice"],
+        "answer": "C",
+        "explanation": "Under the Ordinary Legislative Procedure (formerly co-decision), the European Parliament and the Council of the EU jointly adopt legislation on an equal footing. The Commission proposes but does not co-legislate, and the European Council sets political direction rather than passing legislation."
+      },
+      "el": {
+        "question": "Ποια δύο θεσμικά όργανα ενεργούν ως συννομοθέτες στο πλαίσιο της Συνήθους Νομοθετικής Διαδικασίας;",
+        "options": ["Το Ευρωπαϊκό Συμβούλιο και το Ευρωπαϊκό Κοινοβούλιο", "Η Ευρωπαϊκή Επιτροπή και το Συμβούλιο της ΕΕ", "Το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο της ΕΕ", "Το Συμβούλιο της ΕΕ και το Δικαστήριο"],
+        "answer": "C",
+        "explanation": "Στη Συνήθη Νομοθετική Διαδικασία (πρώην συναπόφαση), το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο της ΕΕ εγκρίνουν από κοινού τη νομοθεσία ισότιμα. Η Επιτροπή προτείνει αλλά δεν συννομοθετεί, ενώ το Ευρωπαϊκό Συμβούλιο καθορίζει την πολιτική κατεύθυνση και δεν ψηφίζει νομοθεσία."
+      }
+    },
+    {
+      "en": {
+        "question": "What is the minimum number of member states required to establish 'enhanced cooperation' under the Treaties?",
+        "options": ["6", "7", "15", "9"],
+        "answer": "D",
+        "explanation": "Article 20 TEU sets the minimum threshold for enhanced cooperation at nine member states, allowing a subgroup to deepen integration in a given area without full EU-wide consensus."
+      },
+      "el": {
+        "question": "Ποιος είναι ο ελάχιστος αριθμός κρατών μελών που απαιτείται για τη θέσπιση 'ενισχυμένης συνεργασίας' βάσει των Συνθηκών;",
+        "options": ["6", "7", "15", "9"],
+        "answer": "D",
+        "explanation": "Το άρθρο 20 ΣΕΕ ορίζει το ελάχιστο κατώφλι για την ενισχυμένη συνεργασία στα εννέα κράτη μέλη, επιτρέποντας σε μια υποομάδα να εμβαθύνει την ολοκλήρωση σε συγκεκριμένο τομέα χωρίς πλήρη πανενωσιακή συναίνεση."
+      }
+    },
+    {
+      "en": {
+        "question": "Under the subsidiarity 'yellow card' procedure, what fraction of votes allocated to national parliaments must object for the Commission to review a draft act?",
+        "options": ["One third", "One quarter", "One half", "Two thirds"],
+        "answer": "A",
+        "explanation": "A 'yellow card' is triggered when reasoned opinions represent at least one third of the votes allocated to national parliaments (one quarter for acts in the area of freedom, security and justice), obliging the Commission to review the proposal."
+      },
+      "el": {
+        "question": "Στο πλαίσιο της διαδικασίας 'κίτρινης κάρτας' για την επικουρικότητα, ποιο ποσοστό των ψήφων που κατανέμονται στα εθνικά κοινοβούλια πρέπει να αντιταχθεί ώστε η Επιτροπή να επανεξετάσει το σχέδιο πράξης;",
+        "options": ["Το ένα τρίτο", "Το ένα τέταρτο", "Το ήμισυ", "Τα δύο τρίτα"],
+        "answer": "A",
+        "explanation": "Η 'κίτρινη κάρτα' ενεργοποιείται όταν οι αιτιολογημένες γνώμες αντιπροσωπεύουν τουλάχιστον το ένα τρίτο των ψήφων που κατανέμονται στα εθνικά κοινοβούλια (το ένα τέταρτο για πράξεις στον χώρο ελευθερίας, ασφάλειας και δικαιοσύνης), υποχρεώνοντας την Επιτροπή να επανεξετάσει την πρόταση."
+      }
+    },
+    {
+      "en": {
+        "question": "Which EU body audits the Union's finances but holds no judicial powers?",
+        "options": ["The Court of Justice of the EU", "The European Court of Auditors", "The European Anti-Fraud Office (OLAF)", "The European Court of Human Rights"],
+        "answer": "B",
+        "explanation": "The European Court of Auditors checks the legality and sound management of EU finances but cannot issue binding rulings. OLAF investigates fraud but is not an auditing court, and the European Court of Human Rights is a Council of Europe body, not an EU institution."
+      },
+      "el": {
+        "question": "Ποιο όργανο της ΕΕ ελέγχει τα οικονομικά της Ένωσης αλλά δεν διαθέτει δικαιοδοτικές εξουσίες;",
+        "options": ["Το Δικαστήριο της Ευρωπαϊκής Ένωσης", "Το Ευρωπαϊκό Ελεγκτικό Συνέδριο", "Η Ευρωπαϊκή Υπηρεσία Καταπολέμησης της Απάτης (OLAF)", "Το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων"],
+        "answer": "B",
+        "explanation": "Το Ευρωπαϊκό Ελεγκτικό Συνέδριο ελέγχει τη νομιμότητα και τη χρηστή διαχείριση των οικονομικών της ΕΕ, χωρίς όμως να εκδίδει δεσμευτικές αποφάσεις. Η OLAF διερευνά υποθέσεις απάτης αλλά δεν είναι ελεγκτικό δικαστήριο, ενώ το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων είναι όργανο του Συμβουλίου της Ευρώπης, όχι της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "question": "What is the primary objective of the European Central Bank, as defined in the Treaties?",
+        "options": ["Full employment", "Balanced government budgets across member states", "Price stability", "Maximizing GDP growth"],
+        "answer": "C",
+        "explanation": "Article 127 TFEU establishes price stability as the ECB's primary objective; supporting the EU's general economic policies is only a secondary goal, pursued without prejudice to price stability."
+      },
+      "el": {
+        "question": "Ποιος είναι ο πρωταρχικός στόχος της Ευρωπαϊκής Κεντρικής Τράπεζας, όπως ορίζεται στις Συνθήκες;",
+        "options": ["Η πλήρης απασχόληση", "Οι ισοσκελισμένοι κρατικοί προϋπολογισμοί σε όλα τα κράτη μέλη", "Η σταθερότητα των τιμών", "Η μεγιστοποίηση της ανάπτυξης του ΑΕΠ"],
+        "answer": "C",
+        "explanation": "Το άρθρο 127 ΣΛΕΕ ορίζει τη σταθερότητα των τιμών ως τον πρωταρχικό στόχο της ΕΚΤ· η στήριξη των γενικών οικονομικών πολιτικών της ΕΕ αποτελεί μόνο δευτερεύοντα στόχο, με την επιφύλαξη της σταθερότητας των τιμών."
+      }
+    },
+    {
+      "en": {
+        "question": "Which treaty introduced the 'three-pillar' structure of the European Union, later abolished by the Treaty of Lisbon?",
+        "options": ["The Treaty of Amsterdam (1997)", "The Treaty of Nice (2001)", "The Single European Act (1986)", "The Treaty of Maastricht (1992)"],
+        "answer": "D",
+        "explanation": "The Maastricht Treaty (1992) created the EU with a three-pillar structure — the European Communities, Common Foreign and Security Policy, and Justice and Home Affairs. Lisbon (2009) merged these into a single legal framework."
+      },
+      "el": {
+        "question": "Ποια συνθήκη εισήγαγε τη δομή των 'τριών πυλώνων' της Ευρωπαϊκής Ένωσης, η οποία καταργήθηκε αργότερα με τη Συνθήκη της Λισαβόνας;",
+        "options": ["Η Συνθήκη του Άμστερνταμ (1997)", "Η Συνθήκη της Νίκαιας (2001)", "Η Ενιαία Ευρωπαϊκή Πράξη (1986)", "Η Συνθήκη του Μάαστριχτ (1992)"],
+        "answer": "D",
+        "explanation": "Η Συνθήκη του Μάαστριχτ (1992) δημιούργησε την ΕΕ με δομή τριών πυλώνων — τις Ευρωπαϊκές Κοινότητες, την Κοινή Εξωτερική Πολιτική και Πολιτική Ασφαλείας, και τη Δικαιοσύνη και Εσωτερικές Υποθέσεις. Η Λισαβόνα (2009) τους ενοποίησε σε ένα ενιαίο νομικό πλαίσιο."
+      }
+    },
+    {
+      "en": {
+        "question": "Alongside political and economic criteria, what is the third element of the Copenhagen criteria for EU accession?",
+        "options": ["The ability to take on the obligations of membership, including adherence to the aims of the Union (the acquis)", "Prior adoption of the euro currency", "Membership in NATO", "Prior ratification of the Schengen Agreement"],
+        "answer": "A",
+        "explanation": "The third Copenhagen criterion (1993) requires candidate countries to be able to take on the obligations of membership — the entire body of EU law, or 'acquis communautaire' — not to have already adopted the euro, joined NATO, or joined Schengen, none of which are accession prerequisites."
+      },
+      "el": {
+        "question": "Πέρα από τα πολιτικά και οικονομικά κριτήρια, ποιο είναι το τρίτο στοιχείο των κριτηρίων της Κοπεγχάγης για την ένταξη στην ΕΕ;",
+        "options": ["Η ικανότητα ανάληψης των υποχρεώσεων της ιδιότητας μέλους, συμπεριλαμβανομένου του κεκτημένου της Ένωσης", "Η προηγούμενη υιοθέτηση του ευρώ", "Η ένταξη στο ΝΑΤΟ", "Η προηγούμενη κύρωση της Συμφωνίας Σένγκεν"],
+        "answer": "A",
+        "explanation": "Το τρίτο κριτήριο της Κοπεγχάγης (1993) απαιτεί από τις υποψήφιες χώρες να είναι ικανές να αναλάβουν τις υποχρεώσεις της ιδιότητας μέλους — το σύνολο του ενωσιακού δικαίου, το 'κεκτημένο' — και όχι να έχουν ήδη υιοθετήσει το ευρώ, ενταχθεί στο ΝΑΤΟ ή στον χώρο Σένγκεν, καμία από τις οποίες δεν αποτελεί προϋπόθεση ένταξης."
+      }
+    },
+    {
+      "en": {
+        "question": "Since which treaty does the former 'co-decision procedure' formally bear the name 'Ordinary Legislative Procedure'?",
+        "options": ["The Treaty of Amsterdam", "The Treaty of Lisbon", "The Treaty of Maastricht", "The Treaty of Nice"],
+        "answer": "B",
+        "explanation": "The Treaty of Lisbon (2009) renamed co-decision to the 'Ordinary Legislative Procedure' and made it the default lawmaking procedure, extending it to many new policy areas."
+      },
+      "el": {
+        "question": "Από ποια συνθήκη η πρώην 'διαδικασία συναπόφασης' φέρει επισήμως την ονομασία 'Συνήθης Νομοθετική Διαδικασία';",
+        "options": ["Τη Συνθήκη του Άμστερνταμ", "Τη Συνθήκη της Λισαβόνας", "Τη Συνθήκη του Μάαστριχτ", "Τη Συνθήκη της Νίκαιας"],
+        "answer": "B",
+        "explanation": "Η Συνθήκη της Λισαβόνας (2009) μετονόμασε τη συναπόφαση σε 'Συνήθη Νομοθετική Διαδικασία' και την καθιέρωσε ως τη βασική νομοθετική διαδικασία, επεκτείνοντάς την σε πολλούς νέους τομείς πολιτικής."
+      }
+    },
+    {
+      "en": {
+        "question": "The European Economic and Social Committee (EESC) represents which groups in an advisory capacity to EU institutions?",
+        "options": ["National governments of member states", "Regional and local authorities only", "Employers, workers, and other civil society representatives", "Political parties represented in the European Parliament"],
+        "answer": "C",
+        "explanation": "The EESC gives non-binding opinions on behalf of employers, workers, and broader civil society. Regional and local authorities are instead represented through the separate Committee of the Regions — a common point of confusion between the two advisory bodies."
+      },
+      "el": {
+        "question": "Ποιες ομάδες εκπροσωπεί η Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή (ΕΟΚΕ) σε συμβουλευτικό ρόλο προς τα θεσμικά όργανα της ΕΕ;",
+        "options": ["Τις εθνικές κυβερνήσεις των κρατών μελών", "Μόνο τις περιφερειακές και τοπικές αρχές", "Τους εργοδότες, τους εργαζόμενους και άλλους εκπροσώπους της κοινωνίας των πολιτών", "Τα πολιτικά κόμματα που εκπροσωπούνται στο Ευρωπαϊκό Κοινοβούλιο"],
+        "answer": "C",
+        "explanation": "Η ΕΟΚΕ διατυπώνει μη δεσμευτικές γνώμες εκ μέρους εργοδοτών, εργαζομένων και της ευρύτερης κοινωνίας των πολιτών. Οι περιφερειακές και τοπικές αρχές εκπροσωπούνται αντίθετα μέσω της ξεχωριστής Επιτροπής των Περιφερειών — συχνό σημείο σύγχυσης μεταξύ των δύο συμβουλευτικών οργάνων."
+      }
+    },
+    {
+      "en": {
+        "question": "A Multiannual Financial Framework (MFF), which sets the EU's long-term budget ceilings, typically covers a period of:",
+        "options": ["5 years", "10 years", "4 years", "7 years"],
+        "answer": "D",
+        "explanation": "MFFs conventionally run for seven years (e.g. 2014–2020, 2021–2027), giving predictability to multi-year spending programmes, though the Treaties do not fix this duration as a strict legal minimum."
+      },
+      "el": {
+        "question": "Το Πολυετές Δημοσιονομικό Πλαίσιο (ΠΔΠ), που καθορίζει τα μακροπρόθεσμα δημοσιονομικά ανώτατα όρια της ΕΕ, καλύπτει συνήθως περίοδο:",
+        "options": ["5 ετών", "10 ετών", "4 ετών", "7 ετών"],
+        "answer": "D",
+        "explanation": "Τα ΠΔΠ καλύπτουν συμβατικά επτά έτη (π.χ. 2014–2020, 2021–2027), προσφέροντας προβλεψιμότητα στα πολυετή προγράμματα δαπανών, αν και οι Συνθήκες δεν καθορίζουν αυτή τη διάρκεια ως αυστηρό νομικό ελάχιστο."
+      }
+    },
+    {
+      "en": {
+        "question": "Under Article 50 TEU, once a member state notifies its intention to withdraw, the Treaties cease to apply to it after how long, unless the period is extended?",
+        "options": ["2 years", "1 year", "5 years", "18 months"],
+        "answer": "A",
+        "explanation": "Article 50 TEU sets a default two-year window from notification for a withdrawal agreement to be negotiated, after which the Treaties cease to apply unless the European Council unanimously agrees, with the departing state, to extend it."
+      },
+      "el": {
+        "question": "Βάσει του άρθρου 50 ΣΕΕ, εφόσον ένα κράτος μέλος κοινοποιήσει την πρόθεσή του να αποχωρήσει, οι Συνθήκες παύουν να ισχύουν γι' αυτό μετά από πόσο χρονικό διάστημα, εκτός αν παραταθεί;",
+        "options": ["2 έτη", "1 έτος", "5 έτη", "18 μήνες"],
+        "answer": "A",
+        "explanation": "Το άρθρο 50 ΣΕΕ ορίζει προεπιλεγμένο διάστημα δύο ετών από την κοινοποίηση για τη διαπραγμάτευση συμφωνίας αποχώρησης, μετά το οποίο οι Συνθήκες παύουν να ισχύουν, εκτός αν το Ευρωπαϊκό Συμβούλιο συμφωνήσει ομόφωνα, με το αποχωρούν κράτος, να παρατείνει την προθεσμία."
+      }
+    },
+    {
+      "en": {
+        "question": "The Recovery and Resilience Facility (RRF), launched in response to the COVID-19 pandemic, is primarily financed through:",
+        "options": ["Increased national VAT contributions", "Common EU borrowing on capital markets", "A new EU-wide carbon tax", "Reallocation of existing Common Agricultural Policy funds"],
+        "answer": "B",
+        "explanation": "The RRF is funded through the NextGenerationEU programme, under which the Commission borrows jointly on capital markets on behalf of the EU — a historic departure from relying solely on member state contributions."
+      },
+      "el": {
+        "question": "Ο Μηχανισμός Ανάκαμψης και Ανθεκτικότητας (RRF), που δημιουργήθηκε ως απάντηση στην πανδημία COVID-19, χρηματοδοτείται κυρίως μέσω:",
+        "options": ["Αυξημένων εθνικών εισφορών ΦΠΑ", "Κοινού δανεισμού της ΕΕ στις κεφαλαιαγορές", "Ενός νέου πανευρωπαϊκού φόρου άνθρακα", "Ανακατανομής υφιστάμενων κονδυλίων της Κοινής Αγροτικής Πολιτικής"],
+        "answer": "B",
+        "explanation": "Ο RRF χρηματοδοτείται μέσω του προγράμματος NextGenerationEU, στο πλαίσιο του οποίου η Επιτροπή δανείζεται από κοινού στις κεφαλαιαγορές εξ ονόματος της ΕΕ — μια ιστορική καινοτομία σε σχέση με την αποκλειστική στήριξη σε εισφορές κρατών μελών."
+      }
+    },
+    {
+      "en": {
+        "question": "Which EU institution formally proposes the annual budget before it is negotiated between Parliament and Council?",
+        "options": ["The European Council", "The European Central Bank", "The European Commission", "The Council of the EU"],
+        "answer": "C",
+        "explanation": "The Commission drafts and proposes the annual budget, which is then jointly adopted by the European Parliament and the Council under a dedicated budgetary procedure."
+      },
+      "el": {
+        "question": "Ποιο θεσμικό όργανο της ΕΕ προτείνει επισήμως τον ετήσιο προϋπολογισμό πριν από τη διαπραγμάτευσή του μεταξύ Κοινοβουλίου και Συμβουλίου;",
+        "options": ["Το Ευρωπαϊκό Συμβούλιο", "Η Ευρωπαϊκή Κεντρική Τράπεζα", "Η Ευρωπαϊκή Επιτροπή", "Το Συμβούλιο της ΕΕ"],
+        "answer": "C",
+        "explanation": "Η Επιτροπή καταρτίζει και προτείνει τον ετήσιο προϋπολογισμό, ο οποίος στη συνέχεια εγκρίνεται από κοινού από το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο στο πλαίσιο ειδικής δημοσιονομικής διαδικασίας."
+      }
+    },
+    {
+      "en": {
+        "question": "The 'Spitzenkandidat' (lead candidate) process refers to:",
+        "options": ["The rotating presidency of the Council of the EU", "The selection procedure for judges of the Court of Justice", "The nomination of national commissioners by member states", "European political parties nominating a lead candidate for Commission President ahead of Parliament elections"],
+        "answer": "D",
+        "explanation": "The Spitzenkandidat system, used from 2014, has European political families nominate a lead candidate before European Parliament elections, with the aim (not a binding rule) that the European Council propose the winning candidate as Commission President."
+      },
+      "el": {
+        "question": "Η διαδικασία 'Spitzenkandidat' (επικεφαλής υποψήφιος) αναφέρεται:",
+        "options": ["Στην εκ περιτροπής προεδρία του Συμβουλίου της ΕΕ", "Στη διαδικασία επιλογής δικαστών του Δικαστηρίου", "Στην ονομασία εθνικών επιτρόπων από τα κράτη μέλη", "Στην ονομασία επικεφαλής υποψηφίου για την προεδρία της Επιτροπής από τα ευρωπαϊκά πολιτικά κόμματα πριν από τις εκλογές του Κοινοβουλίου"],
+        "answer": "D",
+        "explanation": "Το σύστημα Spitzenkandidat, που χρησιμοποιείται από το 2014, προβλέπει ότι οι ευρωπαϊκές πολιτικές οικογένειες ονομάζουν επικεφαλής υποψήφιο πριν από τις ευρωεκλογές, με στόχο (όχι δεσμευτικό κανόνα) το Ευρωπαϊκό Συμβούλιο να προτείνει τον νικητή ως Πρόεδρο της Επιτροπής."
+      }
+    },
+    {
+      "en": {
+        "question": "The European Citizens' Initiative allows citizens to request Commission legislative action if they gather:",
+        "options": ["Signatures from at least 7 member states, totalling at least 1 million", "Signatures from at least 15 member states, totalling at least 500,000", "Signatures from all 27 member states, totalling at least 2 million", "Signatures from at least 4 member states, totalling at least 250,000"],
+        "answer": "A",
+        "explanation": "A valid European Citizens' Initiative requires at least one million signatures collected across at least one quarter of member states (currently seven of 27), each meeting a country-specific minimum threshold."
+      },
+      "el": {
+        "question": "Η Ευρωπαϊκή Πρωτοβουλία Πολιτών επιτρέπει στους πολίτες να ζητήσουν νομοθετική δράση από την Επιτροπή εφόσον συγκεντρώσουν:",
+        "options": ["Υπογραφές από τουλάχιστον 7 κράτη μέλη, συνολικά τουλάχιστον 1 εκατομμύριο", "Υπογραφές από τουλάχιστον 15 κράτη μέλη, συνολικά τουλάχιστον 500.000", "Υπογραφές από όλα τα 27 κράτη μέλη, συνολικά τουλάχιστον 2 εκατομμύρια", "Υπογραφές από τουλάχιστον 4 κράτη μέλη, συνολικά τουλάχιστον 250.000"],
+        "answer": "A",
+        "explanation": "Μια έγκυρη Ευρωπαϊκή Πρωτοβουλία Πολιτών απαιτεί τουλάχιστον ένα εκατομμύριο υπογραφές συγκεντρωμένες σε τουλάχιστον το ένα τέταρτο των κρατών μελών (σήμερα επτά από τα 27), καθένα εκ των οποίων πληροί συγκεκριμένο ελάχιστο εθνικό κατώφλι."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the following is a member of the European Economic Area (EEA) but NOT of the EU?",
+        "options": ["Switzerland", "Norway", "The United Kingdom", "Turkey"],
+        "answer": "B",
+        "explanation": "Norway (along with Iceland and Liechtenstein) is an EEA member without being an EU member, giving it single-market access. Switzerland, despite being an EFTA member, is not part of the EEA and instead relies on bilateral agreements — a frequent point of confusion."
+      },
+      "el": {
+        "question": "Ποιο από τα παρακάτω είναι μέλος του Ευρωπαϊκού Οικονομικού Χώρου (ΕΟΧ) αλλά ΟΧΙ της ΕΕ;",
+        "options": ["Η Ελβετία", "Η Νορβηγία", "Το Ηνωμένο Βασίλειο", "Η Τουρκία"],
+        "answer": "B",
+        "explanation": "Η Νορβηγία (μαζί με την Ισλανδία και το Λιχτενστάιν) είναι μέλος του ΕΟΧ χωρίς να είναι μέλος της ΕΕ, εξασφαλίζοντας πρόσβαση στην ενιαία αγορά. Η Ελβετία, παρότι μέλος της ΕΖΕΣ, δεν ανήκει στον ΕΟΧ και βασίζεται αντ' αυτού σε διμερείς συμφωνίες — συχνό σημείο σύγχυσης."
+      }
+    },
+    {
+      "en": {
+        "question": "Which EU member state is NOT part of the Schengen Area?",
+        "options": ["Poland", "Estonia", "Ireland", "Croatia"],
+        "answer": "C",
+        "explanation": "Ireland has a standing opt-out from Schengen and maintains its own Common Travel Area arrangement with the UK instead. Croatia, by contrast, completed full Schengen membership in 2023 — a commonly outdated fact worth updating."
+      },
+      "el": {
+        "question": "Ποιο κράτος μέλος της ΕΕ ΔΕΝ ανήκει στον χώρο Σένγκεν;",
+        "options": ["Η Πολωνία", "Η Εσθονία", "Η Ιρλανδία", "Η Κροατία"],
+        "answer": "C",
+        "explanation": "Η Ιρλανδία διατηρεί μόνιμη εξαίρεση από το Σένγκεν και έχει αντ' αυτού τη δική της συμφωνία Κοινού Ταξιδιωτικού Χώρου με το Ηνωμένο Βασίλειο. Αντίθετα, η Κροατία ολοκλήρωσε την πλήρη ένταξή της στο Σένγκεν το 2023 — συχνά ξεπερασμένο δεδομένο που αξίζει επικαιροποίηση."
+      }
+    },
+    {
+      "en": {
+        "question": "The Treaty of Nice (2001) primarily reformed EU institutions in preparation for:",
+        "options": ["The introduction of the single currency", "The introduction of direct elections to the European Parliament", "The United Kingdom's withdrawal from the EU", "The 2004/2007 enlargement to Central and Eastern Europe"],
+        "answer": "D",
+        "explanation": "The Treaty of Nice reweighted votes and adjusted institutional composition specifically to prepare the EU's decision-making machinery for the large 2004 and 2007 enlargement rounds."
+      },
+      "el": {
+        "question": "Η Συνθήκη της Νίκαιας (2001) μεταρρύθμισε κυρίως τα θεσμικά όργανα της ΕΕ εν όψει:",
+        "options": ["Της εισαγωγής του ενιαίου νομίσματος", "Της καθιέρωσης άμεσων εκλογών για το Ευρωπαϊκό Κοινοβούλιο", "Της αποχώρησης του Ηνωμένου Βασιλείου από την ΕΕ", "Της διεύρυνσης του 2004/2007 προς την Κεντρική και Ανατολική Ευρώπη"],
+        "answer": "D",
+        "explanation": "Η Συνθήκη της Νίκαιας αναπροσάρμοσε τη στάθμιση ψήφων και τη θεσμική σύνθεση ειδικά για να προετοιμάσει τον μηχανισμό λήψης αποφάσεων της ΕΕ ενόψει των μεγάλων γύρων διεύρυνσης του 2004 και του 2007."
+      }
+    },
+    {
+      "en": {
+        "question": "The Single European Act (1986) set a target date for completing the single market by:",
+        "options": ["1992", "1999", "2000", "1995"],
+        "answer": "A",
+        "explanation": "The Single European Act set the end of 1992 as the target for completing the internal market, removing remaining physical, technical, and fiscal barriers to the free movement of goods, services, capital, and people."
+      },
+      "el": {
+        "question": "Η Ενιαία Ευρωπαϊκή Πράξη (1986) όρισε ως στόχο την ολοκλήρωση της ενιαίας αγοράς έως:",
+        "options": ["Το 1992", "Το 1999", "Το 2000", "Το 1995"],
+        "answer": "A",
+        "explanation": "Η Ενιαία Ευρωπαϊκή Πράξη έθεσε ως στόχο το τέλος του 1992 για την ολοκλήρωση της εσωτερικής αγοράς, με την κατάργηση των εναπομεινάντων φυσικών, τεχνικών και φορολογικών εμποδίων στην ελεύθερη κυκλοφορία αγαθών, υπηρεσιών, κεφαλαίων και προσώπων."
+      }
+    },
+    {
+      "en": {
+        "question": "Which EU country has a formal treaty-based opt-out from adopting the euro (rather than simply not yet meeting convergence criteria)?",
+        "options": ["Sweden", "Denmark", "Poland", "Czechia"],
+        "answer": "B",
+        "explanation": "Denmark negotiated a legally binding opt-out from the euro in a protocol attached to the Maastricht Treaty. Sweden has no such formal opt-out; it simply avoids joining the ERM II exchange rate mechanism, a de facto rather than legal exemption."
+      },
+      "el": {
+        "question": "Ποια χώρα της ΕΕ διαθέτει επίσημη, βάσει συνθήκης, εξαίρεση από την υιοθέτηση του ευρώ (και όχι απλώς μη πλήρωση των κριτηρίων σύγκλισης);",
+        "options": ["Η Σουηδία", "Η Δανία", "Η Πολωνία", "Η Τσεχία"],
+        "answer": "B",
+        "explanation": "Η Δανία διαπραγματεύτηκε νομικά δεσμευτική εξαίρεση από το ευρώ σε πρωτόκολλο προσαρτημένο στη Συνθήκη του Μάαστριχτ. Η Σουηδία δεν διαθέτει τέτοια επίσημη εξαίρεση· απλώς αποφεύγει την ένταξη στον μηχανισμό συναλλαγματικών ισοτιμιών ERM II, μια εκ των πραγμάτων και όχι νομική εξαίρεση."
+      }
+    },
+    {
+      "en": {
+        "question": "The 'trio presidency' system of the Council of the EU refers to:",
+        "options": ["Three institutions sharing legislative power", "Two permanent judges assisting the presiding judge at the Court of Justice", "Three consecutive rotating presidencies cooperating on a shared 18-month programme", "The three largest member states jointly leading foreign policy"],
+        "answer": "C",
+        "explanation": "Since the Treaty of Lisbon, three successive Council presidencies form a 'trio' that agrees a common 18-month programme, giving continuity across the six-month rotating presidencies."
+      },
+      "el": {
+        "question": "Το σύστημα 'τριάδας προεδριών' του Συμβουλίου της ΕΕ αναφέρεται:",
+        "options": ["Σε τρία θεσμικά όργανα που μοιράζονται τη νομοθετική εξουσία", "Σε δύο μόνιμους δικαστές που επικουρούν τον προεδρεύοντα δικαστή στο Δικαστήριο", "Σε τρεις διαδοχικές εκ περιτροπής προεδρίες που συνεργάζονται σε κοινό πρόγραμμα 18 μηνών", "Στα τρία μεγαλύτερα κράτη μέλη που ηγούνται από κοινού της εξωτερικής πολιτικής"],
+        "answer": "C",
+        "explanation": "Από τη Συνθήκη της Λισαβόνας, τρεις διαδοχικές προεδρίες του Συμβουλίου σχηματίζουν μια 'τριάδα' που συμφωνεί κοινό πρόγραμμα 18 μηνών, εξασφαλίζοντας συνέχεια μεταξύ των εξάμηνων εκ περιτροπής προεδριών."
+      }
+    },
+    {
+      "en": {
+        "question": "How do delegated acts and implementing acts primarily differ?",
+        "options": ["Implementing acts require unanimous Council approval, while delegated acts do not", "Delegated acts are adopted only by the Council, while implementing acts are adopted only by Parliament", "Delegated acts apply only to trade policy, while implementing acts apply only to agriculture", "Delegated acts let the Commission amend or supplement non-essential elements of legislation, while implementing acts ensure uniform conditions for applying legally binding EU acts"],
+        "answer": "D",
+        "explanation": "Delegated acts (Article 290 TFEU) empower the Commission to amend non-essential parts of legislation, subject to Parliament/Council objection rights, while implementing acts (Article 291 TFEU) ensure EU law is applied uniformly across member states, typically under committee (comitology) oversight."
+      },
+      "el": {
+        "question": "Ποια είναι η βασική διαφορά μεταξύ κατ' εξουσιοδότηση πράξεων και εκτελεστικών πράξεων;",
+        "options": ["Οι εκτελεστικές πράξεις απαιτούν ομόφωνη έγκριση του Συμβουλίου, ενώ οι κατ' εξουσιοδότηση όχι", "Οι κατ' εξουσιοδότηση πράξεις εκδίδονται μόνο από το Συμβούλιο, ενώ οι εκτελεστικές μόνο από το Κοινοβούλιο", "Οι κατ' εξουσιοδότηση πράξεις αφορούν μόνο την εμπορική πολιτική, ενώ οι εκτελεστικές μόνο τη γεωργία", "Οι κατ' εξουσιοδότηση πράξεις επιτρέπουν στην Επιτροπή να τροποποιεί ή να συμπληρώνει μη ουσιώδη στοιχεία της νομοθεσίας, ενώ οι εκτελεστικές πράξεις διασφαλίζουν ενιαίους όρους εφαρμογής των νομικά δεσμευτικών πράξεων της ΕΕ"],
+        "answer": "D",
+        "explanation": "Οι κατ' εξουσιοδότηση πράξεις (άρθρο 290 ΣΛΕΕ) εξουσιοδοτούν την Επιτροπή να τροποποιεί μη ουσιώδη στοιχεία της νομοθεσίας, υπό δικαίωμα ένστασης Κοινοβουλίου/Συμβουλίου, ενώ οι εκτελεστικές πράξεις (άρθρο 291 ΣΛΕΕ) διασφαλίζουν την ενιαία εφαρμογή του ενωσιακού δικαίου στα κράτη μέλη, συνήθως υπό εποπτεία επιτροπών (comitology)."
+      }
+    },
+    {
+      "en": {
+        "question": "The European Ombudsman investigates complaints primarily about:",
+        "options": ["Maladministration by EU institutions, bodies, and agencies", "Human rights violations by national governments", "Criminal conduct within member states", "Disputes between EU institutions over treaty interpretation"],
+        "answer": "A",
+        "explanation": "The European Ombudsman handles complaints of maladministration in the activities of EU institutions, bodies, and agencies. Human rights complaints against governments, criminal matters, and treaty-interpretation disputes fall to other bodies, notably the Court of Justice."
+      },
+      "el": {
+        "question": "Ο Ευρωπαίος Διαμεσολαβητής εξετάζει καταγγελίες κυρίως σχετικά με:",
+        "options": ["Κακοδιοίκηση εκ μέρους θεσμικών οργάνων, φορέων και οργανισμών της ΕΕ", "Παραβιάσεις ανθρωπίνων δικαιωμάτων από εθνικές κυβερνήσεις", "Ποινικά αδικήματα εντός των κρατών μελών", "Διαφορές μεταξύ θεσμικών οργάνων της ΕΕ σχετικά με την ερμηνεία των Συνθηκών"],
+        "answer": "A",
+        "explanation": "Ο Ευρωπαίος Διαμεσολαβητής εξετάζει καταγγελίες κακοδιοίκησης στις δραστηριότητες θεσμικών οργάνων, φορέων και οργανισμών της ΕΕ. Καταγγελίες για ανθρώπινα δικαιώματα κατά κυβερνήσεων, ποινικά ζητήματα και διαφορές ερμηνείας Συνθηκών εμπίπτουν σε άλλα όργανα, κυρίως στο Δικαστήριο."
+      }
+    },
+    {
+      "en": {
+        "question": "Which body formally elects the European Ombudsman?",
+        "options": ["The European Council", "The European Parliament", "The Council of the EU", "The President of the Commission"],
+        "answer": "B",
+        "explanation": "The European Ombudsman is elected by the European Parliament for a renewable term corresponding to the parliamentary term, underlining the Ombudsman's accountability link to Parliament rather than to the executive institutions."
+      },
+      "el": {
+        "question": "Ποιο όργανο εκλέγει επισήμως τον Ευρωπαίο Διαμεσολαβητή;",
+        "options": ["Το Ευρωπαϊκό Συμβούλιο", "Το Ευρωπαϊκό Κοινοβούλιο", "Το Συμβούλιο της ΕΕ", "Ο Πρόεδρος της Επιτροπής"],
+        "answer": "B",
+        "explanation": "Ο Ευρωπαίος Διαμεσολαβητής εκλέγεται από το Ευρωπαϊκό Κοινοβούλιο για ανανεώσιμη θητεία που αντιστοιχεί στην κοινοβουλευτική περίοδο, υπογραμμίζοντας τη σχέση λογοδοσίας του Διαμεσολαβητή προς το Κοινοβούλιο και όχι προς τα εκτελεστικά όργανα."
+      }
+    },
+    {
+      "en": {
+        "question": "The Court of Justice of the EU is composed of two courts. Which one primarily hears direct actions brought by individuals and companies against EU institutions?",
+        "options": ["The European Court of Human Rights", "The Civil Service Tribunal", "The General Court", "The Court of Justice (in the narrow sense)"],
+        "answer": "C",
+        "explanation": "The General Court hears most direct actions by natural and legal persons against EU institutions, while the Court of Justice mainly rules on preliminary references from national courts and appeals on points of law. The Civil Service Tribunal, a former specialised chamber, was dissolved and absorbed into the General Court in 2016; the European Court of Human Rights belongs to the Council of Europe, not the EU."
+      },
+      "el": {
+        "question": "Το Δικαστήριο της Ευρωπαϊκής Ένωσης αποτελείται από δύο δικαστήρια. Ποιο εξ αυτών εκδικάζει κυρίως ευθείες προσφυγές ιδιωτών και εταιρειών κατά θεσμικών οργάνων της ΕΕ;",
+        "options": ["Το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων", "Το Δικαστήριο Δημόσιας Διοίκησης", "Το Γενικό Δικαστήριο", "Το Δικαστήριο (υπό στενή έννοια)"],
+        "answer": "C",
+        "explanation": "Το Γενικό Δικαστήριο εκδικάζει τις περισσότερες ευθείες προσφυγές φυσικών και νομικών προσώπων κατά θεσμικών οργάνων της ΕΕ, ενώ το Δικαστήριο αποφαίνεται κυρίως επί προδικαστικών παραπομπών εθνικών δικαστηρίων και επί αναιρέσεων για νομικά ζητήματα. Το Δικαστήριο Δημόσιας Διοίκησης, πρώην ειδικευμένο τμήμα, καταργήθηκε και εντάχθηκε στο Γενικό Δικαστήριο το 2016· το Ευρωπαϊκό Δικαστήριο Ανθρωπίνων Δικαιωμάτων ανήκει στο Συμβούλιο της Ευρώπης, όχι στην ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "question": "'Traditional own resources,' one of the main sources of EU budget revenue, primarily consist of:",
+        "options": ["National income tax contributions", "A harmonized corporate tax across member states", "Revenue from EU-owned real estate", "Customs duties charged on imports from outside the EU"],
+        "answer": "D",
+        "explanation": "Traditional own resources mainly comprise customs duties on imports from non-EU countries and sugar levies, collected by member states on the EU's behalf. There is no harmonized EU-wide corporate tax or EU real-estate revenue stream."
+      },
+      "el": {
+        "question": "Οι 'παραδοσιακοί ίδιοι πόροι', μία από τις κύριες πηγές εσόδων του προϋπολογισμού της ΕΕ, αποτελούνται κυρίως από:",
+        "options": ["Εθνικές εισφορές φόρου εισοδήματος", "Εναρμονισμένο εταιρικό φόρο σε όλα τα κράτη μέλη", "Έσοδα από ακίνητη περιουσία ιδιοκτησίας της ΕΕ", "Δασμούς που επιβάλλονται σε εισαγωγές από χώρες εκτός ΕΕ"],
+        "answer": "D",
+        "explanation": "Οι παραδοσιακοί ίδιοι πόροι αποτελούνται κυρίως από δασμούς σε εισαγωγές από τρίτες χώρες και εισφορές ζάχαρης, που εισπράττονται από τα κράτη μέλη για λογαριασμό της ΕΕ. Δεν υπάρχει εναρμονισμένος πανευρωπαϊκός εταιρικός φόρος ούτε ροή εσόδων από ακίνητη περιουσία της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "question": "Under the European Semester, member states submit National Reform Programmes and Stability/Convergence Programmes primarily to coordinate:",
+        "options": ["Economic and fiscal policy across the EU", "Defense procurement standards", "Environmental protection targets only", "Immigration quotas"],
+        "answer": "A",
+        "explanation": "The European Semester is the EU's annual cycle for coordinating economic and fiscal policies, through which member states submit reform and stability/convergence programmes reviewed against EU-level recommendations."
+      },
+      "el": {
+        "question": "Στο πλαίσιο του Ευρωπαϊκού Εξαμήνου, τα κράτη μέλη υποβάλλουν Εθνικά Προγράμματα Μεταρρυθμίσεων και Προγράμματα Σταθερότητας/Σύγκλισης κυρίως για τον συντονισμό:",
+        "options": ["Της οικονομικής και δημοσιονομικής πολιτικής σε επίπεδο ΕΕ", "Των προτύπων αμυντικών προμηθειών", "Μόνο των περιβαλλοντικών στόχων", "Των μεταναστευτικών ποσοστώσεων"],
+        "answer": "A",
+        "explanation": "Το Ευρωπαϊκό Εξάμηνο είναι ο ετήσιος κύκλος της ΕΕ για τον συντονισμό οικονομικών και δημοσιονομικών πολιτικών, στο πλαίσιο του οποίου τα κράτη μέλη υποβάλλουν προγράμματα μεταρρυθμίσεων και σταθερότητας/σύγκλισης που αξιολογούνται βάσει συστάσεων σε επίπεδο ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "question": "The Treaty establishing the European Coal and Steel Community (1951) was signed by how many founding states?",
+        "options": ["9", "6", "12", "4"],
+        "answer": "B",
+        "explanation": "The Treaty of Paris (1951) was signed by six founding states — Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany — forming the basis for later European integration."
+      },
+      "el": {
+        "question": "Η Συνθήκη για την ίδρυση της Ευρωπαϊκής Κοινότητας Άνθρακα και Χάλυβα (1951) υπογράφηκε από πόσα ιδρυτικά κράτη;",
+        "options": ["9", "6", "12", "4"],
+        "answer": "B",
+        "explanation": "Η Συνθήκη των Παρισίων (1951) υπογράφηκε από έξι ιδρυτικά κράτη — Βέλγιο, Γαλλία, Ιταλία, Λουξεμβούργο, Κάτω Χώρες και Δυτική Γερμανία — θέτοντας τη βάση για τη μετέπειτα ευρωπαϊκή ολοκλήρωση."
+      }
+    }
   ]
 }
