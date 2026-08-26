@@ -2417,5 +2417,187 @@
         "explanation": "Ισχύουν τρεις κανόνες: (1) Το εξάγωνο περιστρέφεται 45° δεξιόστροφα κάθε βήμα. (2) Ο μικρός κύκλος περιφέρεται γύρω από το κέντρο κατά 45° δεξιόστροφα. (3) Όταν ο κύκλος βρίσκεται στο άνω μισό του πλαισίου είναι μαύρος· όταν στο κάτω μισό είναι λευκός. Το 6ο πλαίσιο πρέπει να ταιριάζει με την επιλογή D."
       }
     }
+  ],
+  "abstract_11": [
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693193/q1_reference_adxx1r.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693193/q1_options_h9n6gj.svg",
+        "answer": "A",
+        "difficulty": "very-hard",
+        "explanation": "Shape cycles circle→square→triangle (period 3); colour cycles red→blue→green→purple (period 4); count alternates 1→3 (period 2). Rotation is conditional on shape: only the triangle rotates, by an amount equal to count×25°; circles and squares never rotate. The correct option is A. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693193/q1_reference_adxx1r.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693193/q1_options_h9n6gj.svg",
+        "answer": "A",
+        "difficulty": "very-hard",
+        "explanation": "Το σχήμα εναλλάσσεται κύκλος→τετράγωνο→τρίγωνο (περίοδος 3)· το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ (περίοδος 4)· ο αριθμός εναλλάσσεται 1→3 (περίοδος 2). Η περιστροφή εξαρτάται από το σχήμα: μόνο το τρίγωνο περιστρέφεται, κατά ποσό ίσο με αριθμό×25°· ο κύκλος και το τετράγωνο δεν περιστρέφονται ποτέ. Η σωστή επιλογή είναι η A. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q2_reference_qbikd9.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q2_options_v74ar6.svg",
+        "answer": "B",
+        "difficulty": "very-hard",
+        "explanation": "Colour cycles red→blue→green→purple→orange (period 5); shape alternates pentagon→square (period 2). Fill is conditional on position in the colour cycle: the 1st, 3rd, and 5th colours (red, green, orange) are solid; the 2nd and 4th (blue, purple) are outline. Only the square rotates, by 35° more each time it appears. The correct option is B. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q2_reference_qbikd9.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q2_options_v74ar6.svg",
+        "answer": "B",
+        "difficulty": "very-hard",
+        "explanation": "Το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ→πορτοκαλί (περίοδος 5)· το σχήμα εναλλάσσεται πεντάγωνο→τετράγωνο (περίοδος 2). Η γέμιση εξαρτάται από τη θέση στον κύκλο χρωμάτων: το 1ο, 3ο και 5ο χρώμα (κόκκινο, πράσινο, πορτοκαλί) είναι συμπαγή· το 2ο και 4ο (μπλε, μοβ) είναι περιγράμματος. Μόνο το τετράγωνο περιστρέφεται, κατά 35° παραπάνω κάθε φορά που εμφανίζεται. Η σωστή επιλογή είναι η B. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q3_reference_mbsuh1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q3_options_rryhxg.svg",
+        "answer": "C",
+        "difficulty": "very-hard",
+        "explanation": "Shape alternates hexagon→star (period 2); colour cycles black→orange→blue (period 3). Two independent conditional rules apply: the star is always rotated 40° (hexagons never rotate), and blue shapes always appear in a count of 2 (all other colours appear singly). The correct option is C. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q3_reference_mbsuh1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693194/q3_options_rryhxg.svg",
+        "answer": "C",
+        "difficulty": "very-hard",
+        "explanation": "Το σχήμα εναλλάσσεται εξάγωνο→αστέρι (περίοδος 2)· το χρώμα εναλλάσσεται μαύρο→πορτοκαλί→μπλε (περίοδος 3). Ισχύουν δύο ανεξάρτητοι δεσμευμένοι κανόνες: το αστέρι περιστρέφεται πάντα κατά 40° (τα εξάγωνα δεν περιστρέφονται ποτέ), και τα μπλε σχήματα εμφανίζονται πάντα σε αριθμό 2 (όλα τα άλλα χρώματα εμφανίζονται μεμονωμένα). Η σωστή επιλογή είναι η C. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q4_reference_svn3xi.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q4_options_s3vsov.svg",
+        "answer": "D",
+        "difficulty": "very-hard",
+        "explanation": "The pentagon grows geometrically (each frame ×1.18 the previous size). Colour cycles red→green→blue (period 3). Fill is conditional on a threshold, not on position: whenever the size exceeds the original size, the fill switches from solid to outline — this happens starting from frame 5. The correct option is D. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q4_reference_svn3xi.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q4_options_s3vsov.svgg",
+        "answer": "D",
+        "difficulty": "very-hard",
+        "explanation": "Το πεντάγωνο μεγαλώνει γεωμετρικά (κάθε πλαίσιο ×1,18 του προηγούμενου μεγέθους). Το χρώμα εναλλάσσεται κόκκινο→πράσινο→μπλε (περίοδος 3). Η γέμιση εξαρτάται από ένα κατώφλι, όχι από τη θέση: όποτε το μέγεθος ξεπερνά το αρχικό μέγεθος, η γέμιση αλλάζει από συμπαγής σε περιγράμματος — αυτό συμβαίνει από το πλαίσιο 5 και μετά. Η σωστή επιλογή είναι η D. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693191/q5_reference_lphhjd.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q5_options_kkwd59.svg",
+        "answer": "E",
+        "difficulty": "very-hard",
+        "explanation": "Shape cycles square→hexagon→triangle (period 3), and each shape always carries a fixed count: square=1, hexagon=2, triangle=3. Colour cycles gray→yellow→blue→pink (period 4), independently. Rotation is conditional on colour: only yellow shapes are rotated 50°. The correct option is E. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693191/q5_reference_lphhjd.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q5_options_kkwd59.svg",
+        "answer": "E",
+        "difficulty": "very-hard",
+        "explanation": "Το σχήμα εναλλάσσεται τετράγωνο→εξάγωνο→τρίγωνο (περίοδος 3), και κάθε σχήμα έχει πάντα σταθερό αριθμό: τετράγωνο=1, εξάγωνο=2, τρίγωνο=3. Το χρώμα εναλλάσσεται γκρι→κίτρινο→μπλε→ροζ (περίοδος 4), ανεξάρτητα. Η περιστροφή εξαρτάται από το χρώμα: μόνο τα κίτρινα σχήματα περιστρέφονται κατά 50°. Η σωστή επιλογή είναι η E. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q6_reference_ejxya8.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693191/q6_options_vwfots.svg",
+        "answer": "A",
+        "difficulty": "hardest",
+        "explanation": "Shape cycles circle→square→triangle→pentagon (period 4). Fill is conditional on shape: squares and pentagons are outline, circles and triangles are solid. Rotation is then conditional on that resulting fill: outline shapes are rotated 55°, solid shapes are not rotated at all — a rule chained through two steps. The correct option is A. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q6_reference_ejxya8.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693191/q6_options_vwfots.svg",
+        "answer": "A",
+        "difficulty": "hardest",
+        "explanation": "Το σχήμα εναλλάσσεται κύκλος→τετράγωνο→τρίγωνο→πεντάγωνο (περίοδος 4). Η γέμιση εξαρτάται από το σχήμα: τα τετράγωνα και τα πεντάγωνα είναι περιγράμματος, οι κύκλοι και τα τρίγωνα είναι συμπαγή. Η περιστροφή εξαρτάται στη συνέχεια από αυτή τη γέμιση: τα σχήματα περιγράμματος περιστρέφονται κατά 55°, τα συμπαγή δεν περιστρέφονται καθόλου — ένας κανόνας αλυσιδωτός σε δύο βήματα. Η σωστή επιλογή είναι η A. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q7_reference_uqxfr1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q7_options_mkc4hz.svg",
+        "answer": "B",
+        "difficulty": "very-hard",
+        "explanation": "The count of shapes decreases 5→4→3→2→1 then repeats, while their individual size increases as the count drops (an inverse relationship). Colour cycles red→blue→green (period 3), independently. Shape is conditional on count parity: odd counts are stars, even counts are squares. The correct option is B. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q7_reference_uqxfr1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q7_options_mkc4hz.svg",
+        "answer": "B",
+        "difficulty": "very-hard",
+        "explanation": "Ο αριθμός σχημάτων μειώνεται 5→4→3→2→1 και μετά επαναλαμβάνεται, ενώ το μεμονωμένο μέγεθός τους αυξάνεται καθώς μειώνεται ο αριθμός (αντίστροφη σχέση). Το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο (περίοδος 3), ανεξάρτητα. Το σχήμα εξαρτάται από την αρτιότητα του αριθμού: μονοί αριθμοί είναι αστέρια, ζυγοί αριθμοί είναι τετράγωνα. Η σωστή επιλογή είναι η B. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q8_reference_umuohq.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q8_options_xo2y7v.svg",
+        "answer": "C",
+        "difficulty": "hardest",
+        "explanation": "Rotation increases by 33° every frame (0°, 33°, 66°...). Colour cycles red→blue→green→purple→black (period 5). Shape depends on a threshold, not on position: as soon as the accumulated rotation reaches 100° or more, the shape switches from pentagon to hexagon — this first happens at frame 5 (132°) and continues at frame 6. The correct option is C. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q8_reference_umuohq.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693190/q8_options_xo2y7v.svg",
+        "answer": "C",
+        "difficulty": "hardest",
+        "explanation": "Η περιστροφή αυξάνεται κατά 33° σε κάθε πλαίσιο (0°, 33°, 66°...). Το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ→μαύρο (περίοδος 5). Το σχήμα εξαρτάται από ένα κατώφλι, όχι από τη θέση: μόλις η συσσωρευμένη περιστροφή φτάσει τις 100° ή περισσότερο, το σχήμα αλλάζει από πεντάγωνο σε εξάγωνο — αυτό συμβαίνει πρώτα στο πλαίσιο 5 (132°) και συνεχίζεται στο πλαίσιο 6. Η σωστή επιλογή είναι η C. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q9_reference_oeha0j.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q9_options_ov8jbn.svg",
+        "answer": "D",
+        "difficulty": "hardest",
+        "explanation": "The count follows a Fibonacci-like sequence: 1, 1, 2, 3, 5, 8 (each term is the sum of the two before it). Shape alternates circle→triangle (period 2), independently. Colour is conditional on the count: counts of 3 or more are blue, counts below 3 are red. The correct option is D. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q9_reference_oeha0j.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q9_options_ov8jbn.svg",
+        "answer": "D",
+        "difficulty": "hardest",
+        "explanation": "Ο αριθμός ακολουθεί ακολουθία τύπου Fibonacci: 1, 1, 2, 3, 5, 8 (κάθε όρος είναι το άθροισμα των δύο προηγούμενων). Το σχήμα εναλλάσσεται κύκλος→τρίγωνο (περίοδος 2), ανεξάρτητα. Το χρώμα εξαρτάται από τον αριθμό: αριθμοί 3 ή περισσότερο είναι μπλε, αριθμοί κάτω από 3 είναι κόκκινοι. Η σωστή επιλογή είναι η D. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    },
+    {
+      "en": {
+        "question": "Which of the options (A–E) correctly completes the sequence shown in frames 1–5?",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q10_reference_ypkar1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q10_reference_ypkar1.svg",
+        "answer": "E",
+        "difficulty": "extreme",
+        "explanation": "Five rules run at once: shape cycles square→triangle→pentagon (period 3); colour cycles red→blue→green→purple→orange (period 5); rotation increases by 28° every frame; fill is conditional on shape (pentagons are outline, everything else solid); and count is conditional on the colour's position in its cycle (the 2nd and 4th colours — blue and purple — appear in twos, all others appear singly). The correct option is E. Each incorrect option breaks exactly one of the rules above while keeping the others consistent."
+      },
+      "el": {
+        "question": "Ποια από τις επιλογές (A–E) συμπληρώνει σωστά την ακολουθία που φαίνεται στα πλαίσια 1–5;",
+        "reference_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q10_reference_ypkar1.svg",
+        "options_image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1787693192/q10_reference_ypkar1.svg",
+        "answer": "E",
+        "difficulty": "extreme",
+        "explanation": "Πέντε κανόνες λειτουργούν ταυτόχρονα: το σχήμα εναλλάσσεται τετράγωνο→τρίγωνο→πεντάγωνο (περίοδος 3)· το χρώμα εναλλάσσεται κόκκινο→μπλε→πράσινο→μοβ→πορτοκαλί (περίοδος 5)· η περιστροφή αυξάνεται κατά 28° σε κάθε πλαίσιο· η γέμιση εξαρτάται από το σχήμα (τα πεντάγωνα είναι περιγράμματος, όλα τα άλλα συμπαγή)· και ο αριθμός εξαρτάται από τη θέση του χρώματος στον κύκλο του (το 2ο και το 4ο χρώμα — μπλε και μοβ — εμφανίζονται σε ζεύγη, όλα τα άλλα μεμονωμένα). Η σωστή επιλογή είναι η E. Κάθε λανθασμένη επιλογή παραβιάζει ακριβώς έναν από τους παραπάνω κανόνες διατηρώντας τους υπόλοιπους συνεπείς."
+      }
+    }
   ]
 }
