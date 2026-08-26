@@ -6676,5 +6676,788 @@
         "explanation": "Η Συνθήκη των Παρισίων (1951) υπογράφηκε από έξι ιδρυτικά κράτη — Βέλγιο, Γαλλία, Ιταλία, Λουξεμβούργο, Κάτω Χώρες και Δυτική Γερμανία — θέτοντας τη βάση για τη μετέπειτα ευρωπαϊκή ολοκλήρωση."
       }
     }
+  ],
+  "eu_10": [
+    {
+      "en": {
+        "passage": "1. The Communities created in the 1950s initially operated through separate institutions, until a reform rationalised their structure.",
+        "question": "Which treaty merged the institutions of the three European Communities into a single institutional framework?",
+        "options": [
+          "The Merger Treaty (1965)",
+          "The Single European Act (1986)",
+          "The Treaty of Rome (1957)",
+          "The Treaty of Paris (1951)"
+        ],
+        "answer": 0,
+        "explanation": "The 'Merger Treaty' (Brussels, 1965, in force 1967) fused the executives of the ECSC, the EEC and Euratom into a single Council and a single Commission."
+      },
+      "el": {
+        "passage": "1. Οι Κοινότητες που ιδρύθηκαν τη δεκαετία του 1950 λειτουργούσαν αρχικά με ξεχωριστά θεσμικά όργανα, έως ότου μια μεταρρύθμιση απλοποίησε τη δομή τους.",
+        "question": "Ποια συνθήκη συγχώνευσε τα θεσμικά όργανα των τριών Ευρωπαϊκών Κοινοτήτων σε ενιαίο θεσμικό πλαίσιο;",
+        "options": [
+          "Η Συνθήκη Συγχώνευσης (1965)",
+          "Η Ενιαία Ευρωπαϊκή Πράξη (1986)",
+          "Η Συνθήκη της Ρώμης (1957)",
+          "Η Συνθήκη των Παρισίων (1951)"
+        ],
+        "answer": 0,
+        "explanation": "Η «Συνθήκη Συγχώνευσης» (Βρυξέλλες, 1965, σε ισχύ από το 1967) ενοποίησε τις εκτελεστικές δομές της ΕΚΑΧ, της ΕΟΚ και της ΕΥΡΑΤΩΜ σε ένα ενιαίο Συμβούλιο και μία ενιαία Επιτροπή."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. In the early 1980s, unanimity had stalled the completion of the internal market, prompting a major treaty reform.",
+        "question": "Which treaty revision set the deadline of 31 December 1992 for completing the internal market and extended qualified majority voting in the Council?",
+        "options": [
+          "The Treaty of Amsterdam",
+          "The Treaty of Nice",
+          "The Maastricht Treaty",
+          "The Single European Act"
+        ],
+        "answer": 3,
+        "explanation": "The Single European Act (signed 1986, in force 1987) set the 31 December 1992 deadline for the single-market programme and extended qualified majority voting in the Council."
+      },
+      "el": {
+        "passage": "2. Στις αρχές της δεκαετίας του 1980, η αρχή της ομοφωνίας είχε παγώσει την ολοκλήρωση της εσωτερικής αγοράς, επιβάλλοντας μια μεγάλη μεταρρύθμιση μέσω συνθήκης.",
+        "question": "Ποια αναθεώρηση συνθήκης όρισε την 31η Δεκεμβρίου 1992 ως προθεσμία ολοκλήρωσης της εσωτερικής αγοράς και επέκτεινε την ενισχυμένη πλειοψηφία στο Συμβούλιο;",
+        "options": [
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Νίκαιας",
+          "Η Συνθήκη του Μάαστριχτ",
+          "Η Ενιαία Ευρωπαϊκή Πράξη"
+        ],
+        "answer": 3,
+        "explanation": "Η Ενιαία Ευρωπαϊκή Πράξη (υπογράφηκε το 1986, σε ισχύ από το 1987) όρισε την 31.12.1992 ως προθεσμία για το πρόγραμμα της ενιαίας αγοράς και επέκτεινε την ενισχυμένη πλειοψηφία στο Συμβούλιο."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The area of freedom, security and justice was built step by step as intergovernmental cooperation was 'communitarised'.",
+        "question": "Which treaty incorporated the Schengen acquis into the EU's legal framework?",
+        "options": [
+          "The Treaty of Amsterdam (1997)",
+          "The Treaty of Nice (2001)",
+          "The Treaty of Lisbon (2007)",
+          "The Maastricht Treaty (1992)"
+        ],
+        "answer": 0,
+        "explanation": "The Amsterdam Treaty brought the Schengen acquis into the EU framework (Title IV TEC), transferring visas, asylum and immigration to the Community method; it also created the post of High Representative for CFSP."
+      },
+      "el": {
+        "passage": "3. Ο χώρος ελευθερίας, ασφάλειας και δικαιοσύνης οικοδομήθηκε σταδιακά, καθώς η διακυβερνητική συνεργασία «κοινοτικοποιήθηκε».",
+        "question": "Ποια συνθήκη ενέταξε το κεκτημένο του Σένγκεν στο νομικό πλαίσιο της ΕΕ;",
+        "options": [
+          "Η Συνθήκη του Άμστερνταμ (1997)",
+          "Η Συνθήκη της Νίκαιας (2001)",
+          "Η Συνθήκη της Λισαβόνας (2007)",
+          "Η Συνθήκη του Μάαστριχτ (1992)"
+        ],
+        "answer": 0,
+        "explanation": "Η Συνθήκη του Άμστερνταμ ενέταξε το κεκτημένο του Σένγκεν στην ΕΕ (Τίτλος IV ΤΕΚ), μεταφέροντας θερίσματα, άσυλο και μετανάστευση στη «κοινοτική μέθοδο»· δημιούργησε επίσης τη θέση του Ύπατου Εκπροσώπου για την ΚΕΠΑ."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The prospect of the 2004 enlargement forced the Union to reform its decision-making arithmetic and the size of its institutions.",
+        "question": "Which treaty reweighted the votes in the Council and adjusted the composition of the Commission in preparation for the 2004 enlargement?",
+        "options": [
+          "The Treaty of Lisbon",
+          "The Treaty of Nice",
+          "The Single European Act",
+          "The Treaty of Amsterdam"
+        ],
+        "answer": 1,
+        "explanation": "The Nice Treaty (2001) reweighted votes in the Council, adjusted the size of the Commission and set institutional ceilings to accommodate the 2004 enlargement."
+      },
+      "el": {
+        "passage": "4. Η προοπτική της διεύρυνσης του 2004 ανάγκασε την Ένωση να αναμορφώσει την αριθμητική της λήψης αποφάσεων και το μέγεθος των θεσμικών της οργάνων.",
+        "question": "Ποια συνθήκη αναπροσαρμόρισε τις σταθμισμένες ψήφους του Συμβουλίου και τη σύνθεση της Επιτροπής ενόψει της διεύρυνσης του 2004;",
+        "options": [
+          "Η Συνθήκη της Λισαβόνας",
+          "Η Συνθήκη της Νίκαιας",
+          "Η Ενιαία Ευρωπαϊκή Πράξη",
+          "Η Συνθήκη του Άμστερνταμ"
+        ],
+        "answer": 1,
+        "explanation": "Η Συνθήκη της Νίκαιας (2001) αναπροσαρμόρισε τις ψήφους στο Συμβούλιο, προσαρμόσε το μέγεθος της Επιτροπής και όρισε θεσμικά ανώτατα όρια ενόψει της διεύρυνσης του 2004."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. After the failed Constitutional Treaty, a 'reform treaty' reorganised the Union's legal order and external representation.",
+        "question": "Which treaty conferred a single legal personality on the EU and introduced, for the first time, an explicit procedure for a member state to withdraw (Article 50)?",
+        "options": [
+          "The Treaty of Amsterdam",
+          "The Treaty of Nice",
+          "The Treaty of Lisbon",
+          "The Merger Treaty"
+        ],
+        "answer": 2,
+        "explanation": "The Lisbon Treaty (in force 1 December 2009) conferred a single legal personality on the EU (Article 47 TEU) and introduced the withdrawal procedure of Article 50 TEU."
+      },
+      "el": {
+        "passage": "5. Μετά την αποτυχημένη Συνθήκη για το Σύνταγμα, μια «μεταρρυθμιστική» συνθήκη αναδιοργάνωσε τη νομική τάξη και την εξωτερική εκπροσώπηση της Ένωσης.",
+        "question": "Ποια συνθήκη απένειμε στην ΕΕ ενιαία νομική προσωπικότητα και εισήγαγε για πρώτη φορά ρητή διαδικασία αποχώρησης κράτους μέλους (άρθρο 50);",
+        "options": [
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Νίκαιας",
+          "Η Συνθήκη της Λισαβόνας",
+          "Η Συνθήκη Συγχώνευσης"
+        ],
+        "answer": 2,
+        "explanation": "Η Συνθήκη της Λισαβόνας (σε ισχύ την 1η Δεκεμβρίου 2009) απένειμε στην ΕΕ ενιαία νομική προσωπικότητα (άρθρο 47 ΤΕΕ) και εισήγαγε τη διαδικασία αποχώρησης του άρθρου 50 ΤΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The European Parliament represents the citizens of the Union and is elected by direct suffrage every five years.",
+        "question": "How many Members sit in the European Parliament during the 2024–2029 term?",
+        "options": [
+          "705",
+          "720",
+          "751",
+          "754"
+        ],
+        "answer": 1,
+        "explanation": "Under the 2023 revision of the Electoral Act (European Council Decision (EU) 2023/2061), 720 MEPs were elected in June 2024; each member state has between 6 and 96 seats (Article 14(2) TEU)."
+      },
+      "el": {
+        "passage": "6. Το Ευρωπαϊκό Κοινοβούλιο εκπροσωπεί τους πολίτες της Ένωσης και εκλέγεται με άμεση ψηφοφορία κάθε πέντε χρόνια.",
+        "question": "Πόσα μέλη απαρτίζουν το Ευρωπαϊκό Κοινοβούλιο στην κοινοβουλευτική περίοδο 2024–2029;",
+        "options": [
+          "705",
+          "720",
+          "751",
+          "754"
+        ],
+        "answer": 1,
+        "explanation": "Μετά την αναθεώρηση της εκλογικής πράξης του 2023 (Απόφαση Ευρωπαϊκού Συμβουλίου (ΕΕ) 2023/2061), εκλέχθηκαν 720 ευρωβουλευτές τον Ιούνιο του 2024· κάθε κράτος μέλος έχει από 6 έως 96 έδρες (άρθρο 14 παρ. 2 ΤΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. Work in the European Parliament is organised around transnational political groups rather than national delegations.",
+        "question": "What is the minimum requirement for MEPs to form a recognised political group in the European Parliament?",
+        "options": [
+          "At least 25 MEPs from at least half of the member states",
+          "At least 23 MEPs from at least one quarter of the member states",
+          "At least 15 MEPs from at least five member states",
+          "Any 10 MEPs, regardless of nationality"
+        ],
+        "answer": 1,
+        "explanation": "Rule 33 of the Parliament's Rules of Procedure requires at least 23 MEPs drawn from at least one quarter of the member states to constitute a political group."
+      },
+      "el": {
+        "passage": "7. Η εργασία στο Ευρωπαϊκό Κοινοβούλιο οργανώνεται γύρω από υπερεθνικές πολιτικές ομάδες και όχι γύρω από εθνικές αντιπροσωπείες.",
+        "question": "Ποιες είναι οι ελάχιστες προϋποθέσεις για τη σύσταση αναγνωρισμένης πολιτικής ομάδας στο Ευρωπαϊκό Κοινοβούλιο;",
+        "options": [
+          "Τουλάχιστον 25 ευρωβουλευτές από τουλάχιστον τα μισά κράτη μέλη",
+          "Τουλάχιστον 23 ευρωβουλευτές από τουλάχιστον το ένα τέταρτο των κρατών μελών",
+          "Τουλάχιστον 15 ευρωβουλευτές από τουλάχιστον πέντε κράτη μέλη",
+          "Οποιουσδήποτε 10 ευρωβουλευτές, ανεξαρτήτως υπηκοότητας"
+        ],
+        "answer": 1,
+        "explanation": "Το άρθρο 33 του Κανονισμού του Κοινοβουλίου απαιτεί τουλάχιστον 23 ευρωβουλευτές που προέρχονται από τουλάχιστον το ένα τέταρτο των κρατών μελών για τη σύσταση πολιτικής ομάδας."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The seat of the European Parliament is fixed by the Treaties, and its monthly plenary cycle is shared between two cities.",
+        "question": "Where is the official seat of the European Parliament, where twelve monthly plenary sessions are held each year?",
+        "options": [
+          "Brussels",
+          "Luxembourg",
+          "The Hague",
+          "Strasbourg"
+        ],
+        "answer": 3,
+        "explanation": "Article 341 TFEU and Protocol No 6 on the location of the seats fix the official seat in Strasbourg, with twelve monthly part-sessions; Brussels hosts committee meetings and additional 'mini-plenaries', and Luxembourg the Secretariat."
+      },
+      "el": {
+        "passage": "8. Η έδρα του Ευρωπαϊκού Κοινοβουλίου καθορίζεται από τις Συνθήκες και ο μηνιαίος κύκλος των ολομελειών μοιράζεται μεταξύ δύο πόλεων.",
+        "question": "Πού βρίσκεται η επίσημη έδρα του Ευρωπαϊκού Κοινοβουλίου, όπου πραγματοποιούνται δώδεκα μηνιαίες ολομελείς κάθε έτος;",
+        "options": [
+          "Στις Βρυξέλλες",
+          "Στο Λουξεμβούργο",
+          "Στη Χάγη",
+          "Στο Στρασβούρο"
+        ],
+        "answer": 3,
+        "explanation": "Το άρθρο 341 ΣΛΕΕ και το Πρωτόκολλο 6 για τις έδρες ορίζουν την επίσημη έδρα στο Στρασβούρο, με δώδεκα μηνιαίες περιόδους συνόδων· στις Βρυξέλλες συνεδριάζουν οι επιτροπές και επιπλέον «μίνι ολομελείς», και στο Λουξεμβούργο εδρεύει η Γενική Γραμματεία."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Council of the EU usually legislates after technical preparation by a committee of the member states' permanent representatives.",
+        "question": "Which body is responsible for preparing the work of the Council of the EU?",
+        "options": [
+          "COREPER",
+          "The European Economic and Social Committee",
+          "The European External Action Service",
+          "The General Secretariat of the Commission"
+        ],
+        "answer": 0,
+        "explanation": "Article 240 TFEU: a Committee of Permanent Representatives (COREPER, split into COREPER I and COREPER II) is responsible for preparing the work of the Council."
+      },
+      "el": {
+        "passage": "9. Το Συμβούλιο της ΕΕ νομοθετεί συνήθως μετά την τεχνική προετοιμασία από επιτροπή μόνιμων εκπροσώπων των κρατών μελών.",
+        "question": "Ποιο όργανο είναι αρμόδιο για την προετοιμασία του έργου του Συμβουλίου της ΕΕ;",
+        "options": [
+          "Η ΚΟΡΕΠΕΡ",
+          "Η Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή",
+          "Η Ευρωπαϊκή Υπηρεσία Εξωτερικής Δράσης",
+          "Η Γενική Γραμματεία της Επιτροπής"
+        ],
+        "answer": 0,
+        "explanation": "Άρθρο 240 ΣΛΕΕ: η Επιτροπή Μόνιμων Εκπροσώπων (ΚΟΡΕΠΕΡ, με τη διάκριση ΚΟΡΕΠΕΡ I και ΚΟΡΕΠΕΡ II) είναι αρμόδια για την προετοιμασία του έργου του Συμβουλίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. Since November 2014, the 'double majority' has defined the threshold for a qualified majority in the Council.",
+        "question": "Under the double-majority rule, what is the minimum number of member states needed to form a blocking minority?",
+        "options": [
+          "At least three member states",
+          "At least seven member states",
+          "At least four member states",
+          "At least nine member states"
+        ],
+        "answer": 2,
+        "explanation": "A qualified majority requires 55% of the member states representing 65% of the population; a blocking minority must comprise at least four member states (Article 16(4) TEU)."
+      },
+      "el": {
+        "passage": "10. Από τον Νοέμβριο του 2014, η «διπλή πλειοψηφία» καθορίζει το κατώφλι της ενισχυμένης πλειοψηφίας στο Συμβούλιο.",
+        "question": "Σύμφωνα με τον κανόνα της διπλής πλειοψηφίας, ποιος είναι ο ελάχιστος αριθμός κρατών μελών που απαιτείται για τον σχηματισμό μειοψηφίας αποκλεισμού;",
+        "options": [
+          "Τουλάχιστον τρία κράτη μέλη",
+          "Τουλάχιστον επτά κράτη μέλη",
+          "Τουλάχιστον τέσσερα κράτη μέλη",
+          "Τουλάχιστον εννέα κράτη μέλη"
+        ],
+        "answer": 2,
+        "explanation": "Η ενισχυμένη πλειοψηφία απαιτεί 55% των κρατών μελών που αντιπροσωπεύουν το 65% του πληθυσμού· η μειοψηφία αποκλεισμού πρέπει να περιλαμβάνει τουλάχιστον τέσσερα κράτη μέλη (άρθρο 16 παρ. 4 ΤΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. The European Council provides the Union with the strategic direction it needs and meets at summit level.",
+        "question": "What is the term of office of the President of the European Council?",
+        "options": [
+          "Two and a half years, renewable once",
+          "Five years, non-renewable",
+          "Three years, renewable once",
+          "One year, renewable without limit"
+        ],
+        "answer": 0,
+        "explanation": "The European Council elects its President by qualified majority for a term of two and a half years, renewable once (Article 15(5) TEU)."
+      },
+      "el": {
+        "passage": "11. Το Ευρωπαϊκό Συμβούλιο δίνει στην Ένωση τις αναγκαίες στρατηγικές κατευθύνσεις και συνέρχεται σε επίπεδο κορυφής.",
+        "question": "Ποια είναι η θητεία του Προέδρου του Ευρωπαϊκού Συμβουλίου;",
+        "options": [
+          "Δύο χρόνια και έξι μήνες, ανανεώσιμη μία φορά",
+          "Πέντε χρόνια, μη ανανεώσιμη",
+          "Τρία χρόνια, ανανεώσιμη μία φορά",
+          "Ένας χρόνος, ανανεώσιμη απεριόριστα"
+        ],
+        "answer": 0,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο εκλέγει τον Πρόεδρό του με ενισχυμένη πλειοψηφία για θητεία δύο χρόνων και έξι μηνών, ανανεώσιμη μία φορά (άρθρο 15 παρ. 5 ΤΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The European Parliament can force the College of Commissioners to resign collectively by means of a motion of censure.",
+        "question": "What majority does the European Parliament need to adopt a motion of censure against the Commission?",
+        "options": [
+          "A simple majority of the votes cast",
+          "Two-thirds of the votes cast, representing a majority of its component Members",
+          "Three-quarters of all its Members",
+          "An absolute majority of all its Members"
+        ],
+        "answer": 1,
+        "explanation": "Article 234 TFEU: Parliament decides on a motion of censure by a two-thirds majority of the votes cast, representing a majority of its component Members; if adopted, the College must resign as a body."
+      },
+      "el": {
+        "passage": "12. Το Ευρωπαϊκό Κοινοβούλιο μπορεί με πρόταση δυσπιστίας να υποχρεώσει το Σώμα των Επιτρόπων σε συλλογική παραίτηση.",
+        "question": "Ποια πλειοψηφία απαιτείται στο Ευρωπαϊκό Κοινοβούλιο για την έγκριση πρότασης δυσπιστίας κατά της Επιτροπής;",
+        "options": [
+          "Απλή πλειοψηφία των ψηφισάντων",
+          "Δύο τρίτα των ψηφισάντων, που αντιπροσωπεύουν την πλειοψηφία του συνόλου των μελών",
+          "Τα τρία τέταρτα του συνόλου των μελών",
+          "Απόλυτη πλειοψηφία του συνόλου των μελών"
+        ],
+        "answer": 1,
+        "explanation": "Άρθρο 234 ΣΛΕΕ: το Κοινοβούλιο αποφαίνεται επί πρότασης δυσπιστίας με πλειοψηφία δύο τρίτων των ψηφισάντων που αντιπροσωπεύει πλειοψηφία του συνόλου των μελών του· αν εγκριθεί, το Σώμα οφείλει να παραιτηθεί ως σώμα."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The Lisbon Treaty created an institutional 'double role' linking the Commission, the Council and the Union's diplomatic service.",
+        "question": "Which role does the High Representative of the Union for Foreign Affairs and Security Policy hold within the European Commission?",
+        "options": [
+          "President of the Commission",
+          "Honorary President of the Commission",
+          "Vice-President of the Commission",
+          "Observer without portfolio"
+        ],
+        "answer": 2,
+        "explanation": "The High Representative is one of the Vice-Presidents of the Commission (HR/VP) and also chairs the Foreign Affairs Council (Article 18(3)–(4) TEU)."
+      },
+      "el": {
+        "passage": "13. Η Συνθήκη της Λισαβόνας δημιούργησε έναν θεσμικό «διπλό ρόλο» που συνδέει την Επιτροπή, το Συμβούλιο και τη διπλωματική υπηρεσία της Ένωσης.",
+        "question": "Ποιο αξίωμα κατέχει ο Ύπατος Εκπρόσωπος της Ένωσης για την Εξωτερική Πολιτική και την Πολιτική Ασφάλεια στο εσωτερικό της Ευρωπαϊκής Επιτροπής;",
+        "options": [
+          "Πρόεδρος της Επιτροπής",
+          "Επίτιμος Πρόεδρος της Επιτροπής",
+          "Αντιπρόεδρος της Επιτροπής",
+          "Παρατηρητής χωρίς χαρτοφυλάκιο"
+        ],
+        "answer": 2,
+        "explanation": "Ο Ύπατος Εκπρόσωπος είναι ένας από τους Αντιπροέδρους της Επιτροπής (ΎΕ/ΑνΠ) και προεδρεύει ταυτόχρονα του Συμβουλίου Εξωτερικών Υποθέσεων (άρθρο 18 παρ. 3–4 ΤΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The Court of Justice of the EU ensures the uniform interpretation of Union law and is supported by independent advisers.",
+        "question": "How many Advocates General currently assist the Court of Justice of the EU?",
+        "options": [
+          "9",
+          "11",
+          "13",
+          "15"
+        ],
+        "answer": 1,
+        "explanation": "Article 252 TFEU provides for eleven Advocates General — five with permanent seats (Germany, France, Italy, Spain and Poland) and six on alphabetical rotation — who deliver non-binding opinions in cases."
+      },
+      "el": {
+        "passage": "14. Το Δικαστήριο της ΕΕ διασφαλίζει την ενιαία ερμηνεία του ενωσιακού δικαίου και στηρίζεται από ανεξάρτητους συμβούλους.",
+        "question": "Πόσοι γενικοί εισαγγελείς στηρίζουν σήμερα το Δικαστήριο της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "9",
+          "11",
+          "13",
+          "15"
+        ],
+        "answer": 1,
+        "explanation": "Το άρθρο 252 ΣΛΕΕ προβλέπει έντεκα γενικούς εισαγγελείς — πέντε με μόνιμη έδρα (Γερμανία, Γαλλία, Ιταλία, Ισπανία και Πολωνία) και έξι με σειρά εναλλαγής — που καταθέτουν μη δεσμευτικές γνωμοδοτήσεις στις υποθέσεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. Since 2016, the CJEU has consisted of two courts, following the abolition of a specialised tribunal.",
+        "question": "How many judges sit in the General Court following the absorption of the Civil Service Tribunal in 2016?",
+        "options": [
+          "One judge per member state",
+          "Three judges per member state",
+          "A fixed total of 28 judges",
+          "Two judges per member state"
+        ],
+        "answer": 3,
+        "explanation": "Since September 2016, when the Civil Service Tribunal was merged into it, the General Court has had two judges per member state (54 in total)."
+      },
+      "el": {
+        "passage": "15. Από το 2016 το Δικαστήριο της ΕΕ αποτελείται από δύο δικαστήρια, μετά την κατάργηση ενός εξειδικευμένου δικαστηρίου.",
+        "question": "Πόσους δικαστές έχει το Γενικό Δικαστήριο μετά την απορρόφηση του Δικαστηρίου Δημοσίων Υπαλλήλων το 2016;",
+        "options": [
+          "Έναν δικαστή ανά κράτος μέλος",
+          "Τρεις δικαστές ανά κράτος μέλος",
+          "Σταθερό σύνολο 28 δικαστών",
+          "Δύο δικαστές ανά κράτος μέλος"
+        ],
+        "answer": 3,
+        "explanation": "Από τον Σεπτέμβριο του 2016, όταν το Δικαστήριο Δημοσίων Υπαλλήλων απορροφήθηκε σε αυτό, το Γενικό Δικαστήριο έχει δύο δικαστές ανά κράτος μέλος (συνολικά 54)."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The European Court of Auditors audits the Union's finances and publishes an annual statement of assurance.",
+        "question": "What is the term of office of a member of the European Court of Auditors?",
+        "options": [
+          "Four years, renewable",
+          "Five years, non-renewable",
+          "Six years, renewable",
+          "Eight years, non-renewable"
+        ],
+        "answer": 2,
+        "explanation": "Members of the Court of Auditors — one per member state — are appointed for a six-year renewable term (Articles 285–286 TFEU)."
+      },
+      "el": {
+        "passage": "16. Το Ευρωπαϊκό Ελεγκτικό Συνέδριο ελέγχει τα οικονομικά της Ένωσης και δημοσιεύει ετήσια δήλωση διαβεβαίωσης.",
+        "question": "Ποια είναι η θητεία των μελών του Ευρωπαϊκού Ελεγκτικού Συνεδρίου;",
+        "options": [
+          "Τέσσερα χρόνια, ανανεώσιμη",
+          "Πέντε χρόνια, μη ανανεώσιμη",
+          "Έξι χρόνια, ανανεώσιμη",
+          "Οκτώ χρόνια, μη ανανεώσιμη"
+        ],
+        "answer": 2,
+        "explanation": "Τα μέλη του Ελεγκτικού Συνεδρίου — ένα ανά κράτος μέλος — διορίζονται για εξαετή ανανεώσιμη θητεία (άρθρα 285–286 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. Two advisory bodies give organised civil society and regional and local authorities a voice in Union law-making.",
+        "question": "Which advisory body must be consulted on matters affecting regional and local interests, such as cohesion policy and public transport?",
+        "options": [
+          "The European Economic and Social Committee",
+          "The Committee of the Regions",
+          "The European Investment Bank",
+          "The Congress of Local and Regional Authorities"
+        ],
+        "answer": 1,
+        "explanation": "The Committee of the Regions (Articles 300 and 307 TFEU), with 329 members, must be consulted on regional and local matters such as cohesion, transport and education; the EESC represents employers, workers and other organised civil society, while the Congress belongs to the Council of Europe."
+      },
+      "el": {
+        "passage": "17. Δύο συμβουλευτικά όργανα δίνουν φωνή στην οργανωμένη κοινωνία των πολιτών και στις περιφερειακές και τοπικές αρχές κατά τη νομοθέτηση της Ένωσης.",
+        "question": "Ποιο συμβουλευτικό όργανο πρέπει να συμβουλευθεί σε θέματα που αφορούν περιφερειακά και τοπικά συμφέροντα, όπως η πολιτική συνοχής και οι δημόσιες μεταφορές;",
+        "options": [
+          "Η Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή",
+          "Η Επιτροπή των Περιφερειών",
+          "Η Ευρωπαϊκή Τράπεζα Επενδύσεων",
+          "Το Συνέδριο Τοπικών και Περιφερειακών Αρχών"
+        ],
+        "answer": 1,
+        "explanation": "Η Επιτροπή των Περιφερειών (άρθρα 300 και 307 ΣΛΕΕ), με 329 μέλη, συμβουλεύεται υποχρεωτικά σε περιφερειακά και τοπικά θέματα, όπως η συνοχή, οι μεταφορές και η εκπαίδευση· η ΕΟΚΕ εκπροσωπεί εργοδότες, εργαζόμενους και άλλη οργανωμένη κοινωνία των πολιτών, ενώ το Συνέδριο ανήκει στο Συμβούλιο της Ευρώπης."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The European System of Central Banks is governed by the ECB, whose organs include the Governing Council and the Executive Board.",
+        "question": "Which institution appoints the President, the Vice-President and the other members of the ECB's Executive Board?",
+        "options": [
+          "The European Council",
+          "The European Parliament",
+          "The Eurogroup",
+          "The Council of the EU"
+        ],
+        "answer": 0,
+        "explanation": "The European Council appoints the six members of the ECB's Executive Board by qualified majority, after consulting the European Parliament and the ECB Governing Council (Article 283 TFEU)."
+      },
+      "el": {
+        "passage": "18. Το Ευρωπαϊκό Σύστημα Κεντρικών Τραπεζών διοικείται από την ΕΚΤ, τα όργανά της οποίας περιλαμβάνουν το Διοικητικό Συμβούλιο και την Εκτελεστική Επιτροπή.",
+        "question": "Ποιο όργανο διορίζει τον Πρόεδρο, τον Αντιπρόεδρο και τα λοιπά μέλη της Εκτελεστικής Επιτροπής της ΕΚΤ;",
+        "options": [
+          "Το Ευρωπαϊκό Συμβούλιο",
+          "Το Ευρωπαϊκό Κοινοβούλιο",
+          "Το Eurogroup",
+          "Το Συμβούλιο της ΕΕ"
+        ],
+        "answer": 0,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο διορίζει τα έξι μέλη της Εκτελεστικής Επιτροπής της ΕΚΤ με ενισχυμένη πλειοψηφία, μετά από διαβούλευση με το Ευρωπαϊκό Κοινοβούλιο και το Διοικητικό Συμβούλιο της ΕΚΤ (άρθρο 283 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The 'EU's bank' provides long-term financing for projects inside and outside Europe on a non-profit-maximising basis.",
+        "question": "In which city is the European Investment Bank headquartered?",
+        "options": [
+          "Frankfurt",
+          "Brussels",
+          "Luxembourg",
+          "Vienna"
+        ],
+        "answer": 2,
+        "explanation": "The EIB has its seat in Luxembourg (Article 309 TFEU); its shareholders are the member states and it supports EU objectives through long-term project lending. Frankfurt hosts the ECB."
+      },
+      "el": {
+        "passage": "19. Η «τράπεζα της Ένωσης» χρηματοδοτεί μακροπρόθεσμα έργα μέσα και εκτός Ευρώπης, χωρίς σκοπό τη μεγιστοποίηση κέρδους.",
+        "question": "Σε ποια πόλη εδρεύει η Ευρωπαϊκή Τράπεζα Επενδύσεων;",
+        "options": [
+          "Στη Φρανκφούρτη",
+          "Στις Βρυξέλλες",
+          "Στο Λουξεμβούργο",
+          "Στη Βιέννη"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΤΕ εδρεύει στο Λουξεμβούργο (άρθρο 309 ΣΛΕΕ)· μέτοχοί της είναι τα κράτη μέλη και υποστηρίζει τους στόχους της ΕΕ με μακροπρόθεσμο δανεισμό για έργα. Στη Φρανκφούρτη εδρεύει η ΕΚΤ."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The Union provides an independent intermediary between citizens and the EU institutions.",
+        "question": "The European Ombudsman investigates cases of:",
+        "options": [
+          "Criminal offences allegedly committed by EU officials",
+          "Maladministration by EU institutions, bodies, offices and agencies",
+          "Commercial disputes between companies in the single market",
+          "Breaches of national administrative law by member states"
+        ],
+        "answer": 1,
+        "explanation": "The Ombudsman, elected by the European Parliament, investigates instances of 'maladministration' in the Union's institutions, bodies, offices and agencies (Article 228 TFEU; Article 43 of the Charter)."
+      },
+      "el": {
+        "passage": "20. Η Ένωση προβλέπει έναν ανεξάρτητο μεσολαβητή μεταξύ των πολιτών και των θεσμικών οργάνων της ΕΕ.",
+        "question": "Ο Ευρωπαίος Διαμεσολαβητής διερευνά υποθέσεις:",
+        "options": [
+          "Ποινικών αδικημάτων που αποδίδονται σε υπαλλήλους της ΕΕ",
+          "Κακοδιοίκησης από τα θεσμικά όργανα, όργανα, γραφεία και υπηρεσίες της ΕΕ",
+          "Εμπορικών διαφορών μεταξύ εταιρειών της ενιαίας αγοράς",
+          "Παραβιάσεων εθνικού διοικητικού δικαίου από τα κράτη μέλη"
+        ],
+        "answer": 1,
+        "explanation": "Ο Διαμεσολαβητής, που εκλέγεται από το Ευρωπαϊκό Κοινοβούλιο, διερευνά περιπτώσεις «κακοδιοίκησης» στα θεσμικά όργανα, όργανα, γραφεία και υπηρεσίες της Ένωσης (άρθρο 228 ΣΛΕΕ· άρθρο 43 του Χάρτη)."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Article 288 TFEU lists the binding and non-binding legal instruments the Union may adopt.",
+        "question": "Which legal act is binding in its entirety only upon those to whom it is addressed — member states, undertakings or individuals?",
+        "options": [
+          "A regulation",
+          "A directive",
+          "A recommendation",
+          "A decision"
+        ],
+        "answer": 3,
+        "explanation": "Article 288 TFEU: a decision is binding in its entirety upon those to whom it is addressed; a regulation is generally applicable, a directive binds states as to the result, and a recommendation is non-binding."
+      },
+      "el": {
+        "passage": "21. Το άρθρο 288 ΣΛΕΕ απαριθμεί τα δεσμευτικά και μη δεσμευτικά νομικά μέσα που μπορεί να θεσπίσει η Ένωση.",
+        "question": "Ποια νομική πράξη δεσμεύει στο σύνολό της μόνο εκείνους στους οποίους απευθύνεται — κράτη μέλη, επιχειρήσεις ή ιδιώτες;",
+        "options": [
+          "Ένας κανονισμός",
+          "Μια οδηγία",
+          "Μια σύσταση",
+          "Μια απόφαση"
+        ],
+        "answer": 3,
+        "explanation": "Άρθρο 288 ΣΛΕΕ: η απόφαση δεσμεύει στο σύνολό της μόνο τους παραλήπτες της· ο κανονισμός ισχύει γενικά, η οδηγία δεσμεύει τα κράτη ως προς το αποτέλεσμα, και η σύσταση είναι μη δεσμευτική."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The Court of Justice has developed principles guaranteeing the effectiveness of Union law even where member states fail to comply.",
+        "question": "Which principle allows citizens to claim compensation from a member state that has failed to transpose a directive on time?",
+        "options": [
+          "The Francovich principle of state liability",
+          "The principle of mutual recognition (Cassis de Dijon)",
+          "The Solange doctrine",
+          "The margin of appreciation doctrine"
+        ],
+        "answer": 0,
+        "explanation": "In Francovich (1991) the Court of Justice held that individuals are entitled to compensation from a member state that breaches Union law, notably by failing to transpose a directive by its deadline."
+      },
+      "el": {
+        "passage": "22. Το Δικαστήριο έχει αναπτύξει αρχές που εγγυώνται την αποτελεσματικότητα του ενωσιακού δικαίου, ακόμη και όταν τα κράτη μέλη δεν συμμορφώνονται.",
+        "question": "Ποια αρχή επιτρέπει στους πολίτες να διεκδικούν αποζημίωση από κράτος μέλος που δεν μετέφερε εγκαίρως μια οδηγία;",
+        "options": [
+          "Η αρχή της κρατικής ευθύνης (Francovich)",
+          "Η αρχή της αμοιβαίας αναγνώρισης (Cassis de Dijon)",
+          "Το δόγμα Solange",
+          "Το δόγμα του περιθωρίου εκτίμησης"
+        ],
+        "answer": 0,
+        "explanation": "Στην υπόθεση Francovich (1991) το Δικαστήριο έκρινε ότι οι ιδιώτες δικαιούνται αποζημίωση από κράτος μέλος που παραβαίνει το ενωσιακό δίκαιο, ιδίως με μη έγκαιρη μεταφορά οδηγίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. Protocol No 2 gives national parliaments a direct role in monitoring whether the Union legislates at the appropriate level.",
+        "question": "Under the 'yellow card' procedure, what proportion of national parliaments issuing reasoned opinions obliges the Commission to review a draft legislative act?",
+        "options": [
+          "One quarter",
+          "One third",
+          "One half",
+          "Two thirds"
+        ],
+        "answer": 1,
+        "explanation": "Under Protocol No 2, reasoned opinions representing at least one third of the votes allotted to national parliaments oblige the Commission to review — and possibly maintain, amend or withdraw — its proposal."
+      },
+      "el": {
+        "passage": "23. Το Πρωτόκολλο αριθ. 2 δίνει στα εθνικά κοινοβούλια άμεσο ρόλο στον έλεγχο του εάν η Ένωση νομοθετεί στο κατάλληλο επίπεδο.",
+        "question": "Στη διαδικασία της «κίτρινης κάρτας», ποιο ποσοστό των εθνικών κοινοβουλίων, με αιτιολογημένες γνώμες, υποχρεώνει την Επιτροπή να επανεξετάσει προσχέδιο νομοθετικής πράξης;",
+        "options": [
+          "Το ένα τέταρτο",
+          "Το ένα τρίτο",
+          "Το μισό",
+          "Τα δύο τρίτα"
+        ],
+        "answer": 1,
+        "explanation": "Σύμφωνα με το Πρωτόκολλο 2, αιτιολογημένες γνώμες που αντιπροσωπεύουν τουλάχιστον το ένα τρίτο των ψήφων που αναλογούν στα εθνικά κοινοβούλια υποχρεώνουν την Επιτροπή να επανεξετάσει — και ενδεχομένως να διατηρήσει, να τροποποιήσει ή να αποσύρει — την πρότασή της."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. When the two co-legislators fail to reach agreement at second reading, a joint committee tries to broker a compromise.",
+        "question": "How is the conciliation committee composed under the ordinary legislative procedure?",
+        "options": [
+          "An equal number of members from the European Parliament and the Council, with the Commission taking part",
+          "Twelve members in total, appointed by the Council alone",
+          "A majority of Members of the European Parliament",
+          "Members designated by the national parliaments"
+        ],
+        "answer": 0,
+        "explanation": "Article 294(9) TFEU: the conciliation committee consists of members equal in number to half the MEPs, half representing Parliament and half the Council, with the Commission taking part; it is co-chaired by an EP Vice-President and a Council member."
+      },
+      "el": {
+        "passage": "24. Όταν οι δύο συννομοθέτες δεν καταφέρνουν να συμφωνήσουν στη δεύτερη ανάγνωση, μια κοινή επιτροπή επιχειρεί να μεσολαβήσει για συμβιβασμό.",
+        "question": "Πώς είναι συγκροτημένη η επιτροπή διαλλαγής στη συνήθη νομοθετική διαδικασία;",
+        "options": [
+          "Με ισάριθμα μέλη από το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο, με συμμετοχή της Επιτροπής",
+          "Δώδεκα μέλη συνολικά, που διορίζονται μόνο από το Συμβούλιο",
+          "Με πλειοψηφία μελών του Ευρωπαϊκού Κοινοβουλίου",
+          "Με μέλη που ορίζουν τα εθνικά κοινοβούλια"
+        ],
+        "answer": 0,
+        "explanation": "Άρθρο 294 παρ. 9 ΣΛΕΕ: η επιτροπή διαλλαγής αποτελείται από μέλη ισάριθμα με το μισό Κοινοβούλιο, με ισάριθμη εκπροσώπηση Κοινοβουλίου και Συμβουλίου, με συμμετοχή της Επιτροπής· συγκαλείται από κοινού από αντιπρόεδρο του ΕΚ και μέλος του Συμβουλίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The Schengen area abolishes internal border checks, but not every EU member state participates fully.",
+        "question": "Which EU member state holds a treaty-based opt-out from the Schengen area?",
+        "options": [
+          "Denmark",
+          "Malta",
+          "Cyprus",
+          "Ireland"
+        ],
+        "answer": 3,
+        "explanation": "Ireland negotiated an opt-out from Schengen (as did the UK before Brexit); Denmark participates in Schengen but on an intergovernmental basis under a flexibility clause."
+      },
+      "el": {
+        "passage": "25. Ο χώρος Σένγκεν καταργεί τους εσωτερικούς συνοριακούς ελέγχους, αλλά δεν συμμετέχει πλήρως κάθε κράτος μέλος της ΕΕ.",
+        "question": "Ποιο κράτος μέλος της ΕΕ έχει συνθηκολογική εξαίρεση (opt-out) από τον χώρο Σένγκεν;",
+        "options": [
+          "Η Δανία",
+          "Η Μάλτα",
+          "Η Κύπρος",
+          "Η Ιρλανδία"
+        ],
+        "answer": 3,
+        "explanation": "Η Ιρλανδία διαπραγματεύτηκε εξαίρεση από το Σένγκεν (όπως και το Ηνωμένο Βασίλειο πριν το Brexit)· η Δανία συμμετέχει στο Σένγκεν αλλά σε διακυβερνητική βάση, με ρήτρα ευελιξίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. The euro area has expanded gradually as member states fulfil the convergence criteria.",
+        "question": "Which member state joined the euro area as its newest member on 1 January 2026?",
+        "options": [
+          "Croatia",
+          "Romania",
+          "Bulgaria",
+          "Poland"
+        ],
+        "answer": 2,
+        "explanation": "Bulgaria became the euro area's 21st member on 1 January 2026 after meeting the Maastricht convergence criteria; the previous accession was Croatia (2023). Romania and Poland remain outside the euro area."
+      },
+      "el": {
+        "passage": "26. Η ζώνη του ευρώ διευρύνθηκε σταδιακά καθώς τα κράτη μέλη εκπληρώνουν τα κριτήρια σύγκλισης.",
+        "question": "Ποιο κράτος μέλος εντάχθηκε στη ζώνη του ευρώ ως νεότερο μέλος την 1η Ιανουαρίου 2026;",
+        "options": [
+          "Η Κροατία",
+          "Η Ρουμανία",
+          "Η Βουλγαρία",
+          "Η Πολωνία"
+        ],
+        "answer": 2,
+        "explanation": "Η Βουλγαρία έγινε το 21ο μέλος της ζώνης του ευρώ την 1η Ιανουαρίου 2026, εκπληρώνοντας τα κριτήρια σύγκλισης του Μάαστριχτ· προηγούμενη ένταξη ήταν η Κροατία (2023). Η Ρουμανία και η Πολωνία παραμένουν εκτός ζώνης του ευρώ."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. Any European state may apply for membership, but accession is subject to defined conditions.",
+        "question": "At which European Council were the political and economic conditions for accession — the 'Copenhagen criteria' — first set out?",
+        "options": [
+          "Maastricht, 1991",
+          "Copenhagen, 1993",
+          "Madrid, 1995",
+          "Helsinki, 1999"
+        ],
+        "answer": 1,
+        "explanation": "The Copenhagen European Council of June 1993 defined the political (democracy, rule of law, human rights), economic (functioning market economy) and acquis-related conditions for membership."
+      },
+      "el": {
+        "passage": "27. Κάθε ευρωπαϊκό κράτος μπορεί να υποβάλει αίτηση ένταξης, αλλά η προσχώρηση υπόκειται σε συγκεκριμένες προϋποθέσεις.",
+        "question": "Σε ποιο Ευρωπαϊκό Συμβούλιο θεσπίστηκαν για πρώτη φορά οι πολιτικές και οικονομικές προϋποθέσεις ένταξης — τα «κριτήρια της Κοπενχάγης»;",
+        "options": [
+          "Μάαστριχτ, 1991",
+          "Κοπενχάγη, 1993",
+          "Μαδρίτη, 1995",
+          "Ελσίνκι, 1999"
+        ],
+        "answer": 1,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο της Κοπενχάγης (Ιούνιος 1993) όρισε τις πολιτικές προϋποθέσεις (δημοκρατία, κράτος δικαίου, ανθρώπινα δικαιώματα), τις οικονομικές (λειτουργική οικονομία αγοράς) και την ικανότητα ανάληψης του κεκτημένου."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. The Union's external action is supported by a dedicated diplomatic service established after the Lisbon Treaty.",
+        "question": "Which body assists the High Representative in conducting the Union's Common Foreign and Security Policy?",
+        "options": [
+          "The European External Action Service (EEAS)",
+          "The Commission's Directorate-General for Trade",
+          "The European Defence Agency",
+          "COREPER II"
+        ],
+        "answer": 0,
+        "explanation": "The EEAS (Council Decision 2010/427/EU, operational since 2011) supports the High Representative, who chairs the Foreign Affairs Council; it is staffed by Commission and Council officials and seconded national diplomats."
+      },
+      "el": {
+        "passage": "28. Η εξωτερική δράση της Ένωσης στηρίζεται από ειδική διπλωματική υπηρεσία που ιδρύθηκε μετά τη Συνθήκη της Λισαβόνας.",
+        "question": "Ποιο όργανο υποστηρίζει τον Ύπατο Εκπρόσωπο στη διεξαγωγή της Κοινής Εξωτερικής Πολιτικής και Πολιτικής Ασφάλειας;",
+        "options": [
+          "Η Ευρωπαϊκή Υπηρεσία Εξωτερικής Δράσης (ΕΥΕΔ)",
+          "Η Γενική Διεύθυνση Εμπορίου της Επιτροπής",
+          "Ο Ευρωπαϊκός Οργανισμός Άμυνας",
+          "Η ΚΟΡΕΠΕΡ II"
+        ],
+        "answer": 0,
+        "explanation": "Η ΕΥΕΔ (Απόφαση Συμβουλίου 2010/427/ΕΕ, λειτουργική από το 2011) υποστηρίζει τον Ύπατο Εκπρόσωπο, που προεδρεύει του Συμβουλίου Εξωτερικών Υποθέσεων· στελεχώνεται από υπαλλήλους της Επιτροπής και του Συμβουλίου και από εθνικούς διπλωμάτες."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Decentralised agencies carry out technical tasks across the Union, and their seats were redistributed after Brexit.",
+        "question": "After Brexit, which EU agency moved its headquarters from London to Amsterdam?",
+        "options": [
+          "The European Banking Authority (EBA)",
+          "The European Union Agency for Cybersecurity (ENISA)",
+          "The European Medicines Agency (EMA)",
+          "The European Environment Agency (EEA)"
+        ],
+        "answer": 2,
+        "explanation": "In 2017 the European Council selected Amsterdam as the new seat of the EMA and Paris for the EBA, after Brexit ended the UK's eligibility to host agencies. ENISA is seated in Athens and the EEA in Copenhagen."
+      },
+      "el": {
+        "passage": "29. Οι αποκεντρωμένοι οργανισμοί εκτελούν τεχνικά καθήκοντα σε όλη την Ένωση και οι έδρες τους αναδιανεμήθηκαν μετά το Brexit.",
+        "question": "Μετά το Brexit, ποιος οργανισμός της ΕΕ μετέφερε την έδρα του από το Λονδίνο στο Άμστερνταμ;",
+        "options": [
+          "Η Ευρωπαϊκή Αρχή Τραπεζών (EBA)",
+          "Ο Οργανισμός της ΕΕ για την Κυβερνοασφάλεια (ENISA)",
+          "Ο Ευρωπαϊκός Οργανισμός Φαρμάκων (EMA)",
+          "Ο Ευρωπαϊκός Οργανισμός Περιβάλλοντος (EEA)"
+        ],
+        "answer": 2,
+        "explanation": "Το 2017 το Ευρωπαϊκό Συμβούλιο επέλεξε το Άμστερνταμ ως νέα έδρα του EMA και το Παρίσι για την EBA, καθώς μετά το Brexit το Ηνωμένο Βασίλειο έπαψε να πληρεί τις προϋποθέσεις φιλοξενίας οργανισμών. Ο ENISA εδρεύει στην Αθήνα και ο EEA στην Κοπενχάγη."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. The Union's expenditure is planned in a multiannual framework adopted jointly by the Council and the European Parliament.",
+        "question": "What is the duration of the EU's Multiannual Financial Framework (MFF) in practice?",
+        "options": [
+          "Five years",
+          "Six years",
+          "Ten years",
+          "Seven years"
+        ],
+        "answer": 3,
+        "explanation": "In practice the MFF runs for seven years; it is adopted by the Council unanimously with Parliament's consent (Article 312 TFEU — the Treaty sets a minimum of five years), and the own-resources decision additionally requires ratification by all member states."
+      },
+      "el": {
+        "passage": "30. Οι δαπάνες της Ένωσης σχεδιάζονται σε πολύχρονο πλαίσιο που εγκρίνεται από κοινού από το Συμβούλιο και το Ευρωπαϊκό Κοινοβούλιο.",
+        "question": "Ποια είναι, στην πράξη, η διάρκεια του Πολυετούς Δημοσιονομικού Πλαισίου (ΠΔΠ) της ΕΕ;",
+        "options": [
+          "Πέντε χρόνια",
+          "Έξι χρόνια",
+          "Δέκα χρόνια",
+          "Επτά χρόνια"
+        ],
+        "answer": 3,
+        "explanation": "Στην πράξη το ΠΔΠ καλύπτει επτά χρόνια· εγκρίνεται από το Συμβούλιο ομόφωνα με τη σύμφωνη γνώμη του Κοινοβουλίου (άρθρο 312 ΣΛΕΕ — οι Συνθήκες θέτουν ελάχιστο πέντε ετών), ενώ η απόφαση για τους ίδιους πόρους απαιτεί επιπλέον επικύρωση από όλα τα κράτη μέλη."
+      }
+    }
   ]
 }
+
