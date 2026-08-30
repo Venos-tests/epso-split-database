@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>EPSO UNLOCKED - Official Portal</title>
+    <link rel="manifest" href="manifest.json">
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <style>
         :root { 
@@ -1099,5 +1100,10 @@
         tryAutoLogin();
     });
 </script>
+     <script>
+     if ('serviceWorker' in navigator) {
+       navigator.serviceWorker.register('sw.js');
+     }
+     </script>    
 </body>
 </html>
