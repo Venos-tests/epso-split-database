@@ -279,6 +279,7 @@
             } else if (res.data === 'bound_elsewhere') {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'This code is already in use on another device / Ο κωδικός χρησιμοποιείται ήδη σε άλλη συσκευή';
+            } else if (res.data === 'expired') { statusEl.style.color = '#dc3545'; statusEl.innerText = 'This access period has ended. Please contact your organiser. / Η περίοδος πρόσβασης έχει λήξει. Επικοινωνήστε με τον διοργανωτή σας.';    
             } else {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'Invalid or inactive code / Μη έγκυρος κωδικός';
