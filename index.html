@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>EPSO UNLOCKED - Official Portal</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="android-chrome-192x192.png">
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <style>
         :root { 
@@ -278,6 +280,7 @@
             } else if (res.data === 'bound_elsewhere') {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'This code is already in use on another device / Ο κωδικός χρησιμοποιείται ήδη σε άλλη συσκευή';
+            } else if (res.data === 'expired') { statusEl.style.color = '#dc3545'; statusEl.innerText = 'This access period has ended. Please contact your organiser. / Η περίοδος πρόσβασης έχει λήξει. Επικοινωνήστε με τον διοργανωτή σας.';    
             } else {
                 statusEl.style.color = '#dc3545';
                 statusEl.innerText = 'Invalid or inactive code / Μη έγκυρος κωδικός';
@@ -1099,5 +1102,10 @@
         tryAutoLogin();
     });
 </script>
+     <script>
+     if ('serviceWorker' in navigator) {
+       navigator.serviceWorker.register('sw.js');
+     }
+     </script>    
 </body>
 </html>
