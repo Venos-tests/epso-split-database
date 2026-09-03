@@ -238,6 +238,7 @@
             var files = [
                 "epso-verbal.json",
                 "epso-numerical.json",
+                "epso-drills.json",
                 "epso-abstract.json",
                 "epso-eu-knowledge.json",
                 "epso-digital-skills.json"
@@ -367,6 +368,7 @@
         var grid = document.getElementById('all-packs');
         var sections = [
             { title: 'Verbal Reasoning',    keys: ['verbal_1','verbal_2','verbal_3','verbal_4','verbal_5','verbal_6','verbal_7','verbal_8','verbal_9','verbal_10','verbal_11','verbal_12'] },
+            { title: 'Numerical Reasoning — Warm-up', keys: ['drill_1','drill_2','drill_3'] },
             { title: 'Numerical Reasoning', keys: ['num_1','num_2','num_3','num_4', 'num_5','num_6','num_7','num_8','num_9','num_10','num_11','num_12',] },
             { title: 'Abstract Reasoning',  keys: ['abstract_1','abstract_2','abstract_3','abstract_4','abstract_5','abstract_6','abstract_7','abstract_8','abstract_9','abstract_10','abstract_11','abstract_12'] },
             { title: 'EU Knowledge',        keys: ['eu_1','eu_2','eu_3','eu_4','eu_5','eu_6','eu_7','eu_8','eu_9','eu_10','eu_11','eu_12'] },
@@ -500,6 +502,7 @@
 
     function getTimerLimit() {
         if (selectedTestKey.startsWith('num'))      return 10 * 120;
+        if (selectedTestKey.startsWith('drill'))    return 10 * 120;
         if (selectedTestKey.startsWith('verbal'))   return 20 * 110;
         if (selectedTestKey.startsWith('eu'))       return 30 * 80;
         if (selectedTestKey.startsWith('ds'))       return 20 * 45;
@@ -509,6 +512,7 @@
 
     function getCategory(key) {
         if (key.startsWith('verbal'))   return 'Verbal';
+        if (key.startsWith('drill'))    return 'Numerical (Warm-up)';
         if (key.startsWith('num'))      return 'Numerical';
         if (key.startsWith('abstract')) return 'Abstract';
         if (key.startsWith('eu'))       return 'EU Knowledge';
@@ -673,8 +677,8 @@
         hideAllViews();
         document.getElementById('result-view').style.display = 'block';
         document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
-        var catNamesEl = { verbal: 'Λεκτική Συλλογιστική', num: 'Αριθμητική Συλλογιστική', abstract: 'Αφηρημένη Συλλογιστική', eu: 'Γνώσεις ΕΕ', ds: 'Ψηφιακές Δεξιότητες' };
-        var catNamesEn = { verbal: 'Verbal Reasoning', num: 'Numerical Reasoning', abstract: 'Abstract Reasoning', eu: 'EU Knowledge', ds: 'Digital Skills' };
+        var catNamesEl = { verbal: 'Λεκτική Συλλογιστική', num: 'Αριθμητική Συλλογιστική', drill: 'Αριθμητική Συλλογιστική (Προθέρμανση)', abstract: 'Αφηρημένη Συλλογιστική', eu: 'Γνώσεις ΕΕ', ds: 'Ψηφιακές Δεξιότητες' };
+        var catNamesEn = { verbal: 'Verbal Reasoning', num: 'Numerical Reasoning', drill: 'Numerical Reasoning (Warm-up)', abstract: 'Abstract Reasoning', eu: 'EU Knowledge', ds: 'Digital Skills' };
         var prefix = selectedTestKey.split('_')[0];
         var num = selectedTestKey.split('_')[1];
         var catName = (currentLang === 'el' ? catNamesEl[prefix] : catNamesEn[prefix]) || getCategory(selectedTestKey);
