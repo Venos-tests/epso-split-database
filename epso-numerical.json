@@ -1,4 +1,880 @@
 {
+  "drill_1": [
+    {
+      "id": 1,
+      "en": {
+        "passage": "<table><tr><th>Country</th><th>2020 (%)</th><th>2022 (%)</th><th>2024 (%)</th></tr><tr><td>Poland</td><td>15</td><td>16</td><td>18</td></tr><tr><td>Portugal</td><td>52</td><td>58</td><td>64</td></tr><tr><td>Austria</td><td>74</td><td>76</td><td>79</td></tr><tr><td>Romania</td><td>24</td><td>27</td><td>29</td></tr></table><p>Renewable Energy Share of Electricity Consumption (2020–2024)</p>",
+        "question": "Which country recorded the greatest percentage (not percentage point) increase in renewable energy share between 2020 and 2024?",
+        "options": [
+          "Romania",
+          "Portugal",
+          "All four countries grew by the same percentage",
+          "Poland",
+          "Austria"
+        ],
+        "answer": "B",
+        "explanation": "Percentage change = (new−old)/old × 100. Poland: 3/15=20.0%. Portugal: 12/52≈23.1%. Austria: 5/74≈6.8%. Romania: 5/24≈20.8%. Portugal has the highest percentage change. Note that Portugal also happens to have the largest percentage-point gain (12) here, so the question checks whether candidates verify the actual calculation rather than assume the two metrics always point the same way."
+      },
+      "el": {
+        "passage": "<table><tr><th>Χώρα</th><th>2020 (%)</th><th>2022 (%)</th><th>2024 (%)</th></tr><tr><td>Πολωνία</td><td>15</td><td>16</td><td>18</td></tr><tr><td>Πορτογαλία</td><td>52</td><td>58</td><td>64</td></tr><tr><td>Αυστρία</td><td>74</td><td>76</td><td>79</td></tr><tr><td>Ρουμανία</td><td>24</td><td>27</td><td>29</td></tr></table><p>Ποσοστό Ανανεώσιμων Πηγών στην Κατανάλωση Ηλεκτρικής Ενέργειας (2020–2024)</p>",
+        "question": "Ποια χώρα κατέγραψε τη μεγαλύτερη ποσοστιαία (όχι σε ποσοστιαίες μονάδες) αύξηση στο μερίδιο ανανεώσιμων πηγών μεταξύ 2020 και 2024;",
+        "options": [
+          "Ρουμανία",
+          "Πορτογαλία",
+          "Και οι τέσσερις χώρες αυξήθηκαν κατά το ίδιο ποσοστό",
+          "Πολωνία",
+          "Αυστρία"
+        ],
+        "answer": "B",
+        "explanation": "Ποσοστιαία μεταβολή = (νέο−παλιό)/παλιό × 100. Πολωνία: 3/15=20,0%. Πορτογαλία: 12/52≈23,1%. Αυστρία: 5/74≈6,8%. Ρουμανία: 5/24≈20,8%. Η Πορτογαλία έχει τη μεγαλύτερη ποσοστιαία μεταβολή. Εδώ συμπίπτει να έχει και τη μεγαλύτερη αύξηση σε ποσοστιαίες μονάδες (12), οπότε η ερώτηση ελέγχει αν οι υποψήφιοι επαληθεύουν τον πραγματικό υπολογισμό αντί να υποθέτουν ότι οι δύο δείκτες συμπίπτουν πάντα."
+      }
+    },
+    {
+      "id": 2,
+      "en": {
+        "passage": "<table><tr><th>Office</th><th>Examiners</th><th>Average Quality Score (0–10)</th></tr><tr><td>Office A</td><td>340</td><td>7.8</td></tr><tr><td>Office B</td><td>210</td><td>8.4</td></tr><tr><td>Office C</td><td>150</td><td>6.9</td></tr></table><p>Patent Examination Quality Score by Office (2024)</p>",
+        "question": "What is the weighted average quality score across all three offices, to two decimal places?",
+        "options": [
+          "8.10",
+          "7.85",
+          "8.03",
+          "7.79",
+          "7.70"
+        ],
+        "answer": "D",
+        "explanation": "Weighted average = Σ(examiners × score) / Σ(examiners) = (340×7.8 + 210×8.4 + 150×6.9) / 700 = 5,451/700 = 7.787 ≈ 7.79. Option 7.70 is the simple (unweighted) average trap: (7.8+8.4+6.9)/3 = 7.70 — it ignores that Office A, with the most examiners, should carry the most weight."
+      },
+      "el": {
+        "passage": "<table><tr><th>Γραφείο</th><th>Εξεταστές</th><th>Μέση Βαθμολογία Ποιότητας (0–10)</th></tr><tr><td>Γραφείο A</td><td>340</td><td>7,8</td></tr><tr><td>Γραφείο B</td><td>210</td><td>8,4</td></tr><tr><td>Γραφείο C</td><td>150</td><td>6,9</td></tr></table><p>Βαθμολογία Ποιότητας Εξέτασης Διπλωμάτων Ευρεσιτεχνίας ανά Γραφείο (2024)</p>",
+        "question": "Ποια είναι η σταθμισμένη μέση βαθμολογία ποιότητας και στα τρία γραφεία, με δύο δεκαδικά;",
+        "options": [
+          "8,10",
+          "7,85",
+          "8,03",
+          "7,79",
+          "7,70"
+        ],
+        "answer": "D",
+        "explanation": "Σταθμισμένος μέσος = Σ(εξεταστές × βαθμολογία) / Σ(εξεταστές) = (340×7,8 + 210×8,4 + 150×6,9) / 700 = 5.451/700 = 7,787 ≈ 7,79. Η επιλογή 7,70 είναι η παγίδα του απλού (μη σταθμισμένου) μέσου: (7,8+8,4+6,9)/3 = 7,70 — αγνοεί ότι το Γραφείο A, με τους περισσότερους εξεταστές, πρέπει να έχει το μεγαλύτερο βάρος."
+      }
+    },
+    {
+      "id": 3,
+      "en": {
+        "passage": "<table><tr><th>Region</th><th>Population (thousands)</th><th>Recycling Rate (%)</th></tr><tr><td>Region A</td><td>180</td><td>62</td></tr><tr><td>Region B</td><td>140</td><td>71</td></tr><tr><td>Region C</td><td>100</td><td>?</td></tr><tr><td>Overall weighted average</td><td>420</td><td>65</td></tr></table><p>Household Waste Recycling Rate by Region (2024)</p>",
+        "question": "Given the overall weighted average recycling rate of 65%, what must Region C's recycling rate be?",
+        "options": [
+          "60%",
+          "65%",
+          "58%",
+          "68%",
+          "62%"
+        ],
+        "answer": "E",
+        "explanation": "Step 1 — total points needed: 420 × 65 = 27,300. Step 2 — points already accounted for: (180×62) + (140×71) = 11,160 + 9,940 = 21,100. Step 3 — missing points: 27,300 − 21,100 = 6,200. Step 4 — Region C's rate: 6,200 / 100 = 62%. Option 65% is the trap for candidates who simply assume the missing region matches the overall average."
+      },
+      "el": {
+        "passage": "<table><tr><th>Περιφέρεια</th><th>Πληθυσμός (χιλ.)</th><th>Ποσοστό Ανακύκλωσης (%)</th></tr><tr><td>Περιφέρεια A</td><td>180</td><td>62</td></tr><tr><td>Περιφέρεια B</td><td>140</td><td>71</td></tr><tr><td>Περιφέρεια Γ</td><td>100</td><td>?</td></tr><tr><td>Συνολικός σταθμισμένος μέσος</td><td>420</td><td>65</td></tr></table><p>Ποσοστό Ανακύκλωσης Οικιακών Αποβλήτων ανά Περιφέρεια (2024)</p>",
+        "question": "Δεδομένου του συνολικού σταθμισμένου μέσου ποσοστού ανακύκλωσης 65%, ποιο πρέπει να είναι το ποσοστό ανακύκλωσης της Περιφέρειας Γ;",
+        "options": [
+          "60%",
+          "65%",
+          "58%",
+          "68%",
+          "62%"
+        ],
+        "answer": "E",
+        "explanation": "Βήμα 1 — απαιτούμενοι βαθμοί: 420 × 65 = 27.300. Βήμα 2 — ήδη γνωστοί βαθμοί: (180×62) + (140×71) = 11.160 + 9.940 = 21.100. Βήμα 3 — ελλείποντες βαθμοί: 27.300 − 21.100 = 6.200. Βήμα 4 — ποσοστό Περιφέρειας Γ: 6.200 / 100 = 62%. Η επιλογή 65% είναι η παγίδα για όσους υποθέτουν απλώς ότι η ελλείπουσα περιφέρεια ταυτίζεται με τον συνολικό μέσο όρο."
+      }
+    },
+    {
+      "id": 4,
+      "en": {
+        "passage": "<table><tr><th>Agency</th><th>Total Budget (€ million)</th><th>Administrative Cost (% of budget)</th></tr><tr><td>Agency X</td><td>48</td><td>22%</td></tr><tr><td>Agency Y</td><td>65</td><td>14%</td></tr></table><p>Annual Budget and Administrative Cost Share by Agency (2024)</p>",
+        "question": "What is the ratio of Agency X's administrative cost to Agency Y's administrative cost, in euros?",
+        "options": [
+          "7 : 6",
+          "5 : 4",
+          "3 : 2",
+          "1 : 1",
+          "11 : 7"
+        ],
+        "answer": "A",
+        "explanation": "Agency X's admin cost: 48 × 0.22 = €10.56m. Agency Y's admin cost: 65 × 0.14 = €9.10m. Ratio: 10.56 : 9.10 ≈ 1.16 : 1, which simplifies to 7 : 6. The trap is comparing the percentages directly (22% vs 14%, roughly 11:7) instead of applying each percentage to its own, different total budget first."
+      },
+      "el": {
+        "passage": "<table><tr><th>Οργανισμός</th><th>Συνολικός Προϋπολογισμός (€ εκατ.)</th><th>Διοικητικό Κόστος (% προϋπολογισμού)</th></tr><tr><td>Οργανισμός X</td><td>48</td><td>22%</td></tr><tr><td>Οργανισμός Y</td><td>65</td><td>14%</td></tr></table><p>Ετήσιος Προϋπολογισμός και Μερίδιο Διοικητικού Κόστους ανά Οργανισμό (2024)</p>",
+        "question": "Ποιος είναι ο λόγος του διοικητικού κόστους του Οργανισμού X προς εκείνο του Οργανισμού Y, σε ευρώ;",
+        "options": [
+          "7 : 6",
+          "5 : 4",
+          "3 : 2",
+          "1 : 1",
+          "11 : 7"
+        ],
+        "answer": "A",
+        "explanation": "Διοικητικό κόστος Οργανισμού X: 48 × 0,22 = €10,56εκ. Διοικητικό κόστος Οργανισμού Y: 65 × 0,14 = €9,10εκ. Λόγος: 10,56 : 9,10 ≈ 1,16 : 1, που απλοποιείται σε 7 : 6. Η παγίδα είναι η απευθείας σύγκριση των ποσοστών (22% έναντι 14%, περίπου 11:7) αντί της εφαρμογής κάθε ποσοστού στον δικό του, διαφορετικό συνολικό προϋπολογισμό."
+      }
+    },
+    {
+      "id": 5,
+      "en": {
+        "passage": "<table><tr><th>Year</th><th>Index</th></tr><tr><td>2020</td><td>100</td></tr><tr><td>2021</td><td>104</td></tr><tr><td>2022</td><td>112</td></tr><tr><td>2023</td><td>119</td></tr><tr><td>2024</td><td>123</td></tr></table><p>Consumer Price Index for Household Energy (Base Year 2020 = 100)</p>",
+        "question": "By approximately what percentage did household energy prices rise between 2022 and 2024?",
+        "options": [
+          "13.5%",
+          "4.6%",
+          "23.0%",
+          "11.0%",
+          "9.8%"
+        ],
+        "answer": "E",
+        "explanation": "Since the index measures relative price level (not the price itself), the percentage change between two years is calculated on the index values: (123−112)/112 × 100 ≈ 9.8%. Option 23.0% is the trap — it wrongly uses 2020 as the base (123−100=23) instead of comparing 2022 to 2024 directly."
+      },
+      "el": {
+        "passage": "<table><tr><th>Έτος</th><th>Δείκτης</th></tr><tr><td>2020</td><td>100</td></tr><tr><td>2021</td><td>104</td></tr><tr><td>2022</td><td>112</td></tr><tr><td>2023</td><td>119</td></tr><tr><td>2024</td><td>123</td></tr></table><p>Δείκτης Τιμών Καταναλωτή για Οικιακή Ενέργεια (Έτος Βάσης 2020 = 100)</p>",
+        "question": "Κατά πόσο περίπου αυξήθηκαν οι τιμές οικιακής ενέργειας μεταξύ 2022 και 2024;",
+        "options": [
+          "13,5%",
+          "4,6%",
+          "23,0%",
+          "11,0%",
+          "9,8%"
+        ],
+        "answer": "E",
+        "explanation": "Καθώς ο δείκτης μετρά σχετικό επίπεδο τιμών (όχι την ίδια την τιμή), η ποσοστιαία μεταβολή μεταξύ δύο ετών υπολογίζεται στις τιμές του δείκτη: (123−112)/112 × 100 ≈ 9,8%. Η επιλογή 23,0% είναι η παγίδα — χρησιμοποιεί εσφαλμένα το 2020 ως βάση (123−100=23) αντί να συγκρίνει απευθείας το 2022 με το 2024."
+      }
+    },
+    {
+      "id": 6,
+      "en": {
+        "passage": "<table><tr><th>Base Population (2024)</th><th>Annual Growth Rate</th></tr><tr><td>2,400,000</td><td>3% per year, compounded annually</td></tr></table><p>Regional Population Growth Projection</p>",
+        "question": "Applying compound annual growth, what will the population be after 3 years (to the nearest thousand)?",
+        "options": [
+          "2,616,000",
+          "2,472,000",
+          "2,623,000",
+          "2,545,000",
+          "2,700,000"
+        ],
+        "answer": "C",
+        "explanation": "Compound growth: 2,400,000 × (1.03)³ = 2,400,000 × 1.092727 ≈ 2,622,545 ≈ 2,623,000. Option 2,616,000 is the simple-growth trap: 2,400,000 × (1 + 0.03×3) = 2,400,000 × 1.09 = 2,616,000 — it adds the growth linearly instead of compounding it year over year."
+      },
+      "el": {
+        "passage": "<table><tr><th>Βασικός Πληθυσμός (2024)</th><th>Ετήσιος Ρυθμός Αύξησης</th></tr><tr><td>2.400.000</td><td>3% ετησίως, με σύνθετη ανατοκισμό</td></tr></table><p>Πρόβλεψη Πληθυσμιακής Αύξησης Περιφέρειας</p>",
+        "question": "Εφαρμόζοντας σύνθετη ετήσια αύξηση, ποιος θα είναι ο πληθυσμός μετά από 3 έτη (στην πλησιέστερη χιλιάδα);",
+        "options": [
+          "2.616.000",
+          "2.472.000",
+          "2.623.000",
+          "2.545.000",
+          "2.700.000"
+        ],
+        "answer": "C",
+        "explanation": "Σύνθετη αύξηση: 2.400.000 × (1,03)³ = 2.400.000 × 1,092727 ≈ 2.622.545 ≈ 2.623.000. Η επιλογή 2.616.000 είναι η παγίδα της απλής αύξησης: 2.400.000 × (1 + 0,03×3) = 2.400.000 × 1,09 = 2.616.000 — προσθέτει την αύξηση γραμμικά αντί να τη συνθέτει έτος με έτος."
+      }
+    },
+    {
+      "id": 7,
+      "en": {
+        "passage": "<table><tr><th>Country</th><th>2022 (thousands)</th><th>2024 (thousands)</th></tr><tr><td>Country A</td><td>1200</td><td>1350</td></tr><tr><td>Country B</td><td>300</td><td>420</td></tr><tr><td>Country C</td><td>4500</td><td>4700</td></tr></table><p>Fixed Broadband Subscribers by Country (thousands, 2022–2024)</p>",
+        "question": "Which country had the largest relative (percentage) growth in broadband subscribers between 2022 and 2024?",
+        "options": [
+          "Country C",
+          "Country B",
+          "Cannot be determined without the total market size",
+          "Country A",
+          "All three grew equally"
+        ],
+        "answer": "B",
+        "explanation": "Country A: 150/1,200=12.5%. Country B: 120/300=40.0%. Country C: 200/4,500≈4.4%. Country B has by far the highest percentage growth, despite having the smallest absolute increase (120,000) — Country C's absolute increase (200,000) is the largest, which is the trap for candidates who don't distinguish absolute from relative growth."
+      },
+      "el": {
+        "passage": "<table><tr><th>Χώρα</th><th>2022 (χιλιάδες)</th><th>2024 (χιλιάδες)</th></tr><tr><td>Χώρα A</td><td>1200</td><td>1350</td></tr><tr><td>Χώρα B</td><td>300</td><td>420</td></tr><tr><td>Χώρα Γ</td><td>4500</td><td>4700</td></tr></table><p>Συνδρομητές Σταθερής Ευρυζωνικότητας ανά Χώρα (χιλιάδες, 2022–2024)</p>",
+        "question": "Ποια χώρα είχε τη μεγαλύτερη σχετική (ποσοστιαία) αύξηση συνδρομητών ευρυζωνικότητας μεταξύ 2022 και 2024;",
+        "options": [
+          "Χώρα Γ",
+          "Χώρα B",
+          "Δεν μπορεί να προσδιοριστεί χωρίς το συνολικό μέγεθος αγοράς",
+          "Χώρα A",
+          "Και οι τρεις χώρες αυξήθηκαν εξίσου"
+        ],
+        "answer": "B",
+        "explanation": "Χώρα A: 150/1.200=12,5%. Χώρα B: 120/300=40,0%. Χώρα Γ: 200/4.500≈4,4%. Η Χώρα B έχει κατά πολύ τη μεγαλύτερη ποσοστιαία αύξηση, παρόλο που έχει τη μικρότερη απόλυτη αύξηση (120.000) — η Χώρα Γ έχει τη μεγαλύτερη απόλυτη αύξηση (200.000), κάτι που αποτελεί την παγίδα για όσους δεν διακρίνουν την απόλυτη από τη σχετική αύξηση."
+      }
+    },
+    {
+      "id": 8,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Flat fee (covers first 5 kg)</td><td>€12.00</td></tr><tr><td>Rate for each additional kg beyond 5 kg</td><td>€1.80</td></tr></table><p>Courier Shipping Rate Card</p>",
+        "question": "What is the total cost of shipping a 22 kg parcel under this rate card?",
+        "options": [
+          "€42.60",
+          "€48.60",
+          "€51.60",
+          "€39.60",
+          "€30.60"
+        ],
+        "answer": "A",
+        "explanation": "The flat fee of €12.00 covers the first 5 kg; only the remaining 22−5=17 kg is charged at €1.80/kg: 17×1.80=€30.60. Total = 12.00+30.60 = €42.60. Option €39.60 is the trap of charging the flat per-kg rate to the whole parcel (22×1.80), ignoring the tiered structure entirely; €51.60 double-counts the first 5 kg by charging both the flat fee AND the per-kg rate on that same weight."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Πάγιο τέλος (καλύπτει τα πρώτα 5 kg)</td><td>€12,00</td></tr><tr><td>Χρέωση για κάθε επιπλέον kg πέραν των 5 kg</td><td>€1,80</td></tr></table><p>Τιμοκατάλογος Ταχυμεταφορών</p>",
+        "question": "Ποιο είναι το συνολικό κόστος αποστολής δέματος 22 kg βάσει αυτού του τιμοκαταλόγου;",
+        "options": [
+          "€42,60",
+          "€48,60",
+          "€51,60",
+          "€39,60",
+          "€30,60"
+        ],
+        "answer": "A",
+        "explanation": "Το πάγιο τέλος των €12,00 καλύπτει τα πρώτα 5 kg· μόνο τα υπόλοιπα 22−5=17 kg χρεώνονται με €1,80/kg: 17×1,80=€30,60. Σύνολο = 12,00+30,60 = €42,60. Η επιλογή €39,60 είναι η παγίδα χρέωσης της ενιαίας τιμής ανά kg σε ολόκληρο το δέμα (22×1,80), αγνοώντας εντελώς την κλιμακωτή δομή· η €51,60 διπλοχρεώνει τα πρώτα 5 kg, χρεώνοντας και το πάγιο τέλος ΚΑΙ τη χρέωση ανά kg για το ίδιο βάρος."
+      }
+    },
+    {
+      "id": 9,
+      "en": {
+        "passage": "<table><tr><th>Category</th><th>Number</th></tr><tr><td>Total workforce</td><td>50,000</td></tr><tr><td>Workforce in STEM roles</td><td>8,000</td></tr><tr><td>Women in STEM roles</td><td>2,800</td></tr></table><p>Workforce Composition — STEM Roles (2024)</p>",
+        "question": "What percentage of the TOTAL workforce (not just STEM roles) are women working in STEM roles?",
+        "options": [
+          "16.0%",
+          "35.0%",
+          "2.8%",
+          "5.6%",
+          "8.0%"
+        ],
+        "answer": "D",
+        "explanation": "The question asks for the share of the TOTAL workforce, not the share within STEM: 2,800 / 50,000 × 100 = 5.6%. Option 35.0% is the trap — that is women's share WITHIN STEM roles only (2,800/8,000), a genuinely different, larger figure that answers a different question."
+      },
+      "el": {
+        "passage": "<table><tr><th>Κατηγορία</th><th>Αριθμός</th></tr><tr><td>Συνολικό εργατικό δυναμικό</td><td>50.000</td></tr><tr><td>Εργατικό δυναμικό σε θέσεις STEM</td><td>8.000</td></tr><tr><td>Γυναίκες σε θέσεις STEM</td><td>2.800</td></tr></table><p>Σύνθεση Εργατικού Δυναμικού — Θέσεις STEM (2024)</p>",
+        "question": "Τι ποσοστό του ΣΥΝΟΛΙΚΟΥ εργατικού δυναμικού (όχι μόνο των θέσεων STEM) αποτελούν οι γυναίκες σε θέσεις STEM;",
+        "options": [
+          "16,0%",
+          "35,0%",
+          "2,8%",
+          "5,6%",
+          "8,0%"
+        ],
+        "answer": "D",
+        "explanation": "Η ερώτηση ζητά το μερίδιο του ΣΥΝΟΛΙΚΟΥ εργατικού δυναμικού, όχι το μερίδιο εντός των θέσεων STEM: 2.800 / 50.000 × 100 = 5,6%. Η επιλογή 35,0% είναι η παγίδα — αυτό είναι το μερίδιο γυναικών ΕΝΤΟΣ των θέσεων STEM μόνο (2.800/8.000), ένα πραγματικά διαφορετικό, μεγαλύτερο μέγεθος που απαντά σε διαφορετική ερώτηση."
+      }
+    },
+    {
+      "id": 10,
+      "en": {
+        "passage": "<table><tr><th>Indicator</th><th>Value</th></tr><tr><td>Per-capita health expenditure</td><td>€4,250</td></tr><tr><td>Regional population</td><td>2,650,000</td></tr></table><p>Regional Public Health Expenditure (2024)</p>",
+        "question": "What is the region's total public health expenditure, to the nearest €0.1 billion?",
+        "options": [
+          "€25.9 billion",
+          "€1.1 billion",
+          "€11.3 billion",
+          "€112.6 billion",
+          "€6.9 billion"
+        ],
+        "answer": "C",
+        "explanation": "Total expenditure = per-capita value × population = €4,250 × 2,650,000 = €11,262,500,000 ≈ €11.3 billion. Option €1.1 billion is the trap for candidates who divide instead of multiply; €112.6 billion results from misplacing a decimal point (million vs billion confusion)."
+      },
+      "el": {
+        "passage": "<table><tr><th>Δείκτης</th><th>Τιμή</th></tr><tr><td>Δαπάνη υγείας ανά κάτοικο</td><td>€4.250</td></tr><tr><td>Πληθυσμός περιφέρειας</td><td>2.650.000</td></tr></table><p>Περιφερειακή Δημόσια Δαπάνη Υγείας (2024)</p>",
+        "question": "Ποια είναι η συνολική δημόσια δαπάνη υγείας της περιφέρειας, στο πλησιέστερο €0,1 δισεκατομμύριο;",
+        "options": [
+          "€25,9 δισεκατομμύρια",
+          "€1,1 δισεκατομμύριο",
+          "€11,3 δισεκατομμύρια",
+          "€112,6 δισεκατομμύρια",
+          "€6,9 δισεκατομμύρια"
+        ],
+        "answer": "C",
+        "explanation": "Συνολική δαπάνη = τιμή ανά κάτοικο × πληθυσμός = €4.250 × 2.650.000 = €11.262.500.000 ≈ €11,3 δισεκατομμύρια. Η επιλογή €1,1 δισεκατομμύριο είναι η παγίδα για όσους διαιρούν αντί να πολλαπλασιάσουν· το €112,6 δισεκατομμύριο προκύπτει από λάθος θέση υποδιαστολής (σύγχυση εκατομμυρίου με δισεκατομμύριο)."
+      }
+    }
+  ],
+  "drill_2": [
+    {
+      "id": 1,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Grant amount after a 15% increase over 2023</td><td>€138,000</td></tr></table><p>Research Grant Award (2024)</p>",
+        "question": "What was the original 2023 grant amount, before the 15% increase?",
+        "options": [
+          "€126,000",
+          "€135,000",
+          "€158,700",
+          "€120,000",
+          "€117,300"
+        ],
+        "answer": "D",
+        "explanation": "If X is the original amount, X × 1.15 = 138,000, so X = 138,000 / 1.15 = €120,000. Option €117,300 is the trap — it wrongly subtracts 15% FROM the final amount (138,000 × 0.85) instead of reversing the growth by dividing."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Ποσό επιχορήγησης μετά από αύξηση 15% σε σχέση με το 2023</td><td>€138.000</td></tr></table><p>Χορήγηση Ερευνητικής Επιχορήγησης (2024)</p>",
+        "question": "Ποιο ήταν το αρχικό ποσό επιχορήγησης του 2023, πριν την αύξηση 15%;",
+        "options": [
+          "€126.000",
+          "€135.000",
+          "€158.700",
+          "€120.000",
+          "€117.300"
+        ],
+        "answer": "D",
+        "explanation": "Αν Χ είναι το αρχικό ποσό, Χ × 1,15 = 138.000, άρα Χ = 138.000 / 1,15 = €120.000. Η επιλογή €117.300 είναι η παγίδα — αφαιρεί εσφαλμένα το 15% ΑΠΟ το τελικό ποσό (138.000 × 0,85) αντί να αντιστρέψει την αύξηση με διαίρεση."
+      }
+    },
+    {
+      "id": 2,
+      "en": {
+        "passage": "<table><tr><th>Event</th><th>Change</th></tr><tr><td>Month 1</td><td>+20%</td></tr><tr><td>Month 2 (applied to the new, already-increased price)</td><td>−10%</td></tr></table><p>Share Price Movement</p>",
+        "question": "What is the overall (net) percentage change in the share price after both months?",
+        "options": [
+          "+10%",
+          "+8%",
+          "+18%",
+          "−2%",
+          "+30%"
+        ],
+        "answer": "B",
+        "explanation": "Starting at 100: after +20% → 120; after −10% of 120 → 108. Net change = +8%. Option +10% is the trap of simply subtracting the two percentages (20%−10%=10%) instead of applying them sequentially to a changing base."
+      },
+      "el": {
+        "passage": "<table><tr><th>Γεγονός</th><th>Μεταβολή</th></tr><tr><td>Μήνας 1</td><td>+20%</td></tr><tr><td>Μήνας 2 (εφαρμόζεται στη νέα, ήδη αυξημένη τιμή)</td><td>−10%</td></tr></table><p>Κίνηση Τιμής Μετοχής</p>",
+        "question": "Ποια είναι η συνολική (καθαρή) ποσοστιαία μεταβολή της τιμής της μετοχής μετά και τους δύο μήνες;",
+        "options": [
+          "+10%",
+          "+8%",
+          "+18%",
+          "−2%",
+          "+30%"
+        ],
+        "answer": "B",
+        "explanation": "Ξεκινώντας από 100: μετά από +20% → 120· μετά από −10% επί του 120 → 108. Καθαρή μεταβολή = +8%. Η επιλογή +10% είναι η παγίδα της απλής αφαίρεσης των δύο ποσοστών (20%−10%=10%) αντί της διαδοχικής εφαρμογής τους σε μεταβαλλόμενη βάση."
+      }
+    },
+    {
+      "id": 3,
+      "en": {
+        "passage": "<table><tr><th>Team Member</th><th>Monthly Salary (€)</th></tr><tr><td>Analyst 1</td><td>2,800</td></tr><tr><td>Analyst 2</td><td>2,900</td></tr><tr><td>Analyst 3</td><td>2,950</td></tr><tr><td>Analyst 4</td><td>3,000</td></tr><tr><td>Analyst 5</td><td>3,050</td></tr><tr><td>Analyst 6</td><td>3,100</td></tr><tr><td>Senior Consultant (seconded)</td><td>9,800</td></tr></table><p>Monthly Salaries — Policy Analysis Team (7 members)</p>",
+        "question": "What is the median monthly salary for this team, and how does it compare to the mean?",
+        "options": [
+          "€3,943; the median is skewed upward by the outlier salary",
+          "€3,000; the mean (≈€3,943) is skewed upward by the one outlier salary of €9,800",
+          "€3,025; the median falls exactly halfway between the two middle salaries, unaffected by the outlier",
+          "€9,800; the highest salary defines the median in a skewed dataset",
+          "€3,050; both measures are affected equally by the outlier"
+        ],
+        "answer": "B",
+        "explanation": "Sorting the 7 salaries, the median (middle, 4th value) is €3,000. The mean = 27,600/7 ≈ €3,943 — pulled well above what most team members actually earn by the single €9,800 outlier. This illustrates why the median is often a more representative 'typical value' than the mean when a dataset contains extreme outliers."
+      },
+      "el": {
+        "passage": "<table><tr><th>Μέλος Ομάδας</th><th>Μηνιαίος Μισθός (€)</th></tr><tr><td>Αναλυτής 1</td><td>2.800</td></tr><tr><td>Αναλυτής 2</td><td>2.900</td></tr><tr><td>Αναλυτής 3</td><td>2.950</td></tr><tr><td>Αναλυτής 4</td><td>3.000</td></tr><tr><td>Αναλυτής 5</td><td>3.050</td></tr><tr><td>Αναλυτής 6</td><td>3.100</td></tr><tr><td>Ανώτερος Σύμβουλος (απόσπαση)</td><td>9.800</td></tr></table><p>Μηνιαίοι Μισθοί — Ομάδα Ανάλυσης Πολιτικής (7 μέλη)</p>",
+        "question": "Ποια είναι η διάμεσος μηνιαίος μισθός για αυτή την ομάδα, και πώς συγκρίνεται με τον μέσο όρο;",
+        "options": [
+          "€3.943· η διάμεσος αλλοιώνεται προς τα πάνω από την ακραία τιμή",
+          "€3.000· ο μέσος όρος (≈€3.943) αλλοιώνεται προς τα πάνω από τη μία ακραία τιμή μισθού των €9.800",
+          "€3.025· η διάμεσος βρίσκεται ακριβώς στη μέση των δύο μεσαίων μισθών, χωρίς επίδραση από την ακραία τιμή",
+          "€9.800· η υψηλότερη τιμή καθορίζει τη διάμεσο σε ασύμμετρο σύνολο δεδομένων",
+          "€3.050· και τα δύο μέτρα επηρεάζονται εξίσου από την ακραία τιμή"
+        ],
+        "answer": "B",
+        "explanation": "Ταξινομώντας τους 7 μισθούς, η διάμεσος (μεσαία, 4η τιμή) είναι €3.000. Ο μέσος όρος = 27.600/7 ≈ €3.943 — τραβηγμένος σημαντικά πάνω από ό,τι κερδίζουν στην πραγματικότητα τα περισσότερα μέλη της ομάδας, λόγω της μίας ακραίας τιμής των €9.800. Αυτό δείχνει γιατί η διάμεσος είναι συχνά πιο αντιπροσωπευτική «τυπική τιμή» από τον μέσο όρο όταν ένα σύνολο δεδομένων περιέχει ακραίες τιμές."
+      }
+    },
+    {
+      "id": 4,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Rate</td><td>€0.018 per GB per month</td></tr><tr><td>Department storage used</td><td>4.2 TB (1 TB = 1,000 GB)</td></tr></table><p>Cloud Storage Invoice</p>",
+        "question": "What is the department's total monthly storage cost?",
+        "options": [
+          "€7.20",
+          "€77.41",
+          "€0.08",
+          "€75.60",
+          "€7.56"
+        ],
+        "answer": "D",
+        "explanation": "Convert to GB first: 4.2 TB × 1,000 = 4,200 GB. Cost = 4,200 × €0.018 = €75.60. Option €77.41 is the trap of using 1,024 (binary) instead of 1,000 (the decimal conversion this invoice specifies) as the TB-to-GB factor; €0.08 comes from forgetting to convert TB to GB at all."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Χρέωση</td><td>€0,018 ανά GB μηνιαίως</td></tr><tr><td>Χρήση αποθήκευσης τμήματος</td><td>4,2 TB (1 TB = 1.000 GB)</td></tr></table><p>Τιμολόγιο Αποθήκευσης Cloud</p>",
+        "question": "Ποιο είναι το συνολικό μηνιαίο κόστος αποθήκευσης του τμήματος;",
+        "options": [
+          "€7,20",
+          "€77,41",
+          "€0,08",
+          "€75,60",
+          "€7,56"
+        ],
+        "answer": "D",
+        "explanation": "Μετατρέψτε πρώτα σε GB: 4,2 TB × 1.000 = 4.200 GB. Κόστος = 4.200 × €0,018 = €75,60. Η επιλογή €77,41 είναι η παγίδα χρήσης του 1.024 (δυαδικό) αντί του 1.000 (ο δεκαδικός συντελεστής που ορίζει το τιμολόγιο) ως συντελεστή μετατροπής TB σε GB· το €0,08 προκύπτει από πλήρη παράλειψη της μετατροπής TB σε GB."
+      }
+    },
+    {
+      "id": 5,
+      "en": {
+        "passage": "<table><tr><th>Year</th><th>Sector X Allocation</th><th>Total Budget</th></tr><tr><td>2023</td><td>€40 million</td><td>€200 million</td></tr><tr><td>2024</td><td>€55 million</td><td>€250 million</td></tr></table><p>Sector X Budget Allocation</p>",
+        "question": "What is the percentage-point change in Sector X's share of the total budget between 2023 and 2024?",
+        "options": [
+          "+2.0 pp",
+          "+20.0 pp",
+          "+37.5%",
+          "+2.75 pp",
+          "+15 million euros"
+        ],
+        "answer": "A",
+        "explanation": "Sector X's share was 40/200=20.0% in 2023 and 55/250=22.0% in 2024, a change of +2.0 percentage points. Option +37.5% is the trap — it is the percentage GROWTH of the allocation itself ((55−40)/40×100), which answers a different question about the budget amount, not its share of the total."
+      },
+      "el": {
+        "passage": "<table><tr><th>Έτος</th><th>Κατανομή Τομέα X</th><th>Συνολικός Προϋπολογισμός</th></tr><tr><td>2023</td><td>€40 εκατ.</td><td>€200 εκατ.</td></tr><tr><td>2024</td><td>€55 εκατ.</td><td>€250 εκατ.</td></tr></table><p>Κατανομή Προϋπολογισμού Τομέα X</p>",
+        "question": "Ποια είναι η μεταβολή σε ποσοστιαίες μονάδες του μεριδίου του Τομέα X στον συνολικό προϋπολογισμό μεταξύ 2023 και 2024;",
+        "options": [
+          "+2,0 μον.",
+          "+20,0 μον.",
+          "+37,5%",
+          "+2,75 μον.",
+          "+15 εκατομμύρια ευρώ"
+        ],
+        "answer": "A",
+        "explanation": "Το μερίδιο του Τομέα X ήταν 40/200=20,0% το 2023 και 55/250=22,0% το 2024, μεταβολή +2,0 ποσοστιαίες μονάδες. Η επιλογή +37,5% είναι η παγίδα — είναι η ποσοστιαία ΑΥΞΗΣΗ του ίδιου του ποσού ((55−40)/40×100), που απαντά σε διαφορετική ερώτηση σχετικά με το ποσό, όχι το μερίδιό του στο σύνολο."
+      }
+    },
+    {
+      "id": 6,
+      "en": {
+        "passage": "<table><tr><th>Component</th><th>Value</th></tr><tr><td>Starting population</td><td>850,000</td></tr><tr><td>Births during the year</td><td>9,200</td></tr><tr><td>Deaths during the year</td><td>7,600</td></tr><tr><td>Net migration (inflow)</td><td>+3,100</td></tr></table><p>Regional Population Change (Annual)</p>",
+        "question": "What was the region's population growth rate for the year, to two decimal places?",
+        "options": [
+          "0.44%",
+          "0.19%",
+          "1.08%",
+          "2.34%",
+          "0.55%"
+        ],
+        "answer": "E",
+        "explanation": "Net population change = births − deaths + net migration = 9,200 − 7,600 + 3,100 = 4,700. Growth rate = 4,700 / 850,000 × 100 ≈ 0.55%. Option 0.19% is the trap of forgetting net migration entirely (using only births−deaths); 1.08% comes from counting births alone."
+      },
+      "el": {
+        "passage": "<table><tr><th>Συνιστώσα</th><th>Τιμή</th></tr><tr><td>Αρχικός πληθυσμός</td><td>850.000</td></tr><tr><td>Γεννήσεις κατά το έτος</td><td>9.200</td></tr><tr><td>Θάνατοι κατά το έτος</td><td>7.600</td></tr><tr><td>Καθαρή μετανάστευση (εισροή)</td><td>+3.100</td></tr></table><p>Ετήσια Μεταβολή Πληθυσμού Περιφέρειας</p>",
+        "question": "Ποιος ήταν ο ρυθμός πληθυσμιακής αύξησης της περιφέρειας για το έτος, με δύο δεκαδικά;",
+        "options": [
+          "0,44%",
+          "0,19%",
+          "1,08%",
+          "2,34%",
+          "0,55%"
+        ],
+        "answer": "E",
+        "explanation": "Καθαρή μεταβολή πληθυσμού = γεννήσεις − θάνατοι + καθαρή μετανάστευση = 9.200 − 7.600 + 3.100 = 4.700. Ρυθμός αύξησης = 4.700 / 850.000 × 100 ≈ 0,55%. Η επιλογή 0,19% είναι η παγίδα πλήρους παράλειψης της καθαρής μετανάστευσης (χρήση μόνο γεννήσεων−θανάτων)· το 1,08% προκύπτει από καταμέτρηση μόνο των γεννήσεων."
+      }
+    },
+    {
+      "id": 7,
+      "en": {
+        "passage": "<table><tr><th>Discount</th><th>Applies to</th></tr><tr><td>Early-bird discount</td><td>20% off the €250 standard fee</td></tr><tr><td>Additional staff discount</td><td>10% off the already-discounted price</td></tr></table><p>Conference Registration Discount Policy</p>",
+        "question": "What is the final registration fee after both discounts are applied?",
+        "options": [
+          "€170",
+          "€200",
+          "€162.50",
+          "€175",
+          "€180"
+        ],
+        "answer": "E",
+        "explanation": "First discount: €250 × 0.80 = €200. Second discount applied to the new price: €200 × 0.90 = €180. Option €175 is the trap of adding the two percentages (20%+10%=30% off €250 = €175) instead of applying them sequentially, one after the other."
+      },
+      "el": {
+        "passage": "<table><tr><th>Έκπτωση</th><th>Εφαρμόζεται σε</th></tr><tr><td>Έκπτωση πρώιμης εγγραφής</td><td>20% έκπτωση επί του κανονικού τέλους των €250</td></tr><tr><td>Πρόσθετη έκπτωση προσωπικού</td><td>10% έκπτωση επί της ήδη εκπτωτικής τιμής</td></tr></table><p>Πολιτική Έκπτωσης Εγγραφής Συνεδρίου</p>",
+        "question": "Ποιο είναι το τελικό τέλος εγγραφής μετά την εφαρμογή και των δύο εκπτώσεων;",
+        "options": [
+          "€170",
+          "€200",
+          "€162,50",
+          "€175",
+          "€180"
+        ],
+        "answer": "E",
+        "explanation": "Πρώτη έκπτωση: €250 × 0,80 = €200. Δεύτερη έκπτωση επί της νέας τιμής: €200 × 0,90 = €180. Η επιλογή €175 είναι η παγίδα της πρόσθεσης των δύο ποσοστών (20%+10%=30% έκπτωση επί €250 = €175) αντί της διαδοχικής εφαρμογής τους, το ένα μετά το άλλο."
+      }
+    },
+    {
+      "id": 8,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Survey sample size</td><td>400 residents</td></tr><tr><td>Residents supporting the project (in sample)</td><td>268</td></tr><tr><td>Total eligible population</td><td>18,500</td></tr></table><p>Public Consultation Survey</p>",
+        "question": "Based on the sample, what is the best estimate of the total number of supporters in the full population?",
+        "options": [
+          "≈ 12,395",
+          "≈ 10,730",
+          "≈ 6,105",
+          "≈ 8,321",
+          "≈ 18,500"
+        ],
+        "answer": "A",
+        "explanation": "Sample support rate = 268/400 = 67.0%. Applying this rate to the full population: 18,500 × 0.67 ≈ 12,395. Option ≈ 8,321 is the trap of applying the rate to the sample size again or miscalculating the proportion instead of the full population figure."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Μέγεθος δείγματος έρευνας</td><td>400 κάτοικοι</td></tr><tr><td>Κάτοικοι που υποστηρίζουν το έργο (στο δείγμα)</td><td>268</td></tr><tr><td>Συνολικός επιλέξιμος πληθυσμός</td><td>18.500</td></tr></table><p>Έρευνα Δημόσιας Διαβούλευσης</p>",
+        "question": "Βάσει του δείγματος, ποια είναι η καλύτερη εκτίμηση του συνολικού αριθμού υποστηρικτών στον πλήρη πληθυσμό;",
+        "options": [
+          "≈ 12.395",
+          "≈ 10.730",
+          "≈ 6.105",
+          "≈ 8.321",
+          "≈ 18.500"
+        ],
+        "answer": "A",
+        "explanation": "Ποσοστό υποστήριξης δείγματος = 268/400 = 67,0%. Εφαρμόζοντας το ποσοστό στον πλήρη πληθυσμό: 18.500 × 0,67 ≈ 12.395. Η επιλογή ≈ 8.321 είναι η παγίδα εφαρμογής του ποσοστού ξανά στο μέγεθος δείγματος ή εσφαλμένου υπολογισμού της αναλογίας αντί του πλήρους πληθυσμιακού μεγέθους."
+      }
+    },
+    {
+      "id": 9,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Total annual payroll</td><td>€2,340,000</td></tr><tr><td>Number of employees</td><td>180</td></tr><tr><td>Next year: both total payroll AND number of employees increase by</td><td>10%</td></tr></table><p>Directorate Payroll Overview</p>",
+        "question": "If both the total payroll and the number of employees increase by the same 10%, what happens to the average salary?",
+        "options": [
+          "It decreases slightly",
+          "It increases by 10% (€14,300)",
+          "It stays the same (€13,000)",
+          "It cannot be determined without knowing the salary distribution",
+          "It increases by 20%"
+        ],
+        "answer": "C",
+        "explanation": "Current average = 2,340,000/180 = €13,000. If both payroll and headcount grow by the identical 10%, the ratio between them is unchanged: (2,340,000×1.10)/(180×1.10) = €13,000, exactly the same. The trap is assuming a 10% rise in the total automatically means a 10% rise in the average — it only does so if the denominator (headcount) stays fixed, which it does not here."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Συνολική ετήσια μισθοδοσία</td><td>€2.340.000</td></tr><tr><td>Αριθμός υπαλλήλων</td><td>180</td></tr><tr><td>Τον επόμενο χρόνο: τόσο η συνολική μισθοδοσία ΟΣΟ ΚΑΙ ο αριθμός υπαλλήλων αυξάνονται κατά</td><td>10%</td></tr></table><p>Επισκόπηση Μισθοδοσίας Διεύθυνσης</p>",
+        "question": "Αν τόσο η συνολική μισθοδοσία όσο και ο αριθμός υπαλλήλων αυξηθούν κατά το ίδιο 10%, τι συμβαίνει στον μέσο μισθό;",
+        "options": [
+          "Μειώνεται ελαφρώς",
+          "Αυξάνεται κατά 10% (€14.300)",
+          "Παραμένει ο ίδιος (€13.000)",
+          "Δεν μπορεί να προσδιοριστεί χωρίς να γνωρίζουμε την κατανομή των μισθών",
+          "Αυξάνεται κατά 20%"
+        ],
+        "answer": "C",
+        "explanation": "Τρέχων μέσος όρος = 2.340.000/180 = €13.000. Αν τόσο η μισθοδοσία όσο και το προσωπικό αυξηθούν κατά το ίδιο 10%, ο λόγος μεταξύ τους παραμένει αμετάβλητος: (2.340.000×1,10)/(180×1,10) = €13.000, ακριβώς ο ίδιος. Η παγίδα είναι η υπόθεση ότι μια αύξηση 10% στο σύνολο συνεπάγεται αυτόματα αύξηση 10% στον μέσο όρο — αυτό ισχύει μόνο αν ο παρονομαστής (αριθμός προσωπικού) παραμένει σταθερός, κάτι που δεν συμβαίνει εδώ."
+      }
+    },
+    {
+      "id": 10,
+      "en": {
+        "passage": "<table><tr><th>Pair</th><th>Rate</th></tr><tr><td>1 EUR</td><td>= 1.08 USD</td></tr><tr><td>1 USD</td><td>= 145 JPY</td></tr></table><p>Currency Exchange Rates (reference day)</p>",
+        "question": "Based on these two exchange rates, how many Japanese yen is 1 euro equivalent to?",
+        "options": [
+          "159.4 JPY",
+          "145.0 JPY",
+          "156.6 JPY",
+          "134.3 JPY",
+          "150.0 JPY"
+        ],
+        "answer": "C",
+        "explanation": "Cross-rate: 1 EUR = 1.08 USD, and 1 USD = 145 JPY, so 1 EUR = 1.08 × 145 = 156.6 JPY. Option 134.3 JPY is the trap of dividing instead of multiplying (145/1.08), and 145.0 JPY is the trap of ignoring the EUR/USD rate entirely."
+      },
+      "el": {
+        "passage": "<table><tr><th>Ζεύγος</th><th>Ισοτιμία</th></tr><tr><td>1 EUR</td><td>= 1,08 USD</td></tr><tr><td>1 USD</td><td>= 145 JPY</td></tr></table><p>Συναλλαγματικές Ισοτιμίες (ημέρα αναφοράς)</p>",
+        "question": "Βάσει αυτών των δύο ισοτιμιών, πόσα ιαπωνικά γιεν αντιστοιχούν σε 1 ευρώ;",
+        "options": [
+          "159,4 JPY",
+          "145,0 JPY",
+          "156,6 JPY",
+          "134,3 JPY",
+          "150,0 JPY"
+        ],
+        "answer": "C",
+        "explanation": "Διασταυρούμενη ισοτιμία: 1 EUR = 1,08 USD, και 1 USD = 145 JPY, άρα 1 EUR = 1,08 × 145 = 156,6 JPY. Η επιλογή 134,3 JPY είναι η παγίδα διαίρεσης αντί πολλαπλασιασμού (145/1,08), και η επιλογή 145,0 JPY είναι η παγίδα πλήρους αγνόησης της ισοτιμίας EUR/USD."
+      }
+    }
+  ],
+  "drill_3": [
+    {
+      "id": 1,
+      "en": {
+        "passage": "<table><tr><th>Year</th><th>Company X Revenue</th><th>Total Market Size</th></tr><tr><td>2023</td><td>€80 million</td><td>€400 million</td></tr><tr><td>2024</td><td>€90 million</td><td>€500 million</td></tr></table><p>Company X Revenue and Total Market Size</p>",
+        "question": "Company X's revenue grew by 12.5% between 2023 and 2024. What happened to its share of the total market?",
+        "options": [
+          "It rose slightly to 20.5%, since the company's absolute revenue increase (€10 million) exceeded the market's",
+          "It stayed exactly the same at 20.0%",
+          "It fell from 20.0% to 18.0%, since the total market grew faster than the company's revenue",
+          "It grew from 20.0% to 22.5%, in line with the revenue growth",
+          "It fell to 16.0%"
+        ],
+        "answer": "C",
+        "explanation": "Market share 2023: 80/400=20.0%. Market share 2024: 90/500=18.0% — a fall, despite the company's own revenue growing. The trap is assuming that a company's growing revenue automatically means a growing (or at least stable) market share; it depends on how fast the total market itself is growing relative to the company."
+      },
+      "el": {
+        "passage": "<table><tr><th>Έτος</th><th>Έσοδα Εταιρείας X</th><th>Συνολικό Μέγεθος Αγοράς</th></tr><tr><td>2023</td><td>€80 εκατ.</td><td>€400 εκατ.</td></tr><tr><td>2024</td><td>€90 εκατ.</td><td>€500 εκατ.</td></tr></table><p>Έσοδα Εταιρείας X και Συνολικό Μέγεθος Αγοράς</p>",
+        "question": "Τα έσοδα της Εταιρείας X αυξήθηκαν κατά 12,5% μεταξύ 2023 και 2024. Τι συνέβη στο μερίδιο αγοράς της;",
+        "options": [
+          "Αυξήθηκε ελαφρώς στο 20,5%, καθώς η απόλυτη αύξηση εσόδων της εταιρείας (€10 εκατ.) ξεπέρασε αυτή της αγοράς",
+          "Παρέμεινε ακριβώς στο 20,0%",
+          "Μειώθηκε από 20,0% σε 18,0%, καθώς η συνολική αγορά αυξήθηκε ταχύτερα από τα έσοδα της εταιρείας",
+          "Αυξήθηκε από 20,0% σε 22,5%, ανάλογα με την αύξηση των εσόδων",
+          "Μειώθηκε στο 16,0%"
+        ],
+        "answer": "C",
+        "explanation": "Μερίδιο αγοράς 2023: 80/400=20,0%. Μερίδιο αγοράς 2024: 90/500=18,0% — μείωση, παρόλο που τα ίδια τα έσοδα της εταιρείας αυξήθηκαν. Η παγίδα είναι η υπόθεση ότι η αύξηση εσόδων μιας εταιρείας συνεπάγεται αυτόματα αυξανόμενο (ή έστω σταθερό) μερίδιο αγοράς· εξαρτάται από το πόσο γρήγορα αυξάνεται η ίδια η συνολική αγορά σε σχέση με την εταιρεία."
+      }
+    },
+    {
+      "id": 2,
+      "en": {
+        "passage": "<table><tr><th>Department</th><th>Support Tickets Raised</th></tr><tr><td>Dept A</td><td>3200</td></tr><tr><td>Dept B</td><td>4800</td></tr><tr><td>Dept C</td><td>2000</td></tr><tr><td>Total shared cost to allocate</td><td>€96,000</td></tr></table><p>Shared IT Service Cost Allocation by Department Usage</p>",
+        "question": "If the shared cost is allocated in proportion to each department's number of support tickets, what is Department B's share?",
+        "options": [
+          "€46,080",
+          "€40,320",
+          "€32,000",
+          "€38,400",
+          "€48,000"
+        ],
+        "answer": "A",
+        "explanation": "Total tickets = 3,200+4,800+2,000 = 10,000. Department B's share of tickets = 4,800/10,000 = 48%. Its cost share = 96,000 × 0.48 = €46,080. Option €32,000 is the trap of simply dividing the total cost equally by three departments instead of weighting by actual usage."
+      },
+      "el": {
+        "passage": "<table><tr><th>Τμήμα</th><th>Αιτήματα Υποστήριξης</th></tr><tr><td>Τμήμα A</td><td>3200</td></tr><tr><td>Τμήμα B</td><td>4800</td></tr><tr><td>Τμήμα C</td><td>2000</td></tr><tr><td>Συνολικό κοινό κόστος προς κατανομή</td><td>€96.000</td></tr></table><p>Κατανομή Κοινού Κόστους Υπηρεσίας ΤΠ ανά Χρήση Τμήματος</p>",
+        "question": "Αν το κοινό κόστος κατανέμεται αναλογικά με τον αριθμό αιτημάτων υποστήριξης κάθε τμήματος, ποιο είναι το μερίδιο του Τμήματος B;",
+        "options": [
+          "€46.080",
+          "€40.320",
+          "€32.000",
+          "€38.400",
+          "€48.000"
+        ],
+        "answer": "A",
+        "explanation": "Σύνολο αιτημάτων = 3.200+4.800+2.000 = 10.000. Μερίδιο αιτημάτων Τμήματος B = 4.800/10.000 = 48%. Μερίδιο κόστους = 96.000 × 0,48 = €46.080. Η επιλογή €32.000 είναι η παγίδα της απλής ισομερούς διαίρεσης του κόστους στα τρία τμήματα αντί στάθμισης βάσει πραγματικής χρήσης."
+      }
+    },
+    {
+      "id": 3,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Initial one-off cost (new software)</td><td>€4,500</td></tr><tr><td>Monthly administrative savings</td><td>€375</td></tr></table><p>Department Software Investment</p>",
+        "question": "After how many full months will the cumulative savings equal the initial cost (the payback period)?",
+        "options": [
+          "10 months",
+          "11 months",
+          "13 months",
+          "15 months",
+          "12 months"
+        ],
+        "answer": "E",
+        "explanation": "Payback period = initial cost ÷ monthly savings = 4,500 ÷ 375 = 12 months exactly. Anything less than 12 months (10 or 11) still leaves part of the cost unrecovered; anything more (13 or 15) overshoots the point where savings and cost are equal."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Αρχικό εφάπαξ κόστος (νέο λογισμικό)</td><td>€4.500</td></tr><tr><td>Μηνιαία διοικητική εξοικονόμηση</td><td>€375</td></tr></table><p>Επένδυση Λογισμικού Τμήματος</p>",
+        "question": "Μετά από πόσους πλήρεις μήνες η σωρευτική εξοικονόμηση θα ισούται με το αρχικό κόστος (περίοδος αποπληρωμής);",
+        "options": [
+          "10 μήνες",
+          "11 μήνες",
+          "13 μήνες",
+          "15 μήνες",
+          "12 μήνες"
+        ],
+        "answer": "E",
+        "explanation": "Περίοδος αποπληρωμής = αρχικό κόστος ÷ μηνιαία εξοικονόμηση = 4.500 ÷ 375 = 12 μήνες ακριβώς. Οτιδήποτε λιγότερο από 12 μήνες (10 ή 11) αφήνει μέρος του κόστους ακάλυπτο· οτιδήποτε περισσότερο (13 ή 15) ξεπερνά το σημείο όπου εξοικονόμηση και κόστος εξισώνονται."
+      }
+    },
+    {
+      "id": 4,
+      "en": {
+        "passage": "<table><tr><th>Stage</th><th>Pass Rate</th></tr><tr><td>Written test (of 12,000 applicants)</td><td>35%</td></tr><tr><td>Interview (of those who passed the written test)</td><td>40%</td></tr></table><p>Recruitment Process Funnel</p>",
+        "question": "How many of the original 12,000 applicants pass BOTH the written test and the interview?",
+        "options": [
+          "2,940",
+          "4,200",
+          "9,000",
+          "1,680",
+          "4,800"
+        ],
+        "answer": "D",
+        "explanation": "First filter: 12,000 × 0.35 = 4,200 pass the written test. Second filter, applied only to those 4,200: 4,200 × 0.40 = 1,680 pass the interview too. Option 9,000 is the trap of adding the two percentages (35%+40%=75% of 12,000) instead of applying them as successive filters on a shrinking pool."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στάδιο</th><th>Ποσοστό Επιτυχίας</th></tr><tr><td>Γραπτή εξέταση (από 12.000 υποψηφίους)</td><td>35%</td></tr><tr><td>Συνέντευξη (από όσους πέρασαν τη γραπτή εξέταση)</td><td>40%</td></tr></table><p>Χοάνη Διαδικασίας Πρόσληψης</p>",
+        "question": "Πόσοι από τους αρχικούς 12.000 υποψηφίους περνούν ΚΑΙ τη γραπτή εξέταση ΚΑΙ τη συνέντευξη;",
+        "options": [
+          "2.940",
+          "4.200",
+          "9.000",
+          "1.680",
+          "4.800"
+        ],
+        "answer": "D",
+        "explanation": "Πρώτο φίλτρο: 12.000 × 0,35 = 4.200 περνούν τη γραπτή εξέταση. Δεύτερο φίλτρο, μόνο σε αυτούς τους 4.200: 4.200 × 0,40 = 1.680 περνούν και τη συνέντευξη. Η επιλογή 9.000 είναι η παγίδα πρόσθεσης των δύο ποσοστών (35%+40%=75% του 12.000) αντί εφαρμογής τους ως διαδοχικών φίλτρων σε συρρικνούμενη ομάδα."
+      }
+    },
+    {
+      "id": 5,
+      "en": {
+        "passage": "<table><tr><th>Pack</th><th>Price</th><th>Units per Pack</th></tr><tr><td>Pack A</td><td>€18.60</td><td>24</td></tr><tr><td>Pack B</td><td>€27.60</td><td>36</td></tr></table><p>Office Supplies — Price Comparison</p>",
+        "question": "Which pack offers the better price per unit, and by how much (approximately)?",
+        "options": [
+          "Pack B, at about €0.517/unit",
+          "They cost exactly the same per unit",
+          "Pack B, at about €0.767/unit vs €0.775/unit for Pack A",
+          "Pack A, since its total price is lower",
+          "Pack B, at about €0.700/unit"
+        ],
+        "answer": "C",
+        "explanation": "Price per unit: Pack A = 18.60/24 = €0.775; Pack B = 27.60/36 ≈ €0.767. Pack B is marginally cheaper per unit despite its higher total price — the trap is judging value by the total price shown on the shelf rather than the price per individual unit."
+      },
+      "el": {
+        "passage": "<table><tr><th>Συσκευασία</th><th>Τιμή</th><th>Μονάδες ανά Συσκευασία</th></tr><tr><td>Συσκευασία A</td><td>€18,60</td><td>24</td></tr><tr><td>Συσκευασία B</td><td>€27,60</td><td>36</td></tr></table><p>Γραφική Ύλη — Σύγκριση Τιμών</p>",
+        "question": "Ποια συσκευασία προσφέρει καλύτερη τιμή ανά μονάδα, και κατά πόσο (κατά προσέγγιση);",
+        "options": [
+          "Συσκευασία B, με περίπου €0,517/μονάδα",
+          "Κοστίζουν ακριβώς το ίδιο ανά μονάδα",
+          "Η Συσκευασία B, με περίπου €0,767/μονάδα έναντι €0,775/μονάδα για τη Συσκευασία A",
+          "Η Συσκευασία A, αφού η συνολική τιμή της είναι χαμηλότερη",
+          "Η Συσκευασία B, με περίπου €0,700/μονάδα"
+        ],
+        "answer": "C",
+        "explanation": "Τιμή ανά μονάδα: Συσκευασία A = 18,60/24 = €0,775· Συσκευασία B = 27,60/36 ≈ €0,767. Η Συσκευασία B είναι οριακά φθηνότερη ανά μονάδα παρά την υψηλότερη συνολική τιμή της — η παγίδα είναι η κρίση της αξίας βάσει της συνολικής τιμής αντί της τιμής ανά μεμονωμένη μονάδα."
+      }
+    },
+    {
+      "id": 6,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Planned monthly spend</td><td>€58,000</td></tr><tr><td>Number of months elapsed</td><td>9</td></tr><tr><td>Actual cumulative spend so far</td><td>€540,000</td></tr></table><p>Directorate Annual Budget Monitoring</p>",
+        "question": "Compared to the planned spending schedule, is the directorate over or under budget after 9 months, and by how much?",
+        "options": [
+          "Over budget by €18,000",
+          "Over budget by €36,000",
+          "Exactly on budget",
+          "Under budget by €18,000",
+          "Over budget by €58,000"
+        ],
+        "answer": "A",
+        "explanation": "Planned spend after 9 months: 58,000 × 9 = €522,000. Actual spend: €540,000. Difference: 540,000 − 522,000 = €18,000 over budget. The trap is either forgetting to multiply the monthly figure by the number of months, or reversing the direction of the comparison (over vs under)."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Προγραμματισμένη μηνιαία δαπάνη</td><td>€58.000</td></tr><tr><td>Αριθμός μηνών που πέρασαν</td><td>9</td></tr><tr><td>Πραγματική σωρευτική δαπάνη μέχρι τώρα</td><td>€540.000</td></tr></table><p>Παρακολούθηση Ετήσιου Προϋπολογισμού Διεύθυνσης</p>",
+        "question": "Σε σύγκριση με το προγραμματισμένο χρονοδιάγραμμα δαπανών, η διεύθυνση είναι υπερβαίνει ή υπολείπεται του προϋπολογισμού μετά από 9 μήνες, και κατά πόσο;",
+        "options": [
+          "Υπερβαίνει τον προϋπολογισμό κατά €18.000",
+          "Υπερβαίνει τον προϋπολογισμό κατά €36.000",
+          "Ακριβώς στον προϋπολογισμό",
+          "Υπολείπεται του προϋπολογισμού κατά €18.000",
+          "Υπερβαίνει τον προϋπολογισμό κατά €58.000"
+        ],
+        "answer": "A",
+        "explanation": "Προγραμματισμένη δαπάνη μετά από 9 μήνες: 58.000 × 9 = €522.000. Πραγματική δαπάνη: €540.000. Διαφορά: 540.000 − 522.000 = €18.000 υπέρβαση. Η παγίδα είναι είτε η παράλειψη πολλαπλασιασμού του μηνιαίου ποσού επί τον αριθμό μηνών, είτε η αντιστροφή της κατεύθυνσης της σύγκρισης (υπέρβαση έναντι υπολειπόμενου)."
+      }
+    },
+    {
+      "id": 7,
+      "en": {
+        "passage": "<table><tr><th>Paper</th><th>Score</th></tr><tr><td>Paper 1</td><td>70</td></tr><tr><td>Paper 2</td><td>78</td></tr><tr><td>Paper 3</td><td>74</td></tr><tr><td>Paper 4</td><td>?</td></tr></table><p>Certification Exam — Four Papers</p>",
+        "question": "To achieve an overall average of exactly 75 across all four papers, what score is needed on Paper 4?",
+        "options": [
+          "74",
+          "78",
+          "76",
+          "81",
+          "75"
+        ],
+        "answer": "B",
+        "explanation": "Total points needed for an average of 75 across 4 papers: 75 × 4 = 300. Points already scored: 70+78+74 = 222. Required score on Paper 4: 300 − 222 = 78. Option 75 is the trap of assuming the missing score should simply equal the target average itself."
+      },
+      "el": {
+        "passage": "<table><tr><th>Δοκίμιο</th><th>Βαθμολογία</th></tr><tr><td>Δοκίμιο 1</td><td>70</td></tr><tr><td>Δοκίμιο 2</td><td>78</td></tr><tr><td>Δοκίμιο 3</td><td>74</td></tr><tr><td>Δοκίμιο 4</td><td>?</td></tr></table><p>Εξέταση Πιστοποίησης — Τέσσερα Δοκίμια</p>",
+        "question": "Για την επίτευξη συνολικού μέσου όρου ακριβώς 75 στα τέσσερα δοκίμια, ποια βαθμολογία απαιτείται στο Δοκίμιο 4;",
+        "options": [
+          "74",
+          "78",
+          "76",
+          "81",
+          "75"
+        ],
+        "answer": "B",
+        "explanation": "Απαιτούμενοι βαθμοί για μέσο όρο 75 σε 4 δοκίμια: 75 × 4 = 300. Βαθμοί που έχουν ήδη επιτευχθεί: 70+78+74 = 222. Απαιτούμενη βαθμολογία στο Δοκίμιο 4: 300 − 222 = 78. Η επιλογή 75 είναι η παγίδα της υπόθεσης ότι η ελλείπουσα βαθμολογία πρέπει απλώς να ισούται με τον ίδιο τον στόχο μέσου όρου."
+      }
+    },
+    {
+      "id": 8,
+      "en": {
+        "passage": "<table><tr><th>Event</th><th>Change</th></tr><tr><td>Initial budget cut</td><td>−20%</td></tr></table><p>Departmental Budget Adjustment</p>",
+        "question": "After a 20% budget cut, by what percentage must the new (reduced) budget increase to return exactly to the original amount?",
+        "options": [
+          "23%",
+          "22%",
+          "20%",
+          "25%",
+          "18%"
+        ],
+        "answer": "D",
+        "explanation": "If the original budget is 100, a 20% cut leaves 80. To return to 100 from 80: (100−80)/80 × 100 = 25%. Option 20% is the trap of assuming the recovery percentage must equal the original cut percentage — but since the reduced amount is now a smaller base, a larger percentage increase is needed to reach the same absolute value."
+      },
+      "el": {
+        "passage": "<table><tr><th>Γεγονός</th><th>Μεταβολή</th></tr><tr><td>Αρχική περικοπή προϋπολογισμού</td><td>−20%</td></tr></table><p>Προσαρμογή Προϋπολογισμού Τμήματος</p>",
+        "question": "Μετά από περικοπή 20% του προϋπολογισμού, κατά τι ποσοστό πρέπει να αυξηθεί ο νέος (μειωμένος) προϋπολογισμός για να επιστρέψει ακριβώς στο αρχικό ποσό;",
+        "options": [
+          "23%",
+          "22%",
+          "20%",
+          "25%",
+          "18%"
+        ],
+        "answer": "D",
+        "explanation": "Αν ο αρχικός προϋπολογισμός είναι 100, μια περικοπή 20% αφήνει 80. Για επιστροφή στο 100 από το 80: (100−80)/80 × 100 = 25%. Η επιλογή 20% είναι η παγίδα της υπόθεσης ότι το ποσοστό ανάκαμψης πρέπει να ισούται με το ποσοστό της αρχικής περικοπής — όμως, καθώς το μειωμένο ποσό είναι πλέον μικρότερη βάση, απαιτείται μεγαλύτερο ποσοστό αύξησης για να φτάσει στην ίδια απόλυτη τιμή."
+      }
+    },
+    {
+      "id": 9,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Total population</td><td>2,125,000</td></tr><tr><td>Land area</td><td>850 km²</td></tr></table><p>Regional Population Statistics</p>",
+        "question": "What is the region's population density, in inhabitants per km²?",
+        "options": [
+          "€1.4 billion",
+          "1,806,250",
+          "250",
+          "25,000",
+          "2,500"
+        ],
+        "answer": "E",
+        "explanation": "Population density = total population ÷ area = 2,125,000 ÷ 850 = 2,500 inhabitants per km². Option 1,806,250 is the trap of multiplying the two figures instead of dividing them."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Συνολικός πληθυσμός</td><td>2.125.000</td></tr><tr><td>Έκταση</td><td>850 km²</td></tr></table><p>Περιφερειακά Στατιστικά Πληθυσμού</p>",
+        "question": "Ποια είναι η πυκνότητα πληθυσμού της περιφέρειας, σε κατοίκους ανά km²;",
+        "options": [
+          "€1,4 δισεκατομμύρια",
+          "1.806.250",
+          "250",
+          "25.000",
+          "2.500"
+        ],
+        "answer": "E",
+        "explanation": "Πυκνότητα πληθυσμού = συνολικός πληθυσμός ÷ έκταση = 2.125.000 ÷ 850 = 2.500 κάτοικοι ανά km². Η επιλογή 1.806.250 είναι η παγίδα πολλαπλασιασμού των δύο μεγεθών αντί διαίρεσης."
+      }
+    },
+    {
+      "id": 10,
+      "en": {
+        "passage": "<table><tr><th>Detail</th><th>Value</th></tr><tr><td>Principal</td><td>€15,000</td></tr><tr><td>Annual interest rate (simple)</td><td>4.8%</td></tr><tr><td>Deposit period</td><td>8 months</td></tr></table><p>Short-Term Deposit</p>",
+        "question": "Using simple interest, how much interest does the deposit earn over the 8-month period?",
+        "options": [
+          "€600",
+          "€480",
+          "€1,440",
+          "€720",
+          "€60"
+        ],
+        "answer": "B",
+        "explanation": "Simple interest for a partial year = principal × annual rate × (months/12) = 15,000 × 0.048 × (8/12) = €480. Option €720 is the trap of applying the full annual rate without adjusting for the shorter, 8-month period."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Κεφάλαιο</td><td>€15.000</td></tr><tr><td>Ετήσιο επιτόκιο (απλό)</td><td>4,8%</td></tr><tr><td>Περίοδος κατάθεσης</td><td>8 μήνες</td></tr></table><p>Βραχυπρόθεσμη Κατάθεση</p>",
+        "question": "Με απλό τόκο, πόσο τόκο αποφέρει η κατάθεση κατά την περίοδο των 8 μηνών;",
+        "options": [
+          "€600",
+          "€480",
+          "€1.440",
+          "€720",
+          "€60"
+        ],
+        "answer": "B",
+        "explanation": "Απλός τόκος για μέρος του έτους = κεφάλαιο × ετήσιο επιτόκιο × (μήνες/12) = 15.000 × 0,048 × (8/12) = €480. Η επιλογή €720 είναι η παγίδα εφαρμογής ολόκληρου του ετήσιου επιτοκίου χωρίς προσαρμογή για τη συντομότερη περίοδο των 8 μηνών."
+      }
+    }
+  ],
   "num_1": [
     {
       "en": {
