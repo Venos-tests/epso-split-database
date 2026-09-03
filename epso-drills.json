@@ -874,5 +874,297 @@
         "explanation": "Απλός τόκος για μέρος του έτους = κεφάλαιο × ετήσιο επιτόκιο × (μήνες/12) = 15.000 × 0,048 × (8/12) = €480. Η επιλογή €720 είναι η παγίδα εφαρμογής ολόκληρου του ετήσιου επιτοκίου χωρίς προσαρμογή για τη συντομότερη περίοδο των 8 μηνών."
       }
     }
+  ],
+  "drill_4": [
+    {
+      "id": 1,
+      "en": {
+        "passage": "<table><tr><th>Department</th><th>Annual Budget (EUR)</th></tr><tr><td>HR</td><td>48,000</td></tr><tr><td>IT</td><td>126,000</td></tr><tr><td>Finance</td><td>92,000</td></tr><tr><td>Operations</td><td>234,000</td></tr></table><p>Departmental budget allocation, total = €500,000.</p>",
+        "question": "What percentage of the total budget does the Operations department represent?",
+        "options": [
+          "46.8%",
+          "25.2%",
+          "18.4%",
+          "40.0%",
+          "50.0%"
+        ],
+        "answer": "A",
+        "explanation": "Operations share = 234,000 / 500,000 x 100 = 46.8%. The other percentages are the shares of IT (25.2%) and Finance (18.4%), or rounded guesses - reading the correct row and dividing by the true total is what the question tests."
+      },
+      "el": {
+        "passage": "<table><tr><th>Τμήμα</th><th>Ετήσιος Προϋπολογισμός (ευρώ)</th></tr><tr><td>Ανθρώπινο Δυναμικό</td><td>48.000</td></tr><tr><td>Πληροφορική</td><td>126.000</td></tr><tr><td>Οικονομικά</td><td>92.000</td></tr><tr><td>Επιχειρησιακά</td><td>234.000</td></tr></table><p>Κατανομή προϋπολογισμού ανά τμήμα, σύνολο = €500.000.</p>",
+        "question": "Τι ποσοστό του συνολικού προϋπολογισμού αντιπροσωπεύει το τμήμα Επιχειρησιακών;",
+        "options": [
+          "46,8%",
+          "25,2%",
+          "18,4%",
+          "40,0%",
+          "50,0%"
+        ],
+        "answer": "A",
+        "explanation": "Μερίδιο Επιχειρησιακών = 234.000 / 500.000 x 100 = 46,8%. Τα άλλα ποσοστά είναι τα μερίδια της Πληροφορικής (25,2%) και των Οικονομικών (18,4%), ή στρογγυλεμένες εικασίες - η ερώτηση ελέγχει αν διαβάζεται η σωστή γραμμή και γίνεται διαίρεση με το πραγματικό σύνολο."
+      }
+    },
+    {
+      "id": 2,
+      "en": {
+        "passage": "<table><tr><th>Mode</th><th>Commuters</th></tr><tr><td>Car</td><td>180</td></tr><tr><td>Bus</td><td>120</td></tr><tr><td>Train</td><td>90</td></tr><tr><td>Bike</td><td>60</td></tr></table><p>Staff commuting survey, by mode of transport.</p>",
+        "question": "What is the ratio of Car : Bus : Train : Bike commuters, in simplest whole-number form?",
+        "options": [
+          "180 : 120 : 90 : 60",
+          "12 : 8 : 6 : 4",
+          "6 : 4 : 3 : 2",
+          "9 : 6 : 5 : 3",
+          "3 : 2 : 2 : 1"
+        ],
+        "answer": "C",
+        "explanation": "Dividing all four figures by their greatest common divisor (30) gives 6 : 4 : 3 : 2. 180:120:90:60 is the original, unsimplified figures - the trap for anyone who forgets that a 'ratio in simplest form' must actually be reduced. 12:8:6:4 divides by 15, not enough - still reducible further."
+      },
+      "el": {
+        "passage": "<table><tr><th>Μέσο</th><th>Εργαζόμενοι</th></tr><tr><td>Αυτοκίνητο</td><td>180</td></tr><tr><td>Λεωφορείο</td><td>120</td></tr><tr><td>Τρένο</td><td>90</td></tr><tr><td>Ποδήλατο</td><td>60</td></tr></table><p>Έρευνα μετακίνησης προσωπικού, ανά μέσο μεταφοράς.</p>",
+        "question": "Ποια είναι η αναλογία Αυτοκίνητο : Λεωφορείο : Τρένο : Ποδήλατο, στην απλούστερη ακέραια μορφή;",
+        "options": [
+          "180 : 120 : 90 : 60",
+          "12 : 8 : 6 : 4",
+          "6 : 4 : 3 : 2",
+          "9 : 6 : 5 : 3",
+          "3 : 2 : 2 : 1"
+        ],
+        "answer": "C",
+        "explanation": "Διαιρώντας και τους τέσσερις αριθμούς με το μέγιστο κοινό διαιρέτη τους (30) προκύπτει 6 : 4 : 3 : 2. Το 180:120:90:60 είναι τα αρχικά, μη απλοποιημένα νούμερα - η παγίδα για όποιον ξεχνά ότι μια «αναλογία σε απλούστερη μορφή» πρέπει να αναχθεί πλήρως. Το 12:8:6:4 διαιρείται με το 15, όχι αρκετά - εξακολουθεί να μπορεί να απλοποιηθεί περαιτέρω."
+      }
+    },
+    {
+      "id": 3,
+      "en": {
+        "passage": "<table><tr><th>Leg</th><th>Distance (km)</th><th>Time (hours)</th></tr><tr><td>Leg 1</td><td>84</td><td>1.2</td></tr><tr><td>Leg 2</td><td>54</td><td>0.9</td></tr></table><p>A delivery van's two-leg journey.</p>",
+        "question": "What was the van's average speed over the whole journey?",
+        "options": [
+          "65.0 km/h",
+          "65.7 km/h",
+          "70.0 km/h",
+          "60.0 km/h",
+          "67.0 km/h"
+        ],
+        "answer": "B",
+        "explanation": "Overall average speed = total distance / total time = (84+54) / (1.2+0.9) = 138/2.1 = 65.7 km/h. Simply averaging the two leg speeds (70.0 and 60.0 km/h) gives 65.0 km/h - close, but wrong, because it ignores that the two legs took different amounts of time."
+      },
+      "el": {
+        "passage": "<table><tr><th>Σκέλος</th><th>Απόσταση (χλμ.)</th><th>Χρόνος (ώρες)</th></tr><tr><td>Σκέλος 1</td><td>84</td><td>1,2</td></tr><tr><td>Σκέλος 2</td><td>54</td><td>0,9</td></tr></table><p>Διαδρομή φορτηγού διανομής σε δύο σκέλη.</p>",
+        "question": "Ποια ήταν η μέση ταχύτητα του φορτηγού σε ολόκληρη τη διαδρομή;",
+        "options": [
+          "65,0 χλμ./ώ",
+          "65,7 χλμ./ώ",
+          "70,0 χλμ./ώ",
+          "60,0 χλμ./ώ",
+          "67,0 χλμ./ώ"
+        ],
+        "answer": "B",
+        "explanation": "Η συνολική μέση ταχύτητα = συνολική απόσταση / συνολικός χρόνος = (84+54) / (1,2+0,9) = 138/2,1 = 65,7 χλμ./ώ. Ο απλός μέσος όρος των δύο ταχυτήτων σκέλους (70,0 και 60,0 χλμ./ώ) δίνει 65,0 χλμ./ώ - κοντά, αλλά λάθος, επειδή αγνοεί ότι τα δύο σκέλη διήρκεσαν διαφορετικό χρόνο."
+      }
+    },
+    {
+      "id": 4,
+      "en": {
+        "passage": "<table><tr><th>Pack</th><th>Price</th><th>Total Volume</th></tr><tr><td>Pack A</td><td>€3.60</td><td>6 x 500 ml</td></tr><tr><td>Pack B</td><td>€4.20</td><td>6 liters</td></tr></table><p>Two bottled-water pack options.</p>",
+        "question": "Which pack offers the lower price per liter?",
+        "options": [
+          "Pack A, at €1.20/liter",
+          "They cost the same per liter",
+          "Pack A, at €0.70/liter",
+          "Pack B, at €0.70/liter",
+          "Pack B, at €1.20/liter"
+        ],
+        "answer": "D",
+        "explanation": "Pack A: 6 x 500 ml = 3 liters total, so €3.60 / 3 = €1.20/liter. Pack B: €4.20 / 6 liters = €0.70/liter. Pack B is cheaper per liter, despite having the higher sticker price (€4.20 vs €3.60) - the trap is comparing sticker prices instead of converting Pack A's volume to liters first."
+      },
+      "el": {
+        "passage": "<table><tr><th>Συσκευασία</th><th>Τιμή</th><th>Συνολικός Όγκος</th></tr><tr><td>Συσκευασία A</td><td>€3,60</td><td>6 x 500 ml</td></tr><tr><td>Συσκευασία B</td><td>€4,20</td><td>6 λίτρα</td></tr></table><p>Δύο επιλογές συσκευασίας εμφιαλωμένου νερού.</p>",
+        "question": "Ποια συσκευασία προσφέρει τη χαμηλότερη τιμή ανά λίτρο;",
+        "options": [
+          "Συσκευασία A, με €1,20/λίτρο",
+          "Κοστίζουν το ίδιο ανά λίτρο",
+          "Συσκευασία A, με €0,70/λίτρο",
+          "Συσκευασία B, με €0,70/λίτρο",
+          "Συσκευασία B, με €1,20/λίτρο"
+        ],
+        "answer": "D",
+        "explanation": "Συσκευασία A: 6 x 500 ml = 3 λίτρα συνολικά, άρα €3,60 / 3 = €1,20/λίτρο. Συσκευασία B: €4,20 / 6 λίτρα = €0,70/λίτρο. Η Συσκευασία B είναι φθηνότερη ανά λίτρο, παρότι έχει την υψηλότερη τιμή ετικέτας (€4,20 έναντι €3,60) - η παγίδα είναι να συγκριθούν οι τιμές ετικέτας αντί να μετατραπεί πρώτα ο όγκος της Συσκευασίας A σε λίτρα."
+      }
+    },
+    {
+      "id": 5,
+      "en": {
+        "passage": "<table><tr><th>Item</th><th>Value</th></tr><tr><td>Cost price</td><td>€64.00</td></tr><tr><td>Markup</td><td>35%</td></tr></table><p>Retail pricing calculation.</p>",
+        "question": "What is the final selling price after applying the 35% markup to the cost price?",
+        "options": [
+          "€22.40",
+          "€86.40",
+          "€96.00",
+          "€83.20",
+          "€76.80"
+        ],
+        "answer": "B",
+        "explanation": "Selling price = cost price + markup = €64.00 + (€64.00 x 0.35) = €64.00 + €22.40 = €86.40. €22.40 is the trap - it's only the markup AMOUNT, not the final selling price; forgetting to add it back to the cost price is a very common slip."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Τιμή κόστους</td><td>€64,00</td></tr><tr><td>Περιθώριο κέρδους (markup)</td><td>35%</td></tr></table><p>Υπολογισμός λιανικής τιμής.</p>",
+        "question": "Ποια είναι η τελική τιμή πώλησης μετά την εφαρμογή του markup 35% στην τιμή κόστους;",
+        "options": [
+          "€22,40",
+          "€86,40",
+          "€96,00",
+          "€83,20",
+          "€76,80"
+        ],
+        "answer": "B",
+        "explanation": "Τιμή πώλησης = τιμή κόστους + markup = €64,00 + (€64,00 x 0,35) = €64,00 + €22,40 = €86,40. Το €22,40 είναι η παγίδα - είναι μόνο το ΠΟΣΟ του markup, όχι η τελική τιμή πώλησης· η παράλειψη προσθήκης του στην τιμή κόστους είναι πολύ συνηθισμένο λάθος."
+      }
+    },
+    {
+      "id": 6,
+      "en": {
+        "passage": "<table><tr><th>Department</th><th>Headcount</th></tr><tr><td>Sales</td><td>342</td></tr><tr><td>Support</td><td>287</td></tr></table><p>Current headcount by department.</p>",
+        "question": "How many MORE staff does the Sales department have than Support?",
+        "options": [
+          "55",
+          "629",
+          "342",
+          "287",
+          "45"
+        ],
+        "answer": "A",
+        "explanation": "342 - 287 = 55. Adding instead of subtracting (342+287=629) is the trap - a fast reader can mistake 'how many more' for a request to combine the two figures rather than find their difference."
+      },
+      "el": {
+        "passage": "<table><tr><th>Τμήμα</th><th>Προσωπικό</th></tr><tr><td>Πωλήσεις</td><td>342</td></tr><tr><td>Υποστήριξη</td><td>287</td></tr></table><p>Τρέχον προσωπικό ανά τμήμα.</p>",
+        "question": "Πόσο ΠΕΡΙΣΣΟΤΕΡΟ προσωπικό έχει το τμήμα Πωλήσεων σε σχέση με την Υποστήριξη;",
+        "options": [
+          "55",
+          "629",
+          "342",
+          "287",
+          "45"
+        ],
+        "answer": "A",
+        "explanation": "342 - 287 = 55. Η πρόσθεση αντί της αφαίρεσης (342+287=629) είναι η παγίδα - ένας βιαστικός αναγνώστης μπορεί να μπερδέψει το «πόσο περισσότερο» με αίτημα συνδυασμού των δύο αριθμών αντί εύρεσης της διαφοράς τους."
+      }
+    },
+    {
+      "id": 7,
+      "en": {
+        "passage": "<table><tr><th>Item</th><th>Value</th></tr><tr><td>Staff who attended training</td><td>63</td></tr><tr><td>This represents</td><td>18% of all staff</td></tr></table><p>Company-wide training attendance.</p>",
+        "question": "What is the total number of staff at the company?",
+        "options": [
+          "45",
+          "11",
+          "333",
+          "350",
+          "81"
+        ],
+        "answer": "D",
+        "explanation": "Total staff = 63 / 0.18 = 350. Multiplying instead of dividing (63 x 0.18 = 11.3, rounded to 11) is the trap - and is a good self-check flag too, since a 'total staff' figure smaller than the 63 who attended cannot be correct."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Τιμή</th></tr><tr><td>Προσωπικό που παρακολούθησε</td><td>63</td></tr><tr><td>Αυτό αντιπροσωπεύει</td><td>18% του συνόλου</td></tr></table><p>Συμμετοχή σε εκπαίδευση σε επίπεδο εταιρείας.</p>",
+        "question": "Ποιος είναι ο συνολικός αριθμός προσωπικού της εταιρείας;",
+        "options": [
+          "45",
+          "11",
+          "333",
+          "350",
+          "81"
+        ],
+        "answer": "D",
+        "explanation": "Συνολικό προσωπικό = 63 / 0,18 = 350. Ο πολλαπλασιασμός αντί της διαίρεσης (63 x 0,18 = 11,3, στρογγυλοποιημένο σε 11) είναι η παγίδα - και αποτελεί καλό σημείο αυτοελέγχου, αφού ένα «συνολικό προσωπικό» μικρότερο από τους 63 που παρακολούθησαν δεν μπορεί να είναι σωστό."
+      }
+    },
+    {
+      "id": 8,
+      "en": {
+        "passage": "<table><tr><th>Plan</th><th>Fixed Fee</th><th>Cost per Unit</th></tr><tr><td>Plan A</td><td>€25.00</td><td>€0.08</td></tr><tr><td>Plan B</td><td>€10.00</td><td>€0.14</td></tr></table><p>Two subscription pricing plans.</p>",
+        "question": "At how many units of usage do the two plans cost exactly the same?",
+        "options": [
+          "150 units",
+          "190 units",
+          "300 units",
+          "350 units",
+          "250 units"
+        ],
+        "answer": "E",
+        "explanation": "Set the two costs equal: 25 + 0.08x = 10 + 0.14x. Rearranging: 15 = 0.06x, so x = 250 units. Below 250 units Plan B is cheaper (lower fixed fee dominates); above 250 units Plan A becomes cheaper (its lower per-unit rate dominates)."
+      },
+      "el": {
+        "passage": "<table><tr><th>Πρόγραμμα</th><th>Πάγιο Τέλος</th><th>Κόστος ανά Μονάδα</th></tr><tr><td>Πρόγραμμα A</td><td>€25,00</td><td>€0,08</td></tr><tr><td>Πρόγραμμα B</td><td>€10,00</td><td>€0,14</td></tr></table><p>Δύο προγράμματα τιμολόγησης συνδρομής.</p>",
+        "question": "Σε πόσες μονάδες χρήσης τα δύο προγράμματα κοστίζουν ακριβώς το ίδιο;",
+        "options": [
+          "150 μονάδες",
+          "190 μονάδες",
+          "300 μονάδες",
+          "350 μονάδες",
+          "250 μονάδες"
+        ],
+        "answer": "E",
+        "explanation": "Εξισώνοντας τα δύο κόστη: 25 + 0,08x = 10 + 0,14x. Αναδιατάσσοντας: 15 = 0,06x, άρα x = 250 μονάδες. Κάτω από 250 μονάδες το Πρόγραμμα B είναι φθηνότερο (κυριαρχεί το χαμηλότερο πάγιο)· πάνω από 250 μονάδες το Πρόγραμμα A γίνεται φθηνότερο (κυριαρχεί το χαμηλότερο κόστος ανά μονάδα)."
+      }
+    },
+    {
+      "id": 9,
+      "en": {
+        "passage": "<table><tr><th>Branch</th><th>Avg. Rating (out of 5)</th><th>Number of Responses</th></tr><tr><td>North</td><td>4.2</td><td>140</td></tr><tr><td>South</td><td>3.8</td><td>95</td></tr><tr><td>East</td><td>4.5</td><td>60</td></tr></table><p>Customer satisfaction survey results by branch.</p>",
+        "question": "What is the overall average satisfaction rating across all three branches, weighted by number of responses?",
+        "options": [
+          "4.20",
+          "3.80",
+          "4.13",
+          "4.50",
+          "4.17"
+        ],
+        "answer": "C",
+        "explanation": "Weighted average = (4.2x140 + 3.8x95 + 4.5x60) / (140+95+60) = 1,206.5 / 295 = 4.13. Simply averaging the three branch ratings without weighting (4.2+3.8+4.5)/3 = 4.17 is the trap - it treats East's 60 responses as equally important as North's 140."
+      },
+      "el": {
+        "passage": "<table><tr><th>Κατάστημα</th><th>Μέση Βαθμολογία (από 5)</th><th>Αριθμός Απαντήσεων</th></tr><tr><td>Βόρειο</td><td>4,2</td><td>140</td></tr><tr><td>Νότιο</td><td>3,8</td><td>95</td></tr><tr><td>Ανατολικό</td><td>4,5</td><td>60</td></tr></table><p>Αποτελέσματα έρευνας ικανοποίησης πελατών ανά κατάστημα.</p>",
+        "question": "Ποια είναι η συνολική μέση βαθμολογία ικανοποίησης και στα τρία καταστήματα, σταθμισμένη ως προς τον αριθμό απαντήσεων;",
+        "options": [
+          "4,20",
+          "3,80",
+          "4,13",
+          "4,50",
+          "4,17"
+        ],
+        "answer": "C",
+        "explanation": "Σταθμισμένος μέσος όρος = (4,2x140 + 3,8x95 + 4,5x60) / (140+95+60) = 1.206,5 / 295 = 4,13. Ο απλός μέσος όρος των τριών βαθμολογιών χωρίς στάθμιση (4,2+3,8+4,5)/3 = 4,17 είναι η παγίδα - αντιμετωπίζει τις 60 απαντήσεις του Ανατολικού ως εξίσου σημαντικές με τις 140 του Βόρειου."
+      }
+    },
+    {
+      "id": 10,
+      "en": {
+        "passage": "<table><tr><th>Item</th><th>Cost per Day</th><th>Days</th></tr><tr><td>Accommodation</td><td>€85</td><td>3</td></tr><tr><td>Food</td><td>€42</td><td>3</td></tr><tr><td>Transport (one-off)</td><td>€65</td><td>-</td></tr></table><p>Three-day work-trip budget.</p>",
+        "question": "What is the total cost of the three-day trip?",
+        "options": [
+          "€381",
+          "€510",
+          "€317",
+          "€400",
+          "€446"
+        ],
+        "answer": "E",
+        "explanation": "Total = (€85x3) + (€42x3) + €65 = €255 + €126 + €65 = €446. €381 comes from forgetting the one-off transport cost; €317 comes from forgetting the food cost - both trap for readers who miss that transport is a single flat charge, not a daily one."
+      },
+      "el": {
+        "passage": "<table><tr><th>Στοιχείο</th><th>Κόστος ανά Ημέρα</th><th>Ημέρες</th></tr><tr><td>Διαμονή</td><td>€85</td><td>3</td></tr><tr><td>Διατροφή</td><td>€42</td><td>3</td></tr><tr><td>Μεταφορά (εφάπαξ)</td><td>€65</td><td>-</td></tr></table><p>Προϋπολογισμός τριήμερης επαγγελματικής μετακίνησης.</p>",
+        "question": "Ποιο είναι το συνολικό κόστος της τριήμερης μετακίνησης;",
+        "options": [
+          "€381",
+          "€510",
+          "€317",
+          "€400",
+          "€446"
+        ],
+        "answer": "E",
+        "explanation": "Σύνολο = (€85x3) + (€42x3) + €65 = €255 + €126 + €65 = €446. Το €381 προκύπτει από παράλειψη του εφάπαξ κόστους μεταφοράς· το €317 προκύπτει από παράλειψη του κόστους διατροφής - και τα δύο παγίδες για όποιον παραβλέπει ότι η μεταφορά είναι μία εφάπαξ χρέωση, όχι ημερήσια."
+      }
+    }
   ]
 }
