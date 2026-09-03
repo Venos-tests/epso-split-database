@@ -2454,792 +2454,492 @@
         ],
         "answer": 4,
         "explanation": "Ανώτατο όριο σε τιμές 2024: 1.074.300×(1,02)^4=1.162.856,87 εκατ. Υπέρβαση: 1.205.600−1.162.856,87=42.743,13 εκατ. Μετά την απορρόφηση έως €28.400 εκατ. από το Μέσο Ευελιξίας: 42.743,13−28.400=14.343,13 εκατ. Παγίδες: παράλειψη αναπροσαρμογής του ορίου του 2020 δίνει 102.900,00 εκατ.· παράλειψη του Μέσου Ευελιξίας δίνει 42.743,13 εκατ.· αφαίρεση του ανωτάτου ορίου ευελιξίας από το όριο αντί από την υπέρβαση δίνει 71.143,13 εκατ.· σύνθεση του αποπληθωριστή για 3 έτη αντί για 4 δίνει 37.144,25 εκατ."
-      }
+       }
     }
   ],
   "num_10": [
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Renewable Energy Share of Electricity Consumption (2020–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2020 (%)</th><th>2022 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Poland</strong></td><td>15</td><td>16</td><td>18</td></tr><tr><td><strong>Portugal</strong></td><td>52</td><td>58</td><td>64</td></tr><tr><td><strong>Austria</strong></td><td>74</td><td>76</td><td>79</td></tr><tr><td><strong>Romania</strong></td><td>24</td><td>27</td><td>29</td></tr></tbody></table>",
-        "question": "1. Which country recorded the greatest percentage (not percentage point) increase in renewable energy share between 2020 and 2024?",
-        "options": [
-          "Romania",
-          "Portugal",
-          "Poland",
-          "Austria"
-        ],
-        "answer": 1,
-        "explanation": "Percentage change = (new−old)/old × 100. Poland: 3/15=20.0%. Portugal: 12/52≈23.1%. Austria: 5/74≈6.8%. Romania: 5/24≈20.8%. Portugal has the highest percentage change. Note that Portugal also happens to have the largest percentage-point gain (12) here, so the question checks whether candidates verify the actual calculation rather than assume the two metrics always point the same way."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ποσοστό Ανανεώσιμων Πηγών στην Κατανάλωση Ηλεκτρικής Ενέργειας (2020–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2020 (%)</th><th>2022 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Πολωνία</strong></td><td>15</td><td>16</td><td>18</td></tr><tr><td><strong>Πορτογαλία</strong></td><td>52</td><td>58</td><td>64</td></tr><tr><td><strong>Αυστρία</strong></td><td>74</td><td>76</td><td>79</td></tr><tr><td><strong>Ρουμανία</strong></td><td>24</td><td>27</td><td>29</td></tr></tbody></table>",
-        "question": "1. Ποια χώρα κατέγραψε τη μεγαλύτερη ποσοστιαία (όχι σε ποσοστιαίες μονάδες) αύξηση στο μερίδιο ανανεώσιμων πηγών μεταξύ 2020 και 2024;",
-        "options": [
-          "Ρουμανία",
-          "Πορτογαλία",
-          "Πολωνία",
-          "Αυστρία"
-        ],
-        "answer": 1,
-        "explanation": "Ποσοστιαία μεταβολή = (νέο−παλιό)/παλιό × 100. Πολωνία: 3/15=20,0%. Πορτογαλία: 12/52≈23,1%. Αυστρία: 5/74≈6,8%. Ρουμανία: 5/24≈20,8%. Η Πορτογαλία έχει τη μεγαλύτερη ποσοστιαία μεταβολή. Εδώ συμπίπτει να έχει και τη μεγαλύτερη αύξηση σε ποσοστιαίες μονάδες (12), οπότε η ερώτηση ελέγχει αν οι υποψήφιοι επαληθεύουν τον πραγματικό υπολογισμό αντί να υποθέτουν ότι οι δύο δείκτες συμπίπτουν πάντα."
-      }
+    {     
+    "en": {
+      "passage 1": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Germany</td><td>2.6%</td><td>1.4%</td><td>-0.3%</td><td>0.2%</td></tr><tr><td>France</td><td>6.4%</td><td>2.6%</td><td>0.9%</td><td>1.1%</td></tr><tr><td>Italy</td><td>8.3%</td><td>3.9%</td><td>0.7%</td><td>0.7%</td></tr><tr><td>Spain</td><td>6.4%</td><td>5.8%</td><td>2.7%</td><td>3.2%</td></tr><tr><td>Poland</td><td>6.9%</td><td>5.1%</td><td>0.2%</td><td>2.9%</td></tr></table><p>The table shows annual real GDP growth rates for five EU Member States, 2021-2024.</p>",
+      "question": "Which country recorded the highest AVERAGE annual GDP growth rate over the four-year period 2021-2024?",
+      "options": ["Germany", "France", "Italy", "Poland", "Spain"],
+      "answer": "E",
+      "explanation": "Averages: Germany 0.98%, France 2.75%, Italy 3.40%, Poland 3.78%, Spain 4.53%. Spain has the highest four-year average despite Italy posting the single highest individual-year figure (8.3% in 2021) - the trap is picking the country with the largest number visible in the table rather than computing the actual average."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Patent Examination Quality Score by Office (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Office</th><th>Examiners</th><th>Average Quality Score (0–10)</th></tr></thead><tbody><tr><td><strong>Office A</strong></td><td>340</td><td>7.8</td></tr><tr><td><strong>Office B</strong></td><td>210</td><td>8.4</td></tr><tr><td><strong>Office C</strong></td><td>150</td><td>6.9</td></tr></tbody></table>",
-        "question": "2. What is the weighted average quality score across all three offices, to two decimal places?",
-        "options": [
-          "7.85",
-          "8.03",
-          "7.79",
-          "7.70"
-        ],
-        "answer": 2,
-        "explanation": "Weighted average = Σ(examiners × score) / Σ(examiners) = (340×7.8 + 210×8.4 + 150×6.9) / 700 = 5,451/700 = 7.787 ≈ 7.79. Option 7.70 is the simple (unweighted) average trap: (7.8+8.4+6.9)/3 = 7.70 — it ignores that Office A, with the most examiners, should carry the most weight."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Βαθμολογία Ποιότητας Εξέτασης Διπλωμάτων Ευρεσιτεχνίας ανά Γραφείο (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Γραφείο</th><th>Εξεταστές</th><th>Μέση Βαθμολογία Ποιότητας (0–10)</th></tr></thead><tbody><tr><td><strong>Γραφείο A</strong></td><td>340</td><td>7,8</td></tr><tr><td><strong>Γραφείο B</strong></td><td>210</td><td>8,4</td></tr><tr><td><strong>Γραφείο C</strong></td><td>150</td><td>6,9</td></tr></tbody></table>",
-        "question": "2. Ποια είναι η σταθμισμένη μέση βαθμολογία ποιότητας και στα τρία γραφεία, με δύο δεκαδικά;",
-        "options": [
-          "7,85",
-          "8,03",
-          "7,79",
-          "7,70"
-        ],
-        "answer": 2,
-        "explanation": "Σταθμισμένος μέσος = Σ(εξεταστές × βαθμολογία) / Σ(εξεταστές) = (340×7,8 + 210×8,4 + 150×6,9) / 700 = 5.451/700 = 7,787 ≈ 7,79. Η επιλογή 7,70 είναι η παγίδα του απλού (μη σταθμισμένου) μέσου: (7,8+8,4+6,9)/3 = 7,70 — αγνοεί ότι το Γραφείο A, με τους περισσότερους εξεταστές, πρέπει να έχει το μεγαλύτερο βάρος."
-      }
+    "el": {
+      "passage 1": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Γερμανία</td><td>2,6%</td><td>1,4%</td><td>-0,3%</td><td>0,2%</td></tr><tr><td>Γαλλία</td><td>6,4%</td><td>2,6%</td><td>0,9%</td><td>1,1%</td></tr><tr><td>Ιταλία</td><td>8,3%</td><td>3,9%</td><td>0,7%</td><td>0,7%</td></tr><tr><td>Ισπανία</td><td>6,4%</td><td>5,8%</td><td>2,7%</td><td>3,2%</td></tr><tr><td>Πολωνία</td><td>6,9%</td><td>5,1%</td><td>0,2%</td><td>2,9%</td></tr></table><p>Ο πίνακας παρουσιάζει τους ετήσιους πραγματικούς ρυθμούς ανάπτυξης του ΑΕΠ για πέντε κράτη μέλη της ΕΕ, 2021-2024.</p>",
+      "question": "Ποια χώρα κατέγραψε τον υψηλότερο ΜΕΣΟ ετήσιο ρυθμό ανάπτυξης του ΑΕΠ κατά την τετραετία 2021-2024;",
+      "options": ["Γερμανία", "Γαλλία", "Ιταλία", "Πολωνία", "Ισπανία"],
+      "answer": "E",
+      "explanation": "Μέσοι όροι: Γερμανία 0,98%, Γαλλία 2,75%, Ιταλία 3,40%, Πολωνία 3,78%, Ισπανία 4,53%. Η Ισπανία έχει τον υψηλότερο μέσο όρο τετραετίας, παρότι η Ιταλία εμφανίζει τη μεγαλύτερη μεμονωμένη τιμή (8,3% το 2021) - η παγίδα είναι να επιλεγεί η χώρα με τον μεγαλύτερο αριθμό που φαίνεται στον πίνακα αντί να υπολογιστεί ο πραγματικός μέσος όρος."
+    }
+  },
+  {
+    "en": {
+      "passage 2": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Belgium</td><td>108.2%</td><td>105.1%</td><td>105.2%</td><td>104.7%</td></tr><tr><td>Greece</td><td>172.7%</td><td>159.6%</td><td>153.9%</td><td>148.6%</td></tr><tr><td>Portugal</td><td>124.5%</td><td>111.4%</td><td>97.7%</td><td>91.1%</td></tr><tr><td>Ireland</td><td>55.4%</td><td>44.7%</td><td>43.0%</td><td>40.2%</td></tr></table><p>Government debt-to-GDP ratio, 2021-2024.</p>",
+      "question": "Which country achieved the largest RELATIVE (percentage) reduction in its debt-to-GDP ratio between 2021 and 2024?",
+      "options": ["Ireland", "Belgium", "Greece", "Portugal", "None of the above"],
+      "answer": "A",
+      "explanation": "Relative reduction = (2021 value - 2024 value) / 2021 value. Ireland: (55.4-40.2)/55.4 = 27.4%. Portugal: (124.5-91.1)/124.5 = 26.8%. Portugal has the largest reduction in percentage POINTS (33.4 pp vs Ireland's 15.2 pp), which is the trap - but Ireland's smaller starting base gives it the largest relative (percentage) reduction."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Household Waste Recycling Rate by Region (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Region</th><th>Population (thousands)</th><th>Recycling Rate (%)</th></tr></thead><tbody><tr><td><strong>Region A</strong></td><td>180</td><td>62</td></tr><tr><td><strong>Region B</strong></td><td>140</td><td>71</td></tr><tr><td><strong>Region C</strong></td><td>100</td><td>?</td></tr><tr><td><strong>Overall weighted average</strong></td><td>420</td><td>65</td></tr></tbody></table>",
-        "question": "3. Given the overall weighted average recycling rate of 65%, what must Region C's recycling rate be?",
-        "options": [
-          "65%",
-          "58%",
-          "68%",
-          "62%"
-        ],
-        "answer": 3,
-        "explanation": "Step 1 — total points needed: 420 × 65 = 27,300. Step 2 — points already accounted for: (180×62) + (140×71) = 11,160 + 9,940 = 21,100. Step 3 — missing points: 27,300 − 21,100 = 6,200. Step 4 — Region C's rate: 6,200 / 100 = 62%. Option 65% is the trap for candidates who simply assume the missing region matches the overall average."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ποσοστό Ανακύκλωσης Οικιακών Αποβλήτων ανά Περιφέρεια (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Περιφέρεια</th><th>Πληθυσμός (χιλ.)</th><th>Ποσοστό Ανακύκλωσης (%)</th></tr></thead><tbody><tr><td><strong>Περιφέρεια A</strong></td><td>180</td><td>62</td></tr><tr><td><strong>Περιφέρεια B</strong></td><td>140</td><td>71</td></tr><tr><td><strong>Περιφέρεια Γ</strong></td><td>100</td><td>?</td></tr><tr><td><strong>Συνολικός σταθμισμένος μέσος</strong></td><td>420</td><td>65</td></tr></tbody></table>",
-        "question": "3. Δεδομένου του συνολικού σταθμισμένου μέσου ποσοστού ανακύκλωσης 65%, ποιο πρέπει να είναι το ποσοστό ανακύκλωσης της Περιφέρειας Γ;",
-        "options": [
-          "65%",
-          "58%",
-          "68%",
-          "62%"
-        ],
-        "answer": 3,
-        "explanation": "Βήμα 1 — απαιτούμενοι βαθμοί: 420 × 65 = 27.300. Βήμα 2 — ήδη γνωστοί βαθμοί: (180×62) + (140×71) = 11.160 + 9.940 = 21.100. Βήμα 3 — ελλείποντες βαθμοί: 27.300 − 21.100 = 6.200. Βήμα 4 — ποσοστό Περιφέρειας Γ: 6.200 / 100 = 62%. Η επιλογή 65% είναι η παγίδα για όσους υποθέτουν απλώς ότι η ελλείπουσα περιφέρεια ταυτίζεται με τον συνολικό μέσο όρο."
-      }
+    "el": {
+      "passage 2": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Βέλγιο</td><td>108,2%</td><td>105,1%</td><td>105,2%</td><td>104,7%</td></tr><tr><td>Ελλάδα</td><td>172,7%</td><td>159,6%</td><td>153,9%</td><td>148,6%</td></tr><tr><td>Πορτογαλία</td><td>124,5%</td><td>111,4%</td><td>97,7%</td><td>91,1%</td></tr><tr><td>Ιρλανδία</td><td>55,4%</td><td>44,7%</td><td>43,0%</td><td>40,2%</td></tr></table><p>Λόγος δημόσιου χρέους προς ΑΕΠ, 2021-2024.</p>",
+      "question": "Ποια χώρα πέτυχε τη μεγαλύτερη ΣΧΕΤΙΚΗ (ποσοστιαία) μείωση του λόγου χρέους προς ΑΕΠ μεταξύ 2021 και 2024;",
+      "options": ["Ιρλανδία", "Βέλγιο", "Ελλάδα", "Πορτογαλία", "Κανένα από τα παραπάνω"],
+      "answer": "A",
+      "explanation": "Σχετική μείωση = (τιμή 2021 - τιμή 2024) / τιμή 2021. Ιρλανδία: (55,4-40,2)/55,4 = 27,4%. Πορτογαλία: (124,5-91,1)/124,5 = 26,8%. Η Πορτογαλία έχει τη μεγαλύτερη μείωση σε ΠΟΣΟΣΤΙΑΙΕΣ ΜΟΝΑΔΕΣ (33,4 ν.μ. έναντι 15,2 ν.μ. της Ιρλανδίας) - αυτή είναι η παγίδα - αλλά η μικρότερη αρχική βάση της Ιρλανδίας της δίνει τη μεγαλύτερη σχετική (ποσοστιαία) μείωση."
+    }
+  },
+  {
+    "en": {
+      "passage 3": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Netherlands</td><td>62.5</td><td>58.1</td><td>71.3</td><td>68.9</td></tr><tr><td>Germany</td><td>172.3</td><td>84.6</td><td>195.8</td><td>210.4</td></tr><tr><td>Ireland</td><td>55.8</td><td>61.2</td><td>48.5</td><td>52.1</td></tr><tr><td>Greece</td><td>-28.4</td><td>-31.2</td><td>-26.7</td><td>-24.9</td></tr></table><p>Trade balance (exports minus imports, EUR billion), 2021-2024.</p>",
+      "question": "By how much did the COMBINED trade balance of all four countries change between 2022 and 2023?",
+      "options": ["+€90.4 billion", "+€111.2 billion", "+€105.0 billion", "+€116.2 billion", "+€128.7 billion"],
+      "answer": "D",
+      "explanation": "Combined balance 2022 = 58.1+84.6+61.2-31.2 = €172.7bn. Combined balance 2023 = 71.3+195.8+48.5-26.7 = €288.9bn. Change = +€116.2bn. Germany's own change (195.8-84.6=€111.2bn) is the trap for readers who compute only the largest single row instead of summing all four countries first."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Annual Budget and Administrative Cost Share by Agency (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Agency</th><th>Total Budget (€ million)</th><th>Administrative Cost (% of budget)</th></tr></thead><tbody><tr><td><strong>Agency X</strong></td><td>48</td><td>22%</td></tr><tr><td><strong>Agency Y</strong></td><td>65</td><td>14%</td></tr></tbody></table>",
-        "question": "4. What is the ratio of Agency X's administrative cost to Agency Y's administrative cost, in euros?",
-        "options": [
-          "7 : 6",
-          "3 : 2",
-          "1 : 1",
-          "11 : 7"
-        ],
-        "answer": 0,
-        "explanation": "Agency X's admin cost: 48 × 0.22 = €10.56m. Agency Y's admin cost: 65 × 0.14 = €9.10m. Ratio: 10.56 : 9.10 ≈ 1.16 : 1, which simplifies to 7 : 6. The trap is comparing the percentages directly (22% vs 14%, roughly 11:7) instead of applying each percentage to its own, different total budget first."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ετήσιος Προϋπολογισμός και Μερίδιο Διοικητικού Κόστους ανά Οργανισμό (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Οργανισμός</th><th>Συνολικός Προϋπολογισμός (€ εκατ.)</th><th>Διοικητικό Κόστος (% προϋπολογισμού)</th></tr></thead><tbody><tr><td><strong>Οργανισμός X</strong></td><td>48</td><td>22%</td></tr><tr><td><strong>Οργανισμός Y</strong></td><td>65</td><td>14%</td></tr></tbody></table>",
-        "question": "4. Ποιος είναι ο λόγος του διοικητικού κόστους του Οργανισμού X προς εκείνο του Οργανισμού Y, σε ευρώ;",
-        "options": [
-          "7 : 6",
-          "3 : 2",
-          "1 : 1",
-          "11 : 7"
-        ],
-        "answer": 0,
-        "explanation": "Διοικητικό κόστος Οργανισμού X: 48 × 0,22 = €10,56εκ. Διοικητικό κόστος Οργανισμού Y: 65 × 0,14 = €9,10εκ. Λόγος: 10,56 : 9,10 ≈ 1,16 : 1, που απλοποιείται σε 7 : 6. Η παγίδα είναι η απευθείας σύγκριση των ποσοστών (22% έναντι 14%, περίπου 11:7) αντί της εφαρμογής κάθε ποσοστού στον δικό του, διαφορετικό συνολικό προϋπολογισμό."
-      }
+    "el": {
+      "passage 3": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Ολλανδία</td><td>62,5</td><td>58,1</td><td>71,3</td><td>68,9</td></tr><tr><td>Γερμανία</td><td>172,3</td><td>84,6</td><td>195,8</td><td>210,4</td></tr><tr><td>Ιρλανδία</td><td>55,8</td><td>61,2</td><td>48,5</td><td>52,1</td></tr><tr><td>Ελλάδα</td><td>-28,4</td><td>-31,2</td><td>-26,7</td><td>-24,9</td></tr></table><p>Εμπορικό ισοζύγιο (εξαγωγές μείον εισαγωγές, δισ. ευρώ), 2021-2024.</p>",
+      "question": "Κατά πόσο μεταβλήθηκε το ΣΥΝΔΥΑΣΜΕΝΟ εμπορικό ισοζύγιο και των τεσσάρων χωρών μεταξύ 2022 και 2023;",
+      "options": ["+90,4 δισ. ευρώ", "+111,2 δισ. ευρώ", "+105,0 δισ. ευρώ", "+116,2 δισ. ευρώ", "+128,7 δισ. ευρώ"],
+      "answer": "D",
+      "explanation": "Συνδυασμένο ισοζύγιο 2022 = 58,1+84,6+61,2-31,2 = 172,7 δισ. ευρώ. Συνδυασμένο ισοζύγιο 2023 = 71,3+195,8+48,5-26,7 = 288,9 δισ. ευρώ. Μεταβολή = +116,2 δισ. ευρώ. Η μεταβολή μόνο της Γερμανίας (195,8-84,6=111,2 δισ. ευρώ) είναι η παγίδα για όσους υπολογίζουν μόνο τη μεγαλύτερη σειρά αντί να αθροίσουν πρώτα και τις τέσσερις χώρες."
+    }
+  },
+  {
+    "en": {
+      "passage 4": "<table><tr><th>Balance Sheet Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Total Assets</td><td>420</td><td>455</td><td>468</td><td>512</td></tr><tr><td>Total Liabilities</td><td>310</td><td>328</td><td>322</td><td>344</td></tr></table><p>Simplified balance sheet time series for a company, 2021-2024. (Note: Shareholders' Equity = Total Assets - Total Liabilities.)</p>",
+      "question": "By approximately what percentage did the company's shareholders' equity increase between 2021 and 2024?",
+      "options": ["22%", "53%", "12%", "35%", "68%"],
+      "answer": "B",
+      "explanation": "Equity 2021 = 420-310 = €110m. Equity 2024 = 512-344 = €168m. Increase = (168-110)/110 = 52.7%, approximately 53%. Reading the Total Assets row directly gives a 21.9% increase - that figure is the trap, since it ignores that liabilities also grew, and equity (the actual quantity asked about) must be derived, not read off the table."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Consumer Price Index for Household Energy (Base Year 2020 = 100)</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Index</th></tr></thead><tbody><tr><td>2020</td><td>100</td></tr><tr><td>2021</td><td>104</td></tr><tr><td>2022</td><td>112</td></tr><tr><td>2023</td><td>119</td></tr><tr><td>2024</td><td>123</td></tr></tbody></table>",
-        "question": "5. By approximately what percentage did household energy prices rise between 2022 and 2024?",
-        "options": [
-          "4.6%",
-          "23.0%",
-          "11.0%",
-          "9.8%"
-        ],
-        "answer": 3,
-        "explanation": "Since the index measures relative price level (not the price itself), the percentage change between two years is calculated on the index values: (123−112)/112 × 100 ≈ 9.8%. Option 23.0% is the trap — it wrongly uses 2020 as the base (123−100=23) instead of comparing 2022 to 2024 directly."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Τιμών Καταναλωτή για Οικιακή Ενέργεια (Έτος Βάσης 2020 = 100)</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Δείκτης</th></tr></thead><tbody><tr><td>2020</td><td>100</td></tr><tr><td>2021</td><td>104</td></tr><tr><td>2022</td><td>112</td></tr><tr><td>2023</td><td>119</td></tr><tr><td>2024</td><td>123</td></tr></tbody></table>",
-        "question": "5. Κατά πόσο περίπου αυξήθηκαν οι τιμές οικιακής ενέργειας μεταξύ 2022 και 2024;",
-        "options": [
-          "4,6%",
-          "23,0%",
-          "11,0%",
-          "9,8%"
-        ],
-        "answer": 3,
-        "explanation": "Καθώς ο δείκτης μετρά σχετικό επίπεδο τιμών (όχι την ίδια την τιμή), η ποσοστιαία μεταβολή μεταξύ δύο ετών υπολογίζεται στις τιμές του δείκτη: (123−112)/112 × 100 ≈ 9,8%. Η επιλογή 23,0% είναι η παγίδα — χρησιμοποιεί εσφαλμένα το 2020 ως βάση (123−100=23) αντί να συγκρίνει απευθείας το 2022 με το 2024."
-      }
+    "el": {
+      "passage 4": "<table><tr><th>Στοιχείο Ισολογισμού (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Σύνολο Ενεργητικού</td><td>420</td><td>455</td><td>468</td><td>512</td></tr><tr><td>Σύνολο Υποχρεώσεων</td><td>310</td><td>328</td><td>322</td><td>344</td></tr></table><p>Απλοποιημένη χρονοσειρά ισολογισμού εταιρείας, 2021-2024. (Σημείωση: Ίδια Κεφάλαια = Σύνολο Ενεργητικού - Σύνολο Υποχρεώσεων.)</p>",
+      "question": "Κατά πόσο περίπου αυξήθηκαν τα ίδια κεφάλαια της εταιρείας μεταξύ 2021 και 2024;",
+      "options": ["22%", "53%", "12%", "35%", "68%"],
+      "answer": "B",
+      "explanation": "Ίδια κεφάλαια 2021 = 420-310 = 110 εκατ. ευρώ. Ίδια κεφάλαια 2024 = 512-344 = 168 εκατ. ευρώ. Αύξηση = (168-110)/110 = 52,7%, δηλαδή περίπου 53%. Η απευθείας ανάγνωση της γραμμής Ενεργητικού δίνει αύξηση 21,9% - αυτή είναι η παγίδα, καθώς αγνοεί ότι αυξήθηκαν και οι υποχρεώσεις, ενώ τα ίδια κεφάλαια (το πραγματικά ζητούμενο μέγεθος) πρέπει να υπολογιστούν και όχι απλώς να διαβαστούν από τον πίνακα."
+    }
+  },
+  {
+    "en": {
+      "passage 5": "<p>Definitions: <b>Current Ratio</b> = Current Assets / Current Liabilities. <b>Quick Ratio (Acid-Test Ratio)</b> = (Current Assets - Inventory) / Current Liabilities - it excludes inventory because inventory is the least liquid current asset.</p><table><tr><th>Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Current Assets</td><td>180</td><td>195</td><td>210</td><td>232</td></tr><tr><td>Inventory</td><td>65</td><td>70</td><td>78</td><td>84</td></tr><tr><td>Current Liabilities</td><td>120</td><td>118</td><td>130</td><td>145</td></tr></table>",
+      "question": "What was the company's Quick Ratio in 2024?",
+      "options": ["1.60", "0.58", "1.02", "2.76", "0.86"],
+      "answer": "C",
+      "explanation": "Quick Ratio 2024 = (Current Assets - Inventory) / Current Liabilities = (232-84)/145 = 148/145 = 1.02. Using the Current Ratio formula instead (232/145 = 1.60) is the trap - it forgets to remove inventory, which is precisely what distinguishes the quick ratio from the current ratio."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Population Growth Projection</caption><thead><tr style='background:#e8f0fe;'><th>Base Population (2024)</th><th>Annual Growth Rate</th></tr></thead><tbody><tr><td>2,400,000</td><td>3% per year, compounded annually</td></tr></tbody></table>",
-        "question": "6. Applying compound annual growth, what will the population be after 3 years (to the nearest thousand)?",
-        "options": [
-          "2,616,000",
-          "2,472,000",
-          "2,623,000",
-          "2,700,000"
-        ],
-        "answer": 2,
-        "explanation": "Compound growth: 2,400,000 × (1.03)³ = 2,400,000 × 1.092727 ≈ 2,622,545 ≈ 2,623,000. Option 2,616,000 is the simple-growth trap: 2,400,000 × (1 + 0.03×3) = 2,400,000 × 1.09 = 2,616,000 — it adds the growth linearly instead of compounding it year over year."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πρόβλεψη Πληθυσμιακής Αύξησης Περιφέρειας</caption><thead><tr style='background:#e8f0fe;'><th>Βασικός Πληθυσμός (2024)</th><th>Ετήσιος Ρυθμός Αύξησης</th></tr></thead><tbody><tr><td>2.400.000</td><td>3% ετησίως, με σύνθετη ανατοκισμό</td></tr></tbody></table>",
-        "question": "6. Εφαρμόζοντας σύνθετη ετήσια αύξηση, ποιος θα είναι ο πληθυσμός μετά από 3 έτη (στην πλησιέστερη χιλιάδα);",
-        "options": [
-          "2.616.000",
-          "2.472.000",
-          "2.623.000",
-          "2.700.000"
-        ],
-        "answer": 2,
-        "explanation": "Σύνθετη αύξηση: 2.400.000 × (1,03)³ = 2.400.000 × 1,092727 ≈ 2.622.545 ≈ 2.623.000. Η επιλογή 2.616.000 είναι η παγίδα της απλής αύξησης: 2.400.000 × (1 + 0,03×3) = 2.400.000 × 1,09 = 2.616.000 — προσθέτει την αύξηση γραμμικά αντί να τη συνθέτει έτος με έτος."
-      }
+    "el": {
+      "passage 5": "<p>Ορισμοί: <b>Δείκτης Γενικής Ρευστότητας (Current Ratio)</b> = Κυκλοφορούν Ενεργητικό / Βραχυπρόθεσμες Υποχρεώσεις. <b>Δείκτης Άμεσης Ρευστότητας (Quick Ratio)</b> = (Κυκλοφορούν Ενεργητικό - Αποθέματα) / Βραχυπρόθεσμες Υποχρεώσεις - εξαιρεί τα αποθέματα επειδή είναι το λιγότερο ρευστοποιήσιμο στοιχείο του κυκλοφορούντος ενεργητικού.</p><table><tr><th>Στοιχείο (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Κυκλοφορούν Ενεργητικό</td><td>180</td><td>195</td><td>210</td><td>232</td></tr><tr><td>Αποθέματα</td><td>65</td><td>70</td><td>78</td><td>84</td></tr><tr><td>Βραχυπρόθεσμες Υποχρεώσεις</td><td>120</td><td>118</td><td>130</td><td>145</td></tr></table>",
+      "question": "Ποιος ήταν ο Δείκτης Άμεσης Ρευστότητας (Quick Ratio) της εταιρείας το 2024;",
+      "options": ["1,60", "0,58", "1,02", "2,76", "0,86"],
+      "answer": "C",
+      "explanation": "Quick Ratio 2024 = (Κυκλοφορούν Ενεργητικό - Αποθέματα) / Βραχυπρόθεσμες Υποχρεώσεις = (232-84)/145 = 148/145 = 1,02. Η χρήση του τύπου του Δείκτη Γενικής Ρευστότητας αντί αυτού (232/145 = 1,60) είναι η παγίδα - παραλείπει την αφαίρεση των αποθεμάτων, που είναι ακριβώς αυτό που διαφοροποιεί τον δείκτη άμεσης από τον δείκτη γενικής ρευστότητας."
+    }
+  },
+  {
+    "en": {
+      "passage 6": "<table><tr><th>Country</th><th>HICP Inflation 2023</th><th>Population (million)</th></tr><tr><td>Germany</td><td>6.0%</td><td>84.4</td></tr><tr><td>France</td><td>5.7%</td><td>68.2</td></tr><tr><td>Italy</td><td>5.9%</td><td>58.9</td></tr><tr><td>Spain</td><td>3.4%</td><td>47.6</td></tr></table><p>Annual HICP inflation rate and population, 2023.</p>",
+      "question": "What was the population-weighted average HICP inflation rate of these four countries in 2023?",
+      "options": ["5.42%", "5.25%", "5.75%", "5.15%", "5.60%"],
+      "answer": "A",
+      "explanation": "Weighted average = Σ(rate × population) / Σ(population) = (6.0×84.4 + 5.7×68.2 + 5.9×58.9 + 3.4×47.6) / (84.4+68.2+58.9+47.6) = 5.42%. The simple (unweighted) average of the four rates is 5.25% - that figure is the trap, since it treats Germany and Spain as equally important despite Germany having nearly double Spain's population."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Fixed Broadband Subscribers by Country (thousands, 2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (thousands)</th><th>2024 (thousands)</th></tr></thead><tbody><tr><td><strong>Country A</strong></td><td>1200</td><td>1350</td></tr><tr><td><strong>Country B</strong></td><td>300</td><td>420</td></tr><tr><td><strong>Country C</strong></td><td>4500</td><td>4700</td></tr></tbody></table>",
-        "question": "7. Which country had the largest relative (percentage) growth in broadband subscribers between 2022 and 2024?",
-        "options": [
-          "Country C",
-          "Country B",
-          "Country A",
-          "All three grew equally"
-        ],
-        "answer": 1,
-        "explanation": "Country A: 150/1,200=12.5%. Country B: 120/300=40.0%. Country C: 200/4,500≈4.4%. Country B has by far the highest percentage growth, despite having the smallest absolute increase (120,000) — Country C's absolute increase (200,000) is the largest, which is the trap for candidates who don't distinguish absolute from relative growth."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Συνδρομητές Σταθερής Ευρυζωνικότητας ανά Χώρα (χιλιάδες, 2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2022 (χιλιάδες)</th><th>2024 (χιλιάδες)</th></tr></thead><tbody><tr><td><strong>Χώρα A</strong></td><td>1200</td><td>1350</td></tr><tr><td><strong>Χώρα B</strong></td><td>300</td><td>420</td></tr><tr><td><strong>Χώρα Γ</strong></td><td>4500</td><td>4700</td></tr></tbody></table>",
-        "question": "7. Ποια χώρα είχε τη μεγαλύτερη σχετική (ποσοστιαία) αύξηση συνδρομητών ευρυζωνικότητας μεταξύ 2022 και 2024;",
-        "options": [
-          "Χώρα Γ",
-          "Χώρα B",
-          "Χώρα A",
-          "Και οι τρεις χώρες αυξήθηκαν εξίσου"
-        ],
-        "answer": 1,
-        "explanation": "Χώρα A: 150/1.200=12,5%. Χώρα B: 120/300=40,0%. Χώρα Γ: 200/4.500≈4,4%. Η Χώρα B έχει κατά πολύ τη μεγαλύτερη ποσοστιαία αύξηση, παρόλο που έχει τη μικρότερη απόλυτη αύξηση (120.000) — η Χώρα Γ έχει τη μεγαλύτερη απόλυτη αύξηση (200.000), κάτι που αποτελεί την παγίδα για όσους δεν διακρίνουν την απόλυτη από τη σχετική αύξηση."
-      }
+    "el": {
+      "passage 6": "<table><tr><th>Χώρα</th><th>Πληθωρισμός ΕνΔΤΚ 2023</th><th>Πληθυσμός (εκατ.)</th></tr><tr><td>Γερμανία</td><td>6,0%</td><td>84,4</td></tr><tr><td>Γαλλία</td><td>5,7%</td><td>68,2</td></tr><tr><td>Ιταλία</td><td>5,9%</td><td>58,9</td></tr><tr><td>Ισπανία</td><td>3,4%</td><td>47,6</td></tr></table><p>Ετήσιος ρυθμός πληθωρισμού (ΕνΔΤΚ) και πληθυσμός, 2023.</p>",
+      "question": "Ποιος ήταν ο μέσος ρυθμός πληθωρισμού (ΕνΔΤΚ) των τεσσάρων αυτών χωρών το 2023, σταθμισμένος ως προς τον πληθυσμό;",
+      "options": ["5,42%", "5,25%", "5,75%", "5,15%", "5,60%"],
+      "answer": "A",
+      "explanation": "Σταθμισμένος μέσος όρος = Σ(ρυθμός × πληθυσμός) / Σ(πληθυσμός) = (6,0×84,4 + 5,7×68,2 + 5,9×58,9 + 3,4×47,6) / (84,4+68,2+58,9+47,6) = 5,42%. Ο απλός (μη σταθμισμένος) μέσος όρος των τεσσάρων ρυθμών είναι 5,25% - αυτό το νούμερο είναι η παγίδα, καθώς αντιμετωπίζει τη Γερμανία και την Ισπανία ως εξίσου σημαντικές, παρότι η Γερμανία έχει σχεδόν διπλάσιο πληθυσμό από την Ισπανία."
+    }
+  },
+  {
+    "en": {
+      "passage 7": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Spain</td><td>14.8%</td><td>12.9%</td><td>12.2%</td><td>11.3%</td></tr><tr><td>Sweden</td><td>8.8%</td><td>7.5%</td><td>7.7%</td><td>8.4%</td></tr><tr><td>Netherlands</td><td>4.2%</td><td>3.5%</td><td>3.4%</td><td>3.3%</td></tr><tr><td>Poland</td><td>3.4%</td><td>2.9%</td><td>2.7%</td><td>2.5%</td></tr></table><p>Unemployment rate, 2021-2024.</p>",
+      "question": "For which country was the unemployment rate in 2024 HIGHER than it was in 2022?",
+      "options": ["Spain", "Sweden", "Netherlands", "Poland", "None of the above"],
+      "answer": "B",
+      "explanation": "Sweden: 7.5% (2022) rose to 8.4% (2024), an increase. All other countries continued to decline over the same span. Comparing only the outer columns (2021 vs 2024) makes every country look like it simply decreased - the trap is failing to check the middle years, where Sweden's rate actually reversed direction."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Courier Shipping Rate Card</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Flat fee (covers first 5 kg)</td><td>€12.00</td></tr><tr><td>Rate for each additional kg beyond 5 kg</td><td>€1.80</td></tr></tbody></table>",
-        "question": "8. What is the total cost of shipping a 22 kg parcel under this rate card?",
-        "options": [
-          "€42.60",
-          "€51.60",
-          "€39.60",
-          "€30.60"
-        ],
-        "answer": 0,
-        "explanation": "The flat fee of €12.00 covers the first 5 kg; only the remaining 22−5=17 kg is charged at €1.80/kg: 17×1.80=€30.60. Total = 12.00+30.60 = €42.60. Option €39.60 is the trap of charging the flat per-kg rate to the whole parcel (22×1.80), ignoring the tiered structure entirely; €51.60 double-counts the first 5 kg by charging both the flat fee AND the per-kg rate on that same weight."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Τιμοκατάλογος Ταχυμεταφορών</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Πάγιο τέλος (καλύπτει τα πρώτα 5 kg)</td><td>€12,00</td></tr><tr><td>Χρέωση για κάθε επιπλέον kg πέραν των 5 kg</td><td>€1,80</td></tr></tbody></table>",
-        "question": "8. Ποιο είναι το συνολικό κόστος αποστολής δέματος 22 kg βάσει αυτού του τιμοκαταλόγου;",
-        "options": [
-          "€42,60",
-          "€51,60",
-          "€39,60",
-          "€30,60"
-        ],
-        "answer": 0,
-        "explanation": "Το πάγιο τέλος των €12,00 καλύπτει τα πρώτα 5 kg· μόνο τα υπόλοιπα 22−5=17 kg χρεώνονται με €1,80/kg: 17×1,80=€30,60. Σύνολο = 12,00+30,60 = €42,60. Η επιλογή €39,60 είναι η παγίδα χρέωσης της ενιαίας τιμής ανά kg σε ολόκληρο το δέμα (22×1,80), αγνοώντας εντελώς την κλιμακωτή δομή· η €51,60 διπλοχρεώνει τα πρώτα 5 kg, χρεώνοντας και το πάγιο τέλος ΚΑΙ τη χρέωση ανά kg για το ίδιο βάρος."
-      }
+    "el": {
+      "passage 7": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Ισπανία</td><td>14,8%</td><td>12,9%</td><td>12,2%</td><td>11,3%</td></tr><tr><td>Σουηδία</td><td>8,8%</td><td>7,5%</td><td>7,7%</td><td>8,4%</td></tr><tr><td>Ολλανδία</td><td>4,2%</td><td>3,5%</td><td>3,4%</td><td>3,3%</td></tr><tr><td>Πολωνία</td><td>3,4%</td><td>2,9%</td><td>2,7%</td><td>2,5%</td></tr></table><p>Ποσοστό ανεργίας, 2021-2024.</p>",
+      "question": "Για ποια χώρα το ποσοστό ανεργίας το 2024 ήταν ΥΨΗΛΟΤΕΡΟ σε σχέση με το 2022;",
+      "options": ["Ισπανία", "Σουηδία", "Ολλανδία", "Πολωνία", "Κανένα από τα παραπάνω"],
+      "answer": "B",
+      "explanation": "Σουηδία: από 7,5% (2022) ανέβηκε σε 8,4% (2024), δηλαδή αύξηση. Όλες οι άλλες χώρες συνέχισαν να μειώνονται στο ίδιο διάστημα. Η σύγκριση μόνο των ακραίων στηλών (2021 έναντι 2024) κάνει κάθε χώρα να φαίνεται απλώς μειούμενη - η παγίδα είναι η παράλειψη ελέγχου των ενδιάμεσων ετών, όπου το ποσοστό της Σουηδίας στην πραγματικότητα αντιστράφηκε."
+    }
+  },
+  {
+    "en": {
+      "passage 8": "<table><tr><th>Country</th><th>Q1 2024</th><th>Q2 2024</th><th>Q3 2024</th><th>Q4 2024</th></tr><tr><td>Germany</td><td>2.35%</td><td>2.48%</td><td>2.19%</td><td>2.02%</td></tr><tr><td>Italy</td><td>3.72%</td><td>3.85%</td><td>3.51%</td><td>3.28%</td></tr></table><p>10-year government bond yields, 2024.</p>",
+      "question": "By how many basis points did the Italy-Germany 10-year bond yield spread narrow between Q1 2024 and Q4 2024?",
+      "options": ["126 bps", "137 bps", "1.1 bps", "22 bps", "11 bps"],
+      "answer": "E",
+      "explanation": "Spread Q1 2024 = 3.72%-2.35% = 1.37% = 137 bps. Spread Q4 2024 = 3.28%-2.02% = 1.26% = 126 bps. Narrowing = 137-126 = 11 bps. The Q4 spread itself (126 bps) is the trap for readers who report the final spread instead of the CHANGE in the spread, which is what the question asks for."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Workforce Composition — STEM Roles (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Category</th><th>Number</th></tr></thead><tbody><tr><td>Total workforce</td><td>50,000</td></tr><tr><td>Workforce in STEM roles</td><td>8,000</td></tr><tr><td>Women in STEM roles</td><td>2,800</td></tr></tbody></table>",
-        "question": "9. What percentage of the TOTAL workforce (not just STEM roles) are women working in STEM roles?",
-        "options": [
-          "16.0%",
-          "35.0%",
-          "2.8%",
-          "5.6%"
-        ],
-        "answer": 3,
-        "explanation": "The question asks for the share of the TOTAL workforce, not the share within STEM: 2,800 / 50,000 × 100 = 5.6%. Option 35.0% is the trap — that is women's share WITHIN STEM roles only (2,800/8,000), a genuinely different, larger figure that answers a different question."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Σύνθεση Εργατικού Δυναμικού — Θέσεις STEM (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Κατηγορία</th><th>Αριθμός</th></tr></thead><tbody><tr><td>Συνολικό εργατικό δυναμικό</td><td>50.000</td></tr><tr><td>Εργατικό δυναμικό σε θέσεις STEM</td><td>8.000</td></tr><tr><td>Γυναίκες σε θέσεις STEM</td><td>2.800</td></tr></tbody></table>",
-        "question": "9. Τι ποσοστό του ΣΥΝΟΛΙΚΟΥ εργατικού δυναμικού (όχι μόνο των θέσεων STEM) αποτελούν οι γυναίκες σε θέσεις STEM;",
-        "options": [
-          "16,0%",
-          "35,0%",
-          "2,8%",
-          "5,6%"
-        ],
-        "answer": 3,
-        "explanation": "Η ερώτηση ζητά το μερίδιο του ΣΥΝΟΛΙΚΟΥ εργατικού δυναμικού, όχι το μερίδιο εντός των θέσεων STEM: 2.800 / 50.000 × 100 = 5,6%. Η επιλογή 35,0% είναι η παγίδα — αυτό είναι το μερίδιο γυναικών ΕΝΤΟΣ των θέσεων STEM μόνο (2.800/8.000), ένα πραγματικά διαφορετικό, μεγαλύτερο μέγεθος που απαντά σε διαφορετική ερώτηση."
-      }
+    "el": {
+      "passage 8": "<table><tr><th>Χώρα</th><th>Α΄ τρίμ. 2024</th><th>Β΄ τρίμ. 2024</th><th>Γ΄ τρίμ. 2024</th><th>Δ΄ τρίμ. 2024</th></tr><tr><td>Γερμανία</td><td>2,35%</td><td>2,48%</td><td>2,19%</td><td>2,02%</td></tr><tr><td>Ιταλία</td><td>3,72%</td><td>3,85%</td><td>3,51%</td><td>3,28%</td></tr></table><p>Αποδόσεις 10ετών κρατικών ομολόγων, 2024.</p>",
+      "question": "Κατά πόσες μονάδες βάσης στένεψε το spread απόδοσης 10ετών ομολόγων Ιταλίας-Γερμανίας μεταξύ Α΄ και Δ΄ τριμήνου 2024;",
+      "options": ["126 μ.β.", "137 μ.β.", "1,1 μ.β.", "22 μ.β.", "11 μ.β."],
+      "answer": "E",
+      "explanation": "Spread Α΄ τρίμ. 2024 = 3,72%-2,35% = 1,37% = 137 μ.β. Spread Δ΄ τρίμ. 2024 = 3,28%-2,02% = 1,26% = 126 μ.β. Στένεμα = 137-126 = 11 μ.β. Το ίδιο το spread του Δ΄ τριμήνου (126 μ.β.) είναι η παγίδα για όσους αναφέρουν το τελικό spread αντί για τη ΜΕΤΑΒΟΛΗ του, που είναι αυτό που ζητά η ερώτηση."
+    }
+  },
+  {
+    "en": {
+      "passage 9": "<table><tr><th>Country</th><th>Net Contribution to EU Budget (EUR million)</th><th>Population (million)</th></tr><tr><td>Germany</td><td>-19,700</td><td>84.4</td></tr><tr><td>Netherlands</td><td>-3,200</td><td>17.9</td></tr><tr><td>Sweden</td><td>-2,100</td><td>10.5</td></tr><tr><td>Austria</td><td>-1,450</td><td>9.1</td></tr></table><p>Net contributors to the EU budget (negative = net contributor), latest year. Per capita = Net Contribution / Population.</p>",
+      "question": "Which country had the SECOND-LARGEST net contribution to the EU budget on a PER CAPITA basis?",
+      "options": ["Germany", "Netherlands", "Sweden", "Austria", "Cannot be determined from the data"],
+      "answer": "C",
+      "explanation": "Per capita: Germany -233.4 EUR, Sweden -200.0 EUR, Netherlands -178.8 EUR, Austria -159.3 EUR. Ranked per capita, Sweden is second after Germany. The Netherlands, which is second-largest in ABSOLUTE terms (-€3,200m), is the trap - its larger population dilutes its per-capita figure below Sweden's."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Public Health Expenditure (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Indicator</th><th>Value</th></tr></thead><tbody><tr><td>Per-capita health expenditure</td><td>€4,250</td></tr><tr><td>Regional population</td><td>2,650,000</td></tr></tbody></table>",
-        "question": "10. What is the region's total public health expenditure, to the nearest €0.1 billion?",
-        "options": [
-          "€1.1 billion",
-          "€11.3 billion",
-          "€112.6 billion",
-          "€6.9 billion"
-        ],
-        "answer": 1,
-        "explanation": "Total expenditure = per-capita value × population = €4,250 × 2,650,000 = €11,262,500,000 ≈ €11.3 billion. Option €1.1 billion is the trap for candidates who divide instead of multiply; €112.6 billion results from misplacing a decimal point (million vs billion confusion)."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Περιφερειακή Δημόσια Δαπάνη Υγείας (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Δείκτης</th><th>Τιμή</th></tr></thead><tbody><tr><td>Δαπάνη υγείας ανά κάτοικο</td><td>€4.250</td></tr><tr><td>Πληθυσμός περιφέρειας</td><td>2.650.000</td></tr></tbody></table>",
-        "question": "10. Ποια είναι η συνολική δημόσια δαπάνη υγείας της περιφέρειας, στο πλησιέστερο €0,1 δισεκατομμύριο;",
-        "options": [
-          "€1,1 δισεκατομμύριο",
-          "€11,3 δισεκατομμύρια",
-          "€112,6 δισεκατομμύρια",
-          "€6,9 δισεκατομμύρια"
-        ],
-        "answer": 1,
-        "explanation": "Συνολική δαπάνη = τιμή ανά κάτοικο × πληθυσμός = €4.250 × 2.650.000 = €11.262.500.000 ≈ €11,3 δισεκατομμύρια. Η επιλογή €1,1 δισεκατομμύριο είναι η παγίδα για όσους διαιρούν αντί να πολλαπλασιάσουν· το €112,6 δισεκατομμύριο προκύπτει από λάθος θέση υποδιαστολής (σύγχυση εκατομμυρίου με δισεκατομμύριο)."
-      }
+    "el": {
+      "passage 9": "<table><tr><th>Χώρα</th><th>Καθαρή Συνεισφορά στον Προϋπολογισμό ΕΕ (εκατ. ευρώ)</th><th>Πληθυσμός (εκατ.)</th></tr><tr><td>Γερμανία</td><td>-19.700</td><td>84,4</td></tr><tr><td>Ολλανδία</td><td>-3.200</td><td>17,9</td></tr><tr><td>Σουηδία</td><td>-2.100</td><td>10,5</td></tr><tr><td>Αυστρία</td><td>-1.450</td><td>9,1</td></tr></table><p>Καθαροί συνεισφέροντες στον προϋπολογισμό της ΕΕ (αρνητικό = καθαρός συνεισφέρων), τελευταίο έτος. Κατά κεφαλήν = Καθαρή Συνεισφορά / Πληθυσμός.</p>",
+      "question": "Ποια χώρα είχε τη ΔΕΥΤΕΡΗ ΜΕΓΑΛΥΤΕΡΗ καθαρή συνεισφορά στον προϋπολογισμό της ΕΕ σε ΚΑΤΑ ΚΕΦΑΛΗΝ βάση;",
+      "options": ["Γερμανία", "Ολλανδία", "Σουηδία", "Αυστρία", "Δεν μπορεί να προσδιοριστεί από τα δεδομένα"],
+      "answer": "C",
+      "explanation": "Κατά κεφαλήν: Γερμανία -233,4 ευρώ, Σουηδία -200,0 ευρώ, Ολλανδία -178,8 ευρώ, Αυστρία -159,3 ευρώ. Σε κατά κεφαλήν κατάταξη, η Σουηδία είναι δεύτερη μετά τη Γερμανία. Η Ολλανδία, που είναι δεύτερη σε ΑΠΟΛΥΤΟΥΣ όρους (-3.200 εκατ. ευρώ), είναι η παγίδα - ο μεγαλύτερος πληθυσμός της μειώνει το κατά κεφαλήν νούμερό της κάτω από αυτό της Σουηδίας."
+    }
+  },
+  {
+    "en": {
+      "passage 10": "<table><tr><th>Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Revenue</td><td>850</td><td>910</td><td>980</td><td>1,045</td></tr><tr><td>Cost of Goods Sold</td><td>510</td><td>528</td><td>588</td><td>606</td></tr><tr><td>Operating Expenses</td><td>220</td><td>235</td><td>245</td><td>268</td></tr><tr><td>Net Profit</td><td>120</td><td>147</td><td>147</td><td>171</td></tr></table>",
+      "question": "What was the company's Net Profit Margin (Net Profit / Revenue) in 2024?",
+      "options": ["42.0%", "25.7%", "14.1%", "16.4%", "28.2%"],
+      "answer": "D",
+      "explanation": "Net Profit Margin 2024 = 171/1,045 = 16.4%. The Gross Margin ((Revenue-COGS)/Revenue = (1,045-606)/1,045 = 42.0%) is the trap - it is a different, larger ratio because it does not deduct operating expenses, and confusing the two is a classic EPSO-style error."
+    },
+    "el": {
+      "passage 10": "<table><tr><th>Στοιχείο (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Έσοδα</td><td>850</td><td>910</td><td>980</td><td>1.045</td></tr><tr><td>Κόστος Πωληθέντων</td><td>510</td><td>528</td><td>588</td><td>606</td></tr><tr><td>Λειτουργικά Έξοδα</td><td>220</td><td>235</td><td>245</td><td>268</td></tr><tr><td>Καθαρό Κέρδος</td><td>120</td><td>147</td><td>147</td><td>171</td></tr></table>",
+      "question": "Ποιο ήταν το Περιθώριο Καθαρού Κέρδους (Καθαρό Κέρδος / Έσοδα) της εταιρείας το 2024;",
+      "options": ["42,0%", "25,7%", "14,1%", "16,4%", "28,2%"],
+      "answer": "D",
+      "explanation": "Περιθώριο Καθαρού Κέρδους 2024 = 171/1.045 = 16,4%. Το Μικτό Περιθώριο ((Έσοδα-Κόστος Πωληθέντων)/Έσοδα = (1.045-606)/1.045 = 42,0%) είναι η παγίδα - πρόκειται για διαφορετικό, μεγαλύτερο δείκτη επειδή δεν αφαιρεί τα λειτουργικά έξοδα, και η σύγχυση των δύο είναι ένα κλασικό σφάλμα τύπου EPSO."
+     }
     }
   ],
   "num_11": [
     {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Research Grant Award (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Grant amount after a 15% increase over 2023</td><td>€138,000</td></tr></tbody></table>",
-        "question": "1. What was the original 2023 grant amount, before the 15% increase?",
-        "options": [
-          "€135,000",
-          "€158,700",
-          "€120,000",
-          "€117,300"
-        ],
-        "answer": 2,
-        "explanation": "If X is the original amount, X × 1.15 = 138,000, so X = 138,000 / 1.15 = €120,000. Option €117,300 is the trap — it wrongly subtracts 15% FROM the final amount (138,000 × 0.85) instead of reversing the growth by dividing."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Χορήγηση Ερευνητικής Επιχορήγησης (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Ποσό επιχορήγησης μετά από αύξηση 15% σε σχέση με το 2023</td><td>€138.000</td></tr></tbody></table>",
-        "question": "1. Ποιο ήταν το αρχικό ποσό επιχορήγησης του 2023, πριν την αύξηση 15%;",
-        "options": [
-          "€135.000",
-          "€158.700",
-          "€120.000",
-          "€117.300"
-        ],
-        "answer": 2,
-        "explanation": "Αν Χ είναι το αρχικό ποσό, Χ × 1,15 = 138.000, άρα Χ = 138.000 / 1,15 = €120.000. Η επιλογή €117.300 είναι η παγίδα — αφαιρεί εσφαλμένα το 15% ΑΠΟ το τελικό ποσό (138.000 × 0,85) αντί να αντιστρέψει την αύξηση με διαίρεση."
-      }
+    "en": {
+      "passage 1": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Greece</td><td>-6.8%</td><td>-10.1%</td><td>-6.2%</td><td>-4.3%</td></tr><tr><td>Romania</td><td>-7.3%</td><td>-9.3%</td><td>-7.1%</td><td>-6.5%</td></tr><tr><td>Cyprus</td><td>-9.7%</td><td>-11.9%</td><td>-7.9%</td><td>-5.8%</td></tr><tr><td>Portugal</td><td>-1.2%</td><td>-1.1%</td><td>1.4%</td><td>1.9%</td></tr></table><p>Current account balance as % of GDP, 2021-2024.</p>",
+      "question": "Which country's current-account balance (as % of GDP) improved the most, in percentage points, between 2022 and 2024?",
+      "options": ["Cyprus", "Greece", "Romania", "Portugal", "None of the above"],
+      "answer": "A",
+      "explanation": "Change 2022-2024: Cyprus -11.9 to -5.8 = +6.1 pp; Greece -10.1 to -4.3 = +5.8 pp; Romania -9.3 to -6.5 = +2.8 pp; Portugal -1.1 to +1.9 = +3.0 pp. Cyprus has the largest point improvement. Portugal turning from negative to positive is the eye-catching trap, but the actual SIZE of its improvement (3.0 pp) is smaller than Cyprus's or Greece's."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Share Price Movement</caption><thead><tr style='background:#e8f0fe;'><th>Event</th><th>Change</th></tr></thead><tbody><tr><td>Month 1</td><td>+20%</td></tr><tr><td>Month 2 (applied to the new, already-increased price)</td><td>−10%</td></tr></tbody></table>",
-        "question": "2. What is the overall (net) percentage change in the share price after both months?",
-        "options": [
-          "+10%",
-          "+8%",
-          "−2%",
-          "+30%"
-        ],
-        "answer": 1,
-        "explanation": "Starting at 100: after +20% → 120; after −10% of 120 → 108. Net change = +8%. Option +10% is the trap of simply subtracting the two percentages (20%−10%=10%) instead of applying them sequentially to a changing base."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κίνηση Τιμής Μετοχής</caption><thead><tr style='background:#e8f0fe;'><th>Γεγονός</th><th>Μεταβολή</th></tr></thead><tbody><tr><td>Μήνας 1</td><td>+20%</td></tr><tr><td>Μήνας 2 (εφαρμόζεται στη νέα, ήδη αυξημένη τιμή)</td><td>−10%</td></tr></tbody></table>",
-        "question": "2. Ποια είναι η συνολική (καθαρή) ποσοστιαία μεταβολή της τιμής της μετοχής μετά και τους δύο μήνες;",
-        "options": [
-          "+10%",
-          "+8%",
-          "−2%",
-          "+30%"
-        ],
-        "answer": 1,
-        "explanation": "Ξεκινώντας από 100: μετά από +20% → 120· μετά από −10% επί του 120 → 108. Καθαρή μεταβολή = +8%. Η επιλογή +10% είναι η παγίδα της απλής αφαίρεσης των δύο ποσοστών (20%−10%=10%) αντί της διαδοχικής εφαρμογής τους σε μεταβαλλόμενη βάση."
-      }
+    "el": {
+      "passage 1": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Ελλάδα</td><td>-6,8%</td><td>-10,1%</td><td>-6,2%</td><td>-4,3%</td></tr><tr><td>Ρουμανία</td><td>-7,3%</td><td>-9,3%</td><td>-7,1%</td><td>-6,5%</td></tr><tr><td>Κύπρος</td><td>-9,7%</td><td>-11,9%</td><td>-7,9%</td><td>-5,8%</td></tr><tr><td>Πορτογαλία</td><td>-1,2%</td><td>-1,1%</td><td>1,4%</td><td>1,9%</td></tr></table><p>Ισοζύγιο τρεχουσών συναλλαγών ως % του ΑΕΠ, 2021-2024.</p>",
+      "question": "Ποιας χώρας το ισοζύγιο τρεχουσών συναλλαγών (ως % του ΑΕΠ) βελτιώθηκε περισσότερο, σε ποσοστιαίες μονάδες, μεταξύ 2022 και 2024;",
+      "options": ["Κύπρος", "Ελλάδα", "Ρουμανία", "Πορτογαλία", "Κανένα από τα παραπάνω"],
+      "answer": "A",
+      "explanation": "Μεταβολή 2022-2024: Κύπρος από -11,9 σε -5,8 = +6,1 ν.μ.· Ελλάδα από -10,1 σε -4,3 = +5,8 ν.μ.· Ρουμανία από -9,3 σε -6,5 = +2,8 ν.μ.· Πορτογαλία από -1,1 σε +1,9 = +3,0 ν.μ. Η Κύπρος έχει τη μεγαλύτερη βελτίωση σε μονάδες. Η μετάβαση της Πορτογαλίας από αρνητικό σε θετικό πρόσημο είναι η εντυπωσιακή παγίδα, αλλά το πραγματικό ΜΕΓΕΘΟΣ της βελτίωσής της (3,0 ν.μ.) είναι μικρότερο από αυτό της Κύπρου ή της Ελλάδας."
+    }
+  },
+  {
+    "en": {
+      "passage 2": "<table><tr><th>Country</th><th>Revenue (EUR bn)</th><th>Expenditure (EUR bn)</th></tr><tr><td>Denmark</td><td>145.2</td><td>138.7</td></tr><tr><td>Austria</td><td>215.4</td><td>228.9</td></tr><tr><td>Luxembourg</td><td>32.1</td><td>30.8</td></tr><tr><td>Finland</td><td>128.6</td><td>139.2</td></tr></table><p>General government revenue and expenditure, latest year.</p>",
+      "question": "Which country recorded the largest budget deficit AS A PERCENTAGE OF ITS EXPENDITURE?",
+      "options": ["Denmark", "Austria", "Luxembourg", "None of the above", "Finland"],
+      "answer": "E",
+      "explanation": "Deficit/expenditure: Austria = -13.5/228.9 = -5.90%; Finland = -10.6/139.2 = -7.61%. Finland has the larger deficit relative to the size of its budget, even though Austria's deficit is larger in absolute EUR terms (-€13.5bn vs -€10.6bn) - the trap is stopping at the absolute-size comparison."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Monthly Salaries — Policy Analysis Team (7 members)</caption><thead><tr style='background:#e8f0fe;'><th>Team Member</th><th>Monthly Salary (€)</th></tr></thead><tbody><tr><td>Analyst 1</td><td>2,800</td></tr><tr><td>Analyst 2</td><td>2,900</td></tr><tr><td>Analyst 3</td><td>2,950</td></tr><tr><td>Analyst 4</td><td>3,000</td></tr><tr><td>Analyst 5</td><td>3,050</td></tr><tr><td>Analyst 6</td><td>3,100</td></tr><tr><td>Senior Consultant (seconded)</td><td>9,800</td></tr></tbody></table>",
-        "question": "3. What is the median monthly salary for this team, and how does it compare to the mean?",
-        "options": [
-          "€3,943; the median is skewed upward by the outlier salary",
-          "€3,000; the mean (≈€3,943) is skewed upward by the one outlier salary of €9,800",
-          "€9,800; the highest salary defines the median in a skewed dataset",
-          "€3,050; both measures are affected equally by the outlier"
-        ],
-        "answer": 1,
-        "explanation": "Sorting the 7 salaries, the median (middle, 4th value) is €3,000. The mean = 27,600/7 ≈ €3,943 — pulled well above what most team members actually earn by the single €9,800 outlier. This illustrates why the median is often a more representative 'typical value' than the mean when a dataset contains extreme outliers."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Μηνιαίοι Μισθοί — Ομάδα Ανάλυσης Πολιτικής (7 μέλη)</caption><thead><tr style='background:#e8f0fe;'><th>Μέλος Ομάδας</th><th>Μηνιαίος Μισθός (€)</th></tr></thead><tbody><tr><td>Αναλυτής 1</td><td>2.800</td></tr><tr><td>Αναλυτής 2</td><td>2.900</td></tr><tr><td>Αναλυτής 3</td><td>2.950</td></tr><tr><td>Αναλυτής 4</td><td>3.000</td></tr><tr><td>Αναλυτής 5</td><td>3.050</td></tr><tr><td>Αναλυτής 6</td><td>3.100</td></tr><tr><td>Ανώτερος Σύμβουλος (απόσπαση)</td><td>9.800</td></tr></tbody></table>",
-        "question": "3. Ποια είναι η διάμεσος μηνιαίος μισθός για αυτή την ομάδα, και πώς συγκρίνεται με τον μέσο όρο;",
-        "options": [
-          "€3.943· η διάμεσος αλλοιώνεται προς τα πάνω από την ακραία τιμή",
-          "€3.000· ο μέσος όρος (≈€3.943) αλλοιώνεται προς τα πάνω από τη μία ακραία τιμή μισθού των €9.800",
-          "€9.800· η υψηλότερη τιμή καθορίζει τη διάμεσο σε ασύμμετρο σύνολο δεδομένων",
-          "€3.050· και τα δύο μέτρα επηρεάζονται εξίσου από την ακραία τιμή"
-        ],
-        "answer": 1,
-        "explanation": "Ταξινομώντας τους 7 μισθούς, η διάμεσος (μεσαία, 4η τιμή) είναι €3.000. Ο μέσος όρος = 27.600/7 ≈ €3.943 — τραβηγμένος σημαντικά πάνω από ό,τι κερδίζουν στην πραγματικότητα τα περισσότερα μέλη της ομάδας, λόγω της μίας ακραίας τιμής των €9.800. Αυτό δείχνει γιατί η διάμεσος είναι συχνά πιο αντιπροσωπευτική «τυπική τιμή» από τον μέσο όρο όταν ένα σύνολο δεδομένων περιέχει ακραίες τιμές."
-      }
+    "el": {
+      "passage 2": "<table><tr><th>Χώρα</th><th>Έσοδα (δισ. ευρώ)</th><th>Δαπάνες (δισ. ευρώ)</th></tr><tr><td>Δανία</td><td>145,2</td><td>138,7</td></tr><tr><td>Αυστρία</td><td>215,4</td><td>228,9</td></tr><tr><td>Λουξεμβούργο</td><td>32,1</td><td>30,8</td></tr><tr><td>Φινλανδία</td><td>128,6</td><td>139,2</td></tr></table><p>Έσοδα και δαπάνες γενικής κυβέρνησης, τελευταίο έτος.</p>",
+      "question": "Ποια χώρα κατέγραψε το μεγαλύτερο δημοσιονομικό έλλειμμα ΩΣ ΠΟΣΟΣΤΟ ΤΩΝ ΔΑΠΑΝΩΝ ΤΗΣ;",
+      "options": ["Δανία", "Αυστρία", "Λουξεμβούργο", "Κανένα από τα παραπάνω", "Φινλανδία"],
+      "answer": "E",
+      "explanation": "Έλλειμμα/δαπάνες: Αυστρία = -13,5/228,9 = -5,90%· Φινλανδία = -10,6/139,2 = -7,61%. Η Φινλανδία έχει το μεγαλύτερο έλλειμμα σε σχέση με το μέγεθος του προϋπολογισμού της, παρότι το έλλειμμα της Αυστρίας είναι μεγαλύτερο σε απόλυτους όρους (-13,5 δισ. ευρώ έναντι -10,6 δισ. ευρώ) - η παγίδα είναι να σταματήσει κανείς στη σύγκριση απόλυτου μεγέθους."
+    }
+  },
+  {
+    "en": {
+      "passage 3": "<table><tr><th>Country</th><th>Nominal GDP Growth 2023</th><th>Inflation 2023</th></tr><tr><td>Hungary</td><td>14.2%</td><td>17.6%</td></tr><tr><td>Czechia</td><td>7.8%</td><td>10.9%</td></tr><tr><td>Croatia</td><td>11.5%</td><td>8.4%</td></tr><tr><td>Slovakia</td><td>9.1%</td><td>10.5%</td></tr></table><p>Nominal GDP growth and inflation rate, 2023. (Approx. real growth = nominal growth - inflation.)</p>",
+      "question": "Which country actually had POSITIVE real (inflation-adjusted) GDP growth in 2023, despite not reporting the highest nominal growth figure?",
+      "options": ["Hungary", "Czechia", "Croatia", "Slovakia", "All had negative real growth"],
+      "answer": "C",
+      "explanation": "Approx. real growth: Hungary 14.2-17.6=-3.4%; Czechia 7.8-10.9=-3.1%; Croatia 11.5-8.4=+3.1%; Slovakia 9.1-10.5=-1.4%. Only Croatia is positive. Hungary posts the highest NOMINAL growth (14.2%) - that's the trap - but its even higher inflation means its real growth is actually the most negative of the four."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Cloud Storage Invoice</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Rate</td><td>€0.018 per GB per month</td></tr><tr><td>Department storage used</td><td>4.2 TB (1 TB = 1,000 GB)</td></tr></tbody></table>",
-        "question": "4. What is the department's total monthly storage cost?",
-        "options": [
-          "€77.41",
-          "€0.08",
-          "€75.60",
-          "€7.56"
-        ],
-        "answer": 2,
-        "explanation": "Convert to GB first: 4.2 TB × 1,000 = 4,200 GB. Cost = 4,200 × €0.018 = €75.60. Option €77.41 is the trap of using 1,024 (binary) instead of 1,000 (the decimal conversion this invoice specifies) as the TB-to-GB factor; €0.08 comes from forgetting to convert TB to GB at all."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Τιμολόγιο Αποθήκευσης Cloud</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Χρέωση</td><td>€0,018 ανά GB μηνιαίως</td></tr><tr><td>Χρήση αποθήκευσης τμήματος</td><td>4,2 TB (1 TB = 1.000 GB)</td></tr></tbody></table>",
-        "question": "4. Ποιο είναι το συνολικό μηνιαίο κόστος αποθήκευσης του τμήματος;",
-        "options": [
-          "€77,41",
-          "€0,08",
-          "€75,60",
-          "€7,56"
-        ],
-        "answer": 2,
-        "explanation": "Μετατρέψτε πρώτα σε GB: 4,2 TB × 1.000 = 4.200 GB. Κόστος = 4.200 × €0,018 = €75,60. Η επιλογή €77,41 είναι η παγίδα χρήσης του 1.024 (δυαδικό) αντί του 1.000 (ο δεκαδικός συντελεστής που ορίζει το τιμολόγιο) ως συντελεστή μετατροπής TB σε GB· το €0,08 προκύπτει από πλήρη παράλειψη της μετατροπής TB σε GB."
-      }
+    "el": {
+      "passage 3": "<table><tr><th>Χώρα</th><th>Ονομαστική Ανάπτυξη ΑΕΠ 2023</th><th>Πληθωρισμός 2023</th></tr><tr><td>Ουγγαρία</td><td>14,2%</td><td>17,6%</td></tr><tr><td>Τσεχία</td><td>7,8%</td><td>10,9%</td></tr><tr><td>Κροατία</td><td>11,5%</td><td>8,4%</td></tr><tr><td>Σλοβακία</td><td>9,1%</td><td>10,5%</td></tr></table><p>Ονομαστική ανάπτυξη ΑΕΠ και ρυθμός πληθωρισμού, 2023. (Κατά προσέγγιση πραγματική ανάπτυξη = ονομαστική ανάπτυξη - πληθωρισμός.)</p>",
+      "question": "Ποια χώρα είχε στην πραγματικότητα ΘΕΤΙΚΗ πραγματική (προσαρμοσμένη στον πληθωρισμό) ανάπτυξη ΑΕΠ το 2023, παρότι δεν εμφάνισε το υψηλότερο ονομαστικό ποσοστό ανάπτυξης;",
+      "options": ["Ουγγαρία", "Τσεχία", "Κροατία", "Σλοβακία", "Όλες είχαν αρνητική πραγματική ανάπτυξη"],
+      "answer": "C",
+      "explanation": "Κατά προσέγγιση πραγματική ανάπτυξη: Ουγγαρία 14,2-17,6=-3,4%· Τσεχία 7,8-10,9=-3,1%· Κροατία 11,5-8,4=+3,1%· Σλοβακία 9,1-10,5=-1,4%. Μόνο η Κροατία είναι θετική. Η Ουγγαρία εμφανίζει την υψηλότερη ΟΝΟΜΑΣΤΙΚΗ ανάπτυξη (14,2%) - αυτή είναι η παγίδα - όμως ο ακόμη υψηλότερος πληθωρισμός της σημαίνει ότι η πραγματική της ανάπτυξη είναι στην πραγματικότητα η πιο αρνητική από τις τέσσερις."
+    }
+  },
+  {
+    "en": {
+      "passage 4": "<table><tr><th>Balance Sheet Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Total Assets</td><td>520</td><td>545</td><td>580</td><td>615</td></tr><tr><td>Current Assets</td><td>210</td><td>225</td><td>248</td><td>262</td></tr><tr><td>Current Liabilities</td><td>165</td><td>178</td><td>205</td><td>236</td></tr></table><p>Balance sheet time series. (Note: Working Capital = Current Assets - Current Liabilities.)</p>",
+      "question": "In which year did the company's working capital decline the most compared to the previous year, despite Total Assets rising every single year?",
+      "options": ["2022", "2023", "It did not decline in any year", "2024", "Cannot be determined from the data"],
+      "answer": "D",
+      "explanation": "Working capital: 2021=45, 2022=47, 2023=43, 2024=26. Year-over-year change: 2022 +2, 2023 -4, 2024 -17. The sharpest decline is 2024. The steadily rising Total Assets row is the trap - it suggests continual health, but working capital (a liquidity measure) deteriorated sharply, especially in the final year."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Sector X Budget Allocation</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Sector X Allocation</th><th>Total Budget</th></tr></thead><tbody><tr><td>2023</td><td>€40 million</td><td>€200 million</td></tr><tr><td>2024</td><td>€55 million</td><td>€250 million</td></tr></tbody></table>",
-        "question": "5. What is the percentage-point change in Sector X's share of the total budget between 2023 and 2024?",
-        "options": [
-          "+2.0 pp",
-          "+37.5%",
-          "+2.75 pp",
-          "+15 million euros"
-        ],
-        "answer": 0,
-        "explanation": "Sector X's share was 40/200=20.0% in 2023 and 55/250=22.0% in 2024, a change of +2.0 percentage points. Option +37.5% is the trap — it is the percentage GROWTH of the allocation itself ((55−40)/40×100), which answers a different question about the budget amount, not its share of the total."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή Προϋπολογισμού Τομέα X</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Κατανομή Τομέα X</th><th>Συνολικός Προϋπολογισμός</th></tr></thead><tbody><tr><td>2023</td><td>€40 εκατ.</td><td>€200 εκατ.</td></tr><tr><td>2024</td><td>€55 εκατ.</td><td>€250 εκατ.</td></tr></tbody></table>",
-        "question": "5. Ποια είναι η μεταβολή σε ποσοστιαίες μονάδες του μεριδίου του Τομέα X στον συνολικό προϋπολογισμό μεταξύ 2023 και 2024;",
-        "options": [
-          "+2,0 μον.",
-          "+37,5%",
-          "+2,75 μον.",
-          "+15 εκατομμύρια ευρώ"
-        ],
-        "answer": 0,
-        "explanation": "Το μερίδιο του Τομέα X ήταν 40/200=20,0% το 2023 και 55/250=22,0% το 2024, μεταβολή +2,0 ποσοστιαίες μονάδες. Η επιλογή +37,5% είναι η παγίδα — είναι η ποσοστιαία ΑΥΞΗΣΗ του ίδιου του ποσού ((55−40)/40×100), που απαντά σε διαφορετική ερώτηση σχετικά με το ποσό, όχι το μερίδιό του στο σύνολο."
-      }
+    "el": {
+      "passage 4": "<table><tr><th>Στοιχείο Ισολογισμού (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Σύνολο Ενεργητικού</td><td>520</td><td>545</td><td>580</td><td>615</td></tr><tr><td>Κυκλοφορούν Ενεργητικό</td><td>210</td><td>225</td><td>248</td><td>262</td></tr><tr><td>Βραχυπρόθεσμες Υποχρεώσεις</td><td>165</td><td>178</td><td>205</td><td>236</td></tr></table><p>Χρονοσειρά ισολογισμού. (Σημείωση: Κεφάλαιο Κίνησης = Κυκλοφορούν Ενεργητικό - Βραχυπρόθεσμες Υποχρεώσεις.)</p>",
+      "question": "Σε ποιο έτος μειώθηκε περισσότερο το κεφάλαιο κίνησης της εταιρείας σε σχέση με το προηγούμενο έτος, παρότι το Σύνολο Ενεργητικού αυξανόταν κάθε χρόνο;",
+      "options": ["2022", "2023", "Δεν μειώθηκε σε κανένα έτος", "2024", "Δεν μπορεί να προσδιοριστεί από τα δεδομένα"],
+      "answer": "D",
+      "explanation": "Κεφάλαιο κίνησης: 2021=45, 2022=47, 2023=43, 2024=26. Ετήσια μεταβολή: 2022 +2, 2023 -4, 2024 -17. Η απότομη πτώση σημειώνεται το 2024. Η σταθερά αυξανόμενη γραμμή του Συνόλου Ενεργητικού είναι η παγίδα - υποδηλώνει συνεχή υγεία, όμως το κεφάλαιο κίνησης (μέτρο ρευστότητας) επιδεινώθηκε απότομα, ιδίως στο τελευταίο έτος."
+    }
+  },
+  {
+    "en": {
+      "passage 5": "<p>Definitions: <b>Return on Assets (ROA)</b> = Net Income / Total Assets - measures how efficiently a company uses ALL its assets to generate profit. <b>Return on Equity (ROE)</b> = Net Income / Total Equity - measures the return generated specifically for shareholders.</p><table><tr><th>Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Net Income</td><td>42</td><td>51</td><td>58</td><td>66</td></tr><tr><td>Total Assets</td><td>620</td><td>655</td><td>690</td><td>735</td></tr><tr><td>Total Equity</td><td>280</td><td>305</td><td>328</td><td>352</td></tr></table>",
+      "question": "What was the company's Return on Assets (ROA) in 2024?",
+      "options": ["9.0%", "18.8%", "6.8%", "17.7%", "7.8%"],
+      "answer": "A",
+      "explanation": "ROA 2024 = Net Income / Total Assets = 66/735 = 8.98%, approximately 9.0%. Using the ROE formula instead (66/352 = 18.75%) is the trap - it divides by the smaller equity figure rather than total assets, which are the correct denominator for ROA."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Population Change (Annual)</caption><thead><tr style='background:#e8f0fe;'><th>Component</th><th>Value</th></tr></thead><tbody><tr><td>Starting population</td><td>850,000</td></tr><tr><td>Births during the year</td><td>9,200</td></tr><tr><td>Deaths during the year</td><td>7,600</td></tr><tr><td>Net migration (inflow)</td><td>+3,100</td></tr></tbody></table>",
-        "question": "6. What was the region's population growth rate for the year, to two decimal places?",
-        "options": [
-          "0.19%",
-          "1.08%",
-          "2.34%",
-          "0.55%"
-        ],
-        "answer": 3,
-        "explanation": "Net population change = births − deaths + net migration = 9,200 − 7,600 + 3,100 = 4,700. Growth rate = 4,700 / 850,000 × 100 ≈ 0.55%. Option 0.19% is the trap of forgetting net migration entirely (using only births−deaths); 1.08% comes from counting births alone."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ετήσια Μεταβολή Πληθυσμού Περιφέρειας</caption><thead><tr style='background:#e8f0fe;'><th>Συνιστώσα</th><th>Τιμή</th></tr></thead><tbody><tr><td>Αρχικός πληθυσμός</td><td>850.000</td></tr><tr><td>Γεννήσεις κατά το έτος</td><td>9.200</td></tr><tr><td>Θάνατοι κατά το έτος</td><td>7.600</td></tr><tr><td>Καθαρή μετανάστευση (εισροή)</td><td>+3.100</td></tr></tbody></table>",
-        "question": "6. Ποιος ήταν ο ρυθμός πληθυσμιακής αύξησης της περιφέρειας για το έτος, με δύο δεκαδικά;",
-        "options": [
-          "0,19%",
-          "1,08%",
-          "2,34%",
-          "0,55%"
-        ],
-        "answer": 3,
-        "explanation": "Καθαρή μεταβολή πληθυσμού = γεννήσεις − θάνατοι + καθαρή μετανάστευση = 9.200 − 7.600 + 3.100 = 4.700. Ρυθμός αύξησης = 4.700 / 850.000 × 100 ≈ 0,55%. Η επιλογή 0,19% είναι η παγίδα πλήρους παράλειψης της καθαρής μετανάστευσης (χρήση μόνο γεννήσεων−θανάτων)· το 1,08% προκύπτει από καταμέτρηση μόνο των γεννήσεων."
-      }
+    "el": {
+      "passage 5": "<p>Ορισμοί: <b>Απόδοση Ενεργητικού (ROA)</b> = Καθαρό Κέρδος / Σύνολο Ενεργητικού - μετρά πόσο αποτελεσματικά χρησιμοποιεί η εταιρεία ΟΛΟ το ενεργητικό της για να παράξει κέρδος. <b>Απόδοση Ιδίων Κεφαλαίων (ROE)</b> = Καθαρό Κέρδος / Σύνολο Ιδίων Κεφαλαίων - μετρά την απόδοση που παράγεται ειδικά για τους μετόχους.</p><table><tr><th>Στοιχείο (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Καθαρό Κέρδος</td><td>42</td><td>51</td><td>58</td><td>66</td></tr><tr><td>Σύνολο Ενεργητικού</td><td>620</td><td>655</td><td>690</td><td>735</td></tr><tr><td>Σύνολο Ιδίων Κεφαλαίων</td><td>280</td><td>305</td><td>328</td><td>352</td></tr></table>",
+      "question": "Ποια ήταν η Απόδοση Ενεργητικού (ROA) της εταιρείας το 2024;",
+      "options": ["9,0%", "18,8%", "6,8%", "17,7%", "7,8%"],
+      "answer": "A",
+      "explanation": "ROA 2024 = Καθαρό Κέρδος / Σύνολο Ενεργητικού = 66/735 = 8,98%, δηλαδή περίπου 9,0%. Η χρήση του τύπου του ROE αντ' αυτού (66/352 = 18,75%) είναι η παγίδα - διαιρεί με το μικρότερο μέγεθος των ιδίων κεφαλαίων αντί με το σύνολο του ενεργητικού, που είναι ο σωστός παρονομαστής για το ROA."
+    }
+  },
+  {
+    "en": {
+      "passage 6": "<table><tr><th>Country</th><th>Export Value Growth 2023</th><th>Export Price Growth 2023</th></tr><tr><td>Netherlands</td><td>8.4%</td><td>6.1%</td></tr><tr><td>Belgium</td><td>5.2%</td><td>6.8%</td></tr><tr><td>Ireland</td><td>12.1%</td><td>3.4%</td></tr><tr><td>Slovenia</td><td>6.9%</td><td>5.5%</td></tr></table><p>Export value growth and export price growth, 2023. (Approx. volume growth = value growth - price growth.)</p>",
+      "question": "Which country actually exported FEWER GOODS BY VOLUME in 2023 than the previous year, despite reporting positive export value growth?",
+      "options": ["Netherlands", "Ireland", "Slovenia", "None of the above - all countries grew in volume", "Belgium"],
+      "answer": "E",
+      "explanation": "Approx. volume growth = value growth - price growth. Netherlands +2.3%, Belgium 5.2-6.8=-1.6%, Ireland +8.7%, Slovenia +1.4%. Only Belgium's volume growth is negative. Scanning the Export Value Growth column shows every country positive - that column is the trap, since Belgium's price growth (6.8%) actually exceeded its value growth (5.2%), meaning it shipped less by volume even while its export revenue rose."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Conference Registration Discount Policy</caption><thead><tr style='background:#e8f0fe;'><th>Discount</th><th>Applies to</th></tr></thead><tbody><tr><td>Early-bird discount</td><td>20% off the €250 standard fee</td></tr><tr><td>Additional staff discount</td><td>10% off the already-discounted price</td></tr></tbody></table>",
-        "question": "7. What is the final registration fee after both discounts are applied?",
-        "options": [
-          "€200",
-          "€162.50",
-          "€175",
-          "€180"
-        ],
-        "answer": 3,
-        "explanation": "First discount: €250 × 0.80 = €200. Second discount applied to the new price: €200 × 0.90 = €180. Option €175 is the trap of adding the two percentages (20%+10%=30% off €250 = €175) instead of applying them sequentially, one after the other."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Πολιτική Έκπτωσης Εγγραφής Συνεδρίου</caption><thead><tr style='background:#e8f0fe;'><th>Έκπτωση</th><th>Εφαρμόζεται σε</th></tr></thead><tbody><tr><td>Έκπτωση πρώιμης εγγραφής</td><td>20% έκπτωση επί του κανονικού τέλους των €250</td></tr><tr><td>Πρόσθετη έκπτωση προσωπικού</td><td>10% έκπτωση επί της ήδη εκπτωτικής τιμής</td></tr></tbody></table>",
-        "question": "7. Ποιο είναι το τελικό τέλος εγγραφής μετά την εφαρμογή και των δύο εκπτώσεων;",
-        "options": [
-          "€200",
-          "€162,50",
-          "€175",
-          "€180"
-        ],
-        "answer": 3,
-        "explanation": "Πρώτη έκπτωση: €250 × 0,80 = €200. Δεύτερη έκπτωση επί της νέας τιμής: €200 × 0,90 = €180. Η επιλογή €175 είναι η παγίδα της πρόσθεσης των δύο ποσοστών (20%+10%=30% έκπτωση επί €250 = €175) αντί της διαδοχικής εφαρμογής τους, το ένα μετά το άλλο."
-      }
+    "el": {
+      "passage 6": "<table><tr><th>Χώρα</th><th>Αύξηση Αξίας Εξαγωγών 2023</th><th>Αύξηση Τιμών Εξαγωγών 2023</th></tr><tr><td>Ολλανδία</td><td>8,4%</td><td>6,1%</td></tr><tr><td>Βέλγιο</td><td>5,2%</td><td>6,8%</td></tr><tr><td>Ιρλανδία</td><td>12,1%</td><td>3,4%</td></tr><tr><td>Σλοβενία</td><td>6,9%</td><td>5,5%</td></tr></table><p>Αύξηση αξίας και τιμών εξαγωγών, 2023. (Κατά προσέγγιση αύξηση όγκου = αύξηση αξίας - αύξηση τιμών.)</p>",
+      "question": "Ποια χώρα στην πραγματικότητα εξήγαγε ΛΙΓΟΤΕΡΑ ΑΓΑΘΑ ΣΕ ΟΓΚΟ το 2023 σε σχέση με το προηγούμενο έτος, παρότι ανέφερε θετική αύξηση αξίας εξαγωγών;",
+      "options": ["Ολλανδία", "Ιρλανδία", "Σλοβενία", "Κανένα από τα παραπάνω - όλες οι χώρες αυξήθηκαν σε όγκο", "Βέλγιο"],
+      "answer": "E",
+      "explanation": "Κατά προσέγγιση αύξηση όγκου = αύξηση αξίας - αύξηση τιμών. Ολλανδία +2,3%, Βέλγιο 5,2-6,8=-1,6%, Ιρλανδία +8,7%, Σλοβενία +1,4%. Μόνο ο όγκος του Βελγίου είναι αρνητικός. Η στήλη Αύξησης Αξίας δείχνει όλες τις χώρες θετικές - αυτή η στήλη είναι η παγίδα, καθώς η αύξηση τιμών του Βελγίου (6,8%) ξεπέρασε στην πραγματικότητα την αύξηση αξίας του (5,2%), που σημαίνει ότι διακίνησε λιγότερο όγκο ακόμη κι ενώ τα έσοδά του από εξαγωγές αυξήθηκαν."
+    }
+  },
+  {
+    "en": {
+      "passage 7": "<table><tr><th>Country</th><th>Total Public Debt (EUR bn)</th><th>Population (million)</th></tr><tr><td>Italy</td><td>2,860</td><td>59.0</td></tr><tr><td>Belgium</td><td>620</td><td>11.7</td></tr><tr><td>Austria</td><td>400</td><td>9.1</td></tr><tr><td>Finland</td><td>215</td><td>5.6</td></tr></table>",
+      "question": "Which country has the highest public debt PER CAPITA?",
+      "options": ["Italy", "Finland", "Belgium", "Austria", "All approximately equal"],
+      "answer": "C",
+      "explanation": "Per capita debt: Italy €48,475; Belgium €52,991; Austria €43,956; Finland €38,393. Belgium has the highest, despite Italy having by far the largest debt in absolute terms (€2,860bn is the most eye-catching number in the table) - the trap is answering from the absolute figure rather than dividing by population."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Public Consultation Survey</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Survey sample size</td><td>400 residents</td></tr><tr><td>Residents supporting the project (in sample)</td><td>268</td></tr><tr><td>Total eligible population</td><td>18,500</td></tr></tbody></table>",
-        "question": "8. Based on the sample, what is the best estimate of the total number of supporters in the full population?",
-        "options": [
-          "≈ 12,395",
-          "≈ 6,105",
-          "≈ 8,321",
-          "≈ 18,500"
-        ],
-        "answer": 0,
-        "explanation": "Sample support rate = 268/400 = 67.0%. Applying this rate to the full population: 18,500 × 0.67 ≈ 12,395. Option ≈ 8,321 is the trap of applying the rate to the sample size again or miscalculating the proportion instead of the full population figure."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Έρευνα Δημόσιας Διαβούλευσης</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Μέγεθος δείγματος έρευνας</td><td>400 κάτοικοι</td></tr><tr><td>Κάτοικοι που υποστηρίζουν το έργο (στο δείγμα)</td><td>268</td></tr><tr><td>Συνολικός επιλέξιμος πληθυσμός</td><td>18.500</td></tr></tbody></table>",
-        "question": "8. Βάσει του δείγματος, ποια είναι η καλύτερη εκτίμηση του συνολικού αριθμού υποστηρικτών στον πλήρη πληθυσμό;",
-        "options": [
-          "≈ 12.395",
-          "≈ 6.105",
-          "≈ 8.321",
-          "≈ 18.500"
-        ],
-        "answer": 0,
-        "explanation": "Ποσοστό υποστήριξης δείγματος = 268/400 = 67,0%. Εφαρμόζοντας το ποσοστό στον πλήρη πληθυσμό: 18.500 × 0,67 ≈ 12.395. Η επιλογή ≈ 8.321 είναι η παγίδα εφαρμογής του ποσοστού ξανά στο μέγεθος δείγματος ή εσφαλμένου υπολογισμού της αναλογίας αντί του πλήρους πληθυσμιακού μεγέθους."
-      }
+    "el": {
+      "passage 7": "<table><tr><th>Χώρα</th><th>Συνολικό Δημόσιο Χρέος (δισ. ευρώ)</th><th>Πληθυσμός (εκατ.)</th></tr><tr><td>Ιταλία</td><td>2.860</td><td>59,0</td></tr><tr><td>Βέλγιο</td><td>620</td><td>11,7</td></tr><tr><td>Αυστρία</td><td>400</td><td>9,1</td></tr><tr><td>Φινλανδία</td><td>215</td><td>5,6</td></tr></table>",
+      "question": "Ποια χώρα έχει το υψηλότερο δημόσιο χρέος ΚΑΤΑ ΚΕΦΑΛΗΝ;",
+      "options": ["Ιταλία", "Φινλανδία", "Βέλγιο", "Αυστρία", "Όλες περίπου ίσες"],
+      "answer": "C",
+      "explanation": "Κατά κεφαλήν χρέος: Ιταλία 48.475 ευρώ· Βέλγιο 52.991 ευρώ· Αυστρία 43.956 ευρώ· Φινλανδία 38.393 ευρώ. Το Βέλγιο έχει το υψηλότερο, παρότι η Ιταλία έχει κατά πολύ το μεγαλύτερο χρέος σε απόλυτους όρους (2.860 δισ. ευρώ είναι ο πιο εντυπωσιακός αριθμός στον πίνακα) - η παγίδα είναι να απαντήσει κανείς με βάση το απόλυτο νούμερο αντί να διαιρέσει με τον πληθυσμό."
+    }
+  },
+  {
+    "en": {
+      "passage 8": "<p>Definition: <b>CAGR (Compound Annual Growth Rate)</b> = (End Value / Start Value)^(1/n) - 1, where n is the number of years. It differs from a simple average of year-on-year growth rates.</p><table><tr><th>Year</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Revenue (EUR million)</td><td>400</td><td>460</td><td>490</td><td>620</td></tr></table>",
+      "question": "What was the company's CAGR in revenue from 2021 to 2024 (n = 3 years)?",
+      "options": ["15.0%", "16.0%", "26.5%", "15.7%", "55.0%"],
+      "answer": "D",
+      "explanation": "CAGR = (620/400)^(1/3) - 1 = 15.7%. The simple average of the three year-on-year growth rates (15.0%, 6.5%, 26.5%, averaging to 16.0%) is the trap - it is a different calculation from CAGR and gives a noticeably different figure. The single largest year-on-year jump (2023-2024, 26.5%) and the uncompounded total change over the whole period (55.0%) are further distractors."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Directorate Payroll Overview</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Total annual payroll</td><td>€2,340,000</td></tr><tr><td>Number of employees</td><td>180</td></tr><tr><td>Next year: both total payroll AND number of employees increase by</td><td>10%</td></tr></tbody></table>",
-        "question": "9. If both the total payroll and the number of employees increase by the same 10%, what happens to the average salary?",
-        "options": [
-          "It decreases slightly",
-          "It increases by 10% (€14,300)",
-          "It stays the same (€13,000)",
-          "It increases by 20%"
-        ],
-        "answer": 2,
-        "explanation": "Current average = 2,340,000/180 = €13,000. If both payroll and headcount grow by the identical 10%, the ratio between them is unchanged: (2,340,000×1.10)/(180×1.10) = €13,000, exactly the same. The trap is assuming a 10% rise in the total automatically means a 10% rise in the average — it only does so if the denominator (headcount) stays fixed, which it does not here."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Επισκόπηση Μισθοδοσίας Διεύθυνσης</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Συνολική ετήσια μισθοδοσία</td><td>€2.340.000</td></tr><tr><td>Αριθμός υπαλλήλων</td><td>180</td></tr><tr><td>Τον επόμενο χρόνο: τόσο η συνολική μισθοδοσία ΟΣΟ ΚΑΙ ο αριθμός υπαλλήλων αυξάνονται κατά</td><td>10%</td></tr></tbody></table>",
-        "question": "9. Αν τόσο η συνολική μισθοδοσία όσο και ο αριθμός υπαλλήλων αυξηθούν κατά το ίδιο 10%, τι συμβαίνει στον μέσο μισθό;",
-        "options": [
-          "Μειώνεται ελαφρώς",
-          "Αυξάνεται κατά 10% (€14.300)",
-          "Παραμένει ο ίδιος (€13.000)",
-          "Αυξάνεται κατά 20%"
-        ],
-        "answer": 2,
-        "explanation": "Τρέχων μέσος όρος = 2.340.000/180 = €13.000. Αν τόσο η μισθοδοσία όσο και το προσωπικό αυξηθούν κατά το ίδιο 10%, ο λόγος μεταξύ τους παραμένει αμετάβλητος: (2.340.000×1,10)/(180×1,10) = €13.000, ακριβώς ο ίδιος. Η παγίδα είναι η υπόθεση ότι μια αύξηση 10% στο σύνολο συνεπάγεται αυτόματα αύξηση 10% στον μέσο όρο — αυτό ισχύει μόνο αν ο παρονομαστής (αριθμός προσωπικού) παραμένει σταθερός, κάτι που δεν συμβαίνει εδώ."
-      }
+    "el": {
+      "passage 8": "<p>Ορισμός: <b>CAGR (Σύνθετος Ετήσιος Ρυθμός Ανάπτυξης)</b> = (Τελική Τιμή / Αρχική Τιμή)^(1/n) - 1, όπου n ο αριθμός των ετών. Διαφέρει από τον απλό μέσο όρο των ετήσιων ρυθμών ανάπτυξης.</p><table><tr><th>Έτος</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Έσοδα (εκατ. ευρώ)</td><td>400</td><td>460</td><td>490</td><td>620</td></tr></table>",
+      "question": "Ποιος ήταν ο CAGR των εσόδων της εταιρείας από το 2021 έως το 2024 (n = 3 έτη);",
+      "options": ["15,0%", "16,0%", "26,5%", "15,7%", "55,0%"],
+      "answer": "D",
+      "explanation": "CAGR = (620/400)^(1/3) - 1 = 15,7%. Ο απλός μέσος όρος των τριών ετήσιων ρυθμών ανάπτυξης (15,0%, 6,5%, 26,5%, με μέσο όρο 16,0%) είναι η παγίδα - πρόκειται για διαφορετικό υπολογισμό από τον CAGR και δίνει αισθητά διαφορετικό αριθμό. Η μεγαλύτερη μεμονωμένη ετήσια αύξηση (2023-2024, 26,5%) και η μη ανατοκιζόμενη συνολική μεταβολή σε όλη την περίοδο (55,0%) είναι επιπλέον αντιπερισπασμοί."
+    }
+  },
+  {
+    "en": {
+      "passage 9": "<table><tr><th>Country</th><th>Cohesion Fund Allocation (EUR million)</th><th>Population (million)</th><th>GDP (EUR bn)</th></tr><tr><td>Poland</td><td>76,300</td><td>37.7</td><td>812</td></tr><tr><td>Romania</td><td>31,300</td><td>19.0</td><td>337</td></tr><tr><td>Bulgaria</td><td>11,000</td><td>6.4</td><td>105</td></tr><tr><td>Hungary</td><td>22,300</td><td>9.6</td><td>205</td></tr></table><p>Current EU Cohesion Fund allocation for the funding period.</p>",
+      "question": "For which country does the Cohesion Fund allocation represent the LARGEST share of national GDP?",
+      "options": ["Poland", "Hungary", "Romania", "Bulgaria", "All approximately equal"],
+      "answer": "B",
+      "explanation": "Allocation as % of GDP: Poland 9.40%; Romania 9.29%; Bulgaria 10.48%; Hungary 10.88%. Hungary's share is the largest. Poland's allocation (€76,300m) is the biggest number in the table and the trap for readers who equate the largest absolute sum with the largest relative share - but Poland's GDP is also proportionally much larger, so its share of GDP is actually the smallest of the four."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Currency Exchange Rates (reference day)</caption><thead><tr style='background:#e8f0fe;'><th>Pair</th><th>Rate</th></tr></thead><tbody><tr><td>1 EUR</td><td>= 1.08 USD</td></tr><tr><td>1 USD</td><td>= 145 JPY</td></tr></tbody></table>",
-        "question": "10. Based on these two exchange rates, how many Japanese yen is 1 euro equivalent to?",
-        "options": [
-          "145.0 JPY",
-          "156.6 JPY",
-          "134.3 JPY",
-          "150.0 JPY"
-        ],
-        "answer": 1,
-        "explanation": "Cross-rate: 1 EUR = 1.08 USD, and 1 USD = 145 JPY, so 1 EUR = 1.08 × 145 = 156.6 JPY. Option 134.3 JPY is the trap of dividing instead of multiplying (145/1.08), and 145.0 JPY is the trap of ignoring the EUR/USD rate entirely."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Συναλλαγματικές Ισοτιμίες (ημέρα αναφοράς)</caption><thead><tr style='background:#e8f0fe;'><th>Ζεύγος</th><th>Ισοτιμία</th></tr></thead><tbody><tr><td>1 EUR</td><td>= 1,08 USD</td></tr><tr><td>1 USD</td><td>= 145 JPY</td></tr></tbody></table>",
-        "question": "10. Βάσει αυτών των δύο ισοτιμιών, πόσα ιαπωνικά γιεν αντιστοιχούν σε 1 ευρώ;",
-        "options": [
-          "145,0 JPY",
-          "156,6 JPY",
-          "134,3 JPY",
-          "150,0 JPY"
-        ],
-        "answer": 1,
-        "explanation": "Διασταυρούμενη ισοτιμία: 1 EUR = 1,08 USD, και 1 USD = 145 JPY, άρα 1 EUR = 1,08 × 145 = 156,6 JPY. Η επιλογή 134,3 JPY είναι η παγίδα διαίρεσης αντί πολλαπλασιασμού (145/1,08), και η επιλογή 145,0 JPY είναι η παγίδα πλήρους αγνόησης της ισοτιμίας EUR/USD."
-      }
+    "el": {
+      "passage 9": "<table><tr><th>Χώρα</th><th>Χρηματοδότηση Ταμείου Συνοχής (εκατ. ευρώ)</th><th>Πληθυσμός (εκατ.)</th><th>ΑΕΠ (δισ. ευρώ)</th></tr><tr><td>Πολωνία</td><td>76.300</td><td>37,7</td><td>812</td></tr><tr><td>Ρουμανία</td><td>31.300</td><td>19,0</td><td>337</td></tr><tr><td>Βουλγαρία</td><td>11.000</td><td>6,4</td><td>105</td></tr><tr><td>Ουγγαρία</td><td>22.300</td><td>9,6</td><td>205</td></tr></table><p>Τρέχουσα χρηματοδότηση από το Ταμείο Συνοχής της ΕΕ για την περίοδο προγραμματισμού.</p>",
+      "question": "Για ποια χώρα η χρηματοδότηση από το Ταμείο Συνοχής αντιπροσωπεύει το ΜΕΓΑΛΥΤΕΡΟ ποσοστό του εθνικού ΑΕΠ;",
+      "options": ["Πολωνία", "Ουγγαρία", "Ρουμανία", "Βουλγαρία", "Όλες περίπου ίσες"],
+      "answer": "B",
+      "explanation": "Χρηματοδότηση ως % του ΑΕΠ: Πολωνία 9,40%· Ρουμανία 9,29%· Βουλγαρία 10,48%· Ουγγαρία 10,88%. Το ποσοστό της Ουγγαρίας είναι το μεγαλύτερο. Η χρηματοδότηση της Πολωνίας (76.300 εκατ. ευρώ) είναι ο μεγαλύτερος αριθμός στον πίνακα και η παγίδα για όσους ταυτίζουν το μεγαλύτερο απόλυτο ποσό με το μεγαλύτερο σχετικό ποσοστό - όμως το ΑΕΠ της Πολωνίας είναι επίσης αναλογικά πολύ μεγαλύτερο, οπότε το ποσοστό της επί του ΑΕΠ είναι στην πραγματικότητα το μικρότερο από τις τέσσερις."
+    }
+  },
+  {
+    "en": {
+      "passage 10": "<table><tr><th>Country</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Estonia</td><td>19.4%</td><td>9.1%</td><td>3.4%</td></tr><tr><td>Latvia</td><td>17.2%</td><td>9.1%</td><td>1.3%</td></tr><tr><td>Lithuania</td><td>18.9%</td><td>8.7%</td><td>0.8%</td></tr></table><p>Annual inflation rate, 2022-2024.</p>",
+      "question": "What was Estonia's total CUMULATIVE (compounded) inflation over 2022-2024?",
+      "options": ["31.9%", "34.7%", "29.5%", "30.3%", "27.6%"],
+      "answer": "B",
+      "explanation": "Compounding: (1.194 x 1.091 x 1.034 - 1) x 100 = 34.69%, approximately 34.7%. Simply adding the three annual rates (19.4+9.1+3.4 = 31.9%) is the trap - inflation compounds on an ever-rising price base each year, so the true cumulative figure is always somewhat higher than the simple sum."
+    },
+    "el": {
+      "passage 10": "<table><tr><th>Χώρα</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Εσθονία</td><td>19,4%</td><td>9,1%</td><td>3,4%</td></tr><tr><td>Λετονία</td><td>17,2%</td><td>9,1%</td><td>1,3%</td></tr><tr><td>Λιθουανία</td><td>18,9%</td><td>8,7%</td><td>0,8%</td></tr></table><p>Ετήσιος ρυθμός πληθωρισμού, 2022-2024.</p>",
+      "question": "Ποιος ήταν ο συνολικός ΣΩΡΕΥΤΙΚΟΣ (ανατοκιζόμενος) πληθωρισμός της Εσθονίας κατά την περίοδο 2022-2024;",
+      "options": ["31,9%", "34,7%", "29,5%", "30,3%", "27,6%"],
+      "answer": "B",
+      "explanation": "Ανατοκισμός: (1,194 x 1,091 x 1,034 - 1) x 100 = 34,69%, δηλαδή περίπου 34,7%. Η απλή πρόσθεση των τριών ετήσιων ποσοστών (19,4+9,1+3,4 = 31,9%) είναι η παγίδα - ο πληθωρισμός ανατοκίζεται πάνω σε μια συνεχώς αυξανόμενη βάση τιμών κάθε χρόνο, οπότε το πραγματικό σωρευτικό ποσοστό είναι πάντα κάπως υψηλότερο από την απλή άθροιση."
+     }
     }
   ],
   "num_12": [
     {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Company X Revenue and Total Market Size</caption><thead><tr style='background:#e8f0fe;'><th>Year</th><th>Company X Revenue</th><th>Total Market Size</th></tr></thead><tbody><tr><td>2023</td><td>€80 million</td><td>€400 million</td></tr><tr><td>2024</td><td>€90 million</td><td>€500 million</td></tr></tbody></table>",
-        "question": "1. Company X's revenue grew by 12.5% between 2023 and 2024. What happened to its share of the total market?",
-        "options": [
-          "It stayed exactly the same at 20.0%",
-          "It fell from 20.0% to 18.0%, since the total market grew faster than the company's revenue",
-          "It grew from 20.0% to 22.5%, in line with the revenue growth",
-          "It fell to 16.0%"
-        ],
-        "answer": 1,
-        "explanation": "Market share 2023: 80/400=20.0%. Market share 2024: 90/500=18.0% — a fall, despite the company's own revenue growing. The trap is assuming that a company's growing revenue automatically means a growing (or at least stable) market share; it depends on how fast the total market itself is growing relative to the company."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Έσοδα Εταιρείας X και Συνολικό Μέγεθος Αγοράς</caption><thead><tr style='background:#e8f0fe;'><th>Έτος</th><th>Έσοδα Εταιρείας X</th><th>Συνολικό Μέγεθος Αγοράς</th></tr></thead><tbody><tr><td>2023</td><td>€80 εκατ.</td><td>€400 εκατ.</td></tr><tr><td>2024</td><td>€90 εκατ.</td><td>€500 εκατ.</td></tr></tbody></table>",
-        "question": "1. Τα έσοδα της Εταιρείας X αυξήθηκαν κατά 12,5% μεταξύ 2023 και 2024. Τι συνέβη στο μερίδιο αγοράς της;",
-        "options": [
-          "Παρέμεινε ακριβώς στο 20,0%",
-          "Μειώθηκε από 20,0% σε 18,0%, καθώς η συνολική αγορά αυξήθηκε ταχύτερα από τα έσοδα της εταιρείας",
-          "Αυξήθηκε από 20,0% σε 22,5%, ανάλογα με την αύξηση των εσόδων",
-          "Μειώθηκε στο 16,0%"
-        ],
-        "answer": 1,
-        "explanation": "Μερίδιο αγοράς 2023: 80/400=20,0%. Μερίδιο αγοράς 2024: 90/500=18,0% — μείωση, παρόλο που τα ίδια τα έσοδα της εταιρείας αυξήθηκαν. Η παγίδα είναι η υπόθεση ότι η αύξηση εσόδων μιας εταιρείας συνεπάγεται αυτόματα αυξανόμενο (ή έστω σταθερό) μερίδιο αγοράς· εξαρτάται από το πόσο γρήγορα αυξάνεται η ίδια η συνολική αγορά σε σχέση με την εταιρεία."
-      }
+    "en": {
+      "passage 1": "<table><tr><th>Country</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Germany</td><td>102.4</td><td>98.7</td><td>94.1</td><td>92.8</td></tr><tr><td>Spain</td><td>96.5</td><td>99.2</td><td>101.8</td><td>104.6</td></tr><tr><td>Italy</td><td>103.1</td><td>105.4</td><td>102.9</td><td>100.2</td></tr><tr><td>Poland</td><td>118.3</td><td>121.6</td><td>119.4</td><td>124.7</td></tr></table><p>Industrial production index (2015 = 100), 2021-2024.</p>",
+      "question": "Whose industrial production INCREASED THE MOST, in percentage terms, between 2021 and 2024?",
+      "options": ["Germany", "Poland", "Italy", "None of the above", "Spain"],
+      "answer": "E",
+      "explanation": "% change 2021-2024: Germany -9.4%, Spain +8.4%, Italy -2.8%, Poland +5.4%. Spain grew the most in percentage terms. Poland's index values are the highest in the table throughout (118.3 to 124.7) and are the trap - its production level is consistently the largest, but because it started from an already-high base, its percentage GROWTH is actually smaller than Spain's."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Shared IT Service Cost Allocation by Department Usage</caption><thead><tr style='background:#e8f0fe;'><th>Department</th><th>Support Tickets Raised</th></tr></thead><tbody><tr><td><strong>Dept A</strong></td><td>3200</td></tr><tr><td><strong>Dept B</strong></td><td>4800</td></tr><tr><td><strong>Dept C</strong></td><td>2000</td></tr><tr><td><strong>Total shared cost to allocate</strong></td><td>€96,000</td></tr></tbody></table>",
-        "question": "2. If the shared cost is allocated in proportion to each department's number of support tickets, what is Department B's share?",
-        "options": [
-          "€46,080",
-          "€32,000",
-          "€38,400",
-          "€48,000"
-        ],
-        "answer": 0,
-        "explanation": "Total tickets = 3,200+4,800+2,000 = 10,000. Department B's share of tickets = 4,800/10,000 = 48%. Its cost share = 96,000 × 0.48 = €46,080. Option €32,000 is the trap of simply dividing the total cost equally by three departments instead of weighting by actual usage."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατανομή Κοινού Κόστους Υπηρεσίας ΤΠ ανά Χρήση Τμήματος</caption><thead><tr style='background:#e8f0fe;'><th>Τμήμα</th><th>Αιτήματα Υποστήριξης</th></tr></thead><tbody><tr><td><strong>Τμήμα A</strong></td><td>3200</td></tr><tr><td><strong>Τμήμα B</strong></td><td>4800</td></tr><tr><td><strong>Τμήμα C</strong></td><td>2000</td></tr><tr><td><strong>Συνολικό κοινό κόστος προς κατανομή</strong></td><td>€96.000</td></tr></tbody></table>",
-        "question": "2. Αν το κοινό κόστος κατανέμεται αναλογικά με τον αριθμό αιτημάτων υποστήριξης κάθε τμήματος, ποιο είναι το μερίδιο του Τμήματος B;",
-        "options": [
-          "€46.080",
-          "€32.000",
-          "€38.400",
-          "€48.000"
-        ],
-        "answer": 0,
-        "explanation": "Σύνολο αιτημάτων = 3.200+4.800+2.000 = 10.000. Μερίδιο αιτημάτων Τμήματος B = 4.800/10.000 = 48%. Μερίδιο κόστους = 96.000 × 0,48 = €46.080. Η επιλογή €32.000 είναι η παγίδα της απλής ισομερούς διαίρεσης του κόστους στα τρία τμήματα αντί στάθμισης βάσει πραγματικής χρήσης."
-      }
+    "el": {
+      "passage 1": "<table><tr><th>Χώρα</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Γερμανία</td><td>102,4</td><td>98,7</td><td>94,1</td><td>92,8</td></tr><tr><td>Ισπανία</td><td>96,5</td><td>99,2</td><td>101,8</td><td>104,6</td></tr><tr><td>Ιταλία</td><td>103,1</td><td>105,4</td><td>102,9</td><td>100,2</td></tr><tr><td>Πολωνία</td><td>118,3</td><td>121,6</td><td>119,4</td><td>124,7</td></tr></table><p>Δείκτης βιομηχανικής παραγωγής (2015 = 100), 2021-2024.</p>",
+      "question": "Ποιας χώρας η βιομηχανική παραγωγή αυξήθηκε ΠΕΡΙΣΣΟΤΕΡΟ, σε ποσοστιαίους όρους, μεταξύ 2021 και 2024;",
+      "options": ["Γερμανία", "Πολωνία", "Ιταλία", "Κανένα από τα παραπάνω", "Ισπανία"],
+      "answer": "E",
+      "explanation": "% μεταβολή 2021-2024: Γερμανία -9,4%, Ισπανία +8,4%, Ιταλία -2,8%, Πολωνία +5,4%. Η Ισπανία αυξήθηκε περισσότερο σε ποσοστιαίους όρους. Οι τιμές του δείκτη της Πολωνίας είναι οι υψηλότερες στον πίνακα καθ' όλη τη διάρκεια (118,3 έως 124,7) και αποτελούν την παγίδα - το επίπεδο παραγωγής της είναι σταθερά το μεγαλύτερο, όμως επειδή ξεκίνησε από ήδη υψηλή βάση, η ποσοστιαία ΑΥΞΗΣΗ της είναι στην πραγματικότητα μικρότερη από αυτή της Ισπανίας."
+    }
+  },
+  {
+    "en": {
+      "passage 2": "<p>Definition: <b>Interest Coverage Ratio (ICR)</b> = EBIT (Earnings Before Interest and Tax) / Interest Expense - measures how easily a company can pay interest on its debt from its operating profit.</p><table><tr><th>Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>EBIT</td><td>58</td><td>64</td><td>71</td><td>79</td></tr><tr><td>Interest Expense</td><td>12</td><td>13</td><td>15</td><td>17</td></tr><tr><td>Net Income</td><td>34</td><td>37</td><td>41</td><td>46</td></tr></table>",
+      "question": "What was the company's Interest Coverage Ratio in 2024?",
+      "options": ["4.65", "2.71", "4.92", "2.83", "5.65"],
+      "answer": "A",
+      "explanation": "ICR 2024 = EBIT / Interest Expense = 79/17 = 4.65. Using Net Income instead of EBIT (46/17 = 2.71) is the trap - Net Income is AFTER interest and tax have already been deducted, so dividing it by interest expense again does not measure coverage capacity correctly."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Investment Fund Performance</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Total growth over 3 years</td><td>+21%</td></tr></tbody></table>",
-        "question": "3. What constant ANNUAL compound growth rate, applied over 3 years, produces this same total 21% growth?",
-        "options": [
-          "3.5% per year",
-          "7.0% per year",
-          "21.0% per year",
-          "≈ 6.6% per year"
-        ],
-        "answer": 3,
-        "explanation": "The annual rate r satisfies (1+r)³ = 1.21, so r = 1.21^(1/3) − 1 ≈ 0.0656 ≈ 6.6%. Option 7.0% is the trap of simply dividing 21% by 3 years, which understates the true compound rate because it ignores that each year's growth also compounds on top of the previous years' growth."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Απόδοση Επενδυτικού Κεφαλαίου</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Συνολική αύξηση σε 3 έτη</td><td>+21%</td></tr></tbody></table>",
-        "question": "3. Ποιος σταθερός ΕΤΗΣΙΟΣ ρυθμός σύνθετης αύξησης, εφαρμοζόμενος για 3 έτη, παράγει την ίδια συνολική αύξηση 21%;",
-        "options": [
-          "3,5% ετησίως",
-          "7,0% ετησίως",
-          "21,0% ετησίως",
-          "≈ 6,6% ετησίως"
-        ],
-        "answer": 3,
-        "explanation": "Ο ετήσιος ρυθμός r ικανοποιεί (1+r)³ = 1,21, άρα r = 1,21^(1/3) − 1 ≈ 0,0656 ≈ 6,6%. Η επιλογή 7,0% είναι η παγίδα της απλής διαίρεσης του 21% διά 3 έτη, που υποεκτιμά τον πραγματικό σύνθετο ρυθμό επειδή αγνοεί ότι η αύξηση κάθε έτους ανατοκίζεται και πάνω στην αύξηση των προηγούμενων ετών."
-      }
+    "el": {
+      "passage 2": "<p>Ορισμός: <b>Δείκτης Κάλυψης Τόκων (ICR)</b> = EBIT (Κέρδη προ Τόκων και Φόρων) / Έξοδα Τόκων - μετρά πόσο εύκολα μπορεί μια εταιρεία να πληρώσει τους τόκους του χρέους της από τα λειτουργικά της κέρδη.</p><table><tr><th>Στοιχείο (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>EBIT</td><td>58</td><td>64</td><td>71</td><td>79</td></tr><tr><td>Έξοδα Τόκων</td><td>12</td><td>13</td><td>15</td><td>17</td></tr><tr><td>Καθαρό Κέρδος</td><td>34</td><td>37</td><td>41</td><td>46</td></tr></table>",
+      "question": "Ποιος ήταν ο Δείκτης Κάλυψης Τόκων (ICR) της εταιρείας το 2024;",
+      "options": ["4,65", "2,71", "4,92", "2,83", "5,65"],
+      "answer": "A",
+      "explanation": "ICR 2024 = EBIT / Έξοδα Τόκων = 79/17 = 4,65. Η χρήση του Καθαρού Κέρδους αντί του EBIT (46/17 = 2,71) είναι η παγίδα - το Καθαρό Κέρδος υπολογίζεται ΜΕΤΑ την αφαίρεση τόκων και φόρων, οπότε η διαίρεσή του ξανά με τα έξοδα τόκων δεν μετρά σωστά την ικανότητα κάλυψης."
+    }
+  },
+  {
+    "en": {
+      "passage 3": "<table><tr><th>Balance Sheet Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Total Assets</td><td>610</td><td>640</td><td>655</td><td>690</td></tr><tr><td>Cash and Equivalents</td><td>85</td><td>92</td><td>78</td><td>65</td></tr><tr><td>Financial Debt</td><td>140</td><td>155</td><td>168</td><td>190</td></tr></table><p>Balance sheet time series. (Note: Net Financial Position = Cash and Equivalents - Financial Debt.)</p>",
+      "question": "By how much did the company's Net Financial Position deteriorate between 2021 and 2024, despite Total Assets growing over the same period?",
+      "options": ["€13 million", "€70 million", "€55 million", "€90 million", "€125 million"],
+      "answer": "B",
+      "explanation": "Net Financial Position: 2021 = 85-140 = -€55m; 2024 = 65-190 = -€125m. Deterioration = -125-(-55) = -€70m. Total Assets rose 13.1% over the same period - the growing Total Assets row is the trap, since it suggests improving health, while the company's actual net cash/debt position worsened by €70m as cash fell and debt rose in tandem."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Recruitment Process Funnel</caption><thead><tr style='background:#e8f0fe;'><th>Stage</th><th>Pass Rate</th></tr></thead><tbody><tr><td>Written test (of 12,000 applicants)</td><td>35%</td></tr><tr><td>Interview (of those who passed the written test)</td><td>40%</td></tr></tbody></table>",
-        "question": "4. How many of the original 12,000 applicants pass BOTH the written test and the interview?",
-        "options": [
-          "4,200",
-          "9,000",
-          "1,680",
-          "4,800"
-        ],
-        "answer": 2,
-        "explanation": "First filter: 12,000 × 0.35 = 4,200 pass the written test. Second filter, applied only to those 4,200: 4,200 × 0.40 = 1,680 pass the interview too. Option 9,000 is the trap of adding the two percentages (35%+40%=75% of 12,000) instead of applying them as successive filters on a shrinking pool."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Χοάνη Διαδικασίας Πρόσληψης</caption><thead><tr style='background:#e8f0fe;'><th>Στάδιο</th><th>Ποσοστό Επιτυχίας</th></tr></thead><tbody><tr><td>Γραπτή εξέταση (από 12.000 υποψηφίους)</td><td>35%</td></tr><tr><td>Συνέντευξη (από όσους πέρασαν τη γραπτή εξέταση)</td><td>40%</td></tr></tbody></table>",
-        "question": "4. Πόσοι από τους αρχικούς 12.000 υποψηφίους περνούν ΚΑΙ τη γραπτή εξέταση ΚΑΙ τη συνέντευξη;",
-        "options": [
-          "4.200",
-          "9.000",
-          "1.680",
-          "4.800"
-        ],
-        "answer": 2,
-        "explanation": "Πρώτο φίλτρο: 12.000 × 0,35 = 4.200 περνούν τη γραπτή εξέταση. Δεύτερο φίλτρο, μόνο σε αυτούς τους 4.200: 4.200 × 0,40 = 1.680 περνούν και τη συνέντευξη. Η επιλογή 9.000 είναι η παγίδα πρόσθεσης των δύο ποσοστών (35%+40%=75% του 12.000) αντί εφαρμογής τους ως διαδοχικών φίλτρων σε συρρικνούμενη ομάδα."
-      }
+    "el": {
+      "passage 3": "<table><tr><th>Στοιχείο Ισολογισμού (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Σύνολο Ενεργητικού</td><td>610</td><td>640</td><td>655</td><td>690</td></tr><tr><td>Ταμείο και Ισοδύναμα</td><td>85</td><td>92</td><td>78</td><td>65</td></tr><tr><td>Χρηματοοικονομικό Χρέος</td><td>140</td><td>155</td><td>168</td><td>190</td></tr></table><p>Χρονοσειρά ισολογισμού. (Σημείωση: Καθαρή Χρηματοοικονομική Θέση = Ταμείο και Ισοδύναμα - Χρηματοοικονομικό Χρέος.)</p>",
+      "question": "Κατά πόσο επιδεινώθηκε η Καθαρή Χρηματοοικονομική Θέση της εταιρείας μεταξύ 2021 και 2024, παρότι το Σύνολο Ενεργητικού αυξήθηκε στο ίδιο διάστημα;",
+      "options": ["13 εκατ. ευρώ", "70 εκατ. ευρώ", "55 εκατ. ευρώ", "90 εκατ. ευρώ", "125 εκατ. ευρώ"],
+      "answer": "B",
+      "explanation": "Καθαρή Χρηματοοικονομική Θέση: 2021 = 85-140 = -55 εκατ. ευρώ· 2024 = 65-190 = -125 εκατ. ευρώ. Επιδείνωση = -125-(-55) = -70 εκατ. ευρώ. Το Σύνολο Ενεργητικού αυξήθηκε κατά 13,1% στο ίδιο διάστημα - η αυξανόμενη γραμμή του Ενεργητικού είναι η παγίδα, καθώς υποδηλώνει βελτίωση, ενώ η πραγματική καθαρή θέση ταμείου/χρέους της εταιρείας επιδεινώθηκε κατά 70 εκατ. ευρώ καθώς το ταμείο μειώθηκε και το χρέος αυξήθηκε παράλληλα."
+    }
+  },
+  {
+    "en": {
+      "passage 4": "<p>Definition: <b>Debt-to-Equity Ratio</b> = Financial Debt / Total Equity - it uses only interest-bearing financial debt (loans, bonds), NOT all liabilities such as trade payables or accrued expenses.</p><table><tr><th>Item (EUR million)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Financial Debt</td><td>140</td><td>155</td><td>168</td><td>190</td></tr><tr><td>Total Liabilities</td><td>310</td><td>328</td><td>322</td><td>344</td></tr><tr><td>Total Equity</td><td>300</td><td>312</td><td>333</td><td>346</td></tr></table>",
+      "question": "What was the company's Debt-to-Equity Ratio in 2024?",
+      "options": ["0.99", "1.03", "0.47", "0.55", "0.50"],
+      "answer": "D",
+      "explanation": "D/E 2024 = Financial Debt / Total Equity = 190/346 = 0.55. Using Total Liabilities instead of Financial Debt (344/346 = 0.99) is the trap - Total Liabilities also includes non-financial items like trade payables, which the Debt-to-Equity ratio is specifically designed to exclude."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Office Supplies — Price Comparison</caption><thead><tr style='background:#e8f0fe;'><th>Pack</th><th>Price</th><th>Units per Pack</th></tr></thead><tbody><tr><td><strong>Pack A</strong></td><td>€18.60</td><td>24</td></tr><tr><td><strong>Pack B</strong></td><td>€27.60</td><td>36</td></tr></tbody></table>",
-        "question": "5. Which pack offers the better price per unit, and by how much (approximately)?",
-        "options": [
-          "They cost exactly the same per unit",
-          "Pack B, at about €0.767/unit vs €0.775/unit for Pack A",
-          "Pack A, since its total price is lower",
-          "Pack B, at about €0.700/unit"
-        ],
-        "answer": 1,
-        "explanation": "Price per unit: Pack A = 18.60/24 = €0.775; Pack B = 27.60/36 ≈ €0.767. Pack B is marginally cheaper per unit despite its higher total price — the trap is judging value by the total price shown on the shelf rather than the price per individual unit."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Γραφική Ύλη — Σύγκριση Τιμών</caption><thead><tr style='background:#e8f0fe;'><th>Συσκευασία</th><th>Τιμή</th><th>Μονάδες ανά Συσκευασία</th></tr></thead><tbody><tr><td><strong>Συσκευασία A</strong></td><td>€18,60</td><td>24</td></tr><tr><td><strong>Συσκευασία B</strong></td><td>€27,60</td><td>36</td></tr></tbody></table>",
-        "question": "5. Ποια συσκευασία προσφέρει καλύτερη τιμή ανά μονάδα, και κατά πόσο (κατά προσέγγιση);",
-        "options": [
-          "Κοστίζουν ακριβώς το ίδιο ανά μονάδα",
-          "Η Συσκευασία B, με περίπου €0,767/μονάδα έναντι €0,775/μονάδα για τη Συσκευασία A",
-          "Η Συσκευασία A, αφού η συνολική τιμή της είναι χαμηλότερη",
-          "Η Συσκευασία B, με περίπου €0,700/μονάδα"
-        ],
-        "answer": 1,
-        "explanation": "Τιμή ανά μονάδα: Συσκευασία A = 18,60/24 = €0,775· Συσκευασία B = 27,60/36 ≈ €0,767. Η Συσκευασία B είναι οριακά φθηνότερη ανά μονάδα παρά την υψηλότερη συνολική τιμή της — η παγίδα είναι η κρίση της αξίας βάσει της συνολικής τιμής αντί της τιμής ανά μεμονωμένη μονάδα."
-      }
+    "el": {
+      "passage 4": "<p>Ορισμός: <b>Δείκτης Χρέους προς Ίδια Κεφάλαια</b> = Χρηματοοικονομικό Χρέος / Σύνολο Ιδίων Κεφαλαίων - χρησιμοποιεί μόνο το έντοκο χρηματοοικονομικό χρέος (δάνεια, ομόλογα), ΟΧΙ όλες τις υποχρεώσεις όπως προμηθευτές ή δεδουλευμένα έξοδα.</p><table><tr><th>Στοιχείο (εκατ. ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Χρηματοοικονομικό Χρέος</td><td>140</td><td>155</td><td>168</td><td>190</td></tr><tr><td>Σύνολο Υποχρεώσεων</td><td>310</td><td>328</td><td>322</td><td>344</td></tr><tr><td>Σύνολο Ιδίων Κεφαλαίων</td><td>300</td><td>312</td><td>333</td><td>346</td></tr></table>",
+      "question": "Ποιος ήταν ο Δείκτης Χρέους προς Ίδια Κεφάλαια της εταιρείας το 2024;",
+      "options": ["0,99", "1,03", "0,47", "0,55", "0,50"],
+      "answer": "D",
+      "explanation": "D/E 2024 = Χρηματοοικονομικό Χρέος / Σύνολο Ιδίων Κεφαλαίων = 190/346 = 0,55. Η χρήση του Συνόλου Υποχρεώσεων αντί του Χρηματοοικονομικού Χρέους (344/346 = 0,99) είναι η παγίδα - το Σύνολο Υποχρεώσεων περιλαμβάνει και μη χρηματοοικονομικά στοιχεία όπως προμηθευτές, τα οποία ο δείκτης Χρέους προς Ίδια Κεφάλαια αποκλείει σκόπιμα."
+    }
+  },
+  {
+    "en": {
+      "passage 5": "<p>Definition: <b>Employment Rate</b> = Labour Force Participation Rate × (1 - Unemployment Rate) - the share of the whole working-age population that is actually employed. It is NOT simply (100% - Unemployment Rate), since not everyone of working age is part of the labour force.</p><table><tr><th>Country</th><th>Unemployment Rate</th><th>Labour Force Participation Rate</th></tr><tr><td>Greece</td><td>10.2%</td><td>68.1%</td></tr><tr><td>Italy</td><td>7.6%</td><td>66.3%</td></tr><tr><td>Croatia</td><td>3.9%</td><td>61.5%</td></tr><tr><td>Netherlands</td><td>3.6%</td><td>82.9%</td></tr></table>",
+      "question": "Which country actually has the LOWEST Employment Rate, despite NOT having the highest unemployment rate?",
+      "options": ["Greece", "Italy", "Croatia", "Netherlands", "All approximately equal"],
+      "answer": "C",
+      "explanation": "Employment Rate = Participation × (1-Unemployment): Greece 61.15%, Italy 61.26%, Croatia 59.10%, Netherlands 79.92%. Croatia has the lowest, despite having the second-lowest unemployment rate (3.9%) in the table. Greece, which has by far the HIGHEST unemployment rate (10.2%) - the obvious trap answer - actually has a higher employment rate than Croatia, because Greece's labour force participation is higher."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Directorate Annual Budget Monitoring</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Planned monthly spend</td><td>€58,000</td></tr><tr><td>Number of months elapsed</td><td>9</td></tr><tr><td>Actual cumulative spend so far</td><td>€540,000</td></tr></tbody></table>",
-        "question": "6. Compared to the planned spending schedule, is the directorate over or under budget after 9 months, and by how much?",
-        "options": [
-          "Over budget by €18,000",
-          "Exactly on budget",
-          "Under budget by €18,000",
-          "Over budget by €58,000"
-        ],
-        "answer": 0,
-        "explanation": "Planned spend after 9 months: 58,000 × 9 = €522,000. Actual spend: €540,000. Difference: 540,000 − 522,000 = €18,000 over budget. The trap is either forgetting to multiply the monthly figure by the number of months, or reversing the direction of the comparison (over vs under)."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Παρακολούθηση Ετήσιου Προϋπολογισμού Διεύθυνσης</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Προγραμματισμένη μηνιαία δαπάνη</td><td>€58.000</td></tr><tr><td>Αριθμός μηνών που πέρασαν</td><td>9</td></tr><tr><td>Πραγματική σωρευτική δαπάνη μέχρι τώρα</td><td>€540.000</td></tr></tbody></table>",
-        "question": "6. Σε σύγκριση με το προγραμματισμένο χρονοδιάγραμμα δαπανών, η διεύθυνση είναι υπερβαίνει ή υπολείπεται του προϋπολογισμού μετά από 9 μήνες, και κατά πόσο;",
-        "options": [
-          "Υπερβαίνει τον προϋπολογισμό κατά €18.000",
-          "Ακριβώς στον προϋπολογισμό",
-          "Υπολείπεται του προϋπολογισμού κατά €18.000",
-          "Υπερβαίνει τον προϋπολογισμό κατά €58.000"
-        ],
-        "answer": 0,
-        "explanation": "Προγραμματισμένη δαπάνη μετά από 9 μήνες: 58.000 × 9 = €522.000. Πραγματική δαπάνη: €540.000. Διαφορά: 540.000 − 522.000 = €18.000 υπέρβαση. Η παγίδα είναι είτε η παράλειψη πολλαπλασιασμού του μηνιαίου ποσού επί τον αριθμό μηνών, είτε η αντιστροφή της κατεύθυνσης της σύγκρισης (υπέρβαση έναντι υπολειπόμενου)."
-      }
+    "el": {
+      "passage 5": "<p>Ορισμός: <b>Ποσοστό Απασχόλησης</b> = Ποσοστό Συμμετοχής στο Εργατικό Δυναμικό × (1 - Ποσοστό Ανεργίας) - το μερίδιο ολόκληρου του πληθυσμού σε ηλικία εργασίας που απασχολείται πράγματι. ΔΕΝ ισούται απλώς με (100% - Ποσοστό Ανεργίας), καθώς δεν αποτελούν όλοι οι σε ηλικία εργασίας μέρος του εργατικού δυναμικού.</p><table><tr><th>Χώρα</th><th>Ποσοστό Ανεργίας</th><th>Ποσοστό Συμμετοχής στο Εργατικό Δυναμικό</th></tr><tr><td>Ελλάδα</td><td>10,2%</td><td>68,1%</td></tr><tr><td>Ιταλία</td><td>7,6%</td><td>66,3%</td></tr><tr><td>Κροατία</td><td>3,9%</td><td>61,5%</td></tr><tr><td>Ολλανδία</td><td>3,6%</td><td>82,9%</td></tr></table>",
+      "question": "Ποια χώρα έχει στην πραγματικότητα το ΧΑΜΗΛΟΤΕΡΟ Ποσοστό Απασχόλησης, παρότι ΔΕΝ έχει το υψηλότερο ποσοστό ανεργίας;",
+      "options": ["Ελλάδα", "Ιταλία", "Κροατία", "Ολλανδία", "Όλες περίπου ίσες"],
+      "answer": "C",
+      "explanation": "Ποσοστό Απασχόλησης = Συμμετοχή × (1-Ανεργία): Ελλάδα 61,15%, Ιταλία 61,26%, Κροατία 59,10%, Ολλανδία 79,92%. Η Κροατία έχει το χαμηλότερο, παρότι έχει το δεύτερο χαμηλότερο ποσοστό ανεργίας (3,9%) στον πίνακα. Η Ελλάδα, που έχει κατά πολύ το ΥΨΗΛΟΤΕΡΟ ποσοστό ανεργίας (10,2%) - η προφανής παγίδα - έχει στην πραγματικότητα υψηλότερο ποσοστό απασχόλησης από την Κροατία, επειδή η συμμετοχή της στο εργατικό δυναμικό είναι υψηλότερη."
+    }
+  },
+  {
+    "en": {
+      "passage 6": "<table><tr><th>Quarter</th><th>Q1</th><th>Q2</th><th>Q3</th><th>Q4</th></tr><tr><td>EUR/USD rate (USD per 1 EUR)</td><td>1.05</td><td>1.08</td><td>1.10</td><td>1.12</td></tr></table><p>Quarterly average EUR/USD exchange rate over one year.</p>",
+      "question": "By approximately what percentage did the euro APPRECIATE against the US dollar between Q1 and Q4?",
+      "options": ["6.7%", "6.3%", "7.0%", "5.8%", "6.5%"],
+      "answer": "A",
+      "explanation": "EUR appreciation = (1.12-1.05)/1.05 x 100 = 6.7%. Calculating the reciprocal change instead - (1/1.12 - 1/1.05)/(1/1.05) x 100 = -6.3% - gives the US dollar's depreciation against the euro, which is a DIFFERENT (smaller in magnitude) figure and the trap: appreciation and the inverse currency's depreciation are never numerically equal."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Certification Exam — Four Papers</caption><thead><tr style='background:#e8f0fe;'><th>Paper</th><th>Score</th></tr></thead><tbody><tr><td>Paper 1</td><td>70</td></tr><tr><td>Paper 2</td><td>78</td></tr><tr><td>Paper 3</td><td>74</td></tr><tr><td>Paper 4</td><td>?</td></tr></tbody></table>",
-        "question": "7. To achieve an overall average of exactly 75 across all four papers, what score is needed on Paper 4?",
-        "options": [
-          "74",
-          "78",
-          "81",
-          "75"
-        ],
-        "answer": 1,
-        "explanation": "Total points needed for an average of 75 across 4 papers: 75 × 4 = 300. Points already scored: 70+78+74 = 222. Required score on Paper 4: 300 − 222 = 78. Option 75 is the trap of assuming the missing score should simply equal the target average itself."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Εξέταση Πιστοποίησης — Τέσσερα Δοκίμια</caption><thead><tr style='background:#e8f0fe;'><th>Δοκίμιο</th><th>Βαθμολογία</th></tr></thead><tbody><tr><td>Δοκίμιο 1</td><td>70</td></tr><tr><td>Δοκίμιο 2</td><td>78</td></tr><tr><td>Δοκίμιο 3</td><td>74</td></tr><tr><td>Δοκίμιο 4</td><td>?</td></tr></tbody></table>",
-        "question": "7. Για την επίτευξη συνολικού μέσου όρου ακριβώς 75 στα τέσσερα δοκίμια, ποια βαθμολογία απαιτείται στο Δοκίμιο 4;",
-        "options": [
-          "74",
-          "78",
-          "81",
-          "75"
-        ],
-        "answer": 1,
-        "explanation": "Απαιτούμενοι βαθμοί για μέσο όρο 75 σε 4 δοκίμια: 75 × 4 = 300. Βαθμοί που έχουν ήδη επιτευχθεί: 70+78+74 = 222. Απαιτούμενη βαθμολογία στο Δοκίμιο 4: 300 − 222 = 78. Η επιλογή 75 είναι η παγίδα της υπόθεσης ότι η ελλείπουσα βαθμολογία πρέπει απλώς να ισούται με τον ίδιο τον στόχο μέσου όρου."
-      }
+    "el": {
+      "passage 6": "<table><tr><th>Τρίμηνο</th><th>Α΄</th><th>Β΄</th><th>Γ΄</th><th>Δ΄</th></tr><tr><td>Ισοτιμία EUR/USD (USD ανά 1 EUR)</td><td>1,05</td><td>1,08</td><td>1,10</td><td>1,12</td></tr></table><p>Μέση τριμηνιαία ισοτιμία EUR/USD σε ένα έτος.</p>",
+      "question": "Κατά πόσο περίπου ΑΝΑΤΙΜΗΘΗΚΕ το ευρώ έναντι του δολαρίου ΗΠΑ μεταξύ Α΄ και Δ΄ τριμήνου;",
+      "options": ["6,7%", "6,3%", "7,0%", "5,8%", "6,5%"],
+      "answer": "A",
+      "explanation": "Ανατίμηση EUR = (1,12-1,05)/1,05 x 100 = 6,7%. Ο υπολογισμός της αντίστροφης μεταβολής - (1/1,12 - 1/1,05)/(1/1,05) x 100 = -6,3% - δίνει την υποτίμηση του δολαρίου έναντι του ευρώ, που είναι ΔΙΑΦΟΡΕΤΙΚΟ (μικρότερο σε μέγεθος) νούμερο και αποτελεί την παγίδα: η ανατίμηση ενός νομίσματος και η υποτίμηση του αντίστροφου δεν είναι ποτέ αριθμητικά ίσες."
+    }
+  },
+  {
+    "en": {
+      "passage 7": "<table><tr><th>Country</th><th>Total Tax Revenue (EUR bn)</th><th>GDP (EUR bn)</th><th>Population (million)</th></tr><tr><td>Denmark</td><td>135</td><td>400</td><td>5.9</td></tr><tr><td>Luxembourg</td><td>28</td><td>85</td><td>0.66</td></tr><tr><td>France</td><td>1,120</td><td>2,780</td><td>68.2</td></tr><tr><td>Belgium</td><td>245</td><td>585</td><td>11.7</td></tr></table>",
+      "question": "Which country collects the highest tax revenue PER CAPITA, despite having the LOWEST tax revenue as a share of GDP?",
+      "options": ["Denmark", "Luxembourg", "France", "Belgium", "None of the above"],
+      "answer": "B",
+      "explanation": "Tax as % of GDP: Denmark 33.8%, Luxembourg 32.9% (lowest), France 40.3%, Belgium 41.9% (highest). Tax per capita: Denmark ~€22,900, Luxembourg ~€42,400 (highest), France ~€16,400, Belgium ~€20,900. Luxembourg has by far the highest per-capita figure even though its tax burden relative to its own (very large, per capita) economy is the smallest of the four - its tiny population is the key the reader must notice."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Departmental Budget Adjustment</caption><thead><tr style='background:#e8f0fe;'><th>Event</th><th>Change</th></tr></thead><tbody><tr><td>Initial budget cut</td><td>−20%</td></tr></tbody></table>",
-        "question": "8. After a 20% budget cut, by what percentage must the new (reduced) budget increase to return exactly to the original amount?",
-        "options": [
-          "22%",
-          "20%",
-          "25%",
-          "18%"
-        ],
-        "answer": 2,
-        "explanation": "If the original budget is 100, a 20% cut leaves 80. To return to 100 from 80: (100−80)/80 × 100 = 25%. Option 20% is the trap of assuming the recovery percentage must equal the original cut percentage — but since the reduced amount is now a smaller base, a larger percentage increase is needed to reach the same absolute value."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Προσαρμογή Προϋπολογισμού Τμήματος</caption><thead><tr style='background:#e8f0fe;'><th>Γεγονός</th><th>Μεταβολή</th></tr></thead><tbody><tr><td>Αρχική περικοπή προϋπολογισμού</td><td>−20%</td></tr></tbody></table>",
-        "question": "8. Μετά από περικοπή 20% του προϋπολογισμού, κατά τι ποσοστό πρέπει να αυξηθεί ο νέος (μειωμένος) προϋπολογισμός για να επιστρέψει ακριβώς στο αρχικό ποσό;",
-        "options": [
-          "22%",
-          "20%",
-          "25%",
-          "18%"
-        ],
-        "answer": 2,
-        "explanation": "Αν ο αρχικός προϋπολογισμός είναι 100, μια περικοπή 20% αφήνει 80. Για επιστροφή στο 100 από το 80: (100−80)/80 × 100 = 25%. Η επιλογή 20% είναι η παγίδα της υπόθεσης ότι το ποσοστό ανάκαμψης πρέπει να ισούται με το ποσοστό της αρχικής περικοπής — όμως, καθώς το μειωμένο ποσό είναι πλέον μικρότερη βάση, απαιτείται μεγαλύτερο ποσοστό αύξησης για να φτάσει στην ίδια απόλυτη τιμή."
-      }
+    "el": {
+      "passage 7": "<table><tr><th>Χώρα</th><th>Συνολικά Φορολογικά Έσοδα (δισ. ευρώ)</th><th>ΑΕΠ (δισ. ευρώ)</th><th>Πληθυσμός (εκατ.)</th></tr><tr><td>Δανία</td><td>135</td><td>400</td><td>5,9</td></tr><tr><td>Λουξεμβούργο</td><td>28</td><td>85</td><td>0,66</td></tr><tr><td>Γαλλία</td><td>1.120</td><td>2.780</td><td>68,2</td></tr><tr><td>Βέλγιο</td><td>245</td><td>585</td><td>11,7</td></tr></table>",
+      "question": "Ποια χώρα εισπράττει τα υψηλότερα φορολογικά έσοδα ΚΑΤΑ ΚΕΦΑΛΗΝ, παρότι έχει το ΧΑΜΗΛΟΤΕΡΟ ποσοστό φορολογικών εσόδων ως προς το ΑΕΠ;",
+      "options": ["Δανία", "Λουξεμβούργο", "Γαλλία", "Βέλγιο", "Κανένα από τα παραπάνω"],
+      "answer": "B",
+      "explanation": "Φόροι ως % ΑΕΠ: Δανία 33,8%, Λουξεμβούργο 32,9% (χαμηλότερο), Γαλλία 40,3%, Βέλγιο 41,9% (υψηλότερο). Φόροι κατά κεφαλήν: Δανία ~22.900 ευρώ, Λουξεμβούργο ~42.400 ευρώ (υψηλότερο), Γαλλία ~16.400 ευρώ, Βέλγιο ~20.900 ευρώ. Το Λουξεμβούργο έχει κατά πολύ το υψηλότερο κατά κεφαλήν νούμερο, παρότι η φορολογική του επιβάρυνση σε σχέση με τη δική του (πολύ μεγάλη κατά κεφαλήν) οικονομία είναι η μικρότερη από τις τέσσερις - ο μικρός του πληθυσμός είναι το κλειδί που πρέπει να προσέξει ο αναγνώστης."
+    }
+  },
+  {
+    "en": {
+      "passage 8": "<table><tr><th>Item (EUR)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Disposable Income</td><td>42,000</td><td>44,500</td><td>47,200</td><td>50,100</td></tr><tr><td>Consumption</td><td>36,800</td><td>39,900</td><td>41,200</td><td>42,900</td></tr></table><p>Average household disposable income and consumption, 2021-2024. (Note: Savings Rate = (Income - Consumption) / Income.)</p>",
+      "question": "In which year was the household savings rate LOWEST, despite disposable income rising every single year?",
+      "options": ["2021", "2023", "It was flat throughout", "2022", "2024"],
+      "answer": "D",
+      "explanation": "Savings rate: 2021=12.4%, 2022=10.3%, 2023=12.7%, 2024=14.4%. The lowest point is 2022, a genuine dip. Consumption rises every single year in the table (the trap for readers who assume ever-rising consumption must mean an ever-falling savings rate) - but because income grew faster than consumption in most years, the savings rate is actually higher in 2024 than at any other point, even though 2024 also has the highest consumption ever recorded."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Regional Population Statistics</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Total population</td><td>2,125,000</td></tr><tr><td>Land area</td><td>850 km²</td></tr></tbody></table>",
-        "question": "9. What is the region's population density, in inhabitants per km²?",
-        "options": [
-          "1,806,250",
-          "250",
-          "25,000",
-          "2,500"
-        ],
-        "answer": 3,
-        "explanation": "Population density = total population ÷ area = 2,125,000 ÷ 850 = 2,500 inhabitants per km². Option 1,806,250 is the trap of multiplying the two figures instead of dividing them."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Περιφερειακά Στατιστικά Πληθυσμού</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Συνολικός πληθυσμός</td><td>2.125.000</td></tr><tr><td>Έκταση</td><td>850 km²</td></tr></tbody></table>",
-        "question": "9. Ποια είναι η πυκνότητα πληθυσμού της περιφέρειας, σε κατοίκους ανά km²;",
-        "options": [
-          "1.806.250",
-          "250",
-          "25.000",
-          "2.500"
-        ],
-        "answer": 3,
-        "explanation": "Πυκνότητα πληθυσμού = συνολικός πληθυσμός ÷ έκταση = 2.125.000 ÷ 850 = 2.500 κάτοικοι ανά km². Η επιλογή 1.806.250 είναι η παγίδα πολλαπλασιασμού των δύο μεγεθών αντί διαίρεσης."
-      }
+    "el": {
+      "passage 8": "<table><tr><th>Στοιχείο (ευρώ)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr><tr><td>Διαθέσιμο Εισόδημα</td><td>42.000</td><td>44.500</td><td>47.200</td><td>50.100</td></tr><tr><td>Κατανάλωση</td><td>36.800</td><td>39.900</td><td>41.200</td><td>42.900</td></tr></table><p>Μέσο διαθέσιμο εισόδημα και κατανάλωση νοικοκυριού, 2021-2024. (Σημείωση: Ποσοστό Αποταμίευσης = (Εισόδημα - Κατανάλωση) / Εισόδημα.)</p>",
+      "question": "Σε ποιο έτος ήταν ΧΑΜΗΛΟΤΕΡΟ το ποσοστό αποταμίευσης του νοικοκυριού, παρότι το διαθέσιμο εισόδημα αυξανόταν κάθε χρόνο;",
+      "options": ["2021", "2023", "Παρέμεινε σταθερό", "2022", "2024"],
+      "answer": "D",
+      "explanation": "Ποσοστό αποταμίευσης: 2021=12,4%, 2022=10,3%, 2023=12,7%, 2024=14,4%. Το χαμηλότερο σημείο είναι το 2022, μια πραγματική πτώση. Η κατανάλωση αυξάνεται κάθε χρόνο στον πίνακα (η παγίδα για όσους υποθέτουν ότι η συνεχώς αυξανόμενη κατανάλωση σημαίνει απαραίτητα συνεχώς μειούμενη αποταμίευση) - όμως επειδή το εισόδημα αυξήθηκε ταχύτερα από την κατανάλωση τα περισσότερα έτη, το ποσοστό αποταμίευσης είναι στην πραγματικότητα υψηλότερο το 2024 από οποιαδήποτε άλλη στιγμή, παρότι το 2024 έχει και την υψηλότερη καταγεγραμμένη κατανάλωση."
+    }
+  },
+  {
+    "en": {
+      "passage 9": "<p>Definition: <b>Effective Annual Rate (EAR)</b> = (1 + nominal rate/n)^n - 1, where n = number of compounding periods per year. More frequent compounding produces a higher EAR even from a lower nominal rate.</p><table><tr><th>Bank</th><th>Nominal Annual Rate</th><th>Compounding Frequency</th></tr><tr><td>Bank A</td><td>5.00%</td><td>Annually (1x/year)</td></tr><tr><td>Bank B</td><td>4.90%</td><td>Monthly (12x/year)</td></tr><tr><td>Bank C</td><td>4.95%</td><td>Quarterly (4x/year)</td></tr><tr><td>Bank D</td><td>4.85%</td><td>Daily (365x/year)</td></tr></table>",
+      "question": "Which bank offers depositors the highest Effective Annual Rate, even though it does not have the highest nominal rate?",
+      "options": ["Bank A", "Bank B", "Bank C", "Bank D", "All are equal"],
+      "answer": "C",
+      "explanation": "EAR: Bank A = 5.000% (nominal = EAR since compounded once/year); Bank B = 5.012%; Bank C = 5.043%; Bank D = 4.969%. Bank C has the highest EAR. Bank A has the highest NOMINAL rate (5.00%, the obvious trap for a reader who just scans the rate column), but its annual compounding means its nominal and effective rates are identical, and it is actually out-earned by both Bank B and Bank C once compounding frequency is taken into account."
     },
-    {
-      "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Short-Term Deposit</caption><thead><tr style='background:#e8f0fe;'><th>Detail</th><th>Value</th></tr></thead><tbody><tr><td>Principal</td><td>€15,000</td></tr><tr><td>Annual interest rate (simple)</td><td>4.8%</td></tr><tr><td>Deposit period</td><td>8 months</td></tr></tbody></table>",
-        "question": "10. Using simple interest, how much interest does the deposit earn over the 8-month period?",
-        "options": [
-          "€480",
-          "€1,440",
-          "€720",
-          "€60"
-        ],
-        "answer": 0,
-        "explanation": "Simple interest for a partial year = principal × annual rate × (months/12) = 15,000 × 0.048 × (8/12) = €480. Option €720 is the trap of applying the full annual rate without adjusting for the shorter, 8-month period."
-      },
-      "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Βραχυπρόθεσμη Κατάθεση</caption><thead><tr style='background:#e8f0fe;'><th>Στοιχείο</th><th>Τιμή</th></tr></thead><tbody><tr><td>Κεφάλαιο</td><td>€15.000</td></tr><tr><td>Ετήσιο επιτόκιο (απλό)</td><td>4,8%</td></tr><tr><td>Περίοδος κατάθεσης</td><td>8 μήνες</td></tr></tbody></table>",
-        "question": "10. Με απλό τόκο, πόσο τόκο αποφέρει η κατάθεση κατά την περίοδο των 8 μηνών;",
-        "options": [
-          "€480",
-          "€1.440",
-          "€720",
-          "€60"
-        ],
-        "answer": 0,
-        "explanation": "Απλός τόκος για μέρος του έτους = κεφάλαιο × ετήσιο επιτόκιο × (μήνες/12) = 15.000 × 0,048 × (8/12) = €480. Η επιλογή €720 είναι η παγίδα εφαρμογής ολόκληρου του ετήσιου επιτοκίου χωρίς προσαρμογή για τη συντομότερη περίοδο των 8 μηνών."
+    "el": {
+      "passage 9": "<p>Ορισμός: <b>Πραγματικό Ετήσιο Επιτόκιο (EAR)</b> = (1 + ονομαστικό επιτόκιο/n)^n - 1, όπου n = αριθμός περιόδων ανατοκισμού ανά έτος. Ο συχνότερος ανατοκισμός παράγει υψηλότερο EAR ακόμη και από χαμηλότερο ονομαστικό επιτόκιο.</p><table><tr><th>Τράπεζα</th><th>Ονομαστικό Ετήσιο Επιτόκιο</th><th>Συχνότητα Ανατοκισμού</th></tr><tr><td>Τράπεζα Α</td><td>5,00%</td><td>Ετήσια (1x/έτος)</td></tr><tr><td>Τράπεζα Β</td><td>4,90%</td><td>Μηνιαία (12x/έτος)</td></tr><tr><td>Τράπεζα Γ</td><td>4,95%</td><td>Τριμηνιαία (4x/έτος)</td></tr><tr><td>Τράπεζα Δ</td><td>4,85%</td><td>Ημερήσια (365x/έτος)</td></tr></table>",
+      "question": "Ποια τράπεζα προσφέρει στους καταθέτες το υψηλότερο Πραγματικό Ετήσιο Επιτόκιο, παρότι δεν έχει το υψηλότερο ονομαστικό επιτόκιο;",
+      "options": ["Τράπεζα Α", "Τράπεζα Β", "Τράπεζα Γ", "Τράπεζα Δ", "Όλες είναι ίσες"],
+      "answer": "C",
+      "explanation": "EAR: Τράπεζα Α = 5,000% (ονομαστικό = EAR αφού ανατοκίζεται μία φορά/έτος)· Τράπεζα Β = 5,012%· Τράπεζα Γ = 5,043%· Τράπεζα Δ = 4,969%. Η Τράπεζα Γ έχει το υψηλότερο EAR. Η Τράπεζα Α έχει το υψηλότερο ΟΝΟΜΑΣΤΙΚΟ επιτόκιο (5,00%, η προφανής παγίδα για όποιον απλώς σαρώνει τη στήλη επιτοκίου), όμως ο ετήσιος ανατοκισμός της σημαίνει ότι το ονομαστικό και το πραγματικό της επιτόκιο ταυτίζονται, και στην πραγματικότητα ξεπερνιέται και από την Τράπεζα Β και από την Τράπεζα Γ όταν ληφθεί υπόψη η συχνότητα ανατοκισμού."
+    }
+  },
+  {
+    "en": {
+      "passage 10": "<table><tr><th>Country</th><th>Nominal GDP per capita (EUR)</th><th>Price Level Index (EU avg = 100)</th></tr><tr><td>Ireland</td><td>106,000</td><td>126</td></tr><tr><td>Luxembourg</td><td>128,000</td><td>128</td></tr><tr><td>Romania</td><td>16,800</td><td>62</td></tr><tr><td>Bulgaria</td><td>14,200</td><td>50</td></tr></table><p>Note: PPP-adjusted GDP per capita = Nominal GDP per capita / (Price Level Index / 100).</p>",
+      "question": "Which country ranks ABOVE Romania in PPP-adjusted (purchasing-power-adjusted) GDP per capita, despite having a LOWER nominal GDP per capita?",
+      "options": ["Ireland", "Luxembourg", "None - Romania ranks above all of them in PPP terms too", "Cannot be determined from the data", "Bulgaria"],
+      "answer": "E",
+      "explanation": "PPP-adjusted GDP per capita: Ireland €84,127; Luxembourg €100,000; Romania €27,097; Bulgaria €28,400. Bulgaria's nominal GDP per capita (€14,200) is lower than Romania's (€16,800), but its much lower price level means its PPP-adjusted figure (€28,400) actually exceeds Romania's (€27,097) - the nominal column alone, where Romania leads, is the trap."
+    },
+    "el": {
+      "passage 10": "<table><tr><th>Χώρα</th><th>Ονομαστικό ΑΕΠ κατά κεφαλήν (ευρώ)</th><th>Δείκτης Επιπέδου Τιμών (μέσος όρος ΕΕ = 100)</th></tr><tr><td>Ιρλανδία</td><td>106.000</td><td>126</td></tr><tr><td>Λουξεμβούργο</td><td>128.000</td><td>128</td></tr><tr><td>Ρουμανία</td><td>16.800</td><td>62</td></tr><tr><td>Βουλγαρία</td><td>14.200</td><td>50</td></tr></table><p>Σημείωση: ΑΕΠ κατά κεφαλήν σε ΜΑΔ (Μονάδες Αγοραστικής Δύναμης) = Ονομαστικό ΑΕΠ κατά κεφαλήν / (Δείκτης Επιπέδου Τιμών / 100).</p>",
+      "question": "Ποια χώρα κατατάσσεται ΠΑΝΩ από τη Ρουμανία σε ΑΕΠ κατά κεφαλήν σε ΜΑΔ (προσαρμοσμένο στην αγοραστική δύναμη), παρότι έχει ΧΑΜΗΛΟΤΕΡΟ ονομαστικό ΑΕΠ κατά κεφαλήν;",
+      "options": ["Ιρλανδία", "Λουξεμβούργο", "Καμία - η Ρουμανία κατατάσσεται πάνω από όλες και σε όρους ΜΑΔ", "Δεν μπορεί να προσδιοριστεί από τα δεδομένα", "Βουλγαρία"],
+      "answer": "E",
+      "explanation": "ΑΕΠ κατά κεφαλήν σε ΜΑΔ: Ιρλανδία 84.127 ευρώ· Λουξεμβούργο 100.000 ευρώ· Ρουμανία 27.097 ευρώ· Βουλγαρία 28.400 ευρώ. Το ονομαστικό ΑΕΠ κατά κεφαλήν της Βουλγαρίας (14.200 ευρώ) είναι χαμηλότερο από αυτό της Ρουμανίας (16.800 ευρώ), όμως το πολύ χαμηλότερο επίπεδο τιμών της σημαίνει ότι το προσαρμοσμένο σε ΜΑΔ νούμερό της (28.400 ευρώ) στην πραγματικότητα ξεπερνά αυτό της Ρουμανίας (27.097 ευρώ) - η στήλη του ονομαστικού ΑΕΠ, όπου προηγείται η Ρουμανία, είναι η παγίδα."
       }
     }
   ]
