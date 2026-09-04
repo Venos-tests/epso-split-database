@@ -206,6 +206,30 @@
     var PENDING_ATTEMPTS_KEY = 'epso_pending_attempts';
     var TARGET_PCT_KEY = 'epso_target_pct';
 
+    // ─────────────────────────────────────────────────────────────
+    // Full list of every test key the portal knows about, and how
+    // each key maps to the category name stored in Supabase's
+    // question_content table. Used to pull every set via the
+    // gated get_question_set RPC after login (replaces the old
+    // unauthenticated fetch of the 6 static JSON files).
+    // ─────────────────────────────────────────────────────────────
+    var TEST_KEYS = (function() {
+        var keys = [];
+        var counts = { verbal: 12, drill: 4, num: 12, abstract: 12, eu: 12, ds: 12 };
+        Object.keys(counts).forEach(function(prefix) {
+            for (var i = 1; i <= counts[prefix]; i++) keys.push(prefix + '_' + i);
+        });
+        return keys;
+    })();
+
+    function parseTestKey(key) {
+        var m = key.match(/^(verbal|num|abstract|eu|ds|drill)_(\d+)$/i);
+        if (!m) return null;
+        var categoryMap = { num: 'numerical', ds: 'digital_skills' };
+        var category = categoryMap[m[1].toLowerCase()] || m[1].toLowerCase();
+        return { category: category, set_number: parseInt(m[2], 10) };
+    }
+
     function getDeviceId() {
         var id = localStorage.getItem('epso_device_id');
         if (!id) {
@@ -232,21 +256,41 @@
         });
     }
 
-    async function loadDatabase() {
+    async function loadDatabase(code) {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-            var files = [
-                "epso-verbal.json",
-                "epso-numerical.json",
-                "epso-drills.json",
-                "epso-abstract.json",
-                "epso-eu-knowledge.json",
-                "epso-digital-skills.json"
-            ];
-            var results = await Promise.all(files.map(f => fetch(f).then(r => r.json())));
-            results.forEach(function(data) {
-                Object.assign(DATABASE, data);
+            var results = await Promise.all(TEST_KEYS.map(async function(key) {
+                var parsed = parseTestKey(key);
+                if (!parsed) return { key: key, data: null };
+                try {
+                    var res = await supabaseClient.rpc('get_question_set', {
+                        p_code: code,
+                        p_category: parsed.category,
+                        p_set_number: parsed.set_number
+                    });
+                    return { key: key, data: res.error ? null : res.data };
+                } catch (innerErr) {
+                    return { key: key, data: null };
+                }
+            }));
+
+            var anyLoaded = false;
+            results.forEach(function(r) {
+                if (r.data) { DATABASE[r.key] = r.data; anyLoaded = true; }
             });
+
+            if (!anyLoaded) {
+                // Every set failed — the code itself is invalid/expired rather
+                // than a one-off content gap, so treat this as a login failure.
+                document.getElementById('login-status').style.color = '#dc3545';
+                document.getElementById('login-status').innerText =
+                    'Could not verify your access code. Please log in again.';
+                localStorage.removeItem(USER_CODE_KEY);
+                userCode = null;
+                userUnlocked = false;
+                return;
+            }
+
             normaliseAnswers(DATABASE);
             dbLoaded = true;
             document.getElementById('login-status').innerText = '';
@@ -275,8 +319,9 @@
                 userCode = input;
                 localStorage.setItem(USER_CODE_KEY, userCode);
                 statusEl.innerText = '';
+                userUnlocked = true;
                 if (dbLoaded) { enterPortal(); }
-                else { userUnlocked = true; statusEl.innerText = 'Please wait...'; }
+                else { loadDatabase(userCode); }
                 flushPendingAttempts();
             } else if (res.data === 'bound_elsewhere') {
                 statusEl.style.color = '#dc3545';
@@ -298,7 +343,7 @@
         if (saved && /^[0-9]{5}$/.test(saved)) {
             userCode = saved;
             userUnlocked = true;
-            if (dbLoaded) enterPortal();
+            if (dbLoaded) { enterPortal(); } else { loadDatabase(saved); }
             flushPendingAttempts();
         }
     }
@@ -1102,7 +1147,6 @@
 
     document.addEventListener("DOMContentLoaded", function() {
         updateUIStrings();
-        loadDatabase();
         tryAutoLogin();
     });
 </script>
