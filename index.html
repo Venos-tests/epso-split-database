@@ -24,6 +24,10 @@
         .pack-card:hover { background: var(--eu-blue); color: white; border-color: var(--eu-blue); transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,51,153,0.2); }
         .pack-card.empty { opacity: 0.35; cursor: not-allowed; pointer-events: none; }
         .passage-box { background: #f8fbff; padding: 25px; border-radius: 8px; border: 1px solid #e1e8f0; margin-bottom: 25px; font-style: italic; line-height: 1.8; min-height: 150px; }
+        .passage-box table { border-collapse: collapse; width: 100%; margin: 15px 0; font-style: normal; }
+        .passage-box th, .passage-box td { padding: 10px 20px; border: 1px solid #d1d9e6; text-align: center; }
+        .passage-box th { background: #eaf0fb; color: var(--eu-blue); font-weight: 700; }
+        .passage-box tr:nth-child(even) td { background: #fbfdff; }
         .option { padding: 15px 20px; margin: 10px 0; border: 1px solid #d1d9e6; border-radius: 8px; cursor: pointer; transition: 0.2s; background: white; }
         .option:hover { background: #f0f4ff; border-color: var(--eu-blue); }
         .selected-exam { border: 2px solid var(--eu-blue) !important; background: #eef4ff !important; }
