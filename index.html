@@ -252,6 +252,10 @@
                 ['en', 'el'].forEach(function(lang) {
                     if (!qObj[lang]) return;
                     var q = qObj[lang];
+                    if (q.answer !== undefined && q.options && typeof q.answer === 'string') {
+                        var letterIdx = q.options.indexOf(q.answer);
+                        if (letterIdx !== -1) q.answer = letterIdx;
+                    }
                     if (q.answer !== undefined && q.options && q.answer >= q.options.length) {
                         q.answer = q.answer - 1;
                     }
