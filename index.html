@@ -460,6 +460,14 @@
         showQuestion();
     }
 
+    function cldFit(url) {
+        if (!url) return url;
+        var t = 'c_pad,w_800,h_130,b_white,q_auto,f_auto';
+        return url.indexOf('/upload/') !== -1
+            ? url.replace('/upload/', '/upload/' + t + '/')
+            : url;
+    }
+
     function showQuestion() {
         try {
             var qData = activeQuestions[currentIndex][currentLang];
@@ -471,9 +479,9 @@
             var expArea  = document.getElementById('explanation-area');
 
             if (qData.reference_image && qData.reference_image.trim() !== '') {
-                var imgs = '<img src="' + qData.reference_image + '" crossorigin="anonymous" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
+                var imgs = '<img src="' + cldFit(qData.reference_image) + '" crossorigin="anonymous" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
                 if (qData.options_image && qData.options_image.trim() !== '') {
-                    imgs += '<img src="' + qData.options_image + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
+                    imgs += '<img src="' + cldFit(qData.options_image) + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
                 }
                 passageBox.innerHTML = imgs;
                 passageBox.style.display = 'block';
