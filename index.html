@@ -466,10 +466,10 @@
             var optCont  = document.getElementById('options-container');
             var expArea  = document.getElementById('explanation-area');
 
-            if (qData.image && qData.image.trim() !== '') {
-                var imgs = '<img src="' + qData.image + '" crossorigin="anonymous" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
-                if (qData.optionsImage && qData.optionsImage.trim() !== '') {
-                    imgs += '<img src="' + qData.optionsImage + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
+            if (qData.reference_image && qData.reference_image.trim() !== '') {
+                var imgs = '<img src="' + qData.reference_image + '" crossorigin="anonymous" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
+                if (qData.options_image && qData.options_image.trim() !== '') {
+                    imgs += '<img src="' + qData.options_image + '" crossorigin="anonymous" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
                 }
                 passageBox.innerHTML = imgs;
                 passageBox.style.display = 'block';
