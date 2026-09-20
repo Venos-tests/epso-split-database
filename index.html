@@ -462,7 +462,7 @@
 
     function cldFit(url) {
         if (!url) return url;
-        var t = 'c_pad,w_800,h_130,b_white,q_auto,f_auto';
+        var t = 'c_limit,w_800,q_auto,f_auto';
         return url.indexOf('/upload/') !== -1
             ? url.replace('/upload/', '/upload/' + t + '/')
             : url;
