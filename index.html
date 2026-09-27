@@ -40,17 +40,9 @@
         #mode-modal { display: none; position: fixed; inset: 0; background: rgba(0,51,153,0.4); backdrop-filter: blur(5px); align-items: center; justify-content: center; z-index: 15000; }
         .modal-content { background: white; padding: 45px; border-radius: 20px; text-align: center; width: 400px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
         #timer-box { position: fixed; top: 20px; right: 20px; background: var(--eu-blue); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: none; border-bottom: 3px solid var(--eu-gold); z-index: 1001; }
-        #login-screen { position: fixed; inset: 0; background: rgba(0,51,153,0.74); backdrop-filter: blur(1px); -webkit-backdrop-filter: blur(1px); display: flex; align-items: center; justify-content: center; z-index: 20000; }
-        .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; box-shadow: 0 20px 50px rgba(0,0,0,0.35); }
+        #login-screen { position: fixed; inset: 0; background: var(--eu-blue); display: flex; align-items: center; justify-content: center; z-index: 20000; }
+        .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; }
         .hint-divider { border: none; border-top: 1px solid #eee; margin: 8px 0; }
-
-        /* ── Static "blueprint" backdrop shown behind the login box ──
-           Not wired to any data — just the real section/pack labels,
-           dimmed and non-interactive, so visitors see the shape of
-           the portal before they ever unlock it. */
-        #preview-backdrop { position: fixed; inset: 0; z-index: 19999; overflow: hidden; pointer-events: none; filter: grayscale(0.25) opacity(0.55); }
-        #preview-backdrop .container { padding-top: 30px; }
-        #preview-backdrop .pack-card:hover { transform: none; background: white; color: var(--eu-blue); box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
 
         /* ── Exam review / performance / admin tables ── */
         .review-table { width: 100%; border-collapse: collapse; margin-top: 25px; font-size: 0.95em; text-align: left; }
@@ -84,64 +76,6 @@
 
 <div id="timer-box">00:00</div>
 
-<div id="preview-backdrop">
-  <div class="container">
-    <div class="header">
-      <h1 style="color:var(--eu-blue); margin:0;">Πύλη Προετοιμασίας EPSO</h1>
-      <div class="header-buttons">
-        <button class="btn btn-primary">📊 My Performance</button>
-        <button class="btn btn-gold">🇬🇷 EL / 🇬🇧 EN</button>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">Verbal Reasoning</h2>
-      <div class="pack-grid">
-        <div class="pack-card">VERBAL 1</div><div class="pack-card">VERBAL 2</div><div class="pack-card">VERBAL 3</div><div class="pack-card">VERBAL 4</div>
-        <div class="pack-card">VERBAL 5</div><div class="pack-card">VERBAL 6</div><div class="pack-card">VERBAL 7</div><div class="pack-card">VERBAL 8</div>
-        <div class="pack-card">VERBAL 9</div><div class="pack-card">VERBAL 10</div><div class="pack-card">VERBAL 11</div><div class="pack-card">VERBAL 12</div>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">Numerical Reasoning — Warm-up</h2>
-      <div class="pack-grid">
-        <div class="pack-card">DRILL 1</div><div class="pack-card">DRILL 2</div><div class="pack-card">DRILL 3</div><div class="pack-card">DRILL 4</div>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">Numerical Reasoning</h2>
-      <div class="pack-grid">
-        <div class="pack-card">NUM 1</div><div class="pack-card">NUM 2</div><div class="pack-card">NUM 3</div><div class="pack-card">NUM 4</div>
-        <div class="pack-card">NUM 5</div><div class="pack-card">NUM 6</div><div class="pack-card">NUM 7</div><div class="pack-card">NUM 8</div>
-        <div class="pack-card">NUM 9</div><div class="pack-card">NUM 10</div><div class="pack-card">NUM 11</div><div class="pack-card">NUM 12</div>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">Abstract Reasoning</h2>
-      <div class="pack-grid">
-        <div class="pack-card">ABSTRACT 1</div><div class="pack-card">ABSTRACT 2</div><div class="pack-card">ABSTRACT 3</div><div class="pack-card">ABSTRACT 4</div>
-        <div class="pack-card">ABSTRACT 5</div><div class="pack-card">ABSTRACT 6</div><div class="pack-card">ABSTRACT 7</div><div class="pack-card">ABSTRACT 8</div>
-        <div class="pack-card">ABSTRACT 9</div><div class="pack-card">ABSTRACT 10</div><div class="pack-card">ABSTRACT 11</div><div class="pack-card">ABSTRACT 12</div>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">EU Knowledge</h2>
-      <div class="pack-grid">
-        <div class="pack-card">EU 1</div><div class="pack-card">EU 2</div><div class="pack-card">EU 3</div><div class="pack-card">EU 4</div>
-        <div class="pack-card">EU 5</div><div class="pack-card">EU 6</div><div class="pack-card">EU 7</div><div class="pack-card">EU 8</div>
-        <div class="pack-card">EU 9</div><div class="pack-card">EU 10</div><div class="pack-card">EU 11</div><div class="pack-card">EU 12</div>
-      </div>
-    </div>
-    <div class="section-container">
-      <h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">Digital Skills</h2>
-      <div class="pack-grid">
-        <div class="pack-card">DS 1</div><div class="pack-card">DS 2</div><div class="pack-card">DS 3</div><div class="pack-card">DS 4</div>
-        <div class="pack-card">DS 5</div><div class="pack-card">DS 6</div><div class="pack-card">DS 7</div><div class="pack-card">DS 8</div>
-        <div class="pack-card">DS 9</div><div class="pack-card">DS 10</div><div class="pack-card">DS 11</div><div class="pack-card">DS 12</div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div id="login-screen">
     <div class="login-box">
         <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 15px;">EUROPEAN PORTAL</div>
@@ -151,7 +85,8 @@
         <input type="text" id="pass-input" autocomplete="off" maxlength="5" inputmode="numeric" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box; text-align:center; font-size:1.3em; letter-spacing: 4px;">
         <button onclick="unlock()" class="btn btn-primary" style="width:100%;">Access Portal</button>
         <p id="login-status" style="font-size:0.8em; color:#999; margin-top:10px; min-height:1.2em;"></p>
-        <p style="font-size:0.78em; color:#aaa; margin-top:14px;">Δεν έχεις κωδικό; <a href="https://postgradsuccess.org/exetaseis-asep" style="color:var(--eu-blue);">Τον βρίσκεις στο βιβλίο ΑΣΕΠ</a></p>
+        <p style="margin-top:14px;"><a href="portal-structure.html" target="_blank" style="font-size:0.8em; color:var(--eu-blue); text-decoration:underline;">🔍 Δες τη δομή της πύλης / See the portal structure</a></p>
+        <p style="font-size:0.78em; color:#aaa; margin-top:6px;">Δεν έχεις κωδικό; <a href="https://fylatos.com/shop/epso-unlocked" style="color:var(--eu-blue);">Τον βρίσκεις στο βιβλίο EPSO</a><br><span style="font-style:italic;">No code yet? <a href="https://fylatos.com/shop/epso-unlocked" style="color:var(--eu-blue);">Get it with the EPSO book</a></span></p>
     </div>
 </div>
 
